@@ -1,0 +1,6 @@
+id: think
+category: emotes
+type: emote
+command: /think
+tags: [emote, neutral]
+status: stable

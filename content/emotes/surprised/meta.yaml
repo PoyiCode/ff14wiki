@@ -1,0 +1,6 @@
+id: surprised
+category: emotes
+type: emote
+command: /surprised
+tags: [emote, neutral]
+status: stable

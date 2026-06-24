@@ -1,0 +1,6 @@
+id: blush
+category: emotes
+type: emote
+command: /blush
+tags: [emote, playful]
+status: stable

@@ -1,0 +1,6 @@
+id: salute
+category: emotes
+type: emote
+command: /salute
+tags: [emote, respect]
+status: stable

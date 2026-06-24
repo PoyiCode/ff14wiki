@@ -1,0 +1,6 @@
+id: fume
+category: emotes
+type: emote
+command: /fume
+tags: [emote, negative]
+status: stable

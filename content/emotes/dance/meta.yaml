@@ -1,0 +1,6 @@
+id: dance
+category: emotes
+type: emote
+command: /dance
+tags: [emote, playful]
+status: stable

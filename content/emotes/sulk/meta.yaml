@@ -1,0 +1,6 @@
+id: sulk
+category: emotes
+type: emote
+command: /sulk
+tags: [emote, negative]
+status: stable

@@ -1,0 +1,6 @@
+id: panic
+category: emotes
+type: emote
+command: /panic
+tags: [emote, negative]
+status: stable

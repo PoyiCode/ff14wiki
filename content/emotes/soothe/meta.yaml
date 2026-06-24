@@ -1,0 +1,6 @@
+id: soothe
+category: emotes
+type: emote
+command: /soothe
+tags: [emote, positive]
+status: stable

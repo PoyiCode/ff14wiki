@@ -1,0 +1,6 @@
+id: clap
+category: emotes
+type: emote
+command: /clap
+tags: [emote, positive]
+status: stable

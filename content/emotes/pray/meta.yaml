@@ -1,0 +1,6 @@
+id: pray
+category: emotes
+type: emote
+command: /pray
+tags: [emote, respect]
+status: stable

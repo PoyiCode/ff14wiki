@@ -1,0 +1,6 @@
+id: rally
+category: emotes
+type: emote
+command: /rally
+tags: [emote, positive]
+status: stable

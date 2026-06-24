@@ -1,0 +1,6 @@
+id: examineself
+category: emotes
+type: emote
+command: /examineself
+tags: [emote, playful]
+status: stable

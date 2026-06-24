@@ -1,0 +1,6 @@
+id: cheer
+category: emotes
+type: emote
+command: /cheer
+tags: [emote, positive]
+status: stable

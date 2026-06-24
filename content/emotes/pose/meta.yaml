@@ -1,0 +1,6 @@
+id: pose
+category: emotes
+type: emote
+command: /pose
+tags: [emote, playful]
+status: stable

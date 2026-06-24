@@ -1,0 +1,6 @@
+id: doubt
+category: emotes
+type: emote
+command: /doubt
+tags: [emote, neutral]
+status: stable

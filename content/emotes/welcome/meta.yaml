@@ -1,0 +1,6 @@
+id: welcome
+category: emotes
+type: emote
+command: /welcome
+tags: [emote, greeting]
+status: stable

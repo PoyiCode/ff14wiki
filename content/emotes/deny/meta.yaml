@@ -1,0 +1,6 @@
+id: deny
+category: emotes
+type: emote
+command: /deny
+tags: [emote, negative]
+status: stable

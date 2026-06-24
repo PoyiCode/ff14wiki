@@ -1,0 +1,6 @@
+id: disappointed
+category: emotes
+type: emote
+command: /disappointed
+tags: [emote, negative]
+status: stable

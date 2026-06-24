@@ -1,0 +1,6 @@
+id: yes
+category: emotes
+type: emote
+command: /yes
+tags: [emote, neutral]
+status: stable

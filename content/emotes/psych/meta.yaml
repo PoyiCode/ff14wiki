@@ -1,0 +1,6 @@
+id: psych
+category: emotes
+type: emote
+command: /psych
+tags: [emote, positive]
+status: stable

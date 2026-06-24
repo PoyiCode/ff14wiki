@@ -1,0 +1,6 @@
+id: sit
+category: emotes
+type: emote
+command: /sit
+tags: [emote, neutral]
+status: stable

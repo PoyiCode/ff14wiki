@@ -1,0 +1,6 @@
+id: upset
+category: emotes
+type: emote
+command: /upset
+tags: [emote, negative]
+status: stable

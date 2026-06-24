@@ -1,0 +1,6 @@
+id: kneel
+category: emotes
+type: emote
+command: /kneel
+tags: [emote, respect]
+status: stable

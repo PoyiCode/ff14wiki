@@ -1,0 +1,6 @@
+id: alert
+category: emotes
+type: emote
+command: /alert
+tags: [emote, neutral]
+status: stable

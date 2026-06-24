@@ -1,0 +1,6 @@
+id: comfort
+category: emotes
+type: emote
+command: /comfort
+tags: [emote, positive]
+status: stable

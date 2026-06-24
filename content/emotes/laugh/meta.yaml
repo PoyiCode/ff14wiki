@@ -1,0 +1,6 @@
+id: laugh
+category: emotes
+type: emote
+command: /laugh
+tags: [emote, positive]
+status: stable

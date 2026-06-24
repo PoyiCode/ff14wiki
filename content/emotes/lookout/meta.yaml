@@ -1,0 +1,6 @@
+id: lookout
+category: emotes
+type: emote
+command: /lookout
+tags: [emote, neutral]
+status: stable

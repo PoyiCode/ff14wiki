@@ -1,0 +1,6 @@
+id: hum
+category: emotes
+type: emote
+command: /hum
+tags: [emote, positive]
+status: stable

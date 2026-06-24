@@ -1,0 +1,6 @@
+id: grovel
+category: emotes
+type: emote
+command: /grovel
+tags: [emote, negative]
+status: stable

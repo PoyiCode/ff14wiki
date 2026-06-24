@@ -1,0 +1,6 @@
+id: cry
+category: emotes
+type: emote
+command: /cry
+tags: [emote, negative]
+status: stable

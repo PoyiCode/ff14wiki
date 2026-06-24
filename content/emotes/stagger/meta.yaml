@@ -1,0 +1,6 @@
+id: stagger
+category: emotes
+type: emote
+command: /stagger
+tags: [emote, negative]
+status: stable

@@ -1,0 +1,6 @@
+id: shrug
+category: emotes
+type: emote
+command: /shrug
+tags: [emote, neutral]
+status: stable

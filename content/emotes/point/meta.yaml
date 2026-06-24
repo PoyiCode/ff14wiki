@@ -1,0 +1,6 @@
+id: point
+category: emotes
+type: emote
+command: /point
+tags: [emote, neutral]
+status: stable

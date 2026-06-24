@@ -1,0 +1,6 @@
+id: congratulate
+category: emotes
+type: emote
+command: /congratulate
+tags: [emote, positive]
+status: stable

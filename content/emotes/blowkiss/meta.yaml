@@ -1,0 +1,6 @@
+id: blowkiss
+category: emotes
+type: emote
+command: /blowkiss
+tags: [emote, positive]
+status: stable

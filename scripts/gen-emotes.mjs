@@ -1,0 +1,192 @@
+#!/usr/bin/env node
+// 一次性生成 content/emotes/ 下的標準 emote 條目。
+// 慣例：command 為遊戲內 /指令（語言中立）；各語言只放名稱與一句說明。
+// 冪等：已存在的條目資料夾會跳過（保留 wave / bow 等手寫的詳細版本）。
+import fs from 'node:fs';
+import path from 'node:path';
+
+const EMOTES_DIR = path.join(process.cwd(), 'content', 'emotes');
+
+// 每筆：slug, cmd, mood, n(名稱 4 語), d(說明 4 語：表達什麼／居民何時用)
+const E = [
+  { slug: 'alert', cmd: '/alert', mood: 'neutral',
+    n: ['警覺', '警觉', '警戒', 'Alert'],
+    d: ['注意到狀況、提醒對方小心。', '注意到状况、提醒对方小心。', '異変に気づき、注意を促す。', 'Notice something and warn others to take care.'] },
+  { slug: 'angry', cmd: '/angry', mood: 'negative',
+    n: ['生氣', '生气', '怒る', 'Angry'],
+    d: ['表達生氣或不滿。', '表达生气或不满。', '怒りや不満を示す。', 'Show anger or displeasure.'] },
+  { slug: 'beckon', cmd: '/beckon', mood: 'greeting',
+    n: ['招手', '招手', '手招き', 'Beckon'],
+    d: ['招呼對方靠近過來。', '招呼对方靠近过来。', '相手を手招きして呼ぶ。', 'Wave someone over to come closer.'] },
+  { slug: 'blowkiss', cmd: '/blowkiss', mood: 'positive',
+    n: ['飛吻', '飞吻', '投げキッス', 'Blow Kiss'],
+    d: ['送出飛吻，表達親暱或感謝。', '送出飞吻，表达亲昵或感谢。', '投げキッスで親しみや感謝を伝える。', 'Blow a kiss to show affection or thanks.'] },
+  { slug: 'blush', cmd: '/blush', mood: 'playful',
+    n: ['臉紅', '脸红', '照れる', 'Blush'],
+    d: ['害羞臉紅。', '害羞脸红。', '照れて頬を赤らめる。', 'Blush bashfully.'] },
+  { slug: 'cheer', cmd: '/cheer', mood: 'positive',
+    n: ['歡呼', '欢呼', '応援', 'Cheer'],
+    d: ['為對方加油、喝采。', '为对方加油、喝采。', '相手を応援し歓声をあげる。', 'Cheer someone on with gusto.'] },
+  { slug: 'clap', cmd: '/clap', mood: 'positive',
+    n: ['鼓掌', '鼓掌', '拍手', 'Clap'],
+    d: ['拍手表示讚賞。', '拍手表示赞赏。', '拍手して称賛する。', 'Clap in appreciation.'] },
+  { slug: 'comfort', cmd: '/comfort', mood: 'positive',
+    n: ['安慰', '安慰', '慰める', 'Comfort'],
+    d: ['安慰沮喪的人。', '安慰沮丧的人。', '落ち込んだ相手を慰める。', 'Comfort someone who is downcast.'] },
+  { slug: 'congratulate', cmd: '/congratulate', mood: 'positive',
+    n: ['祝賀', '祝贺', '祝う', 'Congratulate'],
+    d: ['向對方道賀。', '向对方道贺。', '相手を祝福する。', 'Offer congratulations.'] },
+  { slug: 'cry', cmd: '/cry', mood: 'negative',
+    n: ['哭泣', '哭泣', '泣く', 'Cry'],
+    d: ['流淚、傷心。', '流泪、伤心。', '涙を流して悲しむ。', 'Weep in sorrow.'] },
+  { slug: 'dance', cmd: '/dance', mood: 'playful',
+    n: ['跳舞', '跳舞', '踊る', 'Dance'],
+    d: ['跳舞同樂，炒熱氣氛。', '跳舞同乐，炒热气氛。', '踊って場を盛り上げる。', 'Dance to liven up the mood.'] },
+  { slug: 'deny', cmd: '/deny', mood: 'negative',
+    n: ['否定', '否定', '拒否', 'Deny'],
+    d: ['強烈否定或拒絕。', '强烈否定或拒绝。', '強く否定・拒否する。', 'Firmly deny or refuse.'] },
+  { slug: 'disappointed', cmd: '/disappointed', mood: 'negative',
+    n: ['失望', '失望', '落胆', 'Disappointed'],
+    d: ['表達失望。', '表达失望。', '落胆を示す。', 'Show disappointment.'] },
+  { slug: 'doubt', cmd: '/doubt', mood: 'neutral',
+    n: ['懷疑', '怀疑', '疑う', 'Doubt'],
+    d: ['表示懷疑、不太相信。', '表示怀疑、不太相信。', '疑念を示す。', 'Express doubt or suspicion.'] },
+  { slug: 'doze', cmd: '/doze', mood: 'neutral',
+    n: ['打盹', '打盹', '居眠り', 'Doze'],
+    d: ['倒地打盹、休息。', '倒地打盹、休息。', '横になってうたた寝する。', 'Lie down and doze off.'] },
+  { slug: 'examineself', cmd: '/examineself', mood: 'playful',
+    n: ['端詳自己', '端详自己', '自分を見る', 'Examine Self'],
+    d: ['端詳自己的裝扮。', '端详自己的装扮。', '自分の身なりを確かめる。', 'Look yourself over.'] },
+  { slug: 'fume', cmd: '/fume', mood: 'negative',
+    n: ['不悅', '不悦', '憤慨', 'Fume'],
+    d: ['生悶氣、氣呼呼。', '生闷气、气呼呼。', 'ぷんぷんと怒る。', 'Fume with quiet anger.'] },
+  { slug: 'grovel', cmd: '/grovel', mood: 'negative',
+    n: ['下跪道歉', '下跪道歉', '土下座', 'Grovel'],
+    d: ['卑微地下跪道歉或懇求。', '卑微地下跪道歉或恳求。', '土下座して謝る・懇願する。', 'Grovel in apology or pleading.'] },
+  { slug: 'happy', cmd: '/happy', mood: 'positive',
+    n: ['開心', '开心', '喜ぶ', 'Happy'],
+    d: ['表達開心。', '表达开心。', '嬉しさを表す。', 'Show happiness.'] },
+  { slug: 'huh', cmd: '/huh', mood: 'neutral',
+    n: ['疑惑', '疑惑', 'えっ', 'Huh'],
+    d: ['沒聽懂、一頭霧水。', '没听懂、一头雾水。', '聞き返して戸惑う。', 'React with puzzlement.'] },
+  { slug: 'joy', cmd: '/joy', mood: 'positive',
+    n: ['雀躍', '雀跃', '大喜び', 'Joy'],
+    d: ['欣喜雀躍。', '欣喜雀跃。', '飛び跳ねて大喜びする。', 'Leap for joy.'] },
+  { slug: 'kneel', cmd: '/kneel', mood: 'respect',
+    n: ['單膝跪地', '单膝跪地', '跪く', 'Kneel'],
+    d: ['單膝跪地，致敬或請求。', '单膝跪地，致敬或请求。', '片膝をついて敬意や願いを示す。', 'Kneel on one knee in respect or entreaty.'] },
+  { slug: 'laugh', cmd: '/laugh', mood: 'positive',
+    n: ['大笑', '大笑', '笑う', 'Laugh'],
+    d: ['開懷大笑。', '开怀大笑。', '声をあげて笑う。', 'Laugh heartily.'] },
+  { slug: 'lookout', cmd: '/lookout', mood: 'neutral',
+    n: ['眺望', '眺望', '見渡す', 'Look Out'],
+    d: ['遠眺、欣賞風景。', '远眺、欣赏风景。', '遠くを眺める。', 'Gaze out at the view.'] },
+  { slug: 'no', cmd: '/no', mood: 'neutral',
+    n: ['搖頭', '摇头', 'いいえ', 'No'],
+    d: ['搖頭表示「不」。', '摇头表示“不”。', '首を振って「いいえ」を示す。', 'Shake your head for "no".'] },
+  { slug: 'panic', cmd: '/panic', mood: 'negative',
+    n: ['驚慌', '惊慌', '慌てる', 'Panic'],
+    d: ['驚慌失措。', '惊慌失措。', '慌てふためく。', 'Panic in a fluster.'] },
+  { slug: 'point', cmd: '/point', mood: 'neutral',
+    n: ['指向', '指向', '指さす', 'Point'],
+    d: ['指向某處或某人。', '指向某处或某人。', '何かを指さす。', 'Point at something or someone.'] },
+  { slug: 'poke', cmd: '/poke', mood: 'playful',
+    n: ['戳', '戳', 'つつく', 'Poke'],
+    d: ['戳一下，引起注意或調皮。', '戳一下，引起注意或调皮。', 'ちょんとつついて気を引く。', 'Poke to get attention or tease.'] },
+  { slug: 'pose', cmd: '/pose', mood: 'playful',
+    n: ['擺姿勢', '摆姿势', 'ポーズ', 'Pose'],
+    d: ['擺出帥氣姿勢。', '摆出帅气姿势。', '決めポーズをとる。', 'Strike a cool pose.'] },
+  { slug: 'pray', cmd: '/pray', mood: 'respect',
+    n: ['祈禱', '祈祷', '祈る', 'Pray'],
+    d: ['雙手合十祈禱、許願。', '双手合十祈祷、许愿。', '手を合わせて祈る。', 'Clasp your hands in prayer.'] },
+  { slug: 'psych', cmd: '/psych', mood: 'positive',
+    n: ['振作', '振作', '気合い', 'Psych'],
+    d: ['替自己或他人打氣。', '替自己或他人打气。', '気合いを入れる。', 'Psych yourself or others up.'] },
+  { slug: 'rally', cmd: '/rally', mood: 'positive',
+    n: ['號召', '号召', '鼓舞', 'Rally'],
+    d: ['鼓舞、號召眾人。', '鼓舞、号召众人。', 'みなを鼓舞する。', 'Rally and inspire the group.'] },
+  { slug: 'salute', cmd: '/salute', mood: 'respect',
+    n: ['敬禮', '敬礼', '敬礼', 'Salute'],
+    d: ['行軍禮致敬。', '行军礼致敬。', '敬礼する。', 'Give a crisp salute.'] },
+  { slug: 'shocked', cmd: '/shocked', mood: 'negative',
+    n: ['震驚', '震惊', '衝撃', 'Shocked'],
+    d: ['大為震驚。', '大为震惊。', '強い衝撃を受ける。', 'Be utterly shocked.'] },
+  { slug: 'shrug', cmd: '/shrug', mood: 'neutral',
+    n: ['聳肩', '耸肩', '肩をすくめる', 'Shrug'],
+    d: ['聳肩表示無奈或不知道。', '耸肩表示无奈或不知道。', '肩をすくめてやれやれと示す。', 'Shrug — who knows, or oh well.'] },
+  { slug: 'sit', cmd: '/sit', mood: 'neutral',
+    n: ['坐下', '坐下', '座る', 'Sit'],
+    d: ['坐下歇息。配合看夕陽等情境很自然。', '坐下歇息。配合看夕阳等情境很自然。', '腰を下ろして休む。夕日鑑賞などに合う。', 'Sit down to rest — natural for watching a sunset.'] },
+  { slug: 'soothe', cmd: '/soothe', mood: 'positive',
+    n: ['撫慰', '抚慰', 'なでる', 'Soothe'],
+    d: ['輕撫、稱讚對方。', '轻抚、称赞对方。', '相手をなでて労う。', 'Soothe and praise someone.'] },
+  { slug: 'stagger', cmd: '/stagger', mood: 'negative',
+    n: ['踉蹌', '踉跄', 'よろめく', 'Stagger'],
+    d: ['站不穩、大受打擊。', '站不稳、大受打击。', 'よろめいて衝撃を表す。', 'Stagger as if struck.'] },
+  { slug: 'stretch', cmd: '/stretch', mood: 'neutral',
+    n: ['伸展', '伸展', '伸び', 'Stretch'],
+    d: ['伸懶腰放鬆。', '伸懒腰放松。', '伸びをしてくつろぐ。', 'Stretch and relax.'] },
+  { slug: 'sulk', cmd: '/sulk', mood: 'negative',
+    n: ['賭氣', '赌气', 'すねる', 'Sulk'],
+    d: ['鬧脾氣、嘟嘴賭氣。', '闹脾气、嘟嘴赌气。', 'むくれてすねる。', 'Sulk in a huff.'] },
+  { slug: 'surprised', cmd: '/surprised', mood: 'neutral',
+    n: ['驚訝', '惊讶', '驚く', 'Surprised'],
+    d: ['吃了一驚。', '吃了一惊。', '驚いて見せる。', 'React with surprise.'] },
+  { slug: 'think', cmd: '/think', mood: 'neutral',
+    n: ['思考', '思考', '考える', 'Think'],
+    d: ['托腮陷入思考。', '托腮陷入思考。', '考え込む。', 'Ponder thoughtfully.'] },
+  { slug: 'upset', cmd: '/upset', mood: 'negative',
+    n: ['沮喪', '沮丧', '落ち込む', 'Upset'],
+    d: ['心煩、沮喪。', '心烦、沮丧。', '気を落とす。', 'Look upset and dejected.'] },
+  { slug: 'welcome', cmd: '/welcome', mood: 'greeting',
+    n: ['歡迎', '欢迎', '歓迎', 'Welcome'],
+    d: ['張開雙臂歡迎對方到來。', '张开双臂欢迎对方到来。', '両手を広げて歓迎する。', 'Welcome someone with open arms.'] },
+  { slug: 'yes', cmd: '/yes', mood: 'neutral',
+    n: ['點頭', '点头', 'はい', 'Yes'],
+    d: ['點頭表示「是」。', '点头表示“是”。', 'うなずいて「はい」を示す。', 'Nod for "yes".'] },
+  { slug: 'sigh', cmd: '/sigh', mood: 'negative',
+    n: ['嘆氣', '叹气', 'ため息', 'Sigh'],
+    d: ['無奈地嘆口氣。', '无奈地叹口气。', 'ため息をつく。', 'Let out a sigh.'] },
+  { slug: 'chuckle', cmd: '/chuckle', mood: 'playful',
+    n: ['竊笑', '窃笑', 'くすくす笑う', 'Chuckle'],
+    d: ['輕聲偷笑。', '轻声偷笑。', 'くすくすと笑う。', 'Chuckle quietly.'] },
+  { slug: 'hum', cmd: '/hum', mood: 'positive',
+    n: ['哼歌', '哼歌', '鼻歌', 'Hum'],
+    d: ['哼著小曲，心情輕鬆。', '哼着小曲，心情轻松。', '鼻歌を歌う。', 'Hum a tune, in good spirits.'] },
+  { slug: 'playdead', cmd: '/playdead', mood: 'playful',
+    n: ['裝死', '装死', '死んだふり', 'Play Dead'],
+    d: ['倒地裝死，搞笑用。', '倒地装死，搞笑用。', '倒れて死んだふりをする（おふざけ）。', 'Flop down and play dead for laughs.'] },
+];
+
+const PREFIX = {
+  'zh-TW': (cmd) => `指令 \`${cmd}\`。`,
+  'zh-CN': (cmd) => `指令 \`${cmd}\`。`,
+  ja: (cmd) => `コマンドは \`${cmd}\`。`,
+  en: (cmd) => `The command is \`${cmd}\`. `,
+};
+const LOCALES = ['zh-TW', 'zh-CN', 'ja', 'en'];
+
+let created = 0;
+let skipped = 0;
+for (const e of E) {
+  const dir = path.join(EMOTES_DIR, e.slug);
+  if (fs.existsSync(dir)) { skipped++; continue; }
+  fs.mkdirSync(dir, { recursive: true });
+
+  const meta =
+    `id: ${e.slug}\n` +
+    `category: emotes\n` +
+    `type: emote\n` +
+    `command: ${e.cmd}\n` +
+    `tags: [emote, ${e.mood}]\n` +
+    `status: stable\n`;
+  fs.writeFileSync(path.join(dir, 'meta.yaml'), meta);
+
+  LOCALES.forEach((loc, i) => {
+    const front = `---\ntitle: ${e.n[i]}\nsummary: ${e.d[i]}\n---\n\n${PREFIX[loc](e.cmd)}${e.d[i]}\n`;
+    fs.writeFileSync(path.join(dir, `${loc}.md`), front);
+  });
+  created++;
+}
+
+console.log(`emote 生成完成：新增 ${created}，跳過（已存在）${skipped}。`);

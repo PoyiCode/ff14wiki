@@ -1,0 +1,6 @@
+id: angry
+category: emotes
+type: emote
+command: /angry
+tags: [emote, negative]
+status: stable

@@ -1,0 +1,6 @@
+id: happy
+category: emotes
+type: emote
+command: /happy
+tags: [emote, positive]
+status: stable

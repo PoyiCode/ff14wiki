@@ -1,0 +1,6 @@
+id: poke
+category: emotes
+type: emote
+command: /poke
+tags: [emote, playful]
+status: stable

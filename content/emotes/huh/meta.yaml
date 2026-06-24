@@ -1,0 +1,6 @@
+id: huh
+category: emotes
+type: emote
+command: /huh
+tags: [emote, neutral]
+status: stable

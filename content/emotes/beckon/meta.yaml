@@ -1,0 +1,6 @@
+id: beckon
+category: emotes
+type: emote
+command: /beckon
+tags: [emote, greeting]
+status: stable

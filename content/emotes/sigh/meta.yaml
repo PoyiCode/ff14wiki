@@ -1,0 +1,6 @@
+id: sigh
+category: emotes
+type: emote
+command: /sigh
+tags: [emote, negative]
+status: stable

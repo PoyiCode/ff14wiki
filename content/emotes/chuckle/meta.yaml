@@ -1,0 +1,6 @@
+id: chuckle
+category: emotes
+type: emote
+command: /chuckle
+tags: [emote, playful]
+status: stable

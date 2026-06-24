@@ -1,0 +1,6 @@
+id: shocked
+category: emotes
+type: emote
+command: /shocked
+tags: [emote, negative]
+status: stable

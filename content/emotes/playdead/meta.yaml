@@ -1,0 +1,6 @@
+id: playdead
+category: emotes
+type: emote
+command: /playdead
+tags: [emote, playful]
+status: stable

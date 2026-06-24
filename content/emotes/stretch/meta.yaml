@@ -1,0 +1,6 @@
+id: stretch
+category: emotes
+type: emote
+command: /stretch
+tags: [emote, neutral]
+status: stable

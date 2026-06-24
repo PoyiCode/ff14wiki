@@ -1,0 +1,6 @@
+id: joy
+category: emotes
+type: emote
+command: /joy
+tags: [emote, positive]
+status: stable

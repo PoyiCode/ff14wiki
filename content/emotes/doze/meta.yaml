@@ -1,0 +1,6 @@
+id: doze
+category: emotes
+type: emote
+command: /doze
+tags: [emote, neutral]
+status: stable
