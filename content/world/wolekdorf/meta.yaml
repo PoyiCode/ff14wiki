@@ -1,0 +1,9 @@
+id: wolekdorf
+category: world
+type: aetheryte
+aetheryte: "Wolekdorf"
+region: "Norvrandt"
+zone: "Il Mheg"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

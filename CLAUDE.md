@@ -51,6 +51,21 @@ npm run lint       # next lint
 
 擴充分類或語言時，改 `src/lib/config.ts` 與 `scripts/validate-content.mjs`，兩處的常數要一致。
 
-## emote 條目的特殊處理
+## 從官方遊戲資料生成批次條目（資料來源與方法）
 
-`content/emotes/` 下涵蓋遊戲內**全部** emote 指令。批次條目由 `scripts/gen-all-emotes.mjs` 讀取 `scripts/emote-data.json` 生成——該 JSON 源自官方遊戲資料（emote 名稱與 `/指令` 取自 `xivapi/ffxiv-datamining`，簡中名取自 thewakingsands CN 資料，繁中以 OpenCC 由簡轉繁）。生成器**冪等**：資料夾（或其別名指令對應的資料夾）已存在就跳過，因此 `wave`、`bow`、`sit` 等手寫的詳細條目會被保留、不會被覆蓋。要補充某 emote 的細緻說明，直接編輯該條目的 `<locale>.md` 即可（之後重跑生成器也不會蓋掉）。
+大量且結構化的條目（emote、傳送點/地區…）**不手寫**，而是從官方遊戲資料生成，確保正確且可重現。每種採「資料 JSON（`scripts/*-data.json`）→ 生成器（`scripts/gen-*.mjs`）」模式，生成器**冪等**：資料夾已存在就跳過，因此手寫的詳細條目（`wave`、`bow`、`sit`、`limsa-lominsa` 等）會被保留、不被覆蓋。要補充細緻說明，直接編輯該條目的 `<locale>.md`（重跑生成器不會蓋掉）。
+
+現有生成器：
+- `scripts/gen-all-emotes.mjs` ← `scripts/emote-data.json`（全部 emote 指令）
+- `scripts/gen-geo.mjs` ← `scripts/aetheryte-data.json`（地區與傳送點 aetheryte）
+
+### 資料來源（皆取自 GitHub raw，本環境可直接 `curl`）
+
+- **遊戲本體資料**：`xivapi/ffxiv-datamining`（即 XIVAPI 的底層資料）的 `csv/en/`、`csv/ja/` 各資料表，如 `Emote.csv`、`TextCommand.csv`、`Aetheryte.csv`、`PlaceName.csv`、`TerritoryType.csv`。欄位常需互相 join（依欄名取得 column index；資料列為 `#` 欄是整數者，跳過前面的名稱/型別列）。
+- **簡體中文名**：`thewakingsands/ffxiv-datamining-cn`（根目錄各 `*.csv`，佈局與 EN 略異：id=col0、Name=col1）。
+- **繁體中文**：無官方來源，用 **OpenCC**（`BYVoid/OpenCC` 的 `data/dictionary/STPhrases.txt` + `STCharacters.txt`）由簡轉繁（先詞組長度匹配、再逐字）。
+- **日 / 英**：上述 datamining 的官方原文。
+
+取檔：`curl https://raw.githubusercontent.com/<repo>/<branch>/<path>`；要看目錄結構用 `https://api.github.com/repos/<owner>/<repo>/contents/<dir>`。
+
+> **重要：本執行環境的對外 proxy 實質上只通到 GitHub**（raw.githubusercontent.com / api.github.com）。XIVAPI 的 HTTP API（`xivapi.com`、`v2.xivapi.com`）與 **Garland Tools**（`garlandtools.org`）在此環境**連不到**（curl 得 000、WebFetch 得 403）。因此一律改用上述 GitHub raw 的 datamining 資料——內容等同 XIVAPI 的來源，且版本可控、可離線重跑。

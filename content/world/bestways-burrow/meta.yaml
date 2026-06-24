@@ -1,0 +1,9 @@
+id: bestways-burrow
+category: world
+type: aetheryte
+aetheryte: "Bestways Burrow"
+region: "The Sea of Stars"
+zone: "Mare Lamentorum"
+tags: [aetheryte, travel, teleport]
+related: [the-sea-of-stars]
+status: stable

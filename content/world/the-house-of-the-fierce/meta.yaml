@@ -1,0 +1,9 @@
+id: the-house-of-the-fierce
+category: world
+type: aetheryte
+aetheryte: "The House of the Fierce"
+region: "Othard"
+zone: "Yanxia"
+tags: [aetheryte, travel, teleport]
+related: [othard]
+status: stable

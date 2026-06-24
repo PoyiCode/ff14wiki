@@ -1,0 +1,9 @@
+id: swiftperch
+category: world
+type: aetheryte
+aetheryte: "Swiftperch"
+region: "La Noscea"
+zone: "Western La Noscea"
+tags: [aetheryte, travel, teleport]
+related: [la-noscea]
+status: stable

@@ -1,0 +1,6 @@
+---
+title: "奥萨德"
+summary: "世界的一个区域，含 8 个传送点。"
+---
+
+**奥萨德** 是这个世界的一个区域。域内传送点：Dhoro Iloh、Namai、Onokoro、Reunion、Tamamizu、The Dawn Throne、The Doman Enclave、The House of the Fierce。

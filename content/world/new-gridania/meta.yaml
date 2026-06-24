@@ -1,0 +1,8 @@
+id: new-gridania
+category: world
+type: aetheryte
+aetheryte: "New Gridania"
+region: "The Black Shroud"
+tags: [aetheryte, travel, teleport]
+related: [the-black-shroud]
+status: stable

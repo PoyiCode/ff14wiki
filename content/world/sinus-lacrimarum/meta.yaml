@@ -1,0 +1,9 @@
+id: sinus-lacrimarum
+category: world
+type: aetheryte
+aetheryte: "Sinus Lacrimarum"
+region: "The Sea of Stars"
+zone: "Mare Lamentorum"
+tags: [aetheryte, travel, teleport]
+related: [the-sea-of-stars]
+status: stable

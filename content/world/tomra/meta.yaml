@@ -1,0 +1,9 @@
+id: tomra
+category: world
+type: aetheryte
+aetheryte: "Tomra"
+region: "Norvrandt"
+zone: "Kholusia"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

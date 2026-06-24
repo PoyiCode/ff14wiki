@@ -1,0 +1,9 @@
+id: camp-broken-glass
+category: world
+type: aetheryte
+aetheryte: "Camp Broken Glass"
+region: "Ilsabard"
+zone: "Garlemald"
+tags: [aetheryte, travel, teleport]
+related: [ilsabard]
+status: stable

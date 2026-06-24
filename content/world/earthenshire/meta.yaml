@@ -1,0 +1,9 @@
+id: earthenshire
+category: world
+type: aetheryte
+aetheryte: "Earthenshire"
+region: "Yok Tural"
+zone: "Kozama'uka"
+tags: [aetheryte, travel, teleport]
+related: [yok-tural]
+status: stable

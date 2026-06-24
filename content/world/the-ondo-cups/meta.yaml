@@ -1,0 +1,9 @@
+id: the-ondo-cups
+category: world
+type: aetheryte
+aetheryte: "The Ondo Cups"
+region: "Norvrandt"
+zone: "The Tempest"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

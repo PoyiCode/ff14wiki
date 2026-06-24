@@ -1,0 +1,9 @@
+id: stilltide
+category: world
+type: aetheryte
+aetheryte: "Stilltide"
+region: "Norvrandt"
+zone: "Kholusia"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

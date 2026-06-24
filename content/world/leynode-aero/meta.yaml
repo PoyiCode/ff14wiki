@@ -1,0 +1,9 @@
+id: leynode-aero
+category: world
+type: aetheryte
+aetheryte: "Leynode Aero"
+region: "Unlost World"
+zone: "Living Memory"
+tags: [aetheryte, travel, teleport]
+related: [unlost-world]
+status: stable

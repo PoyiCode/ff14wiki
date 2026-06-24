@@ -1,0 +1,9 @@
+id: okhanu
+category: world
+type: aetheryte
+aetheryte: "Ok'hanu"
+region: "Yok Tural"
+zone: "Kozama'uka"
+tags: [aetheryte, travel, teleport]
+related: [yok-tural]
+status: stable

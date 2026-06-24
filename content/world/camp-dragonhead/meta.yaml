@@ -1,0 +1,9 @@
+id: camp-dragonhead
+category: world
+type: aetheryte
+aetheryte: "Camp Dragonhead"
+region: "Coerthas"
+zone: "Coerthas Central Highlands"
+tags: [aetheryte, travel, teleport]
+related: [coerthas]
+status: stable

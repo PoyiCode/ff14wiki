@@ -1,0 +1,9 @@
+id: anagnorisis
+category: world
+type: aetheryte
+aetheryte: "Anagnorisis"
+region: "The World Unsundered"
+zone: "Elpis"
+tags: [aetheryte, travel, teleport]
+related: [the-world-unsundered]
+status: stable

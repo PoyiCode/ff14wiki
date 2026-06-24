@@ -1,0 +1,9 @@
+id: anyx-trine
+category: world
+type: aetheryte
+aetheryte: "Anyx Trine"
+region: "Dravania"
+zone: "The Dravanian Forelands"
+tags: [aetheryte, travel, teleport]
+related: [dravania]
+status: stable

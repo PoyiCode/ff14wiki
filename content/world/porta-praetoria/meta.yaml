@@ -1,0 +1,9 @@
+id: porta-praetoria
+category: world
+type: aetheryte
+aetheryte: "Porta Praetoria"
+region: "Gyr Abania"
+zone: "The Lochs"
+tags: [aetheryte, travel, teleport]
+related: [gyr-abania]
+status: stable

@@ -1,0 +1,9 @@
+id: dhoro-iloh
+category: world
+type: aetheryte
+aetheryte: "Dhoro Iloh"
+region: "Othard"
+zone: "The Azim Steppe"
+tags: [aetheryte, travel, teleport]
+related: [othard]
+status: stable

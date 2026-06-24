@@ -1,0 +1,9 @@
+id: summerford-farms
+category: world
+type: aetheryte
+aetheryte: "Summerford Farms"
+region: "La Noscea"
+zone: "Middle La Noscea"
+tags: [aetheryte, travel, teleport]
+related: [la-noscea]
+status: stable

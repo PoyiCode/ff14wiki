@@ -1,0 +1,9 @@
+id: aporia
+category: world
+type: aetheryte
+aetheryte: "Aporia"
+region: "The Northern Empty"
+zone: "Labyrinthos"
+tags: [aetheryte, travel, teleport]
+related: [the-northern-empty]
+status: stable

@@ -1,0 +1,8 @@
+id: kugane
+category: world
+type: aetheryte
+aetheryte: "Kugane"
+region: "Hingashi"
+tags: [aetheryte, travel, teleport]
+related: [hingashi]
+status: stable

@@ -1,0 +1,9 @@
+id: reunion
+category: world
+type: aetheryte
+aetheryte: "Reunion"
+region: "Othard"
+zone: "The Azim Steppe"
+tags: [aetheryte, travel, teleport]
+related: [othard]
+status: stable

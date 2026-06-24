@@ -1,0 +1,9 @@
+id: black-brush-station
+category: world
+type: aetheryte
+aetheryte: "Black Brush Station"
+region: "Thanalan"
+zone: "Central Thanalan"
+tags: [aetheryte, travel, teleport]
+related: [thanalan]
+status: stable

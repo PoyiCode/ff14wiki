@@ -1,0 +1,8 @@
+id: the-gold-saucer
+category: world
+type: aetheryte
+aetheryte: "The Gold Saucer"
+region: "Thanalan"
+tags: [aetheryte, travel, teleport]
+related: [thanalan]
+status: stable

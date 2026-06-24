@@ -1,0 +1,9 @@
+id: ceruleum-processing-plant
+category: world
+type: aetheryte
+aetheryte: "Ceruleum Processing Plant"
+region: "Thanalan"
+zone: "Northern Thanalan"
+tags: [aetheryte, travel, teleport]
+related: [thanalan]
+status: stable

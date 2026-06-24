@@ -1,0 +1,9 @@
+id: the-great-work
+category: world
+type: aetheryte
+aetheryte: "The Great Work"
+region: "Ilsabard"
+zone: "Thavnair"
+tags: [aetheryte, travel, teleport]
+related: [ilsabard]
+status: stable

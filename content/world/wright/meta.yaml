@@ -1,0 +1,9 @@
+id: wright
+category: world
+type: aetheryte
+aetheryte: "Wright"
+region: "Norvrandt"
+zone: "Kholusia"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

@@ -1,0 +1,9 @@
+id: forgotten-springs
+category: world
+type: aetheryte
+aetheryte: "Forgotten Springs"
+region: "Thanalan"
+zone: "Southern Thanalan"
+tags: [aetheryte, travel, teleport]
+related: [thanalan]
+status: stable

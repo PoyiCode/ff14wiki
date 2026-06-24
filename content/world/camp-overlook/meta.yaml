@@ -1,0 +1,9 @@
+id: camp-overlook
+category: world
+type: aetheryte
+aetheryte: "Camp Overlook"
+region: "La Noscea"
+zone: "Outer La Noscea"
+tags: [aetheryte, travel, teleport]
+related: [la-noscea]
+status: stable

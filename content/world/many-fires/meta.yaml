@@ -1,0 +1,9 @@
+id: many-fires
+category: world
+type: aetheryte
+aetheryte: "Many Fires"
+region: "Yok Tural"
+zone: "Kozama'uka"
+tags: [aetheryte, travel, teleport]
+related: [yok-tural]
+status: stable

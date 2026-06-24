@@ -1,0 +1,9 @@
+id: slitherbough
+category: world
+type: aetheryte
+aetheryte: "Slitherbough"
+region: "Norvrandt"
+zone: "The Rak'tika Greatwood"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

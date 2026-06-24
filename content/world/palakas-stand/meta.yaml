@@ -1,0 +1,9 @@
+id: palakas-stand
+category: world
+type: aetheryte
+aetheryte: "Palaka's Stand"
+region: "Ilsabard"
+zone: "Thavnair"
+tags: [aetheryte, travel, teleport]
+related: [ilsabard]
+status: stable

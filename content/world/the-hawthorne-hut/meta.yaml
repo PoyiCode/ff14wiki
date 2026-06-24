@@ -1,0 +1,9 @@
+id: the-hawthorne-hut
+category: world
+type: aetheryte
+aetheryte: "The Hawthorne Hut"
+region: "The Black Shroud"
+zone: "East Shroud"
+tags: [aetheryte, travel, teleport]
+related: [the-black-shroud]
+status: stable

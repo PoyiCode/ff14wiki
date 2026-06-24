@@ -1,0 +1,9 @@
+id: moraby-drydocks
+category: world
+type: aetheryte
+aetheryte: "Moraby Drydocks"
+region: "La Noscea"
+zone: "Lower La Noscea"
+tags: [aetheryte, travel, teleport]
+related: [la-noscea]
+status: stable

@@ -1,0 +1,9 @@
+id: onokoro
+category: world
+type: aetheryte
+aetheryte: "Onokoro"
+region: "Othard"
+zone: "The Ruby Sea"
+tags: [aetheryte, travel, teleport]
+related: [othard]
+status: stable

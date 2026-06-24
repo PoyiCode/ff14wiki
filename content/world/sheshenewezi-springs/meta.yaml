@@ -1,0 +1,9 @@
+id: sheshenewezi-springs
+category: world
+type: aetheryte
+aetheryte: "Sheshenewezi Springs"
+region: "Xak Tural"
+zone: "Shaaloani"
+tags: [aetheryte, travel, teleport]
+related: [xak-tural]
+status: stable

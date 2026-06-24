@@ -1,0 +1,9 @@
+id: the-ostall-imperative
+category: world
+type: aetheryte
+aetheryte: "The Ostall Imperative"
+region: "Norvrandt"
+zone: "Lakeland"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

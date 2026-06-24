@@ -1,0 +1,9 @@
+id: helix
+category: world
+type: aetheryte
+aetheryte: "Helix"
+region: "Abalathia's Spine"
+zone: "Azys Lla"
+tags: [aetheryte, travel, teleport]
+related: [abalathias-spine]
+status: stable

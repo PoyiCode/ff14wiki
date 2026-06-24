@@ -1,0 +1,9 @@
+id: lydha-lran
+category: world
+type: aetheryte
+aetheryte: "Lydha Lran"
+region: "Norvrandt"
+zone: "Il Mheg"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

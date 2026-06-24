@@ -1,0 +1,9 @@
+id: zenith
+category: world
+type: aetheryte
+aetheryte: "Zenith"
+region: "Dravania"
+zone: "The Churning Mists"
+tags: [aetheryte, travel, teleport]
+related: [dravania]
+status: stable

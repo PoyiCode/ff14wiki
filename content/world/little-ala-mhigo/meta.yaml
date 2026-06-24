@@ -1,0 +1,9 @@
+id: little-ala-mhigo
+category: world
+type: aetheryte
+aetheryte: "Little Ala Mhigo"
+region: "Thanalan"
+zone: "Southern Thanalan"
+tags: [aetheryte, travel, teleport]
+related: [thanalan]
+status: stable

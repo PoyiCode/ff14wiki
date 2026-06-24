@@ -1,0 +1,9 @@
+id: electrope-strike
+category: world
+type: aetheryte
+aetheryte: "Electrope Strike"
+region: "Xak Tural"
+zone: "Heritage Found"
+tags: [aetheryte, travel, teleport]
+related: [xak-tural]
+status: stable

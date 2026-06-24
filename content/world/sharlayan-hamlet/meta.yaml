@@ -1,0 +1,9 @@
+id: sharlayan-hamlet
+category: world
+type: aetheryte
+aetheryte: "Sharlayan Hamlet"
+region: "The Northern Empty"
+zone: "Labyrinthos"
+tags: [aetheryte, travel, teleport]
+related: [the-northern-empty]
+status: stable

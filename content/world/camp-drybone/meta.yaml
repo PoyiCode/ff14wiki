@@ -1,0 +1,9 @@
+id: camp-drybone
+category: world
+type: aetheryte
+aetheryte: "Camp Drybone"
+region: "Thanalan"
+zone: "Eastern Thanalan"
+tags: [aetheryte, travel, teleport]
+related: [thanalan]
+status: stable

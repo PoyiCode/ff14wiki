@@ -1,0 +1,9 @@
+id: mamook
+category: world
+type: aetheryte
+aetheryte: "Mamook"
+region: "Yok Tural"
+zone: "Yak T'el"
+tags: [aetheryte, travel, teleport]
+related: [yok-tural]
+status: stable

@@ -1,0 +1,9 @@
+id: quarrymill
+category: world
+type: aetheryte
+aetheryte: "Quarrymill"
+region: "The Black Shroud"
+zone: "South Shroud"
+tags: [aetheryte, travel, teleport]
+related: [the-black-shroud]
+status: stable

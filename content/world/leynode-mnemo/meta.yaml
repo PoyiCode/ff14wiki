@@ -1,0 +1,9 @@
+id: leynode-mnemo
+category: world
+type: aetheryte
+aetheryte: "Leynode Mnemo"
+region: "Unlost World"
+zone: "Living Memory"
+tags: [aetheryte, travel, teleport]
+related: [unlost-world]
+status: stable

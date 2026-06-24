@@ -1,0 +1,9 @@
+id: base-omicron
+category: world
+type: aetheryte
+aetheryte: "Base Omicron"
+region: "The Sea of Stars"
+zone: "Ultima Thule"
+tags: [aetheryte, travel, teleport]
+related: [the-sea-of-stars]
+status: stable

@@ -1,0 +1,9 @@
+id: moghome
+category: world
+type: aetheryte
+aetheryte: "Moghome"
+region: "Dravania"
+zone: "The Churning Mists"
+tags: [aetheryte, travel, teleport]
+related: [dravania]
+status: stable

@@ -1,0 +1,9 @@
+id: wachunpelo
+category: world
+type: aetheryte
+aetheryte: "Wachunpelo"
+region: "Yok Tural"
+zone: "Urqopacha"
+tags: [aetheryte, travel, teleport]
+related: [yok-tural]
+status: stable

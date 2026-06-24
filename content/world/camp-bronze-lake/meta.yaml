@@ -1,0 +1,9 @@
+id: camp-bronze-lake
+category: world
+type: aetheryte
+aetheryte: "Camp Bronze Lake"
+region: "La Noscea"
+zone: "Upper La Noscea"
+tags: [aetheryte, travel, teleport]
+related: [la-noscea]
+status: stable

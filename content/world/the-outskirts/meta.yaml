@@ -1,0 +1,9 @@
+id: the-outskirts
+category: world
+type: aetheryte
+aetheryte: "The Outskirts"
+region: "Xak Tural"
+zone: "Heritage Found"
+tags: [aetheryte, travel, teleport]
+related: [xak-tural]
+status: stable

@@ -1,0 +1,9 @@
+id: ala-gannha
+category: world
+type: aetheryte
+aetheryte: "Ala Gannha"
+region: "Gyr Abania"
+zone: "The Peaks"
+tags: [aetheryte, travel, teleport]
+related: [gyr-abania]
+status: stable

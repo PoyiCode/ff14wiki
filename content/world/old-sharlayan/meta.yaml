@@ -1,0 +1,8 @@
+id: old-sharlayan
+category: world
+type: aetheryte
+aetheryte: "Old Sharlayan"
+region: "The Northern Empty"
+tags: [aetheryte, travel, teleport]
+related: [the-northern-empty]
+status: stable

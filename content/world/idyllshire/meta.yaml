@@ -1,0 +1,8 @@
+id: idyllshire
+category: world
+type: aetheryte
+aetheryte: "Idyllshire"
+region: "Dravania"
+tags: [aetheryte, travel, teleport]
+related: [dravania]
+status: stable

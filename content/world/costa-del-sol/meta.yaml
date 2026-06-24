@@ -1,0 +1,9 @@
+id: costa-del-sol
+category: world
+type: aetheryte
+aetheryte: "Costa del Sol"
+region: "La Noscea"
+zone: "Eastern La Noscea"
+tags: [aetheryte, travel, teleport]
+related: [la-noscea]
+status: stable

@@ -1,0 +1,9 @@
+id: mehwahhetsoan
+category: world
+type: aetheryte
+aetheryte: "Mehwahhetsoan"
+region: "Xak Tural"
+zone: "Shaaloani"
+tags: [aetheryte, travel, teleport]
+related: [xak-tural]
+status: stable

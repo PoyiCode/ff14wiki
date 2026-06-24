@@ -1,0 +1,9 @@
+id: horizon
+category: world
+type: aetheryte
+aetheryte: "Horizon"
+region: "Thanalan"
+zone: "Western Thanalan"
+tags: [aetheryte, travel, teleport]
+related: [thanalan]
+status: stable

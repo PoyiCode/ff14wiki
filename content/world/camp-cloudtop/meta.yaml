@@ -1,0 +1,9 @@
+id: camp-cloudtop
+category: world
+type: aetheryte
+aetheryte: "Camp Cloudtop"
+region: "Abalathia's Spine"
+zone: "The Sea of Clouds"
+tags: [aetheryte, travel, teleport]
+related: [abalathias-spine]
+status: stable

@@ -1,0 +1,8 @@
+id: limsa-lominsa-lower-decks
+category: world
+type: aetheryte
+aetheryte: "Limsa Lominsa Lower Decks"
+region: "La Noscea"
+tags: [aetheryte, travel, teleport]
+related: [la-noscea]
+status: stable

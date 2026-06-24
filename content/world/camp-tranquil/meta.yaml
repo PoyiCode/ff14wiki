@@ -1,0 +1,9 @@
+id: camp-tranquil
+category: world
+type: aetheryte
+aetheryte: "Camp Tranquil"
+region: "The Black Shroud"
+zone: "South Shroud"
+tags: [aetheryte, travel, teleport]
+related: [the-black-shroud]
+status: stable

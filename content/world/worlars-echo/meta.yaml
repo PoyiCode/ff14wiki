@@ -1,0 +1,9 @@
+id: worlars-echo
+category: world
+type: aetheryte
+aetheryte: "Worlar's Echo"
+region: "Yok Tural"
+zone: "Urqopacha"
+tags: [aetheryte, travel, teleport]
+related: [yok-tural]
+status: stable

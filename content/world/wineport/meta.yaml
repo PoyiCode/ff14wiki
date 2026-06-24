@@ -1,0 +1,9 @@
+id: wineport
+category: world
+type: aetheryte
+aetheryte: "Wineport"
+region: "La Noscea"
+zone: "Eastern La Noscea"
+tags: [aetheryte, travel, teleport]
+related: [la-noscea]
+status: stable

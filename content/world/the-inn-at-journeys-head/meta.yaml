@@ -1,0 +1,9 @@
+id: the-inn-at-journeys-head
+category: world
+type: aetheryte
+aetheryte: "The Inn at Journey's Head"
+region: "Norvrandt"
+zone: "Amh Araeng"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

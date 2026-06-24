@@ -1,0 +1,9 @@
+id: yedlihmad
+category: world
+type: aetheryte
+aetheryte: "Yedlihmad"
+region: "Ilsabard"
+zone: "Thavnair"
+tags: [aetheryte, travel, teleport]
+related: [ilsabard]
+status: stable

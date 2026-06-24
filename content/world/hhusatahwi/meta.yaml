@@ -1,0 +1,9 @@
+id: hhusatahwi
+category: world
+type: aetheryte
+aetheryte: "Hhusatahwi"
+region: "Xak Tural"
+zone: "Shaaloani"
+tags: [aetheryte, travel, teleport]
+related: [xak-tural]
+status: stable

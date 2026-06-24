@@ -1,0 +1,9 @@
+id: ala-ghiri
+category: world
+type: aetheryte
+aetheryte: "Ala Ghiri"
+region: "Gyr Abania"
+zone: "The Peaks"
+tags: [aetheryte, travel, teleport]
+related: [gyr-abania]
+status: stable

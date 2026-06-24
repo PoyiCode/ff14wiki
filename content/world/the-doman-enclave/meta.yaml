@@ -1,0 +1,8 @@
+id: the-doman-enclave
+category: world
+type: aetheryte
+aetheryte: "The Doman Enclave"
+region: "Othard"
+tags: [aetheryte, travel, teleport]
+related: [othard]
+status: stable

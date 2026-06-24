@@ -1,0 +1,8 @@
+id: the-crystarium
+category: world
+type: aetheryte
+aetheryte: "The Crystarium"
+region: "Norvrandt"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

@@ -1,0 +1,9 @@
+id: reah-tahra
+category: world
+type: aetheryte
+aetheryte: "Reah Tahra"
+region: "The Sea of Stars"
+zone: "Ultima Thule"
+tags: [aetheryte, travel, teleport]
+related: [the-sea-of-stars]
+status: stable

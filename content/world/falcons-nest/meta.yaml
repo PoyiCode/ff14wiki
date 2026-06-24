@@ -1,0 +1,9 @@
+id: falcons-nest
+category: world
+type: aetheryte
+aetheryte: "Falcon's Nest"
+region: "Coerthas"
+zone: "Coerthas Western Highlands"
+tags: [aetheryte, travel, teleport]
+related: [coerthas]
+status: stable

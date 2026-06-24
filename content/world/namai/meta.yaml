@@ -1,0 +1,9 @@
+id: namai
+category: world
+type: aetheryte
+aetheryte: "Namai"
+region: "Othard"
+zone: "Yanxia"
+tags: [aetheryte, travel, teleport]
+related: [othard]
+status: stable

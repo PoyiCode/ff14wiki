@@ -1,0 +1,9 @@
+id: ok-zundu
+category: world
+type: aetheryte
+aetheryte: "Ok' Zundu"
+region: "Abalathia's Spine"
+zone: "The Sea of Clouds"
+tags: [aetheryte, travel, teleport]
+related: [abalathias-spine]
+status: stable

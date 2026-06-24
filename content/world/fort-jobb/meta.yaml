@@ -1,0 +1,9 @@
+id: fort-jobb
+category: world
+type: aetheryte
+aetheryte: "Fort Jobb"
+region: "Norvrandt"
+zone: "Lakeland"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

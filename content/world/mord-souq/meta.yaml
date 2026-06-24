@@ -1,0 +1,9 @@
+id: mord-souq
+category: world
+type: aetheryte
+aetheryte: "Mord Souq"
+region: "Norvrandt"
+zone: "Amh Araeng"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

@@ -1,0 +1,9 @@
+id: camp-bluefog
+category: world
+type: aetheryte
+aetheryte: "Camp Bluefog"
+region: "Thanalan"
+zone: "Northern Thanalan"
+tags: [aetheryte, travel, teleport]
+related: [thanalan]
+status: stable

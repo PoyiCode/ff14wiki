@@ -1,0 +1,8 @@
+id: foundation
+category: world
+type: aetheryte
+aetheryte: "Foundation"
+region: "Coerthas"
+tags: [aetheryte, travel, teleport]
+related: [coerthas]
+status: stable

@@ -1,0 +1,9 @@
+id: iq-braax
+category: world
+type: aetheryte
+aetheryte: "Iq Br'aax"
+region: "Yok Tural"
+zone: "Yak T'el"
+tags: [aetheryte, travel, teleport]
+related: [yok-tural]
+status: stable

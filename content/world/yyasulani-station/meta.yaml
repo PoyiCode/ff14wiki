@@ -1,0 +1,9 @@
+id: yyasulani-station
+category: world
+type: aetheryte
+aetheryte: "Yyasulani Station"
+region: "Xak Tural"
+zone: "Heritage Found"
+tags: [aetheryte, travel, teleport]
+related: [xak-tural]
+status: stable

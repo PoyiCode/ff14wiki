@@ -1,0 +1,9 @@
+id: the-peering-stones
+category: world
+type: aetheryte
+aetheryte: "The Peering Stones"
+region: "Gyr Abania"
+zone: "The Fringes"
+tags: [aetheryte, travel, teleport]
+related: [gyr-abania]
+status: stable

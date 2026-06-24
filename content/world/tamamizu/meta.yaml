@@ -1,0 +1,9 @@
+id: tamamizu
+category: world
+type: aetheryte
+aetheryte: "Tamamizu"
+region: "Othard"
+zone: "The Ruby Sea"
+tags: [aetheryte, travel, teleport]
+related: [othard]
+status: stable

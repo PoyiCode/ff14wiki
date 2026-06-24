@@ -1,0 +1,9 @@
+id: tailfeather
+category: world
+type: aetheryte
+aetheryte: "Tailfeather"
+region: "Dravania"
+zone: "The Dravanian Forelands"
+tags: [aetheryte, travel, teleport]
+related: [dravania]
+status: stable

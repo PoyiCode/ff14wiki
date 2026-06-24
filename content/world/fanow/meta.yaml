@@ -1,0 +1,9 @@
+id: fanow
+category: world
+type: aetheryte
+aetheryte: "Fanow"
+region: "Norvrandt"
+zone: "The Rak'tika Greatwood"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

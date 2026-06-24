@@ -1,0 +1,9 @@
+id: leynode-pyro
+category: world
+type: aetheryte
+aetheryte: "Leynode Pyro"
+region: "Unlost World"
+zone: "Living Memory"
+tags: [aetheryte, travel, teleport]
+related: [unlost-world]
+status: stable

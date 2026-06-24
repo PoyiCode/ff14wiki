@@ -1,0 +1,9 @@
+id: tertium
+category: world
+type: aetheryte
+aetheryte: "Tertium"
+region: "Ilsabard"
+zone: "Garlemald"
+tags: [aetheryte, travel, teleport]
+related: [ilsabard]
+status: stable

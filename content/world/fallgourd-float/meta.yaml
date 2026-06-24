@@ -1,0 +1,9 @@
+id: fallgourd-float
+category: world
+type: aetheryte
+aetheryte: "Fallgourd Float"
+region: "The Black Shroud"
+zone: "North Shroud"
+tags: [aetheryte, travel, teleport]
+related: [the-black-shroud]
+status: stable

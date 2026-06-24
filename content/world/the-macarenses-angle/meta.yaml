@@ -1,0 +1,9 @@
+id: the-macarenses-angle
+category: world
+type: aetheryte
+aetheryte: "The Macarenses Angle"
+region: "Norvrandt"
+zone: "The Tempest"
+tags: [aetheryte, travel, teleport]
+related: [norvrandt]
+status: stable

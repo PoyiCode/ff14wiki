@@ -1,0 +1,9 @@
+id: castrum-oriens
+category: world
+type: aetheryte
+aetheryte: "Castrum Oriens"
+region: "Gyr Abania"
+zone: "The Fringes"
+tags: [aetheryte, travel, teleport]
+related: [gyr-abania]
+status: stable

@@ -1,0 +1,9 @@
+id: abode-of-the-ea
+category: world
+type: aetheryte
+aetheryte: "Abode of the Ea"
+region: "The Sea of Stars"
+zone: "Ultima Thule"
+tags: [aetheryte, travel, teleport]
+related: [the-sea-of-stars]
+status: stable

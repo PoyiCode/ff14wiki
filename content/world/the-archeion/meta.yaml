@@ -1,0 +1,9 @@
+id: the-archeion
+category: world
+type: aetheryte
+aetheryte: "The Archeion"
+region: "The Northern Empty"
+zone: "Labyrinthos"
+tags: [aetheryte, travel, teleport]
+related: [the-northern-empty]
+status: stable

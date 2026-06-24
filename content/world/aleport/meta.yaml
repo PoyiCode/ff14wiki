@@ -1,0 +1,9 @@
+id: aleport
+category: world
+type: aetheryte
+aetheryte: "Aleport"
+region: "La Noscea"
+zone: "Western La Noscea"
+tags: [aetheryte, travel, teleport]
+related: [la-noscea]
+status: stable
