@@ -1,5 +1,6 @@
 id: norvrandt
 category: world
 type: region
+related: [lakeland, kholusia, amh-araeng, il-mheg, the-rak-tika-greatwood, the-tempest, the-crystarium, eulmore]
 tags: [region, geography]
 status: stable
