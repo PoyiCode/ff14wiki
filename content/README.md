@@ -13,7 +13,10 @@ content/
       zh-CN.md       # 簡體中文
       ja.md          # 日文
       en.md          # 英文
+  _sources.yaml      # 資料版本與來源（provenance，非條目）
 ```
+
+> **資料版本**：批次條目所依據的遊戲版本與各資料來源的釘選 commit 記在 `content/_sources.yaml`（目前 FFXIV **7.51h2 / Dawntrail**）。重跑生成器更新資料後，請一併更新該檔。
 
 - `<category>`：必須是下列八種之一 —
   `world`、`locations`、`lore`、`culture`、`personas`、`activities`、`emotes`、`glossary`。
