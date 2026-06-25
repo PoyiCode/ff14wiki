@@ -1,0 +1,6 @@
+id: archon-burger
+category: food
+type: dish
+dish: "Archon Burger"
+tags: [food, cuisine]
+status: stable

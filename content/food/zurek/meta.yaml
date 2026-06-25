@@ -1,0 +1,6 @@
+id: zurek
+category: food
+type: dish
+dish: "Zurek"
+tags: [food, cuisine]
+status: stable

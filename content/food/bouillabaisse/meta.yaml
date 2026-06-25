@@ -1,0 +1,6 @@
+id: bouillabaisse
+category: food
+type: dish
+dish: "Bouillabaisse"
+tags: [food, cuisine]
+status: stable

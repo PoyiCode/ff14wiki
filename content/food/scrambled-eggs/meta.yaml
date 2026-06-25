@@ -1,0 +1,6 @@
+id: scrambled-eggs
+category: food
+type: dish
+dish: "Scrambled Eggs"
+tags: [food, cuisine]
+status: stable

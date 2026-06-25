@@ -1,0 +1,6 @@
+id: peach-juice
+category: food
+type: dish
+dish: "Peach Juice"
+tags: [food, cuisine]
+status: stable

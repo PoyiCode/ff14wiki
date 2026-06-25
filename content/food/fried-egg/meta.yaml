@@ -1,0 +1,6 @@
+id: fried-egg
+category: food
+type: dish
+dish: "Fried Egg"
+tags: [food, cuisine]
+status: stable

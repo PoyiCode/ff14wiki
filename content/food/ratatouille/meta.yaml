@@ -1,0 +1,6 @@
+id: ratatouille
+category: food
+type: dish
+dish: "Ratatouille"
+tags: [food, cuisine]
+status: stable

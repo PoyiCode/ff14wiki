@@ -1,0 +1,6 @@
+id: dodo-omelette
+category: food
+type: dish
+dish: "Dodo Omelette"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: pastry-fish
+category: food
+type: dish
+dish: "Pastry Fish"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: oden
+category: food
+type: dish
+dish: "Oden"
+tags: [food, cuisine]
+status: stable

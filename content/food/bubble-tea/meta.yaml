@@ -1,0 +1,6 @@
+id: bubble-tea
+category: food
+type: dish
+dish: "Bubble Tea"
+tags: [food, cuisine]
+status: stable

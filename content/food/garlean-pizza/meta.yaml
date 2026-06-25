@@ -1,0 +1,6 @@
+id: garlean-pizza
+category: food
+type: dish
+dish: "Garlean Pizza"
+tags: [food, cuisine]
+status: stable

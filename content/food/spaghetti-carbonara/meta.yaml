@@ -1,0 +1,6 @@
+id: spaghetti-carbonara
+category: food
+type: dish
+dish: "Spaghetti Carbonara"
+tags: [food, cuisine]
+status: stable

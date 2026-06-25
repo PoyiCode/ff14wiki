@@ -1,0 +1,6 @@
+id: heart-chocolate
+category: food
+type: dish
+dish: "Heart Chocolate"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: kasha
+category: food
+type: dish
+dish: "Kasha"
+tags: [food, cuisine]
+status: stable

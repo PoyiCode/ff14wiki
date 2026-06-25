@@ -1,0 +1,6 @@
+id: crumpet
+category: food
+type: dish
+dish: "Crumpet"
+tags: [food, cuisine]
+status: stable

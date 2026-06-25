@@ -1,0 +1,6 @@
+id: chicken-and-mushrooms
+category: food
+type: dish
+dish: "Chicken and Mushrooms"
+tags: [food, cuisine]
+status: stable

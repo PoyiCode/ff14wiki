@@ -1,0 +1,6 @@
+id: boiled-lobster
+category: food
+type: dish
+dish: "Boiled Lobster"
+tags: [food, cuisine]
+status: stable

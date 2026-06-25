@@ -1,0 +1,6 @@
+id: steamed-staff
+category: food
+type: dish
+dish: "Steamed Staff"
+tags: [food, cuisine]
+status: stable

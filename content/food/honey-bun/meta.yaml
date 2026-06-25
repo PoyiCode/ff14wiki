@@ -1,0 +1,6 @@
+id: honey-bun
+category: food
+type: dish
+dish: "Honey Bun"
+tags: [food, cuisine]
+status: stable

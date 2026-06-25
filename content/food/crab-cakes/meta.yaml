@@ -1,0 +1,6 @@
+id: crab-cakes
+category: food
+type: dish
+dish: "Crab Cakes"
+tags: [food, cuisine]
+status: stable

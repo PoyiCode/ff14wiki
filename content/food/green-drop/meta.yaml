@@ -1,0 +1,6 @@
+id: green-drop
+category: food
+type: dish
+dish: "Green Drop"
+tags: [food, cuisine]
+status: stable

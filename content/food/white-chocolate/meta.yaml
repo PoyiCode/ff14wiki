@@ -1,0 +1,6 @@
+id: white-chocolate
+category: food
+type: dish
+dish: "White Chocolate"
+tags: [food, cuisine]
+status: stable

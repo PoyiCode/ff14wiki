@@ -1,0 +1,6 @@
+id: boiled-egg
+category: food
+type: dish
+dish: "Boiled Egg"
+tags: [food, cuisine]
+status: stable

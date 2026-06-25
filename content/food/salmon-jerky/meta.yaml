@@ -1,0 +1,6 @@
+id: salmon-jerky
+category: food
+type: dish
+dish: "Salmon Jerky"
+tags: [food, cuisine]
+status: stable

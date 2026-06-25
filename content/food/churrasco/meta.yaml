@@ -1,0 +1,6 @@
+id: churrasco
+category: food
+type: dish
+dish: "Churrasco"
+tags: [food, cuisine]
+status: stable

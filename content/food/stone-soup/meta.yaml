@@ -1,0 +1,6 @@
+id: stone-soup
+category: food
+type: dish
+dish: "Stone Soup"
+tags: [food, cuisine]
+status: stable

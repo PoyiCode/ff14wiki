@@ -1,0 +1,6 @@
+id: caramels
+category: food
+type: dish
+dish: "Caramels"
+tags: [food, cuisine]
+status: stable

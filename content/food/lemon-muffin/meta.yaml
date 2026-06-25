@@ -1,0 +1,6 @@
+id: lemon-muffin
+category: food
+type: dish
+dish: "Lemon Muffin"
+tags: [food, cuisine]
+status: stable

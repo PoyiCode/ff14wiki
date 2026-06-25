@@ -1,0 +1,6 @@
+id: warrior-s-stew
+category: food
+type: dish
+dish: "Warrior's Stew"
+tags: [food, cuisine]
+status: stable

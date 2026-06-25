@@ -1,0 +1,6 @@
+id: eel-pie
+category: food
+type: dish
+dish: "Eel Pie"
+tags: [food, cuisine]
+status: stable

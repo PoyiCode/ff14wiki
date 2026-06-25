@@ -1,0 +1,6 @@
+id: honey-croissant
+category: food
+type: dish
+dish: "Honey Croissant"
+tags: [food, cuisine]
+status: stable

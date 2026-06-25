@@ -1,0 +1,6 @@
+id: knight-s-bread
+category: food
+type: dish
+dish: "Knight's Bread"
+tags: [food, cuisine]
+status: stable

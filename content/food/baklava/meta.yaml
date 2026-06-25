@@ -1,0 +1,6 @@
+id: baklava
+category: food
+type: dish
+dish: "Baklava"
+tags: [food, cuisine]
+status: stable

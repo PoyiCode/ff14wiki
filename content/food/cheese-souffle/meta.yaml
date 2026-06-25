@@ -1,0 +1,6 @@
+id: cheese-souffle
+category: food
+type: dish
+dish: "Cheese Souffle"
+tags: [food, cuisine]
+status: stable

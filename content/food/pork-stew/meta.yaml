@@ -1,0 +1,6 @@
+id: pork-stew
+category: food
+type: dish
+dish: "Pork Stew"
+tags: [food, cuisine]
+status: stable

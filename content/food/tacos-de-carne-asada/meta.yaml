@@ -1,0 +1,6 @@
+id: tacos-de-carne-asada
+category: food
+type: dish
+dish: "Tacos de Carne Asada"
+tags: [food, cuisine]
+status: stable

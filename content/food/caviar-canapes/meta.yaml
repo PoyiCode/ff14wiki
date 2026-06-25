@@ -1,0 +1,6 @@
+id: caviar-canapes
+category: food
+type: dish
+dish: "Caviar Canapes"
+tags: [food, cuisine]
+status: stable

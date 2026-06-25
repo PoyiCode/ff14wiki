@@ -190,6 +190,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The vistas of the Sightseeing Log — scenic spots viewed by striking a set pose at a given place, time and weather. The basis for the bot to plan trips and sightseeing.',
     },
   },
+  {
+    key: 'food',
+    label: { 'zh-TW': '料理', 'zh-CN': '料理', ja: '料理', en: 'Food' },
+    description: {
+      'zh-TW': '艾歐澤亞的各式料理與其風味，讓 bot 能聊愛吃的菜、在酒館點餐、描述食物香氣。',
+      'zh-CN': '艾欧泽亚的各式料理与其风味，让 bot 能聊爱吃的菜、在酒馆点餐、描述食物香气。',
+      ja: 'エオルゼアの料理とその風味。botが好物を語り、酒場で注文し、料理の香りを描けるように。',
+      en: 'The dishes of Eorzea and their flavours, so the bot can chat about favourite foods, order at a tavern, and describe a meal.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

@@ -1,0 +1,6 @@
+id: frumenty
+category: food
+type: dish
+dish: "Frumenty"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: vegetable-soup
+category: food
+type: dish
+dish: "Vegetable Soup"
+tags: [food, cuisine]
+status: stable

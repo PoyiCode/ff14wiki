@@ -1,0 +1,6 @@
+id: nachos
+category: food
+type: dish
+dish: "Nachos"
+tags: [food, cuisine]
+status: stable

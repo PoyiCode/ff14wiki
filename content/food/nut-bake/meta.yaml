@@ -1,0 +1,6 @@
+id: nut-bake
+category: food
+type: dish
+dish: "Nut Bake"
+tags: [food, cuisine]
+status: stable

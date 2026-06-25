@@ -1,0 +1,6 @@
+id: bacon-bread
+category: food
+type: dish
+dish: "Bacon Bread"
+tags: [food, cuisine]
+status: stable

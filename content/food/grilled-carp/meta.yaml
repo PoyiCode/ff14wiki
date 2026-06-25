@@ -1,0 +1,6 @@
+id: grilled-carp
+category: food
+type: dish
+dish: "Grilled Carp"
+tags: [food, cuisine]
+status: stable

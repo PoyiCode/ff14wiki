@@ -1,0 +1,6 @@
+id: mulled-tea
+category: food
+type: dish
+dish: "Mulled Tea"
+tags: [food, cuisine]
+status: stable

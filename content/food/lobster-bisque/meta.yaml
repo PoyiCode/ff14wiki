@@ -1,0 +1,6 @@
+id: lobster-bisque
+category: food
+type: dish
+dish: "Lobster Bisque"
+tags: [food, cuisine]
+status: stable

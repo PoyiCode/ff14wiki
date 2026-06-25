@@ -1,0 +1,6 @@
+id: moqueca
+category: food
+type: dish
+dish: "Moqueca"
+tags: [food, cuisine]
+status: stable

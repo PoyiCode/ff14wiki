@@ -1,0 +1,6 @@
+id: roast-chicken
+category: food
+type: dish
+dish: "Roast Chicken"
+tags: [food, cuisine]
+status: stable

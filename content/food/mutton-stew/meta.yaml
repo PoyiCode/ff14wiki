@@ -1,0 +1,6 @@
+id: mutton-stew
+category: food
+type: dish
+dish: "Mutton Stew"
+tags: [food, cuisine]
+status: stable

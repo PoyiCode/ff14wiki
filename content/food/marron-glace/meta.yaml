@@ -1,0 +1,6 @@
+id: marron-glace
+category: food
+type: dish
+dish: "Marron Glace"
+tags: [food, cuisine]
+status: stable

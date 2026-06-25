@@ -1,0 +1,6 @@
+id: ishgardian-tea
+category: food
+type: dish
+dish: "Ishgardian Tea"
+tags: [food, cuisine]
+status: stable

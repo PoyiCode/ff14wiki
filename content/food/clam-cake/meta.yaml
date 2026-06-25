@@ -1,0 +1,6 @@
+id: clam-cake
+category: food
+type: dish
+dish: "Clam Cake"
+tags: [food, cuisine]
+status: stable

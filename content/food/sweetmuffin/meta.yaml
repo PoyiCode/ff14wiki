@@ -1,0 +1,6 @@
+id: sweetmuffin
+category: food
+type: dish
+dish: "Sweetmuffin"
+tags: [food, cuisine]
+status: stable

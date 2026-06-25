@@ -1,0 +1,6 @@
+id: sauerkraut
+category: food
+type: dish
+dish: "Sauerkraut"
+tags: [food, cuisine]
+status: stable

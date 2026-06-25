@@ -1,0 +1,6 @@
+id: yellow-drop
+category: food
+type: dish
+dish: "Yellow Drop"
+tags: [food, cuisine]
+status: stable

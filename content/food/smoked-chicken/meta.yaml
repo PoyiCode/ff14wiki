@@ -1,0 +1,6 @@
+id: smoked-chicken
+category: food
+type: dish
+dish: "Smoked Chicken"
+tags: [food, cuisine]
+status: stable

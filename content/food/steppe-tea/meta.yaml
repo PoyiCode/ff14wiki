@@ -1,0 +1,6 @@
+id: steppe-tea
+category: food
+type: dish
+dish: "Steppe Tea"
+tags: [food, cuisine]
+status: stable

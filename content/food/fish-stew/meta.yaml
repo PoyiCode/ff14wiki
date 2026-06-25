@@ -1,0 +1,6 @@
+id: fish-stew
+category: food
+type: dish
+dish: "Fish Stew"
+tags: [food, cuisine]
+status: stable

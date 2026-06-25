@@ -1,0 +1,6 @@
+id: gyros
+category: food
+type: dish
+dish: "Gyros"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: gateau-au-chocolat
+category: food
+type: dish
+dish: "Gateau au Chocolat"
+tags: [food, cuisine]
+status: stable

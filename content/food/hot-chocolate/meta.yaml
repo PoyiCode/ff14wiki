@@ -1,0 +1,6 @@
+id: hot-chocolate
+category: food
+type: dish
+dish: "Hot Chocolate"
+tags: [food, cuisine]
+status: stable

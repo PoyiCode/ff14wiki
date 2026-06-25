@@ -1,0 +1,6 @@
+id: mustard-eggs
+category: food
+type: dish
+dish: "Mustard Eggs"
+tags: [food, cuisine]
+status: stable

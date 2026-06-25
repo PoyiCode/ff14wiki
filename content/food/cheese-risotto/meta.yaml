@@ -1,0 +1,6 @@
+id: cheese-risotto
+category: food
+type: dish
+dish: "Cheese Risotto"
+tags: [food, cuisine]
+status: stable

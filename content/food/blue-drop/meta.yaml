@@ -1,0 +1,6 @@
+id: blue-drop
+category: food
+type: dish
+dish: "Blue Drop"
+tags: [food, cuisine]
+status: stable

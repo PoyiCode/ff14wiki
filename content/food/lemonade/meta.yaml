@@ -1,0 +1,6 @@
+id: lemonade
+category: food
+type: dish
+dish: "Lemonade"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: beef-stroganoff
+category: food
+type: dish
+dish: "Beef Stroganoff"
+tags: [food, cuisine]
+status: stable

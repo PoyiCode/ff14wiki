@@ -1,0 +1,6 @@
+id: baked-sole
+category: food
+type: dish
+dish: "Baked Sole"
+tags: [food, cuisine]
+status: stable

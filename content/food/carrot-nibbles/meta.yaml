@@ -1,0 +1,6 @@
+id: carrot-nibbles
+category: food
+type: dish
+dish: "Carrot Nibbles"
+tags: [food, cuisine]
+status: stable

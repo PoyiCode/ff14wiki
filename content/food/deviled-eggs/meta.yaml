@@ -1,0 +1,6 @@
+id: deviled-eggs
+category: food
+type: dish
+dish: "Deviled Eggs"
+tags: [food, cuisine]
+status: stable

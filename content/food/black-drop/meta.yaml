@@ -1,0 +1,6 @@
+id: black-drop
+category: food
+type: dish
+dish: "Black Drop"
+tags: [food, cuisine]
+status: stable

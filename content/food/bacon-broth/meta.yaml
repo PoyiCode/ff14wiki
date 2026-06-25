@@ -1,0 +1,6 @@
+id: bacon-broth
+category: food
+type: dish
+dish: "Bacon Broth"
+tags: [food, cuisine]
+status: stable

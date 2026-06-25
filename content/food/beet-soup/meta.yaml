@@ -1,0 +1,6 @@
+id: beet-soup
+category: food
+type: dish
+dish: "Beet Soup"
+tags: [food, cuisine]
+status: stable

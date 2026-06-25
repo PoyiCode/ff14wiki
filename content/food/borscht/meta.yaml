@@ -1,0 +1,6 @@
+id: borscht
+category: food
+type: dish
+dish: "Borscht"
+tags: [food, cuisine]
+status: stable

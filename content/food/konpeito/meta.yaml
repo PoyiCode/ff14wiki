@@ -1,0 +1,6 @@
+id: konpeito
+category: food
+type: dish
+dish: "Konpeito"
+tags: [food, cuisine]
+status: stable

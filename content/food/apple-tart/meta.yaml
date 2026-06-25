@@ -1,0 +1,6 @@
+id: apple-tart
+category: food
+type: dish
+dish: "Apple Tart"
+tags: [food, cuisine]
+status: stable

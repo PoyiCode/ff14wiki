@@ -1,0 +1,6 @@
+id: beef-stew
+category: food
+type: dish
+dish: "Beef Stew"
+tags: [food, cuisine]
+status: stable

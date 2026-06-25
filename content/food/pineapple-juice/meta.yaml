@@ -1,0 +1,6 @@
+id: pineapple-juice
+category: food
+type: dish
+dish: "Pineapple Juice"
+tags: [food, cuisine]
+status: stable

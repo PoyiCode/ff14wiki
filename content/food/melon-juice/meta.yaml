@@ -1,0 +1,6 @@
+id: melon-juice
+category: food
+type: dish
+dish: "Melon Juice"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: peach-tart
+category: food
+type: dish
+dish: "Peach Tart"
+tags: [food, cuisine]
+status: stable

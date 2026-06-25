@@ -1,0 +1,6 @@
+id: chicken-pasta
+category: food
+type: dish
+dish: "Chicken Pasta"
+tags: [food, cuisine]
+status: stable

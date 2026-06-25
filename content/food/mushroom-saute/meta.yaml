@@ -1,0 +1,6 @@
+id: mushroom-saute
+category: food
+type: dish
+dish: "Mushroom Saute"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: bubble-chocolate
+category: food
+type: dish
+dish: "Bubble Chocolate"
+tags: [food, cuisine]
+status: stable

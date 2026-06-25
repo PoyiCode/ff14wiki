@@ -1,0 +1,6 @@
+id: baba-ghanoush
+category: food
+type: dish
+dish: "Baba Ghanoush"
+tags: [food, cuisine]
+status: stable

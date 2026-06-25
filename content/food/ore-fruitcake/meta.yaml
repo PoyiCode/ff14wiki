@@ -1,0 +1,6 @@
+id: ore-fruitcake
+category: food
+type: dish
+dish: "Ore Fruitcake"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: walnut-bread
+category: food
+type: dish
+dish: "Walnut Bread"
+tags: [food, cuisine]
+status: stable

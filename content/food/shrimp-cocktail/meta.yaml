@@ -1,0 +1,6 @@
+id: shrimp-cocktail
+category: food
+type: dish
+dish: "Shrimp Cocktail"
+tags: [food, cuisine]
+status: stable

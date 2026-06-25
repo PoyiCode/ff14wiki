@@ -1,0 +1,6 @@
+id: grilled-rail
+category: food
+type: dish
+dish: "Grilled Rail"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: philosopher-s-sandwich
+category: food
+type: dish
+dish: "Philosopher's Sandwich"
+tags: [food, cuisine]
+status: stable

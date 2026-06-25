@@ -1,0 +1,6 @@
+id: clam-chowder
+category: food
+type: dish
+dish: "Clam Chowder"
+tags: [food, cuisine]
+status: stable

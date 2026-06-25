@@ -1,0 +1,6 @@
+id: grilled-dodo
+category: food
+type: dish
+dish: "Grilled Dodo"
+tags: [food, cuisine]
+status: stable

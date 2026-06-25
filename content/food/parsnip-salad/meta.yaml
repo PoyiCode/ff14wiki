@@ -1,0 +1,6 @@
+id: parsnip-salad
+category: food
+type: dish
+dish: "Parsnip Salad"
+tags: [food, cuisine]
+status: stable

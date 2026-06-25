@@ -1,0 +1,6 @@
+id: baguette
+category: food
+type: dish
+dish: "Baguette"
+tags: [food, cuisine]
+status: stable

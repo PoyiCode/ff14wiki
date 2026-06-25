@@ -1,0 +1,6 @@
+id: cornbread
+category: food
+type: dish
+dish: "Cornbread"
+tags: [food, cuisine]
+status: stable

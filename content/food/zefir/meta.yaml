@@ -1,0 +1,6 @@
+id: zefir
+category: food
+type: dish
+dish: "Zefir"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,7058 @@
+[
+ {
+  "slug": "marmot-steak",
+  "en": "Marmot Steak",
+  "n": {
+   "en": "Marmot Steak",
+   "zh-CN": "栗鼠肉排",
+   "zh-TW": "栗鼠肉排",
+   "ja": "マーモットステーキ"
+  },
+  "desc": {
+   "en": "A fillet of marmot grilled with sweet wild onions and pungent Garlean garlic.",
+   "zh-CN": "加了洋葱和大蒜的栗鼠肉排。",
+   "zh-TW": "加了洋蔥和大蒜的栗鼠肉排。",
+   "ja": "オニオンとガーリックを添えたマーモットのステーキ"
+  }
+ },
+ {
+  "slug": "grilled-dodo",
+  "en": "Grilled Dodo",
+  "n": {
+   "en": "Grilled Dodo",
+   "zh-CN": "渡渡鸟烤肉",
+   "zh-TW": "渡渡鳥烤肉",
+   "ja": "ドードーのグリル"
+  },
+  "desc": {
+   "en": "A lean dodo tenderloin grilled over an open flame.",
+   "zh-CN": "俾斯麦餐厅很受欢迎的菜品，烤渡渡鸟的胸肉。",
+   "zh-TW": "俾斯麥餐廳很受歡迎的菜品，烤渡渡鳥的胸肉。",
+   "ja": "ドードーの笹身の網焼き。レストラン｢ビスマルク｣の人気メニュー"
+  }
+ },
+ {
+  "slug": "mole-loaf",
+  "en": "Mole Loaf",
+  "n": {
+   "en": "Mole Loaf",
+   "zh-CN": "鼹鼠肉糕",
+   "zh-TW": "鼴鼠肉糕",
+   "ja": "モールローフ"
+  },
+  "desc": {
+   "en": "A moist, juicy loaf of ground mole meat and onions baked to a golden brown.",
+   "zh-CN": "用鼹鼠的肉末和切碎的洋葱混合做出的肉糕。",
+   "zh-TW": "用鼴鼠的肉末和切碎的洋蔥混合做出的肉糕。",
+   "ja": "モールの挽肉と刻みオニオンを練って焼き上げた料理"
+  }
+ },
+ {
+  "slug": "meat-miq-abob",
+  "en": "Meat Miq'abob",
+  "n": {
+   "en": "Meat Miq'abob",
+   "zh-CN": "猫魅风味山珍烤串",
+   "zh-TW": "貓魅風味山珍烤串",
+   "ja": "ミコッテ風山の幸串焼"
+  },
+  "desc": {
+   "en": "A traditional Keeper of the Moon dish consisting of tender dodo meat and ripe ruby tomatoes on a stick, roasted to perfection.",
+   "zh-CN": "护月之民的传统食物，将渡渡鸟肉和西红柿穿成一串用火烧烤。",
+   "zh-TW": "護月之民的傳統食物，將渡渡鳥肉和西紅柿穿成一串用火燒烤。",
+   "ja": "ドードーの肉やトマトを炙った、ムーンキーパー伝統の串焼き料理"
+  }
+ },
+ {
+  "slug": "antelope-steak",
+  "en": "Antelope Steak",
+  "n": {
+   "en": "Antelope Steak",
+   "zh-CN": "羚羊肉排",
+   "zh-TW": "羚羊肉排",
+   "ja": "アンテロープステーキ"
+  },
+  "desc": {
+   "en": "A slice of lean antelope meat charred on all sides.",
+   "zh-CN": "将富有弹性的羚羊肌肉用火充分烤熟而成。",
+   "zh-TW": "將富有彈性的羚羊肌肉用火充分烤熟而成。",
+   "ja": "引き締まったレイヨウの肉をこんがりと焼き上げた料理"
+  }
+ },
+ {
+  "slug": "aldgoat-steak",
+  "en": "Aldgoat Steak",
+  "n": {
+   "en": "Aldgoat Steak",
+   "zh-CN": "山羊肉排",
+   "zh-TW": "山羊肉排",
+   "ja": "大山羊ステーキ"
+  },
+  "desc": {
+   "en": "A traditional dish of the Highland Hyur consisting of a thick cut of aldgoat chuck charred over an open flame.",
+   "zh-CN": "高地之民的传统烧烤，将山羊的肉烤至半熟。",
+   "zh-TW": "高地之民的傳統燒烤，將山羊的肉烤至半熟。",
+   "ja": "大山羊の肉をレアで焼いた、ハイランダー伝統の網焼き料理"
+  }
+ },
+ {
+  "slug": "smoked-raptor",
+  "en": "Smoked Raptor",
+  "n": {
+   "en": "Smoked Raptor",
+   "zh-CN": "盗龙熏肉",
+   "zh-TW": "盜龍燻肉",
+   "ja": "スモークドラプトル"
+  },
+  "desc": {
+   "en": "A traditional Hellsguard staple consisting of a raptor leg smoked with aromatic wood chips.",
+   "zh-CN": "蜥蜴人独有风味的熏制盗龙腿肉。",
+   "zh-TW": "蜥蜴人獨有風味的熏製盜龍腿肉。",
+   "ja": "アマルジャ風ラプトルモモ肉の燻製"
+  }
+ },
+ {
+  "slug": "jerked-beef",
+  "en": "Jerked Beef",
+  "n": {
+   "en": "Jerked Beef",
+   "zh-CN": "牛肉干",
+   "zh-TW": "牛肉乾",
+   "ja": "ビーフジャーキー"
+  },
+  "desc": {
+   "en": "A thick strip of lean buffalo meat dried in the sun.",
+   "zh-CN": "水牛的牛肉干，在太阳下晒干制成。",
+   "zh-TW": "水牛的牛肉乾，在太陽下曬乾製成。",
+   "ja": "水牛の干し肉。保存食"
+  }
+ },
+ {
+  "slug": "eft-steak",
+  "en": "Eft Steak",
+  "n": {
+   "en": "Eft Steak",
+   "zh-CN": "水蜥肉排",
+   "zh-TW": "水蜥肉排",
+   "ja": "エフトステーキ"
+  },
+  "desc": {
+   "en": "A thick slab of gristly eft meat charred to an abyssal black.",
+   "zh-CN": "快火烧烤的水蜥尾肉，弹力十足。",
+   "zh-TW": "快火燒烤的水蜥尾肉，彈力十足。",
+   "ja": "弾力のあるエフトの尾肉を豪快に焼き上げた料理"
+  }
+ },
+ {
+  "slug": "sauteed-coeurl",
+  "en": "Sauteed Coeurl",
+  "n": {
+   "en": "Sauteed Coeurl",
+   "zh-CN": "葡萄酒煎豹肉",
+   "zh-TW": "葡萄酒煎豹肉",
+   "ja": "クァールのワインソテー"
+  },
+  "desc": {
+   "en": "Lean coeurl meat sautéed in creamy butter and a strong red wine to mask the gamy flavor.",
+   "zh-CN": "长须豹的肉配黄油煎炸，并加入香醇的葡萄酒调味。",
+   "zh-TW": "長鬚豹的肉配黃油煎炸，並加入香醇的葡萄酒調味。",
+   "ja": "ワインで香り付けした、クァール肉のバター炒め"
+  }
+ },
+ {
+  "slug": "roast-dodo",
+  "en": "Roast Dodo",
+  "n": {
+   "en": "Roast Dodo",
+   "zh-CN": "烤全渡渡鸟",
+   "zh-TW": "烤全渡渡鳥",
+   "ja": "ローストドードー"
+  },
+  "desc": {
+   "en": "A whole dodo slow-roasted over an open fire and stuffed with a savory blend of bread and nuts. Often used in year-end ceremonies as an offering to the Twelve.",
+   "zh-CN": "献给十二神的供品，用文火烧烤整只渡渡鸟。",
+   "zh-TW": "獻給十二神的供品，用文火燒烤整隻渡渡鳥。",
+   "ja": "十二神への供物となるドードーの丸焼き"
+  }
+ },
+ {
+  "slug": "boiled-egg",
+  "en": "Boiled Egg",
+  "n": {
+   "en": "Boiled Egg",
+   "zh-CN": "水煮蛋",
+   "zh-TW": "水煮蛋",
+   "ja": "ボイルドエッグ"
+  },
+  "desc": {
+   "en": "A boiled chicken egg.",
+   "zh-CN": "白水煮熟的鸡蛋。",
+   "zh-TW": "白水煮熟的雞蛋。",
+   "ja": "茹でた鶏卵"
+  }
+ },
+ {
+  "slug": "dodo-omelette",
+  "en": "Dodo Omelette",
+  "n": {
+   "en": "Dodo Omelette",
+   "zh-CN": "渡渡鸟蛋煎蛋卷",
+   "zh-TW": "渡渡鳥蛋煎蛋卷",
+   "ja": "ドードーオムレツ"
+  },
+  "desc": {
+   "en": "A traditional Plainsfolk dish made from deftly whisked dodo eggs fried in butter and expertly formed into a soft, fluffy mountain.",
+   "zh-CN": "平原之民的传统菜，用黄油煎渡渡鸟蛋。",
+   "zh-TW": "平原之民的傳統菜，用黃油煎渡渡鳥蛋。",
+   "ja": "ドードーの卵をバターで焼いた、プレーンフォーク伝統の卵料理"
+  }
+ },
+ {
+  "slug": "mustard-eggs",
+  "en": "Mustard Eggs",
+  "n": {
+   "en": "Mustard Eggs",
+   "zh-CN": "芥末蛋",
+   "zh-TW": "芥末蛋",
+   "ja": "マスタードエッグズ"
+  },
+  "desc": {
+   "en": "A complex dish consisting of a boiled egg covered in mustard. Preparation should only be attempted by the most skilled culinarians.",
+   "zh-CN": "将水煮蛋放到盛有芥末的容器中，对制作者的调配手法有很高的要求。",
+   "zh-TW": "將水煮蛋放到盛有芥末的容器中，對製作者的調配手法有很高的要求。",
+   "ja": "マスタードをかけた茹で卵"
+  }
+ },
+ {
+  "slug": "fried-egg",
+  "en": "Fried Egg",
+  "n": {
+   "en": "Fried Egg",
+   "zh-CN": "煎跳蜥蛋",
+   "zh-TW": "煎跳蜥蛋",
+   "ja": "フライドエッグ"
+  },
+  "desc": {
+   "en": "A puk egg fried in butter, sunny-side up.",
+   "zh-CN": "用黄油煎跳蜥蛋制作而成。",
+   "zh-TW": "用黃油煎跳蜥蛋製作而成。",
+   "ja": "プークの卵をバターで焼き上げた料理"
+  }
+ },
+ {
+  "slug": "scrambled-eggs",
+  "en": "Scrambled Eggs",
+  "n": {
+   "en": "Scrambled Eggs",
+   "zh-CN": "炒跳蜥蛋",
+   "zh-TW": "炒跳蜥蛋",
+   "ja": "スクランブルエッグ"
+  },
+  "desc": {
+   "en": "A breakfast dish consisting of several puk eggs scrambled and fried with white truffles.",
+   "zh-CN": "将跳蜥的蛋搅拌之后过油炒熟，里面还加入了白松露调味。",
+   "zh-TW": "將跳蜥的蛋攪拌之後過油炒熟，裏面還加入了白松露調味。",
+   "ja": "攪拌したプークの卵を炒め、隠し味にホワイトトリュフを加えた料理"
+  }
+ },
+ {
+  "slug": "deviled-eggs",
+  "en": "Deviled Eggs",
+  "n": {
+   "en": "Deviled Eggs",
+   "zh-CN": "辛辣蛋",
+   "zh-TW": "辛辣蛋",
+   "ja": "デビルドエッグズ"
+  },
+  "desc": {
+   "en": "Boiled eggs stuffed with creamed egg yolk and fish paste.",
+   "zh-CN": "将白肉鱼的肉末填入鸡蛋中制成。",
+   "zh-TW": "將白肉魚的肉末填入雞蛋中製成。",
+   "ja": "白身魚のすり身を卵に盛りつけた料理"
+  }
+ },
+ {
+  "slug": "apkallu-omelette",
+  "en": "Apkallu Omelette",
+  "n": {
+   "en": "Apkallu Omelette",
+   "zh-CN": "碧企鹅蛋卷",
+   "zh-TW": "碧企鵝蛋卷",
+   "ja": "アプカルオムレツ"
+  },
+  "desc": {
+   "en": "Apkallu eggs beaten and then cooked in rich butter until fluffy and light. A favorite in Vylbrand's coastal hamlets.",
+   "zh-CN": "拉诺西亚的名菜，将碧企鹅的蛋配上黄油制作而成。",
+   "zh-TW": "拉諾西亞的名菜，將碧企鵝的蛋配上黃油製作而成。",
+   "ja": "アプカルの卵をバターで焼いた、ラノシアの郷土料理"
+  }
+ },
+ {
+  "slug": "braised-pipira",
+  "en": "Braised Pipira",
+  "n": {
+   "en": "Braised Pipira",
+   "zh-CN": "红焖皮皮拉鱼",
+   "zh-TW": "紅燜皮皮拉魚",
+   "ja": "ベイクドピピラ"
+  },
+  "desc": {
+   "en": "A fresh pipira braised with creamy butter and chanterelle mushrooms.",
+   "zh-CN": "将皮皮拉鱼配上鸡油菌一起用黄油焖。",
+   "zh-TW": "將皮皮拉魚配上雞油菌一起用黃油燜。",
+   "ja": "ピピラとシャンテレールのバター蒸し焼き"
+  }
+ },
+ {
+  "slug": "tree-toad-legs",
+  "en": "Tree Toad Legs",
+  "n": {
+   "en": "Tree Toad Legs",
+   "zh-CN": "绿树蟾蜍腿",
+   "zh-TW": "綠樹蟾蜍腿",
+   "ja": "ツリートードレッグズ"
+  },
+  "desc": {
+   "en": "A generous portion of battered and fried tree toad legs served with a side of snails.",
+   "zh-CN": "将绿树蟾蜍的后腿裹上一层面衣后用油炸，同时还加有蜗牛调味。",
+   "zh-TW": "將綠樹蟾蜍的後腿裹上一層面衣後用油炸，同時還加有蝸牛調味。",
+   "ja": "ツリートードの足の衣揚げ。スネイル添え"
+  }
+ },
+ {
+  "slug": "boiled-crayfish",
+  "en": "Boiled Crayfish",
+  "n": {
+   "en": "Boiled Crayfish",
+   "zh-CN": "水煮蝲蛄",
+   "zh-TW": "水煮蝲蛄",
+   "ja": "ボイルドクレイフィッシュ"
+  },
+  "desc": {
+   "en": "A crayfish boiled in hot water.",
+   "zh-CN": "煮得很软的蝲蛄。",
+   "zh-TW": "煮得很軟的蝲蛄。",
+   "ja": "柔らかく茹でたザリガニ"
+  }
+ },
+ {
+  "slug": "grilled-trout",
+  "en": "Grilled Trout",
+  "n": {
+   "en": "Grilled Trout",
+   "zh-CN": "盐烤公主鳟",
+   "zh-TW": "鹽烤公主鱒",
+   "ja": "グリルドトラウト"
+  },
+  "desc": {
+   "en": "A fresh princess trout sprinkled with salt and grilled over an open flame.",
+   "zh-CN": "撒上盐之后烤制的公主鳟。",
+   "zh-TW": "撒上鹽之後烤制的公主鱒。",
+   "ja": "プリンセストラウトの塩焼き"
+  }
+ },
+ {
+  "slug": "grilled-carp",
+  "en": "Grilled Carp",
+  "n": {
+   "en": "Grilled Carp",
+   "zh-CN": "盐烤鲤鱼",
+   "zh-TW": "鹽烤鯉魚",
+   "ja": "グリルドカープ"
+  },
+  "desc": {
+   "en": "A plump maiden carp sprinkled with salt and grilled to perfection.",
+   "zh-CN": "撒上盐之后烤制的白妙鲤。",
+   "zh-TW": "撒上鹽之後烤制的白妙鯉。",
+   "ja": "塩をかけて炙ったメイデンカープ"
+  }
+ },
+ {
+  "slug": "salmon-meuniere",
+  "en": "Salmon Meuniere",
+  "n": {
+   "en": "Salmon Meuniere",
+   "zh-CN": "鲑鱼排",
+   "zh-TW": "鮭魚排",
+   "ja": "サーモンムニエル"
+  },
+  "desc": {
+   "en": "A traditional Keeper of the Moon dish consisting of a thick fillet of salmon breaded with flour and fried in rich butter and savory spices.",
+   "zh-CN": "逐日之民传统食物，将鲑鱼裹上小麦粉，再用黄油煎烤。",
+   "zh-TW": "逐日之民傳統食物，將鮭魚裹上小麥粉，再用黃油煎烤。",
+   "ja": "サーモンに小麦粉をまぶし、バター焼きしたサンシーカーの伝統料理"
+  }
+ },
+ {
+  "slug": "mugwort-carp",
+  "en": "Mugwort Carp",
+  "n": {
+   "en": "Mugwort Carp",
+   "zh-CN": "艾蒿烤鲤鱼",
+   "zh-TW": "艾蒿烤鯉魚",
+   "ja": "カープ＆マグワート"
+  },
+  "desc": {
+   "en": "This Velodyna carp has been covered with a copious amount of fragrant mugwort before being roasted over an open flame.",
+   "zh-CN": "将白妙鲤用艾蒿煨过之后再用火烧烤。",
+   "zh-TW": "將白妙鯉用艾蒿煨過之後再用火燒烤。",
+   "ja": "マグワートをまぶして炙ったベロジナカープ"
+  }
+ },
+ {
+  "slug": "stuffed-cabbage",
+  "en": "Stuffed Cabbage",
+  "n": {
+   "en": "Stuffed Cabbage",
+   "zh-CN": "包心甘蓝",
+   "zh-TW": "包心甘藍",
+   "ja": "パイクのキャベツ巻き"
+  },
+  "desc": {
+   "en": "A traditional Sea Wolf dish consisting of pike wrapped in cabbage and steamed until soft.",
+   "zh-CN": "北洋之民的传统菜肴，将狗鱼肉包进甘蓝卷中。",
+   "zh-TW": "北洋之民的傳統菜餚，將狗魚肉包進甘藍卷中。",
+   "ja": "パイクをキャベツで巻いたゼーヴォルフ伝統の料理"
+  }
+ },
+ {
+  "slug": "lava-toad-legs",
+  "en": "Lava Toad Legs",
+  "n": {
+   "en": "Lava Toad Legs",
+   "zh-CN": "熔岩蟾蜍腿",
+   "zh-TW": "熔岩蟾蜍腿",
+   "ja": "ラーヴァトードレッグズ"
+  },
+  "desc": {
+   "en": "A generous portion of battered and fried lava toad legs served with a side of snails.",
+   "zh-CN": "将熔岩蟾蜍的后腿裹上一层面衣后用油炸，同时还加有蜗牛调味。",
+   "zh-TW": "將熔岩蟾蜍的後腿裹上一層面衣後用油炸，同時還加有蝸牛調味。",
+   "ja": "ラーヴァトードの足の衣揚げ。スネイル添え"
+  }
+ },
+ {
+  "slug": "salt-cod",
+  "en": "Salt Cod",
+  "n": {
+   "en": "Salt Cod",
+   "zh-CN": "盐渍鳕鱼",
+   "zh-TW": "鹽漬鱈魚",
+   "ja": "ソルトコッド"
+  },
+  "desc": {
+   "en": "A tiger cod salted and sun-dried.",
+   "zh-CN": "盐渍过的虎纹鳕。",
+   "zh-TW": "鹽漬過的虎紋鱈。",
+   "ja": "塩漬けにしたタイガーコッド"
+  }
+ },
+ {
+  "slug": "raw-oyster",
+  "en": "Raw Oyster",
+  "n": {
+   "en": "Raw Oyster",
+   "zh-CN": "生鲜牡蛎",
+   "zh-TW": "生鮮牡蠣",
+   "ja": "ローオイスター"
+  },
+  "desc": {
+   "en": "A fresh, raw oyster, shucked and splashed with a squeeze of sun lemon.",
+   "zh-CN": "撒上柠檬汁的生鲜牡蛎。",
+   "zh-TW": "撒上檸檬汁的生鮮牡蠣。",
+   "ja": "レモンを一絞りした生ガキ"
+  }
+ },
+ {
+  "slug": "boiled-bream",
+  "en": "Boiled Bream",
+  "n": {
+   "en": "Boiled Bream",
+   "zh-CN": "水煮鲷鱼",
+   "zh-TW": "水煮鯛魚",
+   "ja": "ボイルドブリーム"
+  },
+  "desc": {
+   "en": "A whole bream boiled until thoroughly cooked, and then covered in a thick sauce.",
+   "zh-CN": "水煮勾芡的鲷鱼。",
+   "zh-TW": "水煮勾芡的鯛魚。",
+   "ja": "とろみをつけて茹でたブリーム"
+  }
+ },
+ {
+  "slug": "baked-sole",
+  "en": "Baked Sole",
+  "n": {
+   "en": "Baked Sole",
+   "zh-CN": "烤黑鳎",
+   "zh-TW": "烤黑鰨",
+   "ja": "ベイクドソール"
+  },
+  "desc": {
+   "en": "A thin slice of oven-baked black sole smothered in a gil bun sauce.",
+   "zh-CN": "浇上了金钱蘑汤汁的烤黑鳎。",
+   "zh-TW": "澆上了金錢蘑湯汁的烤黑鰨。",
+   "ja": "焼きブラックソールのギルバンソースがけ"
+  }
+ },
+ {
+  "slug": "tuna-miq-abob",
+  "en": "Tuna Miq'abob",
+  "n": {
+   "en": "Tuna Miq'abob",
+   "zh-CN": "猫魅风味海产烤串",
+   "zh-TW": "貓魅風味海產烤串",
+   "ja": "ミコッテ風海の幸串焼"
+  },
+  "desc": {
+   "en": "A traditional Seeker of the Sun dish consisting of light, flaky tuna and ripe peppers on a stick, roasted to perfection.",
+   "zh-CN": "逐日之民的传统食物，将金枪鱼肉穿成一串用火烧烤。",
+   "zh-TW": "逐日之民的傳統食物，將金槍魚肉穿成一串用火燒烤。",
+   "ja": "トゥーナを炙った、サンシーカー伝統の串焼き料理"
+  }
+ },
+ {
+  "slug": "salt-cod-puffs",
+  "en": "Salt Cod Puffs",
+  "n": {
+   "en": "Salt Cod Puffs",
+   "zh-CN": "油炸盐渍鳕鱼丸",
+   "zh-TW": "油炸鹽漬鱈魚丸",
+   "ja": "ソルトコッドパフ"
+  },
+  "desc": {
+   "en": "Balls of ground salt cod dipped in batter and fried in oil.",
+   "zh-CN": "用油炸的腌制鳕鱼馅的丸子。",
+   "zh-TW": "用油炸的醃製鱈魚餡的丸子。",
+   "ja": "ソルトコッド入りの揚げ団子"
+  }
+ },
+ {
+  "slug": "pan-fried-mahi-mahi",
+  "en": "Pan-fried Mahi-mahi",
+  "n": {
+   "en": "Pan-fried Mahi-mahi",
+   "zh-CN": "油炸鲯鳅块",
+   "zh-TW": "油炸鯕鰍塊",
+   "ja": "マヒマヒの揚げ焼き"
+  },
+  "desc": {
+   "en": "Fillets of fresh mahi-mahi covered in a light blanket of flour and fried in oil.",
+   "zh-CN": "将麻希鲯鳅的肉块裹上一层面衣，之后过油炸制而成。",
+   "zh-TW": "將麻希鯕鰍的肉塊裹上一層面衣，之後過油炸制而成。",
+   "ja": "衣をつけたマヒマヒの切り身を、多めの油で揚げ焼きにした料理"
+  }
+ },
+ {
+  "slug": "mutton-stew",
+  "en": "Mutton Stew",
+  "n": {
+   "en": "Mutton Stew",
+   "zh-CN": "清炖羊肉",
+   "zh-TW": "清燉羊肉",
+   "ja": "マトンシチュー"
+  },
+  "desc": {
+   "en": "A hearty stew made from lean mutton loin and a selection of freshly picked vegetables.",
+   "zh-CN": "羊肉炖蔬菜。",
+   "zh-TW": "羊肉燉蔬菜。",
+   "ja": "羊肉を野菜といっしょに煮込んだシチュー"
+  }
+ },
+ {
+  "slug": "lentils-and-chestnuts",
+  "en": "Lentils and Chestnuts",
+  "n": {
+   "en": "Lentils and Chestnuts",
+   "zh-CN": "小扁豆煮山栗",
+   "zh-TW": "小扁豆煮山栗",
+   "ja": "レンティル＆チェスナット"
+  },
+  "desc": {
+   "en": "A stew consisting of Lalafellin lentils and Gridanian chestnuts boiled in sour red wine.",
+   "zh-CN": "把小扁豆和山栗放到一起用红酒煮。",
+   "zh-TW": "把小扁豆和山栗放到一起用紅酒煮。",
+   "ja": "レンズ豆と山栗をワインで煮込んだシチュー"
+  }
+ },
+ {
+  "slug": "antelope-stew",
+  "en": "Antelope Stew",
+  "n": {
+   "en": "Antelope Stew",
+   "zh-CN": "清炖羚羊肉",
+   "zh-TW": "清燉羚羊肉",
+   "ja": "アンテロープシチュー"
+  },
+  "desc": {
+   "en": "A thick, flavorful soup made by simmering a variety of wild vegetables and antelope meat over low heat for several hours.",
+   "zh-CN": "羚羊肉炖蔬菜。",
+   "zh-TW": "羚羊肉燉蔬菜。",
+   "ja": "レイヨウの肉を野菜といっしょに煮込んだシチュー"
+  }
+ },
+ {
+  "slug": "orobon-stew",
+  "en": "Orobon Stew",
+  "n": {
+   "en": "Orobon Stew",
+   "zh-CN": "清炖鬼鮟鱇",
+   "zh-TW": "清燉鬼鮟鱇",
+   "ja": "オロボンシチュー"
+  },
+  "desc": {
+   "en": "A hearty soup made from the liver of an orobon.",
+   "zh-CN": "以鬼鮟鱇的肝为主料的炖菜，营养丰富。",
+   "zh-TW": "以鬼鮟鱇的肝爲主料的燉菜，營養豐富。",
+   "ja": "オロボンの肝を煮込んだ栄養たっぷりのシチュー"
+  }
+ },
+ {
+  "slug": "ratatouille",
+  "en": "Ratatouille",
+  "n": {
+   "en": "Ratatouille",
+   "zh-CN": "香烩时蔬",
+   "zh-TW": "香燴時蔬",
+   "ja": "ラタトゥイユ"
+  },
+  "desc": {
+   "en": "A nutritious soup made from a variety of vegetables sautéed in lavender oil.",
+   "zh-CN": "用薰衣草油炒制多种蔬菜，再用鸡高汤慢慢熬熟。",
+   "zh-TW": "用薰衣草油炒制多種蔬菜，再用雞高湯慢慢熬熟。",
+   "ja": "数種類の野菜をラベンダーオイルで炒め、煮込んだ野菜料理"
+  }
+ },
+ {
+  "slug": "beef-stew",
+  "en": "Beef Stew",
+  "n": {
+   "en": "Beef Stew",
+   "zh-CN": "清炖牛肉",
+   "zh-TW": "清燉牛肉",
+   "ja": "ビーフシチュー"
+  },
+  "desc": {
+   "en": "A sumptuous stew made by slowly cooking buffalo meat in sour red wine for several hours until it falls off the bone.",
+   "zh-CN": "用红酒慢慢炖出来的水牛肉。",
+   "zh-TW": "用紅酒慢慢燉出來的水牛肉。",
+   "ja": "水牛の肉をじっくりワインで煮込んだシチュー"
+  }
+ },
+ {
+  "slug": "dzemael-gratin",
+  "en": "Dzemael Gratin",
+  "n": {
+   "en": "Dzemael Gratin",
+   "zh-CN": "泽梅尔家风味焗菜",
+   "zh-TW": "澤梅爾家風味焗菜",
+   "ja": "ゼーメル家風グラタン"
+  },
+  "desc": {
+   "en": "Passed down through generations by the Dzemael family, this dish consists of thinly sliced popotoes and eft tails baked in a creamy white sauce.",
+   "zh-CN": "泽梅尔家的传统焗菜，食材为水蜥尾肉和新薯。",
+   "zh-TW": "澤梅爾家的傳統焗菜，食材爲水蜥尾肉和新薯。",
+   "ja": "エフトの尾やポポトを煮込んだゼーメル家伝統のグラタン"
+  }
+ },
+ {
+  "slug": "zoni",
+  "en": "Zoni",
+  "n": {
+   "en": "Zoni",
+   "zh-CN": "杂煮",
+   "zh-TW": "雜煮",
+   "ja": "雑煮"
+  },
+  "desc": {
+   "en": "A clear soup served on special occasions. Its origins are in the Far East.",
+   "zh-CN": "东方传来的一种汤菜，降神节必备。",
+   "zh-TW": "東方傳來的一種湯菜，降神節必備。",
+   "ja": "降神祭に欠かせない東方伝来の汁物料理"
+  }
+ },
+ {
+  "slug": "jack-o-lantern",
+  "en": "Jack-o'-lantern",
+  "n": {
+   "en": "Jack-o'-lantern",
+   "zh-CN": "杰克南瓜灯",
+   "zh-TW": "傑克南瓜燈",
+   "ja": "ジャック・オ・ランタン"
+  },
+  "desc": {
+   "en": "An ogre pumpkin carved into a grinning face and boiled in a sweet sauce.",
+   "zh-CN": "在煮熟的南瓜上刻出脸的形状。",
+   "zh-TW": "在煮熟的南瓜上刻出臉的形狀。",
+   "ja": "顔状に刳り抜いたカボチャの甘煮"
+  }
+ },
+ {
+  "slug": "parsnip-salad",
+  "en": "Parsnip Salad",
+  "n": {
+   "en": "Parsnip Salad",
+   "zh-CN": "高山萝卜沙拉",
+   "zh-TW": "高山蘿蔔沙拉",
+   "ja": "パースニップサラダ"
+  },
+  "desc": {
+   "en": "A salad made with fried parsnip slices and garnished with a drizzle of fragrant olive oil.",
+   "zh-CN": "将烤好的高山萝卜拌上橄榄油制成的沙拉。",
+   "zh-TW": "將烤好的高山蘿蔔拌上橄欖油製成的沙拉。",
+   "ja": "焼いたパースニップをオリーヴオイルで和えたサラダ"
+  }
+ },
+ {
+  "slug": "roasted-nopales",
+  "en": "Roasted Nopales",
+  "n": {
+   "en": "Roasted Nopales",
+   "zh-CN": "烤仙人掌叶",
+   "zh-TW": "烤仙人掌葉",
+   "ja": "ローストノパル"
+  },
+  "desc": {
+   "en": "Cactus leaves roasted like a steak and slathered in a colorful vegetable sauce.",
+   "zh-CN": "加有蔬菜汁的仙人掌叶，烤起来就像肉排一样。",
+   "zh-TW": "加有蔬菜汁的仙人掌葉，烤起來就像肉排一樣。",
+   "ja": "野菜のソースをかけたサボテンのステーキ"
+  }
+ },
+ {
+  "slug": "spinach-saute",
+  "en": "Spinach Saute",
+  "n": {
+   "en": "Spinach Saute",
+   "zh-CN": "煎菠菜",
+   "zh-TW": "煎菠菜",
+   "ja": "スピナッチソテー"
+  },
+  "desc": {
+   "en": "A simple dish consisting of Cieldalaes spinach sautéed in rich salted butter.",
+   "zh-CN": "黄油煎菠菜。",
+   "zh-TW": "黃油煎菠菜。",
+   "ja": "バターで炒めたホウレンソウのソテー"
+  }
+ },
+ {
+  "slug": "alligator-salad",
+  "en": "Alligator Salad",
+  "n": {
+   "en": "Alligator Salad",
+   "zh-CN": "鳄梨色拉",
+   "zh-TW": "鱷梨色拉",
+   "ja": "アリゲーターサラダ"
+  },
+  "desc": {
+   "en": "A simple salad made from slices of alligator pear tossed in dark vinegar.",
+   "zh-CN": "用鳄梨切片做成的色拉，加入了黑果醋调味。",
+   "zh-TW": "用鱷梨切片做成的色拉，加入了黑果醋調味。",
+   "ja": "バルサミコビネガーで味を調えたアリゲーターペアのサラダ"
+  }
+ },
+ {
+  "slug": "sauerkraut",
+  "en": "Sauerkraut",
+  "n": {
+   "en": "Sauerkraut",
+   "zh-CN": "酸泡菜",
+   "zh-TW": "酸泡菜",
+   "ja": "ザワークラウト"
+  },
+  "desc": {
+   "en": "Chopped midland cabbage pickled with salt. A staple on all Lominsan trade ships, as it is said to prevent the scurvy.",
+   "zh-CN": "用盐腌制的甘蓝细丝。",
+   "zh-TW": "用鹽醃製的甘藍細絲。",
+   "ja": "塩漬けにしたキャベツの繊切り"
+  }
+ },
+ {
+  "slug": "stuffed-artichoke",
+  "en": "Stuffed Artichoke",
+  "n": {
+   "en": "Stuffed Artichoke",
+   "zh-CN": "包心球蓟",
+   "zh-TW": "包心球薊",
+   "ja": "スタッフドアーティチョーク"
+  },
+  "desc": {
+   "en": "A roasted artichoke stuffed with a savory blend of pungent cheese and succulent crabmeat.",
+   "zh-CN": "将蟹肉和奶酪填入球蓟中一起用火烧烤。",
+   "zh-TW": "將蟹肉和奶酪填入球薊中一起用火燒烤。",
+   "ja": "カニとチーズを詰めて焼いたアーティチョーク"
+  }
+ },
+ {
+  "slug": "landtrap-salad",
+  "en": "Landtrap Salad",
+  "n": {
+   "en": "Landtrap Salad",
+   "zh-CN": "陷阱草沙拉",
+   "zh-TW": "陷阱草沙拉",
+   "ja": "ランドトラップサラダ"
+  },
+  "desc": {
+   "en": "A salad made with the still-twitching leaves of a landtrap and garnished with a drizzle of fragrant olive oil.",
+   "zh-CN": "将还在活动的陷阱草的叶子拌上橄榄油制成的沙拉。",
+   "zh-TW": "將還在活動的陷阱草的葉子拌上橄欖油製成的沙拉。",
+   "ja": "まだ動いているフライトラップの葉をオリーヴオイルで和えたサラダ"
+  }
+ },
+ {
+  "slug": "chanterelle-saute",
+  "en": "Chanterelle Saute",
+  "n": {
+   "en": "Chanterelle Saute",
+   "zh-CN": "煎鸡油菌",
+   "zh-TW": "煎雞油菌",
+   "ja": "キノコのソテー"
+  },
+  "desc": {
+   "en": "Wild chanterelles sautéed in butter.",
+   "zh-CN": "黄油煎鸡油菌。",
+   "zh-TW": "黃油煎雞油菌。",
+   "ja": "バターで炒めたシャンテレールのソテー"
+  }
+ },
+ {
+  "slug": "chicken-and-mushrooms",
+  "en": "Chicken and Mushrooms",
+  "n": {
+   "en": "Chicken and Mushrooms",
+   "zh-CN": "金钱蘑炒鸡肉",
+   "zh-TW": "金錢蘑炒雞肉",
+   "ja": "鶏肉キノコ炒め"
+  },
+  "desc": {
+   "en": "Simple, home-cooked fare consisting of chicken sautéed with gil buns.",
+   "zh-CN": "将鸡胸肉和金钱蘑一起炒的简单家庭菜。",
+   "zh-TW": "將雞胸肉和金錢蘑一起炒的簡單家庭菜。",
+   "ja": "鶏の胸肉とギルバンを炒めたシンプルな家庭料理"
+  }
+ },
+ {
+  "slug": "forest-miq-abob",
+  "en": "Forest Miq'abob",
+  "n": {
+   "en": "Forest Miq'abob",
+   "zh-CN": "猫魅风味森鲜烤串",
+   "zh-TW": "貓魅風味森鮮烤串",
+   "ja": "ミコッテ風森の幸串焼"
+  },
+  "desc": {
+   "en": "A traditional Keeper of the Moon dish consisting of freshly picked mushrooms on a stick, roasted to perfection.",
+   "zh-CN": "护月之民的传统食物，将蘑菇穿成一串用火烧烤。",
+   "zh-TW": "護月之民的傳統食物，將蘑菇穿成一串用火燒烤。",
+   "ja": "マッシュルームを炙った、ムーンキーパー伝統の串焼き料理"
+  }
+ },
+ {
+  "slug": "raptor-stew",
+  "en": "Raptor Stew",
+  "n": {
+   "en": "Raptor Stew",
+   "zh-CN": "清炖盗龙肉",
+   "zh-TW": "清燉盜龍肉",
+   "ja": "ラプトルシチュー"
+  },
+  "desc": {
+   "en": "A tender piece of lean raptor shank stewed with mushrooms. A Carline Canopy specialty.",
+   "zh-CN": "将盗龙的腿肉与食用菌一起炖，魔女咖啡馆的招牌菜。",
+   "zh-TW": "將盜龍的腿肉與食用菌一起燉，魔女咖啡館的招牌菜。",
+   "ja": "ラプトルのモモ肉をキノコといっしょに煮込んだ、カーラインカフェの名物メニュー"
+  }
+ },
+ {
+  "slug": "button-mushroom-saute",
+  "en": "Button Mushroom Saute",
+  "n": {
+   "en": "Button Mushroom Saute",
+   "zh-CN": "蒜炒草菇",
+   "zh-TW": "蒜炒草菇",
+   "ja": "キノコのガーリックソテー"
+  },
+  "desc": {
+   "en": "Freshly picked button mushrooms sautéed in olive oil and garlic.",
+   "zh-CN": "用橄榄油炒制的草菇，加入了大蒜调味。",
+   "zh-TW": "用橄欖油炒制的草菇，加入了大蒜調味。",
+   "ja": "オリーヴオイルと刻んだガーリックで炒めた、ボタンマッシュルームのソテー"
+  }
+ },
+ {
+  "slug": "buttons-in-a-blanket",
+  "en": "Buttons in a Blanket",
+  "n": {
+   "en": "Buttons in a Blanket",
+   "zh-CN": "草菇甘蓝卷",
+   "zh-TW": "草菇甘藍卷",
+   "ja": "キノコのキャベツ巻き"
+  },
+  "desc": {
+   "en": "Button mushrooms wrapped in parboiled cabbage and stewed in a savory soup.",
+   "zh-CN": "用过过热水的甘蓝将草菇卷起来下锅煮制而成。",
+   "zh-TW": "用過過熱水的甘藍將草菇捲起來下鍋煮制而成。",
+   "ja": "ボタンマッシュルームを、湯通ししたキャベツで包んで煮込んだ料理"
+  }
+ },
+ {
+  "slug": "black-truffle-risotto",
+  "en": "Black Truffle Risotto",
+  "n": {
+   "en": "Black Truffle Risotto",
+   "zh-CN": "黑松露烩饭",
+   "zh-TW": "黑松露燴飯",
+   "ja": "ブラックトリュフリゾット"
+  },
+  "desc": {
+   "en": "A creamy blend of rice and cheese, topped off with slices of rare, fragrant black truffle.",
+   "zh-CN": "米饭和珍稀的黑松露搭配到一起烹饪而成，还真是有些奢侈。",
+   "zh-TW": "米飯和珍稀的黑松露搭配到一起烹飪而成，還真是有些奢侈。",
+   "ja": "稀少なブラックトリュフを贅沢に盛りつけた雑炊"
+  }
+ },
+ {
+  "slug": "flatbread",
+  "en": "Flatbread",
+  "n": {
+   "en": "Flatbread",
+   "zh-CN": "煎饼",
+   "zh-TW": "煎餅",
+   "ja": "フラットブレッド"
+  },
+  "desc": {
+   "en": "Simple, unleavened bread made of flour and water.",
+   "zh-CN": "圆圆的煎饼。",
+   "zh-TW": "圓圓的煎餅。",
+   "ja": "円形の平焼きパン"
+  }
+ },
+ {
+  "slug": "walnut-bread",
+  "en": "Walnut Bread",
+  "n": {
+   "en": "Walnut Bread",
+   "zh-CN": "胡桃面包",
+   "zh-TW": "胡桃麪包",
+   "ja": "ウォルナットブレッド"
+  },
+  "desc": {
+   "en": "A soft white bread filled with fragrant walnuts.",
+   "zh-CN": "加入了胡桃的面包，味道很香。",
+   "zh-TW": "加入了胡桃的麪包，味道很香。",
+   "ja": "香ばしいクルミ入り食パン"
+  }
+ },
+ {
+  "slug": "honey-muffin",
+  "en": "Honey Muffin",
+  "n": {
+   "en": "Honey Muffin",
+   "zh-CN": "蜂蜜松饼",
+   "zh-TW": "蜂蜜鬆餅",
+   "ja": "ハニーマフィン"
+  },
+  "desc": {
+   "en": "A traditional Midlander cake made with a generous portion of honey.",
+   "zh-CN": "中原之民的传统点心，加入蜂蜜的小面包。",
+   "zh-TW": "中原之民的傳統點心，加入蜂蜜的小麪包。",
+   "ja": "ミッドランダー伝統の蜂蜜入り小型パン"
+  }
+ },
+ {
+  "slug": "dark-pretzel",
+  "en": "Dark Pretzel",
+  "n": {
+   "en": "Dark Pretzel",
+   "zh-CN": "心形卷饼",
+   "zh-TW": "心形捲餅",
+   "ja": "プレッツェル"
+  },
+  "desc": {
+   "en": "A traditional Dunesfolk bread twisted into the shape of a knot and sprinkled generously with coarse-ground salt before being baked to a deep brown.",
+   "zh-CN": "沙漠之民的传统盐味面包，形状像一个心形结扣。",
+   "zh-TW": "沙漠之民的傳統鹽味麪包，形狀像一個心形結釦。",
+   "ja": "結び目の形に焼いたデューンフォーク伝統の塩味のパン"
+  }
+ },
+ {
+  "slug": "cornbread",
+  "en": "Cornbread",
+  "n": {
+   "en": "Cornbread",
+   "zh-CN": "玉米面包",
+   "zh-TW": "玉米麪包",
+   "ja": "コーンブレッド"
+  },
+  "desc": {
+   "en": "A fluffy yellow bread made from cornmeal. A specialty at the Drowning Wench in Limsa Lominsa.",
+   "zh-CN": "沉溺海豚亭的招牌点心，新大陆风味的面包。",
+   "zh-TW": "沉溺海豚亭的招牌點心，新大陸風味的麪包。",
+   "ja": "溺れた海豚亭名物の新大陸風パン"
+  }
+ },
+ {
+  "slug": "acorn-cookie",
+  "en": "Acorn Cookie",
+  "n": {
+   "en": "Acorn Cookie",
+   "zh-CN": "橡果饼干",
+   "zh-TW": "橡果餅乾",
+   "ja": "エーコンクッキー"
+  },
+  "desc": {
+   "en": "A crisp cookie made with iron acorn paste. A favorite of the Qiqirn.",
+   "zh-CN": "加入铁帽橡果进行烤制的卢恩族风味饼干。",
+   "zh-TW": "加入鐵帽橡果進行烤制的盧恩族風味餅乾。",
+   "ja": "どんぐりを入れて焼いたキキルン風クッキー"
+  }
+ },
+ {
+  "slug": "knight-s-bread",
+  "en": "Knight's Bread",
+  "n": {
+   "en": "Knight's Bread",
+   "zh-CN": "骑士面包",
+   "zh-TW": "騎士麪包",
+   "ja": "ナイツブレッド"
+  },
+  "desc": {
+   "en": "A hard, leavened rye bread traditionally eaten by the knights of Ishgard.",
+   "zh-CN": "伊修加德的传统黑面包，口感有些硬。",
+   "zh-TW": "伊修加德的傳統黑麪包，口感有些硬。",
+   "ja": "堅く焼きしめたイシュガルド伝統のライ麦パン"
+  }
+ },
+ {
+  "slug": "la-noscean-toast",
+  "en": "La Noscean Toast",
+  "n": {
+   "en": "La Noscean Toast",
+   "zh-CN": "拉诺西亚吐司",
+   "zh-TW": "拉諾西亞吐司",
+   "ja": "ラノシアトースト"
+  },
+  "desc": {
+   "en": "A slice of bread soaked in a mixture of buffalo milk and eggs, and then fried in creamy butter. A specialty at the Drowning Wench in Limsa Lominsa.",
+   "zh-CN": "沉溺海豚亭的招牌点心，将面包裹上鸡蛋和水牛奶烤制而成。",
+   "zh-TW": "沉溺海豚亭的招牌點心，將麪包裹上雞蛋和水牛奶烤制而成。",
+   "ja": "パンを卵と水牛乳に浸して焼いた溺れた海豚亭の名物メニュー"
+  }
+ },
+ {
+  "slug": "finger-sandwich",
+  "en": "Finger Sandwich",
+  "n": {
+   "en": "Finger Sandwich",
+   "zh-CN": "俾斯麦鸡蛋三明治",
+   "zh-TW": "俾斯麥雞蛋三明治",
+   "ja": "ビスマルク風エッグサンド"
+  },
+  "desc": {
+   "en": "The Bismarck's take on a common meal popular amongst Galadion Bay's dockworkers.",
+   "zh-CN": "由俾斯麦的厨师们改良过的简单食物，主要面向港湾劳动者。",
+   "zh-TW": "由俾斯麥的廚師們改良過的簡單食物，主要面向港灣勞動者。",
+   "ja": "港湾労働者向けの素朴な料理に、レストラン「ビスマルク」の調理師がアレンジを加えた携帯食料"
+  }
+ },
+ {
+  "slug": "mizzenmast-biscuit",
+  "en": "Mizzenmast Biscuit",
+  "n": {
+   "en": "Mizzenmast Biscuit",
+   "zh-CN": "后桅饼干",
+   "zh-TW": "後桅餅乾",
+   "ja": "ミズンマスト印のクッキー"
+  },
+  "desc": {
+   "en": "A complimentary acorn treat baked by the Mizzenmast Inn. May contain nuts.",
+   "zh-CN": "后桅旅店为留宿者准备的一种橡果饼干。",
+   "zh-TW": "後桅旅店爲留宿者準備的一種橡果餅乾。",
+   "ja": "宿屋「ミズンマスト」が宿泊者のために用意したエーコンクッキー"
+  }
+ },
+ {
+  "slug": "roost-biscuit",
+  "en": "Roost Biscuit",
+  "n": {
+   "en": "Roost Biscuit",
+   "zh-CN": "栖木饼干",
+   "zh-TW": "棲木餅乾",
+   "ja": "とまり木印のクッキー"
+  },
+  "desc": {
+   "en": "A complimentary acorn treat baked by the Roost. May contain nuts.",
+   "zh-CN": "栖木旅馆为留宿者准备的一种橡果饼干。",
+   "zh-TW": "棲木旅館爲留宿者準備的一種橡果餅乾。",
+   "ja": "旅館「とまり木」が宿泊者のために用意したエーコンクッキー"
+  }
+ },
+ {
+  "slug": "hourglass-biscuit",
+  "en": "Hourglass Biscuit",
+  "n": {
+   "en": "Hourglass Biscuit",
+   "zh-CN": "沙钟饼干",
+   "zh-TW": "沙鍾餅乾",
+   "ja": "砂時計亭印のクッキー"
+  },
+  "desc": {
+   "en": "A complimentary acorn treat baked by the Hourglass. May contain nuts.",
+   "zh-CN": "沙钟旅亭为留宿者准备的一种橡果饼干。",
+   "zh-TW": "沙鍾旅亭爲留宿者準備的一種橡果餅乾。",
+   "ja": "宿屋「砂時計亭」が宿泊者のために用意したエーコンクッキー"
+  }
+ },
+ {
+  "slug": "rabbit-pie",
+  "en": "Rabbit Pie",
+  "n": {
+   "en": "Rabbit Pie",
+   "zh-CN": "兔形派",
+   "zh-TW": "兔形派",
+   "ja": "ラビットパイ"
+  },
+  "desc": {
+   "en": "A traditional pastry dish of the Wildwood Elezen formed to resemble a rabbit, but not necessarily containing any meat of leporine origin.",
+   "zh-CN": "森林之民传统的庆祝用点心，按照兔子的模样烤制的。",
+   "zh-TW": "森林之民傳統的慶祝用點心，按照兔子的模樣烤制的。",
+   "ja": "ウサギを模して焼いた、フォレスター伝統の祝祭用パイ"
+  }
+ },
+ {
+  "slug": "apple-tart",
+  "en": "Apple Tart",
+  "n": {
+   "en": "Apple Tart",
+   "zh-CN": "苹果挞",
+   "zh-TW": "蘋果撻",
+   "ja": "アップルタルト"
+  },
+  "desc": {
+   "en": "A round pastry filled with sweet faerie apples and fragrant spices.",
+   "zh-CN": "加入了苹果的圆形点心。",
+   "zh-TW": "加入了蘋果的圓形點心。",
+   "ja": "リンゴをのせた円形の焼き菓子"
+  }
+ },
+ {
+  "slug": "shepherd-s-pie",
+  "en": "Shepherd's Pie",
+  "n": {
+   "en": "Shepherd's Pie",
+   "zh-CN": "牧羊人派",
+   "zh-TW": "牧羊人派",
+   "ja": "シェパードパイ"
+  },
+  "desc": {
+   "en": "Pulled antelope shank covered with mashed popotoes and baked in a golden, buttery pie crust.",
+   "zh-CN": "蜥蜴人独有风味的羚羊肉派。",
+   "zh-TW": "蜥蜴人獨有風味的羚羊肉派。",
+   "ja": "アマルジャ風レイヨウ肉のパイ"
+  }
+ },
+ {
+  "slug": "eel-pie",
+  "en": "Eel Pie",
+  "n": {
+   "en": "Eel Pie",
+   "zh-CN": "鳗鱼派",
+   "zh-TW": "鰻魚派",
+   "ja": "イールパイ"
+  },
+  "desc": {
+   "en": "Plump, protein-rich eel baked in a flaky crust.",
+   "zh-CN": "用黑鳗做馅的烤派。",
+   "zh-TW": "用黑鰻做餡的烤派。",
+   "ja": "ブラックイールを包み込んで焼いたパイ"
+  }
+ },
+ {
+  "slug": "blood-currant-tart",
+  "en": "Blood Currant Tart",
+  "n": {
+   "en": "Blood Currant Tart",
+   "zh-CN": "血红奇异果挞",
+   "zh-TW": "血紅奇異果撻",
+   "ja": "ブラッドカーラントタルト"
+  },
+  "desc": {
+   "en": "A sweet and sour pastry made with a generous portion of blood currants.",
+   "zh-CN": "加入了很多血红奇异果的酸甜点心。",
+   "zh-TW": "加入了很多血紅奇異果的酸甜點心。",
+   "ja": "スグリをたっぷりのせた甘酸っぱいパイ"
+  }
+ },
+ {
+  "slug": "crowned-pie",
+  "en": "Crowned Pie",
+  "n": {
+   "en": "Crowned Pie",
+   "zh-CN": "王冠蛋糕",
+   "zh-TW": "王冠蛋糕",
+   "ja": "ガレット・デ・ロワ"
+  },
+  "desc": {
+   "en": "A galette-style pie decorated with a golden crown and served at Ishgardian festivals.",
+   "zh-CN": "伊修加德风味庆祝用蛋糕，上面有个王冠。",
+   "zh-TW": "伊修加德風味慶祝用蛋糕，上面有個王冠。",
+   "ja": "王冠をのせたイシュガルド風の祝祭用パイ"
+  }
+ },
+ {
+  "slug": "tomato-pie",
+  "en": "Tomato Pie",
+  "n": {
+   "en": "Tomato Pie",
+   "zh-CN": "番茄派",
+   "zh-TW": "番茄派",
+   "ja": "トマトパイ"
+  },
+  "desc": {
+   "en": "Considered a delicacy in Gridania, this pie is arranged with sliced tomatoes, giving it the appearance of a flower garden.",
+   "zh-CN": "格里达尼亚风味派，用的是从花田中挑选出来的西红柿。",
+   "zh-TW": "格里達尼亞風味派，用的是從花田中挑選出來的西紅柿。",
+   "ja": "花畑に見立ててトマトをのせたグリダニア風パイ"
+  }
+ },
+ {
+  "slug": "trapper-s-quiche",
+  "en": "Trapper's Quiche",
+  "n": {
+   "en": "Trapper's Quiche",
+   "zh-CN": "猎人风味水蜥饼",
+   "zh-TW": "獵人風味水蜥餅",
+   "ja": "猟師風エフトキッシュ"
+  },
+  "desc": {
+   "en": "Eggs, cheese, and chopped eft blended together and baked in a flaky crust. A favorite amongst Ishgardian nobles.",
+   "zh-CN": "在馅饼坯中加入奶油奶酪、鸡蛋、水蜥肉等材料烤制而成。",
+   "zh-TW": "在餡餅坯中加入奶油奶酪、雞蛋、水蜥肉等材料烤制而成。",
+   "ja": "パイ生地で作った器に、クリームチーズと具をのせて焼き上げた料理"
+  }
+ },
+ {
+  "slug": "frumenty",
+  "en": "Frumenty",
+  "n": {
+   "en": "Frumenty",
+   "zh-CN": "羊奶麦粥",
+   "zh-TW": "羊奶麥粥",
+   "ja": "フルメンティ"
+  },
+  "desc": {
+   "en": "A tasty gruel of cracked wheat, raisins, and spices boiled in aldgoat milk.",
+   "zh-CN": "将葡萄干和各种香料放到山羊奶中煮制的小麦粥。",
+   "zh-TW": "將葡萄乾和各種香料放到山羊奶中煮制的小麥粥。",
+   "ja": "レーズンと各種香料を山羊乳で煮た小麦の粥料理"
+  }
+ },
+ {
+  "slug": "stone-soup",
+  "en": "Stone Soup",
+  "n": {
+   "en": "Stone Soup",
+   "zh-CN": "石子汤",
+   "zh-TW": "石子湯",
+   "ja": "ストーンスープ"
+  },
+  "desc": {
+   "en": "This vegetable soup is made cold and then heated by inserting a scalding rock.",
+   "zh-CN": "放入烧热的石头，热乎乎的蔬菜汤。",
+   "zh-TW": "放入燒熱的石頭，熱乎乎的蔬菜湯。",
+   "ja": "焼石を入れて温めた、野菜スープ"
+  }
+ },
+ {
+  "slug": "pea-soup",
+  "en": "Pea Soup",
+  "n": {
+   "en": "Pea Soup",
+   "zh-CN": "翡翠豆汤",
+   "zh-TW": "翡翠豆湯",
+   "ja": "ピースープ"
+  },
+  "desc": {
+   "en": "An emerald green soup made from mashed jade peas.",
+   "zh-CN": "绿色的翡翠豆汤。",
+   "zh-TW": "綠色的翡翠豆湯。",
+   "ja": "ジェードピーを煮込んだ、緑色のスープ"
+  }
+ },
+ {
+  "slug": "cawl-cennin",
+  "en": "Cawl Cennin",
+  "n": {
+   "en": "Cawl Cennin",
+   "zh-CN": "盐韭洋葱汤",
+   "zh-TW": "鹽韭洋蔥湯",
+   "ja": "カウルケニン"
+  },
+  "desc": {
+   "en": "Soup made from leeks and onions sautéed in butter and mixed with chicken stock.",
+   "zh-CN": "将盐韭和洋葱用黄油炒过之后再加入鸡高汤熬制。",
+   "zh-TW": "將鹽韭和洋蔥用黃油炒過之後再加入雞高湯熬製。",
+   "ja": "バターで炒めたリーキとオニオン入りスープ"
+  }
+ },
+ {
+  "slug": "fish-soup",
+  "en": "Fish Soup",
+  "n": {
+   "en": "Fish Soup",
+   "zh-CN": "白鱼汤",
+   "zh-TW": "白魚湯",
+   "ja": "フィッシュスープ"
+  },
+  "desc": {
+   "en": "A light soup of butter-sautéed whitefish and vegetables.",
+   "zh-CN": "用油炒白肉鱼和蔬菜煮制的汤。",
+   "zh-TW": "用油炒白肉魚和蔬菜煮制的湯。",
+   "ja": "バターで炒めた白身魚と野菜のスープ"
+  }
+ },
+ {
+  "slug": "bouillabaisse",
+  "en": "Bouillabaisse",
+  "n": {
+   "en": "Bouillabaisse",
+   "zh-CN": "五海杂烩汤",
+   "zh-TW": "五海雜燴湯",
+   "ja": "ブイヤベース"
+  },
+  "desc": {
+   "en": "A piping hot Midlander-style soup chock-full of succulent samples from each of the five seas of Eorzea.",
+   "zh-CN": "中原之民风味的海鲜汤，食材是各种海鲜。",
+   "zh-TW": "中原之民風味的海鮮湯，食材是各種海鮮。",
+   "ja": "さまざまな海の幸を煮込んだミッドランダー風海鮮スープ"
+  }
+ },
+ {
+  "slug": "mashed-popotoes",
+  "en": "Mashed Popotoes",
+  "n": {
+   "en": "Mashed Popotoes",
+   "zh-CN": "新薯泥",
+   "zh-TW": "新薯泥",
+   "ja": "マッシュポポト"
+  },
+  "desc": {
+   "en": "Boiled popotoes, mashed into a smooth, creamy paste. This dish, originating in the New World, is best with a generous dollop of salty butter.",
+   "zh-CN": "将新薯和奶酪混合在一起捣成泥状的新大陆风味食品。",
+   "zh-TW": "將新薯和奶酪混合在一起搗成泥狀的新大陸風味食品。",
+   "ja": "すり潰したポポトにチーズを加えた新大陸風料理"
+  }
+ },
+ {
+  "slug": "cheese-risotto",
+  "en": "Cheese Risotto",
+  "n": {
+   "en": "Cheese Risotto",
+   "zh-CN": "奶酪烩饭",
+   "zh-TW": "奶酪燴飯",
+   "ja": "チーズリゾット"
+  },
+  "desc": {
+   "en": "Sticky rice doused in a rich cheese sauce and simmered over low heat until it reaches just the right consistency.",
+   "zh-CN": "一种特色食品，将糯米和奶酪搭配到一起烹饪而成。",
+   "zh-TW": "一種特色食品，將糯米和奶酪搭配到一起烹飪而成。",
+   "ja": "スティッキーライスにチーズを加えて煮込んだ雑炊"
+  }
+ },
+ {
+  "slug": "cheese-souffle",
+  "en": "Cheese Souffle",
+  "n": {
+   "en": "Cheese Souffle",
+   "zh-CN": "奶酪蛋奶酥",
+   "zh-TW": "奶酪蛋奶酥",
+   "ja": "チーズスフレ"
+  },
+  "desc": {
+   "en": "A light, fluffy egg dish flavored with only the finest fragrant cheeses.",
+   "zh-CN": "一种加入了奶酪的点心，香甜可口并且口感松软。",
+   "zh-TW": "一種加入了奶酪的點心，香甜可口並且口感鬆軟。",
+   "ja": "チーズを加えて甘く味付けした、ふわふわの料理"
+  }
+ },
+ {
+  "slug": "rolanberry-cheesecake",
+  "en": "Rolanberry Cheesecake",
+  "n": {
+   "en": "Rolanberry Cheesecake",
+   "zh-CN": "罗兰莓奶酪蛋糕",
+   "zh-TW": "羅蘭莓奶酪蛋糕",
+   "ja": "ロランベリーチーズケーキ"
+  },
+  "desc": {
+   "en": "Rich cheesecake slathered in a sticky, sweet rolanberry compote.",
+   "zh-CN": "香甜的奶酪蛋糕中融入了罗兰莓的果香。",
+   "zh-TW": "香甜的奶酪蛋糕中融入了羅蘭莓的果香。",
+   "ja": "ロランベリーのソースをかけたフルーティなチーズケーキ"
+  }
+ },
+ {
+  "slug": "mint-lassi",
+  "en": "Mint Lassi",
+  "n": {
+   "en": "Mint Lassi",
+   "zh-CN": "薄荷酸奶昔",
+   "zh-TW": "薄荷酸奶昔",
+   "ja": "ミントラッシー"
+  },
+  "desc": {
+   "en": "A cool and refreshing drink made from cultured milk. Popular in the Near Eastern city–state of Radz–at–Han for its ability to offset the blistering heat of the Thavnairian midday sun.",
+   "zh-CN": "一种发酵乳饮料，加入了药草所以口感非常清爽。",
+   "zh-TW": "一種發酵乳飲料，加入了藥草所以口感非常清爽。",
+   "ja": "ハーブを効かせた爽やかな発酵乳飲料"
+  }
+ },
+ {
+  "slug": "rolanberry-lassi",
+  "en": "Rolanberry Lassi",
+  "n": {
+   "en": "Rolanberry Lassi",
+   "zh-CN": "罗兰莓酸奶昔",
+   "zh-TW": "羅蘭莓酸奶昔",
+   "ja": "ロランベリーラッシー"
+  },
+  "desc": {
+   "en": "A sweet and tangy drink made from cultured milk. Popular in the Near Eastern city–state of Radz–at–Han for its ability to soothe the burn of heavily spiced dishes.",
+   "zh-CN": "一种酸甜的发酵乳饮料，从近东城邦拉札罕流传而来。",
+   "zh-TW": "一種酸甜的發酵乳飲料，從近東城邦拉札罕流傳而來。",
+   "ja": "近東の都市ラザハン伝来の甘酸っぱい発酵乳飲料"
+  }
+ },
+ {
+  "slug": "raisins",
+  "en": "Raisins",
+  "n": {
+   "en": "Raisins",
+   "zh-CN": "葡萄干",
+   "zh-TW": "葡萄乾",
+   "ja": "レーズン"
+  },
+  "desc": {
+   "en": "Dried lowland grapes, sweetened in the sun.",
+   "zh-CN": "晒干之后的低地葡萄，甜味有所增加。",
+   "zh-TW": "曬乾之後的低地葡萄，甜味有所增加。",
+   "ja": "干して甘味を増したローランドグレープの実"
+  }
+ },
+ {
+  "slug": "snowflake-peak",
+  "en": "Snowflake Peak",
+  "n": {
+   "en": "Snowflake Peak",
+   "zh-CN": "雪峰蛋糕",
+   "zh-TW": "雪峯蛋糕",
+   "ja": "ガトー・オ・フレーズ"
+  },
+  "desc": {
+   "en": "A fluffy Starlight Celebration dessert popular in Ishgard. This towering cake is formed to resemble one of the snowy peaks of Coerthas.",
+   "zh-CN": "有着雪山一样的外型，伊修加德传统糕点之一，多在星芒节时制作。",
+   "zh-TW": "有着雪山一樣的外型，伊修加德傳統糕點之一，多在星芒節時製作。",
+   "ja": "雪山を模ったイシュガルド伝統の星芒祭用ケーキ"
+  }
+ },
+ {
+  "slug": "dried-plums",
+  "en": "Dried Plums",
+  "n": {
+   "en": "Dried Plums",
+   "zh-CN": "梅干",
+   "zh-TW": "梅乾",
+   "ja": "ドライプルーン"
+  },
+  "desc": {
+   "en": "Dried pixie plums, sweetened in the sun.",
+   "zh-CN": "晒干之后的仙子梅，甜味有所增加。",
+   "zh-TW": "曬乾之後的仙子梅，甜味有所增加。",
+   "ja": "干して甘味を増したピクシープラム"
+  }
+ },
+ {
+  "slug": "ginger-cookie",
+  "en": "Ginger Cookie",
+  "n": {
+   "en": "Ginger Cookie",
+   "zh-CN": "生姜饼干",
+   "zh-TW": "生薑餅乾",
+   "ja": "ジンジャークッキー"
+  },
+  "desc": {
+   "en": "A sweet and spicy cookie cut into the shape of a legendary black mage said to have recovered MP by eating the crispy treats.",
+   "zh-CN": "姜味的饼干，做成了传说中的黑魔法师的外型。",
+   "zh-TW": "姜味的餅乾，做成了傳說中的黑魔法師的外型。",
+   "ja": "伝説の黒魔道士を模ったジンジャー風味のクッキー"
+  }
+ },
+ {
+  "slug": "crumpet",
+  "en": "Crumpet",
+  "n": {
+   "en": "Crumpet",
+   "zh-CN": "小圆饼",
+   "zh-TW": "小圓餅",
+   "ja": "クランペット"
+  },
+  "desc": {
+   "en": "A savory type of leavened bread, often doused in butter and honey and eaten with a cup of piping hot tea. A specialty at the Quicksand in Ul'dah.",
+   "zh-CN": "“流沙”的招牌点心，用黄油烤的圆饼。",
+   "zh-TW": "“流沙”的招牌點心，用黃油烤的圓餅。",
+   "ja": "クイックサンド名物のバターのせパンケーキ"
+  }
+ },
+ {
+  "slug": "pastry-fish",
+  "en": "Pastry Fish",
+  "n": {
+   "en": "Pastry Fish",
+   "zh-CN": "鱼糕",
+   "zh-TW": "魚糕",
+   "ja": "ペストリーフィッシュ"
+  },
+  "desc": {
+   "en": "An apple-filled pastry shaped to resemble the legendary sunfish.",
+   "zh-CN": "加入了苹果的点心，形状是模仿传说中的翻车鱼。",
+   "zh-TW": "加入了蘋果的點心，形狀是模仿傳說中的翻車魚。",
+   "ja": "伝説の魚モラモラを模ったリンゴ入りパテ"
+  }
+ },
+ {
+  "slug": "pineapple-ponzecake",
+  "en": "Pineapple Ponzecake",
+  "n": {
+   "en": "Pineapple Ponzecake",
+   "zh-CN": "菠萝蛋糕",
+   "zh-TW": "菠蘿蛋糕",
+   "ja": "パイナップルケーキ"
+  },
+  "desc": {
+   "en": "The ponzecake earns its name from the fact that the total weight of the dry ingredients (before pineapples) equals a single ponze.",
+   "zh-CN": "在蛋糕中加入了晒干的菠萝片，一股清香的新大陆风味。",
+   "zh-TW": "在蛋糕中加入了曬乾的菠蘿片，一股清香的新大陸風味。",
+   "ja": "パイナップルの輪切りを太陽に見立てて焼き上げた、新大陸風のケーキ"
+  }
+ },
+ {
+  "slug": "bubble-chocolate",
+  "en": "Bubble Chocolate",
+  "n": {
+   "en": "Bubble Chocolate",
+   "zh-CN": "巧克力球",
+   "zh-TW": "巧克力球",
+   "ja": "バブルチョコ"
+  },
+  "desc": {
+   "en": "A luscious bonbon made from dark chocolate infused with lighter-than-air bubbles.",
+   "zh-CN": "包含了轻空气气泡的黑色球型巧克力。",
+   "zh-TW": "包含了輕空氣氣泡的黑色球型巧克力。",
+   "ja": "球形の黒いチョコレート"
+  }
+ },
+ {
+  "slug": "pearl-chocolate",
+  "en": "Pearl Chocolate",
+  "n": {
+   "en": "Pearl Chocolate",
+   "zh-CN": "巧克力珠",
+   "zh-TW": "巧克力珠",
+   "ja": "パールチョコ"
+  },
+  "desc": {
+   "en": "A rich bonbon made from sweet white chocolate infused with heavier-than-air bubbles.",
+   "zh-CN": "包含了重空气气泡的白色球型巧克力。",
+   "zh-TW": "包含了重空氣氣泡的白色球型巧克力。",
+   "ja": "球形の白いチョコレート"
+  }
+ },
+ {
+  "slug": "white-chocolate",
+  "en": "White Chocolate",
+  "n": {
+   "en": "White Chocolate",
+   "zh-CN": "爱心白巧克力",
+   "zh-TW": "愛心白巧克力",
+   "ja": "ホワイトチョコ"
+  },
+  "desc": {
+   "en": "A heart-shaped morsel of pure white chocolate. Those adventurers allergic to normal chocolate can rest at ease, for this silky smooth confectionary does not actually contain any kukuru powder.",
+   "zh-CN": "包含了浓厚爱意的白色心形巧克力。",
+   "zh-TW": "包含了濃厚愛意的白色心形巧克力。",
+   "ja": "ハート形の白いチョコレート"
+  }
+ },
+ {
+  "slug": "heart-chocolate",
+  "en": "Heart Chocolate",
+  "n": {
+   "en": "Heart Chocolate",
+   "zh-CN": "爱心巧克力",
+   "zh-TW": "愛心巧克力",
+   "ja": "ハートチョコ"
+  },
+  "desc": {
+   "en": "A heart-shaped morsel of dark chocolate, chock-full of bittersweet memories.",
+   "zh-CN": "包含了浓厚爱意的黑色心形巧克力。",
+   "zh-TW": "包含了濃厚愛意的黑色心形巧克力。",
+   "ja": "ハート形の黒いチョコレート"
+  }
+ },
+ {
+  "slug": "consecrated-chocolate",
+  "en": "Consecrated Chocolate",
+  "n": {
+   "en": "Consecrated Chocolate",
+   "zh-CN": "祝福巧克力",
+   "zh-TW": "祝福巧克力",
+   "ja": "ブレスドハートチョコ"
+  },
+  "desc": {
+   "en": "This heart chocolate has been blessed by an ordained sister of the Temple of Menphina.",
+   "zh-CN": "蕴含了爱之女神梅茵菲娜祝福的心形巧克力。",
+   "zh-TW": "蘊含了愛之女神梅茵菲娜祝福的心形巧克力。",
+   "ja": "愛の女神メネフィナの祝福が込められたハート形のチョコレート"
+  }
+ },
+ {
+  "slug": "princess-pudding",
+  "en": "Princess Pudding",
+  "n": {
+   "en": "Princess Pudding",
+   "zh-CN": "公主布丁",
+   "zh-TW": "公主布丁",
+   "ja": "プリンセスプリン"
+  },
+  "desc": {
+   "en": "A tasty Starlight Celebration dessert popular in Limsa Lominsa. This cake-like sweet is formed to resemble the legendary notorious monster, Princess Pudding—a terrible beast rumored to once have roamed the meadows of La Noscea.",
+   "zh-CN": "有着软糊怪一样的外型，利姆萨·罗敏萨传统糕点之一，多在星芒节时制作。",
+   "zh-TW": "有着軟糊怪一樣的外型，利姆薩·羅敏薩傳統糕點之一，多在星芒節時製作。",
+   "ja": "魔物プリンを模ったリムサ・ロミンサ伝統の星芒祭用ケーキ"
+  }
+ },
+ {
+  "slug": "ore-fruitcake",
+  "en": "Ore Fruitcake",
+  "n": {
+   "en": "Ore Fruitcake",
+   "zh-CN": "灵矿蛋糕",
+   "zh-TW": "靈礦蛋糕",
+   "ja": "シュトレン"
+  },
+  "desc": {
+   "en": "A Starlight Celebration dessert popular in Ul'dah. This cake, if it can be called that, is unparalleled in hardness and density. Every season, at least thirty-seven severe injuries are attributed to various fruitcake-related accidents.",
+   "zh-CN": "有着坑道一样的外型，乌尔达哈传统糕点之一，多在星芒节时制作。",
+   "zh-TW": "有着坑道一樣的外型，烏爾達哈傳統糕點之一，多在星芒節時製作。",
+   "ja": "坑道を模ったウルダハ伝統の星芒祭用ケーキ"
+  }
+ },
+ {
+  "slug": "starlight-log",
+  "en": "Starlight Log",
+  "n": {
+   "en": "Starlight Log",
+   "zh-CN": "星材蛋糕",
+   "zh-TW": "星材蛋糕",
+   "ja": "ブッシュ・オ・ショコラ"
+  },
+  "desc": {
+   "en": "A sweet Starlight Celebration dessert popular in Gridania. This cylindrical cake is formed to resemble one of the Black Shroud's many sacred trees.",
+   "zh-CN": "有着木材一样的外型，格里达尼亚传统糕点之一，多在星芒节时制作。",
+   "zh-TW": "有着木材一樣的外型，格里達尼亞傳統糕點之一，多在星芒節時製作。",
+   "ja": "薪を模ったグリダニア伝統の星芒祭用ケーキ"
+  }
+ },
+ {
+  "slug": "years-old-pumpkin-cookie-mmxiii",
+  "en": "Years-old Pumpkin Cookie MMXIII",
+  "n": {
+   "en": "Years-old Pumpkin Cookie MMXIII",
+   "zh-CN": "南瓜曲奇2014",
+   "zh-TW": "南瓜曲奇2014",
+   "ja": "パンプキンクッキー2013"
+  },
+  "desc": {
+   "en": "A devilish imp is thought to have made this slightly burnt biscuit shaped like a pumpkin head nigh on a decade ago. One can only wonder what ingredients it contains.",
+   "zh-CN": "小魔精所留下的南瓜头形状的饼干，不过不知道原材料是什么。",
+   "zh-TW": "小魔精所留下的南瓜頭形狀的餅乾，不過不知道原材料是什麼。",
+   "ja": "インプが残していったパンプキンヘッドを模したクッキー。原材料不明"
+  }
+ },
+ {
+  "slug": "sweet-rice-cake",
+  "en": "Sweet Rice Cake",
+  "n": {
+   "en": "Sweet Rice Cake",
+   "zh-CN": "菱饼",
+   "zh-TW": "菱餅",
+   "ja": "菱餅"
+  },
+  "desc": {
+   "en": "This three-layered rice cake has been molded into a diamond shape. The coloring used in the layers has medicinal properties.",
+   "zh-CN": "菱形的三色点心。",
+   "zh-TW": "菱形的三色點心。",
+   "ja": "プリンセスデーに食される菱形の三色の菓子"
+  }
+ },
+ {
+  "slug": "orange-juice",
+  "en": "Orange Juice",
+  "n": {
+   "en": "Orange Juice",
+   "zh-CN": "橙汁",
+   "zh-TW": "橙汁",
+   "ja": "オレンジジュース"
+  },
+  "desc": {
+   "en": "Juice freshly squeezed from ripe La Noscean oranges.",
+   "zh-CN": "鲜榨橙汁。",
+   "zh-TW": "鮮榨橙汁。",
+   "ja": "オレンジを絞ったフレッシュジュース"
+  }
+ },
+ {
+  "slug": "grape-juice",
+  "en": "Grape Juice",
+  "n": {
+   "en": "Grape Juice",
+   "zh-CN": "葡萄汁",
+   "zh-TW": "葡萄汁",
+   "ja": "グレープジュース"
+  },
+  "desc": {
+   "en": "Juice freshly squeezed from plump noble grapes.",
+   "zh-CN": "鲜榨低地葡萄汁。",
+   "zh-TW": "鮮榨低地葡萄汁。",
+   "ja": "ローランドグレープを絞ったフレッシュジュース"
+  }
+ },
+ {
+  "slug": "apple-juice",
+  "en": "Apple Juice",
+  "n": {
+   "en": "Apple Juice",
+   "zh-CN": "苹果汁",
+   "zh-TW": "蘋果汁",
+   "ja": "アップルジュース"
+  },
+  "desc": {
+   "en": "Juice freshly squeezed from shiny red mirror apples.",
+   "zh-CN": "鲜榨苹果汁。",
+   "zh-TW": "鮮榨蘋果汁。",
+   "ja": "アップルを絞ったフレッシュジュース"
+  }
+ },
+ {
+  "slug": "pineapple-juice",
+  "en": "Pineapple Juice",
+  "n": {
+   "en": "Pineapple Juice",
+   "zh-CN": "菠萝汁",
+   "zh-TW": "菠蘿汁",
+   "ja": "パインジュース"
+  },
+  "desc": {
+   "en": "Juice freshly squeezed from sun-ripened prickly pineapples.",
+   "zh-CN": "鲜榨菠萝汁。",
+   "zh-TW": "鮮榨菠蘿汁。",
+   "ja": "パイナップルを絞ったフレッシュジュース"
+  }
+ },
+ {
+  "slug": "chamomile-tea",
+  "en": "Chamomile Tea",
+  "n": {
+   "en": "Chamomile Tea",
+   "zh-CN": "甘菊茶",
+   "zh-TW": "甘菊茶",
+   "ja": "カモミールティー"
+  },
+  "desc": {
+   "en": "A delicately fragranced infusion brewed from tiny yellow chamomile flowers.",
+   "zh-CN": "散发出甘菊清香的花茶。",
+   "zh-TW": "散發出甘菊清香的花茶。",
+   "ja": "カモミールの優しい香りが漂うハーブティー"
+  }
+ },
+ {
+  "slug": "mulled-tea",
+  "en": "Mulled Tea",
+  "n": {
+   "en": "Mulled Tea",
+   "zh-CN": "香草茶",
+   "zh-TW": "香草茶",
+   "ja": "マルドティー"
+  },
+  "desc": {
+   "en": "A pungent infusion brewed from several exotic spices and herbs. Enjoyed in the sultanate of Ul'dah.",
+   "zh-CN": "乌尔达哈王宫风味混合健康茶，其中加入了香料和草药等材料。",
+   "zh-TW": "烏爾達哈王宮風味混合健康茶，其中加入了香料和草藥等材料。",
+   "ja": "スパイスやハーブをウルダハ王宮風にブレンドした健康茶"
+  }
+ },
+ {
+  "slug": "grilled-warmwater-trout",
+  "en": "Grilled Warmwater Trout",
+  "n": {
+   "en": "Grilled Warmwater Trout",
+   "zh-CN": "盐烤暖水鳟",
+   "zh-TW": "鹽烤暖水鱒",
+   "ja": "グリルドウォームトラウト"
+  },
+  "desc": {
+   "en": "A fresh warmwater trout sprinkled with rock salt and grilled to perfection.",
+   "zh-CN": "撒上盐之后烤制的暖水鳟。",
+   "zh-TW": "撒上鹽之後烤制的暖水鱒。",
+   "ja": "塩をかけて炙ったウォームトラウト"
+  }
+ },
+ {
+  "slug": "grilled-raincaller",
+  "en": "Grilled Raincaller",
+  "n": {
+   "en": "Grilled Raincaller",
+   "zh-CN": "盐烤求雨鱼",
+   "zh-TW": "鹽烤求雨魚",
+   "ja": "雨乞魚のグリル"
+  },
+  "desc": {
+   "en": "A fresh raincaller sprinkled with rock salt and grilled over an open flame.",
+   "zh-CN": "撒上盐之后烤制的求雨鱼。",
+   "zh-TW": "撒上鹽之後烤制的求雨魚。",
+   "ja": "塩をかけて炙った雨乞魚"
+  }
+ },
+ {
+  "slug": "dagger-soup",
+  "en": "Dagger Soup",
+  "n": {
+   "en": "Dagger Soup",
+   "zh-CN": "海神汤",
+   "zh-TW": "海神湯",
+   "ja": "ダガースープ"
+  },
+  "desc": {
+   "en": "After a light clear broth is taken from a freshly caught Navigator's dagger, the meat is removed from the bones and ground up into a paste. The paste is then rolled into tiny balls and returned to the broth, creating a hearty soup.",
+   "zh-CN": "将海神刀去骨做成鱼丸之后煮出来的汤。",
+   "zh-TW": "將海神刀去骨做成魚丸之後煮出來的湯。",
+   "ja": "焼いたリムレーンズダガーで出汁を取ったすり身団子のスープ"
+  }
+ },
+ {
+  "slug": "red-drop",
+  "en": "Red Drop",
+  "n": {
+   "en": "Red Drop",
+   "zh-CN": "红滴糖",
+   "zh-TW": "紅滴糖",
+   "ja": "レッドドロップ"
+  },
+  "desc": {
+   "en": "A spherical fruit-flavored candy.",
+   "zh-CN": "有着水果香味的红色糖果。",
+   "zh-TW": "有着水果香味的紅色糖果。",
+   "ja": "フルーツの香りをつけた赤色のキャンディ"
+  }
+ },
+ {
+  "slug": "blue-drop",
+  "en": "Blue Drop",
+  "n": {
+   "en": "Blue Drop",
+   "zh-CN": "蓝滴糖",
+   "zh-TW": "藍滴糖",
+   "ja": "ブルードロップ"
+  },
+  "desc": {
+   "en": "A spherical fruit-flavored candy.",
+   "zh-CN": "有着水果香味的蓝色糖果。",
+   "zh-TW": "有着水果香味的藍色糖果。",
+   "ja": "フルーツの香りをつけた青色のキャンディ"
+  }
+ },
+ {
+  "slug": "clear-drop",
+  "en": "Clear Drop",
+  "n": {
+   "en": "Clear Drop",
+   "zh-CN": "清滴糖",
+   "zh-TW": "清滴糖",
+   "ja": "クリアドロップ"
+  },
+  "desc": {
+   "en": "A spherical fruit-flavored candy.",
+   "zh-CN": "有着水果香味的透明糖果。",
+   "zh-TW": "有着水果香味的透明糖果。",
+   "ja": "フルーツの香りをつけた透明なキャンディ"
+  }
+ },
+ {
+  "slug": "purple-drop",
+  "en": "Purple Drop",
+  "n": {
+   "en": "Purple Drop",
+   "zh-CN": "紫滴糖",
+   "zh-TW": "紫滴糖",
+   "ja": "パープルドロップ"
+  },
+  "desc": {
+   "en": "A spherical fruit-flavored candy.",
+   "zh-CN": "有着水果香味的紫色糖果。",
+   "zh-TW": "有着水果香味的紫色糖果。",
+   "ja": "フルーツの香りをつけた紫色のキャンディ"
+  }
+ },
+ {
+  "slug": "white-drop",
+  "en": "White Drop",
+  "n": {
+   "en": "White Drop",
+   "zh-CN": "白滴糖",
+   "zh-TW": "白滴糖",
+   "ja": "ホワイトドロップ"
+  },
+  "desc": {
+   "en": "A spherical fruit-flavored candy.",
+   "zh-CN": "有着水果香味的白色糖果。",
+   "zh-TW": "有着水果香味的白色糖果。",
+   "ja": "フルーツの香りをつけた白色のキャンディ"
+  }
+ },
+ {
+  "slug": "black-drop",
+  "en": "Black Drop",
+  "n": {
+   "en": "Black Drop",
+   "zh-CN": "黑滴糖",
+   "zh-TW": "黑滴糖",
+   "ja": "ブラックドロップ"
+  },
+  "desc": {
+   "en": "A spherical fruit-flavored candy.",
+   "zh-CN": "有着水果香味的黑色糖果。",
+   "zh-TW": "有着水果香味的黑色糖果。",
+   "ja": "フルーツの香りをつけた黒色のキャンディ"
+  }
+ },
+ {
+  "slug": "yellow-drop",
+  "en": "Yellow Drop",
+  "n": {
+   "en": "Yellow Drop",
+   "zh-CN": "黄滴糖",
+   "zh-TW": "黃滴糖",
+   "ja": "イエロードロップ"
+  },
+  "desc": {
+   "en": "A spherical fruit-flavored candy.",
+   "zh-CN": "有着水果香味的黄色糖果。",
+   "zh-TW": "有着水果香味的黃色糖果。",
+   "ja": "フルーツの香りをつけた黄色のキャンディ"
+  }
+ },
+ {
+  "slug": "green-drop",
+  "en": "Green Drop",
+  "n": {
+   "en": "Green Drop",
+   "zh-CN": "绿滴糖",
+   "zh-TW": "綠滴糖",
+   "ja": "グリーンドロップ"
+  },
+  "desc": {
+   "en": "A spherical fruit-flavored candy.",
+   "zh-CN": "有着水果香味的绿色糖果。",
+   "zh-TW": "有着水果香味的綠色糖果。",
+   "ja": "フルーツの香りをつけた緑色のキャンディ"
+  }
+ },
+ {
+  "slug": "steamed-catfish",
+  "en": "Steamed Catfish",
+  "n": {
+   "en": "Steamed Catfish",
+   "zh-CN": "酒香蒸鲶鱼",
+   "zh-TW": "酒香蒸鯰魚",
+   "ja": "ナマズのワイン蒸"
+  },
+  "desc": {
+   "en": "A hearty dish made by steaming a whole giant catfish in wine and spices.",
+   "zh-CN": "将整条巨鲶鱼配上料酒及香料蒸出的美味。",
+   "zh-TW": "將整條巨鯰魚配上料酒及香料蒸出的美味。",
+   "ja": "オオナマズを丸ごと蒸した豪快な料理"
+  }
+ },
+ {
+  "slug": "popoto-pancakes",
+  "en": "Popoto Pancakes",
+  "n": {
+   "en": "Popoto Pancakes",
+   "zh-CN": "新薯煎饼",
+   "zh-TW": "新薯煎餅",
+   "ja": "ポポトパンケーキ"
+  },
+  "desc": {
+   "en": "A pancake dish made of ground Dalamud popotoes, served with puréed mirror apples.",
+   "zh-CN": "以新薯为主料做出的煎饼，还加入了苹果的果泥。",
+   "zh-TW": "以新薯爲主料做出的煎餅，還加入了蘋果的果泥。",
+   "ja": "アップルのピューレを添えたポポトのパンケーキ"
+  }
+ },
+ {
+  "slug": "roast-canard",
+  "en": "Roast Canard",
+  "n": {
+   "en": "Roast Canard",
+   "zh-CN": "香烤填鸭",
+   "zh-TW": "香烤填鴨",
+   "ja": "ローストカナール"
+  },
+  "desc": {
+   "en": "A canard breast roasted to perfection, drowned in a sweet and sour sauce made from two kinds of oranges.",
+   "zh-CN": "香喷喷的烤鸭肉，两种橙汁勾兑出出乎意料的味道。",
+   "zh-TW": "香噴噴的烤鴨肉，兩種橙汁勾兌出出乎意料的味道。",
+   "ja": "オレンジソースをかけた、マグレカナールのロースト"
+  }
+ },
+ {
+  "slug": "sachertorte",
+  "en": "Sachertorte",
+  "n": {
+   "en": "Sachertorte",
+   "zh-CN": "萨赫蛋糕",
+   "zh-TW": "薩赫蛋糕",
+   "ja": "ザッハトルテ"
+  },
+  "desc": {
+   "en": "A divinely rich chocolate cake that features a fruity counterpoint by way of an apricot jam layer.",
+   "zh-CN": "加有黄杏果酱的高级巧克力蛋糕。",
+   "zh-TW": "加有黃杏果醬的高級巧克力蛋糕。",
+   "ja": "アプリコットジャムを挟み込んだ高級チョコレートケーキ"
+  }
+ },
+ {
+  "slug": "chilled-popoto-soup",
+  "en": "Chilled Popoto Soup",
+  "n": {
+   "en": "Chilled Popoto Soup",
+   "zh-CN": "新薯冷汤",
+   "zh-TW": "新薯冷湯",
+   "ja": "冷製ポポトスープ"
+  },
+  "desc": {
+   "en": "A refreshing soup made by blending popoto, leek, and sweet cream to a smooth consistency.",
+   "zh-CN": "温度降下来之后的汤，原料为新薯和嫩韭葱。",
+   "zh-TW": "溫度降下來之後的湯，原料爲新薯和嫩韭蔥。",
+   "ja": "ポポトと若採りリーキの冷製クリームスープ"
+  }
+ },
+ {
+  "slug": "spinach-quiche",
+  "en": "Spinach Quiche",
+  "n": {
+   "en": "Spinach Quiche",
+   "zh-CN": "菠菜乳蛋饼",
+   "zh-TW": "菠菜乳蛋餅",
+   "ja": "スピナッチキッシュ"
+  },
+  "desc": {
+   "en": "A savory pastry made by baking a mixture of sautéed spinach and cream cheese within pie dough.",
+   "zh-CN": "用馅饼坯做容器，加入菠菜和奶酪等材料，之后烤熟制成的蛋饼。",
+   "zh-TW": "用餡餅坯做容器，加入菠菜和奶酪等材料，之後烤熟製成的蛋餅。",
+   "ja": "パイ生地で作った器に、スピナッチとチーズをのせて焼き上げた料理"
+  }
+ },
+ {
+  "slug": "triple-cream-coffee",
+  "en": "Triple Cream Coffee",
+  "n": {
+   "en": "Triple Cream Coffee",
+   "zh-CN": "浓缩康宝蓝",
+   "zh-TW": "濃縮康寶藍",
+   "ja": "アインシュペナー"
+  },
+  "desc": {
+   "en": "Freshly roasted ground coffee beans percolated to perfection and mixed with an equal amount of thick dairy cream.",
+   "zh-CN": "这种咖啡里加的奶油几乎要和咖啡一样多的分量了。",
+   "zh-TW": "這種咖啡里加的奶油幾乎要和咖啡一樣多的分量了。",
+   "ja": "抽出したコーヒーにほぼ同量のクリームをのせた飲料"
+  }
+ },
+ {
+  "slug": "bacon-bread",
+  "en": "Bacon Bread",
+  "n": {
+   "en": "Bacon Bread",
+   "zh-CN": "烟肉麦穗面包",
+   "zh-TW": "煙肉麥穗麪包",
+   "ja": "ベーコンエピ"
+  },
+  "desc": {
+   "en": "Soft dough mixed with thick-sliced bacon and twisted into a pattern resembling a sheaf of wheat.",
+   "zh-CN": "外型看上去好像一颗麦穗，里面还加入了烟肉，又好看又好吃。",
+   "zh-TW": "外型看上去好像一顆麥穗，裏面還加入了煙肉，又好看又好喫。",
+   "ja": "麦の穂を模ったベーコン入りのパン"
+  }
+ },
+ {
+  "slug": "flint-caviar",
+  "en": "Flint Caviar",
+  "n": {
+   "en": "Flint Caviar",
+   "zh-CN": "煌黑鱼子酱",
+   "zh-TW": "煌黑魚子醬",
+   "ja": "フリントキャビア"
+  },
+  "desc": {
+   "en": "Salted eggs of the rare emperor fish. Often referred to as black diamonds, the eggs are a delicacy that can only be afforded by the wealthiest of connoisseurs.",
+   "zh-CN": "煌鱼的鱼籽十分珍贵，有黑色宝石之称。",
+   "zh-TW": "煌魚的魚籽十分珍貴，有黑色寶石之稱。",
+   "ja": "黒い宝石とも呼ばれる、珍重される煌魚の卵"
+  }
+ },
+ {
+  "slug": "shark-fin-soup",
+  "en": "Shark Fin Soup",
+  "n": {
+   "en": "Shark Fin Soup",
+   "zh-CN": "鱼翅汤",
+   "zh-TW": "魚翅湯",
+   "ja": "フカヒレスープ"
+  },
+  "desc": {
+   "en": "The massive fin of a megalodon, boiled in a rich Far Eastern broth until soft and gelatinous. While not included in the soup, the remainder of the sharkflesh is salted and dried until rock hard, then shaved into paper-thin slices which, when boiled in hot water, create a savory soup that is the base of countless other recipes.",
+   "zh-CN": "将巨齿鲨的鱼鳍干燥后煮成汤，味道之鲜美无法言喻。",
+   "zh-TW": "將巨齒鯊的魚鰭乾燥後煮成湯，味道之鮮美無法言喻。",
+   "ja": "乾燥させたメガロドンの鰭を戻して煮込んだスープ"
+  }
+ },
+ {
+  "slug": "haddock-dip",
+  "en": "Haddock Dip",
+  "n": {
+   "en": "Haddock Dip",
+   "zh-CN": "黑线鳕沙拉",
+   "zh-TW": "黑線鱈沙拉",
+   "ja": "タラモサラータ"
+  },
+  "desc": {
+   "en": "A thick salty dip made from a purée of haddock, raw egg, and mashed popotoes. A favorite of Roegadyn tribes hailing from the north seas.",
+   "zh-CN": "将哈拉尔黑线鳕的鱼籽与新薯混合在一起，有着别样的风味，深受北洋出身的鲁加人喜爱。",
+   "zh-TW": "將哈拉爾黑線鱈的魚籽與新薯混合在一起，有着別樣的風味，深受北洋出身的魯加人喜愛。",
+   "ja": "ハーラルハドックの卵とポポトを混ぜたディップ"
+  }
+ },
+ {
+  "slug": "bacon-broth",
+  "en": "Bacon Broth",
+  "n": {
+   "en": "Bacon Broth",
+   "zh-CN": "烟肉汤",
+   "zh-TW": "煙肉湯",
+   "ja": "ベーコンスープ"
+  },
+  "desc": {
+   "en": "Though technically a soup, this Ixali dish consists mainly of large slabs of smoked bacon boiled with several other lesser ingredients.",
+   "zh-CN": "非常具有鸟人风格的汤，里面加入了大块的烟肉，充满了野性。",
+   "zh-TW": "非常具有鳥人風格的湯，裏面加入了大塊的煙肉，充滿了野性。",
+   "ja": "イクサル風のワイルドな調理法を用いた野性味溢れるスープ"
+  }
+ },
+ {
+  "slug": "tailor-made-eel-pie",
+  "en": "Tailor-made Eel Pie",
+  "n": {
+   "en": "Tailor-made Eel Pie",
+   "zh-CN": "秘制鳗鱼派",
+   "zh-TW": "祕製鰻魚派",
+   "ja": "秘製イールパイ"
+  },
+  "desc": {
+   "en": "The acetic odor emitted by this specially crafted pastry will turn away all but the most loyal of eel pie enthusiasts.",
+   "zh-CN": "带有些许酸味的鳗鱼派，一般人很难接受这种味道。",
+   "zh-TW": "帶有些許酸味的鰻魚派，一般人很難接受這種味道。",
+   "ja": "酸味の利いたイールパイ。常人には理解しがたい味と匂いがする"
+  }
+ },
+ {
+  "slug": "better-crowned-pie",
+  "en": "Better Crowned Pie",
+  "n": {
+   "en": "Better Crowned Pie",
+   "zh-CN": "秘制王冠蛋糕",
+   "zh-TW": "祕製王冠蛋糕",
+   "ja": "秘製ガレット・デ・ロワ"
+  },
+  "desc": {
+   "en": "A galette-style pie decorated with a golden crown and served at Ishgardian festivals. Baked using Talan's own special recipe.",
+   "zh-CN": "使用塔兰的秘制配方做出的伊修加德风味蛋糕。",
+   "zh-TW": "使用塔蘭的祕製配方做出的伊修加德風味蛋糕。",
+   "ja": "タランの秘密レシピによって作られたイシュガルド風パイ"
+  }
+ },
+ {
+  "slug": "battered-fish",
+  "en": "Battered Fish",
+  "n": {
+   "en": "Battered Fish",
+   "zh-CN": "炸鱼套餐",
+   "zh-TW": "炸魚套餐",
+   "ja": "バタードフィッシュ"
+  },
+  "desc": {
+   "en": "Deep-fried and accompanied by a generous portion of thick cut popotoes. Most delicious when sprinkled with a dash of malt vinegar.",
+   "zh-CN": "炸鱼配上炸新薯，这种传统的美食相信大家都吃过。",
+   "zh-TW": "炸魚配上炸新薯，這種傳統的美食相信大家都喫過。",
+   "ja": "魚とポポトを油でさっと揚げた伝統料理"
+  }
+ },
+ {
+  "slug": "ishgardian-tea",
+  "en": "Ishgardian Tea",
+  "n": {
+   "en": "Ishgardian Tea",
+   "zh-CN": "伊修加德奶茶",
+   "zh-TW": "伊修加德奶茶",
+   "ja": "イシュガルドティー"
+  },
+  "desc": {
+   "en": "Rather than adding milk to boiling water that has been infused with tea leaves, as is the fashion in lower Eorzea, Ishgardian tea is brewed by boiling yak milk and letting dried Coerthan tea leaves steep right into the hot liquid.",
+   "zh-CN": "库尔札斯茶叶与牦牛奶煮成的伊修加德风味奶茶。",
+   "zh-TW": "庫爾札斯茶葉與犛牛奶煮成的伊修加德風味奶茶。",
+   "ja": "クルザス茶葉をヤクの乳で煮出したイシュガルド風ミルクティー"
+  }
+ },
+ {
+  "slug": "frozen-spirits",
+  "en": "Frozen Spirits",
+  "n": {
+   "en": "Frozen Spirits",
+   "zh-CN": "冻雾鸡尾酒",
+   "zh-TW": "凍霧雞尾酒",
+   "ja": "フローズンカクテル"
+  },
+  "desc": {
+   "en": "A cool concoction made by fermenting cloud bananas and Old World figs, freezing them with ice crystals, then mashing and mixing the fruit into a slush-like consistency.",
+   "zh-CN": "将冰冻云海香蕉和旧世界无花果混合制成的饮料。",
+   "zh-TW": "將冰凍雲海香蕉和舊世界無花果混合製成的飲料。",
+   "ja": "凍らせたクラウドバナナとオールドワールドフィグを用いたシャーベット状のドリンク"
+  }
+ },
+ {
+  "slug": "hot-chocolate",
+  "en": "Hot Chocolate",
+  "n": {
+   "en": "Hot Chocolate",
+   "zh-CN": "热巧克力",
+   "zh-TW": "熱巧克力",
+   "ja": "ホットココア"
+  },
+  "desc": {
+   "en": "A sweet beverage commonly drunk in the Holy See, but rarely seen in Foundation due to inability of most of Ishgard's poorer residents to procure the relatively rare and expensive ingredients.",
+   "zh-CN": "教皇厅御用清爽巧克力饮料。",
+   "zh-TW": "教皇廳御用清爽巧克力飲料。",
+   "ja": "教皇庁御用達のあっさりしたチョコレートドリンク"
+  }
+ },
+ {
+  "slug": "fig-bavarois",
+  "en": "Fig Bavarois",
+  "n": {
+   "en": "Fig Bavarois",
+   "zh-CN": "无花果奶冻",
+   "zh-TW": "無花果奶凍",
+   "ja": "ババロア・オ・フィグ"
+  },
+  "desc": {
+   "en": "A ripe Old World fig encased in a lightly sweetened jelly.",
+   "zh-CN": "将旧世界无花果用明胶冷冻后制成的甜点。",
+   "zh-TW": "將舊世界無花果用明膠冷凍後製成的甜點。",
+   "ja": "オールドワールドフィグをゼラチンで冷やし固めた菓子"
+  }
+ },
+ {
+  "slug": "sohm-al-tart",
+  "en": "Sohm Al Tart",
+  "n": {
+   "en": "Sohm Al Tart",
+   "zh-CN": "索姆阿尔栗子蛋糕",
+   "zh-TW": "索姆阿爾栗子蛋糕",
+   "ja": "ソーム・アル・オ・マロン"
+  },
+  "desc": {
+   "en": "A traditional Ishgardian cake made up of several stacked layers tapered to resemble Sohm Al, a peak sacred to the Dravanians. Ishgardians believe that devouring the mountain will grant them fortune in their struggle with the dragons.",
+   "zh-CN": "象征着索姆阿尔灵峰的伊修加德风味甜点。",
+   "zh-TW": "象徵着索姆阿爾靈峯的伊修加德風味甜點。",
+   "ja": "霊峰ソーム・アルを模ったイシュガルド様式のケーキ。"
+  }
+ },
+ {
+  "slug": "marron-glace",
+  "en": "Marron Glace",
+  "n": {
+   "en": "Marron Glace",
+   "zh-CN": "栗子冰糕",
+   "zh-TW": "栗子冰糕",
+   "ja": "マロングラッセ"
+  },
+  "desc": {
+   "en": "Chestnuts peeled and soaked in honey for several moons until the entire fruit is permeated with sweetness.",
+   "zh-CN": "将毛栗子泡在黑糖中冻制而成。",
+   "zh-TW": "將毛栗子泡在黑糖中凍制而成。",
+   "ja": "ダークマロンを糖蜜に漬け込んだ菓子"
+  }
+ },
+ {
+  "slug": "creme-brulee",
+  "en": "Creme Brulee",
+  "n": {
+   "en": "Creme Brulee",
+   "zh-CN": "焦糖牛奶沙司",
+   "zh-TW": "焦糖牛奶沙司",
+   "ja": "クレームブリュレ"
+  },
+  "desc": {
+   "en": "A vanilla-flavored egg custard drenched in a sweet syrup that is then heated with a fire crystal until a crisp brown shell is created.",
+   "zh-CN": "香草味的牛奶沙司与焦糖的完美组合。",
+   "zh-TW": "香草味的牛奶沙司與焦糖的完美組合。",
+   "ja": "バニラ風味のカスタードの上に焦げたカラメルをのせた菓子"
+  }
+ },
+ {
+  "slug": "kaiser-roll",
+  "en": "Kaiser Roll",
+  "n": {
+   "en": "Kaiser Roll",
+   "zh-CN": "凯撒面包",
+   "zh-TW": "凱撒麪包",
+   "ja": "カイザーゼンメル"
+  },
+  "desc": {
+   "en": "A round Ishgardian bread first made by Halonic monastics who, when brewing ale, would add barm and leftover malt to their daily loaves.",
+   "zh-CN": "伊修加德风味的面包，上面撒有芝麻。",
+   "zh-TW": "伊修加德風味的麪包，上面撒有芝麻。",
+   "ja": "セサミをまぶしたイシュガルド風のパン"
+  }
+ },
+ {
+  "slug": "ishgardian-muffin",
+  "en": "Ishgardian Muffin",
+  "n": {
+   "en": "Ishgardian Muffin",
+   "zh-CN": "伊修加德松饼",
+   "zh-TW": "伊修加德鬆餅",
+   "ja": "イシュガルドマフィン"
+  },
+  "desc": {
+   "en": "Leavened bread that is cooked on a griddle rather than in an oven. Cornmeal is dusted on the dough before cooking to prevent sticking to the pan.",
+   "zh-CN": "涂满玉米粉的伊修加德风面包。",
+   "zh-TW": "塗滿玉米粉的伊修加德風麪包。",
+   "ja": "コーングリッツをまぶしたイシュガルド風のパン"
+  }
+ },
+ {
+  "slug": "liver-cheese-sandwich",
+  "en": "Liver-cheese Sandwich",
+  "n": {
+   "en": "Liver-cheese Sandwich",
+   "zh-CN": "伊修加德三明治",
+   "zh-TW": "伊修加德三明治",
+   "ja": "レバーケースゼンメル"
+  },
+  "desc": {
+   "en": "Several slices of a ground liver loaf sandwiched between two halves of a kaiser roll.",
+   "zh-CN": "用凯撒面包与肉糕所制成的三明治。",
+   "zh-TW": "用凱撒麪包與肉糕所製成的三明治。",
+   "ja": "カイザーゼンメルに挽肉のローフを挟んだサンドイッチ"
+  }
+ },
+ {
+  "slug": "almond-cream-croissant",
+  "en": "Almond Cream Croissant",
+  "n": {
+   "en": "Almond Cream Croissant",
+   "zh-CN": "扁桃仁牛角面包",
+   "zh-TW": "扁桃仁牛角麪包",
+   "ja": "クロワッサンアマンド"
+  },
+  "desc": {
+   "en": "A flaky crescent-shaped pastry sliced in two and buttered with a sweet creamy paste made from almonds.",
+   "zh-CN": "用扁桃奶油烧制的月牙形甜面包。",
+   "zh-TW": "用扁桃奶油燒製的月牙形甜麪包。",
+   "ja": "アーモンドクリームをのせて焼き上げた三日月形の甘いパン"
+  }
+ },
+ {
+  "slug": "sauteed-porcini",
+  "en": "Sauteed Porcini",
+  "n": {
+   "en": "Sauteed Porcini",
+   "zh-CN": "煎牛肝菌",
+   "zh-TW": "煎牛肝菌",
+   "ja": "ポルチーニソテー"
+  },
+  "desc": {
+   "en": "Fragrant porcini mushrooms sliced and sautéed in butter. Simple, yet elegant.",
+   "zh-CN": "黄油煎牛肝菌。",
+   "zh-TW": "黃油煎牛肝菌。",
+   "ja": "バターで炒めたポルチーニのソテー"
+  }
+ },
+ {
+  "slug": "morel-salad",
+  "en": "Morel Salad",
+  "n": {
+   "en": "Morel Salad",
+   "zh-CN": "蘑菇沙拉",
+   "zh-TW": "蘑菇沙拉",
+   "ja": "モリーユサラダ"
+  },
+  "desc": {
+   "en": "A fresh green salad topped with sautéed morels.",
+   "zh-CN": "炒伞菇配沙拉。",
+   "zh-TW": "炒傘菇配沙拉。",
+   "ja": "モリーユのソテーを加えたサラダ"
+  }
+ },
+ {
+  "slug": "grilled-sweetfish",
+  "en": "Grilled Sweetfish",
+  "n": {
+   "en": "Grilled Sweetfish",
+   "zh-CN": "盐烤香鱼",
+   "zh-TW": "鹽烤香魚",
+   "ja": "グリルドスイートフィッシュ"
+  },
+  "desc": {
+   "en": "A simple dish created by piercing a lightly salted fresh sweetfish with a sharpened stick and slowly roasting it over an open flame.",
+   "zh-CN": "处理过的香鱼撒上盐后烤制而成。",
+   "zh-TW": "處理過的香魚撒上鹽後烤制而成。",
+   "ja": "塩をかけて炙ったスイートフィッシュ"
+  }
+ },
+ {
+  "slug": "baked-pipira-pira",
+  "en": "Baked Pipira Pira",
+  "n": {
+   "en": "Baked Pipira Pira",
+   "zh-CN": "菌蒸皮皮拉鱼",
+   "zh-TW": "菌蒸皮皮拉魚",
+   "ja": "ベイクドピピラ・ピラ"
+  },
+  "desc": {
+   "en": "A plump pipira pira wrapped with butter and porcini mushrooms and baked in an oven, the steam trapped in the leaf slowly cooking the fish to the perfect flakiness.",
+   "zh-CN": "黄油蒸皮皮拉皮拉鱼和牛肝菌。",
+   "zh-TW": "黃油蒸皮皮拉皮拉魚和牛肝菌。",
+   "ja": "ピピラ・ピラとポルチーニのバター蒸し焼"
+  }
+ },
+ {
+  "slug": "urchin-loaf",
+  "en": "Urchin Loaf",
+  "n": {
+   "en": "Urchin Loaf",
+   "zh-CN": "香烤湖胆",
+   "zh-TW": "香烤湖膽",
+   "ja": "アーチンテリーヌ"
+  },
+  "desc": {
+   "en": "Sea urchin corals mixed with mushrooms and herbs into a paste that is then placed back into the urchin shell and baked until hard.",
+   "zh-CN": "在湖胆中混入蘑菇及香料，放入烤箱烤制而成。",
+   "zh-TW": "在湖膽中混入蘑菇及香料，放入烤箱烤制而成。",
+   "ja": "裏ごししたアーチンをキノコや香辛料と混ぜて、オーブンで焼き上げたパテ"
+  }
+ },
+ {
+  "slug": "cockatrice-meatballs",
+  "en": "Cockatrice Meatballs",
+  "n": {
+   "en": "Cockatrice Meatballs",
+   "zh-CN": "魔蛇鸟肉丸",
+   "zh-TW": "魔蛇鳥肉丸",
+   "ja": "フリカデレ"
+  },
+  "desc": {
+   "en": "Ground lean cockatrice meat hand rolled into bite-sized balls and fried in oil.",
+   "zh-CN": "用魔蛇鸟肉末烧制而成，香嫩柔软。",
+   "zh-TW": "用魔蛇鳥肉末燒製而成，香嫩柔軟。",
+   "ja": "コカトリスの挽肉を練って焼き上げたやわらかい肉料理"
+  }
+ },
+ {
+  "slug": "royal-eggs",
+  "en": "Royal Eggs",
+  "n": {
+   "en": "Royal Eggs",
+   "zh-CN": "皇家蒸蛋",
+   "zh-TW": "皇家蒸蛋",
+   "ja": "エッグロワイヤル"
+  },
+  "desc": {
+   "en": "A breakfast dish consisting of an Ishgardian muffin sliced into halves and topped with salmon, a poached egg, and a creamy yellow sauce made from butter and egg yolks.",
+   "zh-CN": "将蒸蛋和熏鳟鱼放在伊修加德松饼上，再浇上处理过的蛋黄酱，香气扑鼻。",
+   "zh-TW": "將蒸蛋和燻鱒魚放在伊修加德鬆餅上，再澆上處理過的蛋黃醬，香氣撲鼻。",
+   "ja": "イシュガルドマフィンにスモークしたサーモンと湯通しした卵をのせ、オランデーズソースをかけた料理"
+  }
+ },
+ {
+  "slug": "deep-fried-okeanis",
+  "en": "Deep-fried Okeanis",
+  "n": {
+   "en": "Deep-fried Okeanis",
+   "zh-CN": "俄刻阿尼斯炸肉排",
+   "zh-TW": "俄刻阿尼斯炸肉排",
+   "ja": "オーケアニスシュニッツェル"
+  },
+  "desc": {
+   "en": "Thinly sliced okeanis fried in oil.",
+   "zh-CN": "将俄刻阿尼斯肉切片，再用少量的油煎炸而成。",
+   "zh-TW": "將俄刻阿尼斯肉切片，再用少量的油煎炸而成。",
+   "ja": "薄切りにしたオーケアニスの肉を、少量の油で揚げ焼きした料理"
+  }
+ },
+ {
+  "slug": "baked-onion-soup",
+  "en": "Baked Onion Soup",
+  "n": {
+   "en": "Baked Onion Soup",
+   "zh-CN": "芝士焗洋葱汤",
+   "zh-TW": "芝士焗洋蔥湯",
+   "ja": "オニオングラタンスープ"
+  },
+  "desc": {
+   "en": "A hearty bouillon soup filled with sweet onions, covered with shredded cheese and baked in an oven until golden brown.",
+   "zh-CN": "将炒洋葱放在肉汤中煮，再盖上奶酪烧制而成。",
+   "zh-TW": "將炒洋蔥放在肉湯中煮，再蓋上奶酪燒製而成。",
+   "ja": "炒めたオニオンをブイヨンで煮込み、チーズをかけて焼き上げたスープ"
+  }
+ },
+ {
+  "slug": "beet-soup",
+  "en": "Beet Soup",
+  "n": {
+   "en": "Beet Soup",
+   "zh-CN": "洛夫坦山羊汤",
+   "zh-TW": "洛夫坦山羊湯",
+   "ja": "クリムゾンスープ"
+  },
+  "desc": {
+   "en": "Sliced magma beets and lean loaghtan meat slow-cooked with vegetables and served with a dollop of rich sour cream. A dish popular throughout Ishgard, though families in the Brume often use the meat of animals easier to find in the district's dark back alleys.",
+   "zh-CN": "用熔岩甜菜煮洛夫坦山羊肉， 再倒入牦牛奶油，是伊修加德的家常菜。",
+   "zh-TW": "用熔岩甜菜煮洛夫坦山羊肉， 再倒入犛牛奶油，是伊修加德的家常菜。",
+   "ja": "ロフタンの肉とマグマビートなどの野菜を煮込み、サワークリームを添えたイシュガルドの家庭料理"
+  }
+ },
+ {
+  "slug": "emerald-soup",
+  "en": "Emerald Soup",
+  "n": {
+   "en": "Emerald Soup",
+   "zh-CN": "绿宝石汤",
+   "zh-TW": "綠寶石湯",
+   "ja": "エメラルドスープ"
+  },
+  "desc": {
+   "en": "A bright-green soup made by cooking down emerald beans until they break down into a ghastly paste. Despised by children both high- and lowborn.",
+   "zh-CN": "用绿宝石豆煮制的色泽鲜艳的汤。",
+   "zh-TW": "用綠寶石豆煮制的色澤鮮豔的湯。",
+   "ja": "エメラルドビーンなどの豆を煮込んだ、鮮やかな緑色のスープ"
+  }
+ },
+ {
+  "slug": "clam-chowder",
+  "en": "Clam Chowder",
+  "n": {
+   "en": "Clam Chowder",
+   "zh-CN": "鲜贝羹",
+   "zh-TW": "鮮貝羹",
+   "ja": "クラムチャウダー"
+  },
+  "desc": {
+   "en": "A milk-based soup made with various shellfish, but most often clams.",
+   "zh-CN": "用多种贝类熬制羹汤。",
+   "zh-TW": "用多種貝類熬製羹湯。",
+   "ja": "二枚貝のクリームスープ"
+  }
+ },
+ {
+  "slug": "seafood-stew",
+  "en": "Seafood Stew",
+  "n": {
+   "en": "Seafood Stew",
+   "zh-CN": "炖番茄",
+   "zh-TW": "燉番茄",
+   "ja": "トマトシチュー"
+  },
+  "desc": {
+   "en": "A simple stew made from available seafood boiled with tomatoes and spices.",
+   "zh-CN": "鱼类炖番茄。",
+   "zh-TW": "魚類燉番茄。",
+   "ja": "魚介類を煮込んだトマトシチュー"
+  }
+ },
+ {
+  "slug": "stuffed-cabbage-rolls",
+  "en": "Stuffed Cabbage Rolls",
+  "n": {
+   "en": "Stuffed Cabbage Rolls",
+   "zh-CN": "菜包肉",
+   "zh-TW": "菜包肉",
+   "ja": "挽肉のキャベツ巻き"
+  },
+  "desc": {
+   "en": "Ground meat rolled in cabbage and boiled in broth.",
+   "zh-CN": "将肉末卷入用水焯过的包心菜中，煮制而成。",
+   "zh-TW": "將肉末捲入用水焯過的包心菜中，煮制而成。",
+   "ja": "挽肉を湯通ししたキャベツで包み、煮込んだ料理"
+  }
+ },
+ {
+  "slug": "dhalmel-gratin",
+  "en": "Dhalmel Gratin",
+  "n": {
+   "en": "Dhalmel Gratin",
+   "zh-CN": "千层长颈驼焗野菜",
+   "zh-TW": "千層長頸駝焗野菜",
+   "ja": "アウフラウフ"
+  },
+  "desc": {
+   "en": "Several layers of thinly sliced dhalmel meat and vegetables covered in a creamy white sauce and baked.",
+   "zh-CN": "将长颈驼肉与野菜重叠摆放焗制而成。",
+   "zh-TW": "將長頸駝肉與野菜重疊擺放焗制而成。",
+   "ja": "ダルメルの肉や野菜を何層にも重ねてから煮込んだグラタン"
+  }
+ },
+ {
+  "slug": "stuffed-chysahl",
+  "en": "Stuffed Chysahl",
+  "n": {
+   "en": "Stuffed Chysahl",
+   "zh-CN": "包心卡贝基",
+   "zh-TW": "包心卡貝基",
+   "ja": "スタッフドキャベイジ"
+  },
+  "desc": {
+   "en": "Ground okeanis stuffed into a large chysahl head and sprinkled with fresh chives.",
+   "zh-CN": "将俄刻阿尼斯肉塞入卡贝基野菜中，再配上库尔札斯青葱制成。",
+   "zh-TW": "將俄刻阿尼斯肉塞入卡貝基野菜中，再配上庫爾札斯青蔥製成。",
+   "ja": "キャベイジの野菜にオーケアニスの肉を詰め、チャイブをあしらった料理"
+  }
+ },
+ {
+  "slug": "dhalmel-fricassee",
+  "en": "Dhalmel Fricassee",
+  "n": {
+   "en": "Dhalmel Fricassee",
+   "zh-CN": "千层长颈驼炖野菜",
+   "zh-TW": "千層長頸駝燉野菜",
+   "ja": "ダルメルフリカッセ"
+  },
+  "desc": {
+   "en": "Chopped and braised dhalmel meat cooked in a white stew.",
+   "zh-CN": "将长颈驼肉与野菜放在一起炖制而成。",
+   "zh-TW": "將長頸駝肉與野菜放在一起燉制而成。",
+   "ja": "ダルメルの肉と野菜を煮込んだクリームシチュー"
+  }
+ },
+ {
+  "slug": "snurbleberry-tart",
+  "en": "Snurbleberry Tart",
+  "n": {
+   "en": "Snurbleberry Tart",
+   "zh-CN": "鲜红罗兰莓派",
+   "zh-TW": "鮮紅羅蘭莓派",
+   "ja": "スナーブルベリータルト"
+  },
+  "desc": {
+   "en": "A colorful tart made with blood red snurbleberries.",
+   "zh-CN": "放满鲜红罗兰莓的水果派。",
+   "zh-TW": "放滿鮮紅羅蘭莓的水果派。",
+   "ja": "スナーブルベリーをたっぷりのせた鮮やかなパイ"
+  }
+ },
+ {
+  "slug": "kingcake",
+  "en": "Kingcake",
+  "n": {
+   "en": "Kingcake",
+   "zh-CN": "国王饼",
+   "zh-TW": "國王餅",
+   "ja": "ブリオッシュ・デ・ロワ"
+  },
+  "desc": {
+   "en": "A festive ring-shaped cake baked from brioche dough.",
+   "zh-CN": "用酥皮蛋糕的原料制成的庆祝用甜点。",
+   "zh-TW": "用酥皮蛋糕的原料製成的慶祝用甜點。",
+   "ja": "ブリオッシュ生地で作られた祝祭用菓子"
+  }
+ },
+ {
+  "slug": "steamed-staff",
+  "en": "Steamed Staff",
+  "n": {
+   "en": "Steamed Staff",
+   "zh-CN": "清蒸风神鱼",
+   "zh-TW": "清蒸風神魚",
+   "ja": "嵐神魚の姿蒸し"
+  },
+  "desc": {
+   "en": "Not actually a staff, but a dish made from steaming a freshwater fish known as a retribution staff—a long, thin wavekin believed to be the cause of storms.",
+   "zh-CN": "将整条风神鱼配上料酒及香料蒸出的美味。",
+   "zh-TW": "將整條風神魚配上料酒及香料蒸出的美味。",
+   "ja": "嵐神魚を丸ごと蒸した豪快な料理"
+  }
+ },
+ {
+  "slug": "sesame-cookie",
+  "en": "Sesame Cookie",
+  "n": {
+   "en": "Sesame Cookie",
+   "zh-CN": "芝麻饼干",
+   "zh-TW": "芝麻餅乾",
+   "ja": "セサミクッキー"
+  },
+  "desc": {
+   "en": "Tales of a blue monster who greedily devours these baked delights have frightened children across the realm for generations.",
+   "zh-CN": "香喷喷的烤饼干，上面撒有芝麻。",
+   "zh-TW": "香噴噴的烤餅乾，上面撒有芝麻。",
+   "ja": "セサミを入れて焼いた香ばしいクッキー"
+  }
+ },
+ {
+  "slug": "spiced-cider",
+  "en": "Spiced Cider",
+  "n": {
+   "en": "Spiced Cider",
+   "zh-CN": "果香特饮",
+   "zh-TW": "果香特飲",
+   "ja": "スパイスサイダー"
+  },
+  "desc": {
+   "en": "A warmed jug filled with piquant apple juice mulled with zested ginger and cloves, complete with a stick of cinnamon.",
+   "zh-CN": "在发酵苹果汁中加入各种香料，趁热喝下，唇齿留香。",
+   "zh-TW": "在發酵蘋果汁中加入各種香料，趁熱喝下，脣齒留香。",
+   "ja": "リンゴを発酵させたジュースに、各種スパイスを効かせた温かい飲料"
+  }
+ },
+ {
+  "slug": "apple-strudel",
+  "en": "Apple Strudel",
+  "n": {
+   "en": "Apple Strudel",
+   "zh-CN": "苹果卷",
+   "zh-TW": "蘋果卷",
+   "ja": "アップルシュトゥルーデル"
+  },
+  "desc": {
+   "en": "A handful of chopped apples glazed with birch syrup are thinly wrapped in a warm flaky crust, topped with just a sprinkling of cinnamon.",
+   "zh-CN": "用薄薄的面皮卷起苹果肉，烤制后便可食用。",
+   "zh-TW": "用薄薄的麪皮捲起蘋果肉，烤制後便可食用。",
+   "ja": "薄く延ばした生地でリンゴを幾重にも巻き、焼き上げた菓子"
+  }
+ },
+ {
+  "slug": "peperoncino",
+  "en": "Peperoncino",
+  "n": {
+   "en": "Peperoncino",
+   "zh-CN": "风味拌细面",
+   "zh-TW": "風味拌細麪",
+   "ja": "ペペロンチーノ"
+  },
+  "desc": {
+   "en": "Noodles tossed in mature olive oil that has been infused with solstice garlic and dragon peppers.",
+   "zh-CN": "用大蒜和辣椒与橄榄油调成酱汁，与细面拌在一起食用。",
+   "zh-TW": "用大蒜和辣椒與橄欖油調成醬汁，與細麪拌在一起食用。",
+   "ja": "ガーリックと辛子をオリーヴオイルで和えたシンプルなパスタ"
+  }
+ },
+ {
+  "slug": "boscaiola",
+  "en": "Boscaiola",
+  "n": {
+   "en": "Boscaiola",
+   "zh-CN": "山珍番茄面",
+   "zh-TW": "山珍番茄麪",
+   "ja": "ボスカイオーラ"
+  },
+  "desc": {
+   "en": "A hearty dish of chewy noodles, heaped with a generous portion of seasonal mushrooms and drowned in tomato sauce.",
+   "zh-CN": "在番茄酱上点缀蘑菇，与细面拌在一起食用。",
+   "zh-TW": "在番茄醬上點綴蘑菇，與細麪拌在一起食用。",
+   "ja": "「きこり風」を意味する、キノコをトマトソースで和えたパスタ"
+  }
+ },
+ {
+  "slug": "loaghtan-steak",
+  "en": "Loaghtan Steak",
+  "n": {
+   "en": "Loaghtan Steak",
+   "zh-CN": "洛夫坦山羊排",
+   "zh-TW": "洛夫坦山羊排",
+   "ja": "ロフタンステーキ"
+  },
+  "desc": {
+   "en": "A tough cut of loaghtan meat soaked in a marinade of paprika, sherry, and thyme and grilled over an open flame.",
+   "zh-CN": "将柔软的洛夫坦山羊里脊慢火烤制，味道极佳。",
+   "zh-TW": "將柔軟的洛夫坦山羊裏脊慢火烤制，味道極佳。",
+   "ja": "やわらかなロフタンのフィレ肉を丁寧に焼き上げた料理"
+  }
+ },
+ {
+  "slug": "oyster-confit",
+  "en": "Oyster Confit",
+  "n": {
+   "en": "Oyster Confit",
+   "zh-CN": "油封牡蛎",
+   "zh-TW": "油封牡蠣",
+   "ja": "オイスターコンフィ"
+  },
+  "desc": {
+   "en": "A serving of succulent Coerthan oysters on the half shell, simmered in rich olive oil and seasoned with fresh spices.",
+   "zh-CN": "在库尔札斯牡蛎中倒入低温橄榄油，慢火煮制而成。",
+   "zh-TW": "在庫爾札斯牡蠣中倒入低溫橄欖油，慢火煮制而成。",
+   "ja": "クルザスオイスターを低温のオリーヴオイルでじっくりと煮た料理"
+  }
+ },
+ {
+  "slug": "angler-stew",
+  "en": "Angler Stew",
+  "n": {
+   "en": "Angler Stew",
+   "zh-CN": "炖鮟鱇",
+   "zh-TW": "燉鮟鱇",
+   "ja": "アングラーシチュー"
+  },
+  "desc": {
+   "en": "A thick, creamy stew brimming with tender chunks of fish, onions, and chives.",
+   "zh-CN": "将整条祭司鱼直接下锅炖，不要留一点残渣。",
+   "zh-TW": "將整條祭司魚直接下鍋燉，不要留一點殘渣。",
+   "ja": "プリーストフィッシュの様々な部位を、余す所なく使った煮込み料理"
+  }
+ },
+ {
+  "slug": "sweet-gnomefish",
+  "en": "Sweet Gnomefish",
+  "n": {
+   "en": "Sweet Gnomefish",
+   "zh-CN": "糖沼鯥",
+   "zh-TW": "糖沼鯥",
+   "ja": "ヌマムツの甘露煮"
+  },
+  "desc": {
+   "en": "A gnomefish boiled in sweet birch syrup. The glaze preserves the fish for days after cooking.",
+   "zh-CN": "用糖煮过的沼鯥，可以放很长时间都不变质。",
+   "zh-TW": "用糖煮過的沼鯥，可以放很長時間都不變質。",
+   "ja": "ヌマムツを甘く煮染め、保存性を高めた料理"
+  }
+ },
+ {
+  "slug": "rolanberry-shaved-ice",
+  "en": "Rolanberry Shaved Ice",
+  "n": {
+   "en": "Rolanberry Shaved Ice",
+   "zh-CN": "罗兰莓刨冰",
+   "zh-TW": "羅蘭莓刨冰",
+   "ja": "ロランベリーシェイブドアイス"
+  },
+  "desc": {
+   "en": "A heaping mound of the purest ice harvested from atop the mountains of Coerthas, shaved and drizzled in multicolored rolanberry syrup.",
+   "zh-CN": "将冰块刨成细腻的冰沙后淋上罗兰莓酱，是一款消暑降温效果极佳的甜品。",
+   "zh-TW": "將冰塊刨成細膩的冰沙後淋上羅蘭莓醬，是一款消暑降溫效果極佳的甜品。",
+   "ja": "細かく削った氷にロランベリーのソースをかけた冷菓"
+  }
+ },
+ {
+  "slug": "heavensegg-soup",
+  "en": "Heavensegg Soup",
+  "n": {
+   "en": "Heavensegg Soup",
+   "zh-CN": "苍穹鸡蛋汤",
+   "zh-TW": "蒼穹雞蛋湯",
+   "ja": "ヘヴンスエッグスープ"
+  },
+  "desc": {
+   "en": "A beaten heavensegg is gradually poured into a boiling soup, thickening into wisps across the bacon and vegetables.",
+   "zh-CN": "热腾腾的汤里卧着一颗鲜嫩的苍穹荷包蛋。",
+   "zh-TW": "熱騰騰的湯裏臥着一顆鮮嫩的蒼穹荷包蛋。",
+   "ja": "ヘヴンスエッグの落とし卵が入ったスープ"
+  }
+ },
+ {
+  "slug": "pasta-ortolano",
+  "en": "Pasta Ortolano",
+  "n": {
+   "en": "Pasta Ortolano",
+   "zh-CN": "田园番茄面",
+   "zh-TW": "田園番茄麪",
+   "ja": "オルトラーナ"
+  },
+  "desc": {
+   "en": "A plate of sautéed eggplant and zucchini mixed into soft pasta and drizzled with a rich tomato sauce.",
+   "zh-CN": "在番茄酱上点缀时蔬，与细面拌在一起食用。",
+   "zh-TW": "在番茄醬上點綴時蔬，與細麪拌在一起食用。",
+   "ja": "「菜園風」を意味する、野菜をトマトソースで和えたパスタ"
+  }
+ },
+ {
+  "slug": "heavenly-eggnog",
+  "en": "Heavenly Eggnog",
+  "n": {
+   "en": "Heavenly Eggnog",
+   "zh-CN": "苍穹蛋奶酒",
+   "zh-TW": "蒼穹蛋奶酒",
+   "ja": "ヘヴンスエッグノッグ"
+  },
+  "desc": {
+   "en": "A decadently creamy concoction crafted from raw eggs, thick cream, honey, and—if you are feeling adventurous—a healthy splash of a dark spiced rum. A favorite in Ishgard's Vault.",
+   "zh-CN": "教皇厅御用的乳饮料，口感纯正，香甜可口。",
+   "zh-TW": "教皇廳御用的乳飲料，口感純正，香甜可口。",
+   "ja": "教皇庁御用達の口当たりの良い甘い乳飲料"
+  }
+ },
+ {
+  "slug": "flaugnarde",
+  "en": "Flaugnarde",
+  "n": {
+   "en": "Flaugnarde",
+   "zh-CN": "苹果芙纽多",
+   "zh-TW": "蘋果芙紐多",
+   "ja": "アップルフロニャルド"
+  },
+  "desc": {
+   "en": "A baked pudding filled to bursting with ripened apples and dusted with fragrant spices.",
+   "zh-CN": "放有苹果的点心，类似布丁。",
+   "zh-TW": "放有蘋果的點心，類似布丁。",
+   "ja": "プディングに似たリンゴ入りの菓子"
+  }
+ },
+ {
+  "slug": "spaghetti-carbonara",
+  "en": "Spaghetti Carbonara",
+  "n": {
+   "en": "Spaghetti Carbonara",
+   "zh-CN": "烟肉蛋酱拌面",
+   "zh-TW": "煙肉蛋醬拌麪",
+   "ja": "カルボナーラ"
+  },
+  "desc": {
+   "en": "Tender wheat noodles slathered in a rich sauce made from egg yolks and pungent cheese.",
+   "zh-CN": "用鸡蛋、奶酪调成酱汁，与细面拌在一起食用。",
+   "zh-TW": "用雞蛋、奶酪調成醬汁，與細麪拌在一起食用。",
+   "ja": "「炭焼き風」を意味する、卵とチーズを絡めた濃厚なパスタ"
+  }
+ },
+ {
+  "slug": "wildwood-scrambled-eggs",
+  "en": "Wildwood Scrambled Eggs",
+  "n": {
+   "en": "Wildwood Scrambled Eggs",
+   "zh-CN": "嫩炒蛋",
+   "zh-TW": "嫩炒蛋",
+   "ja": "ウー・ブルイエ"
+  },
+  "desc": {
+   "en": "Fragrant mushrooms sautéed in a generous pat of creamery butter and served upon a bed of fluffy eggs, scrambled to perfection.",
+   "zh-CN": "炒到松软程度的鸡蛋，加入了用奶油煎炒的蘑菇。",
+   "zh-TW": "炒到鬆軟程度的雞蛋，加入了用奶油煎炒的蘑菇。",
+   "ja": "ソテーしたキノコを添えたクリーミーな卵料理"
+  }
+ },
+ {
+  "slug": "spaghetti-pescatore",
+  "en": "Spaghetti Pescatore",
+  "n": {
+   "en": "Spaghetti Pescatore",
+   "zh-CN": "海鲜拌面",
+   "zh-TW": "海鮮拌麪",
+   "ja": "ペスカトーレ"
+  },
+  "desc": {
+   "en": "Common fare of fisherfolk across Eorzea's southwestern coasts, the sauce used in this pasta dish consists of a wide variety of fresh local seafood—from fish to mollusk.",
+   "zh-CN": "在番茄酱上加入大量海鲜，与细面拌在一起食用。",
+   "zh-TW": "在番茄醬上加入大量海鮮，與細麪拌在一起食用。",
+   "ja": "「漁師風」を意味する、魚介類をふんだんに使ったパスタ"
+  }
+ },
+ {
+  "slug": "loaghtan-cordon-bleu",
+  "en": "Loaghtan Cordon Bleu",
+  "n": {
+   "en": "Loaghtan Cordon Bleu",
+   "zh-CN": "蓝带肉排",
+   "zh-TW": "藍帶肉排",
+   "ja": "コルドンブルー"
+  },
+  "desc": {
+   "en": "Lean loaghtan chops sliced horizontally, stuffed with a thick slice of cheese, breaded, and fried to a golden brown.",
+   "zh-CN": "将洛夫坦山羊肉敲打至薄片，包裹奶酪后炸出的肉排。",
+   "zh-TW": "將洛夫坦山羊肉敲打至薄片，包裹奶酪後炸出的肉排。",
+   "ja": "薄く叩いたロフタンの肉でチーズを包み、油で揚げた料理"
+  }
+ },
+ {
+  "slug": "priestly-omelette",
+  "en": "Priestly Omelette",
+  "n": {
+   "en": "Priestly Omelette",
+   "zh-CN": "祭司蛋包饭",
+   "zh-TW": "祭司蛋包飯",
+   "ja": "プリーストオムレツ"
+  },
+  "desc": {
+   "en": "While similar to a regular omelette, this recipe perfected in the Vault's kitchens calls for a fistful of shredded cheese and mushrooms to further enhance the dish's richness.",
+   "zh-CN": "包裹着奶酪和蘑菇，教皇厅的御用鸡蛋菜肴。",
+   "zh-TW": "包裹着奶酪和蘑菇，教皇廳的御用雞蛋菜餚。",
+   "ja": "チーズとキノコを包み上げた、教皇庁御用達の卵料理"
+  }
+ },
+ {
+  "slug": "honey-bun",
+  "en": "Honey Bun",
+  "n": {
+   "en": "Honey Bun",
+   "zh-CN": "蜂蜜圆面包",
+   "zh-TW": "蜂蜜圓麪包",
+   "ja": "ハニーバンズ"
+  },
+  "desc": {
+   "en": "Most often found in markets located across the eastern and southern regions of Eorzea, this lightly glazed buttery brioche pastry will keep for several days (making it a fine companion for long journeys), but is best when freshly baked. Guaranteed to make life sweeter.",
+   "zh-CN": "表面裹有糖衣的小面包。吃上一口能够让人觉得人生更加甜蜜和美好。在艾欧泽亚东部和南部等地的市场流通。",
+   "zh-TW": "表面裹有糖衣的小麪包。喫上一口能夠讓人覺得人生更加甜蜜和美好。在艾歐澤亞東部和南部等地的市場流通。",
+   "ja": "エオルゼア東部や南部の市場に流通する、糖衣をかけた菓子パン。食べることで、人生がより甘くなると伝えられる"
+  }
+ },
+ {
+  "slug": "doman-tea",
+  "en": "Doman Tea",
+  "n": {
+   "en": "Doman Tea",
+   "zh-CN": "多玛茶",
+   "zh-TW": "多瑪茶",
+   "ja": "ドマ茶"
+  },
+  "desc": {
+   "en": "An after-supper beverage naturally sweetened with dried persimmons. Widely popular in the Far East.",
+   "zh-CN": "加入了柿子干的多玛风味饮料。",
+   "zh-TW": "加入了柿子乾的多瑪風味飲料。",
+   "ja": "干したパーシモンを入れた、ドマ風のデザート飲料"
+  }
+ },
+ {
+  "slug": "loquat-juice",
+  "en": "Loquat Juice",
+  "n": {
+   "en": "Loquat Juice",
+   "zh-CN": "枇杷果饮",
+   "zh-TW": "枇杷果飲",
+   "ja": "ロークワットジュース"
+  },
+  "desc": {
+   "en": "A thick, orange juice freshly squeezed from ripe loquats.",
+   "zh-CN": "用枇杷榨成的果汁。",
+   "zh-TW": "用枇杷榨成的果汁。",
+   "ja": "ロークワットを絞ったフレッシュジュース"
+  }
+ },
+ {
+  "slug": "buckwheat-tea",
+  "en": "Buckwheat Tea",
+  "n": {
+   "en": "Buckwheat Tea",
+   "zh-CN": "荞麦茶",
+   "zh-TW": "蕎麥茶",
+   "ja": "蕎麦茶"
+  },
+  "desc": {
+   "en": "A dark, nutty infusion made from steeping buckwheat kernels in boiling water.",
+   "zh-CN": "将荞麦果实烘焙后进行煮沸制成的饮料。",
+   "zh-TW": "將蕎麥果實烘焙後進行煮沸製成的飲料。",
+   "ja": "焙煎した蕎麦の実を煮出した飲料"
+  }
+ },
+ {
+  "slug": "steppe-tea",
+  "en": "Steppe Tea",
+  "n": {
+   "en": "Steppe Tea",
+   "zh-CN": "草原奶茶",
+   "zh-TW": "草原奶茶",
+   "ja": "ステップティー"
+  },
+  "desc": {
+   "en": "A thick, creamy beverage popular on the Azim Steppe made from steeped fermented tea leaves and a generous helping of dzo milk.",
+   "zh-CN": "用犏牛奶烹煮茶饼制成的太阳神草原风味的香浓奶茶。",
+   "zh-TW": "用犏牛奶烹煮茶餅製成的太陽神草原風味的香濃奶茶。",
+   "ja": "団茶をケナガウシの乳で煮出した、アジムステップ風の濃厚なミルクティー"
+  }
+ },
+ {
+  "slug": "baklava",
+  "en": "Baklava",
+  "n": {
+   "en": "Baklava",
+   "zh-CN": "果仁蜜饼",
+   "zh-TW": "果仁蜜餅",
+   "ja": "バクラヴァ"
+  },
+  "desc": {
+   "en": "A traditional Near Eastern pastry made of a sweetened paste of chopped nuts and honey sandwiched between layers of thin unleavened dough.",
+   "zh-CN": "在原料中混入果仁烤制而成的近东风味点心。",
+   "zh-TW": "在原料中混入果仁烤制而成的近東風味點心。",
+   "ja": "ナッツ類を織り込んだ生地を焼き上げた近東風の菓子"
+  }
+ },
+ {
+  "slug": "jellied-compote",
+  "en": "Jellied Compote",
+  "n": {
+   "en": "Jellied Compote",
+   "zh-CN": "糖煮水果果冻",
+   "zh-TW": "糖煮水果果凍",
+   "ja": "コンポートゼリー"
+  },
+  "desc": {
+   "en": "Stewed fruit rendered firm with gelatin, then chilled and cut into bite-sized squares.",
+   "zh-CN": "将糖水煮过的水果用明胶冷冻后制成的甜点。",
+   "zh-TW": "將糖水煮過的水果用明膠冷凍後製成的甜點。",
+   "ja": "甘く煮込んだ果物をゼラチンで固めて冷やした涼菓"
+  }
+ },
+ {
+  "slug": "persimmon-pudding",
+  "en": "Persimmon Pudding",
+  "n": {
+   "en": "Persimmon Pudding",
+   "zh-CN": "柿子布丁",
+   "zh-TW": "柿子布丁",
+   "ja": "パーシモンプディング"
+  },
+  "desc": {
+   "en": "A rich steamed dessert made with puréed persimmons and eggs.",
+   "zh-CN": "在材料中加入碾成糊状的柿子烧制而成的点心。",
+   "zh-TW": "在材料中加入碾成糊狀的柿子燒製而成的點心。",
+   "ja": "裏ごししたパーシモンを混ぜた生地を蒸し焼きにした菓子"
+  }
+ },
+ {
+  "slug": "chirashi-zushi",
+  "en": "Chirashi-zushi",
+  "n": {
+   "en": "Chirashi-zushi",
+   "zh-CN": "散寿司",
+   "zh-TW": "散壽司",
+   "ja": "ちらし寿司"
+  },
+  "desc": {
+   "en": "One of many varieties of the Hingan dish sushi, this iteration consists of a full bowl of sweet vinegared rice topped with various items such as thinly sliced omelet, salted fish eggs, dried gourd, stewed mushrooms, and other local fare. Commonly eaten at celebratory events.",
+   "zh-CN": "在醋饭上添加各种食材食用，是逢年过节餐桌上必不可少的东方佳肴。",
+   "zh-TW": "在醋飯上添加各種食材食用，是逢年過節餐桌上必不可少的東方佳餚。",
+   "ja": "酢飯の上に各種具材をのせた、東方の祝祭料理"
+  }
+ },
+ {
+  "slug": "persimmon-leaf-sushi",
+  "en": "Persimmon Leaf Sushi",
+  "n": {
+   "en": "Persimmon Leaf Sushi",
+   "zh-CN": "柿叶寿司",
+   "zh-TW": "柿葉壽司",
+   "ja": "柿の葉寿司"
+  },
+  "desc": {
+   "en": "One of many varieties of the Hingan dish sushi, this iteration consists of sweet vinegared rice topped with fish, pressed into a narrow rectangle, and finally wrapped in green persimmon leaves.",
+   "zh-CN": "在醋饭上放好食材后用柿叶包起来，压硬后可放置很久不变质。",
+   "zh-TW": "在醋飯上放好食材後用柿葉包起來，壓硬後可放置很久不變質。",
+   "ja": "具材をのせた酢飯をパーシモンリーフで包み、押し固めた保存食"
+  }
+ },
+ {
+  "slug": "popoto-soba",
+  "en": "Popoto Soba",
+  "n": {
+   "en": "Popoto Soba",
+   "zh-CN": "山芋泥荞麦面",
+   "zh-TW": "山芋泥蕎麥麪",
+   "ja": "とろろ蕎麦"
+  },
+  "desc": {
+   "en": "Buckwheat noodles steeped in savory broth and topped with a starchy paste created by grinding a raw mountain popoto.",
+   "zh-CN": "在荞麦面上添加碾好的山芋泥制成的东方风味面食。",
+   "zh-TW": "在蕎麥麪上添加碾好的山芋泥製成的東方風味麪食。",
+   "ja": "すりおろして出汁で延ばしたマウンテンポポトをのせた、東方風の麺料理"
+  }
+ },
+ {
+  "slug": "shorlog",
+  "en": "Shorlog",
+  "n": {
+   "en": "Shorlog",
+   "zh-CN": "牛肉串",
+   "zh-TW": "牛肉串",
+   "ja": "ショルログ"
+  },
+  "desc": {
+   "en": "Heavily spiced dzo meat charred to perfection over an open flame. Common fare amongst the nomadic steppe tribes.",
+   "zh-CN": "将犏牛的牛肩肉串成串烤制而成，是一种香气诱人的游牧民风味食物。",
+   "zh-TW": "將犏牛的牛肩肉串成串烤制而成，是一種香氣誘人的游牧民風味食物。",
+   "ja": "ケナガウシの肩肉を炙った、遊牧民風のスパイシーな串焼き料理"
+  }
+ },
+ {
+  "slug": "pork-kakuni",
+  "en": "Pork Kakuni",
+  "n": {
+   "en": "Pork Kakuni",
+   "zh-CN": "炖猪肉",
+   "zh-TW": "燉豬肉",
+   "ja": "豚角煮"
+  },
+  "desc": {
+   "en": "Thick slices of succulent Koshu pork slow cooked in a sweet, savory sauce. If prepared properly, the meat literally melts in your mouth.",
+   "zh-CN": "用稀有的红州黑猪肉长时间炖制而成的肉菜，入口即化。",
+   "zh-TW": "用稀有的紅州黑豬肉長時間燉制而成的肉菜，入口即化。",
+   "ja": "稀少なコウシュウ黒豚肉を長時間煮込んだ、とろけるような肉料理"
+  }
+ },
+ {
+  "slug": "jerked-jhammel",
+  "en": "Jerked Jhammel",
+  "n": {
+   "en": "Jerked Jhammel",
+   "zh-CN": "长颈骆肉干",
+   "zh-TW": "長頸駱肉乾",
+   "ja": "ジャムメルジャーキー"
+  },
+  "desc": {
+   "en": "Thin slices of tough jhammel meat salted and dried to preserve for long journeys.",
+   "zh-CN": "味道独特的长颈骆肉干。",
+   "zh-TW": "味道獨特的長頸駱肉乾。",
+   "ja": "独特の風味を持つジャムメルの干し肉"
+  }
+ },
+ {
+  "slug": "egg-foo-young",
+  "en": "Egg Foo Young",
+  "n": {
+   "en": "Egg Foo Young",
+   "zh-CN": "芙蓉蟹",
+   "zh-TW": "芙蓉蟹",
+   "ja": "芙蓉蟹"
+  },
+  "desc": {
+   "en": "Succulent crab legs folded into a fluffy omelette and topped with a thick, savory sauce.",
+   "zh-CN": "加入了蟹肉的松松软软的鸡蛋菜肴。",
+   "zh-TW": "加入了蟹肉的鬆鬆軟軟的雞蛋菜餚。",
+   "ja": "ほぐした蟹の身を入れた、ふわふわの卵料理"
+  }
+ },
+ {
+  "slug": "onigara-yaki",
+  "en": "Onigara-yaki",
+  "n": {
+   "en": "Onigara-yaki",
+   "zh-CN": "鬼壳烧",
+   "zh-TW": "鬼殼燒",
+   "ja": "鬼殻焼"
+  },
+  "desc": {
+   "en": "A lobster split in half lengthwise, slathered with a heavily seasoned sauce, and grilled in its shell over an open flame.",
+   "zh-CN": "将带壳的虾竖着切开，浇淋酱汁烤制而成的美味。",
+   "zh-TW": "將帶殼的蝦豎着切開，澆淋醬汁烤制而成的美味。",
+   "ja": "海老を殻付きのまま縦に割り、タレを付けながら焼いた豪快な料理"
+  }
+ },
+ {
+  "slug": "grilled-turban",
+  "en": "Grilled Turban",
+  "n": {
+   "en": "Grilled Turban",
+   "zh-CN": "烤海螺",
+   "zh-TW": "烤海螺",
+   "ja": "サザエの壺焼"
+  },
+  "desc": {
+   "en": "A live horned turban cooked in its shell with a splash of soy sauce and rice wine.",
+   "zh-CN": "将海螺带壳烤制而成的美味，是渔夫们常做的一种简单菜肴。",
+   "zh-TW": "將海螺帶殼烤制而成的美味，是漁夫們常做的一種簡單菜餚。",
+   "ja": "サザエを殻ごと焼いた素朴な漁師料理"
+  }
+ },
+ {
+  "slug": "boiled-amberjack-head",
+  "en": "Boiled Amberjack Head",
+  "n": {
+   "en": "Boiled Amberjack Head",
+   "zh-CN": "炖黄尾鰤鱼头",
+   "zh-TW": "燉黃尾鰤魚頭",
+   "ja": "ヒラマサの兜煮"
+  },
+  "desc": {
+   "en": "The head of an amberjack boiled in a soy-based sauce with thick-sliced daikon radish.",
+   "zh-CN": "用黄尾鰤的鱼头和萝卜炖出来的美味菜肴。",
+   "zh-TW": "用黃尾鰤的魚頭和蘿蔔燉出來的美味菜餚。",
+   "ja": "ヒラマサの頭部と大根を煮込んだ料理"
+  }
+ },
+ {
+  "slug": "steamed-grouper",
+  "en": "Steamed Grouper",
+  "n": {
+   "en": "Steamed Grouper",
+   "zh-CN": "清蒸赤点石斑鱼",
+   "zh-TW": "清蒸赤點石斑魚",
+   "ja": "キジハタの清蒸"
+  },
+  "desc": {
+   "en": "A large Zekki grouper steamed whole, then doused in fragrant boiling oil.",
+   "zh-CN": "在蒸好的赤点石斑鱼浇上热油后就大功告成了。",
+   "zh-TW": "在蒸好的赤點石斑魚澆上熱油後就大功告成了。",
+   "ja": "蒸したキジハタに熱い油を回しがけした料理"
+  }
+ },
+ {
+  "slug": "sweet-and-sour-frogs-legs",
+  "en": "Sweet and Sour Frogs' Legs",
+  "n": {
+   "en": "Sweet and Sour Frogs' Legs",
+   "zh-CN": "浇汁菜蛙",
+   "zh-TW": "澆汁菜蛙",
+   "ja": "カエルの餡かけ"
+  },
+  "desc": {
+   "en": "Chunks of meaty steppe bullfrog legs, breaded and deep-fried, then tossed in a sweet and tangy vinegar-based glaze with fresh colorful vegetables.",
+   "zh-CN": "将菜蛙腿裹着面衣油炸，之后再浇上勾芡好的糖醋汁制成的美味。",
+   "zh-TW": "將菜蛙腿裹着面衣油炸，之後再澆上勾芡好的糖醋汁製成的美味。",
+   "ja": "甘酢あんをかけた、ウシガエルの足の衣揚げ"
+  }
+ },
+ {
+  "slug": "tempura-platter",
+  "en": "Tempura Platter",
+  "n": {
+   "en": "Tempura Platter",
+   "zh-CN": "天妇罗拼盘",
+   "zh-TW": "天婦羅拼盤",
+   "ja": "天ぷら盛り合わせ"
+  },
+  "desc": {
+   "en": "A selection of seafood and vegetables dipped in batter and lightly fried in oil. A Hingan delicacy.",
+   "zh-CN": "东方风味的油炸鱼贝、油炸蔬菜的拼盘。",
+   "zh-TW": "東方風味的油炸魚貝、油炸蔬菜的拼盤。",
+   "ja": "東方風に揚げた、魚介と野菜の盛り合わせ"
+  }
+ },
+ {
+  "slug": "stewed-river-bream",
+  "en": "Stewed River Bream",
+  "n": {
+   "en": "Stewed River Bream",
+   "zh-CN": "炖河鲷",
+   "zh-TW": "燉河鯛",
+   "ja": "カワダイの煮込み"
+  },
+  "desc": {
+   "en": "River bream topped in a sauce made by thickening the broth in which the fish was stewed.",
+   "zh-CN": "勾芡炖得的河鲷。",
+   "zh-TW": "勾芡燉得的河鯛。",
+   "ja": "とろみをつけて煮込んだカワダイ"
+  }
+ },
+ {
+  "slug": "charred-charr",
+  "en": "Charred Charr",
+  "n": {
+   "en": "Charred Charr",
+   "zh-CN": "盐烤石楠嘉鱼",
+   "zh-TW": "鹽烤石楠嘉魚",
+   "ja": "グリルドチャー"
+  },
+  "desc": {
+   "en": "Heather charr sprinkled with salt and blackened over an open flame.",
+   "zh-CN": "撒上盐之后烤制的石楠嘉鱼。",
+   "zh-TW": "撒上鹽之後烤制的石楠嘉魚。",
+   "ja": "ヒースチャーの塩焼き"
+  }
+ },
+ {
+  "slug": "miso-dengaku",
+  "en": "Miso Dengaku",
+  "n": {
+   "en": "Miso Dengaku",
+   "zh-CN": "味噌田乐",
+   "zh-TW": "味噌田樂",
+   "ja": "味噌田楽"
+  },
+  "desc": {
+   "en": "Stiff tofu squares and vegetables impaled on a stick and slathered in a sweet miso sauce then roasted over hot coals.",
+   "zh-CN": "在木棉豆腐和蔬菜上浇上甜味噌汁烧制而成，是一种美味的东方佳肴。",
+   "zh-TW": "在木棉豆腐和蔬菜上澆上甜味噌汁燒製而成，是一種美味的東方佳餚。",
+   "ja": "木綿豆腐と野菜に、甘い味噌ダレを塗って焼いた東方料理"
+  }
+ },
+ {
+  "slug": "jhammel-moussaka",
+  "en": "Jhammel Moussaka",
+  "n": {
+   "en": "Jhammel Moussaka",
+   "zh-CN": "长颈骆焗菜",
+   "zh-TW": "長頸駱焗菜",
+   "ja": "ジャムメルムサカ"
+  },
+  "desc": {
+   "en": "A Near Eastern casserole made from a spiced jhammel and eggplant mincemeat topped with creamy mashed popotoes.",
+   "zh-CN": "将长颈骆肉与茄子煮炖的近东风味焗菜。",
+   "zh-TW": "將長頸駱肉與茄子煮燉的近東風味焗菜。",
+   "ja": "ジャムメルの肉と茄子を煮込んだ近東風のグラタン"
+  }
+ },
+ {
+  "slug": "gameni",
+  "en": "Gameni",
+  "n": {
+   "en": "Gameni",
+   "zh-CN": "煮杂菜",
+   "zh-TW": "煮雜菜",
+   "ja": "がめ煮"
+  },
+  "desc": {
+   "en": "A hodgepodge of boldly sliced tubers, mushrooms, and hornbill tenders, stewed slowly in a soy-based broth.",
+   "zh-CN": "将红角犀鸟的胸肉与各种根菜分别煮熟，再混合到一起的菜肴。",
+   "zh-TW": "將紅角犀鳥的胸肉與各種根菜分別煮熟，再混合到一起的菜餚。",
+   "ja": "ベニツノの笹身と各種根菜を個別に煮込み、ひとつにまとめた料理"
+  }
+ },
+ {
+  "slug": "steppe-salad",
+  "en": "Steppe Salad",
+  "n": {
+   "en": "Steppe Salad",
+   "zh-CN": "根菜沙拉",
+   "zh-TW": "根菜沙拉",
+   "ja": "ステップサラダ"
+  },
+  "desc": {
+   "en": "A salad of various seasonal tubers tossed lightly in a rice vinegar dressing.",
+   "zh-CN": "用米醋将各种根菜拌在一起做成的沙拉。",
+   "zh-TW": "用米醋將各種根菜拌在一起做成的沙拉。",
+   "ja": "米酢で和えた各種根菜のサラダ"
+  }
+ },
+ {
+  "slug": "crab-croquette",
+  "en": "Crab Croquette",
+  "n": {
+   "en": "Crab Croquette",
+   "zh-CN": "油炸蟹肉饼",
+   "zh-TW": "油炸蟹肉餅",
+   "ja": "クラブコロッケ"
+  },
+  "desc": {
+   "en": "Rich, buttery crab legs blended with fluffy mashed vegetables, rolled into a ball, covered in bread crumbs, and fried to a crispy, golden brown. Best served slathered in a sweet sauce.",
+   "zh-CN": "将蟹肉和蔬菜混合炸至松脆的美味。",
+   "zh-TW": "將蟹肉和蔬菜混合炸至鬆脆的美味。",
+   "ja": "ほぐした蟹の身と野菜を混ぜ、からりと揚げた料理"
+  }
+ },
+ {
+  "slug": "miso-soup-with-tofu",
+  "en": "Miso Soup with Tofu",
+  "n": {
+   "en": "Miso Soup with Tofu",
+   "zh-CN": "豆腐味噌汁",
+   "zh-TW": "豆腐味噌汁",
+   "ja": "豆腐の味噌汁"
+  },
+  "desc": {
+   "en": "A Far Eastern staple, often eaten multiple times a day, this soup is made by mixing miso paste with light fish stock. Bite-sized cubes of tofu are added near the end of preparation to ensure the pieces retain their shape.",
+   "zh-CN": "用味噌调味的东方风味豆腐汤，喝下去有暖身的效果。",
+   "zh-TW": "用味噌調味的東方風味豆腐湯，喝下去有暖身的效果。",
+   "ja": "味噌で味付けした、東方風スープ。飲むとほっとする"
+  }
+ },
+ {
+  "slug": "fish-stew",
+  "en": "Fish Stew",
+  "n": {
+   "en": "Fish Stew",
+   "zh-CN": "鱼汁",
+   "zh-TW": "魚汁",
+   "ja": "潮汁"
+  },
+  "desc": {
+   "en": "A salty broth containing balls of finely ground fish paste. A common dish in Far Eastern coastal settlements.",
+   "zh-CN": "一种东方风味的咸汤，汤里加有鱼类或贝类的肉片。",
+   "zh-TW": "一種東方風味的鹹湯，湯里加有魚類或貝類的肉片。",
+   "ja": "魚介のすり身を浮かべた、塩味の東方風スープ"
+  }
+ },
+ {
+  "slug": "pork-stew",
+  "en": "Pork Stew",
+  "n": {
+   "en": "Pork Stew",
+   "zh-CN": "猪肉酱汤",
+   "zh-TW": "豬肉醬湯",
+   "ja": "豚汁"
+  },
+  "desc": {
+   "en": "This Far Eastern take on a campsite mainstay features thinly sliced pork belly and various root vegetables in a piping hot miso-based soup.",
+   "zh-CN": "一种东方风味的酱汤，汤里含有多种食材。",
+   "zh-TW": "一種東方風味的醬湯，湯裏含有多種食材。",
+   "ja": "味噌で味付けした、具だくさんの東方風スープ"
+  }
+ },
+ {
+  "slug": "warrior-s-stew",
+  "en": "Warrior's Stew",
+  "n": {
+   "en": "Warrior's Stew",
+   "zh-CN": "暮晖牛肉汤",
+   "zh-TW": "暮暉牛肉湯",
+   "ja": "ゼラスープ"
+  },
+  "desc": {
+   "en": "A simple stew commonly made of diced dzo chuck and whatever vegetables are readily available. A popular dish amongst the nomadic tribes of the Azim Steppe.",
+   "zh-CN": "用犏牛的牛肩肉与蔬菜煮成的清淡游牧民风味肉汤。",
+   "zh-TW": "用犏牛的牛肩肉與蔬菜煮成的清淡游牧民風味肉湯。",
+   "ja": "ケナガウシの肩肉と野菜を煮込んだ、あっさり味の遊牧民風スープ"
+  }
+ },
+ {
+  "slug": "kasha",
+  "en": "Kasha",
+  "n": {
+   "en": "Kasha",
+   "zh-CN": "荞麦糊",
+   "zh-TW": "蕎麥糊",
+   "ja": "カーシャ"
+  },
+  "desc": {
+   "en": "Buckwheat kernels boiled in bouillon to form a soft, hearty porridge.",
+   "zh-CN": "将荞麦粒混合其他材料翻炒，再加进肉汤中熬制而成的糊糊。",
+   "zh-TW": "將蕎麥粒混合其他材料翻炒，再加進肉湯中熬製而成的糊糊。",
+   "ja": "蕎麦の実を具材と炒めてから、ブイヨンで煮込んだ料理"
+  }
+ },
+ {
+  "slug": "nomad-meat-pie",
+  "en": "Nomad Meat Pie",
+  "n": {
+   "en": "Nomad Meat Pie",
+   "zh-CN": "游牧民风味肉饼",
+   "zh-TW": "游牧民風味肉餅",
+   "ja": "遊牧民風ミートパイ"
+  },
+  "desc": {
+   "en": "Ground dzo chuck and various steppe vegetables wrapped in buttery dough and deep-fried in oil.",
+   "zh-CN": "用蔬菜包裹犏牛的牛肩肉后炸制而成的食物。",
+   "zh-TW": "用蔬菜包裹犏牛的牛肩肉後炸制而成的食物。",
+   "ja": "ケナガウシの肩肉と野菜を生地に包み、油で揚げた料理"
+  }
+ },
+ {
+  "slug": "fat-choco-choco",
+  "en": "Fat Choco Choco",
+  "n": {
+   "en": "Fat Choco Choco",
+   "zh-CN": "胖陆行鸟巧克力",
+   "zh-TW": "胖陸行鳥巧克力",
+   "ja": "でぶチョコボチョコ"
+  },
+  "desc": {
+   "en": "The name of this popular sweet is short for either “Fat Chocobo Chocolate” or “Fat Chocolate Chocobo”—no one quite remembers which.",
+   "zh-CN": "做成胖陆行鸟形状的巧克力。",
+   "zh-TW": "做成胖陸行鳥形狀的巧克力。",
+   "ja": "でぶチョコボを模ったビッグで甘いチョコレート"
+  }
+ },
+ {
+  "slug": "buttery-mogbiscuit",
+  "en": "Buttery Mogbiscuit",
+  "n": {
+   "en": "Buttery Mogbiscuit",
+   "zh-CN": "莫古莫古曲奇",
+   "zh-TW": "莫古莫古曲奇",
+   "ja": "モグモグクッキー"
+  },
+  "desc": {
+   "en": "It is widely accepted that those who eat these cookies face-first rather than pom-first are monsters.",
+   "zh-CN": "做成莫古力形状的曲奇。懂得吃的人总是从绒球开始享用。",
+   "zh-TW": "做成莫古力形狀的曲奇。懂得喫的人總是從絨球開始享用。",
+   "ja": "モーグリを模ったクッキー。ポンポンから食べるのが通の嗜み"
+  }
+ },
+ {
+  "slug": "sermon-worthy-meuniere",
+  "en": "Sermon-worthy Meuniere",
+  "n": {
+   "en": "Sermon-worthy Meuniere",
+   "zh-CN": "王室鲑鱼排",
+   "zh-TW": "王室鮭魚排",
+   "ja": "御鮭様のムニエル"
+  },
+  "desc": {
+   "en": "A thick fillet of salmon breaded with flour and fried in rich butter. So succulent, it is said a certain Othardian church has deemed it holy. Which church, no one seems to recall.",
+   "zh-CN": "将王室鲑切成块，涂上黄油后精心煎烤。",
+   "zh-TW": "將王室鮭切成塊，塗上黃油後精心煎烤。",
+   "ja": "御鮭様の切り身をちゃんと仕上げたバター焼き"
+  }
+ },
+ {
+  "slug": "chawan-mushi",
+  "en": "Chawan-mushi",
+  "n": {
+   "en": "Chawan-mushi",
+   "zh-CN": "蒸蛋羹",
+   "zh-TW": "蒸蛋羹",
+   "ja": "茶碗蒸し"
+  },
+  "desc": {
+   "en": "Whisked egg mixed with fish broth, meats, and seasonal vegetables, then steamed until hardened into a savory pudding.",
+   "zh-CN": "将搅拌好的蛋液和高汤混合在一起蒸制出的东方菜肴。",
+   "zh-TW": "將攪拌好的蛋液和高湯混合在一起蒸製出的東方菜餚。",
+   "ja": "溶き卵に出汁を合わせて蒸した東方料理"
+  }
+ },
+ {
+  "slug": "spriggan-chocolate",
+  "en": "Spriggan Chocolate",
+  "n": {
+   "en": "Spriggan Chocolate",
+   "zh-CN": "魔石精巧克力",
+   "zh-TW": "魔石精巧克力",
+   "ja": "スプリガンチョコ"
+  },
+  "desc": {
+   "en": "A small piece of bitter dark chocolate molded into the shape of a spriggan.",
+   "zh-CN": "做成魔石精形状的巧克力，十分可爱。",
+   "zh-TW": "做成魔石精形狀的巧克力，十分可愛。",
+   "ja": "スプリガンを模した可愛らしいチョコレート"
+  }
+ },
+ {
+  "slug": "tako-yaki",
+  "en": "Tako-yaki",
+  "n": {
+   "en": "Tako-yaki",
+   "zh-CN": "章鱼烧",
+   "zh-TW": "章魚燒",
+   "ja": "タコ焼き"
+  },
+  "desc": {
+   "en": "Bite-sized balls of fried pastry each containing a solitary chunk of tender octopus in their gooey, molten centers.",
+   "zh-CN": "用面糊包裹章鱼后烤制而成的东方面食。",
+   "zh-TW": "用麪糊包裹章魚後烤制而成的東方面食。",
+   "ja": "タコを生地で包んで焼き上げた、東方の粉物料理"
+  }
+ },
+ {
+  "slug": "futo-maki-roll",
+  "en": "Futo-maki Roll",
+  "n": {
+   "en": "Futo-maki Roll",
+   "zh-CN": "什锦寿司卷",
+   "zh-TW": "什錦壽司卷",
+   "ja": "太巻き寿司"
+  },
+  "desc": {
+   "en": "Crisp dried seaweed and sweet vinegared rice rolled around a smorgasbord of sweet and savory fillings. Thought to bring fortune...or at least end hunger.",
+   "zh-CN": "用海苔将醋饭和海鲜卷制而成的东方寿司。",
+   "zh-TW": "用海苔將醋飯和海鮮卷制而成的東方壽司。",
+   "ja": "海産物を酢飯と海苔で巻き込んだ東方の寿司料理"
+  }
+ },
+ {
+  "slug": "oden",
+  "en": "Oden",
+  "n": {
+   "en": "Oden",
+   "zh-CN": "炖点",
+   "zh-TW": "燉點",
+   "ja": "おでん"
+  },
+  "desc": {
+   "en": "A veritable hodgepodge of vegetables, meats, and seafood simmered in a light fish broth for literally days upon end.",
+   "zh-CN": "用各式各样的材料浸汤煮成的料理。",
+   "zh-TW": "用各式各樣的材料浸湯煮成的料理。",
+   "ja": "様々な具材を出し汁で煮込んだ鍋料理"
+  }
+ },
+ {
+  "slug": "dzo-steak",
+  "en": "Dzo Steak",
+  "n": {
+   "en": "Dzo Steak",
+   "zh-CN": "犏牛肉排",
+   "zh-TW": "犏牛肉排",
+   "ja": "ケナガウシステーキ"
+  },
+  "desc": {
+   "en": "A thick cut of dzo sirloin sprinkled with salt and seared to perfection.",
+   "zh-CN": "将犏牛的里脊肉充分烤制而成的肉排。",
+   "zh-TW": "將犏牛的裏脊肉充分烤制而成的肉排。",
+   "ja": "ケナガウシのサーロインをじっくりと焼いたステーキ"
+  }
+ },
+ {
+  "slug": "crimson-cider",
+  "en": "Crimson Cider",
+  "n": {
+   "en": "Crimson Cider",
+   "zh-CN": "红莲特饮",
+   "zh-TW": "紅蓮特飲",
+   "ja": "クリムゾンサイダー"
+  },
+  "desc": {
+   "en": "Official beverage of both the Ala Mhigan Resistance and the Doman Liberation Front, or so cider brewers would have you believe.",
+   "zh-CN": "有着红莲般色泽的碳酸饮料。",
+   "zh-TW": "有着紅蓮般色澤的碳酸飲料。",
+   "ja": "紅蓮色の炭酸飲料"
+  }
+ },
+ {
+  "slug": "sauteed-green-leeks",
+  "en": "Sauteed Green Leeks",
+  "n": {
+   "en": "Sauteed Green Leeks",
+   "zh-CN": "煎绿韭葱",
+   "zh-TW": "煎綠韭蔥",
+   "ja": "グリーンリーキソテー"
+  },
+  "desc": {
+   "en": "A simple dish of thick, meaty leeks sautéed with garlic.",
+   "zh-CN": "油煎绿韭葱，还加入了大蒜调味。",
+   "zh-TW": "油煎綠韭蔥，還加入了大蒜調味。",
+   "ja": "ガーリックを添えたネギをしっかりと焼いたソテー"
+  }
+ },
+ {
+  "slug": "tofu-pancakes",
+  "en": "Tofu Pancakes",
+  "n": {
+   "en": "Tofu Pancakes",
+   "zh-CN": "豆腐煎饼",
+   "zh-TW": "豆腐煎餅",
+   "ja": "豆腐パンケーキ"
+  },
+  "desc": {
+   "en": "The adding of tofu results in a light, fluffy pancake that is cherished by families across Doma.",
+   "zh-CN": "加入豆腐制成的多玛风格的煎饼。",
+   "zh-TW": "加入豆腐製成的多瑪風格的煎餅。",
+   "ja": "豆腐を使用したドマ風のパンケーキ"
+  }
+ },
+ {
+  "slug": "konpeito",
+  "en": "Konpeito",
+  "n": {
+   "en": "Konpeito",
+   "zh-CN": "金平糖",
+   "zh-TW": "金平糖",
+   "ja": "金平糖"
+  },
+  "desc": {
+   "en": "Colorful clusters of crystalline sugar—a childhood treat for Hingans and Domans alike.",
+   "zh-CN": "在东方很有人气的糖果。",
+   "zh-TW": "在東方很有人氣的糖果。",
+   "ja": "東方で広く好まれる砂糖菓子"
+  }
+ },
+ {
+  "slug": "banh-xeo",
+  "en": "Banh Xeo",
+  "n": {
+   "en": "Banh Xeo",
+   "zh-CN": "纳夏煎饼",
+   "zh-TW": "納夏煎餅",
+   "ja": "バインセオ"
+  },
+  "desc": {
+   "en": "A traditional Nagxian dish consisting of meat and vegetables swaddled in a thin shell of crispy fried batter.",
+   "zh-CN": "用薄饼皮包裹着蔬菜和肉类煎烤而成的纳夏面食。",
+   "zh-TW": "用薄餅皮包裹着蔬菜和肉類煎烤而成的納夏麪食。",
+   "ja": "薄い生地に野菜や肉を詰めて焼いたナグサ地方の粉物料理"
+  }
+ },
+ {
+  "slug": "matcha",
+  "en": "Matcha",
+  "n": {
+   "en": "Matcha",
+   "zh-CN": "抹茶",
+   "zh-TW": "抹茶",
+   "ja": "抹茶"
+  },
+  "desc": {
+   "en": "A sophisticatedly bitter infusion prepared by whisking fine-ground tea leaves into piping hot water. Drinking it properly requires such finesse that Hingashi is home to many a school focused solely on perfecting the art.",
+   "zh-CN": "将茶叶碾碎成粉末状用热水冲泡的饮料。根据饮用方法不同，在远东之国有着多种不同的流派。",
+   "zh-TW": "將茶葉碾碎成粉末狀用熱水沖泡的飲料。根據飲用方法不同，在遠東之國有着多種不同的流派。",
+   "ja": "粉末状の茶葉を湯で溶いた飲料。その飲み方を巡っては、ひんがしの国では多数の流派が存在する"
+  }
+ },
+ {
+  "slug": "ema-datshi",
+  "en": "Ema Datshi",
+  "n": {
+   "en": "Ema Datshi",
+   "zh-CN": "辣椒焗奶酪",
+   "zh-TW": "辣椒焗奶酪",
+   "ja": "エマダツィ"
+  },
+  "desc": {
+   "en": "Rich, oozing cheese complements the seething bite of inferno-hot peppers in this Azim Steppe staple.",
+   "zh-CN": "从太阳神草原深处流传出的菜肴，由奶酪和辣椒煮制而成。",
+   "zh-TW": "從太陽神草原深處流傳出的菜餚，由奶酪和辣椒煮制而成。",
+   "ja": "アジムステップの奥地から伝来した、唐辛子とチーズを用いた煮込み料理"
+  }
+ },
+ {
+  "slug": "rooibos-tea",
+  "en": "Rooibos Tea",
+  "n": {
+   "en": "Rooibos Tea",
+   "zh-CN": "路易波士红茶",
+   "zh-TW": "路易波士紅茶",
+   "ja": "ルイボスティー"
+  },
+  "desc": {
+   "en": "A healthful herbal tea known for its natural mellow sweetness.",
+   "zh-CN": "具有微甜味道的健康茶品。",
+   "zh-TW": "具有微甜味道的健康茶品。",
+   "ja": "ほのかな甘みが感じられる健康茶"
+  }
+ },
+ {
+  "slug": "ginger-salad",
+  "en": "Ginger Salad",
+  "n": {
+   "en": "Ginger Salad",
+   "zh-CN": "生姜沙拉",
+   "zh-TW": "生薑沙拉",
+   "ja": "ジンジャーサラダ"
+  },
+  "desc": {
+   "en": "A zesty salad that beckons with the aroma of fresh-cut ginger.",
+   "zh-CN": "沙拉中生姜的气味使人食欲大开。",
+   "zh-TW": "沙拉中生薑的氣味使人食慾大開。",
+   "ja": "ジンジャーの香りが食欲をそそるサラダ"
+  }
+ },
+ {
+  "slug": "laghman",
+  "en": "Laghman",
+  "n": {
+   "en": "Laghman",
+   "zh-CN": "拉条子",
+   "zh-TW": "拉條子",
+   "ja": "ラグマン"
+  },
+  "desc": {
+   "en": "A popular comfort food in Othard consisting of thick, chewy noodles and tender minced dzo in a wholesome broth.",
+   "zh-CN": "在奥萨德次大陆地区受到广泛喜爱的面条美食。",
+   "zh-TW": "在奧薩德次大陸地區受到廣泛喜愛的麪條美食。",
+   "ja": "オサード小大陸にて広く愛されている麺料理"
+  }
+ },
+ {
+  "slug": "imam-bayildi",
+  "en": "Imam Bayildi",
+  "n": {
+   "en": "Imam Bayildi",
+   "zh-CN": "僧厥镶茄子",
+   "zh-TW": "僧厥鑲茄子",
+   "ja": "パトゥルジャン・イマム・バユルドゥ"
+  },
+  "desc": {
+   "en": "Miniature Doman eggplants stuffed to bursting with juicy marinated vegetables—and enough peppers to knock a trained Fist of Rhalgr monk out cold.",
+   "zh-CN": "传说中星导教的武僧在品尝了这道镶茄子之后，因为过于美味而昏厥了过去。",
+   "zh-TW": "傳說中星導教的武僧在品嚐了這道鑲茄子之後，因爲過於美味而昏厥了過去。",
+   "ja": "星導教のモンク僧が気絶するほど美味だとされる茄子料理"
+  }
+ },
+ {
+  "slug": "papanasi",
+  "en": "Papanasi",
+  "n": {
+   "en": "Papanasi",
+   "zh-CN": "奶酪甜甜圈",
+   "zh-TW": "奶酪甜甜圈",
+   "ja": "パパナッシュ"
+  },
+  "desc": {
+   "en": "Thick dough kneaded with soft cheese and fried into a hearty donut, slathered with yet more creamy cheese and a sweet-and-tart berry sauce.",
+   "zh-CN": "是一种将奶酪揉进面团后经过油炸做成的甜甜圈形状的甜点。",
+   "zh-TW": "是一種將奶酪揉進麪糰後經過油炸做成的甜甜圈形狀的甜點。",
+   "ja": "生地にチーズを練りこんで揚げたドーナツ状の菓子"
+  }
+ },
+ {
+  "slug": "salmon-muffin",
+  "en": "Salmon Muffin",
+  "n": {
+   "en": "Salmon Muffin",
+   "zh-CN": "鲑鱼松饼",
+   "zh-TW": "鮭魚鬆餅",
+   "ja": "サーモンマフィン"
+  },
+  "desc": {
+   "en": "A buttery Ishgardian muffin topped with the winning combination of succulent fresh salmon, silky sliced alligator pear, and a drizzling of rich cheese.",
+   "zh-CN": "是一种将鳄梨和鲑鱼还有奶酪夹在一起的松饼。",
+   "zh-TW": "是一種將鱷梨和鮭魚還有奶酪夾在一起的鬆餅。",
+   "ja": "アリゲーターペアとサーモンとチーズを挟んだマフィン"
+  }
+ },
+ {
+  "slug": "shakshouka",
+  "en": "Shakshouka",
+  "n": {
+   "en": "Shakshouka",
+   "zh-CN": "番茄炖蛋",
+   "zh-TW": "番茄燉蛋",
+   "ja": "シャクシュカ"
+  },
+  "desc": {
+   "en": "Eggs perfectly poached in a robust, spicy tomato sauce.",
+   "zh-CN": "是一种将禽类的蛋放进番茄酱汁中炖煮的菜肴。",
+   "zh-TW": "是一種將禽類的蛋放進番茄醬汁中燉煮的菜餚。",
+   "ja": "トマトソースに卵を落とした煮込み料理"
+  }
+ },
+ {
+  "slug": "grilled-rail",
+  "en": "Grilled Rail",
+  "n": {
+   "en": "Grilled Rail",
+   "zh-CN": "秧鸡烤肉",
+   "zh-TW": "秧雞烤肉",
+   "ja": "レイルのグリル"
+  },
+  "desc": {
+   "en": "The succulent tenderloin of an island rail, seared to savory perfection and garnished with garlic and rock salt.",
+   "zh-CN": "岛屿秧鸡的网烤胸脯肉。",
+   "zh-TW": "島嶼秧雞的網烤胸脯肉。",
+   "ja": "アイランド・レイルの笹身の網焼き"
+  }
+ },
+ {
+  "slug": "purple-carrot-juice",
+  "en": "Purple Carrot Juice",
+  "n": {
+   "en": "Purple Carrot Juice",
+   "zh-CN": "紫胡萝卜果汁",
+   "zh-TW": "紫胡蘿蔔果汁",
+   "ja": "パープルカロットジュース"
+  },
+  "desc": {
+   "en": "A hearty and healthful beverage prepared from the pulp of purple carrots and pixie apples.",
+   "zh-CN": "将紫胡萝卜磨碎后添加果汁制作而成的饮料。",
+   "zh-TW": "將紫胡蘿蔔磨碎後添加果汁製作而成的飲料。",
+   "ja": "すり潰したパープルカロットに果汁を加えた飲料"
+  }
+ },
+ {
+  "slug": "caramels",
+  "en": "Caramels",
+  "n": {
+   "en": "Caramels",
+   "zh-CN": "焦糖",
+   "zh-TW": "焦糖",
+   "ja": "キャラメル"
+  },
+  "desc": {
+   "en": "Beet sugar, melted butter, and cream are blended, then chilled and molded to form these bite-sized chewy candies.",
+   "zh-CN": "将黄油融入加热后的白糖，冷却凝固后制作而成的甜品。",
+   "zh-TW": "將黃油融入加熱後的白糖，冷卻凝固後製作而成的甜品。",
+   "ja": "熱した砂糖にバターを加え、冷やし固めた菓子"
+  }
+ },
+ {
+  "slug": "broad-bean-soup",
+  "en": "Broad Bean Soup",
+  "n": {
+   "en": "Broad Bean Soup",
+   "zh-CN": "蚕豆汤",
+   "zh-TW": "蠶豆湯",
+   "ja": "ブロードビーンスープ"
+  },
+  "desc": {
+   "en": "A rich, flavorful soup of stewed broad beans and juicy chunks of rail meat.",
+   "zh-CN": "用蚕豆与鸡肉煮制而成的汤。",
+   "zh-TW": "用蠶豆與雞肉煮制而成的湯。",
+   "ja": "ブロードビーンと鶏肉を煮込んだスープ"
+  }
+ },
+ {
+  "slug": "spaghetti-al-nero",
+  "en": "Spaghetti al Nero",
+  "n": {
+   "en": "Spaghetti al Nero",
+   "zh-CN": "黑色酱汁直面",
+   "zh-TW": "黑色醬汁直面",
+   "ja": "スパゲッティ・ネーロ"
+  },
+  "desc": {
+   "en": "A tangy dish of thin noodles tossed with squid ink and blood tomato sauce that has the unfortunate side effect of turning your teeth jet black.",
+   "zh-CN": "用乌贼墨汁制作的黑色面食。",
+   "zh-TW": "用烏賊墨汁製作的黑色麪食。",
+   "ja": "イカスミをソースに用いた真っ黒なパスタ"
+  }
+ },
+ {
+  "slug": "broad-bean-salad",
+  "en": "Broad Bean Salad",
+  "n": {
+   "en": "Broad Bean Salad",
+   "zh-CN": "蚕豆沙拉",
+   "zh-TW": "蠶豆沙拉",
+   "ja": "ブロードビーンサラダ"
+  },
+  "desc": {
+   "en": "This nourishing salad of broad beans, purple carrots, and lettuce is dressed lightly with frantoio oil and parsley.",
+   "zh-CN": "使用油橄榄油进行调味的蚕豆沙拉。",
+   "zh-TW": "使用油橄欖油進行調味的蠶豆沙拉。",
+   "ja": "フラントーヨオイルで味を調えたブロードビーンのサラダ"
+  }
+ },
+ {
+  "slug": "grilled-platinum-bream",
+  "en": "Grilled Platinum Bream",
+  "n": {
+   "en": "Grilled Platinum Bream",
+   "zh-CN": "盐烤白金鲷鱼",
+   "zh-TW": "鹽烤白金鯛魚",
+   "ja": "グリルドプラチナブリーム"
+  },
+  "desc": {
+   "en": "A single platinum bream, seasoned simply with rock salt and grilled to a golden brown to seal in all the juices.",
+   "zh-CN": "用盐调味炙烤而成的白金鲷鱼。",
+   "zh-TW": "用鹽調味炙烤而成的白金鯛魚。",
+   "ja": "塩をかけて炙ったプラチナブリーム"
+  }
+ },
+ {
+  "slug": "baguette",
+  "en": "Baguette",
+  "n": {
+   "en": "Baguette",
+   "zh-CN": "长棍面包",
+   "zh-TW": "長棍麪包",
+   "ja": "バゲット"
+  },
+  "desc": {
+   "en": "This rustic loaf of bread exudes the appetizing aroma of upland wheat.",
+   "zh-CN": "用山地小麦与盐做成的朴素面包。",
+   "zh-TW": "用山地小麥與鹽做成的樸素麪包。",
+   "ja": "アップランド小麦と塩で作られた素朴なパン"
+  }
+ },
+ {
+  "slug": "blood-tomato-juice",
+  "en": "Blood Tomato Juice",
+  "n": {
+   "en": "Blood Tomato Juice",
+   "zh-CN": "血番茄果汁",
+   "zh-TW": "血番茄果汁",
+   "ja": "ブラッドトマトジュース"
+  },
+  "desc": {
+   "en": "Ripe, pulpy tomatoes have been crushed and mixed with fresh fruit juice to create this blood red beverage.",
+   "zh-CN": "将血番茄榨汁后添加蜂蜜制作而成的饮料。",
+   "zh-TW": "將血番茄榨汁後添加蜂蜜製作而成的飲料。",
+   "ja": "すり潰したブラッドトマトに蜂蜜を加えた飲料"
+  }
+ },
+ {
+  "slug": "pixie-apple-pie",
+  "en": "Pixie Apple Pie",
+  "n": {
+   "en": "Pixie Apple Pie",
+   "zh-CN": "仙子苹果派",
+   "zh-TW": "仙子蘋果派",
+   "ja": "ピクシーアップルパイ"
+  },
+  "desc": {
+   "en": "A flaky, buttery crust surrounds a sweet compote of stewed pixie apples flavored with a hint of cinnamon.",
+   "zh-CN": "用擀平后的面皮卷上数层的仙子苹果烤制而成的甜品。",
+   "zh-TW": "用擀平後的麪皮捲上數層的仙子蘋果烤制而成的甜品。",
+   "ja": "薄く延ばした生地でピクシーアップルを幾重にも巻き、焼き上げた菓子"
+  }
+ },
+ {
+  "slug": "nut-bake",
+  "en": "Nut Bake",
+  "n": {
+   "en": "Nut Bake",
+   "zh-CN": "坚果糕",
+   "zh-TW": "堅果糕",
+   "ja": "ナッツペストリー"
+  },
+  "desc": {
+   "en": "A veritable sackful of luscious seeds and nuts went into this sweet and tasty pastry.",
+   "zh-CN": "将坚果掺入面团中烤制而成的甜品。",
+   "zh-TW": "將堅果摻入麪糰中烤制而成的甜品。",
+   "ja": "ナッツ類を織り込んだ生地を焼き上げた菓子"
+  }
+ },
+ {
+  "slug": "blood-tomato-salad",
+  "en": "Blood Tomato Salad",
+  "n": {
+   "en": "Blood Tomato Salad",
+   "zh-CN": "血番茄沙拉",
+   "zh-TW": "血番茄沙拉",
+   "ja": "ブラッドトマトサラダ"
+  },
+  "desc": {
+   "en": "The dark vinegar topping this salad draws out the flavors of each fresh vegetable without overpowering them. Unless you have poured too much on, that is.",
+   "zh-CN": "经过黑夜醋调味的莴苣与血番茄的沙拉。",
+   "zh-TW": "經過黑夜醋調味的萵苣與血番茄的沙拉。",
+   "ja": "ダークバルサミコビネガーで味を調えたレタスとブラッドトマトのサラダ"
+  }
+ },
+ {
+  "slug": "mushroom-saute",
+  "en": "Mushroom Saute",
+  "n": {
+   "en": "Mushroom Saute",
+   "zh-CN": "煎蘑菇",
+   "zh-TW": "煎蘑菇",
+   "ja": "マッシュルームソテー"
+  },
+  "desc": {
+   "en": "The rich, creamy texture of this dish comes not from the hearty creamtop mushrooms, but from the specially selected butter in which they have been cooked to perfection.",
+   "zh-CN": "用黄油煎过的奶油菇。",
+   "zh-TW": "用黃油煎過的奶油菇。",
+   "ja": "バターで炒めたクリームマッシュルームのソテー"
+  }
+ },
+ {
+  "slug": "sausage-links",
+  "en": "Sausage Links",
+  "n": {
+   "en": "Sausage Links",
+   "zh-CN": "香肠",
+   "zh-TW": "香腸",
+   "ja": "ソーセージ"
+  },
+  "desc": {
+   "en": "Though this is a surprisingly difficult dish to master, as the casings that hold in the rich blend of flavors can easily split during cooking, the resulting greasy, salty links are well worth the effort—particularly if said effort is someone else's.",
+   "zh-CN": "将绞肉塞进动物的肠衣中煮制而成的保存食物。",
+   "zh-TW": "將絞肉塞進動物的腸衣中煮制而成的保存食物。",
+   "ja": "動物の腸に詰めた挽肉を煮た保存食"
+  }
+ },
+ {
+  "slug": "roast-ovim",
+  "en": "Roast Ovim",
+  "n": {
+   "en": "Roast Ovim",
+   "zh-CN": "烤力山羊",
+   "zh-TW": "烤力山羊",
+   "ja": "ローストオヴィム"
+  },
+  "desc": {
+   "en": "A carefully presented selection of the finest ovim cutlets, accompanied with a serving of popotoes and a delicately seasoned sauce.",
+   "zh-CN": "用黑夜醋调味的烤山羊肉。",
+   "zh-TW": "用黑夜醋調味的烤山羊肉。",
+   "ja": "ダークバルサミコビネガーで味を調えた山羊肉のロースト"
+  }
+ },
+ {
+  "slug": "mushroom-skewer",
+  "en": "Mushroom Skewer",
+  "n": {
+   "en": "Mushroom Skewer",
+   "zh-CN": "蘑菇烤串",
+   "zh-TW": "蘑菇烤串",
+   "ja": "マッシュルームスキュアー"
+  },
+  "desc": {
+   "en": "The creamtop mushrooms take center stage in this simple yet filling dish, though the blood tomatoes and ramhorn zucchinis perform admirably in supporting roles.",
+   "zh-CN": "奶油菇与蔬菜的烤串。",
+   "zh-TW": "奶油菇與蔬菜的烤串。",
+   "ja": "クリームマッシュルームと野菜の串焼き料理"
+  }
+ },
+ {
+  "slug": "baked-megapiranha",
+  "en": "Baked Megapiranha",
+  "n": {
+   "en": "Baked Megapiranha",
+   "zh-CN": "菌蒸巨型水虎鱼",
+   "zh-TW": "菌蒸巨型水虎魚",
+   "ja": "ベイクド・メガピラニア"
+  },
+  "desc": {
+   "en": "The fearsome megapiranha makes for a succulent main course, served with a delightfully simple butter sauce. Better to eat a piranha than be eaten by one.",
+   "zh-CN": "将巨型水虎鱼与奶油菇用黄油焖制而成的菜肴。",
+   "zh-TW": "將巨型水虎魚與奶油菇用黃油燜制而成的菜餚。",
+   "ja": "メガピラニアとクリームマッシュルームのバター蒸し焼き"
+  }
+ },
+ {
+  "slug": "peppered-popotoes",
+  "en": "Peppered Popotoes",
+  "n": {
+   "en": "Peppered Popotoes",
+   "zh-CN": "胡椒炒新薯",
+   "zh-TW": "胡椒炒新薯",
+   "ja": "ペッパーポポト"
+  },
+  "desc": {
+   "en": "A pleasing plate of popotoes peppered and prepared to perfection, playing pleasurably on the palate.",
+   "zh-CN": "用黄新薯和香肠炒制而成的菜肴。",
+   "zh-TW": "用黃新薯和香腸炒制而成的菜餚。",
+   "ja": "ラセットポポトとソーセージの炒め料理"
+  }
+ },
+ {
+  "slug": "popotoes-au-gratin",
+  "en": "Popotoes au Gratin",
+  "n": {
+   "en": "Popotoes au Gratin",
+   "zh-CN": "焗黄新薯",
+   "zh-TW": "焗黃新薯",
+   "ja": "ラセットポポトグラタン"
+  },
+  "desc": {
+   "en": "Though the wonderfully flavorsome russet popotoes are undoubtedly the star attraction, it is arguably the cream cheese that steals the show with its distinctive flavor.",
+   "zh-CN": "使用了大量黄新薯制作而成的焗菜。",
+   "zh-TW": "使用了大量黃新薯製作而成的焗菜。",
+   "ja": "ラセットポポトをふんだんに使ったグラタン"
+  }
+ },
+ {
+  "slug": "masala-chai",
+  "en": "Masala Chai",
+  "n": {
+   "en": "Masala Chai",
+   "zh-CN": "马萨拉奶茶",
+   "zh-TW": "馬薩拉奶茶",
+   "ja": "マサラチャイ"
+  },
+  "desc": {
+   "en": "The Coerthan tea leaves may provide the base, but it's the cinnamon and Amber cloves that add the signature sweet and aromatic flavor to this traditional beverage.",
+   "zh-CN": "用琥珀丁香调味过的奶茶。",
+   "zh-TW": "用琥珀丁香調味過的奶茶。",
+   "ja": "アンバークローヴで香りをつけたミルクティー"
+  }
+ },
+ {
+  "slug": "risotto-al-nero",
+  "en": "Risotto al Nero",
+  "n": {
+   "en": "Risotto al Nero",
+   "zh-CN": "墨汁炖饭",
+   "zh-TW": "墨汁燉飯",
+   "ja": "リゾット・ネーロ"
+  },
+  "desc": {
+   "en": "While the squid ink may give this dish a somewhat outlandish appearance, the other ingredients are remarkably simple, and the various flavors combine beautifully to create an unforgettable culinary experience that must be tasted to be believed.",
+   "zh-CN": "使用邦巴米并添加了乌贼墨汁煮制而成的炖饭。",
+   "zh-TW": "使用邦巴米並添加了烏賊墨汁煮制而成的燉飯。",
+   "ja": "イカスミを加えて煮込んだボンバライスの雑炊"
+  }
+ },
+ {
+  "slug": "espresso-con-panna",
+  "en": "Espresso con Panna",
+  "n": {
+   "en": "Espresso con Panna",
+   "zh-CN": "浓缩奶油咖啡",
+   "zh-TW": "濃縮奶油咖啡",
+   "ja": "エスプレッソ・コン・パンナ"
+  },
+  "desc": {
+   "en": "The surprising addition of sour cream may catch some off guard, but they will invariably be won over by the subtle harmonies of this rich blend.",
+   "zh-CN": "表面漂着一层发泡奶油的咖啡。",
+   "zh-TW": "表面漂着一層發泡奶油的咖啡。",
+   "ja": "泡立てたクリームをのせたコーヒー"
+  }
+ },
+ {
+  "slug": "mist-spinach-saute",
+  "en": "Mist Spinach Saute",
+  "n": {
+   "en": "Mist Spinach Saute",
+   "zh-CN": "黄油煎迷雾菠菜",
+   "zh-TW": "黃油煎迷霧菠菜",
+   "ja": "ミストスピナッチソテー"
+  },
+  "desc": {
+   "en": "Fresh, flavorful mist spinach tossed in creamy butter until tender, topped with a drizzle of vinegar.",
+   "zh-CN": "用黄油煎制的迷雾菠菜。",
+   "zh-TW": "用黃油煎制的迷霧菠菜。",
+   "ja": "バターで炒めたミストスピナッチのソテー"
+  }
+ },
+ {
+  "slug": "blood-bouillabaisse",
+  "en": "Blood Bouillabaisse",
+  "n": {
+   "en": "Blood Bouillabaisse",
+   "zh-CN": "血色五海杂烩汤",
+   "zh-TW": "血色五海雜燴湯",
+   "ja": "ブラッドブイヤベース"
+  },
+  "desc": {
+   "en": "A rich stew of sweet shellfish steeped with spices in a thick tomato-based broth.",
+   "zh-CN": "用各种各样的海鲜炖煮而成的海鲜汤。",
+   "zh-TW": "用各種各樣的海鮮燉煮而成的海鮮湯。",
+   "ja": "さまざまな海の幸を煮込んだ海鮮スープ"
+  }
+ },
+ {
+  "slug": "paella",
+  "en": "Paella",
+  "n": {
+   "en": "Paella",
+   "zh-CN": "海鲜烩饭",
+   "zh-TW": "海鮮燴飯",
+   "ja": "パエリア"
+  },
+  "desc": {
+   "en": "A hearty dish of seafood and rice infused with spices and enriched by a hint of wood smoke from the open fire over which it was cooked.",
+   "zh-CN": "用邦巴米与鱼贝类一起蒸制而成的谷物菜肴。",
+   "zh-TW": "用邦巴米與魚貝類一起蒸制而成的穀物菜餚。",
+   "ja": "ボンバライスを魚介類と共に炊き込んだ穀物料理"
+  }
+ },
+ {
+  "slug": "coffee-biscuit",
+  "en": "Coffee Biscuit",
+  "n": {
+   "en": "Coffee Biscuit",
+   "zh-CN": "咖啡曲奇",
+   "zh-TW": "咖啡曲奇",
+   "ja": "コーヒークッキー"
+  },
+  "desc": {
+   "en": "A buttery biscuit with a subtle coffee flavor.",
+   "zh-CN": "添加了咖啡豆的朴素烤点心。",
+   "zh-TW": "添加了咖啡豆的樸素烤點心。",
+   "ja": "コーヒービーンが入った素朴な焼き菓子"
+  }
+ },
+ {
+  "slug": "ovim-cordon-bleu",
+  "en": "Ovim Cordon Bleu",
+  "n": {
+   "en": "Ovim Cordon Bleu",
+   "zh-CN": "力山羊肉蓝带肉排",
+   "zh-TW": "力山羊肉藍帶肉排",
+   "ja": "オヴィム・コルドンブルー"
+  },
+  "desc": {
+   "en": "An indulgent meal of tender ovim meat wrapped around gooey cheese, battered and panfried in oil to give it its crispy, golden brown shell.",
+   "zh-CN": "将力山羊肉敲打至薄片，包裹奶酪后炸出的肉排。",
+   "zh-TW": "將力山羊肉敲打至薄片，包裹奶酪後炸出的肉排。",
+   "ja": "薄く叩いたオヴィムの肉でチーズを包み、油で揚げた料理"
+  }
+ },
+ {
+  "slug": "lemonade",
+  "en": "Lemonade",
+  "n": {
+   "en": "Lemonade",
+   "zh-CN": "柠檬水",
+   "zh-TW": "檸檬水",
+   "ja": "レモネード"
+  },
+  "desc": {
+   "en": "An incomparably refreshing blend of sour lemonette juice and sweet golden honey.",
+   "zh-CN": "用蜂蜜和柠檬果汁混合而成的饮料。",
+   "zh-TW": "用蜂蜜和檸檬果汁混合而成的飲料。",
+   "ja": "蜂蜜にレモン果汁を混ぜ合わせた飲料"
+  }
+ },
+ {
+  "slug": "jellied-harcot",
+  "en": "Jellied Harcot",
+  "n": {
+   "en": "Jellied Harcot",
+   "zh-CN": "香杏果冻",
+   "zh-TW": "香杏果凍",
+   "ja": "ハーコットゼリー"
+  },
+  "desc": {
+   "en": "A chilled dessert of sweet harcot boiled with sugar and mixed with gelatin to give it a pleasing texture.",
+   "zh-CN": "将糖水煮过的香杏用明胶冷冻后制成的甜点。",
+   "zh-TW": "將糖水煮過的香杏用明膠冷凍後製成的甜點。",
+   "ja": "甘く煮込んだハーコットをゼラチンで固めて冷やした涼菓"
+  }
+ },
+ {
+  "slug": "oysters-on-the-half-shell",
+  "en": "Oysters on the Half Shell",
+  "n": {
+   "en": "Oysters on the Half Shell",
+   "zh-CN": "生吃食用蚝",
+   "zh-TW": "生喫食用蠔",
+   "ja": "ローエディブルオイスター"
+  },
+  "desc": {
+   "en": "A large plate of delectable raw sweetflesh oysters paired with refreshing lemon slices.",
+   "zh-CN": "将柠檬汁挤在食用蚝上做成的菜肴。",
+   "zh-TW": "將檸檬汁擠在食用蠔上做成的菜餚。",
+   "ja": "レモンを一絞りしたエディブルオイスター"
+  }
+ },
+ {
+  "slug": "creamy-salmon-pasta",
+  "en": "Creamy Salmon Pasta",
+  "n": {
+   "en": "Creamy Salmon Pasta",
+   "zh-CN": "鲑鱼奶油面",
+   "zh-TW": "鮭魚奶油麪",
+   "ja": "サーモンクリームパスタ"
+  },
+  "desc": {
+   "en": "Filling homemade pasta topped with tender, flaky salmon and fresh spinach, all smothered in a rich, creamy sauce.",
+   "zh-CN": "在鲑鱼和菠菜上点缀奶油，与细面拌在一起食用。",
+   "zh-TW": "在鮭魚和菠菜上點綴奶油，與細麪拌在一起食用。",
+   "ja": "クリームソースに鮭とホウレンソウを和えたパスタ"
+  }
+ },
+ {
+  "slug": "king-salmon-meuniere",
+  "en": "King Salmon Meuniere",
+  "n": {
+   "en": "King Salmon Meuniere",
+   "zh-CN": "帝王鲑鱼排",
+   "zh-TW": "帝王鮭魚排",
+   "ja": "キングサーモンムニエル"
+  },
+  "desc": {
+   "en": "A fillet of soft, delectable salmon coated in flour and fried in rich butter comprises this simple-yet-indulgent dish.",
+   "zh-CN": "将帝王鲑裹上小麦粉，再用黄油煎烤而成。",
+   "zh-TW": "將帝王鮭裹上小麥粉，再用黃油煎烤而成。",
+   "ja": "キングサーモンに小麦粉をまぶし、バター焼きした料理"
+  }
+ },
+ {
+  "slug": "popoto-salad",
+  "en": "Popoto Salad",
+  "n": {
+   "en": "Popoto Salad",
+   "zh-CN": "新薯沙拉",
+   "zh-TW": "新薯沙拉",
+   "ja": "ポポトサラダ"
+  },
+  "desc": {
+   "en": "A creamy side dish of eggs, colorful vegetables, and hearty russet popotoes.",
+   "zh-CN": "将黄新薯与鸡蛋和蔬菜搅拌而成的沙拉。",
+   "zh-TW": "將黃新薯與雞蛋和蔬菜攪拌而成的沙拉。",
+   "ja": "ラセットポポトに卵と野菜を混ぜ合わせて作ったサラダ"
+  }
+ },
+ {
+  "slug": "robe-lettuce-salad",
+  "en": "Robe Lettuce Salad",
+  "n": {
+   "en": "Robe Lettuce Salad",
+   "zh-CN": "巫师莴苣沙拉",
+   "zh-TW": "巫師萵苣沙拉",
+   "ja": "ウィザードレタスサラダ"
+  },
+  "desc": {
+   "en": "Fresh, crisp robe lettuce garnished with a drizzle of delectable frantoio oil.",
+   "zh-CN": "使用油橄榄油进行调味的巫师莴苣沙拉。",
+   "zh-TW": "使用油橄欖油進行調味的巫師萵苣沙拉。",
+   "ja": "フラントーヨオイルで味を調えたウィザードレタスのサラダ"
+  }
+ },
+ {
+  "slug": "pixieberry-tea",
+  "en": "Pixieberry Tea",
+  "n": {
+   "en": "Pixieberry Tea",
+   "zh-CN": "仙子莓茶",
+   "zh-TW": "仙子莓茶",
+   "ja": "ピクシーベリーティー"
+  },
+  "desc": {
+   "en": "A perfectly steeped cup of aromatic, sweet-and-tart tea.",
+   "zh-CN": "加入了大量仙子莓的红茶。",
+   "zh-TW": "加入了大量仙子莓的紅茶。",
+   "ja": "ピクシーベリーをふんだんに使った紅茶"
+  }
+ },
+ {
+  "slug": "pixieberry-cheesecake",
+  "en": "Pixieberry Cheesecake",
+  "n": {
+   "en": "Pixieberry Cheesecake",
+   "zh-CN": "仙子莓奶酪蛋糕",
+   "zh-TW": "仙子莓奶酪蛋糕",
+   "ja": "ベリーチーズケーキ"
+  },
+  "desc": {
+   "en": "Rich, indulgent cheesecake swirled through with a ribbon of sweet pixieberry sauce.",
+   "zh-CN": "香甜的奶酪蛋糕中融入了仙子莓的果香。",
+   "zh-TW": "香甜的奶酪蛋糕中融入了仙子莓的果香。",
+   "ja": "ピクシーベリーのソースをかけたフルーティなチーズケーキ"
+  }
+ },
+ {
+  "slug": "kukuru-rusk",
+  "en": "Kukuru Rusk",
+  "n": {
+   "en": "Kukuru Rusk",
+   "zh-CN": "可可面包干",
+   "zh-TW": "可可麪包幹",
+   "ja": "ククルラスク"
+  },
+  "desc": {
+   "en": "The slightly bitter notes in the kukuru butter used to make this crisp bread give it its distinctive mellow sweetness.",
+   "zh-CN": "将刷了可可油的面包烤干后得到的面包干。",
+   "zh-TW": "將刷了可可油的麪包烤乾後得到的麪包幹。",
+   "ja": "ククルバターにじっくり漬けたブレッド"
+  }
+ },
+ {
+  "slug": "lemon-curd-sachertorte",
+  "en": "Lemon Curd Sachertorte",
+  "n": {
+   "en": "Lemon Curd Sachertorte",
+   "zh-CN": "柠檬萨赫蛋糕",
+   "zh-TW": "檸檬薩赫蛋糕",
+   "ja": "レモンカードザッハトルテ"
+  },
+  "desc": {
+   "en": "A rich cake of indulgent chocolate accented with the perfect amount of tart lemon curd.",
+   "zh-CN": "夹有柠檬酱的高级巧克力蛋糕。",
+   "zh-TW": "夾有檸檬醬的高級巧克力蛋糕。",
+   "ja": "レモンカードを挟み込んだ高級チョコレートケーキ"
+  }
+ },
+ {
+  "slug": "rare-roast-beef",
+  "en": "Rare Roast Beef",
+  "n": {
+   "en": "Rare Roast Beef",
+   "zh-CN": "高级烤牛肉",
+   "zh-TW": "高級烤牛肉",
+   "ja": "高級ローストビーフ"
+  },
+  "desc": {
+   "en": "The finest quality dzo, seared lightly to add a note of smokiness to the still-bleeding meat's naturally savory flavor, and topped with a drizzle of salty au jus.",
+   "zh-CN": "将高级犏牛肉用小火烤制而成。",
+   "zh-TW": "將高級犏牛肉用小火烤制而成。",
+   "ja": "ケナガウシの高級肉を蒸し焼きにした肉料理"
+  }
+ },
+ {
+  "slug": "exquisite-beef-stew",
+  "en": "Exquisite Beef Stew",
+  "n": {
+   "en": "Exquisite Beef Stew",
+   "zh-CN": "高级清炖牛肉",
+   "zh-TW": "高級清燉牛肉",
+   "ja": "高級ビーフシチュー"
+  },
+  "desc": {
+   "en": "Tender, juicy chunks of savory dzo and hearty popoto simmered in a thick, comforting broth.",
+   "zh-CN": "将高级犏牛肉与新薯用小火慢慢炖制而成。",
+   "zh-TW": "將高級犏牛肉與新薯用小火慢慢燉制而成。",
+   "ja": "ケナガウシの高級肉とポポトをじっくり煮込んだシチュー"
+  }
+ },
+ {
+  "slug": "mejillones-al-ajillo",
+  "en": "Mejillones al Ajillo",
+  "n": {
+   "en": "Mejillones al Ajillo",
+   "zh-CN": "蒜炒贻贝",
+   "zh-TW": "蒜炒貽貝",
+   "ja": "ムセルアヒージョ"
+  },
+  "desc": {
+   "en": "A sumptuous serving of delectable mussels smothered in an oily garlic sauce, each one a perfectly bite-sized burst of flavor.",
+   "zh-CN": "将贻贝与大蒜用油橄榄油煸炒而成的美味菜肴。",
+   "zh-TW": "將貽貝與大蒜用油橄欖油煸炒而成的美味菜餚。",
+   "ja": "ムセルをガーリックとフラントーヨオイルで炒めた料理"
+  }
+ },
+ {
+  "slug": "arros-negre",
+  "en": "Arros Negre",
+  "n": {
+   "en": "Arros Negre",
+   "zh-CN": "乌贼墨汁炒饭",
+   "zh-TW": "烏賊墨汁炒飯",
+   "ja": "アロス・ネグロ"
+  },
+  "desc": {
+   "en": "Though the squid ink makes for an unusual appearance, its contribution to this dish's flavor profile is undeniable— it blends with several herbs and spices to complement the buttery mussels and hearty rice for an immensely satisfying culinary experience.",
+   "zh-CN": "将贻贝与邦巴米用乌贼墨汁煸炒而成的黑色炒饭。",
+   "zh-TW": "將貽貝與邦巴米用烏賊墨汁煸炒而成的黑色炒飯。",
+   "ja": "イカスミを用いてムセルとボンバライスを炒めた真っ黒な穀物料理"
+  }
+ },
+ {
+  "slug": "ovim-meatballs",
+  "en": "Ovim Meatballs",
+  "n": {
+   "en": "Ovim Meatballs",
+   "zh-CN": "力山羊肉丸",
+   "zh-TW": "力山羊肉丸",
+   "ja": "オヴィムミートボール"
+  },
+  "desc": {
+   "en": "Savory, round chunks of minced ovim meat accented with a lingonberry sauce that's sweet yet tart.",
+   "zh-CN": "裹着山莓酱的肉丸。",
+   "zh-TW": "裹着山莓醬的肉丸。",
+   "ja": "リンゴンベリーソースを絡めた肉団子"
+  }
+ },
+ {
+  "slug": "mors",
+  "en": "Mors",
+  "n": {
+   "en": "Mors",
+   "zh-CN": "莫尔斯",
+   "zh-TW": "莫爾斯",
+   "ja": "モルス"
+  },
+  "desc": {
+   "en": "A traditional beverage brewed from the extract of fermented lingonberries.",
+   "zh-CN": "用山莓发酵后表层清澈的液体制作而成的传统饮料。",
+   "zh-TW": "用山莓發酵後表層清澈的液體制作而成的傳統飲料。",
+   "ja": "発酵させたリンゴンベリーの上澄み液を使った伝統的な飲料"
+  }
+ },
+ {
+  "slug": "lemon-waffle",
+  "en": "Lemon Waffle",
+  "n": {
+   "en": "Lemon Waffle",
+   "zh-CN": "柠檬华夫饼",
+   "zh-TW": "檸檬華夫餅",
+   "ja": "レモンワッフル"
+  },
+  "desc": {
+   "en": "Crispy on the outside and moist on the inside, this baked delight with a distinctive texture has a slight hint of citrus.",
+   "zh-CN": "柠檬味的烤点心。",
+   "zh-TW": "檸檬味的烤點心。",
+   "ja": "レモン風味の焼き菓子"
+  }
+ },
+ {
+  "slug": "honey-croissant",
+  "en": "Honey Croissant",
+  "n": {
+   "en": "Honey Croissant",
+   "zh-CN": "蜂蜜牛角面包",
+   "zh-TW": "蜂蜜牛角麪包",
+   "ja": "ハニークロワッサン"
+  },
+  "desc": {
+   "en": "A flaky, decadent pastry sweetened with rich, golden honey.",
+   "zh-CN": "用加入了蜂蜜的面团烧制的月牙形甜面包。",
+   "zh-TW": "用加入了蜂蜜的麪糰燒製的月牙形甜麪包。",
+   "ja": "生地に黄金蜂蜜を練りこんで焼き上げた三日月形の甘いパン"
+  }
+ },
+ {
+  "slug": "sausage-and-sauerkraut",
+  "en": "Sausage and Sauerkraut",
+  "n": {
+   "en": "Sausage and Sauerkraut",
+   "zh-CN": "香肠泡菜",
+   "zh-TW": "香腸泡菜",
+   "ja": "ソーセージ・ザワークラウト"
+  },
+  "desc": {
+   "en": "Aromatic, herb-seasoned meat and pickled cabbage come together in a mouthwatering combination.",
+   "zh-CN": "香肠与泡菜的拼盘。",
+   "zh-TW": "香腸與泡菜的拼盤。",
+   "ja": "ソーセージのザワークラウト添え"
+  }
+ },
+ {
+  "slug": "stuffed-highland-cabbage",
+  "en": "Stuffed Highland Cabbage",
+  "n": {
+   "en": "Stuffed Highland Cabbage",
+   "zh-CN": "高地风味菜肉卷",
+   "zh-TW": "高地風味菜肉卷",
+   "ja": "高地風挽肉のキャベツ巻き"
+  },
+  "desc": {
+   "en": "This traditional dish of minced meat seasoned and packed inside leafy highland cabbage, then stewed in a light broth, is sure to warm you up on the coldest of nights.",
+   "zh-CN": "过水的高地甘蓝包上肉馅，经过炖煮后得到的美味佳肴。",
+   "zh-TW": "過水的高地甘藍包上肉餡，經過燉煮後得到的美味佳餚。",
+   "ja": "挽肉を湯通ししたハイランドキャベツで包み、煮込んだ料理"
+  }
+ },
+ {
+  "slug": "pickled-herring",
+  "en": "Pickled Herring",
+  "n": {
+   "en": "Pickled Herring",
+   "zh-CN": "腌鲱鱼",
+   "zh-TW": "醃鯡魚",
+   "ja": "ヘリングマリネ"
+  },
+  "desc": {
+   "en": "Succulent chunks of platinum herring marinated in vinegar and topped with finely sliced lemonette to give it a hint of tang.",
+   "zh-CN": "白金鲱鱼用醋泡制后加入小柠檬得到的美味佳肴。",
+   "zh-TW": "白金鯡魚用醋泡製後加入小檸檬得到的美味佳餚。",
+   "ja": "リトルレモンを添えた、プラチナヘリングの酢漬け"
+  }
+ },
+ {
+  "slug": "herring-pie",
+  "en": "Herring Pie",
+  "n": {
+   "en": "Herring Pie",
+   "zh-CN": "鲱鱼派",
+   "zh-TW": "鯡魚派",
+   "ja": "ヘリングパイ"
+  },
+  "desc": {
+   "en": "Chunks of seasoned herring baked into a flaky crust that's been shaped like a fish so as to inform the eater to expect savory instead of sweet.",
+   "zh-CN": "以鲱鱼为模型加入鱼肉烤制而成的派。",
+   "zh-TW": "以鯡魚爲模型加入魚肉烤制而成的派。",
+   "ja": "ヘリングを模して焼いた魚肉入りパイ"
+  }
+ },
+ {
+  "slug": "farmer-s-breakfast",
+  "en": "Farmer's Breakfast",
+  "n": {
+   "en": "Farmer's Breakfast",
+   "zh-CN": "农场早餐",
+   "zh-TW": "農場早餐",
+   "ja": "ファーマーズブレックファスト"
+  },
+  "desc": {
+   "en": "This simple-yet-delightful dish of popotoes and lightly scrambled eggs will fill you up before a day of tilling the fields.",
+   "zh-CN": "新薯和鸡蛋制作而成的朴素家庭料理。",
+   "zh-TW": "新薯和雞蛋製作而成的樸素家庭料理。",
+   "ja": "ポポトを卵で綴じた素朴な家庭料理"
+  }
+ },
+ {
+  "slug": "silkie-pudding",
+  "en": "Silkie Pudding",
+  "n": {
+   "en": "Silkie Pudding",
+   "zh-CN": "乌鸡布丁",
+   "zh-TW": "烏雞布丁",
+   "ja": "シルキープディング"
+  },
+  "desc": {
+   "en": "The distinctively smooth texture and rich taste of this lightly sweet, boiled dessert will have your mouth watering.",
+   "zh-CN": "用乌鸡蛋烧制而成的点心，口感嫩滑。",
+   "zh-TW": "用烏雞蛋燒製而成的點心，口感嫩滑。",
+   "ja": "烏骨鶏卵を用いて舌触りをなめらかにした蒸し焼き菓子"
+  }
+ },
+ {
+  "slug": "crab-cakes",
+  "en": "Crab Cakes",
+  "n": {
+   "en": "Crab Cakes",
+   "zh-CN": "炸蟹饼",
+   "zh-TW": "炸蟹餅",
+   "ja": "クラブケーキ"
+  },
+  "desc": {
+   "en": "To preserve the toothsome texture of blue crab, chunks of flesh are gently folded into flour and molded into cakes, which are panfried to golden perfection.",
+   "zh-CN": "将蓝蟹肉混入小麦粉中搅拌均匀后炸制而成的菜肴。",
+   "zh-TW": "將藍蟹肉混入小麥粉中攪拌均勻後炸制而成的菜餚。",
+   "ja": "ほぐしたブルークラブの身を小麦粉と混ぜ合わせ、揚げ焼きにした料理"
+  }
+ },
+ {
+  "slug": "chili-crab",
+  "en": "Chili Crab",
+  "n": {
+   "en": "Chili Crab",
+   "zh-CN": "辣酱炒全蟹",
+   "zh-TW": "辣醬炒全蟹",
+   "ja": "チリクラブ"
+  },
+  "desc": {
+   "en": "A whole blue crab braised in its shell in a piquant sauce, which takes on a rich shellfish flavor in the course of cooking.",
+   "zh-CN": "用香醇浓郁的辣酱包裹住整只蓝蟹炒制而成的菜肴。",
+   "zh-TW": "用香醇濃郁的辣醬包裹住整隻藍蟹炒制而成的菜餚。",
+   "ja": "ブルークラブに芳醇なチリソースを絡め、殻ごと炒めた料理"
+  }
+ },
+ {
+  "slug": "pizza",
+  "en": "Pizza",
+  "n": {
+   "en": "Pizza",
+   "zh-CN": "披萨",
+   "zh-TW": "披薩",
+   "ja": "ピッツァ"
+  },
+  "desc": {
+   "en": "A simple-but-satisfying dish of thinly worked dough topped with tomatoes and cheese, baked in a wood-fired oven until crispy.",
+   "zh-CN": "在擀薄后的面饼上撒上番茄酱和奶酪烤制而成的菜肴。",
+   "zh-TW": "在擀薄後的麪餅上撒上番茄醬和奶酪烤制而成的菜餚。",
+   "ja": "薄く延ばした生地に、トマトペーストとチーズをのせて焼き上げた料理"
+  }
+ },
+ {
+  "slug": "mist-spinach-quiche",
+  "en": "Mist Spinach Quiche",
+  "n": {
+   "en": "Mist Spinach Quiche",
+   "zh-CN": "迷雾菠菜乳蛋饼",
+   "zh-TW": "迷霧菠菜乳蛋餅",
+   "ja": "ミストスピナッチキッシュ"
+  },
+  "desc": {
+   "en": "Using choice ingredients such as mist spinach and mozzarella, this variation of spinach quiche satisfies even the fussiest gourmand.",
+   "zh-CN": "在馅饼坯中加入迷雾菠菜和奶酪烤制而成的菜肴。",
+   "zh-TW": "在餡餅坯中加入迷霧菠菜和奶酪烤制而成的菜餚。",
+   "ja": "パイ生地で作った器に、ミストスピナッチとチーズをのせて焼き上げた料理"
+  }
+ },
+ {
+  "slug": "chicken-fettuccine",
+  "en": "Chicken Fettuccine",
+  "n": {
+   "en": "Chicken Fettuccine",
+   "zh-CN": "奶油鸡肉宽面",
+   "zh-TW": "奶油雞肉寬麪",
+   "ja": "チキンフェットゥチーネ"
+  },
+  "desc": {
+   "en": "Flat, thick pasta smothered in a rich cream sauce with tender slices of chicken thigh.",
+   "zh-CN": "以奶油酱汁为基底加入了土鸡的腿肉制作而成的面食。",
+   "zh-TW": "以奶油醬汁爲基底加入了土雞的腿肉製作而成的麪食。",
+   "ja": "クリームソースに地鶏のモモ肉を和えたパスタ"
+  }
+ },
+ {
+  "slug": "smoked-chicken",
+  "en": "Smoked Chicken",
+  "n": {
+   "en": "Smoked Chicken",
+   "zh-CN": "烟熏鸡肉",
+   "zh-TW": "煙燻雞肉",
+   "ja": "スモークチキン"
+  },
+  "desc": {
+   "en": "A leg of chicken patiently smoked to perfection.",
+   "zh-CN": "将土鸡的腿肉经过漫长的熏制制作而成的菜肴。",
+   "zh-TW": "將土雞的腿肉經過漫長的熏製製作而成的菜餚。",
+   "ja": "地鶏のモモ肉をじっくり燻製にした料理"
+  }
+ },
+ {
+  "slug": "golden-pineapple-juice",
+  "en": "Golden Pineapple Juice",
+  "n": {
+   "en": "Golden Pineapple Juice",
+   "zh-CN": "黄金菠萝汁",
+   "zh-TW": "黃金菠蘿汁",
+   "ja": "ゴールドパインジュース"
+  },
+  "desc": {
+   "en": "Tart and invigorating juice freshly squeezed from golden pineapples.",
+   "zh-CN": "用新鲜的黄金菠萝榨成的果汁。",
+   "zh-TW": "用新鮮的黃金菠蘿榨成的果汁。",
+   "ja": "ゴールドパインを絞ったフレッシュジュース"
+  }
+ },
+ {
+  "slug": "pineapple-salad",
+  "en": "Pineapple Salad",
+  "n": {
+   "en": "Pineapple Salad",
+   "zh-CN": "菠萝沙拉",
+   "zh-TW": "菠蘿沙拉",
+   "ja": "パインサラダ"
+  },
+  "desc": {
+   "en": "A salad featuring chunks of golden pineapple tossed with a flavorsome frantoio oil dressing.",
+   "zh-CN": "用油橄榄油进行调味的黄金菠萝沙拉。",
+   "zh-TW": "用油橄欖油進行調味的黃金菠蘿沙拉。",
+   "ja": "フラントーヨオイルで味を調えたゴールドパインのサラダ"
+  }
+ },
+ {
+  "slug": "zefir",
+  "en": "Zefir",
+  "n": {
+   "en": "Zefir",
+   "zh-CN": "软果糕",
+   "zh-TW": "軟果糕",
+   "ja": "ゼフィール"
+  },
+  "desc": {
+   "en": "An irresistibly soft and airy confectionary made from whipped twilight apple purée.",
+   "zh-CN": "用暮光苹果泥制作而成的甜品。",
+   "zh-TW": "用暮光蘋果泥製作而成的甜品。",
+   "ja": "トワイライトアップルのピューレを使った柔らかな菓子"
+  }
+ },
+ {
+  "slug": "twilight-popoto-salad",
+  "en": "Twilight Popoto Salad",
+  "n": {
+   "en": "Twilight Popoto Salad",
+   "zh-CN": "苹果新薯沙拉",
+   "zh-TW": "蘋果新薯沙拉",
+   "ja": "アップルポポトサラダ"
+  },
+  "desc": {
+   "en": "Shredded twilight apples give this popoto salad a crunchy texture and fruity tang.",
+   "zh-CN": "加入了切碎的暮光苹果的新薯沙拉。",
+   "zh-TW": "加入了切碎的暮光蘋果的新薯沙拉。",
+   "ja": "刻んだトワイライトアップルを加えたポポトサラダ"
+  }
+ },
+ {
+  "slug": "broad-bean-curry",
+  "en": "Broad Bean Curry",
+  "n": {
+   "en": "Broad Bean Curry",
+   "zh-CN": "豆子咖喱",
+   "zh-TW": "豆子咖喱",
+   "ja": "ビーンカレー"
+  },
+  "desc": {
+   "en": "Broad beans stewed with fragrant spices, served with a side of steamed rice.",
+   "zh-CN": "用大量的豆类和香辛料炖煮而成的菜肴。",
+   "zh-TW": "用大量的豆類和香辛料燉煮而成的菜餚。",
+   "ja": "豆と香辛料たっぷりの煮込み料理"
+  }
+ },
+ {
+  "slug": "lemon-muffin",
+  "en": "Lemon Muffin",
+  "n": {
+   "en": "Lemon Muffin",
+   "zh-CN": "柠檬松饼",
+   "zh-TW": "檸檬鬆餅",
+   "ja": "レモンマフィン"
+  },
+  "desc": {
+   "en": "A sweet and zesty muffin made by mixing lemonette rind and juice into the dough.",
+   "zh-CN": "用加入了小柠檬的面团烤制而成的松饼。",
+   "zh-TW": "用加入了小檸檬的麪糰烤制而成的鬆餅。",
+   "ja": "リトルレモンを混ぜた生地を焼き上げたマフィン"
+  }
+ },
+ {
+  "slug": "pepperoni-pizza",
+  "en": "Pepperoni Pizza",
+  "n": {
+   "en": "Pepperoni Pizza",
+   "zh-CN": "红肠披萨",
+   "zh-TW": "紅腸披薩",
+   "ja": "ペパロニピザ"
+  },
+  "desc": {
+   "en": "Slices of spicy pepperoni scattered liberally across a thin-crusted base, baked to perfection.",
+   "zh-CN": "在擀得很薄的面饼上撒上了分量十足的香辣红肠，经高温烤制而成的披萨。",
+   "zh-TW": "在擀得很薄的麪餅上撒上了分量十足的香辣紅腸，經高溫烤制而成的披薩。",
+   "ja": "丸く薄く伸ばした生地に、スパイシーなペパロニをたっぷりのせて焼き上げたピザ"
+  }
+ },
+ {
+  "slug": "archon-loaf",
+  "en": "Archon Loaf",
+  "n": {
+   "en": "Archon Loaf",
+   "zh-CN": "贤人面包",
+   "zh-TW": "賢人面包",
+   "ja": "賢人パン"
+  },
+  "desc": {
+   "en": "Baked with either fish or vegetable flour, this fluffy loaf of rye bread is—from a nutritional standpoint—wholesome indeed.",
+   "zh-CN": "在裸麦面团中添加了鱼肉粉和蔬菜粉制作出来的面包，从营养学角度上看是十分优秀的食品。",
+   "zh-TW": "在裸麥麪糰中添加了魚肉粉和蔬菜粉製作出來的麪包，從營養學角度上看是十分優秀的食品。",
+   "ja": "黒麦生地に魚粉や野菜粉を練り込んで作った、栄養学的に優れたパン"
+  }
+ },
+ {
+  "slug": "zurek",
+  "en": "Zurek",
+  "n": {
+   "en": "Zurek",
+   "zh-CN": "裸麦酸汤",
+   "zh-TW": "裸麥酸湯",
+   "ja": "ジュレック"
+  },
+  "desc": {
+   "en": "This filling rye soup is overflowing with soft vegetables and has a satisfyingly sour kick.",
+   "zh-CN": "使用发酵后的裸麦粉汤炖煮蔬菜得到的口味微酸的汤。",
+   "zh-TW": "使用發酵後的裸麥粉湯燉煮蔬菜得到的口味微酸的湯。",
+   "ja": "黒麦粉の発酵液と野菜を煮込んだ酸味のあるスープ"
+  }
+ },
+ {
+  "slug": "amra-salad",
+  "en": "Amra Salad",
+  "n": {
+   "en": "Amra Salad",
+   "zh-CN": "庵摩罗果沙拉",
+   "zh-TW": "庵摩羅果沙拉",
+   "ja": "アームラサラダ"
+  },
+  "desc": {
+   "en": "This salad, tossed with light dressing and filled with chopped amra fruit, is a sweet and savory treat.",
+   "zh-CN": "使用了许多庵摩罗果制成的沙拉。",
+   "zh-TW": "使用了許多庵摩羅果製成的沙拉。",
+   "ja": "アームラの果実をふんだんに盛ったサラダ"
+  }
+ },
+ {
+  "slug": "amra-lassi",
+  "en": "Amra Lassi",
+  "n": {
+   "en": "Amra Lassi",
+   "zh-CN": "庵摩罗果酸奶昔",
+   "zh-TW": "庵摩羅果酸奶昔",
+   "ja": "アームララッシー"
+  },
+  "desc": {
+   "en": "A blend of yoghurt and spices, this refreshing drink is infused with the mellow sweetness of the amra fruit.",
+   "zh-CN": "使用庵摩罗果制成的甜美酸奶饮料。",
+   "zh-TW": "使用庵摩羅果製成的甜美酸奶飲料。",
+   "ja": "アームラの果実を用いた甘やかな発酵乳飲料"
+  }
+ },
+ {
+  "slug": "island-miq-abob",
+  "en": "Island Miq'abob",
+  "n": {
+   "en": "Island Miq'abob",
+   "zh-CN": "猫魅风味岛萃烤串",
+   "zh-TW": "貓魅風味島萃烤串",
+   "ja": "ミコッテ風島の幸串焼"
+  },
+  "desc": {
+   "en": "A skewer of hamsa breast and bell peppers grilled to perfection. This recipe was brought to the islands by way of Miqo'te seafarers.",
+   "zh-CN": "将桓娑鸟的胸肉和彩椒串在一起烧烤，据说是猫魅族的船员们将这道菜带到了萨维奈岛。",
+   "zh-TW": "將桓娑鳥的胸肉和彩椒串在一起燒烤，據說是貓魅族的船員們將這道菜帶到了薩維奈島。",
+   "ja": "ハンサの笹身やパプリカを炙った串焼き料理。ミコッテ族の船乗りがサベネア島に伝えたという"
+  }
+ },
+ {
+  "slug": "king-crab-cake",
+  "en": "King Crab Cake",
+  "n": {
+   "en": "King Crab Cake",
+   "zh-CN": "炸帝王蟹饼",
+   "zh-TW": "炸帝王蟹餅",
+   "ja": "キングクラブケーキ"
+  },
+  "desc": {
+   "en": "Tender spiny king crab meat fills this crispy fried pastry which is topped with a spoonful of creamy herb-filled sauce.",
+   "zh-CN": "将毛栗蟹的蟹肉混入小麦粉中搅拌均匀后炸制而成的美味佳肴。",
+   "zh-TW": "將毛栗蟹的蟹肉混入小麥粉中攪拌均勻後炸制而成的美味佳餚。",
+   "ja": "ほぐしたイガグリガニの身を小麦粉と混ぜ合わせ、揚げ焼きにした料理"
+  }
+ },
+ {
+  "slug": "ukha",
+  "en": "Ukha",
+  "n": {
+   "en": "Ukha",
+   "zh-CN": "鱼蔬清汤",
+   "zh-TW": "魚蔬清湯",
+   "ja": "ウハー"
+  },
+  "desc": {
+   "en": "A fish and vegetable stew popular in Garlemald. The perfect meal for a snowy night spent indoors.",
+   "zh-CN": "用白肉鱼和蔬菜煮成的加雷马风味的清澈鱼汤。",
+   "zh-TW": "用白肉魚和蔬菜煮成的加雷馬風味的清澈魚湯。",
+   "ja": "白身魚と野菜を煮込んだガレマルド風のスープ"
+  }
+ },
+ {
+  "slug": "borscht",
+  "en": "Borscht",
+  "n": {
+   "en": "Borscht",
+   "zh-CN": "红菜汤",
+   "zh-TW": "紅菜湯",
+   "ja": "ボルシチ"
+  },
+  "desc": {
+   "en": "A traditional red Garlean soup made of beetroot. Simple to cook, it is a great favorite in both civilian and military kitchens.",
+   "zh-CN": "使用红菜作基底的传统加雷马菜肴。不但是常见的家庭美食，同时也常会配发给士兵作为军粮。",
+   "zh-TW": "使用紅菜作基底的傳統加雷馬菜餚。不但是常見的家庭美食，同時也常會配發給士兵作爲軍糧。",
+   "ja": "ビーツを元にしたガレアン族の伝統料理。家庭の味であり、戦闘糧食としても頻繁に供された"
+  }
+ },
+ {
+  "slug": "wine-dark-soup",
+  "en": "Wine-dark Soup",
+  "n": {
+   "en": "Wine-dark Soup",
+   "zh-CN": "奶油紫汤",
+   "zh-TW": "奶油紫湯",
+   "ja": "ビーツスープ"
+  },
+  "desc": {
+   "en": "A creamy variety of beet soup—though no self-respecting Sharlayan would ever utilize such vulgar nomenclature. *Ever.*",
+   "zh-CN": "因为添加了红菜而呈现紫色的奶油汤，亦得名于这种独特的紫色。",
+   "zh-TW": "因爲添加了紅菜而呈現紫色的奶油湯，亦得名於這種獨特的紫色。",
+   "ja": "ビーツを使った紫色のクリームスープ"
+  }
+ },
+ {
+  "slug": "glory-be-soup",
+  "en": "Glory Be Soup",
+  "n": {
+   "en": "Glory Be Soup",
+   "zh-CN": "皇帝浓汤",
+   "zh-TW": "皇帝濃湯",
+   "ja": "エンペラースープ"
+  },
+  "desc": {
+   "en": "This stew, consisting of lentils and chestnuts boiled in red wine, derives its name from Garlean soldiers singing the praises of Emperor Solus, who shared a warm meal with them after a round of military exercises one chilly night.",
+   "zh-CN": "红酒炖小扁豆和山栗。名字源自一次在寒冷地带举行的军事演习，到场的加雷马初代皇帝和士兵们分享了这种后来得名皇帝浓汤的菜肴。",
+   "zh-TW": "紅酒燉小扁豆和山栗。名字源自一次在寒冷地帶舉行的軍事演習，到場的加雷馬初代皇帝和士兵們分享了這種後來得名皇帝濃湯的菜餚。",
+   "ja": "レンズ豆と栗のワイン煮。その名は、寒冷地での軍事訓練の際に、ガレマール帝国初代皇帝が兵と共に食したという故事に由来する"
+  }
+ },
+ {
+  "slug": "happiness-juice",
+  "en": "Happiness Juice",
+  "n": {
+   "en": "Happiness Juice",
+   "zh-CN": "开心汁",
+   "zh-TW": "開心汁",
+   "ja": "ハピネスジュース"
+  },
+  "desc": {
+   "en": "This uniquely sweet drink consists of an entire squeezed carrot, along with an assortment of other scrumptious additions to give it a kick.",
+   "zh-CN": "将开心胡萝卜完完全全碾碎之后得到的胡萝卜汁。不知道什么原因，喝了一口就还想喝第二口。",
+   "zh-TW": "將開心胡蘿蔔完完全全碾碎之後得到的胡蘿蔔汁。不知道什麼原因，喝了一口就還想喝第二口。",
+   "ja": "ハピネスキャロットと、あれこれをすり潰したジュース。なぜか、また飲みたくなる"
+  }
+ },
+ {
+  "slug": "carrot-nibbles",
+  "en": "Carrot Nibbles",
+  "n": {
+   "en": "Carrot Nibbles",
+   "zh-CN": "胡萝卜丝",
+   "zh-TW": "胡蘿蔔絲",
+   "ja": "キャロットラペ"
+  },
+  "desc": {
+   "en": "Ribbons of thinly sliced carrots of happiness dressed with vinegar make for a healthful and blissfully refreshing dish.",
+   "zh-CN": "使用果醋给切成细丝的开心胡萝卜调味后做成的开胃菜。",
+   "zh-TW": "使用果醋給切成細絲的開心胡蘿蔔調味後做成的開胃菜。",
+   "ja": "細切りにしたハピネスキャロットをビネガーで和えた野菜料理"
+  }
+ },
+ {
+  "slug": "hamsa-curry",
+  "en": "Hamsa Curry",
+  "n": {
+   "en": "Hamsa Curry",
+   "zh-CN": "桓娑鸟肉咖喱",
+   "zh-TW": "桓娑鳥肉咖喱",
+   "ja": "ハンサカレー"
+  },
+  "desc": {
+   "en": "A Radz–at–Han staple consisting of hamsa breast stewed to perfection in a spice-rich sauce.",
+   "zh-CN": "用各种各样的香料烹煮桓娑鸟胸肉做成的拉札罕特色菜。",
+   "zh-TW": "用各種各樣的香料烹煮桓娑鳥胸肉做成的拉札罕特色菜。",
+   "ja": "ハンサの笹身を様々な香辛料とともに煮込んだラザハンの定番料理"
+  }
+ },
+ {
+  "slug": "karniyarik",
+  "en": "Karniyarik",
+  "n": {
+   "en": "Karniyarik",
+   "zh-CN": "茄子镶桓娑鸟肉",
+   "zh-TW": "茄子鑲桓娑鳥肉",
+   "ja": "カルヌヤルク"
+  },
+  "desc": {
+   "en": "Topped with a single slice of tomato, this baked stuffed eggplant is positively bursting with hamsa meat and rich spices.",
+   "zh-CN": "在茄子里塞满香料和桓娑鸟肉，盖上番茄烤制完成的美味佳肴。",
+   "zh-TW": "在茄子裏塞滿香料和桓娑鳥肉，蓋上番茄烤制完成的美味佳餚。",
+   "ja": "茄子の内側に香辛料とハンサの肉を詰め、トマトをのせて焼いた料理"
+  }
+ },
+ {
+  "slug": "spicy-shakshouka",
+  "en": "Spicy Shakshouka",
+  "n": {
+   "en": "Spicy Shakshouka",
+   "zh-CN": "辣味番茄炖蛋",
+   "zh-TW": "辣味番茄燉蛋",
+   "ja": "スパイシーシャクシュカ"
+  },
+  "desc": {
+   "en": "A hearty and delicious dish for any mealtime, its base is a flavorful, rich tomato sauce filled with potent spices, in which an egg has been perfectly poached.",
+   "zh-CN": "将番茄酱和香料一同炖煮之后，再在上方打上一个蛋制成的美味佳肴。",
+   "zh-TW": "將番茄醬和香料一同燉煮之後，再在上方打上一個蛋製成的美味佳餚。",
+   "ja": "トマトソースと香辛料を煮込み、卵を落とした料理"
+  }
+ },
+ {
+  "slug": "lentil-curry",
+  "en": "Lentil Curry",
+  "n": {
+   "en": "Lentil Curry",
+   "zh-CN": "小扁豆咖喱",
+   "zh-TW": "小扁豆咖喱",
+   "ja": "レンティルカレー"
+  },
+  "desc": {
+   "en": "A dish that combines lentils with a sumptuous blend of spices in a silky coconut milk stew.",
+   "zh-CN": "椰奶炖煮小扁豆和各种香料制成的美味佳肴。",
+   "zh-TW": "椰奶燉煮小扁豆和各種香料製成的美味佳餚。",
+   "ja": "レンズ豆を様々な香辛料とともにココナッツミルクで煮込んだ料理"
+  }
+ },
+ {
+  "slug": "skyr",
+  "en": "Skyr",
+  "n": {
+   "en": "Skyr",
+   "zh-CN": "北洋酸奶",
+   "zh-TW": "北洋酸奶",
+   "ja": "スキール"
+  },
+  "desc": {
+   "en": "A dairy dish created through a special Sharlayan fermentation process passed down for generations.",
+   "zh-CN": "使用萨雷安传统古典做法制作的发酵乳制品。",
+   "zh-TW": "使用薩雷安傳統古典做法制作的發酵乳製品。",
+   "ja": "シャーレアンに古くから伝わる製法で作られた発酵乳製品"
+  }
+ },
+ {
+  "slug": "giant-haddock-dip",
+  "en": "Giant Haddock Dip",
+  "n": {
+   "en": "Giant Haddock Dip",
+   "zh-CN": "巨人鱼子泥沙拉",
+   "zh-TW": "巨人魚子泥沙拉",
+   "ja": "ジャイアントタラモサラータ"
+  },
+  "desc": {
+   "en": "A delectable dip made from a mixture of fish roe and mashed giant popoto.",
+   "zh-CN": "使用鱼卵和巨人新薯混合制成的蘸酱沙拉。",
+   "zh-TW": "使用魚卵和巨人新薯混合製成的蘸醬沙拉。",
+   "ja": "魚卵とジャイアントポポトを混ぜたディップ"
+  }
+ },
+ {
+  "slug": "yakow-moussaka",
+  "en": "Yakow Moussaka",
+  "n": {
+   "en": "Yakow Moussaka",
+   "zh-CN": "亚考牛慕沙卡",
+   "zh-TW": "亞考牛慕沙卡",
+   "ja": "ヤーコウムサカ"
+  },
+  "desc": {
+   "en": "A Near Eastern dish that takes yakow meat and eggplant and bakes them into a gratin.",
+   "zh-CN": "将亚考牛肉与茄子煮炖的近东风味焗菜。",
+   "zh-TW": "將亞考牛肉與茄子煮燉的近東風味焗菜。",
+   "ja": "ヤーコウの肉と茄子を煮込んだ近東風のグラタン"
+  }
+ },
+ {
+  "slug": "philosopher-s-sandwich",
+  "en": "Philosopher's Sandwich",
+  "n": {
+   "en": "Philosopher's Sandwich",
+   "zh-CN": "贤人三明治",
+   "zh-TW": "賢人三明治",
+   "ja": "賢人サンドイッチ"
+  },
+  "desc": {
+   "en": "Perfectly nutritionally balanced, this handheld dish is a busy Sharlayan researcher's best friend.",
+   "zh-CN": "萨雷安人的研究必备。营养学上完美无缺的食品。",
+   "zh-TW": "薩雷安人的研究必備。營養學上完美無缺的食品。",
+   "ja": "シャーレアンにおける研究の友。栄養学的には正しい"
+  }
+ },
+ {
+  "slug": "salted-thavnairian-cod",
+  "en": "Salted Thavnairian Cod",
+  "n": {
+   "en": "Salted Thavnairian Cod",
+   "zh-CN": "盐烤浅滩鳕鱼",
+   "zh-TW": "鹽烤淺灘鱈魚",
+   "ja": "ソルトシャロウコッド"
+  },
+  "desc": {
+   "en": "A whole shallows cod, broiled and sprinkled with salt to bring out its fishy flavor.",
+   "zh-CN": "撒上盐之后烤制的浅滩鳕鱼。",
+   "zh-TW": "撒上鹽之後烤制的淺灘鱈魚。",
+   "ja": "塩をかけて炙ったシャロウコッド"
+  }
+ },
+ {
+  "slug": "coconut-cod-chowder",
+  "en": "Coconut Cod Chowder",
+  "n": {
+   "en": "Coconut Cod Chowder",
+   "zh-CN": "椰香鱼羹",
+   "zh-TW": "椰香魚羹",
+   "ja": "ココナッツコッドチャウダー"
+  },
+  "desc": {
+   "en": "A Near Eastern soup, brimming with shallows cod simmered in silky coconut milk.",
+   "zh-CN": "使用椰奶精心炖煮浅滩鳕鱼制成的近东风味汤品。",
+   "zh-TW": "使用椰奶精心燉煮淺灘鱈魚製成的近東風味湯品。",
+   "ja": "シャロウコッドを、ココナッツミルクで丁寧に煮込んだ近東風スープ"
+  }
+ },
+ {
+  "slug": "the-noodles-of-elpis",
+  "en": "The Noodles of Elpis",
+  "n": {
+   "en": "The Noodles of Elpis",
+   "zh-CN": "厄尔庇斯之面",
+   "zh-TW": "厄爾庇斯之面",
+   "ja": "パスタ・オブ・エルピス"
+  },
+  "desc": {
+   "en": "A creamy, cheesy pasta dish topped off with a decadent bird of Elpis egg.",
+   "zh-CN": "使用厄尔庇斯之鸟醇厚的鸟蛋以及奶酪混合在一起制成的完美白酱奶油面。",
+   "zh-TW": "使用厄爾庇斯之鳥醇厚的鳥蛋以及奶酪混合在一起製成的完美白醬奶油麪。",
+   "ja": "バード・オブ・エルピスの濃厚な卵と、チーズを絡めた絶品クリームソースパスタ"
+  }
+ },
+ {
+  "slug": "giant-popoto-pancakes",
+  "en": "Giant Popoto Pancakes",
+  "n": {
+   "en": "Giant Popoto Pancakes",
+   "zh-CN": "巨人新薯煎饼",
+   "zh-TW": "巨人新薯煎餅",
+   "ja": "ジャイアントポポトパンケーキ"
+  },
+  "desc": {
+   "en": "Giant popotoes are mashed, mixed with eggs, then cooked to create these light and fluffy treats.",
+   "zh-CN": "使用巨人新薯和鸟蛋烤制成的松软煎饼。",
+   "zh-TW": "使用巨人新薯和鳥蛋烤製成的鬆軟煎餅。",
+   "ja": "ジャイアントポポトと卵を使ってふんわり焼き上げたパンケーキ"
+  }
+ },
+ {
+  "slug": "tsai-tou-vounou",
+  "en": "Tsai tou Vounou",
+  "n": {
+   "en": "Tsai tou Vounou",
+   "zh-CN": "高山茶",
+   "zh-TW": "高山茶",
+   "ja": "チャイ・トゥ・ヴヌー"
+  },
+  "desc": {
+   "en": "A herbal drink with impressive medicinal properties. Sometimes called “mountain tea.”",
+   "zh-CN": "使用了人称山之茶的高山茶。用这种有优秀药效的植物制成的香草茶。",
+   "zh-TW": "使用了人稱山之茶的高山茶。用這種有優秀藥效的植物製成的香草茶。",
+   "ja": "山のお茶とも呼ばれる、薬効に優れたシデリティスのハーブティー"
+  }
+ },
+ {
+  "slug": "sideritis-cookie",
+  "en": "Sideritis Cookie",
+  "n": {
+   "en": "Sideritis Cookie",
+   "zh-CN": "高山茶饼干",
+   "zh-TW": "高山茶餅乾",
+   "ja": "シデリティスクッキー"
+  },
+  "desc": {
+   "en": "A baked treat that gives off a sweet, herbal aroma.",
+   "zh-CN": "散发着高山茶香味的甜点。",
+   "zh-TW": "散發着高山茶香味的甜點。",
+   "ja": "シデリティスの薫香が漂う焼き菓子"
+  }
+ },
+ {
+  "slug": "elpis-deipnon",
+  "en": "Elpis Deipnon",
+  "n": {
+   "en": "Elpis Deipnon",
+   "zh-CN": "厄尔庇斯佳肴",
+   "zh-TW": "厄爾庇斯佳餚",
+   "ja": "ディッシュ・オブ・エルピス"
+  },
+  "desc": {
+   "en": "This hearty dish takes ground bird of Elpis meat and sears it to tender, juicy perfection.",
+   "zh-CN": "使用精心炖煮的厄尔庇斯之鸟的胸肉制成的软烂适口的美味佳肴。",
+   "zh-TW": "使用精心燉煮的厄爾庇斯之鳥的胸肉製成的軟爛適口的美味佳餚。",
+   "ja": "バード・オブ・エルピスの挽肉を練って焼き上げたやわらかい肉料理"
+  }
+ },
+ {
+  "slug": "baked-alien-soup",
+  "en": "Baked Alien Soup",
+  "n": {
+   "en": "Baked Alien Soup",
+   "zh-CN": "星外洋葱汤",
+   "zh-TW": "星外洋蔥湯",
+   "ja": "エイリアングラタンスープ"
+  },
+  "desc": {
+   "en": "Alien onions are sautéed, simmered in a savory bouillon, then topped with crispy cheese for a simple yet satisfying meal.",
+   "zh-CN": "星外洋葱煸过之后加入肉汤炖煮，最后盖上奶酪送进烤箱烤制成的美味浓汤。",
+   "zh-TW": "星外洋蔥煸過之後加入肉湯燉煮，最後蓋上奶酪送進烤箱烤製成的美味濃湯。",
+   "ja": "炒めたエイリアンオニオンをブイヨンで煮込み、チーズをかけて焼き上げたスープ"
+  }
+ },
+ {
+  "slug": "sykon-salad",
+  "en": "Sykon Salad",
+  "n": {
+   "en": "Sykon Salad",
+   "zh-CN": "无花果沙拉",
+   "zh-TW": "無花果沙拉",
+   "ja": "シューコンサラダ"
+  },
+  "desc": {
+   "en": "The sykon serves as the star of this fruit-filled dish, complex and nutritious.",
+   "zh-CN": "主料是无花果的水果沙拉。",
+   "zh-TW": "主料是無花果的水果沙拉。",
+   "ja": "シューコンを主役に据えたフルーツサラダ"
+  }
+ },
+ {
+  "slug": "sykon-compote",
+  "en": "Sykon Compote",
+  "n": {
+   "en": "Sykon Compote",
+   "zh-CN": "无花果蜜饯",
+   "zh-TW": "無花果蜜餞",
+   "ja": "シューコンコンポート"
+  },
+  "desc": {
+   "en": "Sykon are boiled in sugar water to create these sweet, bite-sized treats.",
+   "zh-CN": "将无花果放入糖水煮制成的蜜饯。",
+   "zh-TW": "將無花果放入糖水煮製成的蜜餞。",
+   "ja": "シューコンを砂糖水で煮て作った甘い菓子"
+  }
+ },
+ {
+  "slug": "sykon-bavarois",
+  "en": "Sykon Bavarois",
+  "n": {
+   "en": "Sykon Bavarois",
+   "zh-CN": "无花果冻糕",
+   "zh-TW": "無花果凍糕",
+   "ja": "ババロア・オ・シューコン"
+  },
+  "desc": {
+   "en": "Sliced sykon floats atop a fluffy bed of chilled gelatin in this tasty dessert.",
+   "zh-CN": "将无花果用明胶冷冻后制成的甜点。",
+   "zh-TW": "將無花果用明膠冷凍後製成的甜點。",
+   "ja": "シューコンをゼラチンで冷やし固めた菓子"
+  }
+ },
+ {
+  "slug": "archon-burger",
+  "en": "Archon Burger",
+  "n": {
+   "en": "Archon Burger",
+   "zh-CN": "贤人汉堡",
+   "zh-TW": "賢人漢堡",
+   "ja": "賢人バーガー"
+  },
+  "desc": {
+   "en": "Concocted by the staff at the Last Stand, this sandwich is as nutritionally sound as it is delicious.",
+   "zh-CN": "由背水咖啡厅发明的三明治，无论是营养还是口味都完美无缺。",
+   "zh-TW": "由背水咖啡廳發明的三明治，無論是營養還是口味都完美無缺。",
+   "ja": "ラストスタンドが考案した、栄養学的に正しく、かつ美味なサンドイッチ"
+  }
+ },
+ {
+  "slug": "beef-stroganoff",
+  "en": "Beef Stroganoff",
+  "n": {
+   "en": "Beef Stroganoff",
+   "zh-CN": "奶汁牛肉",
+   "zh-TW": "奶汁牛肉",
+   "ja": "ビーフストロガノフ"
+  },
+  "desc": {
+   "en": "Choice cuts of meat are simmered in a savory sauce to create this Garlean specialty, the ideal supplement to one's squat regime.",
+   "zh-CN": "高级牛肉经过精心炖煮之后制成的加雷马风味美食，最合适正在锻炼肌肉的你。",
+   "zh-TW": "高級牛肉經過精心燉煮之後製成的加雷馬風味美食，最合適正在鍛鍊肌肉的你。",
+   "ja": "高級牛肉を、がんばって煮込んだガレマルド風料理。筋肉トレーニングの後に最適"
+  }
+ },
+ {
+  "slug": "pumpkin-ratatouille",
+  "en": "Pumpkin Ratatouille",
+  "n": {
+   "en": "Pumpkin Ratatouille",
+   "zh-CN": "南瓜香烩时蔬",
+   "zh-TW": "南瓜香燴時蔬",
+   "ja": "パンプキンラタトゥイユ"
+  },
+  "desc": {
+   "en": "This colorful dish consists of a variety of vegetables, sautéed in perilla oil and then simmered to enrich their combined flavor.",
+   "zh-CN": "用紫苏油翻炒数种蔬菜制成的美味佳肴。",
+   "zh-TW": "用紫蘇油翻炒數種蔬菜製成的美味佳餚。",
+   "ja": "数種類の野菜をペリラオイルで炒め、煮込んだ野菜料理"
+  }
+ },
+ {
+  "slug": "pumpkin-potage",
+  "en": "Pumpkin Potage",
+  "n": {
+   "en": "Pumpkin Potage",
+   "zh-CN": "南瓜浓汤",
+   "zh-TW": "南瓜濃湯",
+   "ja": "パンプキンポタージュ"
+  },
+  "desc": {
+   "en": "A creamy soup that highlights the rich and nutty flavor of the giant pumpkin.",
+   "zh-CN": "使用巨型南瓜制成的奶油汤。",
+   "zh-TW": "使用巨型南瓜製成的奶油湯。",
+   "ja": "ジャイアントパンプキンを使ったクリームスープ"
+  }
+ },
+ {
+  "slug": "peach-juice",
+  "en": "Peach Juice",
+  "n": {
+   "en": "Peach Juice",
+   "zh-CN": "白桃汁",
+   "zh-TW": "白桃汁",
+   "ja": "ピーチジュース"
+  },
+  "desc": {
+   "en": "A generous serving of juice, freshly squeezed from sweet peaches.",
+   "zh-CN": "使用白桃鲜榨的果汁。",
+   "zh-TW": "使用白桃鮮榨的果汁。",
+   "ja": "白桃を絞ったフレッシュジュース"
+  }
+ },
+ {
+  "slug": "peach-tart",
+  "en": "Peach Tart",
+  "n": {
+   "en": "Peach Tart",
+   "zh-CN": "白桃挞",
+   "zh-TW": "白桃撻",
+   "ja": "ピーチタルト"
+  },
+  "desc": {
+   "en": "A round pastry filled with sweet peaches and fragrant spices.",
+   "zh-CN": "甘美可口的圆形烤制甜点，上面放满了白桃。",
+   "zh-TW": "甘美可口的圓形烤制甜點，上面放滿了白桃。",
+   "ja": "白桃をのせた、甘味豊かな円形の焼き菓子"
+  }
+ },
+ {
+  "slug": "sykon-cookie",
+  "en": "Sykon Cookie",
+  "n": {
+   "en": "Sykon Cookie",
+   "zh-CN": "无花果饼干",
+   "zh-TW": "無花果餅乾",
+   "ja": "シューコンクッキー"
+  },
+  "desc": {
+   "en": "A delicious treat covered in sykon jam and accented with a dash of cinnamon.",
+   "zh-CN": "使用高级桂皮调味的烤制甜品，中间涂着无花果果酱。",
+   "zh-TW": "使用高級桂皮調味的烤制甜品，中間塗着無花果果醬。",
+   "ja": "高級シナモンで風味を付けた焼き菓子に、シューコンのジャムをのせたもの"
+  }
+ },
+ {
+  "slug": "thavnairian-chai",
+  "en": "Thavnairian Chai",
+  "n": {
+   "en": "Thavnairian Chai",
+   "zh-CN": "萨维奈奶茶",
+   "zh-TW": "薩維奈奶茶",
+   "ja": "サベネアンチャイ"
+  },
+  "desc": {
+   "en": "This milky Near Eastern tea is infused with cinnamon of peerless quality for a flavorsome kick.",
+   "zh-CN": "使用了高级桂皮进行调味的近东风味奶茶。",
+   "zh-TW": "使用了高級桂皮進行調味的近東風味奶茶。",
+   "ja": "高級シナモンで風味を付けた近東風ミルクティー"
+  }
+ },
+ {
+  "slug": "scallop-salad",
+  "en": "Scallop Salad",
+  "n": {
+   "en": "Scallop Salad",
+   "zh-CN": "扇贝沙拉",
+   "zh-TW": "扇貝沙拉",
+   "ja": "スカロップサラダ"
+  },
+  "desc": {
+   "en": "A lush salad topped with exquisite scallops and lightly dressed with perilla oil.",
+   "zh-CN": "使用了紫苏油进行调味的高级扇贝制成的沙拉。",
+   "zh-TW": "使用了紫蘇油進行調味的高級扇貝製成的沙拉。",
+   "ja": "ペリラオイルで味を調えた高級帆立のサラダ"
+  }
+ },
+ {
+  "slug": "scallop-curry",
+  "en": "Scallop Curry",
+  "n": {
+   "en": "Scallop Curry",
+   "zh-CN": "扇贝咖喱",
+   "zh-TW": "扇貝咖喱",
+   "ja": "スカロップカレー"
+  },
+  "desc": {
+   "en": "Premium scallops are simmered with a rich blend of spices to create this savory dish.",
+   "zh-CN": "用各种各样的香料烹煮扇贝做成的美味佳肴。",
+   "zh-TW": "用各種各樣的香料烹煮扇貝做成的美味佳餚。",
+   "ja": "高級帆立を様々な香辛料とともに煮込んだ料理"
+  }
+ },
+ {
+  "slug": "calamari-ripieni",
+  "en": "Calamari Ripieni",
+  "n": {
+   "en": "Calamari Ripieni",
+   "zh-CN": "镶烤墨鱼",
+   "zh-TW": "鑲烤墨魚",
+   "ja": "カラマリ・リピエーニ"
+  },
+  "desc": {
+   "en": "Fresh squid stuffed with a vibrant array of vegetables and cheese, then simmered to perfection in dry white wine.",
+   "zh-CN": "用蔬菜和芝士塞满卡拉墨鱼的肚子后烤制而成的菜肴。",
+   "zh-TW": "用蔬菜和芝士塞滿卡拉墨魚的肚子後烤制而成的菜餚。",
+   "ja": "イカに野菜やチーズを詰めて焼き上げた料理"
+  }
+ },
+ {
+  "slug": "kalamarakia-tiganita",
+  "en": "Kalamarakia Tiganita",
+  "n": {
+   "en": "Kalamarakia Tiganita",
+   "zh-CN": "炸墨鱼圈",
+   "zh-TW": "炸墨魚圈",
+   "ja": "カラマラキア・ティガニタ"
+  },
+  "desc": {
+   "en": "Thick slices of squid coated in spiced dark rye flour, then fried in perilla oil until crispy.",
+   "zh-CN": "将墨鱼圈蘸满裸麦粉之后用紫苏油高温炸制而成的菜肴。",
+   "zh-TW": "將墨魚圈蘸滿裸麥粉之後用紫蘇油高溫炸制而成的菜餚。",
+   "ja": "イカに黒麦粉をまぶし、高温のペリラオイルで揚げた料理"
+  }
+ },
+ {
+  "slug": "melon-pie",
+  "en": "Melon Pie",
+  "n": {
+   "en": "Melon Pie",
+   "zh-CN": "蜜瓜派",
+   "zh-TW": "蜜瓜派",
+   "ja": "メロンパイ"
+  },
+  "desc": {
+   "en": "The flaky crust serves as a perfect complement to the thundermelon's sweet-yet-electrifying flesh.",
+   "zh-CN": "用派皮包裹电感蜜瓜的果肉烤制而成的水果派。",
+   "zh-TW": "用派皮包裹電感蜜瓜的果肉烤制而成的水果派。",
+   "ja": "サンダーメロンの果肉を生地で包み焼き上げたパイ"
+  }
+ },
+ {
+  "slug": "melon-juice",
+  "en": "Melon Juice",
+  "n": {
+   "en": "Melon Juice",
+   "zh-CN": "蜜瓜果汁",
+   "zh-TW": "蜜瓜果汁",
+   "ja": "メロンジュース"
+  },
+  "desc": {
+   "en": "Paralyzingly delicious juice freshly squeezed from thundermelons.",
+   "zh-CN": "鲜榨电感蜜瓜汁。",
+   "zh-TW": "鮮榨電感蜜瓜汁。",
+   "ja": "サンダーメロンを絞ったフレッシュジュース"
+  }
+ },
+ {
+  "slug": "sunset-carrot-nibbles",
+  "en": "Sunset Carrot Nibbles",
+  "n": {
+   "en": "Sunset Carrot Nibbles",
+   "zh-CN": "落日胡萝卜丝",
+   "zh-TW": "落日胡蘿蔔絲",
+   "ja": "サンセットカロットラペ"
+  },
+  "desc": {
+   "en": "Ribbons of thinly sliced sunset carrots dressed with vinegar make for a healthful and serenely wholesome dish.",
+   "zh-CN": "使用果醋给切成细丝的落日胡萝卜调味后做成的开胃菜。",
+   "zh-TW": "使用果醋給切成細絲的落日胡蘿蔔調味後做成的開胃菜。",
+   "ja": "細切りにしたサンセットカロットをビネガーで和えた野菜料理"
+  }
+ },
+ {
+  "slug": "carrot-pudding",
+  "en": "Carrot Pudding",
+  "n": {
+   "en": "Carrot Pudding",
+   "zh-CN": "胡萝卜布丁",
+   "zh-TW": "胡蘿蔔布丁",
+   "ja": "カロットプディング"
+  },
+  "desc": {
+   "en": "To freeze, shred, steam, and bake carrots into this smooth pudding requires both time and skill, but the mouthwatering results are well worth the effort.",
+   "zh-CN": "将胡萝卜剁成茸后调味蒸制而成的甜点。",
+   "zh-TW": "將胡蘿蔔剁成茸後調味蒸制而成的甜點。",
+   "ja": "すり潰して練ったカロットの生地を蒸し焼きにした菓子"
+  }
+ },
+ {
+  "slug": "gyros",
+  "en": "Gyros",
+  "n": {
+   "en": "Gyros",
+   "zh-CN": "旋转烤肉卷饼",
+   "zh-TW": "旋轉烤肉捲餅",
+   "ja": "ギロピタ"
+  },
+  "desc": {
+   "en": "A slice of slow-cooked loaghtan meat wrapped in leafy greens and tucked into a pocket of freshly baked bread.",
+   "zh-CN": "在圆形面包中夹上烤洛夫坦山羊肉和蔬菜制成的美食。",
+   "zh-TW": "在圓形麪包中夾上烤洛夫坦山羊肉和蔬菜製成的美食。",
+   "ja": "円形のパンの中に、焼き上げたロフタンの肉と野菜を挟み込んだ料理"
+  }
+ },
+ {
+  "slug": "loaghtan-rump-steak",
+  "en": "Loaghtan Rump Steak",
+  "n": {
+   "en": "Loaghtan Rump Steak",
+   "zh-CN": "洛夫坦山羊臀肉排",
+   "zh-TW": "洛夫坦山羊臀肉排",
+   "ja": "ロフタンのランプステーキ"
+  },
+  "desc": {
+   "en": "If this loaghtan had a heart as tender as its rump, its passing was a tragedy indeed.",
+   "zh-CN": "柔软鲜嫩的洛夫坦山羊臀肉排经过细致的炙烤后制成的美食。",
+   "zh-TW": "柔軟鮮嫩的洛夫坦山羊臀肉排經過細緻的炙烤後製成的美食。",
+   "ja": "柔らかなロフタンのランプ肉を丁寧に焼き上げた料理"
+  }
+ },
+ {
+  "slug": "piennolo-tomato-salad",
+  "en": "Piennolo Tomato Salad",
+  "n": {
+   "en": "Piennolo Tomato Salad",
+   "zh-CN": "悬挂番茄沙拉",
+   "zh-TW": "懸掛番茄沙拉",
+   "ja": "ピエンノロトマトサラダ"
+  },
+  "desc": {
+   "en": "A bright tomato salad lightly tossed in perilla oil.",
+   "zh-CN": "使用了紫苏油进行调味的满是蔬菜的沙拉。",
+   "zh-TW": "使用了紫蘇油進行調味的滿是蔬菜的沙拉。",
+   "ja": "ペリラオイルで味を調えた野菜たっぷりのサラダ"
+  }
+ },
+ {
+  "slug": "garlean-pizza",
+  "en": "Garlean Pizza",
+  "n": {
+   "en": "Garlean Pizza",
+   "zh-CN": "加雷马披萨",
+   "zh-TW": "加雷馬披薩",
+   "ja": "ガレアンピッツァ"
+  },
+  "desc": {
+   "en": "Heaped with Garlean cheese and baked to perfection, this flatbread may well rival certain soups in its ability to move partakers to tears.",
+   "zh-CN": "使用大量加雷马奶酪烤制而成的加雷马帝都风味披萨。",
+   "zh-TW": "使用大量加雷馬奶酪烤制而成的加雷馬帝都風味披薩。",
+   "ja": "ガレアンチーズをふんだんに使って焼き上げた帝都風のピッツァ"
+  }
+ },
+ {
+  "slug": "urchin-pasta",
+  "en": "Urchin Pasta",
+  "n": {
+   "en": "Urchin Pasta",
+   "zh-CN": "帝王海胆奶油面",
+   "zh-TW": "帝王海膽奶油麪",
+   "ja": "アーチンテリーヌパスタ"
+  },
+  "desc": {
+   "en": "Pasta simmered in cream sauce and topped with a generous portion of king urchin.",
+   "zh-CN": "将奶油和帝王海胆混合在一起制成的奶油面。",
+   "zh-TW": "將奶油和帝王海膽混合在一起製成的奶油麪。",
+   "ja": "クリームソースにキングアーチンの身を和えたパスタ"
+  }
+ },
+ {
+  "slug": "king-urchin-loaf",
+  "en": "King Urchin Loaf",
+  "n": {
+   "en": "King Urchin Loaf",
+   "zh-CN": "焗帝王海胆佐面包",
+   "zh-TW": "焗帝王海膽佐麪包",
+   "ja": "キングアーチンテリーヌ"
+  },
+  "desc": {
+   "en": "King urchin corals mixed with mushrooms and herbs, then returned to the urchin shell and baked until delightfully spongy.",
+   "zh-CN": "将细筛过的帝王海胆与蘑菇香料混合后，放入烤箱烤制而成的美食。",
+   "zh-TW": "將細篩過的帝王海膽與蘑菇香料混合後，放入烤箱烤制而成的美食。",
+   "ja": "裏ごししたキングアーチンをキノコや香辛料と混ぜ、オーブンで焼き上げたパテ"
+  }
+ },
+ {
+  "slug": "jhinga-biryani",
+  "en": "Jhinga Biryani",
+  "n": {
+   "en": "Jhinga Biryani",
+   "zh-CN": "近东虾香饭",
+   "zh-TW": "近東蝦香飯",
+   "ja": "ジンガビリヤニ"
+  },
+  "desc": {
+   "en": "A mouthwatering dish of bomba rice seasoned with hearty spices and baked with Thavnairian prawns.",
+   "zh-CN": "用邦巴米与萨维奈岛特产的虾类一起蒸制而成的谷物菜肴。",
+   "zh-TW": "用邦巴米與薩維奈島特產的蝦類一起蒸制而成的穀物菜餚。",
+   "ja": "ボンバライスをサベネア島特産のエビと共に炊き込んだ穀物料理"
+  }
+ },
+ {
+  "slug": "jhinga-curry",
+  "en": "Jhinga Curry",
+  "n": {
+   "en": "Jhinga Curry",
+   "zh-CN": "近东虾咖喱",
+   "zh-TW": "近東蝦咖喱",
+   "ja": "ジンガカレー"
+  },
+  "desc": {
+   "en": "This variation of Thavnairian curry is a perfect marriage of regional prawns and traditional spices.",
+   "zh-CN": "用各种各样的香料烹煮萨维奈岛特产的虾类做成的美味佳肴。",
+   "zh-TW": "用各種各樣的香料烹煮薩維奈島特產的蝦類做成的美味佳餚。",
+   "ja": "サベネア島特産のエビを様々な香辛料とともに煮込んだ料理"
+  }
+ },
+ {
+  "slug": "honeyed-dragonfruit",
+  "en": "Honeyed Dragonfruit",
+  "n": {
+   "en": "Honeyed Dragonfruit",
+   "zh-CN": "蜜浸火龙果",
+   "zh-TW": "蜜浸火龍果",
+   "ja": "蜂蜜漬けドラゴンフルーツ"
+  },
+  "desc": {
+   "en": "A generous serving of dragonfruit slathered with a silky sweet layer of golden honey and a few sour drops of lemonette juice.",
+   "zh-CN": "用蜂蜜以及小柠檬腌制的火龙果甜品。",
+   "zh-TW": "用蜂蜜以及小檸檬醃製的火龍果甜品。",
+   "ja": "ドラゴンフルーツの果実を、黄金蜂蜜とリトルレモンで漬けた菓子"
+  }
+ },
+ {
+  "slug": "dragonfruit-blend",
+  "en": "Dragonfruit Blend",
+  "n": {
+   "en": "Dragonfruit Blend",
+   "zh-CN": "火龙果果昔",
+   "zh-TW": "火龍果果昔",
+   "ja": "ドラゴンフルーツスムージー"
+  },
+  "desc": {
+   "en": "Mashed dragonfruit is blended together with cloud banana and coconut milk to create this creamy, refreshing drink.",
+   "zh-CN": "将捣碎的火龙果果实与其他多种果实以及鲜奶进行混合制成的饮品。",
+   "zh-TW": "將搗碎的火龍果果實與其他多種果實以及鮮奶進行混合製成的飲品。",
+   "ja": "すり潰したドラゴンフルーツの実を、複数の果実や乳と混ぜ合わせた飲料"
+  }
+ },
+ {
+  "slug": "baba-ghanoush",
+  "en": "Baba Ghanoush",
+  "n": {
+   "en": "Baba Ghanoush",
+   "zh-CN": "茄泥酱",
+   "zh-TW": "茄泥醬",
+   "ja": "ババガヌーシュ"
+  },
+  "desc": {
+   "en": "A traditional Thavnairian appetizer of finely chopped dark eggplant spiced with ground cumin and a tantalizing hint of garlic.",
+   "zh-CN": "将烤制后的暗色茄子捣成泥，与香辛料制作的糊拌匀后制成的萨维奈传统菜肴。",
+   "zh-TW": "將烤制後的暗色茄子搗成泥，與香辛料製作的糊拌勻後製成的薩維奈傳統菜餚。",
+   "ja": "焼いてすり潰したダークエッグプラントと香辛料のペーストを混ぜ合わせた、サベネア島の伝統料理"
+  }
+ },
+ {
+  "slug": "baked-eggplant",
+  "en": "Baked Eggplant",
+  "n": {
+   "en": "Baked Eggplant",
+   "zh-CN": "烧烤暗色茄子",
+   "zh-TW": "燒烤暗色茄子",
+   "ja": "ベイクドダークエッグプラント"
+  },
+  "desc": {
+   "en": "Topped with sliced vegetables and a healthy coating of melted Garlean cheese, these rich eggplants have been roasted to tender perfection.",
+   "zh-CN": "将大量的奶酪与蔬菜放在暗色茄子上烤制而成的菜肴。",
+   "zh-TW": "將大量的奶酪與蔬菜放在暗色茄子上烤制而成的菜餚。",
+   "ja": "ダークエッグプラントにチーズや野菜をふんだんに乗せて焼いた料理"
+  }
+ },
+ {
+  "slug": "spicy-stellar-soup",
+  "en": "Spicy Stellar Soup",
+  "n": {
+   "en": "Spicy Stellar Soup",
+   "zh-CN": "宇宙香辣汤",
+   "zh-TW": "宇宙香辣湯",
+   "ja": "スペーススパイシースープ"
+  },
+  "desc": {
+   "en": "Simmered with diced alien onions and carrots of happiness aplenty, this stellar soup's flavor is quite literally out of this world.",
+   "zh-CN": "将切碎的星外洋葱与开心胡萝卜以及香辛料一起煮制的汤品。",
+   "zh-TW": "將切碎的星外洋蔥與開心胡蘿蔔以及香辛料一起煮制的湯品。",
+   "ja": "細かく刻んだエイリアンオニオンとハピネスキャロットに、香辛料を加えて煮込んだスープ"
+  }
+ },
+ {
+  "slug": "tandoori-raptor",
+  "en": "Tandoori Raptor",
+  "n": {
+   "en": "Tandoori Raptor",
+   "zh-CN": "窑烤盗龙腿",
+   "zh-TW": "窯烤盜龍腿",
+   "ja": "タンドリーラプトル"
+  },
+  "desc": {
+   "en": "A Near Eastern staple consisting of tender chunks of baked raptor meat marinated in mouthwatering spices and creamy yoghurt.",
+   "zh-CN": "将盗龙的腿肉用酸奶以及香辛料进行腌制后烤成的近东风格菜肴。",
+   "zh-TW": "將盜龍的腿肉用酸奶以及香辛料進行醃製後烤成的近東風格菜餚。",
+   "ja": "ラプトルのモモ肉を、発酵乳や香辛料などで漬け込んでから焼き上げた近東風の料理"
+  }
+ },
+ {
+  "slug": "caviar-sandwich",
+  "en": "Caviar Sandwich",
+  "n": {
+   "en": "Caviar Sandwich",
+   "zh-CN": "鱼子酱三明治",
+   "zh-TW": "魚子醬三明治",
+   "ja": "キャビアサンド"
+  },
+  "desc": {
+   "en": "Its every bite extraordinary enough to render one speechless, this sandwich incorporates eggs from the caviar sturgeon and bird of Elpis both. Given the further inclusion of alligator pear slices, one cannot help but wonder at its inventor's obvious preference for ovoid foodstuffs.",
+   "zh-CN": "用鳄梨、厄尔庇斯之鸟蛋以及盐渍鱼子酱做成的超豪华三明治。",
+   "zh-TW": "用鱷梨、厄爾庇斯之鳥蛋以及鹽漬魚子醬做成的超豪華三明治。",
+   "ja": "アリゲーターペアとエッグ・オブ・エルピスに、キャビアフィッシュの魚卵の塩漬けを加えて挟んだ贅沢なサンドイッチ"
+  }
+ },
+ {
+  "slug": "caviar-canapes",
+  "en": "Caviar Canapes",
+  "n": {
+   "en": "Caviar Canapes",
+   "zh-CN": "鱼子酱佐小饼干",
+   "zh-TW": "魚子醬佐小餅乾",
+   "ja": "キャビアカナッペ"
+  },
+  "desc": {
+   "en": "Perennial party favorites, these hors d'oeuvres feature delightfully bite-sized bread topped with cheese, vegetables, and salted caviar sturgeon eggs.",
+   "zh-CN": "将奶酪、蔬菜搭配盐渍鱼子酱放在小块饼干上的菜品。",
+   "zh-TW": "將奶酪、蔬菜搭配鹽漬魚子醬放在小塊餅乾上的菜品。",
+   "ja": "ビスケットにチーズや野菜を乗せ、キャビアフィッシュの魚卵の塩漬けを合わせた一口サイズの料理"
+  }
+ },
+ {
+  "slug": "marinated-broccoflower",
+  "en": "Marinated Broccoflower",
+  "n": {
+   "en": "Marinated Broccoflower",
+   "zh-CN": "浅腌球形甘蓝",
+   "zh-TW": "淺醃球形甘藍",
+   "ja": "ブロコフラワーマリネ"
+  },
+  "desc": {
+   "en": "A biting dish of broccoflower, paprika, and onion steeped in oil and dark vinegar.",
+   "zh-CN": "将球形甘蓝用黑夜醋为主的调料进行腌制的凉菜。",
+   "zh-TW": "將球形甘藍用黑夜醋爲主的調料進行醃製的涼菜。",
+   "ja": "ブロコフラワーをダークビネガーを主とした漬け汁に浸した料理"
+  }
+ },
+ {
+  "slug": "broccoflower-stew",
+  "en": "Broccoflower Stew",
+  "n": {
+   "en": "Broccoflower Stew",
+   "zh-CN": "球形甘蓝炖菜",
+   "zh-TW": "球形甘藍燉菜",
+   "ja": "ブロコフラワーシチュー"
+  },
+  "desc": {
+   "en": "Broccoflower slices boiled in a savory broth alongside tender poultry and root vegetables.",
+   "zh-CN": "将球形甘蓝搭配肉类以及其他蔬菜慢火炖制而成的菜肴。",
+   "zh-TW": "將球形甘藍搭配肉類以及其他蔬菜慢火燉制而成的菜餚。",
+   "ja": "ブロコフラワーを肉や野菜と合わせてじっくり煮込んだシチュー"
+  }
+ },
+ {
+  "slug": "sparkling-citrus-refreshment",
+  "en": "Sparkling Citrus Refreshment",
+  "n": {
+   "en": "Sparkling Citrus Refreshment",
+   "zh-CN": "柑橘气泡水",
+   "zh-TW": "柑橘氣泡水",
+   "ja": "スパークリング・シトラスリフレッシュ"
+  },
+  "desc": {
+   "en": "Dehydrated adventurers, rejoice—this crisp, bubbly beverage boasts an invigorating citrus kick that will thoroughly quench one's thirst on the road. Guaranteed to make even the most arduous trials feel like a tropical vacation.",
+   "zh-CN": "为冒险者增添活力的热带水果口味碳酸饮料。刺激的口感让人感觉十分清爽。",
+   "zh-TW": "爲冒險者增添活力的熱帶水果口味碳酸飲料。刺激的口感讓人感覺十分清爽。",
+   "ja": "冒険者に活力を与える、トロピカルな味の炭酸飲料。シュワシュワでリフレッシュに最適"
+  }
+ },
+ {
+  "slug": "boiled-alpaca-steak",
+  "en": "Boiled Alpaca Steak",
+  "n": {
+   "en": "Boiled Alpaca Steak",
+   "zh-CN": "炖煮羊驼肉排",
+   "zh-TW": "燉煮羊駝肉排",
+   "ja": "ボイルド・アルパカステーキ"
+  },
+  "desc": {
+   "en": "Premium alpaca meat stewed to perfection in a tangy mezcal and lemon sauce.",
+   "zh-CN": "用梅斯卡酒和柠檬汁炖煮的羊驼肉。",
+   "zh-TW": "用梅斯卡酒和檸檬汁燉煮的羊駝肉。",
+   "ja": "アルパカの肉をメスカルとレモン汁で煮込んだ料理"
+  }
+ },
+ {
+  "slug": "mezcal-marinated-swampmonk",
+  "en": "Mezcal-marinated Swampmonk",
+  "n": {
+   "en": "Mezcal-marinated Swampmonk",
+   "zh-CN": "梅斯卡香煎沼泽鬼鱼肉",
+   "zh-TW": "梅斯卡香煎沼澤鬼魚肉",
+   "ja": "スワンプモンクのメスカルソースがけ"
+  },
+  "desc": {
+   "en": "Tender swampmonk thigh soaked overnight in mezcal, then grilled over an open flame.",
+   "zh-CN": "毫不吝啬地用大量梅斯卡酒煎制的沼泽鬼鱼肉。",
+   "zh-TW": "毫不吝嗇地用大量梅斯卡酒煎制的沼澤鬼魚肉。",
+   "ja": "スワンプモンクの肉にたっぷりのメスカルをかけて焼いた料理"
+  }
+ },
+ {
+  "slug": "acqua-pazza",
+  "en": "Acqua Pazza",
+  "n": {
+   "en": "Acqua Pazza",
+   "zh-CN": "番茄水煮鱼",
+   "zh-TW": "番茄水煮魚",
+   "ja": "アクアパッツァ"
+  },
+  "desc": {
+   "en": "Fresh fish and mollusks sautéed in frantoio oil, then simmered in a mezcal and tomato broth. Originally invented by fisherfolk who would come home from the markets and make soup using whatever remained of their haul.",
+   "zh-CN": "在油橄榄油炒好的海鲜中加入番茄以及梅斯卡酒炖煮而成的菜肴。据说源于渔夫们用卖剩下的鱼制作的鱼汤。",
+   "zh-TW": "在油橄欖油炒好的海鮮中加入番茄以及梅斯卡酒燉煮而成的菜餚。據說源於漁夫們用賣剩下的魚製作的魚湯。",
+   "ja": "魚介類をフラントーヨオイルで炒め、トマトやメスカルで煮込んだ料理。漁師たちが売れ残った魚でスープを作ったのが由来とされている"
+  }
+ },
+ {
+  "slug": "salmon-jerky",
+  "en": "Salmon Jerky",
+  "n": {
+   "en": "Salmon Jerky",
+   "zh-CN": "鲑鱼干",
+   "zh-TW": "鮭魚乾",
+   "ja": "サーモンジャーキー"
+  },
+  "desc": {
+   "en": "Filleted salmon submerged in brine, marinated in smoky mezcal, then dried for several hours until chewy.",
+   "zh-CN": "将切成一半的鲑鱼用盐水清洗，然后用梅斯卡酒腌制并风干的鲑鱼干。",
+   "zh-TW": "將切成一半的鮭魚用鹽水清洗，然後用梅斯卡酒醃製並風乾的鮭魚乾。",
+   "ja": "半身におろしたサーモンを塩水で洗い、メスカルを染み込ませて干したもの"
+  }
+ },
+ {
+  "slug": "nasi-goreng",
+  "en": "Nasi Goreng",
+  "n": {
+   "en": "Nasi Goreng",
+   "zh-CN": "酱炒饭",
+   "zh-TW": "醬炒飯",
+   "ja": "ナシゴレン"
+  },
+  "desc": {
+   "en": "Cold leftover rice stir-fried with shrimp and spices until steaming hot, then garnished with an egg on top.",
+   "zh-CN": "在米饭中加入辣酱和胡椒翻炒，最后放入虾肉和蛋花做点缀的菜肴。",
+   "zh-TW": "在米飯中加入辣醬和胡椒翻炒，最後放入蝦肉和蛋花做點綴的菜餚。",
+   "ja": "ライスをチリソースやペッパーで炒め、エビと卵を散りばめた料理"
+  }
+ },
+ {
+  "slug": "shrimp-cocktail",
+  "en": "Shrimp Cocktail",
+  "n": {
+   "en": "Shrimp Cocktail",
+   "zh-CN": "酱汁蘸虾",
+   "zh-TW": "醬汁蘸蝦",
+   "ja": "シュリンプカクテル"
+  },
+  "desc": {
+   "en": "Deveined shrimp poached in court bouillon broth and served with cocktail sauce for dipping. The tartness of the lemon helps to balance the spice.",
+   "zh-CN": "将煮好的虾肉蘸着辣椒酱食用的菜肴。柠檬衬托出了菜肴整体的味道。",
+   "zh-TW": "將煮好的蝦肉蘸着辣椒醬食用的菜餚。檸檬襯托出了菜餚整體的味道。",
+   "ja": "茹でたエビをチリソースにつけて食べる料理。レモンが味を引き立てる"
+  }
+ },
+ {
+  "slug": "omelette-rice",
+  "en": "Omelette Rice",
+  "n": {
+   "en": "Omelette Rice",
+   "zh-CN": "蛋包饭",
+   "zh-TW": "蛋包飯",
+   "ja": "オムライス"
+  },
+  "desc": {
+   "en": "A buttery, runny omelette laid neatly over a bed of pan-fried rice flavored with sweet tomato sauce.",
+   "zh-CN": "用番茄酱炒好米饭后，将打好的蛋液煎至松软，最后盖在上面的菜肴。",
+   "zh-TW": "用番茄醬炒好米飯後，將打好的蛋液煎至鬆軟，最後蓋在上面的菜餚。",
+   "ja": "ライスにトマトソースを混ぜ合わせて炒め、溶いた卵をふんわりと焼き上げて乗せた料理"
+  }
+ },
+ {
+  "slug": "royal-toast",
+  "en": "Royal Toast",
+  "n": {
+   "en": "Royal Toast",
+   "zh-CN": "高级吐司",
+   "zh-TW": "高級吐司",
+   "ja": "ロイヤルトースト"
+  },
+  "desc": {
+   "en": "Thick sliced bread soaked in a batter of whisked egg and milk, pan-fried until fluffy, and served with a generous drizzle of royal maple syrup.",
+   "zh-CN": "让面包充分吸取蛋奶混合液后拿去烤制，最后浇上大量高级枫糖糖浆的菜肴。",
+   "zh-TW": "讓麪包充分吸取蛋奶混合液後拿去烤制，最後澆上大量高級楓糖糖漿的菜餚。",
+   "ja": "パンを卵と牛乳に浸して焼き、ロイヤルメープルシロップをふんだんにかけた料理"
+  }
+ },
+ {
+  "slug": "banana-ponzecake",
+  "en": "Banana Ponzecake",
+  "n": {
+   "en": "Banana Ponzecake",
+   "zh-CN": "香蕉星磅蛋糕",
+   "zh-TW": "香蕉星磅蛋糕",
+   "ja": "バナナパンズケーキ"
+  },
+  "desc": {
+   "en": "An otherwise ordinary ponzecake, infused with ripe bananas and aloe for a soft, moist texture—and a *heavenly* aroma while baking.",
+   "zh-CN": "将香蕉和芦荟加入面团中烤成的蓬松蛋糕，散发着香甜的味道。",
+   "zh-TW": "將香蕉和蘆薈加入麪糰中烤成的蓬鬆蛋糕，散發着香甜的味道。",
+   "ja": "生地にバナナとアロエを混ぜ、ふっくらと焼き上げた甘い香り漂うシンプルなケーキ"
+  }
+ },
+ {
+  "slug": "maple-teriyaki",
+  "en": "Maple Teriyaki",
+  "n": {
+   "en": "Maple Teriyaki",
+   "zh-CN": "照烧枫糖鸡肉",
+   "zh-TW": "照燒楓糖雞肉",
+   "ja": "照り焼きメープルチキン"
+  },
+  "desc": {
+   "en": "Juicy white meat, sliced into strips and stir-fried in a sweet maple glaze.",
+   "zh-CN": "鸡肉用糖浆和盐调味后烤制而成的甜中带咸的菜肴。",
+   "zh-TW": "雞肉用糖漿和鹽調味後烤制而成的甜中帶鹹的菜餚。",
+   "ja": "鶏肉をシロップと塩で甘じょっぱく焼き上げた料理"
+  }
+ },
+ {
+  "slug": "sweetmuffin",
+  "en": "Sweetmuffin",
+  "n": {
+   "en": "Sweetmuffin",
+   "zh-CN": "纸杯甜松糕",
+   "zh-TW": "紙杯甜鬆糕",
+   "ja": "スイートマフィン"
+  },
+  "desc": {
+   "en": "Kukuru bean powder has been mixed into the batter for even more sugary sweetness.",
+   "zh-CN": "在以裸麦为主的面团中加入可可豆粉并搅拌，最终烤成的蓬松甜点。",
+   "zh-TW": "在以裸麥爲主的麪糰中加入可可豆粉並攪拌，最終烤成的蓬鬆甜點。",
+   "ja": "黒麦ベースの生地にククルビーンの粉末を混ぜ合わせ、ふっくらと焼き上げた菓子"
+  }
+ },
+ {
+  "slug": "creamy-hot-chocolate",
+  "en": "Creamy Hot Chocolate",
+  "n": {
+   "en": "Creamy Hot Chocolate",
+   "zh-CN": "奶油热巧克力",
+   "zh-TW": "奶油熱巧克力",
+   "ja": "ホイップ・ホットココア"
+  },
+  "desc": {
+   "en": "Brewed with cocoa powder created from sweet kukuru beans, this warm winter beverage is made all the sweeter with a dollop of whipped cream on top.",
+   "zh-CN": "在甜可可豆做成的热巧克力上面挤上奶油的饮品。",
+   "zh-TW": "在甜可可豆做成的熱巧克力上面擠上奶油的飲品。",
+   "ja": "スイートククルビーンから作ったココアにホイップクリームを乗せた飲み物"
+  }
+ },
+ {
+  "slug": "creamy-alpaca-pasta",
+  "en": "Creamy Alpaca Pasta",
+  "n": {
+   "en": "Creamy Alpaca Pasta",
+   "zh-CN": "羊驼奶油面",
+   "zh-TW": "羊駝奶油麪",
+   "ja": "アルパカクリームパスタ"
+  },
+  "desc": {
+   "en": "The rustic handmade noodles are boiled until tender, then tossed in a pan with grilled alpaca fillet and broccoli florets in a cream sauce.",
+   "zh-CN": "使用羊驼肉和西兰花制作的奶油面。",
+   "zh-TW": "使用羊駝肉和西蘭花製作的奶油麪。",
+   "ja": "アルパカの肉とブロッコリーを使用したクリームパスタ"
+  }
+ },
+ {
+  "slug": "gateau-au-chocolat",
+  "en": "Gateau au Chocolat",
+  "n": {
+   "en": "Gateau au Chocolat",
+   "zh-CN": "巧克力奶油蛋糕",
+   "zh-TW": "巧克力奶油蛋糕",
+   "ja": "ガトーショコラ"
+  },
+  "desc": {
+   "en": "This decadently moist cake is made with downright *sinful* amounts of kukuru bean powder.",
+   "zh-CN": "以可可豆为主材料烤制而成厚重的蛋糕。",
+   "zh-TW": "以可可豆爲主材料烤制而成厚重的蛋糕。",
+   "ja": "ククルビーンを主役に焼き上げた濃厚な食感のケーキ"
+  }
+ },
+ {
+  "slug": "tender-shortcake",
+  "en": "Tender Shortcake",
+  "n": {
+   "en": "Tender Shortcake",
+   "zh-CN": "圆扇刺梨蛋糕",
+   "zh-TW": "圓扇刺梨蛋糕",
+   "ja": "テンダーショートケーキ"
+  },
+  "desc": {
+   "en": "Layered with whipped cream and sliced nopalitender tunas, this light and fruity dessert is the perfect summertime treat.",
+   "zh-CN": "一层蛋糕一层奶油不断叠放，最后在上面放上圆扇刺梨做点缀的微甜蛋糕。",
+   "zh-TW": "一層蛋糕一層奶油不斷疊放，最後在上面放上圓扇刺梨做點綴的微甜蛋糕。",
+   "ja": "生地とホイップクリームを重ねて層を作り、ノパルの実が飾られた優しい甘さのケーキ"
+  }
+ },
+ {
+  "slug": "broccoli-and-spinach-saute",
+  "en": "Broccoli and Spinach Saute",
+  "n": {
+   "en": "Broccoli and Spinach Saute",
+   "zh-CN": "西兰花炒菠菜",
+   "zh-TW": "西蘭花炒菠菜",
+   "ja": "ブロコスピナッチソテー"
+  },
+  "desc": {
+   "en": "A medley of healthy vegetables, stir-fried in corn oil until soft. May be served on its own or atop a bowl of rice.",
+   "zh-CN": "用西兰花和菠菜炒制而成的蔬菜菜肴。",
+   "zh-TW": "用西蘭花和菠菜炒制而成的蔬菜菜餚。",
+   "ja": "ブロッコリーとスピナッチなどを炒めた野菜料理"
+  }
+ },
+ {
+  "slug": "rroneek-steak",
+  "en": "Rroneek Steak",
+  "n": {
+   "en": "Rroneek Steak",
+   "zh-CN": "犎牛牛排",
+   "zh-TW": "犎牛牛排",
+   "ja": "ロネークステーキ"
+  },
+  "desc": {
+   "en": "A large slab of lightly marinated rroneek chuck, pan-seared to perfection.",
+   "zh-CN": "奢侈地使用大块犎牛牛肉，只进行简单调味做成的牛排。",
+   "zh-TW": "奢侈地使用大塊犎牛牛肉，只進行簡單調味做成的牛排。",
+   "ja": "大きなロネークの肉を贅沢に使い、シンプルな味付けで焼いたステーキ"
+  }
+ },
+ {
+  "slug": "roast-rroneek",
+  "en": "Roast Rroneek",
+  "n": {
+   "en": "Roast Rroneek",
+   "zh-CN": "烤犎牛肉",
+   "zh-TW": "烤犎牛肉",
+   "ja": "ローストロネーク"
+  },
+  "desc": {
+   "en": "Thin slices of rroneek chuck, seasoned and slow-roasted for hours until tender.",
+   "zh-CN": "将烘烤后的犎牛肉切成薄片的菜肴。",
+   "zh-TW": "將烘烤後的犎牛肉切成薄片的菜餚。",
+   "ja": "ロネークの肉を蒸し焼きにし、薄くスライスした料理"
+  }
+ },
+ {
+  "slug": "spaghetti-al-olio-e-peperoncino",
+  "en": "Spaghetti al Olio e Peperoncino",
+  "n": {
+   "en": "Spaghetti al Olio e Peperoncino",
+   "zh-CN": "双油风味拌细面",
+   "zh-TW": "雙油風味拌細麪",
+   "ja": "オーリオ・ペペロンチーノ"
+  },
+  "desc": {
+   "en": "This classic pasta dish uses two types of oil to bring out the spice of the dragon peppers.",
+   "zh-CN": "用两种油制作的风味拌细面。",
+   "zh-TW": "用兩種油製作的風味拌細麪。",
+   "ja": "2種類の油を使って仕上げたペペロンチーノ"
+  }
+ },
+ {
+  "slug": "grilled-urqotrout",
+  "en": "Grilled Urqotrout",
+  "n": {
+   "en": "Grilled Urqotrout",
+   "zh-CN": "盐烤奥阔鳟",
+   "zh-TW": "鹽烤奧闊鱒",
+   "ja": "グリルドオルコトラウト"
+  },
+  "desc": {
+   "en": "A freshly caught urqotrout sprinkled with salt and roasted on a stick over a fire.",
+   "zh-CN": "撒盐烤制的奥阔鳟。",
+   "zh-TW": "撒鹽烤制的奧闊鱒。",
+   "ja": "塩をかけて炙ったオルコトラウト"
+  }
+ },
+ {
+  "slug": "driftwood-catfish-pie",
+  "en": "Driftwood Catfish Pie",
+  "n": {
+   "en": "Driftwood Catfish Pie",
+   "zh-CN": "鲶鱼派",
+   "zh-TW": "鯰魚派",
+   "ja": "キャットフィッシュパイ"
+  },
+  "desc": {
+   "en": "A hearty seafood pie filled with juicy catfish meat and baked until golden brown.",
+   "zh-CN": "加入了浮木鲶鱼肉的多汁鱼肉派。",
+   "zh-TW": "加入了浮木鯰魚肉的多汁魚肉派。",
+   "ja": "ウッドキャットの身を加えて焼いた、ジューシーな魚肉パイ"
+  }
+ },
+ {
+  "slug": "vegetable-soup",
+  "en": "Vegetable Soup",
+  "n": {
+   "en": "Vegetable Soup",
+   "zh-CN": "蔬菜汤",
+   "zh-TW": "蔬菜湯",
+   "ja": "ベジタブルスープ"
+  },
+  "desc": {
+   "en": "Packed with tender veggies, this soup is comforting and nutritious in equal measure.",
+   "zh-CN": "将多种蔬菜切碎后炖煮而成的营养丰富的汤。",
+   "zh-TW": "將多種蔬菜切碎後燉煮而成的營養豐富的湯。",
+   "ja": "複数の野菜を刻んで煮込んだ、栄養が豊富なスープ"
+  }
+ },
+ {
+  "slug": "mesquite-juice",
+  "en": "Mesquite Juice",
+  "n": {
+   "en": "Mesquite Juice",
+   "zh-CN": "牧豆树豆汁",
+   "zh-TW": "牧豆樹豆汁",
+   "ja": "メスキートジュース"
+  },
+  "desc": {
+   "en": "The juice of mesquite beans, blended with local fruits for a health drink that tastes great.",
+   "zh-CN": "以牧豆树豆子为基底，为了更好饮用加入了果汁的高营养饮品。",
+   "zh-TW": "以牧豆樹豆子爲基底，爲了更好飲用加入了果汁的高營養飲品。",
+   "ja": "メスキート豆をベースに飲みやすくなるように果汁を混ぜ合わせた、栄養価の高いジュース"
+  }
+ },
+ {
+  "slug": "mesquite-soup",
+  "en": "Mesquite Soup",
+  "n": {
+   "en": "Mesquite Soup",
+   "zh-CN": "牧豆树豆汤",
+   "zh-TW": "牧豆樹豆湯",
+   "ja": "メスキートスープ"
+  },
+  "desc": {
+   "en": "An especially nutrient-rich soup, chock-full of diced popoto and smoky mesquite beans.",
+   "zh-CN": "以牧豆树豆子和新薯为基底炖煮而成的高营养汤品。",
+   "zh-TW": "以牧豆樹豆子和新薯爲基底燉煮而成的高營養湯品。",
+   "ja": "メスキート豆やポポトをベースに煮込んだ、栄養価の高いスープ"
+  }
+ },
+ {
+  "slug": "turali-pineapple-ponzecake",
+  "en": "Turali Pineapple Ponzecake",
+  "n": {
+   "en": "Turali Pineapple Ponzecake",
+   "zh-CN": "图拉尔菠萝蛋糕",
+   "zh-TW": "圖拉爾菠蘿蛋糕",
+   "ja": "トラルパイナップルケーキ"
+  },
+  "desc": {
+   "en": "The centerpiece of any Yok Tural festival is this striking ponzecake decorated with glazed pineapple rings to symbolize the sun.",
+   "zh-CN": "将切片菠萝放在上面烤制而成的蛋糕。在尤卡图拉尔举办庆典时这种象征太阳的装饰十分受人们欢迎。",
+   "zh-TW": "將切片菠蘿放在上面烤制而成的蛋糕。在尤卡圖拉爾舉辦慶典時這種象徵太陽的裝飾十分受人們歡迎。",
+   "ja": "パイナップルの輪切りを乗せて焼き上げたケーキ。太陽に見立てられた飾り付けは、ヨカ・トラルで祭りの際に重宝される"
+  }
+ },
+ {
+  "slug": "fruit-and-aloe-jelly",
+  "en": "Fruit and Aloe Jelly",
+  "n": {
+   "en": "Fruit and Aloe Jelly",
+   "zh-CN": "芦荟水果冻",
+   "zh-TW": "蘆薈水果凍",
+   "ja": "森の果実とアロエのゼリー"
+  },
+  "desc": {
+   "en": "This gelatinous dessert is flavored with the mouthwatering sour kick of branchbearer fruits.",
+   "zh-CN": "将拟鸟枝的果实和芦荟用明胶冷藏凝固后制作而成的清凉甜品。",
+   "zh-TW": "將擬鳥枝的果實和蘆薈用明膠冷藏凝固後製作而成的清涼甜品。",
+   "ja": "ブランチベアラーの体に生る果実とアロエをゼラチンで固めて冷やした涼菓"
+  }
+ },
+ {
+  "slug": "tart-turali-tart",
+  "en": "Tart Turali Tart",
+  "n": {
+   "en": "Tart Turali Tart",
+   "zh-CN": "图拉尔水果挞",
+   "zh-TW": "圖拉爾水果撻",
+   "ja": "トラルフルーツのタルト"
+  },
+  "desc": {
+   "en": "The crispy, golden crust is packed with an assortment of popular Turali fruits.",
+   "zh-CN": "在蛋挞皮上放上以图拉尔产为主的水果烤制而成的甜品。",
+   "zh-TW": "在蛋撻皮上放上以圖拉爾產爲主的水果烤制而成的甜品。",
+   "ja": "トラル産の果実をメインに、タルト生地に盛り付け焼き上げた菓子"
+  }
+ },
+ {
+  "slug": "wild-banana-blend",
+  "en": "Wild Banana Blend",
+  "n": {
+   "en": "Wild Banana Blend",
+   "zh-CN": "野生香蕉果昔",
+   "zh-TW": "野生香蕉果昔",
+   "ja": "ワイルドバナナスムージー"
+  },
+  "desc": {
+   "en": "Ja Tiika bananas take center stage in this sweet and tangy summertime smoothie.",
+   "zh-CN": "以野生加提卡香蕉为基底制作的酸甜果昔。",
+   "zh-TW": "以野生加提卡香蕉爲基底製作的酸甜果昔。",
+   "ja": "ワイルドジャティーカバナナをベースに作られた甘酸っぱいスムージー"
+  }
+ },
+ {
+  "slug": "stuffed-peppers",
+  "en": "Stuffed Peppers",
+  "n": {
+   "en": "Stuffed Peppers",
+   "zh-CN": "酿柿子椒",
+   "zh-TW": "釀柿子椒",
+   "ja": "スタッフドピーマン"
+  },
+  "desc": {
+   "en": "Each half of the bell pepper is packed with finely shredded alpaca meat and other fillings, then roasted until tender and lightly browned.",
+   "zh-CN": "将非常碎的羊驼肉馅与其他食材搅拌在一起，填入柿子椒里烤制而成的菜肴。",
+   "zh-TW": "將非常碎的羊駝肉餡與其他食材攪拌在一起，填入柿子椒裏烤制而成的菜餚。",
+   "ja": "アルパカの肉を細かく挽き、他の具材と混ぜ合わせたものをピーマンに詰め、焼き上げた料理"
+  }
+ },
+ {
+  "slug": "tacos-de-carne-asada",
+  "en": "Tacos de Carne Asada",
+  "n": {
+   "en": "Tacos de Carne Asada",
+   "zh-CN": "烤牛肉夹饼",
+   "zh-TW": "烤牛肉夾餅",
+   "ja": "タコス・カルネ・アサーダ"
+  },
+  "desc": {
+   "en": "Warm flour tortillas filled with slices of marinated rroneek chuck that has been grilled to a smoky char.",
+   "zh-CN": "将腌制好的犎牛肉烤熟后，用夹饼夹起来食用的菜肴。",
+   "zh-TW": "將醃製好的犎牛肉烤熟後，用夾餅夾起來食用的菜餚。",
+   "ja": "ロネークの肉のマリネを焼いて、タコス生地に包んで食べる料理"
+  }
+ },
+ {
+  "slug": "tacos-al-pastor",
+  "en": "Tacos Al Pastor",
+  "n": {
+   "en": "Tacos Al Pastor",
+   "zh-CN": "牧羊人夹饼",
+   "zh-TW": "牧羊人夾餅",
+   "ja": "タコス・アル・パストール"
+  },
+  "desc": {
+   "en": "Handmade flour tortillas filled with sautéed alpaca meat and garnished with a spicy pineapple salsa.",
+   "zh-CN": "将炒好的羊驼肉用夹饼夹上菠萝等其他食材一起食用的菜肴。",
+   "zh-TW": "將炒好的羊駝肉用夾餅夾上菠蘿等其他食材一起食用的菜餚。",
+   "ja": "炒めたアルパカの肉を、パイナップルなどと一緒にタコス生地に包んで食べる料理"
+  }
+ },
+ {
+  "slug": "roast-chicken",
+  "en": "Roast Chicken",
+  "n": {
+   "en": "Roast Chicken",
+   "zh-CN": "烤鸡",
+   "zh-TW": "烤雞",
+   "ja": "ローストチキン"
+  },
+  "desc": {
+   "en": "Roasted to crispy perfection, then flavored with garlic and a hint of lemon, a single scent of this dish is enough to make the mouth water.",
+   "zh-CN": "用柠檬和大蒜调味后烤得恰到好处的无尾鸡。",
+   "zh-TW": "用檸檬和大蒜調味後烤得恰到好處的無尾雞。",
+   "ja": "レモンやガーリックで味付けし、こんがり焼き上げたラムプレスチキン"
+  }
+ },
+ {
+  "slug": "chicken-pasta",
+  "en": "Chicken Pasta",
+  "n": {
+   "en": "Chicken Pasta",
+   "zh-CN": "鸡肉奶油面",
+   "zh-TW": "雞肉奶油麪",
+   "ja": "チキンパスタ"
+  },
+  "desc": {
+   "en": "A hearty pasta dish topped with finely chopped chicken and melting cheese.",
+   "zh-CN": "以大量奶酪和切成细丝的无尾鸡肉烹制而成的浓厚细面。",
+   "zh-TW": "以大量奶酪和切成細絲的無尾雞肉烹製而成的濃厚細麪。",
+   "ja": "細かく刻んだラムプレスチキンを、チーズと混ぜ合わせた濃厚なパスタ"
+  }
+ },
+ {
+  "slug": "churrasco",
+  "en": "Churrasco",
+  "n": {
+   "en": "Churrasco",
+   "zh-CN": "图莱尤拉烤犎牛肉",
+   "zh-TW": "圖萊尤拉烤犎牛肉",
+   "ja": "シュラスコ"
+  },
+  "desc": {
+   "en": "A few choice pieces of rroneek shoulder, stuck on a long spit and slowly roasted until crispy on the outside.",
+   "zh-CN": "将犎牛肩肉串起后精心炙烤而成的美味佳肴。",
+   "zh-TW": "將犎牛肩肉串起後精心炙烤而成的美味佳餚。",
+   "ja": "ロネークの肩肉を、長い串でじっくりと焼き上げた料理"
+  }
+ },
+ {
+  "slug": "moqueca",
+  "en": "Moqueca",
+  "n": {
+   "en": "Moqueca",
+   "zh-CN": "图莱尤拉炖沼泽鬼鱼",
+   "zh-TW": "圖萊尤拉燉沼澤鬼魚",
+   "ja": "ムケッカ"
+  },
+  "desc": {
+   "en": "This creamy, spicy stew is a staple throughout Tuliyollal, and owes its popularity to its flavorful broth.",
+   "zh-CN": "在图莱尤拉广受喜爱的浓汤，鲜辣味与奶油味的完美融合背后，真正的美味秘诀乃是炖煮食材制成的高汤。",
+   "zh-TW": "在圖萊尤拉廣受喜愛的濃湯，鮮辣味與奶油味的完美融合背後，真正的美味祕訣乃是燉煮食材製成的高湯。",
+   "ja": "トライヨラで広く親しまれているクリーミーかつスパイシーなシチュー。食材の出汁が人気の秘訣"
+  }
+ },
+ {
+  "slug": "cinnamon-cream-coffee",
+  "en": "Cinnamon Cream Coffee",
+  "n": {
+   "en": "Cinnamon Cream Coffee",
+   "zh-CN": "泡沫奶油肉桂咖啡",
+   "zh-TW": "泡沫奶油肉桂咖啡",
+   "ja": "シナモンホイップコーヒー"
+  },
+  "desc": {
+   "en": "The bittersweet flavor of this coffee is complemented by a cinnamon aroma and creamy topping.",
+   "zh-CN": "泡沫绵密丰富的奶油佐以肉桂的清香，咖啡的苦与甜在此取得了恰到好处的平衡。",
+   "zh-TW": "泡沫綿密豐富的奶油佐以肉桂的清香，咖啡的苦與甜在此取得了恰到好處的平衡。",
+   "ja": "よく立てたホイップクリームを乗せシナモンで香り付けした、甘味と苦味が調和したコーヒー"
+  }
+ },
+ {
+  "slug": "coffee-kukuru-rusks",
+  "en": "Coffee Kukuru Rusks",
+  "n": {
+   "en": "Coffee Kukuru Rusks",
+   "zh-CN": "咖啡可可甜脆",
+   "zh-TW": "咖啡可可甜脆",
+   "ja": "コーヒーククルラスク"
+  },
+  "desc": {
+   "en": "These delectable biscuits are made by soaking kukuru chocolate dough in coffee, then sprinkling it with sugar and baking it.",
+   "zh-CN": "用咖啡浸泡巧克力面包胚，再撒满砂糖烤制而成的点心。",
+   "zh-TW": "用咖啡浸泡巧克力麪包胚，再撒滿砂糖烤制而成的點心。",
+   "ja": "チョコレートの練り込まれたパン生地にコーヒーを染み込ませ、砂糖で表面をこんがりと焼いた菓子"
+  }
+ },
+ {
+  "slug": "navel-orange-cookies",
+  "en": "Navel Orange Cookies",
+  "n": {
+   "en": "Navel Orange Cookies",
+   "zh-CN": "脐橙饼干",
+   "zh-TW": "臍橙餅乾",
+   "ja": "ネーブルオレンジクッキー"
+  },
+  "desc": {
+   "en": "Sweet cookies made from dough mixed with dried navel oranges.",
+   "zh-CN": "将干燥脐橙混入面胚烤制的饼干。",
+   "zh-TW": "將乾燥臍橙混入面胚烤制的餅乾。",
+   "ja": "乾燥させたネーブルオレンジを生地に混ぜて焼き上げたクッキー"
+  }
+ },
+ {
+  "slug": "pineapple-orange-jelly",
+  "en": "Pineapple Orange Jelly",
+  "n": {
+   "en": "Pineapple Orange Jelly",
+   "zh-CN": "菠萝脐橙果冻",
+   "zh-TW": "菠蘿臍橙果凍",
+   "ja": "パインオレンジゼリー"
+  },
+  "desc": {
+   "en": "Made from Turali pineapples and navel oranges, the refreshing flavor of this jelly will remind you of Tural no matter where you are.",
+   "zh-CN": "用图拉尔菠萝和脐橙等鲜果制成的爽口南国风味果冻。",
+   "zh-TW": "用圖拉爾菠蘿和臍橙等鮮果製成的爽口南國風味果凍。",
+   "ja": "トラルパイナップルとネーブルオレンジを使った、爽やかな南国風味のゼリー"
+  }
+ },
+ {
+  "slug": "lobster-bisque",
+  "en": "Lobster Bisque",
+  "n": {
+   "en": "Lobster Bisque",
+   "zh-CN": "龙虾浓汤",
+   "zh-TW": "龍蝦濃湯",
+   "ja": "ロブスタービスク"
+  },
+  "desc": {
+   "en": "This creamy soup gets its rich flavor from puréed lobster.",
+   "zh-CN": "以龙虾为汤底炖煮，口感顺滑柔和的鲜汤。",
+   "zh-TW": "以龍蝦爲湯底燉煮，口感順滑柔和的鮮湯。",
+   "ja": "ロブスターをベースにした、滑らかな味わいのスープ"
+  }
+ },
+ {
+  "slug": "boiled-lobster",
+  "en": "Boiled Lobster",
+  "n": {
+   "en": "Boiled Lobster",
+   "zh-CN": "汆烫龙虾",
+   "zh-TW": "汆燙龍蝦",
+   "ja": "ボイルドロブスター"
+  },
+  "desc": {
+   "en": "This dish is made by giving the lobster a nice, long, scalding bath and then garnishing it with lemon and salt. A simple process that brings out the flavor of the main ingredient.",
+   "zh-CN": "以盐和柠檬调味的煮龙虾，干净简素的做法更显食材鲜美。",
+   "zh-TW": "以鹽和檸檬調味的煮龍蝦，乾淨簡素的做法更顯食材鮮美。",
+   "ja": "茹でたロブスターに塩とレモンで味付けをした、シンプルで素材の味が引き立つ料理"
+  }
+ },
+ {
+  "slug": "ceviche",
+  "en": "Ceviche",
+  "n": {
+   "en": "Ceviche",
+   "zh-CN": "酸柠檬腌鱼",
+   "zh-TW": "酸檸檬醃魚",
+   "ja": "セビーチェ"
+  },
+  "desc": {
+   "en": "Succulent chunks of cloudfish in a zesty salt and lemon marinade. Beloved by residents of Tuliyollal.",
+   "zh-CN": "以柠檬和盐腌制的旗鱼，是图莱尤拉本地人十分喜爱的海鲜。",
+   "zh-TW": "以檸檬和鹽醃製的旗魚，是圖萊尤拉本地人十分喜愛的海鮮。",
+   "ja": "セイルフィッシュにレモンと塩で味を付けた、トライヨラで親しまれる海鮮料理"
+  }
+ },
+ {
+  "slug": "cloudsail-meuniere",
+  "en": "Cloudsail Meuniere",
+  "n": {
+   "en": "Cloudsail Meuniere",
+   "zh-CN": "香煎面拖旗鱼",
+   "zh-TW": "香煎麪拖旗魚",
+   "ja": "セイルフィッシュムニエル"
+  },
+  "desc": {
+   "en": "A delicate cut of cloudsail dusted with flour and sautéed in butter until golden brown.",
+   "zh-CN": "旗鱼裹上小麦面糊烹制成的美味佳肴。",
+   "zh-TW": "旗魚裹上小麥麪糊烹製成的美味佳餚。",
+   "ja": "セイルフィッシュに小麦粉をまぶし、焼き上げた料理"
+  }
+ },
+ {
+  "slug": "paes-de-queijo",
+  "en": "Paes de Queijo",
+  "n": {
+   "en": "Paes de Queijo",
+   "zh-CN": "奶酪木薯包",
+   "zh-TW": "奶酪木薯包",
+   "ja": "ポン・デ・ケージョ"
+  },
+  "desc": {
+   "en": "A handful of sumptuously soft cheese-filled bread rolls.",
+   "zh-CN": "有着特殊软糯口感的面包，里面还放了奶酪。",
+   "zh-TW": "有着特殊軟糯口感的麪包，裏面還放了奶酪。",
+   "ja": "もちもちとした食感が特徴のチーズ入りパン"
+  }
+ },
+ {
+  "slug": "bubble-tea",
+  "en": "Bubble Tea",
+  "n": {
+   "en": "Bubble Tea",
+   "zh-CN": "珍珠奶茶",
+   "zh-TW": "珍珠奶茶",
+   "ja": "タピオカミルクティー"
+  },
+  "desc": {
+   "en": "An intensely sweet beverage brimming with chewy tapioca. This drink enjoyed a brief but meteoric rise in popularity among the youths of Everkeep.",
+   "zh-CN": "因甘甜的口味与珍珠的嚼劲而大受欢迎的饮料。曾在永护塔的年轻人中掀起过一轮珍珠奶茶热。",
+   "zh-TW": "因甘甜的口味與珍珠的嚼勁而大受歡迎的飲料。曾在永護塔的年輕人中掀起過一輪珍珠奶茶熱。",
+   "ja": "強い甘みとタピオカの食感が特徴的な飲料。エバーキープの若者の間でブームになったことがある"
+  }
+ },
+ {
+  "slug": "sweet-maple-mate",
+  "en": "Sweet Maple Mate",
+  "n": {
+   "en": "Sweet Maple Mate",
+   "zh-CN": "甜马黛茶",
+   "zh-TW": "甜馬黛茶",
+   "ja": "マテ・スイートティー"
+  },
+  "desc": {
+   "en": "This sweet drink, brewed from the finest mate leaves, is a firm favorite among peddlers. A single sip is enough to vanquish even the most deep-seated fatigue.",
+   "zh-CN": "使用最高级马黛茶制作的甜味饮料。因其缓解疲劳的功效，广受时常长途跋涉的商人们好评。",
+   "zh-TW": "使用最高級馬黛茶製作的甜味飲料。因其緩解疲勞的功效，廣受時常長途跋涉的商人們好評。",
+   "ja": "最高級マテ茶葉を使った甘口飲料。甘みが疲れを癒やすとして、長距離を移動する行商人に人気がある"
+  }
+ },
+ {
+  "slug": "mate-cookie",
+  "en": "Mate Cookie",
+  "n": {
+   "en": "Mate Cookie",
+   "zh-CN": "高级马黛茶饼干",
+   "zh-TW": "高級馬黛茶餅乾",
+   "ja": "高級マテ茶クッキー"
+  },
+  "desc": {
+   "en": "Splendid mate leaves are kneaded into the dough before baking to create these wonderfully fragrant cookies.",
+   "zh-CN": "将最高级马黛茶的茶叶均匀揉进胚中烤制而成的芬芳饼干。",
+   "zh-TW": "將最高級馬黛茶的茶葉均勻揉進胚中烤制而成的芬芳餅乾。",
+   "ja": "最高級マテ茶葉を生地に練り込んだ、薫香漂うクッキー"
+  }
+ },
+ {
+  "slug": "alpaca-stew",
+  "en": "Alpaca Stew",
+  "n": {
+   "en": "Alpaca Stew",
+   "zh-CN": "羊驼浓汤",
+   "zh-TW": "羊駝濃湯",
+   "ja": "アルパカシチュー"
+  },
+  "desc": {
+   "en": "A hearty stew of alpaca tenderloin and chunks of popoto gently simmered in mezcal.",
+   "zh-CN": "将羊驼的里脊与新薯一起精心炖煮后再佐以梅斯卡酒调味而成的风味独特的浓汤。",
+   "zh-TW": "將羊駝的裏脊與新薯一起精心燉煮後再佐以梅斯卡酒調味而成的風味獨特的濃湯。",
+   "ja": "アルパカのフィレ肉とポポトをじっくり煮込み、メスカル酒で風味付けしたシチュー"
+  }
+ },
+ {
+  "slug": "lomo-saltado",
+  "en": "Lomo Saltado",
+  "n": {
+   "en": "Lomo Saltado",
+   "zh-CN": "彩椒犎牛柳",
+   "zh-TW": "彩椒犎牛柳",
+   "ja": "ロネーク・サルタード"
+  },
+  "desc": {
+   "en": "Stir-fried strips of marinated rroneek shoulder are served with popotoes in this spicy home-cooked favorite.",
+   "zh-CN": "犎牛肩肉、新薯加黑夜醋炒制而成的鲜辣家常美食。",
+   "zh-TW": "犎牛肩肉、新薯加黑夜醋炒制而成的鮮辣家常美食。",
+   "ja": "ロネークの肩肉とポポトをダークビネガーで炒めたスパイシーな家庭料理"
+  }
+ },
+ {
+  "slug": "solterito",
+  "en": "Solterito",
+  "n": {
+   "en": "Solterito",
+   "zh-CN": "奶酪沙拉",
+   "zh-TW": "奶酪沙拉",
+   "ja": "エンサラーダ・デ・ケソ"
+  },
+  "desc": {
+   "en": "A satisfyingly simple salad of soft cheese and tender beans.",
+   "zh-CN": "以豆类和奶酪为主体的简朴沙拉。",
+   "zh-TW": "以豆類和奶酪爲主體的簡樸沙拉。",
+   "ja": "チーズと豆を主食材としたシンプルなサラダ"
+  }
+ },
+ {
+  "slug": "mollete",
+  "en": "Mollete",
+  "n": {
+   "en": "Mollete",
+   "zh-CN": "奶酪莫雷特",
+   "zh-TW": "奶酪莫雷特",
+   "ja": "モジェテ"
+  },
+  "desc": {
+   "en": "Slices of crispy bread topped with a generous heap of fresh tomatoes and molten cheese.",
+   "zh-CN": "将奶酪和番茄放在切片的硬面包上烤制而成的家常美食。",
+   "zh-TW": "將奶酪和番茄放在切片的硬麪包上烤制而成的家常美食。",
+   "ja": "スライスした硬いパンの上に、チーズやトマトを乗せて焼いた家庭料理"
+  }
+ },
+ {
+  "slug": "ground-woolback-steak",
+  "en": "Ground Woolback Steak",
+  "n": {
+   "en": "Ground Woolback Steak",
+   "zh-CN": "鬃背兽肉饼",
+   "zh-TW": "鬃背獸肉餅",
+   "ja": "ウールバックハンバーグ"
+  },
+  "desc": {
+   "en": "A portion of ground woolback sirloin garnished with garlic and chili sauce then grilled to perfection.",
+   "zh-CN": "将鬃背兽的里脊绞碎做成汉堡肉再以辣椒酱和大蒜调味烹制而成的美食。",
+   "zh-TW": "將鬃背獸的裏脊絞碎做成漢堡肉再以辣椒醬和大蒜調味烹製而成的美食。",
+   "ja": "ウールバックのロース肉を挽いたハンバーグに、肉の味に合うチリソースとガーリックをあわせた料理"
+  }
+ },
+ {
+  "slug": "woolback-steak",
+  "en": "Woolback Steak",
+  "n": {
+   "en": "Woolback Steak",
+   "zh-CN": "鬃背兽肉排",
+   "zh-TW": "鬃背獸肉排",
+   "ja": "ウールバックステーキ"
+  },
+  "desc": {
+   "en": "A pinch of salt and dusting of white pepper enhance the natural flavors of this succulent steak.",
+   "zh-CN": "将鬃背兽的里脊肉排撒上白胡椒烤制而成的美食。",
+   "zh-TW": "將鬃背獸的裏脊肉排撒上白胡椒烤制而成的美食。",
+   "ja": "ウールバックのロース肉に、白胡椒をまぶして焼いた料理"
+  }
+ },
+ {
+  "slug": "all-i-pebre",
+  "en": "All i Pebre",
+  "n": {
+   "en": "All i Pebre",
+   "zh-CN": "椒麻鳗鱼",
+   "zh-TW": "椒麻鰻魚",
+   "ja": "アリペブレ"
+  },
+  "desc": {
+   "en": "Bite-sized pieces of eel and popoto stewed in a spiced sauce of Thavnairian paprika.",
+   "zh-CN": "将鳗鱼和新薯切成一口大小，再佐以萨维奈彩椒末炖煮后制成的佳肴。",
+   "zh-TW": "將鰻魚和新薯切成一口大小，再佐以薩維奈彩椒末燉煮後製成的佳餚。",
+   "ja": "ウナギとポポトをひと口大に切り、パウダー状にしたサベネアンパプリカで煮込んだ料理"
+  }
+ },
+ {
+  "slug": "goldentail-pie",
+  "en": "Goldentail Pie",
+  "n": {
+   "en": "Goldentail Pie",
+   "zh-CN": "黄金鳗鱼派",
+   "zh-TW": "黃金鰻魚派",
+   "ja": "ゴールデンイールパイ"
+  },
+  "desc": {
+   "en": "Shockingly delicious eel baked in a flaky crust.",
+   "zh-CN": "将黄金鳗包入派皮烤制成的鱼派。",
+   "zh-TW": "將黃金鰻包入派皮烤製成的魚派。",
+   "ja": "ゴールデンイールを包み込んで焼いたパイ"
+  }
+ },
+ {
+  "slug": "nachos",
+  "en": "Nachos",
+  "n": {
+   "en": "Nachos",
+   "zh-CN": "烤干酪辣味玉米片",
+   "zh-TW": "烤乾酪辣味玉米片",
+   "ja": "ナチョス"
+  },
+  "desc": {
+   "en": "A small mountain of thin corn tortillas fried to perfection and topped with a tangy tomato sauce.",
+   "zh-CN": "将碾碎的玉米压薄烤成玉米脆片，再盖上以番茄为基底的酱料后制成的美食。",
+   "zh-TW": "將碾碎的玉米壓薄烤成玉米脆片，再蓋上以番茄爲基底的醬料後製成的美食。",
+   "ja": "粉状にしたトウモロコシから作られた薄焼きのトルティーヤに、トマトをベースにしたソースをトッピングした料理"
+  }
+ },
+ {
+  "slug": "caramel-popcorn",
+  "en": "Caramel Popcorn",
+  "n": {
+   "en": "Caramel Popcorn",
+   "zh-CN": "焦糖爆米花",
+   "zh-TW": "焦糖爆米花",
+   "ja": "キャラメルポップコーン"
+  },
+  "desc": {
+   "en": "A moreish corn treat slathered in rich caramel sauce. Made by heating corn kernels until they expand, young and old delight in the pop and crackle made by the blooming kernels.",
+   "zh-CN": "加热膨胀的玉米粒裹上焦糖酱制成的甜点。从绽裂时的声音到可爱的外观都无比诱人，不论大人小孩都对这种美食爱不释手。",
+   "zh-TW": "加熱膨脹的玉米粒裹上焦糖醬製成的甜點。從綻裂時的聲音到可愛的外觀都無比誘人，不論大人小孩都對這種美食愛不釋手。",
+   "ja": "熱して膨張したトウモロコシに、キャラメルソースを絡めた菓子。弾ける際の音や見た目から大人子供問わずに大人気だとか"
+  }
+ },
+ {
+  "slug": "prune-ponzecake",
+  "en": "Prune Ponzecake",
+  "n": {
+   "en": "Prune Ponzecake",
+   "zh-CN": "梅干星磅蛋糕",
+   "zh-TW": "梅乾星磅蛋糕",
+   "ja": "プルーンパンズケーキ"
+  },
+  "desc": {
+   "en": "A fragrant ponzecake studded with silky soft prunes.",
+   "zh-CN": "将梅子加入面团中烤成的蓬松星磅蛋糕，散发着香甜的味道。",
+   "zh-TW": "將梅子加入麪糰中烤成的蓬鬆星磅蛋糕，散發着香甜的味道。",
+   "ja": "生地にプラムを混ぜ、ふっくらと焼き上げた甘い香り漂うパンズケーキ"
+  }
+ },
+ {
+  "slug": "prune-packed-fruitcake",
+  "en": "Prune-packed Fruitcake",
+  "n": {
+   "en": "Prune-packed Fruitcake",
+   "zh-CN": "梅干灵矿蛋糕",
+   "zh-TW": "梅乾靈礦蛋糕",
+   "ja": "プルーンシュトレン"
+  },
+  "desc": {
+   "en": "Dried plums steeped in liquor are stirred into the batter to create this wonderfully rich, fruit-laden cake.",
+   "zh-CN": "将果干用蒸馏酒浸泡过之后混进面团里烤制成的蛋糕。也被用作储备粮。",
+   "zh-TW": "將果乾用蒸餾酒浸泡過之後混進麪糰裏烤製成的蛋糕。也被用作儲備糧。",
+   "ja": "ドライフルーツの蒸留酒漬け等を生地に混ぜ焼き上げたケーキ。保存食としても用いられている"
+  }
+ },
+ {
+  "slug": "rroneek-au-gratin",
+  "en": "Rroneek au Gratin",
+  "n": {
+   "en": "Rroneek au Gratin",
+   "zh-CN": "犎牛奶汁焗菜",
+   "zh-TW": "犎牛奶汁焗菜",
+   "ja": "ロネークグラタン"
+  },
+  "desc": {
+   "en": "Garlic and onion gently simmered in rroneek milk elevate this humble popoto dish to newly flavorful heights.",
+   "zh-CN": "使用犎牛奶炖煮大蒜和洋葱制成的一道口味浓厚且独特的奶汁焗菜。",
+   "zh-TW": "使用犎牛奶燉煮大蒜和洋蔥製成的一道口味濃厚且獨特的奶汁焗菜。",
+   "ja": "ガーリックやオニオンをロネークの乳で煮込んだ、味の深みが特徴的なグラタン"
+  }
+ },
+ {
+  "slug": "popoto-potage",
+  "en": "Popoto Potage",
+  "n": {
+   "en": "Popoto Potage",
+   "zh-CN": "新薯浓汤",
+   "zh-TW": "新薯濃湯",
+   "ja": "ポポトポタージュ"
+  },
+  "desc": {
+   "en": "A thick, creamy soup made with fresh rroneek milk and plenty of popotoes.",
+   "zh-CN": "使用犎牛奶炖煮新薯制成的奶油汤。",
+   "zh-TW": "使用犎牛奶燉煮新薯製成的奶油湯。",
+   "ja": "ポポトをロネークの乳で煮込んだクリームスープ"
+  }
+ },
+ {
+  "slug": "rock-fisted-popoto-stew",
+  "en": "Rock-fisted Popoto Stew",
+  "n": {
+   "en": "Rock-fisted Popoto Stew",
+   "zh-CN": "炖剑山芋",
+   "zh-TW": "燉劍山芋",
+   "ja": "げんこつポポトのシチュー"
+  },
+  "desc": {
+   "en": "Based on a traditional Alexandrian recipe that does *not* call for the addition of any oglops, despite what some may have pondered.",
+   "zh-CN": "亚历山德里亚传统美食。关于这种美食还有个著名的民间故事，据说有一位女孩为意中人制作这道菜的时候，很是纠结要不要按秘方放山蟑虫。",
+   "zh-TW": "亞歷山德里亞傳統美食。關於這種美食還有個著名的民間故事，據說有一位女孩爲意中人制作這道菜的時候，很是糾結要不要按祕方放山蟑蟲。",
+   "ja": "アレクサンドリアの伝統料理。とある少女が意中の相手に作る際、隠し味として山ブリ虫を加えるか悩むという民話で知られる"
+  }
+ },
+ {
+  "slug": "rock-fisted-popoto-salad",
+  "en": "Rock-fisted Popoto Salad",
+  "n": {
+   "en": "Rock-fisted Popoto Salad",
+   "zh-CN": "剑山芋沙拉",
+   "zh-TW": "劍山芋沙拉",
+   "ja": "げんこつポポトのサラダ"
+  },
+  "desc": {
+   "en": "A creamy salad packed with mashed rock-fist popotoes and crunchy diced carrots.",
+   "zh-CN": "将煮过的剑山芋碾碎之后加上胡萝卜制成的沙拉。",
+   "zh-TW": "將煮過的劍山芋碾碎之後加上胡蘿蔔製成的沙拉。",
+   "ja": "茹でたげんこつポポトをすり潰し、キャロットと混ぜ合わせて作ったサラダ"
+  }
+ },
+ {
+  "slug": "clam-cake",
+  "en": "Clam Cake",
+  "n": {
+   "en": "Clam Cake",
+   "zh-CN": "蛤蜊糕",
+   "zh-TW": "蛤蜊糕",
+   "ja": "クラムケーキ"
+  },
+  "desc": {
+   "en": "Tender strips of quahog baked into a delicate savory cake.",
+   "zh-CN": "将圆蛤中开出来的贝肉碾成泥再和小麦粉混合后煎制成的美食。",
+   "zh-TW": "將圓蛤中開出來的貝肉碾成泥再和小麥粉混合後煎製成的美食。",
+   "ja": "ほぐしたクアホッグの身を小麦粉と混ぜ合わせ、揚げ焼きにした料理"
+  }
+ },
+ {
+  "slug": "quahog-chowder",
+  "en": "Quahog Chowder",
+  "n": {
+   "en": "Quahog Chowder",
+   "zh-CN": "圆蛤羹",
+   "zh-TW": "圓蛤羹",
+   "ja": "クアホッグチャウダー"
+  },
+  "desc": {
+   "en": "An indulgently creamy soup brimming with succulent clams.",
+   "zh-CN": "将巨大的双壳贝切开后熬制的羹汤。",
+   "zh-TW": "將巨大的雙殼貝切開後熬製的羹湯。",
+   "ja": "巨大な二枚貝をふんだんに使ったクリームスープ"
+  }
+ }
+]

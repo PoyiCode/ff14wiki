@@ -1,0 +1,6 @@
+id: grape-juice
+category: food
+type: dish
+dish: "Grape Juice"
+tags: [food, cuisine]
+status: stable

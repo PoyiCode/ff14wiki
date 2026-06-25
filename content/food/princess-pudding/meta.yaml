@@ -1,0 +1,6 @@
+id: princess-pudding
+category: food
+type: dish
+dish: "Princess Pudding"
+tags: [food, cuisine]
+status: stable

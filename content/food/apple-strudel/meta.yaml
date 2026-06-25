@@ -1,0 +1,6 @@
+id: apple-strudel
+category: food
+type: dish
+dish: "Apple Strudel"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: gameni
+category: food
+type: dish
+dish: "Gameni"
+tags: [food, cuisine]
+status: stable

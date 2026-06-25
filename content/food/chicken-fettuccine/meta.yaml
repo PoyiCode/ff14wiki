@@ -1,0 +1,6 @@
+id: chicken-fettuccine
+category: food
+type: dish
+dish: "Chicken Fettuccine"
+tags: [food, cuisine]
+status: stable

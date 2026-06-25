@@ -1,0 +1,6 @@
+id: red-drop
+category: food
+type: dish
+dish: "Red Drop"
+tags: [food, cuisine]
+status: stable

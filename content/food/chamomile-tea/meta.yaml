@@ -1,0 +1,6 @@
+id: chamomile-tea
+category: food
+type: dish
+dish: "Chamomile Tea"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: doman-tea
+category: food
+type: dish
+dish: "Doman Tea"
+tags: [food, cuisine]
+status: stable

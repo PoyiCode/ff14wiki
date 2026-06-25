@@ -1,0 +1,6 @@
+id: royal-toast
+category: food
+type: dish
+dish: "Royal Toast"
+tags: [food, cuisine]
+status: stable

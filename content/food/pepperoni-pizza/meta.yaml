@@ -1,0 +1,6 @@
+id: pepperoni-pizza
+category: food
+type: dish
+dish: "Pepperoni Pizza"
+tags: [food, cuisine]
+status: stable

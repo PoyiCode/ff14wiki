@@ -1,0 +1,6 @@
+id: chili-crab
+category: food
+type: dish
+dish: "Chili Crab"
+tags: [food, cuisine]
+status: stable

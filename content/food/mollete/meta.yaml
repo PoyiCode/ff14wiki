@@ -1,0 +1,6 @@
+id: mollete
+category: food
+type: dish
+dish: "Mollete"
+tags: [food, cuisine]
+status: stable

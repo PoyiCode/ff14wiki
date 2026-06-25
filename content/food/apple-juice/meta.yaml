@@ -1,0 +1,6 @@
+id: apple-juice
+category: food
+type: dish
+dish: "Apple Juice"
+tags: [food, cuisine]
+status: stable

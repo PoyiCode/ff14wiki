@@ -1,0 +1,6 @@
+id: tacos-al-pastor
+category: food
+type: dish
+dish: "Tacos Al Pastor"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: marmot-steak
+category: food
+type: dish
+dish: "Marmot Steak"
+tags: [food, cuisine]
+status: stable

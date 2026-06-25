@@ -1,0 +1,6 @@
+id: fish-soup
+category: food
+type: dish
+dish: "Fish Soup"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: pea-soup
+category: food
+type: dish
+dish: "Pea Soup"
+tags: [food, cuisine]
+status: stable

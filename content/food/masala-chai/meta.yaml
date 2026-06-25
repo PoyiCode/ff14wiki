@@ -1,0 +1,6 @@
+id: masala-chai
+category: food
+type: dish
+dish: "Masala Chai"
+tags: [food, cuisine]
+status: stable

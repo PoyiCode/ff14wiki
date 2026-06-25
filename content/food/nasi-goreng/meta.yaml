@@ -1,0 +1,6 @@
+id: nasi-goreng
+category: food
+type: dish
+dish: "Nasi Goreng"
+tags: [food, cuisine]
+status: stable

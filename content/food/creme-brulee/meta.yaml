@@ -1,0 +1,6 @@
+id: creme-brulee
+category: food
+type: dish
+dish: "Creme Brulee"
+tags: [food, cuisine]
+status: stable

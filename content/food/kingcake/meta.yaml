@@ -1,0 +1,6 @@
+id: kingcake
+category: food
+type: dish
+dish: "Kingcake"
+tags: [food, cuisine]
+status: stable

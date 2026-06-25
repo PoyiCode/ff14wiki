@@ -1,0 +1,6 @@
+id: grilled-trout
+category: food
+type: dish
+dish: "Grilled Trout"
+tags: [food, cuisine]
+status: stable

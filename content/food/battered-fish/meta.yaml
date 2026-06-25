@@ -1,0 +1,6 @@
+id: battered-fish
+category: food
+type: dish
+dish: "Battered Fish"
+tags: [food, cuisine]
+status: stable

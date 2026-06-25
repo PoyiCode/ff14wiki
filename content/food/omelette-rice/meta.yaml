@@ -1,0 +1,6 @@
+id: omelette-rice
+category: food
+type: dish
+dish: "Omelette Rice"
+tags: [food, cuisine]
+status: stable

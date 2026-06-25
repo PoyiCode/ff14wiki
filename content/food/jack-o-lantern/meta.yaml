@@ -1,0 +1,6 @@
+id: jack-o-lantern
+category: food
+type: dish
+dish: "Jack-o'-lantern"
+tags: [food, cuisine]
+status: stable

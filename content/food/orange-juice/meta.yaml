@@ -1,0 +1,6 @@
+id: orange-juice
+category: food
+type: dish
+dish: "Orange Juice"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: skyr
+category: food
+type: dish
+dish: "Skyr"
+tags: [food, cuisine]
+status: stable

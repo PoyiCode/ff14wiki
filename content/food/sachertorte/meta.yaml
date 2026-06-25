@@ -1,0 +1,6 @@
+id: sachertorte
+category: food
+type: dish
+dish: "Sachertorte"
+tags: [food, cuisine]
+status: stable

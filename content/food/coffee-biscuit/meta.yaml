@@ -1,0 +1,6 @@
+id: coffee-biscuit
+category: food
+type: dish
+dish: "Coffee Biscuit"
+tags: [food, cuisine]
+status: stable

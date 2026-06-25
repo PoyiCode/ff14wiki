@@ -1,0 +1,6 @@
+id: buckwheat-tea
+category: food
+type: dish
+dish: "Buckwheat Tea"
+tags: [food, cuisine]
+status: stable

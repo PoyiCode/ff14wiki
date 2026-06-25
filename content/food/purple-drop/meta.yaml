@@ -1,0 +1,6 @@
+id: purple-drop
+category: food
+type: dish
+dish: "Purple Drop"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: tomato-pie
+category: food
+type: dish
+dish: "Tomato Pie"
+tags: [food, cuisine]
+status: stable

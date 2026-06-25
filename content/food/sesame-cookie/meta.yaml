@@ -1,0 +1,6 @@
+id: sesame-cookie
+category: food
+type: dish
+dish: "Sesame Cookie"
+tags: [food, cuisine]
+status: stable

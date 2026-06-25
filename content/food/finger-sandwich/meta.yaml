@@ -1,0 +1,6 @@
+id: finger-sandwich
+category: food
+type: dish
+dish: "Finger Sandwich"
+tags: [food, cuisine]
+status: stable

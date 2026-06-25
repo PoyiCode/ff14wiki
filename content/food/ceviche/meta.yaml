@@ -1,0 +1,6 @@
+id: ceviche
+category: food
+type: dish
+dish: "Ceviche"
+tags: [food, cuisine]
+status: stable

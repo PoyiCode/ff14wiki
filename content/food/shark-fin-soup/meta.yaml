@@ -1,0 +1,6 @@
+id: shark-fin-soup
+category: food
+type: dish
+dish: "Shark Fin Soup"
+tags: [food, cuisine]
+status: stable

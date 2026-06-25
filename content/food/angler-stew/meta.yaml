@@ -1,0 +1,6 @@
+id: angler-stew
+category: food
+type: dish
+dish: "Angler Stew"
+tags: [food, cuisine]
+status: stable

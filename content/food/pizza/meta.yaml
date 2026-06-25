@@ -1,0 +1,6 @@
+id: pizza
+category: food
+type: dish
+dish: "Pizza"
+tags: [food, cuisine]
+status: stable

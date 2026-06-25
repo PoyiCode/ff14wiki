@@ -1,0 +1,6 @@
+id: kaiser-roll
+category: food
+type: dish
+dish: "Kaiser Roll"
+tags: [food, cuisine]
+status: stable

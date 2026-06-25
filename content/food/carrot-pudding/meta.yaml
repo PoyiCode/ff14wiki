@@ -1,0 +1,6 @@
+id: carrot-pudding
+category: food
+type: dish
+dish: "Carrot Pudding"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: mint-lassi
+category: food
+type: dish
+dish: "Mint Lassi"
+tags: [food, cuisine]
+status: stable

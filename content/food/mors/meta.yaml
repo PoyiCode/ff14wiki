@@ -1,0 +1,6 @@
+id: mors
+category: food
+type: dish
+dish: "Mors"
+tags: [food, cuisine]
+status: stable

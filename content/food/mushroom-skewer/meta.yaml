@@ -1,0 +1,6 @@
+id: mushroom-skewer
+category: food
+type: dish
+dish: "Mushroom Skewer"
+tags: [food, cuisine]
+status: stable

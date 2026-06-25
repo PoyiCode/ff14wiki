@@ -1,0 +1,6 @@
+id: peperoncino
+category: food
+type: dish
+dish: "Peperoncino"
+tags: [food, cuisine]
+status: stable

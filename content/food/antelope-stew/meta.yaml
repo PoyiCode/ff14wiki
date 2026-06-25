@@ -1,0 +1,6 @@
+id: antelope-stew
+category: food
+type: dish
+dish: "Antelope Stew"
+tags: [food, cuisine]
+status: stable

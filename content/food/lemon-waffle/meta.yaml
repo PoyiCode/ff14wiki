@@ -1,0 +1,6 @@
+id: lemon-waffle
+category: food
+type: dish
+dish: "Lemon Waffle"
+tags: [food, cuisine]
+status: stable

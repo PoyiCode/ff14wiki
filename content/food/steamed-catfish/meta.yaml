@@ -1,0 +1,6 @@
+id: steamed-catfish
+category: food
+type: dish
+dish: "Steamed Catfish"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: rabbit-pie
+category: food
+type: dish
+dish: "Rabbit Pie"
+tags: [food, cuisine]
+status: stable

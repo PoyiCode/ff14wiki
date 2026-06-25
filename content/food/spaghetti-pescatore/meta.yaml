@@ -1,0 +1,6 @@
+id: spaghetti-pescatore
+category: food
+type: dish
+dish: "Spaghetti Pescatore"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: egg-foo-young
+category: food
+type: dish
+dish: "Egg Foo Young"
+tags: [food, cuisine]
+status: stable

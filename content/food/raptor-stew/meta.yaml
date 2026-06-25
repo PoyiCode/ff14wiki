@@ -1,0 +1,6 @@
+id: raptor-stew
+category: food
+type: dish
+dish: "Raptor Stew"
+tags: [food, cuisine]
+status: stable

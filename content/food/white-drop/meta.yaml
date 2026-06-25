@@ -1,0 +1,6 @@
+id: white-drop
+category: food
+type: dish
+dish: "White Drop"
+tags: [food, cuisine]
+status: stable

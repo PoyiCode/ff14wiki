@@ -1,0 +1,6 @@
+id: seafood-stew
+category: food
+type: dish
+dish: "Seafood Stew"
+tags: [food, cuisine]
+status: stable

@@ -1,0 +1,6 @@
+id: paella
+category: food
+type: dish
+dish: "Paella"
+tags: [food, cuisine]
+status: stable

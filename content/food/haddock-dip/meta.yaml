@@ -1,0 +1,6 @@
+id: haddock-dip
+category: food
+type: dish
+dish: "Haddock Dip"
+tags: [food, cuisine]
+status: stable

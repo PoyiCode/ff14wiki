@@ -1,0 +1,6 @@
+id: royal-eggs
+category: food
+type: dish
+dish: "Royal Eggs"
+tags: [food, cuisine]
+status: stable

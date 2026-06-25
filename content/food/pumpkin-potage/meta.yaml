@@ -1,0 +1,6 @@
+id: pumpkin-potage
+category: food
+type: dish
+dish: "Pumpkin Potage"
+tags: [food, cuisine]
+status: stable

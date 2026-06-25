@@ -1,0 +1,6 @@
+id: farmer-s-breakfast
+category: food
+type: dish
+dish: "Farmer's Breakfast"
+tags: [food, cuisine]
+status: stable

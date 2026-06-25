@@ -1,0 +1,6 @@
+id: archon-loaf
+category: food
+type: dish
+dish: "Archon Loaf"
+tags: [food, cuisine]
+status: stable

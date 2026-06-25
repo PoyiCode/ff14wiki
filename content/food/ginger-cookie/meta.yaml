@@ -1,0 +1,6 @@
+id: ginger-cookie
+category: food
+type: dish
+dish: "Ginger Cookie"
+tags: [food, cuisine]
+status: stable

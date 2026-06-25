@@ -1,0 +1,6 @@
+id: caviar-sandwich
+category: food
+type: dish
+dish: "Caviar Sandwich"
+tags: [food, cuisine]
+status: stable
