@@ -1,0 +1,6 @@
+id: parasol
+category: ornaments
+type: ornament
+ornament: "Parasol"
+tags: [ornament, fashion]
+status: stable

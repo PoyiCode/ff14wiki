@@ -160,6 +160,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The dye colours used to tint gear and glamours, so the bot can describe its own outfit and chat about colour and fashion.',
     },
   },
+  {
+    key: 'ornaments',
+    label: { 'zh-TW': '時尚配飾', 'zh-CN': '时尚配饰', ja: 'ファッションアクセサリー', en: 'Ornaments' },
+    description: {
+      'zh-TW': '陽傘、翅膀、光環等可穿戴的時尚配飾，讓 bot 能裝扮自己、擺拍與聊時尚。',
+      'zh-CN': '阳伞、翅膀、光环等可穿戴的时尚配饰，让 bot 能装扮自己、摆拍与聊时尚。',
+      ja: 'パラソル・翼・光輪などの装えるファッションアクセサリー。botが着飾り、ポーズを取り、ファッションを語れるように。',
+      en: 'Wearable fashion accessories like parasols, wings and halos, so the bot can dress up, pose and chat about fashion.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

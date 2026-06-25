@@ -1,0 +1,6 @@
+id: knapsack
+category: ornaments
+type: ornament
+ornament: "Knapsack"
+tags: [ornament, fashion]
+status: stable

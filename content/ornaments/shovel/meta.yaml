@@ -1,0 +1,6 @@
+id: shovel
+category: ornaments
+type: ornament
+ornament: "Shovel"
+tags: [ornament, fashion]
+status: stable

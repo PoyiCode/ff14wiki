@@ -1,0 +1,532 @@
+[
+ {
+  "slug": "parasol",
+  "en": "Parasol",
+  "n": {
+   "en": "Parasol",
+   "zh-CN": "阳伞",
+   "zh-TW": "陽傘",
+   "ja": "パラソル"
+  }
+ },
+ {
+  "slug": "sky-blue-parasol",
+  "en": "Sky Blue Parasol",
+  "n": {
+   "en": "Sky Blue Parasol",
+   "zh-CN": "天蓝阳伞",
+   "zh-TW": "天藍陽傘",
+   "ja": "スカイパラソル"
+  }
+ },
+ {
+  "slug": "vermilion-paper-parasol",
+  "en": "Vermilion Paper Parasol",
+  "n": {
+   "en": "Vermilion Paper Parasol",
+   "zh-CN": "红漆油纸伞",
+   "zh-TW": "紅漆油紙傘",
+   "ja": "紅漆塗番傘"
+  }
+ },
+ {
+  "slug": "plum-paper-parasol",
+  "en": "Plum Paper Parasol",
+  "n": {
+   "en": "Plum Paper Parasol",
+   "zh-CN": "紫漆油纸伞",
+   "zh-TW": "紫漆油紙傘",
+   "ja": "紫漆塗番傘"
+  }
+ },
+ {
+  "slug": "gold-paper-parasol",
+  "en": "Gold Paper Parasol",
+  "n": {
+   "en": "Gold Paper Parasol",
+   "zh-CN": "黄漆油纸伞",
+   "zh-TW": "黃漆油紙傘",
+   "ja": "黄漆塗番傘"
+  }
+ },
+ {
+  "slug": "calming-checkered-parasol",
+  "en": "Calming Checkered Parasol",
+  "n": {
+   "en": "Calming Checkered Parasol",
+   "zh-CN": "沉稳方格阳伞",
+   "zh-TW": "沉穩方格陽傘",
+   "ja": "カルムチェックパラソル"
+  }
+ },
+ {
+  "slug": "cheerful-checkered-parasol",
+  "en": "Cheerful Checkered Parasol",
+  "n": {
+   "en": "Cheerful Checkered Parasol",
+   "zh-CN": "活力方格阳伞",
+   "zh-TW": "活力方格陽傘",
+   "ja": "チアフルチェックパラソル"
+  }
+ },
+ {
+  "slug": "classy-checkered-parasol",
+  "en": "Classy Checkered Parasol",
+  "n": {
+   "en": "Classy Checkered Parasol",
+   "zh-CN": "典雅方格阳伞",
+   "zh-TW": "典雅方格陽傘",
+   "ja": "クラッシーチェックパラソル"
+  }
+ },
+ {
+  "slug": "angel-wings",
+  "en": "Angel Wings",
+  "n": {
+   "en": "Angel Wings",
+   "zh-CN": "天使之翼",
+   "zh-TW": "天使之翼",
+   "ja": "エンジェルウィング"
+  }
+ },
+ {
+  "slug": "gold-parasaucer",
+  "en": "Gold Parasaucer",
+  "n": {
+   "en": "Gold Parasaucer",
+   "zh-CN": "金碟阳伞",
+   "zh-TW": "金碟陽傘",
+   "ja": "ゴールドソーサーパラソル"
+  }
+ },
+ {
+  "slug": "pleasant-dot-parasol",
+  "en": "Pleasant Dot Parasol",
+  "n": {
+   "en": "Pleasant Dot Parasol",
+   "zh-CN": "趣味圆点阳伞",
+   "zh-TW": "趣味圓點陽傘",
+   "ja": "プレザントドットパラソル"
+  }
+ },
+ {
+  "slug": "prim-dot-parasol",
+  "en": "Prim Dot Parasol",
+  "n": {
+   "en": "Prim Dot Parasol",
+   "zh-CN": "端庄圆点阳伞",
+   "zh-TW": "端莊圓點陽傘",
+   "ja": "プリムドットパラソル"
+  }
+ },
+ {
+  "slug": "pastoral-dot-parasol",
+  "en": "Pastoral Dot Parasol",
+  "n": {
+   "en": "Pastoral Dot Parasol",
+   "zh-CN": "田园圆点阳伞",
+   "zh-TW": "田園圓點陽傘",
+   "ja": "パストーラルドットパラソル"
+  }
+ },
+ {
+  "slug": "fat-cat-parasol",
+  "en": "Fat Cat Parasol",
+  "n": {
+   "en": "Fat Cat Parasol",
+   "zh-CN": "猫小胖阳伞",
+   "zh-TW": "貓小胖陽傘",
+   "ja": "ファットキャットパラソル"
+  }
+ },
+ {
+  "slug": "great-paraserpent",
+  "en": "Great Paraserpent",
+  "n": {
+   "en": "Great Paraserpent",
+   "zh-CN": "隆卡的水蛇伞？",
+   "zh-TW": "隆卡的水蛇傘？",
+   "ja": "ロンカの水蛇傘？"
+  }
+ },
+ {
+  "slug": "red-moon-parasol",
+  "en": "Red Moon Parasol",
+  "n": {
+   "en": "Red Moon Parasol",
+   "zh-CN": "红月油纸伞",
+   "zh-TW": "紅月油紙傘",
+   "ja": "紅小月番傘"
+  }
+ },
+ {
+  "slug": "fallen-angel-wings",
+  "en": "Fallen Angel Wings",
+  "n": {
+   "en": "Fallen Angel Wings",
+   "zh-CN": "堕天使之翼",
+   "zh-TW": "墮天使之翼",
+   "ja": "フォーリン・エンジェルウィング"
+  }
+ },
+ {
+  "slug": "archangel-wings",
+  "en": "Archangel Wings",
+  "n": {
+   "en": "Archangel Wings",
+   "zh-CN": "大天使之翼",
+   "zh-TW": "大天使之翼",
+   "ja": "アーク・エンジェルウィング"
+  }
+ },
+ {
+  "slug": "diabolos-wings",
+  "en": "Diabolos Wings",
+  "n": {
+   "en": "Diabolos Wings",
+   "zh-CN": "迪亚波罗斯之翼",
+   "zh-TW": "迪亞波羅斯之翼",
+   "ja": "ディアボロスウィング"
+  }
+ },
+ {
+  "slug": "pixie-wings",
+  "en": "Pixie Wings",
+  "n": {
+   "en": "Pixie Wings",
+   "zh-CN": "仙子族之翼",
+   "zh-TW": "仙子族之翼",
+   "ja": "ピクシーウィング"
+  }
+ },
+ {
+  "slug": "false-spectacles",
+  "en": "False Spectacles",
+  "n": {
+   "en": "False Spectacles",
+   "zh-CN": "幻象椭圆眼镜",
+   "zh-TW": "幻象橢圓眼鏡",
+   "ja": "ミラージュ・オーバルグラス"
+  }
+ },
+ {
+  "slug": "white-lace-parasol",
+  "en": "White Lace Parasol",
+  "n": {
+   "en": "White Lace Parasol",
+   "zh-CN": "白色花边阳伞",
+   "zh-TW": "白色花邊陽傘",
+   "ja": "ホワイトフリルパラソル"
+  }
+ },
+ {
+  "slug": "blue-blossom-parasol",
+  "en": "Blue Blossom Parasol",
+  "n": {
+   "en": "Blue Blossom Parasol",
+   "zh-CN": "蓝色印花阳伞",
+   "zh-TW": "藍色印花陽傘",
+   "ja": "ブルーブロッサムパラソル"
+  }
+ },
+ {
+  "slug": "false-shaded-spectacles",
+  "en": "False Shaded Spectacles",
+  "n": {
+   "en": "False Shaded Spectacles",
+   "zh-CN": "幻象金边墨镜",
+   "zh-TW": "幻象金邊墨鏡",
+   "ja": "ミラージュ・シェイデッドグラス"
+  }
+ },
+ {
+  "slug": "false-classic-spectacles",
+  "en": "False Classic Spectacles",
+  "n": {
+   "en": "False Classic Spectacles",
+   "zh-CN": "幻象经典眼镜",
+   "zh-TW": "幻象經典眼鏡",
+   "ja": "ミラージュ・クラシックグラス"
+  }
+ },
+ {
+  "slug": "sabotender-parasol",
+  "en": "Sabotender Parasol",
+  "n": {
+   "en": "Sabotender Parasol",
+   "zh-CN": "仙人刺阳伞",
+   "zh-TW": "仙人刺陽傘",
+   "ja": "サボテンダーパラソル"
+  }
+ },
+ {
+  "slug": "bluepowder-pixie-wings",
+  "en": "Bluepowder Pixie Wings",
+  "n": {
+   "en": "Bluepowder Pixie Wings",
+   "zh-CN": "蓝色仙子族之翼",
+   "zh-TW": "藍色仙子族之翼",
+   "ja": "ブルーピクシーウィング"
+  }
+ },
+ {
+  "slug": "felicitous-furball-umbrella",
+  "en": "Felicitous Furball Umbrella",
+  "n": {
+   "en": "Felicitous Furball Umbrella",
+   "zh-CN": "猫耳小员伞",
+   "zh-TW": "貓耳小員傘",
+   "ja": "ねこみみさんの傘"
+  }
+ },
+ {
+  "slug": "raindrop-defense-system",
+  "en": "Raindrop Defense System",
+  "n": {
+   "en": "Raindrop Defense System",
+   "zh-CN": "防雨系统",
+   "zh-TW": "防雨系統",
+   "ja": "防滴システム"
+  }
+ },
+ {
+  "slug": "rose-colored-spectacles",
+  "en": "Rose-colored Spectacles",
+  "n": {
+   "en": "Rose-colored Spectacles",
+   "zh-CN": "幻象玫瑰色眼镜",
+   "zh-TW": "幻象玫瑰色眼鏡",
+   "ja": "ミラージュ・ローズカラースペクタクルズ"
+  }
+ },
+ {
+  "slug": "tsukumogami-parasol",
+  "en": "Tsukumogami Parasol",
+  "n": {
+   "en": "Tsukumogami Parasol",
+   "zh-CN": "付丧神油纸伞",
+   "zh-TW": "付喪神油紙傘",
+   "ja": "付喪番傘"
+  }
+ },
+ {
+  "slug": "tactful-taskmaster-umbrella",
+  "en": "Tactful Taskmaster Umbrella",
+  "n": {
+   "en": "Tactful Taskmaster Umbrella",
+   "zh-CN": "监工小员伞",
+   "zh-TW": "監工小員傘",
+   "ja": "おやかたくんの傘"
+  }
+ },
+ {
+  "slug": "knapsack",
+  "en": "Knapsack",
+  "n": {
+   "en": "Knapsack",
+   "zh-CN": "拾穗人背包",
+   "zh-TW": "拾穗人背包",
+   "ja": "ナップサック"
+  }
+ },
+ {
+  "slug": "statice-s-wings",
+  "en": "Statice's Wings",
+  "n": {
+   "en": "Statice's Wings",
+   "zh-CN": "斯塔缇丝之翼",
+   "zh-TW": "斯塔緹絲之翼",
+   "ja": "スターチスウィング"
+  }
+ },
+ {
+  "slug": "giant-leaf-parasol",
+  "en": "Giant Leaf Parasol",
+  "n": {
+   "en": "Giant Leaf Parasol",
+   "zh-CN": "大叶伞",
+   "zh-TW": "大葉傘",
+   "ja": "葉っぱの傘"
+  }
+ },
+ {
+  "slug": "colorful-carrotsol",
+  "en": "Colorful Carrotsol",
+  "n": {
+   "en": "Colorful Carrotsol",
+   "zh-CN": "胡萝卜阳伞",
+   "zh-TW": "胡蘿蔔陽傘",
+   "ja": "キャロットパラソル"
+  }
+ },
+ {
+  "slug": "neon-parasol",
+  "en": "Neon Parasol",
+  "n": {
+   "en": "Neon Parasol",
+   "zh-CN": "霓虹阳伞",
+   "zh-TW": "霓虹陽傘",
+   "ja": "ネオンパラソル"
+  }
+ },
+ {
+  "slug": "ribboned-parasol",
+  "en": "Ribboned Parasol",
+  "n": {
+   "en": "Ribboned Parasol",
+   "zh-CN": "缎带阳伞",
+   "zh-TW": "緞帶陽傘",
+   "ja": "リボンパラソル"
+  }
+ },
+ {
+  "slug": "bomb-parasol",
+  "en": "Bomb Parasol",
+  "n": {
+   "en": "Bomb Parasol",
+   "zh-CN": "爆弹怪阳伞",
+   "zh-TW": "爆彈怪陽傘",
+   "ja": "ボムパラソル"
+  }
+ },
+ {
+  "slug": "mandragora-parasol",
+  "en": "Mandragora Parasol",
+  "n": {
+   "en": "Mandragora Parasol",
+   "zh-CN": "蔓德拉阳伞",
+   "zh-TW": "蔓德拉陽傘",
+   "ja": "マンドラパラソル"
+  }
+ },
+ {
+  "slug": "archon-egg-parasol",
+  "en": "Archon Egg Parasol",
+  "n": {
+   "en": "Archon Egg Parasol",
+   "zh-CN": "预言蛋阳伞",
+   "zh-TW": "預言蛋陽傘",
+   "ja": "アルコンエッグパラソル"
+  }
+ },
+ {
+  "slug": "pelupack",
+  "en": "Pelupack",
+  "n": {
+   "en": "Pelupack",
+   "zh-CN": "佩鲁佩鲁族背包",
+   "zh-TW": "佩魯佩魯族背包",
+   "ja": "ペルパック"
+  }
+ },
+ {
+  "slug": "black-embroidered-parasol",
+  "en": "Black Embroidered Parasol",
+  "n": {
+   "en": "Black Embroidered Parasol",
+   "zh-CN": "黑色蕾丝阳伞",
+   "zh-TW": "黑色蕾絲陽傘",
+   "ja": "ブラックレースパラソル"
+  }
+ },
+ {
+  "slug": "white-embroidered-parasol",
+  "en": "White Embroidered Parasol",
+  "n": {
+   "en": "White Embroidered Parasol",
+   "zh-CN": "白色蕾丝阳伞",
+   "zh-TW": "白色蕾絲陽傘",
+   "ja": "ホワイトレースパラソル"
+  }
+ },
+ {
+  "slug": "loparasol",
+  "en": "Loparasol",
+  "n": {
+   "en": "Loparasol",
+   "zh-CN": "兔兔阳伞",
+   "zh-TW": "兔兔陽傘",
+   "ja": "レポリットパラソル"
+  }
+ },
+ {
+  "slug": "torch",
+  "en": "Torch",
+  "n": {
+   "en": "Torch",
+   "zh-CN": "火炬",
+   "zh-TW": "火炬",
+   "ja": "松明"
+  }
+ },
+ {
+  "slug": "mizutsune-parasol",
+  "en": "Mizutsune Parasol",
+  "n": {
+   "en": "Mizutsune Parasol",
+   "zh-CN": "泡狐龙猫花伞",
+   "zh-TW": "泡狐龍貓花傘",
+   "ja": "ミツネネコ華傘"
+  }
+ },
+ {
+  "slug": "pixie-parasol",
+  "en": "Pixie Parasol",
+  "n": {
+   "en": "Pixie Parasol",
+   "zh-CN": "仙子阳伞",
+   "zh-TW": "仙子陽傘",
+   "ja": "ピクシーパラソル"
+  }
+ },
+ {
+  "slug": "blue-pixie-parasol",
+  "en": "Blue Pixie Parasol",
+  "n": {
+   "en": "Blue Pixie Parasol",
+   "zh-CN": "蓝色仙子阳伞",
+   "zh-TW": "藍色仙子陽傘",
+   "ja": "ブルーピクシーパラソル"
+  }
+ },
+ {
+  "slug": "senor-otter-pack",
+  "en": "Senor Otter Pack",
+  "n": {
+   "en": "Senor Otter Pack",
+   "zh-CN": "獭獭先生背包",
+   "zh-TW": "獺獺先生背包",
+   "ja": "セニョールウソウソ・パック"
+  }
+ },
+ {
+  "slug": "corvosi-parasol",
+  "en": "Corvosi Parasol",
+  "n": {
+   "en": "Corvosi Parasol",
+   "zh-CN": "天方阳伞",
+   "zh-TW": "天方陽傘",
+   "ja": "コルヴォシパラソル"
+  }
+ },
+ {
+  "slug": "spriggan-parasol",
+  "en": "Spriggan Parasol",
+  "n": {
+   "en": "Spriggan Parasol",
+   "zh-CN": "魔石精阳伞",
+   "zh-TW": "魔石精陽傘",
+   "ja": "スプリガンパラソル"
+  }
+ },
+ {
+  "slug": "shovel",
+  "en": "Shovel",
+  "n": {
+   "en": "Shovel",
+   "zh-CN": "铁锹",
+   "zh-TW": "鐵鍬",
+   "ja": "スコップ"
+  }
+ }
+]
