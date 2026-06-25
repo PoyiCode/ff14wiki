@@ -1,0 +1,7 @@
+id: varied-wood-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Varied Wood Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

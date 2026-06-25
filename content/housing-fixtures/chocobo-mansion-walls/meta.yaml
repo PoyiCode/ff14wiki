@@ -1,0 +1,7 @@
+id: chocobo-mansion-walls
+category: housing-fixtures
+type: fixture
+fixture: "Chocobo Mansion Walls"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

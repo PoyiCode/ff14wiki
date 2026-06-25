@@ -1,0 +1,7 @@
+id: spotted-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Spotted Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

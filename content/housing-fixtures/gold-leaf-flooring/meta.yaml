@@ -1,0 +1,7 @@
+id: gold-leaf-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Gold Leaf Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

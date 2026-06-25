@@ -1,0 +1,7 @@
+id: oasis-lancet-window
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Lancet Window"
+fixture_type: window
+tags: [housing, fixture, window]
+status: stable

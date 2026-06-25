@@ -1,0 +1,7 @@
+id: eulmoran-marble-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Eulmoran Marble Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

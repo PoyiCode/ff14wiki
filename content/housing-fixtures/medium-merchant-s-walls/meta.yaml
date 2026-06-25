@@ -1,0 +1,7 @@
+id: medium-merchant-s-walls
+category: housing-fixtures
+type: fixture
+fixture: "Medium Merchant's Walls"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

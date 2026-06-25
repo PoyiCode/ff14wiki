@@ -1,0 +1,7 @@
+id: riviera-cottage-roof-stone
+category: housing-fixtures
+type: fixture
+fixture: "Riviera Cottage Roof (Stone)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

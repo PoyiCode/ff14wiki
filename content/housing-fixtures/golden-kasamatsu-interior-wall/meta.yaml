@@ -1,0 +1,7 @@
+id: golden-kasamatsu-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Golden Kasamatsu Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

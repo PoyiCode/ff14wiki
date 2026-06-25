@@ -1,0 +1,7 @@
+id: highland-banner
+category: housing-fixtures
+type: fixture
+fixture: "Highland Banner"
+fixture_type: placard
+tags: [housing, fixture, placard]
+status: stable

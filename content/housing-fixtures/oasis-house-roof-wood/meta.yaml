@@ -1,0 +1,7 @@
+id: oasis-house-roof-wood
+category: housing-fixtures
+type: fixture
+fixture: "Oasis House Roof (Wood)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

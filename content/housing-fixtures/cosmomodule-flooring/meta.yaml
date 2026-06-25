@@ -1,0 +1,7 @@
+id: cosmomodule-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Cosmomodule Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

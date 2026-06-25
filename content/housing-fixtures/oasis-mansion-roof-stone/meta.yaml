@@ -1,0 +1,7 @@
+id: oasis-mansion-roof-stone
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Mansion Roof (Stone)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

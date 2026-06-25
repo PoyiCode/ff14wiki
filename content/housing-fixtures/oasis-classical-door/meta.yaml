@@ -1,0 +1,7 @@
+id: oasis-classical-door
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Classical Door"
+fixture_type: door
+tags: [housing, fixture, door]
+status: stable

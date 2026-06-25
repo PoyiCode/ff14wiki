@@ -1,0 +1,7 @@
+id: brick-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Brick Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

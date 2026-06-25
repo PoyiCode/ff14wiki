@@ -1,0 +1,7 @@
+id: highland-classical-window
+category: housing-fixtures
+type: fixture
+fixture: "Highland Classical Window"
+fixture_type: window
+tags: [housing, fixture, window]
+status: stable

@@ -1,0 +1,7 @@
+id: oasis-cottage-roof-composite
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Cottage Roof (Composite)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

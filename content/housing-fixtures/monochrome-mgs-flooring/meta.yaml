@@ -1,0 +1,7 @@
+id: monochrome-mgs-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Monochrome MGS Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

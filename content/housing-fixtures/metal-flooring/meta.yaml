@@ -1,0 +1,7 @@
+id: metal-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Metal Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

@@ -1,0 +1,7 @@
+id: hingan-fence-mokuzo
+category: housing-fixtures
+type: fixture
+fixture: "Hingan Fence (Mokuzo)"
+fixture_type: fence
+tags: [housing, fixture, fence]
+status: stable

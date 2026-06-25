@@ -1,0 +1,7 @@
+id: watcher-s-palace-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Watcher's Palace Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

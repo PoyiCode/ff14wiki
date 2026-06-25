@@ -1,0 +1,7 @@
+id: highland-potting-fence
+category: housing-fixtures
+type: fixture
+fixture: "Highland Potting Fence"
+fixture_type: fence
+tags: [housing, fixture, fence]
+status: stable

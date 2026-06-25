@@ -1,0 +1,7 @@
+id: light-wood-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Light Wood Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

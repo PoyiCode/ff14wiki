@@ -1,0 +1,7 @@
+id: masonwork-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Masonwork Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

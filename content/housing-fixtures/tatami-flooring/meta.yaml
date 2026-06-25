@@ -1,0 +1,7 @@
+id: tatami-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Tatami Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

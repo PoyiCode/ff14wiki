@@ -1,0 +1,7 @@
+id: tiled-carpeting
+category: housing-fixtures
+type: fixture
+fixture: "Tiled Carpeting"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

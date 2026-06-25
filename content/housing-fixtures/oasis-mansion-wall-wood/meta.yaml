@@ -1,0 +1,7 @@
+id: oasis-mansion-wall-wood
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Mansion Wall (Wood)"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

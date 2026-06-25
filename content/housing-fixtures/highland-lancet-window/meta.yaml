@@ -1,0 +1,7 @@
+id: highland-lancet-window
+category: housing-fixtures
+type: fixture
+fixture: "Highland Lancet Window"
+fixture_type: window
+tags: [housing, fixture, window]
+status: stable

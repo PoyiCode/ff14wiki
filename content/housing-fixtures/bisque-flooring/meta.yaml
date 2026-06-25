@@ -1,0 +1,7 @@
+id: bisque-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Bisque Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

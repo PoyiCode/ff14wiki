@@ -1,0 +1,7 @@
+id: highland-chandelier
+category: housing-fixtures
+type: fixture
+fixture: "Highland Chandelier"
+fixture_type: ceiling-light
+tags: [housing, fixture, ceiling-light]
+status: stable

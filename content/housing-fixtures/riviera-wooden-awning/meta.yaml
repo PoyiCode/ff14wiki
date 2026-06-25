@@ -1,0 +1,7 @@
+id: riviera-wooden-awning
+category: housing-fixtures
+type: fixture
+fixture: "Riviera Wooden Awning"
+fixture_type: exterior-wall-decoration
+tags: [housing, fixture, exterior-wall-decoration]
+status: stable

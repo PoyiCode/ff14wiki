@@ -1,0 +1,7 @@
+id: amaurotine-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Amaurotine Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

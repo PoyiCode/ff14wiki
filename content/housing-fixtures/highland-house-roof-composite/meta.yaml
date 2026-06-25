@@ -1,0 +1,7 @@
+id: highland-house-roof-composite
+category: housing-fixtures
+type: fixture
+fixture: "Highland House Roof (Composite)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

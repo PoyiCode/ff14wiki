@@ -1,0 +1,7 @@
+id: highland-stone-wall
+category: housing-fixtures
+type: fixture
+fixture: "Highland Stone Wall"
+fixture_type: fence
+tags: [housing, fixture, fence]
+status: stable

@@ -1,0 +1,7 @@
+id: garlean-concrete-inner-wall
+category: housing-fixtures
+type: fixture
+fixture: "Garlean Concrete Inner Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

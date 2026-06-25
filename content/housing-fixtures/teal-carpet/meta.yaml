@@ -1,0 +1,7 @@
+id: teal-carpet
+category: housing-fixtures
+type: fixture
+fixture: "Teal Carpet"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

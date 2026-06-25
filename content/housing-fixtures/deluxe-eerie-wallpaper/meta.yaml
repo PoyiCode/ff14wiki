@@ -1,0 +1,7 @@
+id: deluxe-eerie-wallpaper
+category: housing-fixtures
+type: fixture
+fixture: "Deluxe Eerie Wallpaper"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

@@ -1,0 +1,7 @@
+id: unfinished-wood-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Unfinished Wood Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

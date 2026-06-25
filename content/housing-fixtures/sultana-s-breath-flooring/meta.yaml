@@ -1,0 +1,7 @@
+id: sultana-s-breath-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Sultana's Breath Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

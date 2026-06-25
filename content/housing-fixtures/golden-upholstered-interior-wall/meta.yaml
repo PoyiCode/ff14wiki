@@ -1,0 +1,7 @@
+id: golden-upholstered-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Golden Upholstered Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

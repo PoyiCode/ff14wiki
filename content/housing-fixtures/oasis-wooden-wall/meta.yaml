@@ -1,0 +1,7 @@
+id: oasis-wooden-wall
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Wooden Wall"
+fixture_type: fence
+tags: [housing, fixture, fence]
+status: stable

@@ -1,0 +1,7 @@
+id: glade-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Glade Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

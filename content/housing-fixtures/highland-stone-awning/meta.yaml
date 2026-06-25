@@ -1,0 +1,7 @@
+id: highland-stone-awning
+category: housing-fixtures
+type: fixture
+fixture: "Highland Stone Awning"
+fixture_type: exterior-wall-decoration
+tags: [housing, fixture, exterior-wall-decoration]
+status: stable

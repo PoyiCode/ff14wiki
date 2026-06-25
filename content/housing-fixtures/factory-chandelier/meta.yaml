@@ -1,0 +1,7 @@
+id: factory-chandelier
+category: housing-fixtures
+type: fixture
+fixture: "Factory Chandelier"
+fixture_type: ceiling-light
+tags: [housing, fixture, ceiling-light]
+status: stable

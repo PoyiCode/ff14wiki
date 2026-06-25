@@ -1,0 +1,7 @@
+id: hingan-awning-nanpu
+category: housing-fixtures
+type: fixture
+fixture: "Hingan Awning (Nanpu)"
+fixture_type: exterior-wall-decoration
+tags: [housing, fixture, exterior-wall-decoration]
+status: stable

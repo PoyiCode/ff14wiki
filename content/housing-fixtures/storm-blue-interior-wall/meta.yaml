@@ -1,0 +1,7 @@
+id: storm-blue-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Storm Blue Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

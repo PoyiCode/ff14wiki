@@ -1,0 +1,7 @@
+id: country-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Country Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

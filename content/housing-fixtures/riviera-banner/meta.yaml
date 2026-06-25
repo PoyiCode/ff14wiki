@@ -1,0 +1,7 @@
+id: riviera-banner
+category: housing-fixtures
+type: fixture
+fixture: "Riviera Banner"
+fixture_type: placard
+tags: [housing, fixture, placard]
+status: stable

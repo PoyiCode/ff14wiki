@@ -1,0 +1,7 @@
+id: alpine-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Alpine Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

@@ -1,0 +1,7 @@
+id: oasis-pendant-lamp
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Pendant Lamp"
+fixture_type: ceiling-light
+tags: [housing, fixture, ceiling-light]
+status: stable

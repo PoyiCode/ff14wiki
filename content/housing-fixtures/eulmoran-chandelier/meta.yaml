@@ -1,0 +1,7 @@
+id: eulmoran-chandelier
+category: housing-fixtures
+type: fixture
+fixture: "Eulmoran Chandelier"
+fixture_type: ceiling-light
+tags: [housing, fixture, ceiling-light]
+status: stable

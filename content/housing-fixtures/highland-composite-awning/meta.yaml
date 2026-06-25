@@ -1,0 +1,7 @@
+id: highland-composite-awning
+category: housing-fixtures
+type: fixture
+fixture: "Highland Composite Awning"
+fixture_type: exterior-wall-decoration
+tags: [housing, fixture, exterior-wall-decoration]
+status: stable

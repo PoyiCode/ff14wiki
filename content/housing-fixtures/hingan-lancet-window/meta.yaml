@@ -1,0 +1,7 @@
+id: hingan-lancet-window
+category: housing-fixtures
+type: fixture
+fixture: "Hingan Lancet Window"
+fixture_type: window
+tags: [housing, fixture, window]
+status: stable

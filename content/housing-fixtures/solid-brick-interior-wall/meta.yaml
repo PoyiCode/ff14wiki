@@ -1,0 +1,7 @@
+id: solid-brick-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Solid-brick Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

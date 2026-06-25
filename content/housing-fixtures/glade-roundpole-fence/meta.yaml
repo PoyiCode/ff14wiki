@@ -1,0 +1,7 @@
+id: glade-roundpole-fence
+category: housing-fixtures
+type: fixture
+fixture: "Glade Roundpole Fence"
+fixture_type: fence
+tags: [housing, fixture, fence]
+status: stable

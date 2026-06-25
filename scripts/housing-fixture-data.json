@@ -1,0 +1,7142 @@
+[
+ {
+  "slug": "riviera-cottage-roof-wood",
+  "en": "Riviera Cottage Roof (Wood)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Riviera Cottage Roof (Wood)",
+   "zh-CN": "木制海滨小屋房顶",
+   "zh-TW": "木製海濱小屋房頂",
+   "ja": "ラノシアン・ウッドコテージ・ルーフ"
+  },
+  "desc": {
+   "en": "A riviera wooden roof designed exclusively for use with cottages.",
+   "zh-CN": "拉诺西亚样式小型住宅所使用的房顶。",
+   "zh-TW": "拉諾西亞樣式小型住宅所使用的房頂。",
+   "ja": "ラノシア様式の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "riviera-cottage-roof-composite",
+  "en": "Riviera Cottage Roof (Composite)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Riviera Cottage Roof (Composite)",
+   "zh-CN": "混合制海滨小屋房顶",
+   "zh-TW": "混合制海濱小屋房頂",
+   "ja": "ラノシアン・コンポジットコテージ・ルーフ"
+  },
+  "desc": {
+   "en": "A riviera composite roof designed exclusively for use with cottages.",
+   "zh-CN": "拉诺西亚样式小型住宅所使用的房顶。",
+   "zh-TW": "拉諾西亞樣式小型住宅所使用的房頂。",
+   "ja": "ラノシア様式の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "riviera-cottage-roof-stone",
+  "en": "Riviera Cottage Roof (Stone)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Riviera Cottage Roof (Stone)",
+   "zh-CN": "石制海滨小屋房顶",
+   "zh-TW": "石制海濱小屋房頂",
+   "ja": "ラノシアン・ストーンコテージ・ルーフ"
+  },
+  "desc": {
+   "en": "A riviera stone roof designed exclusively for use with cottages.",
+   "zh-CN": "拉诺西亚样式小型住宅所使用的房顶。",
+   "zh-TW": "拉諾西亞樣式小型住宅所使用的房頂。",
+   "ja": "ラノシア様式の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "riviera-house-roof-wood",
+  "en": "Riviera House Roof (Wood)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Riviera House Roof (Wood)",
+   "zh-CN": "木制海滨公馆房顶",
+   "zh-TW": "木製海濱公館房頂",
+   "ja": "ラノシアン・ウッドハウス・ルーフ"
+  },
+  "desc": {
+   "en": "A riviera wooden roof designed exclusively for use with houses.",
+   "zh-CN": "拉诺西亚样式中型住宅所使用的房顶。",
+   "zh-TW": "拉諾西亞樣式中型住宅所使用的房頂。",
+   "ja": "ラノシア様式の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "riviera-house-roof-composite",
+  "en": "Riviera House Roof (Composite)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Riviera House Roof (Composite)",
+   "zh-CN": "混合制海滨公馆房顶",
+   "zh-TW": "混合制海濱公館房頂",
+   "ja": "ラノシアン・コンポジットハウス・ルーフ"
+  },
+  "desc": {
+   "en": "A riviera composite roof designed exclusively for use with houses.",
+   "zh-CN": "拉诺西亚样式中型住宅所使用的房顶。",
+   "zh-TW": "拉諾西亞樣式中型住宅所使用的房頂。",
+   "ja": "ラノシア様式の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "riviera-house-roof-stone",
+  "en": "Riviera House Roof (Stone)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Riviera House Roof (Stone)",
+   "zh-CN": "石制海滨公馆房顶",
+   "zh-TW": "石制海濱公館房頂",
+   "ja": "ラノシアン・ストーンハウス・ルーフ"
+  },
+  "desc": {
+   "en": "A riviera stone roof designed exclusively for use with houses.",
+   "zh-CN": "拉诺西亚样式中型住宅所使用的房顶。",
+   "zh-TW": "拉諾西亞樣式中型住宅所使用的房頂。",
+   "ja": "ラノシア様式の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "riviera-mansion-roof-wood",
+  "en": "Riviera Mansion Roof (Wood)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Riviera Mansion Roof (Wood)",
+   "zh-CN": "木制海滨别墅房顶",
+   "zh-TW": "木製海濱別墅房頂",
+   "ja": "ラノシアン・ウッドレジデンス・ルーフ"
+  },
+  "desc": {
+   "en": "A riviera wooden roof designed exclusively for use with mansions.",
+   "zh-CN": "拉诺西亚样式大型住宅所使用的房顶。",
+   "zh-TW": "拉諾西亞樣式大型住宅所使用的房頂。",
+   "ja": "ラノシア様式の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "riviera-mansion-roof-composite",
+  "en": "Riviera Mansion Roof (Composite)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Riviera Mansion Roof (Composite)",
+   "zh-CN": "混合制海滨别墅房顶",
+   "zh-TW": "混合制海濱別墅房頂",
+   "ja": "ラノシアン・コンポジットレジデンス・ルーフ"
+  },
+  "desc": {
+   "en": "A riviera composite roof designed exclusively for use with mansions.",
+   "zh-CN": "拉诺西亚样式大型住宅所使用的房顶。",
+   "zh-TW": "拉諾西亞樣式大型住宅所使用的房頂。",
+   "ja": "ラノシア様式の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "riviera-mansion-roof-stone",
+  "en": "Riviera Mansion Roof (Stone)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Riviera Mansion Roof (Stone)",
+   "zh-CN": "石制海滨别墅房顶",
+   "zh-TW": "石制海濱別墅房頂",
+   "ja": "ラノシアン・ストーンレジデンス・ルーフ"
+  },
+  "desc": {
+   "en": "A riviera stone roof designed exclusively for use with mansions.",
+   "zh-CN": "拉诺西亚样式大型住宅所使用的房顶。",
+   "zh-TW": "拉諾西亞樣式大型住宅所使用的房頂。",
+   "ja": "ラノシア様式の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "glade-cottage-roof-wood",
+  "en": "Glade Cottage Roof (Wood)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Glade Cottage Roof (Wood)",
+   "zh-CN": "木制林间小屋房顶",
+   "zh-TW": "木製林間小屋房頂",
+   "ja": "シュラウド・ウッドコテージ・ルーフ"
+  },
+  "desc": {
+   "en": "A glade wooden roof designed exclusively for use with cottages.",
+   "zh-CN": "黑衣森林样式小型住宅所使用的房顶。",
+   "zh-TW": "黑衣森林樣式小型住宅所使用的房頂。",
+   "ja": "黒衣森様式の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "glade-cottage-roof-composite",
+  "en": "Glade Cottage Roof (Composite)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Glade Cottage Roof (Composite)",
+   "zh-CN": "混合制林间小屋房顶",
+   "zh-TW": "混合制林間小屋房頂",
+   "ja": "シュラウド・コンポジットコテージ・ルーフ"
+  },
+  "desc": {
+   "en": "A glade composite roof designed exclusively for use with cottages.",
+   "zh-CN": "黑衣森林样式小型住宅所使用的房顶。",
+   "zh-TW": "黑衣森林樣式小型住宅所使用的房頂。",
+   "ja": "黒衣森様式の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "glade-cottage-roof-stone",
+  "en": "Glade Cottage Roof (Stone)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Glade Cottage Roof (Stone)",
+   "zh-CN": "石制林间小屋房顶",
+   "zh-TW": "石制林間小屋房頂",
+   "ja": "シュラウド・ストーンコテージ・ルーフ"
+  },
+  "desc": {
+   "en": "A glade stone roof designed exclusively for use with cottages.",
+   "zh-CN": "黑衣森林样式小型住宅所使用的房顶。",
+   "zh-TW": "黑衣森林樣式小型住宅所使用的房頂。",
+   "ja": "黒衣森様式の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "glade-house-roof-wood",
+  "en": "Glade House Roof (Wood)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Glade House Roof (Wood)",
+   "zh-CN": "木制林间公馆房顶",
+   "zh-TW": "木製林間公館房頂",
+   "ja": "シュラウド・ウッドハウス・ルーフ"
+  },
+  "desc": {
+   "en": "A glade wooden roof designed exclusively for use with houses.",
+   "zh-CN": "黑衣森林样式中型住宅所使用的房顶。",
+   "zh-TW": "黑衣森林樣式中型住宅所使用的房頂。",
+   "ja": "黒衣森様式の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "glade-house-roof-composite",
+  "en": "Glade House Roof (Composite)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Glade House Roof (Composite)",
+   "zh-CN": "混合制林间公馆房顶",
+   "zh-TW": "混合制林間公館房頂",
+   "ja": "シュラウド・コンポジットハウス・ルーフ"
+  },
+  "desc": {
+   "en": "A glade composite roof designed exclusively for use with houses.",
+   "zh-CN": "黑衣森林样式中型住宅所使用的房顶。",
+   "zh-TW": "黑衣森林樣式中型住宅所使用的房頂。",
+   "ja": "黒衣森様式の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "glade-house-roof-stone",
+  "en": "Glade House Roof (Stone)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Glade House Roof (Stone)",
+   "zh-CN": "石制林间公馆房顶",
+   "zh-TW": "石制林間公館房頂",
+   "ja": "シュラウド・ストーンハウス・ルーフ"
+  },
+  "desc": {
+   "en": "A glade stone roof designed exclusively for use with houses.",
+   "zh-CN": "黑衣森林样式中型住宅所使用的房顶。",
+   "zh-TW": "黑衣森林樣式中型住宅所使用的房頂。",
+   "ja": "黒衣森様式の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "glade-mansion-roof-wood",
+  "en": "Glade Mansion Roof (Wood)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Glade Mansion Roof (Wood)",
+   "zh-CN": "木制林间别墅房顶",
+   "zh-TW": "木製林間別墅房頂",
+   "ja": "シュラウド・ウッドレジデンス・ルーフ"
+  },
+  "desc": {
+   "en": "A glade wooden roof designed exclusively for use with mansions.",
+   "zh-CN": "黑衣森林样式大型住宅所使用的房顶。",
+   "zh-TW": "黑衣森林樣式大型住宅所使用的房頂。",
+   "ja": "黒衣森様式の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "glade-mansion-roof-composite",
+  "en": "Glade Mansion Roof (Composite)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Glade Mansion Roof (Composite)",
+   "zh-CN": "混合制林间别墅房顶",
+   "zh-TW": "混合制林間別墅房頂",
+   "ja": "シュラウド・コンポジットレジデンス・ルーフ"
+  },
+  "desc": {
+   "en": "A glade composite roof designed exclusively for use with mansions.",
+   "zh-CN": "黑衣森林样式大型住宅所使用的房顶。",
+   "zh-TW": "黑衣森林樣式大型住宅所使用的房頂。",
+   "ja": "黒衣森様式の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "glade-mansion-roof-stone",
+  "en": "Glade Mansion Roof (Stone)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Glade Mansion Roof (Stone)",
+   "zh-CN": "石制林间别墅房顶",
+   "zh-TW": "石制林間別墅房頂",
+   "ja": "シュラウド・ストーンレジデンス・ルーフ"
+  },
+  "desc": {
+   "en": "A glade stone roof designed exclusively for use with mansions.",
+   "zh-CN": "黑衣森林样式大型住宅所使用的房顶。",
+   "zh-TW": "黑衣森林樣式大型住宅所使用的房頂。",
+   "ja": "黒衣森様式の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "oasis-cottage-roof-wood",
+  "en": "Oasis Cottage Roof (Wood)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Oasis Cottage Roof (Wood)",
+   "zh-CN": "木制绿洲小屋房顶",
+   "zh-TW": "木製綠洲小屋房頂",
+   "ja": "ザナラーン・ウッドコテージ・ルーフ"
+  },
+  "desc": {
+   "en": "An oasis roof designed exclusively for use with cottages.",
+   "zh-CN": "萨纳兰样式小型住宅所使用的房顶。",
+   "zh-TW": "薩納蘭樣式小型住宅所使用的房頂。",
+   "ja": "ザナラーン様式の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "oasis-cottage-roof-composite",
+  "en": "Oasis Cottage Roof (Composite)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Oasis Cottage Roof (Composite)",
+   "zh-CN": "混合制绿洲小屋房顶",
+   "zh-TW": "混合制綠洲小屋房頂",
+   "ja": "ザナラーン・コンポジットコテージ・ルーフ"
+  },
+  "desc": {
+   "en": "An oasis composite roof designed exclusively for use with cottages.",
+   "zh-CN": "萨纳兰样式小型住宅所使用的房顶。",
+   "zh-TW": "薩納蘭樣式小型住宅所使用的房頂。",
+   "ja": "ザナラーン様式の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "oasis-cottage-roof-stone",
+  "en": "Oasis Cottage Roof (Stone)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Oasis Cottage Roof (Stone)",
+   "zh-CN": "石制绿洲小屋房顶",
+   "zh-TW": "石制綠洲小屋房頂",
+   "ja": "ザナラーン・ストーンコテージ・ルーフ"
+  },
+  "desc": {
+   "en": "An oasis stone roof designed exclusively for use with cottages.",
+   "zh-CN": "萨纳兰样式小型住宅所使用的房顶。",
+   "zh-TW": "薩納蘭樣式小型住宅所使用的房頂。",
+   "ja": "ザナラーン様式の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "oasis-house-roof-wood",
+  "en": "Oasis House Roof (Wood)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Oasis House Roof (Wood)",
+   "zh-CN": "木制绿洲公馆房顶",
+   "zh-TW": "木製綠洲公館房頂",
+   "ja": "ザナラーン・ウッドハウス・ルーフ"
+  },
+  "desc": {
+   "en": "An oasis wooden roof designed exclusively for use with houses.",
+   "zh-CN": "萨纳兰样式中型住宅所使用的房顶。",
+   "zh-TW": "薩納蘭樣式中型住宅所使用的房頂。",
+   "ja": "ザナラーン様式の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "oasis-house-roof-composite",
+  "en": "Oasis House Roof (Composite)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Oasis House Roof (Composite)",
+   "zh-CN": "混合制绿洲公馆房顶",
+   "zh-TW": "混合制綠洲公館房頂",
+   "ja": "ザナラーン・コンポジットハウス・ルーフ"
+  },
+  "desc": {
+   "en": "An oasis composite roof designed exclusively for use with houses.",
+   "zh-CN": "萨纳兰样式中型住宅所使用的房顶。",
+   "zh-TW": "薩納蘭樣式中型住宅所使用的房頂。",
+   "ja": "ザナラーン様式の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "oasis-house-roof-stone",
+  "en": "Oasis House Roof (Stone)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Oasis House Roof (Stone)",
+   "zh-CN": "石制绿洲公馆房顶",
+   "zh-TW": "石制綠洲公館房頂",
+   "ja": "ザナラーン・ストーンハウス・ルーフ"
+  },
+  "desc": {
+   "en": "An oasis stone roof designed exclusively for use with houses.",
+   "zh-CN": "萨纳兰样式中型住宅所使用的房顶。",
+   "zh-TW": "薩納蘭樣式中型住宅所使用的房頂。",
+   "ja": "ザナラーン様式の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "oasis-mansion-roof-wood",
+  "en": "Oasis Mansion Roof (Wood)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Oasis Mansion Roof (Wood)",
+   "zh-CN": "木制绿洲别墅房顶",
+   "zh-TW": "木製綠洲別墅房頂",
+   "ja": "ザナラーン・ウッドレジデンス・ルーフ"
+  },
+  "desc": {
+   "en": "An oasis wooden roof designed exclusively for use with mansions.",
+   "zh-CN": "萨纳兰样式大型住宅所使用的房顶。",
+   "zh-TW": "薩納蘭樣式大型住宅所使用的房頂。",
+   "ja": "ザナラーン様式の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "oasis-mansion-roof-composite",
+  "en": "Oasis Mansion Roof (Composite)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Oasis Mansion Roof (Composite)",
+   "zh-CN": "混合制绿洲别墅房顶",
+   "zh-TW": "混合制綠洲別墅房頂",
+   "ja": "ザナラーン・コンポジットレジデンス・ルーフ"
+  },
+  "desc": {
+   "en": "An oasis composite roof designed exclusively for use with mansions.",
+   "zh-CN": "萨纳兰样式大型住宅所使用的房顶。",
+   "zh-TW": "薩納蘭樣式大型住宅所使用的房頂。",
+   "ja": "ザナラーン様式の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "oasis-mansion-roof-stone",
+  "en": "Oasis Mansion Roof (Stone)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Oasis Mansion Roof (Stone)",
+   "zh-CN": "石制绿洲别墅房顶",
+   "zh-TW": "石制綠洲別墅房頂",
+   "ja": "ザナラーン・ストーンレジデンス・ルーフ"
+  },
+  "desc": {
+   "en": "An oasis stone roof designed exclusively for use with mansions.",
+   "zh-CN": "萨纳兰样式大型住宅所使用的房顶。",
+   "zh-TW": "薩納蘭樣式大型住宅所使用的房頂。",
+   "ja": "ザナラーン様式の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "riviera-cottage-wall-wood",
+  "en": "Riviera Cottage Wall (Wood)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Riviera Cottage Wall (Wood)",
+   "zh-CN": "木制海滨小屋外墙",
+   "zh-TW": "木製海濱小屋外牆",
+   "ja": "ラノシアン・ウッドコテージ・ウォール"
+  },
+  "desc": {
+   "en": "A riviera wooden wall designed exclusively for use with cottages.",
+   "zh-CN": "拉诺西亚样式小型住宅所使用的外墙。",
+   "zh-TW": "拉諾西亞樣式小型住宅所使用的外牆。",
+   "ja": "ラノシア様式の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "riviera-cottage-wall-composite",
+  "en": "Riviera Cottage Wall (Composite)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Riviera Cottage Wall (Composite)",
+   "zh-CN": "混合制海滨小屋外墙",
+   "zh-TW": "混合制海濱小屋外牆",
+   "ja": "ラノシアン・コンポジットコテージ・ウォール"
+  },
+  "desc": {
+   "en": "A riviera composite wall designed exclusively for use with cottages.",
+   "zh-CN": "拉诺西亚样式小型住宅所使用的外墙。",
+   "zh-TW": "拉諾西亞樣式小型住宅所使用的外牆。",
+   "ja": "ラノシア様式の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "riviera-cottage-wall-stone",
+  "en": "Riviera Cottage Wall (Stone)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Riviera Cottage Wall (Stone)",
+   "zh-CN": "石制海滨小屋外墙",
+   "zh-TW": "石制海濱小屋外牆",
+   "ja": "ラノシアン・ストーンコテージ・ウォール"
+  },
+  "desc": {
+   "en": "A riviera stone wall designed exclusively for use with cottages.",
+   "zh-CN": "拉诺西亚样式小型住宅所使用的外墙。",
+   "zh-TW": "拉諾西亞樣式小型住宅所使用的外牆。",
+   "ja": "ラノシア様式の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "riviera-house-wall-wood",
+  "en": "Riviera House Wall (Wood)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Riviera House Wall (Wood)",
+   "zh-CN": "木制海滨公馆外墙",
+   "zh-TW": "木製海濱公館外牆",
+   "ja": "ラノシアン・ウッドハウス・ウォール"
+  },
+  "desc": {
+   "en": "A riviera wooden wall designed exclusively for use with houses.",
+   "zh-CN": "拉诺西亚样式中型住宅所使用的外墙。",
+   "zh-TW": "拉諾西亞樣式中型住宅所使用的外牆。",
+   "ja": "ラノシア様式の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "riviera-house-wall-composite",
+  "en": "Riviera House Wall (Composite)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Riviera House Wall (Composite)",
+   "zh-CN": "混合制海滨公馆外墙",
+   "zh-TW": "混合制海濱公館外牆",
+   "ja": "ラノシアン・コンポジットハウス・ウォール"
+  },
+  "desc": {
+   "en": "A riviera composite wall designed exclusively for use with houses.",
+   "zh-CN": "拉诺西亚样式中型住宅所使用的外墙。",
+   "zh-TW": "拉諾西亞樣式中型住宅所使用的外牆。",
+   "ja": "ラノシア様式の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "riviera-house-wall-stone",
+  "en": "Riviera House Wall (Stone)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Riviera House Wall (Stone)",
+   "zh-CN": "石制海滨公馆外墙",
+   "zh-TW": "石制海濱公館外牆",
+   "ja": "ラノシアン・ストーンハウス・ウォール"
+  },
+  "desc": {
+   "en": "A riviera stone wall designed exclusively for use with houses.",
+   "zh-CN": "拉诺西亚样式中型住宅所使用的外墙。",
+   "zh-TW": "拉諾西亞樣式中型住宅所使用的外牆。",
+   "ja": "ラノシア様式の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "riviera-mansion-wall-wood",
+  "en": "Riviera Mansion Wall (Wood)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Riviera Mansion Wall (Wood)",
+   "zh-CN": "木制海滨别墅外墙",
+   "zh-TW": "木製海濱別墅外牆",
+   "ja": "ラノシアン・ウッドレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "A riviera wooden wall designed exclusively for use with mansions.",
+   "zh-CN": "拉诺西亚样式大型住宅所使用的外墙。",
+   "zh-TW": "拉諾西亞樣式大型住宅所使用的外牆。",
+   "ja": "ラノシア様式の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "riviera-mansion-wall-composite",
+  "en": "Riviera Mansion Wall (Composite)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Riviera Mansion Wall (Composite)",
+   "zh-CN": "混合制海滨别墅外墙",
+   "zh-TW": "混合制海濱別墅外牆",
+   "ja": "ラノシアン・コンポジットレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "A riviera composite wall designed exclusively for use with mansions.",
+   "zh-CN": "拉诺西亚样式大型住宅所使用的外墙。",
+   "zh-TW": "拉諾西亞樣式大型住宅所使用的外牆。",
+   "ja": "ラノシア様式の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "riviera-mansion-wall-stone",
+  "en": "Riviera Mansion Wall (Stone)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Riviera Mansion Wall (Stone)",
+   "zh-CN": "石制海滨别墅外墙",
+   "zh-TW": "石制海濱別墅外牆",
+   "ja": "ラノシアン・ストーンレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "A riviera stone wall designed exclusively for use with mansions.",
+   "zh-CN": "拉诺西亚样式大型住宅所使用的外墙。",
+   "zh-TW": "拉諾西亞樣式大型住宅所使用的外牆。",
+   "ja": "ラノシア様式の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "glade-cottage-wall-wood",
+  "en": "Glade Cottage Wall (Wood)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Glade Cottage Wall (Wood)",
+   "zh-CN": "木制林间小屋外墙",
+   "zh-TW": "木製林間小屋外牆",
+   "ja": "シュラウド・ウッドコテージ・ウォール"
+  },
+  "desc": {
+   "en": "A glade wooden wall designed exclusively for use with cottages.",
+   "zh-CN": "黑衣森林样式小型住宅所使用的外墙。",
+   "zh-TW": "黑衣森林樣式小型住宅所使用的外牆。",
+   "ja": "黒衣森様式の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "glade-cottage-wall-composite",
+  "en": "Glade Cottage Wall (Composite)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Glade Cottage Wall (Composite)",
+   "zh-CN": "混合制林间小屋外墙",
+   "zh-TW": "混合制林間小屋外牆",
+   "ja": "シュラウド・コンポジットコテージ・ウォール"
+  },
+  "desc": {
+   "en": "A glade composite wall designed exclusively for use with cottages.",
+   "zh-CN": "黑衣森林样式小型住宅所使用的外墙。",
+   "zh-TW": "黑衣森林樣式小型住宅所使用的外牆。",
+   "ja": "黒衣森様式の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "glade-cottage-wall-stone",
+  "en": "Glade Cottage Wall (Stone)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Glade Cottage Wall (Stone)",
+   "zh-CN": "石制林间小屋外墙",
+   "zh-TW": "石制林間小屋外牆",
+   "ja": "シュラウド・ストーンコテージ・ウォール"
+  },
+  "desc": {
+   "en": "A glade stone wall designed exclusively for use with cottages.",
+   "zh-CN": "黑衣森林样式小型住宅所使用的外墙。",
+   "zh-TW": "黑衣森林樣式小型住宅所使用的外牆。",
+   "ja": "黒衣森様式の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "glade-house-wall-wood",
+  "en": "Glade House Wall (Wood)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Glade House Wall (Wood)",
+   "zh-CN": "木制林间公馆外墙",
+   "zh-TW": "木製林間公館外牆",
+   "ja": "シュラウド・ウッドハウス・ウォール"
+  },
+  "desc": {
+   "en": "A glade wooden wall designed exclusively for use with houses.",
+   "zh-CN": "黑衣森林样式中型住宅所使用的外墙。",
+   "zh-TW": "黑衣森林樣式中型住宅所使用的外牆。",
+   "ja": "黒衣森様式の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "glade-house-wall-composite",
+  "en": "Glade House Wall (Composite)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Glade House Wall (Composite)",
+   "zh-CN": "混合制林间公馆外墙",
+   "zh-TW": "混合制林間公館外牆",
+   "ja": "シュラウド・コンポジットハウス・ウォール"
+  },
+  "desc": {
+   "en": "A glade composite wall designed exclusively for use with houses.",
+   "zh-CN": "黑衣森林样式中型住宅所使用的外墙。",
+   "zh-TW": "黑衣森林樣式中型住宅所使用的外牆。",
+   "ja": "黒衣森様式の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "glade-house-wall-stone",
+  "en": "Glade House Wall (Stone)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Glade House Wall (Stone)",
+   "zh-CN": "石制林间公馆外墙",
+   "zh-TW": "石制林間公館外牆",
+   "ja": "シュラウド・ストーンハウス・ウォール"
+  },
+  "desc": {
+   "en": "A glade stone wall designed exclusively for use with houses.",
+   "zh-CN": "黑衣森林样式中型住宅所使用的外墙。",
+   "zh-TW": "黑衣森林樣式中型住宅所使用的外牆。",
+   "ja": "黒衣森様式の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "glade-mansion-wall-wood",
+  "en": "Glade Mansion Wall (Wood)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Glade Mansion Wall (Wood)",
+   "zh-CN": "木制林间别墅外墙",
+   "zh-TW": "木製林間別墅外牆",
+   "ja": "シュラウド・ウッドレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "A glade wooden wall designed exclusively for use with mansions.",
+   "zh-CN": "黑衣森林样式大型住宅所使用的外墙。",
+   "zh-TW": "黑衣森林樣式大型住宅所使用的外牆。",
+   "ja": "黒衣森様式の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "glade-mansion-wall-composite",
+  "en": "Glade Mansion Wall (Composite)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Glade Mansion Wall (Composite)",
+   "zh-CN": "混合制林间别墅外墙",
+   "zh-TW": "混合制林間別墅外牆",
+   "ja": "シュラウド・コンポジットレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "A glade composite wall designed exclusively for use with mansions.",
+   "zh-CN": "黑衣森林样式大型住宅所使用的外墙。",
+   "zh-TW": "黑衣森林樣式大型住宅所使用的外牆。",
+   "ja": "黒衣森様式の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "glade-mansion-wall-stone",
+  "en": "Glade Mansion Wall (Stone)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Glade Mansion Wall (Stone)",
+   "zh-CN": "石制林间别墅外墙",
+   "zh-TW": "石制林間別墅外牆",
+   "ja": "シュラウド・ストーンレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "A glade stone wall designed exclusively for use with mansions.",
+   "zh-CN": "黑衣森林样式大型住宅所使用的外墙。",
+   "zh-TW": "黑衣森林樣式大型住宅所使用的外牆。",
+   "ja": "黒衣森様式の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "oasis-cottage-wall-wood",
+  "en": "Oasis Cottage Wall (Wood)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Oasis Cottage Wall (Wood)",
+   "zh-CN": "木制绿洲小屋外墙",
+   "zh-TW": "木製綠洲小屋外牆",
+   "ja": "ザナラーン・ウッドコテージ・ウォール"
+  },
+  "desc": {
+   "en": "An oasis wooden wall designed exclusively for use with cottages.",
+   "zh-CN": "萨纳兰样式小型住宅所使用的外墙。",
+   "zh-TW": "薩納蘭樣式小型住宅所使用的外牆。",
+   "ja": "ザナラーン様式の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "oasis-cottage-wall-composite",
+  "en": "Oasis Cottage Wall (Composite)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Oasis Cottage Wall (Composite)",
+   "zh-CN": "混合制绿洲小屋外墙",
+   "zh-TW": "混合制綠洲小屋外牆",
+   "ja": "ザナラーン・コンポジットコテージ・ウォール"
+  },
+  "desc": {
+   "en": "An oasis composite wall designed exclusively for use with cottages.",
+   "zh-CN": "萨纳兰样式小型住宅所使用的外墙。",
+   "zh-TW": "薩納蘭樣式小型住宅所使用的外牆。",
+   "ja": "ザナラーン様式の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "oasis-cottage-wall-stone",
+  "en": "Oasis Cottage Wall (Stone)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Oasis Cottage Wall (Stone)",
+   "zh-CN": "石制绿洲小屋外墙",
+   "zh-TW": "石制綠洲小屋外牆",
+   "ja": "ザナラーン・ストーンコテージ・ウォール"
+  },
+  "desc": {
+   "en": "An oasis stone wall designed exclusively for use with cottages.",
+   "zh-CN": "萨纳兰样式小型住宅所使用的外墙。",
+   "zh-TW": "薩納蘭樣式小型住宅所使用的外牆。",
+   "ja": "ザナラーン様式の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "oasis-house-wall-wood",
+  "en": "Oasis House Wall (Wood)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Oasis House Wall (Wood)",
+   "zh-CN": "木制绿洲公馆外墙",
+   "zh-TW": "木製綠洲公館外牆",
+   "ja": "ザナラーン・ウッドハウス・ウォール"
+  },
+  "desc": {
+   "en": "An oasis wooden wall designed exclusively for use with houses.",
+   "zh-CN": "萨纳兰样式中型住宅所使用的外墙。",
+   "zh-TW": "薩納蘭樣式中型住宅所使用的外牆。",
+   "ja": "ザナラーン様式の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "oasis-house-wall-composite",
+  "en": "Oasis House Wall (Composite)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Oasis House Wall (Composite)",
+   "zh-CN": "混合制绿洲公馆外墙",
+   "zh-TW": "混合制綠洲公館外牆",
+   "ja": "ザナラーン・コンポジットハウス・ウォール"
+  },
+  "desc": {
+   "en": "An oasis composite wall designed exclusively for use with houses.",
+   "zh-CN": "萨纳兰样式中型住宅所使用的外墙。",
+   "zh-TW": "薩納蘭樣式中型住宅所使用的外牆。",
+   "ja": "ザナラーン様式の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "oasis-house-wall-stone",
+  "en": "Oasis House Wall (Stone)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Oasis House Wall (Stone)",
+   "zh-CN": "石制绿洲公馆外墙",
+   "zh-TW": "石制綠洲公館外牆",
+   "ja": "ザナラーン・ストーンハウス・ウォール"
+  },
+  "desc": {
+   "en": "An oasis stone wall designed exclusively for use with houses.",
+   "zh-CN": "萨纳兰样式中型住宅所使用的外墙。",
+   "zh-TW": "薩納蘭樣式中型住宅所使用的外牆。",
+   "ja": "ザナラーン様式の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "oasis-mansion-wall-wood",
+  "en": "Oasis Mansion Wall (Wood)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Oasis Mansion Wall (Wood)",
+   "zh-CN": "木制绿洲别墅外墙",
+   "zh-TW": "木製綠洲別墅外牆",
+   "ja": "ザナラーン・ウッドレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "An oasis wooden wall designed exclusively for use with mansions.",
+   "zh-CN": "萨纳兰样式大型住宅所使用的外墙。",
+   "zh-TW": "薩納蘭樣式大型住宅所使用的外牆。",
+   "ja": "ザナラーン様式の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "oasis-mansion-wall-composite",
+  "en": "Oasis Mansion Wall (Composite)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Oasis Mansion Wall (Composite)",
+   "zh-CN": "混合制绿洲别墅外墙",
+   "zh-TW": "混合制綠洲別墅外牆",
+   "ja": "ザナラーン・コンポジットレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "An oasis composite wall designed exclusively for use with mansions.",
+   "zh-CN": "萨纳兰样式大型住宅所使用的外墙。",
+   "zh-TW": "薩納蘭樣式大型住宅所使用的外牆。",
+   "ja": "ザナラーン様式の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "oasis-mansion-wall-stone",
+  "en": "Oasis Mansion Wall (Stone)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Oasis Mansion Wall (Stone)",
+   "zh-CN": "石制绿洲别墅外墙",
+   "zh-TW": "石制綠洲別墅外牆",
+   "ja": "ザナラーン・ストーンレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "An oasis stone wall designed exclusively for use with mansions.",
+   "zh-CN": "萨纳兰样式大型住宅所使用的外墙。",
+   "zh-TW": "薩納蘭樣式大型住宅所使用的外牆。",
+   "ja": "ザナラーン様式の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "riviera-arched-window",
+  "en": "Riviera Arched Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Riviera Arched Window",
+   "zh-CN": "海滨拱窗",
+   "zh-TW": "海濱拱窗",
+   "ja": "ラノシアン・アーチウィンドウ"
+  },
+  "desc": {
+   "en": "An arched window in the riviera style.",
+   "zh-CN": "拉诺西亚样式住宅所使用的拱窗。",
+   "zh-TW": "拉諾西亞樣式住宅所使用的拱窗。",
+   "ja": "ラノシア様式の住宅に使われるアーチ付きの窓"
+  }
+ },
+ {
+  "slug": "riviera-bay-window",
+  "en": "Riviera Bay Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Riviera Bay Window",
+   "zh-CN": "海滨凸窗",
+   "zh-TW": "海濱凸窗",
+   "ja": "ラノシアン・ベイウィンドウ"
+  },
+  "desc": {
+   "en": "A bay window in the riviera style.",
+   "zh-CN": "拉诺西亚样式住宅所使用的凸窗。",
+   "zh-TW": "拉諾西亞樣式住宅所使用的凸窗。",
+   "ja": "ラノシア様式の住宅に使われる出窓"
+  }
+ },
+ {
+  "slug": "riviera-oblong-window",
+  "en": "Riviera Oblong Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Riviera Oblong Window",
+   "zh-CN": "海滨方窗",
+   "zh-TW": "海濱方窗",
+   "ja": "ラノシアン・オブロングウィンドウ"
+  },
+  "desc": {
+   "en": "An oblong window in the riviera style.",
+   "zh-CN": "拉诺西亚样式住宅所使用的方窗。",
+   "zh-TW": "拉諾西亞樣式住宅所使用的方窗。",
+   "ja": "ラノシア様式の住宅に使われる方形の窓"
+  }
+ },
+ {
+  "slug": "glade-classical-window",
+  "en": "Glade Classical Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Glade Classical Window",
+   "zh-CN": "林间古典窗",
+   "zh-TW": "林間古典窗",
+   "ja": "シュラウド・クラシックウィンドウ"
+  },
+  "desc": {
+   "en": "A classical window in the glade style.",
+   "zh-CN": "黑衣森林样式住宅所使用的古典窗。",
+   "zh-TW": "黑衣森林樣式住宅所使用的古典窗。",
+   "ja": "黒衣森様式の住宅に使われる古典的な窓"
+  }
+ },
+ {
+  "slug": "glade-rounded-window",
+  "en": "Glade Rounded Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Glade Rounded Window",
+   "zh-CN": "林间圆窗",
+   "zh-TW": "林間圓窗",
+   "ja": "シュラウド・ラウンドウィンドウ"
+  },
+  "desc": {
+   "en": "A rounded window in the glade style.",
+   "zh-CN": "黑衣森林样式住宅所使用的圆窗。",
+   "zh-TW": "黑衣森林樣式住宅所使用的圓窗。",
+   "ja": "黒衣森様式の住宅に使われる丸形の窓"
+  }
+ },
+ {
+  "slug": "glade-lancet-window",
+  "en": "Glade Lancet Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Glade Lancet Window",
+   "zh-CN": "林间尖窗",
+   "zh-TW": "林間尖窗",
+   "ja": "シュラウド・ランセットウィンドウ"
+  },
+  "desc": {
+   "en": "A lancet window in the glade style.",
+   "zh-CN": "黑衣森林样式住宅所使用的尖窗。",
+   "zh-TW": "黑衣森林樣式住宅所使用的尖窗。",
+   "ja": "黒衣森様式の住宅に使われる尖頭窓"
+  }
+ },
+ {
+  "slug": "oasis-oblong-window",
+  "en": "Oasis Oblong Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Oasis Oblong Window",
+   "zh-CN": "绿洲方窗",
+   "zh-TW": "綠洲方窗",
+   "ja": "ザナラーン・オブロングウィンドウ"
+  },
+  "desc": {
+   "en": "An oblong window in the oasis style.",
+   "zh-CN": "萨纳兰样式住宅所使用的方窗。",
+   "zh-TW": "薩納蘭樣式住宅所使用的方窗。",
+   "ja": "ザナラーン様式の住宅に使われる方形の窓"
+  }
+ },
+ {
+  "slug": "oasis-lancet-window",
+  "en": "Oasis Lancet Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Oasis Lancet Window",
+   "zh-CN": "绿洲尖窗",
+   "zh-TW": "綠洲尖窗",
+   "ja": "ザナラーン・ランセットウィンドウ"
+  },
+  "desc": {
+   "en": "A lancet window in the oasis style.",
+   "zh-CN": "萨纳兰样式住宅所使用的尖窗。",
+   "zh-TW": "薩納蘭樣式住宅所使用的尖窗。",
+   "ja": "ザナラーン様式の住宅に使われる尖頭窓"
+  }
+ },
+ {
+  "slug": "oasis-octagonal-window",
+  "en": "Oasis Octagonal Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Oasis Octagonal Window",
+   "zh-CN": "绿洲八角窗",
+   "zh-TW": "綠洲八角窗",
+   "ja": "ザナラーン・オクタゴンウィンドウ"
+  },
+  "desc": {
+   "en": "An octagonal window in the oasis style.",
+   "zh-CN": "萨纳兰样式住宅所使用的八角窗。",
+   "zh-TW": "薩納蘭樣式住宅所使用的八角窗。",
+   "ja": "ザナラーン様式の住宅に使われる八角形の窓"
+  }
+ },
+ {
+  "slug": "riviera-wooden-door",
+  "en": "Riviera Wooden Door",
+  "fixtureType": "door",
+  "n": {
+   "en": "Riviera Wooden Door",
+   "zh-CN": "海滨木制门",
+   "zh-TW": "海濱木製門",
+   "ja": "ラノシアン・ウッドドア"
+  },
+  "desc": {
+   "en": "A wooden door in the riviera style.",
+   "zh-CN": "拉诺西亚样式住宅所使用的正门，由木材制造。",
+   "zh-TW": "拉諾西亞樣式住宅所使用的正門，由木材製造。",
+   "ja": "ラノシア様式の住宅に使われる木造の玄関扉"
+  }
+ },
+ {
+  "slug": "riviera-studded-door",
+  "en": "Riviera Studded Door",
+  "fixtureType": "door",
+  "n": {
+   "en": "Riviera Studded Door",
+   "zh-CN": "海滨镶钉门",
+   "zh-TW": "海濱鑲釘門",
+   "ja": "ラノシアン・スタッドドア"
+  },
+  "desc": {
+   "en": "A studded door in the riviera style.",
+   "zh-CN": "拉诺西亚样式住宅所使用的正门，上面镶有圆钉。",
+   "zh-TW": "拉諾西亞樣式住宅所使用的正門，上面鑲有圓釘。",
+   "ja": "ラノシア様式の住宅に使われる鋲打ちされた玄関扉"
+  }
+ },
+ {
+  "slug": "riviera-ornate-door",
+  "en": "Riviera Ornate Door",
+  "fixtureType": "door",
+  "n": {
+   "en": "Riviera Ornate Door",
+   "zh-CN": "海滨装饰门",
+   "zh-TW": "海濱裝飾門",
+   "ja": "ラノシアン・オーネイトドア"
+  },
+  "desc": {
+   "en": "An ornate door in the riviera style.",
+   "zh-CN": "拉诺西亚样式住宅所使用的正门，装饰非常华丽。",
+   "zh-TW": "拉諾西亞樣式住宅所使用的正門，裝飾非常華麗。",
+   "ja": "ラノシア様式の住宅に使われる飾り付きの玄関扉"
+  }
+ },
+ {
+  "slug": "glade-classical-door",
+  "en": "Glade Classical Door",
+  "fixtureType": "door",
+  "n": {
+   "en": "Glade Classical Door",
+   "zh-CN": "林间古典门",
+   "zh-TW": "林間古典門",
+   "ja": "シュラウド・クラシックドア"
+  },
+  "desc": {
+   "en": "A classical door in the glade style.",
+   "zh-CN": "黑衣森林样式住宅所使用的正门，风格古典。",
+   "zh-TW": "黑衣森林樣式住宅所使用的正門，風格古典。",
+   "ja": "黒衣森様式の住宅に使われる古典的な玄関扉"
+  }
+ },
+ {
+  "slug": "glade-lancet-door",
+  "en": "Glade Lancet Door",
+  "fixtureType": "door",
+  "n": {
+   "en": "Glade Lancet Door",
+   "zh-CN": "林间尖顶门",
+   "zh-TW": "林間尖頂門",
+   "ja": "シュラウド・ランセットドア"
+  },
+  "desc": {
+   "en": "A lancet door in the glade style.",
+   "zh-CN": "黑衣森林样式住宅所使用的正门，拱顶为尖头形状。",
+   "zh-TW": "黑衣森林樣式住宅所使用的正門，拱頂爲尖頭形狀。",
+   "ja": "黒衣森様式の住宅に使われる尖頭アーチ付きの玄関扉"
+  }
+ },
+ {
+  "slug": "glade-arched-door",
+  "en": "Glade Arched Door",
+  "fixtureType": "door",
+  "n": {
+   "en": "Glade Arched Door",
+   "zh-CN": "林间拱顶门",
+   "zh-TW": "林間拱頂門",
+   "ja": "シュラウド・アーチドア"
+  },
+  "desc": {
+   "en": "An arched door in the glade style.",
+   "zh-CN": "黑衣森林样式住宅所使用的正门，上面带有拱顶。",
+   "zh-TW": "黑衣森林樣式住宅所使用的正門，上面帶有拱頂。",
+   "ja": "黒衣森様式の住宅に使われるアーチ付きの玄関扉"
+  }
+ },
+ {
+  "slug": "oasis-arched-door",
+  "en": "Oasis Arched Door",
+  "fixtureType": "door",
+  "n": {
+   "en": "Oasis Arched Door",
+   "zh-CN": "绿洲拱顶门",
+   "zh-TW": "綠洲拱頂門",
+   "ja": "ザナラーン・アーチドア"
+  },
+  "desc": {
+   "en": "An arched door in the oasis style.",
+   "zh-CN": "萨纳兰样式住宅所使用的正门，上面带有拱顶。",
+   "zh-TW": "薩納蘭樣式住宅所使用的正門，上面帶有拱頂。",
+   "ja": "ザナラーン様式の住宅に使われるアーチ付きの玄関扉"
+  }
+ },
+ {
+  "slug": "oasis-crowned-door",
+  "en": "Oasis Crowned Door",
+  "fixtureType": "door",
+  "n": {
+   "en": "Oasis Crowned Door",
+   "zh-CN": "绿洲冠型门",
+   "zh-TW": "綠洲冠型門",
+   "ja": "ザナラーン・クラウンドア"
+  },
+  "desc": {
+   "en": "A crowned door in the oasis style.",
+   "zh-CN": "萨纳兰样式住宅所使用的正门，外型是王冠的形状。",
+   "zh-TW": "薩納蘭樣式住宅所使用的正門，外型是王冠的形狀。",
+   "ja": "ザナラーン様式の住宅に使われる冠型の玄関扉"
+  }
+ },
+ {
+  "slug": "oasis-classical-door",
+  "en": "Oasis Classical Door",
+  "fixtureType": "door",
+  "n": {
+   "en": "Oasis Classical Door",
+   "zh-CN": "绿洲古典门",
+   "zh-TW": "綠洲古典門",
+   "ja": "ザナラーン・クラシックドア"
+  },
+  "desc": {
+   "en": "A classical door in the oasis style.",
+   "zh-CN": "萨纳兰样式住宅所使用的正门，风格古典。",
+   "zh-TW": "薩納蘭樣式住宅所使用的正門，風格古典。",
+   "ja": "ザナラーン様式の住宅に使われる古典的な玄関扉"
+  }
+ },
+ {
+  "slug": "riviera-rounded-chimney",
+  "en": "Riviera Rounded Chimney",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Riviera Rounded Chimney",
+   "zh-CN": "海滨圆形烟囱",
+   "zh-TW": "海濱圓形煙囪",
+   "ja": "ラノシアン・ラウンドチムニー"
+  },
+  "desc": {
+   "en": "A rounded chimney designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的圆形屋顶烟囱。",
+   "zh-TW": "拉諾西亞樣式的圓形屋頂煙囪。",
+   "ja": "ラノシア様式の円形の屋根出し煙突"
+  }
+ },
+ {
+  "slug": "riviera-stone-chimney",
+  "en": "Riviera Stone Chimney",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Riviera Stone Chimney",
+   "zh-CN": "海滨石制烟囱",
+   "zh-TW": "海濱石制煙囪",
+   "ja": "ラノシアン・ストーンチムニー"
+  },
+  "desc": {
+   "en": "A stone chimney designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的石制屋顶烟囱。",
+   "zh-TW": "拉諾西亞樣式的石制屋頂煙囪。",
+   "ja": "ラノシア様式の石造の屋根出し煙突"
+  }
+ },
+ {
+  "slug": "glade-thatch-chimney",
+  "en": "Glade Thatch Chimney",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Glade Thatch Chimney",
+   "zh-CN": "林间草顶烟囱",
+   "zh-TW": "林間草頂煙囪",
+   "ja": "シュラウド・タッチングチムニー"
+  },
+  "desc": {
+   "en": "A thatch chimney designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的草顶屋顶烟囱。",
+   "zh-TW": "黑衣森林樣式的草頂屋頂煙囪。",
+   "ja": "黒衣森様式の茅葺きキャップ付きの屋根出し煙突"
+  }
+ },
+ {
+  "slug": "glade-rounded-chimney",
+  "en": "Glade Rounded Chimney",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Glade Rounded Chimney",
+   "zh-CN": "林间圆形烟囱",
+   "zh-TW": "林間圓形煙囪",
+   "ja": "シュラウド・ラウンドチムニー"
+  },
+  "desc": {
+   "en": "A rounded chimney designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的圆形屋顶烟囱。",
+   "zh-TW": "黑衣森林樣式的圓形屋頂煙囪。",
+   "ja": "黒衣森様式の円形の屋根出し煙突"
+  }
+ },
+ {
+  "slug": "oasis-stone-chimney",
+  "en": "Oasis Stone Chimney",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Oasis Stone Chimney",
+   "zh-CN": "绿洲石制烟囱",
+   "zh-TW": "綠洲石制煙囪",
+   "ja": "ザナラーン・ストーンチムニー"
+  },
+  "desc": {
+   "en": "A stone chimney designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的石制屋顶烟囱。",
+   "zh-TW": "薩納蘭樣式的石制屋頂煙囪。",
+   "ja": "ザナラーン様式の石造の屋根出し煙突"
+  }
+ },
+ {
+  "slug": "oasis-rounded-chimney",
+  "en": "Oasis Rounded Chimney",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Oasis Rounded Chimney",
+   "zh-CN": "绿洲圆形烟囱",
+   "zh-TW": "綠洲圓形煙囪",
+   "ja": "ザナラーン・ラウンドチムニー"
+  },
+  "desc": {
+   "en": "A rounded chimney designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的圆形屋顶烟囱。",
+   "zh-TW": "薩納蘭樣式的圓形屋頂煙囪。",
+   "ja": "ザナラーン様式の円形の屋根出し煙突"
+  }
+ },
+ {
+  "slug": "chocobo-weathervane",
+  "en": "Chocobo Weathervane",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Chocobo Weathervane",
+   "zh-CN": "风向陆行鸟",
+   "zh-TW": "風向陸行鳥",
+   "ja": "ウェザーチョコボ"
+  },
+  "desc": {
+   "en": "A weathervane designed in the likeness of a chocobo.",
+   "zh-CN": "做成陆行鸟形状的风向标。",
+   "zh-TW": "做成陸行鳥形狀的風向標。",
+   "ja": "チョコボを象った風向計"
+  }
+ },
+ {
+  "slug": "apkallu-weathervane",
+  "en": "Apkallu Weathervane",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Apkallu Weathervane",
+   "zh-CN": "风向碧企鹅",
+   "zh-TW": "風向碧企鵝",
+   "ja": "ウェザーアプカル"
+  },
+  "desc": {
+   "en": "A weathervane designed in the likeness of an apkallu.",
+   "zh-CN": "做成碧企鹅形状的风向标。",
+   "zh-TW": "做成碧企鵝形狀的風向標。",
+   "ja": "アプカルを象った風向計"
+  }
+ },
+ {
+  "slug": "cactuar-weathervane",
+  "en": "Cactuar Weathervane",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Cactuar Weathervane",
+   "zh-CN": "风向仙人掌",
+   "zh-TW": "風向仙人掌",
+   "ja": "ウェザーサボテンダー"
+  },
+  "desc": {
+   "en": "A weathervane designed in the likeness of a cactuar.",
+   "zh-CN": "做成仙人掌形状的风向标。",
+   "zh-TW": "做成仙人掌形狀的風向標。",
+   "ja": "サボテンダーを象った風向計"
+  }
+ },
+ {
+  "slug": "riviera-wooden-awning",
+  "en": "Riviera Wooden Awning",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Riviera Wooden Awning",
+   "zh-CN": "海滨木制遮蓬",
+   "zh-TW": "海濱木製遮蓬",
+   "ja": "ラノシアン・ウッドオーニング"
+  },
+  "desc": {
+   "en": "A sturdy wooden awning designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的遮蓬。",
+   "zh-TW": "拉諾西亞樣式的遮蓬。",
+   "ja": "ラノシア様式の庇（ひさし）"
+  }
+ },
+ {
+  "slug": "riviera-awning",
+  "en": "Riviera Awning",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Riviera Awning",
+   "zh-CN": "海滨遮蓬",
+   "zh-TW": "海濱遮蓬",
+   "ja": "ラノシアン・オーニング"
+  },
+  "desc": {
+   "en": "A breezy cloth awning designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的遮蓬。",
+   "zh-TW": "拉諾西亞樣式的遮蓬。",
+   "ja": "ラノシア様式の庇（ひさし）"
+  }
+ },
+ {
+  "slug": "glade-tiled-awning",
+  "en": "Glade Tiled Awning",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Glade Tiled Awning",
+   "zh-CN": "林间瓦片遮蓬",
+   "zh-TW": "林間瓦片遮蓬",
+   "ja": "シュラウド・タイルオーニング"
+  },
+  "desc": {
+   "en": "A sturdy tiled awning designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的遮蓬。",
+   "zh-TW": "黑衣森林樣式的遮蓬。",
+   "ja": "黒衣森様式の庇（ひさし）"
+  }
+ },
+ {
+  "slug": "glade-awning",
+  "en": "Glade Awning",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Glade Awning",
+   "zh-CN": "林间遮蓬",
+   "zh-TW": "林間遮蓬",
+   "ja": "シュラウド・オーニング"
+  },
+  "desc": {
+   "en": "A breezy cloth awning designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的遮蓬。",
+   "zh-TW": "黑衣森林樣式的遮蓬。",
+   "ja": "黒衣森様式の庇（ひさし）"
+  }
+ },
+ {
+  "slug": "oasis-wooden-awning",
+  "en": "Oasis Wooden Awning",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Oasis Wooden Awning",
+   "zh-CN": "绿洲木制遮蓬",
+   "zh-TW": "綠洲木製遮蓬",
+   "ja": "ザナラーン・ウッドオーニング"
+  },
+  "desc": {
+   "en": "A sturdy wooden awning designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的遮蓬。",
+   "zh-TW": "薩納蘭樣式的遮蓬。",
+   "ja": "ザナラーン様式の庇（ひさし）"
+  }
+ },
+ {
+  "slug": "oasis-awning",
+  "en": "Oasis Awning",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Oasis Awning",
+   "zh-CN": "绿洲遮蓬",
+   "zh-TW": "綠洲遮蓬",
+   "ja": "ザナラーン・オーニング"
+  },
+  "desc": {
+   "en": "A breezy cloth awning designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的遮蓬。",
+   "zh-TW": "薩納蘭樣式的遮蓬。",
+   "ja": "ザナラーン様式の庇（ひさし）"
+  }
+ },
+ {
+  "slug": "riviera-wall-chimney",
+  "en": "Riviera Wall Chimney",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Riviera Wall Chimney",
+   "zh-CN": "海滨侧壁烟囱",
+   "zh-TW": "海濱側壁煙囪",
+   "ja": "ラノシアン・ウォールチムニー"
+  },
+  "desc": {
+   "en": "A wall chimney designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的侧壁烟囱。",
+   "zh-TW": "拉諾西亞樣式的側壁煙囪。",
+   "ja": "ラノシア様式の壁出し煙突"
+  }
+ },
+ {
+  "slug": "glade-wall-chimney",
+  "en": "Glade Wall Chimney",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Glade Wall Chimney",
+   "zh-CN": "林间侧壁烟囱",
+   "zh-TW": "林間側壁煙囪",
+   "ja": "シュラウド・ウォールチムニー"
+  },
+  "desc": {
+   "en": "A wall chimney designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的侧壁烟囱。",
+   "zh-TW": "黑衣森林樣式的側壁煙囪。",
+   "ja": "黒衣森様式の壁出し煙突"
+  }
+ },
+ {
+  "slug": "oasis-wall-chimney",
+  "en": "Oasis Wall Chimney",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Oasis Wall Chimney",
+   "zh-CN": "绿洲侧壁烟囱",
+   "zh-TW": "綠洲側壁煙囪",
+   "ja": "ザナラーン・ウォールチムニー"
+  },
+  "desc": {
+   "en": "A wall chimney designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的侧壁烟囱。",
+   "zh-TW": "薩納蘭樣式的側壁煙囪。",
+   "ja": "ザナラーン様式の壁出し煙突"
+  }
+ },
+ {
+  "slug": "riviera-placard",
+  "en": "Riviera Placard",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Riviera Placard",
+   "zh-CN": "海滨门牌",
+   "zh-TW": "海濱門牌",
+   "ja": "ラノシアン・サインボード"
+  },
+  "desc": {
+   "en": "A handsome placard designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的直立门牌。",
+   "zh-TW": "拉諾西亞樣式的直立門牌。",
+   "ja": "ラノシア様式の直付け看板"
+  }
+ },
+ {
+  "slug": "glade-placard",
+  "en": "Glade Placard",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Glade Placard",
+   "zh-CN": "林间门牌",
+   "zh-TW": "林間門牌",
+   "ja": "シュラウド・サインボード"
+  },
+  "desc": {
+   "en": "A handsome placard designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的直立门牌。",
+   "zh-TW": "黑衣森林樣式的直立門牌。",
+   "ja": "黒衣森様式の直付け看板"
+  }
+ },
+ {
+  "slug": "oasis-placard",
+  "en": "Oasis Placard",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Oasis Placard",
+   "zh-CN": "绿洲门牌",
+   "zh-TW": "綠洲門牌",
+   "ja": "ザナラーン・サインボード"
+  },
+  "desc": {
+   "en": "A handsome placard designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的直立门牌。",
+   "zh-TW": "薩納蘭樣式的直立門牌。",
+   "ja": "ザナラーン様式の直付け看板"
+  }
+ },
+ {
+  "slug": "riviera-hanging-placard",
+  "en": "Riviera Hanging Placard",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Riviera Hanging Placard",
+   "zh-CN": "海滨悬挂门牌",
+   "zh-TW": "海濱懸掛門牌",
+   "ja": "ラノシアン・ハンギングボード"
+  },
+  "desc": {
+   "en": "A hanging placard designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的悬挂门牌。",
+   "zh-TW": "拉諾西亞樣式的懸掛門牌。",
+   "ja": "ラノシア様式の吊り看板"
+  }
+ },
+ {
+  "slug": "glade-hanging-placard",
+  "en": "Glade Hanging Placard",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Glade Hanging Placard",
+   "zh-CN": "林间悬挂门牌",
+   "zh-TW": "林間懸掛門牌",
+   "ja": "シュラウド・ハンギングボード"
+  },
+  "desc": {
+   "en": "A hanging placard designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的悬挂门牌。",
+   "zh-TW": "黑衣森林樣式的懸掛門牌。",
+   "ja": "黒衣森様式の吊り看板"
+  }
+ },
+ {
+  "slug": "oasis-hanging-placard",
+  "en": "Oasis Hanging Placard",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Oasis Hanging Placard",
+   "zh-CN": "绿洲悬挂门牌",
+   "zh-TW": "綠洲懸掛門牌",
+   "ja": "ザナラーン・ハンギングボード"
+  },
+  "desc": {
+   "en": "A hanging placard designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的悬挂门牌。",
+   "zh-TW": "薩納蘭樣式的懸掛門牌。",
+   "ja": "ザナラーン様式の吊り看板"
+  }
+ },
+ {
+  "slug": "riviera-banner",
+  "en": "Riviera Banner",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Riviera Banner",
+   "zh-CN": "海滨标旗",
+   "zh-TW": "海濱標旗",
+   "ja": "ラノシアン・ハンギングバナー"
+  },
+  "desc": {
+   "en": "A handsome banner designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的标旗。",
+   "zh-TW": "拉諾西亞樣式的標旗。",
+   "ja": "ラノシア様式の垂れ幕"
+  }
+ },
+ {
+  "slug": "glade-banner",
+  "en": "Glade Banner",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Glade Banner",
+   "zh-CN": "林间标旗",
+   "zh-TW": "林間標旗",
+   "ja": "シュラウド・ハンギングバナー"
+  },
+  "desc": {
+   "en": "A handsome banner designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的标旗。",
+   "zh-TW": "黑衣森林樣式的標旗。",
+   "ja": "黒衣森様式の垂れ幕"
+  }
+ },
+ {
+  "slug": "oasis-banner",
+  "en": "Oasis Banner",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Oasis Banner",
+   "zh-CN": "绿洲标旗",
+   "zh-TW": "綠洲標旗",
+   "ja": "ザナラーン・ハンギングバナー"
+  },
+  "desc": {
+   "en": "A handsome banner designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的标旗。",
+   "zh-TW": "薩納蘭樣式的標旗。",
+   "ja": "ザナラーン様式の垂れ幕"
+  }
+ },
+ {
+  "slug": "riviera-roofed-wall",
+  "en": "Riviera Roofed Wall",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Riviera Roofed Wall",
+   "zh-CN": "海滨瓦顶围墙",
+   "zh-TW": "海濱瓦頂圍牆",
+   "ja": "ラノシアン・ルーフウォール"
+  },
+  "desc": {
+   "en": "A roofed wall designed to complement riviera residences. Mix and match at your own peril.",
+   "zh-CN": "拉诺西亚样式住宅所使用的院墙，上面覆盖了一层瓦。",
+   "zh-TW": "拉諾西亞樣式住宅所使用的院牆，上面覆蓋了一層瓦。",
+   "ja": "ラノシア様式の住宅に使われる瓦葺きの塀"
+  }
+ },
+ {
+  "slug": "riviera-picket-wall",
+  "en": "Riviera Picket Wall",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Riviera Picket Wall",
+   "zh-CN": "海滨栅栏围墙",
+   "zh-TW": "海濱柵欄圍牆",
+   "ja": "ラノシアン・ピケットウォール"
+  },
+  "desc": {
+   "en": "A picket wall designed to complement riviera residences. Mix and match at your own peril.",
+   "zh-CN": "拉诺西亚样式住宅所使用的院墙，主要由栅栏构成。",
+   "zh-TW": "拉諾西亞樣式住宅所使用的院牆，主要由柵欄構成。",
+   "ja": "ラノシア様式の住宅に使われる杭柵付きの塀"
+  }
+ },
+ {
+  "slug": "riviera-stone-wall",
+  "en": "Riviera Stone Wall",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Riviera Stone Wall",
+   "zh-CN": "海滨石制围墙",
+   "zh-TW": "海濱石制圍牆",
+   "ja": "ラノシアン・ストーンウォール"
+  },
+  "desc": {
+   "en": "A stone wall designed to complement riviera residences. Mix and match at your own peril.",
+   "zh-CN": "拉诺西亚样式住宅所使用的院墙，由石材堆砌而成。",
+   "zh-TW": "拉諾西亞樣式住宅所使用的院牆，由石材堆砌而成。",
+   "ja": "ラノシア様式の住宅に使われる石組みの塀"
+  }
+ },
+ {
+  "slug": "glade-cobblestone-wall",
+  "en": "Glade Cobblestone Wall",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Glade Cobblestone Wall",
+   "zh-CN": "林间石制围墙",
+   "zh-TW": "林間石制圍牆",
+   "ja": "シュラウド・ストーンウォール"
+  },
+  "desc": {
+   "en": "A cobblestone wall designed to complement glade residences. Mix and match at your own peril.",
+   "zh-CN": "黑衣森林样式住宅所使用的院墙，由石材堆砌制成。",
+   "zh-TW": "黑衣森林樣式住宅所使用的院牆，由石材堆砌製成。",
+   "ja": "黒衣森様式の住宅に使われる石組みの塀"
+  }
+ },
+ {
+  "slug": "glade-thatch-wall",
+  "en": "Glade Thatch Wall",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Glade Thatch Wall",
+   "zh-CN": "林间草顶围墙",
+   "zh-TW": "林間草頂圍牆",
+   "ja": "シュラウド・タッチウォール"
+  },
+  "desc": {
+   "en": "A thatch wall designed to complement glade residences. Mix and match at your own peril.",
+   "zh-CN": "黑衣森林样式住宅所使用的院墙，上面覆盖了一层茅草。",
+   "zh-TW": "黑衣森林樣式住宅所使用的院牆，上面覆蓋了一層茅草。",
+   "ja": "黒衣森様式の住宅に使われる茅葺きの塀"
+  }
+ },
+ {
+  "slug": "glade-roundpole-fence",
+  "en": "Glade Roundpole Fence",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Glade Roundpole Fence",
+   "zh-CN": "林间圆弧围栏",
+   "zh-TW": "林間圓弧圍欄",
+   "ja": "シュラウド・ラウンドポールウォール"
+  },
+  "desc": {
+   "en": "A roundpole fence designed to complement glade residences. Mix and match at your own peril.",
+   "zh-CN": "黑衣森林样式住宅所使用的院墙，主要由圆弧形的木栅栏构成。",
+   "zh-TW": "黑衣森林樣式住宅所使用的院牆，主要由圓弧形的木柵欄構成。",
+   "ja": "黒衣森様式の住宅に使われる木柵付きの塀"
+  }
+ },
+ {
+  "slug": "oasis-wooden-wall",
+  "en": "Oasis Wooden Wall",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Oasis Wooden Wall",
+   "zh-CN": "绿洲木制围墙",
+   "zh-TW": "綠洲木製圍牆",
+   "ja": "ザナラーン・ウッドウォール"
+  },
+  "desc": {
+   "en": "A wooden wall designed to complement oasis residences. Mix and match at your own peril.",
+   "zh-CN": "萨纳兰样式住宅所使用的院墙，由木材加工制成。",
+   "zh-TW": "薩納蘭樣式住宅所使用的院牆，由木材加工製成。",
+   "ja": "ザナラーン様式の住宅に使われる木造の塀"
+  }
+ },
+ {
+  "slug": "oasis-stone-wall",
+  "en": "Oasis Stone Wall",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Oasis Stone Wall",
+   "zh-CN": "绿洲石制围墙",
+   "zh-TW": "綠洲石制圍牆",
+   "ja": "ザナラーン・ストーンウォール"
+  },
+  "desc": {
+   "en": "A stone wall designed to complement oasis residences. Mix and match at your own peril.",
+   "zh-CN": "萨纳兰样式住宅所使用的院墙，由石材堆砌制成。",
+   "zh-TW": "薩納蘭樣式住宅所使用的院牆，由石材堆砌製成。",
+   "ja": "ザナラーン様式の住宅に使われる石組みの塀"
+  }
+ },
+ {
+  "slug": "oasis-ornate-fence",
+  "en": "Oasis Ornate Fence",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Oasis Ornate Fence",
+   "zh-CN": "绿洲装饰围墙",
+   "zh-TW": "綠洲裝飾圍牆",
+   "ja": "ザナラーン・オーネイトウォール"
+  },
+  "desc": {
+   "en": "An ornate fence designed to complement oasis residences. Mix and match at your own peril.",
+   "zh-CN": "萨纳兰样式住宅所使用的院墙，装饰非常华丽。",
+   "zh-TW": "薩納蘭樣式住宅所使用的院牆，裝飾非常華麗。",
+   "ja": "ザナラーン様式の住宅に使われる飾り付きの塀"
+  }
+ },
+ {
+  "slug": "riviera-interior-wall",
+  "en": "Riviera Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Riviera Interior Wall",
+   "zh-CN": "海滨内墙",
+   "zh-TW": "海濱內牆",
+   "ja": "ラノシアン・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的内壁墙壁设计。",
+   "zh-TW": "拉諾西亞樣式的內壁牆壁設計。",
+   "ja": "ラノシア様式の内壁材"
+  }
+ },
+ {
+  "slug": "glade-interior-wall",
+  "en": "Glade Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Glade Interior Wall",
+   "zh-CN": "林间内墙",
+   "zh-TW": "林間內牆",
+   "ja": "シュラウド・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的内壁墙壁设计。",
+   "zh-TW": "黑衣森林樣式的內壁牆壁設計。",
+   "ja": "黒衣森様式の内壁材"
+  }
+ },
+ {
+  "slug": "oasis-interior-wall",
+  "en": "Oasis Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Oasis Interior Wall",
+   "zh-CN": "绿洲内墙",
+   "zh-TW": "綠洲內牆",
+   "ja": "ザナラーン・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的内壁墙壁设计。",
+   "zh-TW": "薩納蘭樣式的內壁牆壁設計。",
+   "ja": "ザナラーン様式の内壁材"
+  }
+ },
+ {
+  "slug": "riviera-flooring",
+  "en": "Riviera Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Riviera Flooring",
+   "zh-CN": "海滨地板",
+   "zh-TW": "海濱地板",
+   "ja": "ラノシアン・フローリング"
+  },
+  "desc": {
+   "en": "Floorboards designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的室内地板。",
+   "zh-TW": "拉諾西亞樣式的室內地板。",
+   "ja": "ラノシア様式の床板"
+  }
+ },
+ {
+  "slug": "glade-flooring",
+  "en": "Glade Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Glade Flooring",
+   "zh-CN": "林间地板",
+   "zh-TW": "林間地板",
+   "ja": "シュラウド・フローリング"
+  },
+  "desc": {
+   "en": "Floorboards designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的室内地板。",
+   "zh-TW": "黑衣森林樣式的室內地板。",
+   "ja": "黒衣森様式の床板"
+  }
+ },
+ {
+  "slug": "oasis-flooring",
+  "en": "Oasis Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Oasis Flooring",
+   "zh-CN": "绿洲地板",
+   "zh-TW": "綠洲地板",
+   "ja": "ザナラーン・フローリング"
+  },
+  "desc": {
+   "en": "Floorboards designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的室内地板。",
+   "zh-TW": "薩納蘭樣式的室內地板。",
+   "ja": "ザナラーン様式の床板"
+  }
+ },
+ {
+  "slug": "riviera-pendant-lamp",
+  "en": "Riviera Pendant Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Riviera Pendant Lamp",
+   "zh-CN": "海滨吊灯",
+   "zh-TW": "海濱吊燈",
+   "ja": "ラノシアン・ペンダントランプ"
+  },
+  "desc": {
+   "en": "A pendant lamp designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的吊灯。",
+   "zh-TW": "拉諾西亞樣式的吊燈。",
+   "ja": "ラノシア様式の吊りランプ"
+  }
+ },
+ {
+  "slug": "deluxe-riviera-pendant-lamp",
+  "en": "Deluxe Riviera Pendant Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Deluxe Riviera Pendant Lamp",
+   "zh-CN": "海滨豪华吊灯",
+   "zh-TW": "海濱豪華吊燈",
+   "ja": "ラノシアン・デラックスペンダントランプ"
+  },
+  "desc": {
+   "en": "A large pendant lamp designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的大形吊灯。",
+   "zh-TW": "拉諾西亞樣式的大形吊燈。",
+   "ja": "ラノシア様式の大きな吊りランプ"
+  }
+ },
+ {
+  "slug": "riviera-chandelier",
+  "en": "Riviera Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Riviera Chandelier",
+   "zh-CN": "海滨枝形吊灯",
+   "zh-TW": "海濱枝形吊燈",
+   "ja": "ラノシアン・シャンデリア"
+  },
+  "desc": {
+   "en": "A sumptuous chandelier designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的枝形吊灯。",
+   "zh-TW": "拉諾西亞樣式的枝形吊燈。",
+   "ja": "ラノシア様式の豪奢なシャンデリア"
+  }
+ },
+ {
+  "slug": "glade-pendant-lamp",
+  "en": "Glade Pendant Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Glade Pendant Lamp",
+   "zh-CN": "林间吊灯",
+   "zh-TW": "林間吊燈",
+   "ja": "シュラウド・ペンダントランプ"
+  },
+  "desc": {
+   "en": "A pendant lamp designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的吊灯。",
+   "zh-TW": "黑衣森林樣式的吊燈。",
+   "ja": "黒衣森様式の吊りランプ"
+  }
+ },
+ {
+  "slug": "deluxe-glade-pendant-lamp",
+  "en": "Deluxe Glade Pendant Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Deluxe Glade Pendant Lamp",
+   "zh-CN": "林间豪华吊灯",
+   "zh-TW": "林間豪華吊燈",
+   "ja": "シュラウド・デラックスペンダントランプ"
+  },
+  "desc": {
+   "en": "A large pendant lamp designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的大形吊灯。",
+   "zh-TW": "黑衣森林樣式的大形吊燈。",
+   "ja": "黒衣森様式の大きな吊りランプ"
+  }
+ },
+ {
+  "slug": "glade-chandelier",
+  "en": "Glade Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Glade Chandelier",
+   "zh-CN": "林间枝形吊灯",
+   "zh-TW": "林間枝形吊燈",
+   "ja": "シュラウド・シャンデリア"
+  },
+  "desc": {
+   "en": "A sumptuous chandelier designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的枝形吊灯。",
+   "zh-TW": "黑衣森林樣式的枝形吊燈。",
+   "ja": "黒衣森様式の豪奢なシャンデリア"
+  }
+ },
+ {
+  "slug": "oasis-pendant-lamp",
+  "en": "Oasis Pendant Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Oasis Pendant Lamp",
+   "zh-CN": "绿洲吊灯",
+   "zh-TW": "綠洲吊燈",
+   "ja": "ザナラーン・ペンダントランプ"
+  },
+  "desc": {
+   "en": "A pendant lamp designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的吊灯。",
+   "zh-TW": "薩納蘭樣式的吊燈。",
+   "ja": "ザナラーン様式の吊りランプ"
+  }
+ },
+ {
+  "slug": "deluxe-oasis-pendant-lamp",
+  "en": "Deluxe Oasis Pendant Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Deluxe Oasis Pendant Lamp",
+   "zh-CN": "绿洲豪华吊灯",
+   "zh-TW": "綠洲豪華吊燈",
+   "ja": "ザナラーン・デラックスペンダントランプ"
+  },
+  "desc": {
+   "en": "A large pendant lamp designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的大形吊灯。",
+   "zh-TW": "薩納蘭樣式的大形吊燈。",
+   "ja": "ザナラーン様式の大きな吊りランプ"
+  }
+ },
+ {
+  "slug": "oasis-chandelier",
+  "en": "Oasis Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Oasis Chandelier",
+   "zh-CN": "绿洲枝形吊灯",
+   "zh-TW": "綠洲枝形吊燈",
+   "ja": "ザナラーン・シャンデリア"
+  },
+  "desc": {
+   "en": "A sumptuous chandelier designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的枝形吊灯。",
+   "zh-TW": "薩納蘭樣式的枝形吊燈。",
+   "ja": "ザナラーン様式の豪奢なシャンデリア"
+  }
+ },
+ {
+  "slug": "storm-ceiling-fan-lamp",
+  "en": "Storm Ceiling Fan & Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Storm Ceiling Fan & Lamp",
+   "zh-CN": "碧海吊扇灯",
+   "zh-TW": "碧海吊扇燈",
+   "ja": "ロミンサン・シーリングファンライト"
+  },
+  "desc": {
+   "en": "Issued by the Maelstrom, this newfangled contraption provides both light and cooling. Relax in style while displaying your patriotic zeal.",
+   "zh-CN": "黑涡团样式的吊灯，还附有风扇叶。",
+   "zh-TW": "黑渦團樣式的吊燈，還附有風扇葉。",
+   "ja": "黒渦団式のシーリングファン付き天井照明"
+  }
+ },
+ {
+  "slug": "flame-ceiling-fan-lamp",
+  "en": "Flame Ceiling Fan & Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Flame Ceiling Fan & Lamp",
+   "zh-CN": "黄沙吊扇灯",
+   "zh-TW": "黃沙吊扇燈",
+   "ja": "ウルダハン・シーリングファンライト"
+  },
+  "desc": {
+   "en": "Issued by the Immortal Flames, this newfangled contraption provides both light and cooling. Relax in style while displaying your patriotic zeal.",
+   "zh-CN": "恒辉队样式的吊灯，还附有风扇叶。",
+   "zh-TW": "恆輝隊樣式的吊燈，還附有風扇葉。",
+   "ja": "不滅隊式のシーリングファン付き天井照明"
+  }
+ },
+ {
+  "slug": "serpent-ceiling-fan-lamp",
+  "en": "Serpent Ceiling Fan & Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Serpent Ceiling Fan & Lamp",
+   "zh-CN": "密林吊扇灯",
+   "zh-TW": "密林吊扇燈",
+   "ja": "グリダニアン・シーリングファンライト"
+  },
+  "desc": {
+   "en": "Issued by the Order of the Twin Adder, this newfangled contraption provides both light and cooling. Relax in style while displaying your patriotic zeal.",
+   "zh-CN": "双蛇党样式的吊灯，还附有风扇叶。",
+   "zh-TW": "雙蛇黨樣式的吊燈，還附有風扇葉。",
+   "ja": "双蛇党式のシーリングファン付き天井照明"
+  }
+ },
+ {
+  "slug": "morbol-chandelier",
+  "en": "Morbol Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Morbol Chandelier",
+   "zh-CN": "魔界花枝形吊灯",
+   "zh-TW": "魔界花枝形吊燈",
+   "ja": "モルボルシャンデリア"
+  },
+  "desc": {
+   "en": "An *aromatic* chandelier designed in the likeness of a morbol.",
+   "zh-CN": "做成魔界花形状的枝形吊灯，芳香四溢。",
+   "zh-TW": "做成魔界花形狀的枝形吊燈，芳香四溢。",
+   "ja": "モルボルを象った香り高いシャンデリア"
+  }
+ },
+ {
+  "slug": "illumination-module",
+  "en": "Illumination Module",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Illumination Module",
+   "zh-CN": "照明系统",
+   "zh-TW": "照明系統",
+   "ja": "照明システム"
+  },
+  "desc": {
+   "en": "The wisdom of ancient Allag laid Eorzea to waste; now it keeps your living room bright and cheery.",
+   "zh-CN": "亚拉戈帝国样式的奇异吊灯。",
+   "zh-TW": "亞拉戈帝國樣式的奇異吊燈。",
+   "ja": "アラグ帝国様式の特異な天井照明"
+  }
+ },
+ {
+  "slug": "country-interior-wall",
+  "en": "Country Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Country Interior Wall",
+   "zh-CN": "乡村内墙",
+   "zh-TW": "鄉村內牆",
+   "ja": "カントリーインナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall designed in the country fashion.",
+   "zh-CN": "用砖块做出的房屋内壁。",
+   "zh-TW": "用磚塊做出的房屋內壁。",
+   "ja": "煉瓦造りの内壁材"
+  }
+ },
+ {
+  "slug": "stone-interior-wall",
+  "en": "Stone Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Stone Interior Wall",
+   "zh-CN": "石制内墙",
+   "zh-TW": "石制內牆",
+   "ja": "ストーンインナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall of smooth-cut stone.",
+   "zh-CN": "用灰泥做出的房屋内壁。",
+   "zh-TW": "用灰泥做出的房屋內壁。",
+   "ja": "漆喰の内壁材"
+  }
+ },
+ {
+  "slug": "storm-interior-wall",
+  "en": "Storm Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Storm Interior Wall",
+   "zh-CN": "碧海内墙",
+   "zh-TW": "碧海內牆",
+   "ja": "ロミンサン・インナーウォール"
+  },
+  "desc": {
+   "en": "Display your patriotic zeal with this Maelstrom-themed interior wall.",
+   "zh-CN": "黑涡团样式的内壁墙壁设计。",
+   "zh-TW": "黑渦團樣式的內壁牆壁設計。",
+   "ja": "黒渦団様式の内壁材"
+  }
+ },
+ {
+  "slug": "serpent-interior-wall",
+  "en": "Serpent Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Serpent Interior Wall",
+   "zh-CN": "密林内墙",
+   "zh-TW": "密林內牆",
+   "ja": "グリダニアン・インナーウォール"
+  },
+  "desc": {
+   "en": "Display your patriotic zeal with this Twin Adder-themed interior wall.",
+   "zh-CN": "双蛇党样式的内壁墙壁设计。",
+   "zh-TW": "雙蛇黨樣式的內壁牆壁設計。",
+   "ja": "双蛇党様式の内壁材"
+  }
+ },
+ {
+  "slug": "flame-interior-wall",
+  "en": "Flame Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Flame Interior Wall",
+   "zh-CN": "黄沙内墙",
+   "zh-TW": "黃沙內牆",
+   "ja": "ウルダハン・インナーウォール"
+  },
+  "desc": {
+   "en": "Display your patriotic zeal with this Immortal Flames-themed interior wall.",
+   "zh-CN": "恒辉队样式的内壁墙壁设计。",
+   "zh-TW": "恆輝隊樣式的內壁牆壁設計。",
+   "ja": "不滅隊様式の内壁材"
+  }
+ },
+ {
+  "slug": "tiled-interior-wall",
+  "en": "Tiled Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Tiled Interior Wall",
+   "zh-CN": "铺瓦内墙",
+   "zh-TW": "鋪瓦內牆",
+   "ja": "タイルインナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall made from tiles of various shades of blue.",
+   "zh-CN": "用瓦片做出的房屋内壁。",
+   "zh-TW": "用瓦片做出的房屋內壁。",
+   "ja": "タイル造りの内壁材"
+  }
+ },
+ {
+  "slug": "metal-interior-wall",
+  "en": "Metal Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Metal Interior Wall",
+   "zh-CN": "金属内墙",
+   "zh-TW": "金屬內牆",
+   "ja": "メタルインナーウォール"
+  },
+  "desc": {
+   "en": "A futuristic wall featuring riveted metal plates.",
+   "zh-CN": "用金属板做出的房屋内壁。",
+   "zh-TW": "用金屬板做出的房屋內壁。",
+   "ja": "金属板の内壁材"
+  }
+ },
+ {
+  "slug": "arbor-interior-wall",
+  "en": "Arbor Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Arbor Interior Wall",
+   "zh-CN": "树林内墙",
+   "zh-TW": "樹林內牆",
+   "ja": "フォレストインナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall that puts you in an idyllic arbor setting.",
+   "zh-CN": "带有树林图案的房屋内壁。",
+   "zh-TW": "帶有樹林圖案的房屋內壁。",
+   "ja": "森林の意匠を施した内壁材"
+  }
+ },
+ {
+  "slug": "chocobo-interior-wall",
+  "en": "Chocobo Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Chocobo Interior Wall",
+   "zh-CN": "陆行鸟内墙",
+   "zh-TW": "陸行鳥內牆",
+   "ja": "チョコボインナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall for all the chocobo-lovers out there.",
+   "zh-CN": "带有陆行鸟图案的房屋内壁。",
+   "zh-TW": "帶有陸行鳥圖案的房屋內壁。",
+   "ja": "チョコボの意匠を施した内壁材"
+  }
+ },
+ {
+  "slug": "moogle-interior-wall",
+  "en": "Moogle Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Moogle Interior Wall",
+   "zh-CN": "莫古力内墙",
+   "zh-TW": "莫古力內牆",
+   "ja": "モーグリインナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall for all the moogle-lovers out there.",
+   "zh-CN": "带有莫古力图案的房屋内壁。",
+   "zh-TW": "帶有莫古力圖案的房屋內壁。",
+   "ja": "モーグリの意匠を施した内壁材"
+  }
+ },
+ {
+  "slug": "country-flooring",
+  "en": "Country Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Country Flooring",
+   "zh-CN": "乡村地板",
+   "zh-TW": "鄉村地板",
+   "ja": "カントリーフローリング"
+  },
+  "desc": {
+   "en": "Flooring designed in the country fashion.",
+   "zh-CN": "用砖块做出的房屋地板。",
+   "zh-TW": "用磚塊做出的房屋地板。",
+   "ja": "煉瓦造りの床板"
+  }
+ },
+ {
+  "slug": "stone-flooring",
+  "en": "Stone Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Stone Flooring",
+   "zh-CN": "石制地板",
+   "zh-TW": "石制地板",
+   "ja": "ストーンフローリング"
+  },
+  "desc": {
+   "en": "Flooring of smooth-cut stone.",
+   "zh-CN": "用灰泥做出的房屋地板。",
+   "zh-TW": "用灰泥做出的房屋地板。",
+   "ja": "漆喰の床板"
+  }
+ },
+ {
+  "slug": "storm-flooring",
+  "en": "Storm Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Storm Flooring",
+   "zh-CN": "碧海地板",
+   "zh-TW": "碧海地板",
+   "ja": "ロミンサン・フローリング"
+  },
+  "desc": {
+   "en": "Display your patriotic zeal with this Maelstrom-themed flooring.",
+   "zh-CN": "黑涡团样式的地板设计。",
+   "zh-TW": "黑渦團樣式的地板設計。",
+   "ja": "黒渦団様式の床板"
+  }
+ },
+ {
+  "slug": "serpent-flooring",
+  "en": "Serpent Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Serpent Flooring",
+   "zh-CN": "密林地板",
+   "zh-TW": "密林地板",
+   "ja": "グリダニアン・フローリング"
+  },
+  "desc": {
+   "en": "Display your patriotic zeal with this Twin Adder-themed flooring.",
+   "zh-CN": "双蛇党样式的地板设计。",
+   "zh-TW": "雙蛇黨樣式的地板設計。",
+   "ja": "双蛇党様式の床板"
+  }
+ },
+ {
+  "slug": "flame-flooring",
+  "en": "Flame Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Flame Flooring",
+   "zh-CN": "黄沙地板",
+   "zh-TW": "黃沙地板",
+   "ja": "ウルダハン・フローリング"
+  },
+  "desc": {
+   "en": "Display your patriotic zeal with this Immortal Flames-themed flooring.",
+   "zh-CN": "恒辉队样式的地板设计。",
+   "zh-TW": "恆輝隊樣式的地板設計。",
+   "ja": "不滅隊様式の床板"
+  }
+ },
+ {
+  "slug": "tiled-flooring",
+  "en": "Tiled Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Tiled Flooring",
+   "zh-CN": "铺瓦地板",
+   "zh-TW": "鋪瓦地板",
+   "ja": "タイルフローリング"
+  },
+  "desc": {
+   "en": "Flooring made from tiles of various shades of blue.",
+   "zh-CN": "用瓦片做出的房屋地板。",
+   "zh-TW": "用瓦片做出的房屋地板。",
+   "ja": "タイル造りの床板"
+  }
+ },
+ {
+  "slug": "metal-flooring",
+  "en": "Metal Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Metal Flooring",
+   "zh-CN": "金属地板",
+   "zh-TW": "金屬地板",
+   "ja": "メタルフローリング"
+  },
+  "desc": {
+   "en": "Futuristic flooring featuring riveted metal plates.",
+   "zh-CN": "用金属板做出的房屋地板。",
+   "zh-TW": "用金屬板做出的房屋地板。",
+   "ja": "金属板の床板"
+  }
+ },
+ {
+  "slug": "arbor-flooring",
+  "en": "Arbor Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Arbor Flooring",
+   "zh-CN": "树林地板",
+   "zh-TW": "樹林地板",
+   "ja": "フォレストフローリング"
+  },
+  "desc": {
+   "en": "Flooring that puts you in an idyllic arbor setting.",
+   "zh-CN": "带有树林图案的房屋地板。",
+   "zh-TW": "帶有樹林圖案的房屋地板。",
+   "ja": "森林の意匠を施した床板"
+  }
+ },
+ {
+  "slug": "chocobo-flooring",
+  "en": "Chocobo Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Chocobo Flooring",
+   "zh-CN": "陆行鸟地板",
+   "zh-TW": "陸行鳥地板",
+   "ja": "チョコボフローリング"
+  },
+  "desc": {
+   "en": "Flooring for all the chocobo-lovers out there.",
+   "zh-CN": "带有陆行鸟图案的房屋地板。",
+   "zh-TW": "帶有陸行鳥圖案的房屋地板。",
+   "ja": "チョコボの意匠を施した床板"
+  }
+ },
+ {
+  "slug": "moogle-flooring",
+  "en": "Moogle Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Moogle Flooring",
+   "zh-CN": "莫古力地板",
+   "zh-TW": "莫古力地板",
+   "ja": "モーグリフローリング"
+  },
+  "desc": {
+   "en": "Flooring for all the moogle-lovers out there.",
+   "zh-CN": "带有莫古力图案的房屋地板。",
+   "zh-TW": "帶有莫古力圖案的房屋地板。",
+   "ja": "モーグリの意匠を施した床板"
+  }
+ },
+ {
+  "slug": "tonberry-chandelier",
+  "en": "Tonberry Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Tonberry Chandelier",
+   "zh-CN": "冬贝利枝形吊灯",
+   "zh-TW": "冬貝利枝形吊燈",
+   "ja": "トンベリシャンデリア"
+  },
+  "desc": {
+   "en": "A rancorous chandelier designed in a tonberry king motif.",
+   "zh-CN": "以冬贝利王为概念设计出的枝形吊灯。",
+   "zh-TW": "以冬貝利王爲概念設計出的枝形吊燈。",
+   "ja": "トンベリキングの意匠を施したシャンデリア"
+  }
+ },
+ {
+  "slug": "glade-hedgewall",
+  "en": "Glade Hedgewall",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Glade Hedgewall",
+   "zh-CN": "林间树篱墙",
+   "zh-TW": "林間樹籬牆",
+   "ja": "シュラウド・ヘッジウォール"
+  },
+  "desc": {
+   "en": "A living fence designed to complement glade residences. Mix and match at your own peril.",
+   "zh-CN": "黑衣森林样式住宅所使用的院墙，茂密的树篱要经常修剪。",
+   "zh-TW": "黑衣森林樣式住宅所使用的院牆，茂密的樹籬要經常修剪。",
+   "ja": "黒衣森様式の住宅に使われる生け垣の塀"
+  }
+ },
+ {
+  "slug": "oasis-fence",
+  "en": "Oasis Fence",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Oasis Fence",
+   "zh-CN": "绿洲装饰石墙",
+   "zh-TW": "綠洲裝飾石牆",
+   "ja": "ザナラーン・オーネイトストーンウォール"
+  },
+  "desc": {
+   "en": "A decorated stone fence designed to complement oasis residences. Mix and match at your own peril.",
+   "zh-CN": "萨纳兰样式住宅所使用的院墙，石头上有很多的装饰。",
+   "zh-TW": "薩納蘭樣式住宅所使用的院牆，石頭上有很多的裝飾。",
+   "ja": "ザナラーン様式の住宅に使われる飾り付きの石壁"
+  }
+ },
+ {
+  "slug": "riviera-fence",
+  "en": "Riviera Fence",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Riviera Fence",
+   "zh-CN": "海滨铁围栏",
+   "zh-TW": "海濱鐵圍欄",
+   "ja": "ラノシアン・フェンスウォール"
+  },
+  "desc": {
+   "en": "A pointed iron fence designed to complement riviera residences. Mix and match at your own peril.",
+   "zh-CN": "拉诺西亚样式住宅所使用的院墙，主要由铁栅栏构成。",
+   "zh-TW": "拉諾西亞樣式住宅所使用的院牆，主要由鐵柵欄構成。",
+   "ja": "ラノシア様式の住宅に使われる鉄柵付きの塀"
+  }
+ },
+ {
+  "slug": "riviera-flora-interior-wall",
+  "en": "Riviera Flora Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Riviera Flora Interior Wall",
+   "zh-CN": "海滨叶纹内墙",
+   "zh-TW": "海濱葉紋內牆",
+   "ja": "ラノシアン・リーフインナーウォール"
+  },
+  "desc": {
+   "en": "A flora-themed interior wall designed to complement riviera residences.",
+   "zh-CN": "拉诺西亚样式的内壁墙壁设计，采用了叶子的图案。",
+   "zh-TW": "拉諾西亞樣式的內壁牆壁設計，採用了葉子的圖案。",
+   "ja": "ラノシア様式の植物柄内壁材"
+  }
+ },
+ {
+  "slug": "glade-flora-interior-wall",
+  "en": "Glade Flora Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Glade Flora Interior Wall",
+   "zh-CN": "林间叶纹内墙",
+   "zh-TW": "林間葉紋內牆",
+   "ja": "シュラウド・リーフインナーウォール"
+  },
+  "desc": {
+   "en": "A flora-themed interior wall designed to complement glade residences.",
+   "zh-CN": "黑衣森林样式的内壁墙壁设计，采用了叶子的图案。",
+   "zh-TW": "黑衣森林樣式的內壁牆壁設計，採用了葉子的圖案。",
+   "ja": "黒衣森様式の植物柄内壁材"
+  }
+ },
+ {
+  "slug": "oasis-flora-interior-wall",
+  "en": "Oasis Flora Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Oasis Flora Interior Wall",
+   "zh-CN": "绿洲叶纹内墙",
+   "zh-TW": "綠洲葉紋內牆",
+   "ja": "ザナラーン・リーフインナーウォール"
+  },
+  "desc": {
+   "en": "A flora-themed interior wall designed to complement oasis residences.",
+   "zh-CN": "萨纳兰样式的内壁墙壁设计，采用了叶子的图案。",
+   "zh-TW": "薩納蘭樣式的內壁牆壁設計，採用了葉子的圖案。",
+   "ja": "ザナラーン様式の植物柄内壁材"
+  }
+ },
+ {
+  "slug": "classic-interior-wall",
+  "en": "Classic Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Classic Interior Wall",
+   "zh-CN": "古典内墙",
+   "zh-TW": "古典內牆",
+   "ja": "クラシックインナーウォール"
+  },
+  "desc": {
+   "en": "Experience luxury living with this interior wall which features an elegant pattern adored by the Ul'dahn elite.",
+   "zh-CN": "古典图案的内壁墙壁设计。",
+   "zh-TW": "古典圖案的內壁牆壁設計。",
+   "ja": "クラシックな模様の内壁材"
+  }
+ },
+ {
+  "slug": "striped-interior-wall",
+  "en": "Striped Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Striped Interior Wall",
+   "zh-CN": "条纹内墙",
+   "zh-TW": "條紋內牆",
+   "ja": "ストライプインナーウォール"
+  },
+  "desc": {
+   "en": "These striped walls are guaranteed to make your room appear thin...or fat.",
+   "zh-CN": "条纹图案的内壁墙壁设计。",
+   "zh-TW": "條紋圖案的內壁牆壁設計。",
+   "ja": "ストライプ模様の内壁材"
+  }
+ },
+ {
+  "slug": "mosaic-interior-wall",
+  "en": "Mosaic Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Mosaic Interior Wall",
+   "zh-CN": "花纹内墙",
+   "zh-TW": "花紋內牆",
+   "ja": "モザイクインナーウォール"
+  },
+  "desc": {
+   "en": "An intricate interior wall crafted from countless tiny pieces of ceramic fit together in breathtaking patterns.",
+   "zh-CN": "花纹图案的内壁墙壁设计。",
+   "zh-TW": "花紋圖案的內壁牆壁設計。",
+   "ja": "モザイク模様の内壁材"
+  }
+ },
+ {
+  "slug": "bisque-flooring",
+  "en": "Bisque Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Bisque Flooring",
+   "zh-CN": "素瓷地板",
+   "zh-TW": "素瓷地板",
+   "ja": "ビスクタイルフローリング"
+  },
+  "desc": {
+   "en": "Simple, yet stylish, bisque flooring is perfect for the modern adventurer.",
+   "zh-CN": "用素瓷材料做出的房屋地板。",
+   "zh-TW": "用素瓷材料做出的房屋地板。",
+   "ja": "素焼きタイルの床板"
+  }
+ },
+ {
+  "slug": "marble-flooring",
+  "en": "Marble Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Marble Flooring",
+   "zh-CN": "大理石地板",
+   "zh-TW": "大理石地板",
+   "ja": "マーブルフローリング"
+  },
+  "desc": {
+   "en": "Carved from a single piece of beautiful marble, this floor is fit for a king (or queen).",
+   "zh-CN": "用大理石打磨出的房屋地板。",
+   "zh-TW": "用大理石打磨出的房屋地板。",
+   "ja": "磨き上げた大理石の床板"
+  }
+ },
+ {
+  "slug": "ceramic-tile-flooring",
+  "en": "Ceramic Tile Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Ceramic Tile Flooring",
+   "zh-CN": "陶瓷地板",
+   "zh-TW": "陶瓷地板",
+   "ja": "セラミックフローリング"
+  },
+  "desc": {
+   "en": "Specialty flooring that is cool to the touch and easy to clean.",
+   "zh-CN": "用陶瓷材料做出的房屋地板。",
+   "zh-TW": "用陶瓷材料做出的房屋地板。",
+   "ja": "陶器タイルの床板"
+  }
+ },
+ {
+  "slug": "bombard-lamp",
+  "en": "Bombard Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Bombard Lamp",
+   "zh-CN": "轰击怪灯笼",
+   "zh-TW": "轟擊怪燈籠",
+   "ja": "ボンバード提灯"
+  },
+  "desc": {
+   "en": "A massive lamp designed to resemble the villain of the Moonfire Faire—the Bombard.",
+   "zh-CN": "仿照大炎兽轰击怪的形象做出的灯笼。",
+   "zh-TW": "仿照大炎獸轟擊怪的形象做出的燈籠。",
+   "ja": "大炎獣ボンバードを象った照明器具"
+  }
+ },
+ {
+  "slug": "eerie-wallpaper",
+  "en": "Eerie Wallpaper",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Eerie Wallpaper",
+   "zh-CN": "守护天内墙",
+   "zh-TW": "守護天內牆",
+   "ja": "イアリウォールペーパー"
+  },
+  "desc": {
+   "en": "Ready your estate for All Saints' Wake with this frightening-yet-festive interior wall covering.",
+   "zh-CN": "有着南瓜头和蝙蝠的夜晚，总是那么恐怖，让人难以入睡。",
+   "zh-TW": "有着南瓜頭和蝙蝠的夜晚，總是那麼恐怖，讓人難以入睡。",
+   "ja": "守護天節の意匠を施した内壁材"
+  }
+ },
+ {
+  "slug": "starlight-interior-wall",
+  "en": "Starlight Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Starlight Interior Wall",
+   "zh-CN": "星芒内墙",
+   "zh-TW": "星芒內牆",
+   "ja": "スターライトインナーウォール"
+  },
+  "desc": {
+   "en": "This wall bears a festive design certain to bring joy and cheer to all...until you finally get around to taking it down six moons later.",
+   "zh-CN": "繁星点点，飞雪纷纷，可不要因为季节过了就换下来哦。",
+   "zh-TW": "繁星點點，飛雪紛紛，可不要因爲季節過了就換下來哦。",
+   "ja": "星芒祭の意匠を施した内壁材"
+  }
+ },
+ {
+  "slug": "masonwork-interior-wall",
+  "en": "Masonwork Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Masonwork Interior Wall",
+   "zh-CN": "石砌内墙",
+   "zh-TW": "石砌內牆",
+   "ja": "メイソンリーインナーウォール"
+  },
+  "desc": {
+   "en": "A sturdy wall of locally quarried stones.",
+   "zh-CN": "石头堆砌纹样的内壁墙壁设计。",
+   "zh-TW": "石頭堆砌紋樣的內壁牆壁設計。",
+   "ja": "石組みの内壁材"
+  }
+ },
+ {
+  "slug": "masonwork-flooring",
+  "en": "Masonwork Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Masonwork Flooring",
+   "zh-CN": "石砌地板",
+   "zh-TW": "石砌地板",
+   "ja": "メイソンリーフローリング"
+  },
+  "desc": {
+   "en": "A smooth stone floor guaranteed to stay cool in the summer and toe-numbingly cold in the winter.",
+   "zh-CN": "石头堆砌纹样的室内地板。",
+   "zh-TW": "石頭堆砌紋樣的室內地板。",
+   "ja": "石組みの床板"
+  }
+ },
+ {
+  "slug": "checkered-flooring",
+  "en": "Checkered Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Checkered Flooring",
+   "zh-CN": "方砖地板",
+   "zh-TW": "方磚地板",
+   "ja": "モザイクフローリング"
+  },
+  "desc": {
+   "en": "Give your estate a modern feel with this quality flooring's contemporary pattern.",
+   "zh-CN": "用多个小方砖铺成的室内地板。",
+   "zh-TW": "用多個小方磚鋪成的室內地板。",
+   "ja": "モザイク模様の床板"
+  }
+ },
+ {
+  "slug": "iron-plate-flooring",
+  "en": "Iron Plate Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Iron Plate Flooring",
+   "zh-CN": "黑铁地板",
+   "zh-TW": "黑鐵地板",
+   "ja": "アイアンプレートフローリング"
+  },
+  "desc": {
+   "en": "Hammered steel flooring for those seeking an imperial feel to their residence.",
+   "zh-CN": "简单的黑铁地板。",
+   "zh-TW": "簡單的黑鐵地板。",
+   "ja": "シンプルな鉄板の床板"
+  }
+ },
+ {
+  "slug": "ice-chandelier",
+  "en": "Ice Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Ice Chandelier",
+   "zh-CN": "希瓦枝形吊灯",
+   "zh-TW": "希瓦枝形吊燈",
+   "ja": "シヴァのシャンデリア"
+  },
+  "desc": {
+   "en": "A breathtaking ceiling fixture crafted using tears taken from the Lady of Frost herself.",
+   "zh-CN": "使用希瓦之泪制作的豪华吊灯。",
+   "zh-TW": "使用希瓦之淚製作的豪華吊燈。",
+   "ja": "シヴァの涙を用いたシャンデリア"
+  }
+ },
+ {
+  "slug": "diamond-chandelier",
+  "en": "Diamond Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Diamond Chandelier",
+   "zh-CN": "冰神枝形吊灯",
+   "zh-TW": "冰神枝形吊燈",
+   "ja": "氷神シヴァのシャンデリア"
+  },
+  "desc": {
+   "en": "An awe-inspiring ceiling fixture crafted using tears taken from the Lady of Frost herself and imbued with magicks ancient and forbidden.",
+   "zh-CN": "使用希瓦魔泪制作的豪华吊灯。",
+   "zh-TW": "使用希瓦魔淚製作的豪華吊燈。",
+   "ja": "氷神シヴァの涙を用いた魔力溢れるシャンデリア"
+  }
+ },
+ {
+  "slug": "spotted-interior-wall",
+  "en": "Spotted Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Spotted Interior Wall",
+   "zh-CN": "圆点内墙",
+   "zh-TW": "圓點內牆",
+   "ja": "ポルカドット・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall bespeckled with a hypnotically random pattern of colorful dots certain to drive any sane man to his wit's end.",
+   "zh-CN": "各种圆点的内壁墙壁设计。",
+   "zh-TW": "各種圓點的內壁牆壁設計。",
+   "ja": "水玉模様の内壁材"
+  }
+ },
+ {
+  "slug": "wavy-interior-wall",
+  "en": "Wavy Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Wavy Interior Wall",
+   "zh-CN": "波纹内墙",
+   "zh-TW": "波紋內牆",
+   "ja": "ウェーブパターン・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall covered from top to bottom in colorful wavy lines certain to induce seasickness in even the most hardened sailor.",
+   "zh-CN": "多玛样式的波纹内壁墙壁设计。",
+   "zh-TW": "多瑪樣式的波紋內壁牆壁設計。",
+   "ja": "ドマ様式の波柄模様の内壁材"
+  }
+ },
+ {
+  "slug": "tatami-flooring",
+  "en": "Tatami Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Tatami Flooring",
+   "zh-CN": "榻榻米地板",
+   "zh-TW": "榻榻米地板",
+   "ja": "タタミフローリング"
+  },
+  "desc": {
+   "en": "Woven from sweet-smelling rush grass, tatami flooring is the perfect complement to any home furnished in the Doman fashion.",
+   "zh-CN": "多玛样式的地板，散发着独特的气味。",
+   "zh-TW": "多瑪樣式的地板，散發着獨特的氣味。",
+   "ja": "ドマ様式の床板。ほんのりと独特の香りがする"
+  }
+ },
+ {
+  "slug": "monochrome-flooring",
+  "en": "Monochrome Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Monochrome Flooring",
+   "zh-CN": "黑白方格地板",
+   "zh-TW": "黑白方格地板",
+   "ja": "モノクロームフローリング"
+  },
+  "desc": {
+   "en": "Marble floor tiling alternately colored black and white.",
+   "zh-CN": "黑白大理石互相交错的地板。",
+   "zh-TW": "黑白大理石互相交錯的地板。",
+   "ja": "白と黒の大理石を交互に並べた床板"
+  }
+ },
+ {
+  "slug": "oasis-cobble-flooring",
+  "en": "Oasis Cobble Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Oasis Cobble Flooring",
+   "zh-CN": "绿洲石路地板",
+   "zh-TW": "綠洲石路地板",
+   "ja": "ザナラーン・ストリートフローリング"
+  },
+  "desc": {
+   "en": "Cobbles commonly used in Ul'dahn roadways and plazas.",
+   "zh-CN": "萨纳兰样式的街路风格地板。",
+   "zh-TW": "薩納蘭樣式的街路風格地板。",
+   "ja": "ザナラーン様式の街路風床板"
+  }
+ },
+ {
+  "slug": "star-chandelier",
+  "en": "Star Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Star Chandelier",
+   "zh-CN": "星月枝形吊灯",
+   "zh-TW": "星月枝形吊燈",
+   "ja": "スターシャンデリア"
+  },
+  "desc": {
+   "en": "Ceiling-mounted lighting expertly crafted to resemble the moon and stars.",
+   "zh-CN": "有着星星与月亮形状装饰的枝形吊灯。",
+   "zh-TW": "有着星星與月亮形狀裝飾的枝形吊燈。",
+   "ja": "星と月を模した天井照明"
+  }
+ },
+ {
+  "slug": "mgs-interior-wall",
+  "en": "MGS Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "MGS Interior Wall",
+   "zh-CN": "金碟内墙",
+   "zh-TW": "金碟內牆",
+   "ja": "ゴールドソーサー・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall of the same design as those used to furnish the Manderville Gold Saucer.",
+   "zh-CN": "曼德维尔金碟游乐场所使用的房屋内壁。",
+   "zh-TW": "曼德維爾金碟遊樂場所使用的房屋內壁。",
+   "ja": "マンダヴィル・ゴールドソーサーで用いられている内壁材"
+  }
+ },
+ {
+  "slug": "stained-crystal-interior-wall",
+  "en": "Stained Crystal Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Stained Crystal Interior Wall",
+   "zh-CN": "水晶画内墙",
+   "zh-TW": "水晶畫內牆",
+   "ja": "ステンドクリスタル・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall fitted with countless colorful stained crystal panels.",
+   "zh-CN": "镶有落地式水晶玻璃的房屋内壁。",
+   "zh-TW": "鑲有落地式水晶玻璃的房屋內壁。",
+   "ja": "ステンドクリスタルを嵌め込んだ内壁材"
+  }
+ },
+ {
+  "slug": "mgs-flooring",
+  "en": "MGS Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "MGS Flooring",
+   "zh-CN": "金碟地板",
+   "zh-TW": "金碟地板",
+   "ja": "ゴールドソーサー・フローリング"
+  },
+  "desc": {
+   "en": "Floorboards and carpeting of the same colorful design as those used to furnish the Manderville Gold Saucer.",
+   "zh-CN": "曼德维尔金碟游乐场所使用的多彩地板。",
+   "zh-TW": "曼德維爾金碟遊樂場所使用的多彩地板。",
+   "ja": "マンダヴィル・ゴールドソーサーで用いられているカラフルな床材"
+  }
+ },
+ {
+  "slug": "monochrome-mgs-flooring",
+  "en": "Monochrome MGS Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Monochrome MGS Flooring",
+   "zh-CN": "单色画地板",
+   "zh-TW": "單色畫地板",
+   "ja": "ゴールドソーサー・モノクロームフローリング"
+  },
+  "desc": {
+   "en": "Black-and-white floorboards and carpeting of the same design as those used to furnish the Manderville Gold Saucer.",
+   "zh-CN": "曼德维尔金碟游乐场所使用的单色地板。",
+   "zh-TW": "曼德維爾金碟遊樂場所使用的單色地板。",
+   "ja": "マンダヴィル・ゴールドソーサーで用いられているモノトーンの床材"
+  }
+ },
+ {
+  "slug": "magnificent-mogdelier",
+  "en": "Magnificent Mogdelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Magnificent Mogdelier",
+   "zh-CN": "莫古莫古吊灯",
+   "zh-TW": "莫古莫古吊燈",
+   "ja": "モグモグ・シャンデリア"
+  },
+  "desc": {
+   "en": "Marvelously majestic lighting worthy of a moogle king.",
+   "zh-CN": "装饰有贤王莫古尔·莫古十二世和家臣团玩偶的吊灯。",
+   "zh-TW": "裝飾有賢王莫古爾·莫古十二世和家臣團玩偶的吊燈。",
+   "ja": "善王モグル・モグXII世と家臣団の意匠を施したシャンデリア"
+  }
+ },
+ {
+  "slug": "hive-ceiling-fan",
+  "en": "Hive Ceiling Fan",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Hive Ceiling Fan",
+   "zh-CN": "罗波那风扇灯",
+   "zh-TW": "羅波那風扇燈",
+   "ja": "ラーヴァナの扇風灯"
+  },
+  "desc": {
+   "en": "A ceiling-mounted fan created with the wings of the Gnathic primal Ravana.",
+   "zh-CN": "利用罗波那之翅制作的吊扇灯。",
+   "zh-TW": "利用羅波那之翅製作的吊扇燈。",
+   "ja": "ラーヴァナの翅を用いたシーリングファン付き天井照明"
+  }
+ },
+ {
+  "slug": "deep-hive-ceiling-fan",
+  "en": "Deep Hive Ceiling Fan",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Deep Hive Ceiling Fan",
+   "zh-CN": "武神风扇灯",
+   "zh-TW": "武神風扇燈",
+   "ja": "武神ラーヴァナの扇風灯"
+  },
+  "desc": {
+   "en": "A ceiling-mounted fan created with the wings of the Gnathic primal Ravana. It literally hums with the Lord of the Hive's untamed power.",
+   "zh-CN": "利用罗波那魔翅制作的吊扇灯。",
+   "zh-TW": "利用羅波那魔翅製作的吊扇燈。",
+   "ja": "武神ラーヴァナの翅を用いた魔力溢れるシーリングファン付き天井照明"
+  }
+ },
+ {
+  "slug": "small-merchant-s-walls",
+  "en": "Small Merchant's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Small Merchant's Walls",
+   "zh-CN": "小型商店外墙",
+   "zh-TW": "小型商店外牆",
+   "ja": "マーチャント・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into an item shop.",
+   "zh-CN": "小型商店的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "小型商店的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "小型商店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "medium-merchant-s-walls",
+  "en": "Medium Merchant's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Medium Merchant's Walls",
+   "zh-CN": "中型商店外墙",
+   "zh-TW": "中型商店外牆",
+   "ja": "マーチャント・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into an item shop.",
+   "zh-CN": "中型商店的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "中型商店的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "中型商店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "large-merchant-s-walls",
+  "en": "Large Merchant's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Large Merchant's Walls",
+   "zh-CN": "大型商店外墙",
+   "zh-TW": "大型商店外牆",
+   "ja": "マーチャント・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into an item shop.",
+   "zh-CN": "大型商店的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "大型商店的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "大型商店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "small-eatery-walls",
+  "en": "Small Eatery Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Small Eatery Walls",
+   "zh-CN": "小型餐厅外墙",
+   "zh-TW": "小型餐廳外牆",
+   "ja": "レストラン・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a restaurant.",
+   "zh-CN": "小型餐厅的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "小型餐廳的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "小型飲食店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "medium-eatery-walls",
+  "en": "Medium Eatery Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Medium Eatery Walls",
+   "zh-CN": "中型餐厅外墙",
+   "zh-TW": "中型餐廳外牆",
+   "ja": "レストラン・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a restaurant.",
+   "zh-CN": "中型餐厅的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "中型餐廳的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "中型飲食店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "large-eatery-walls",
+  "en": "Large Eatery Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Large Eatery Walls",
+   "zh-CN": "大型餐厅外墙",
+   "zh-TW": "大型餐廳外牆",
+   "ja": "レストラン・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a restaurant.",
+   "zh-CN": "大型餐厅的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "大型餐廳的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "大型飲食店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "small-outfitter-s-walls",
+  "en": "Small Outfitter's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Small Outfitter's Walls",
+   "zh-CN": "小型防具店外墙",
+   "zh-TW": "小型防具店外牆",
+   "ja": "アーマーディーラー・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a gear shop.",
+   "zh-CN": "小型防具店的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "小型防具店的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "小型防具商店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "medium-outfitter-s-walls",
+  "en": "Medium Outfitter's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Medium Outfitter's Walls",
+   "zh-CN": "中型防具店外墙",
+   "zh-TW": "中型防具店外牆",
+   "ja": "アーマーディーラー・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a gear shop.",
+   "zh-CN": "中型防具店的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "中型防具店的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "中型防具商店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "large-outfitter-s-walls",
+  "en": "Large Outfitter's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Large Outfitter's Walls",
+   "zh-CN": "大型防具店外墙",
+   "zh-TW": "大型防具店外牆",
+   "ja": "アーマーディーラー・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a gear shop.",
+   "zh-CN": "大型防具店的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "大型防具店的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "大型防具商店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "small-arms-supplier-s-walls",
+  "en": "Small Arms Supplier's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Small Arms Supplier's Walls",
+   "zh-CN": "小型武器店外墙",
+   "zh-TW": "小型武器店外牆",
+   "ja": "ウェポンディーラー・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a weapon shop.",
+   "zh-CN": "小型武器店的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "小型武器店的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "小型武具商店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "medium-arms-supplier-s-walls",
+  "en": "Medium Arms Supplier's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Medium Arms Supplier's Walls",
+   "zh-CN": "中型武器店外墙",
+   "zh-TW": "中型武器店外牆",
+   "ja": "ウェポンディーラー・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a weapon shop.",
+   "zh-CN": "中型武器店的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "中型武器店的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "中型武具商店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "large-arms-supplier-s-walls",
+  "en": "Large Arms Supplier's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Large Arms Supplier's Walls",
+   "zh-CN": "大型武器店外墙",
+   "zh-TW": "大型武器店外牆",
+   "ja": "ウェポンディーラー・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a weapon shop.",
+   "zh-CN": "大型武器店的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "大型武器店的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "大型武具商店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "microscopically-small-mogwalls",
+  "en": "Microscopically Small Mogwalls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Microscopically Small Mogwalls",
+   "zh-CN": "小型莫古外墙",
+   "zh-TW": "小型莫古外牆",
+   "ja": "モグモグ・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a home fit for a moogle.",
+   "zh-CN": "带有莫古力图案的小型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有莫古力圖案的小型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "モーグリハウスの意匠を施した小型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "middlingly-medium-mogwalls",
+  "en": "Middlingly Medium Mogwalls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Middlingly Medium Mogwalls",
+   "zh-CN": "中型莫古外墙",
+   "zh-TW": "中型莫古外牆",
+   "ja": "モグモグ・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a home fit for a moogle.",
+   "zh-CN": "带有莫古力图案的中型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有莫古力圖案的中型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "モーグリハウスの意匠を施した中型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "monstrously-large-mogwalls",
+  "en": "Monstrously Large Mogwalls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Monstrously Large Mogwalls",
+   "zh-CN": "大型莫古外墙",
+   "zh-TW": "大型莫古外牆",
+   "ja": "モグモグ・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a home fit for a moogle.",
+   "zh-CN": "带有莫古力图案的大型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有莫古力圖案的大型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "モーグリハウスの意匠を施した大型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "cob-inner-wall",
+  "en": "Cob Inner Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Cob Inner Wall",
+   "zh-CN": "绿砂内墙",
+   "zh-TW": "綠砂內牆",
+   "ja": "マッドインナーウォール"
+  },
+  "desc": {
+   "en": "A rustic wall made of soil, straw, and lime.",
+   "zh-CN": "有些怀旧的土墙风格内壁墙壁设计。",
+   "zh-TW": "有些懷舊的土牆風格內壁牆壁設計。",
+   "ja": "どこか昔懐かしい土壁風の内壁材"
+  }
+ },
+ {
+  "slug": "manor-flooring",
+  "en": "Manor Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Manor Flooring",
+   "zh-CN": "庄园地板",
+   "zh-TW": "莊園地板",
+   "ja": "御用邸のフローリング"
+  },
+  "desc": {
+   "en": "Flooring similar in design to that used in Haukke Manor.",
+   "zh-CN": "静语庄园特别订制的地板。",
+   "zh-TW": "靜語莊園特別訂製的地板。",
+   "ja": "ハウケタ御用邸特注の床材"
+  }
+ },
+ {
+  "slug": "faerie-chandelier",
+  "en": "Faerie Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Faerie Chandelier",
+   "zh-CN": "小仙女吊灯",
+   "zh-TW": "小仙女吊燈",
+   "ja": "フェアリーシャンデリア"
+  },
+  "desc": {
+   "en": "This delicate light fixture will remind you the wood is alive and always watching...",
+   "zh-CN": "带有小仙女图案的吊灯。",
+   "zh-TW": "帶有小仙女圖案的吊燈。",
+   "ja": "フェアリーの意匠を施したシャンデリア"
+  }
+ },
+ {
+  "slug": "alpine-chandelier",
+  "en": "Alpine Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Alpine Chandelier",
+   "zh-CN": "伊修加德枝形吊灯",
+   "zh-TW": "伊修加德枝形吊燈",
+   "ja": "イシュガルディアン・シャンデリア"
+  },
+  "desc": {
+   "en": "A sumptuous chandelier designed to complement alpine residences.",
+   "zh-CN": "伊修加德样式的枝形吊灯。",
+   "zh-TW": "伊修加德樣式的枝形吊燈。",
+   "ja": "イシュガルド様式のシャンデリア"
+  }
+ },
+ {
+  "slug": "alpine-flooring",
+  "en": "Alpine Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Alpine Flooring",
+   "zh-CN": "伊修加德地板",
+   "zh-TW": "伊修加德地板",
+   "ja": "イシュガルディアン・フローリング"
+  },
+  "desc": {
+   "en": "Floorboards designed to complement alpine residences.",
+   "zh-CN": "伊修加德样式的地板。",
+   "zh-TW": "伊修加德樣式的地板。",
+   "ja": "イシュガルド様式の床板"
+  }
+ },
+ {
+  "slug": "alpine-inner-wall",
+  "en": "Alpine Inner Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Alpine Inner Wall",
+   "zh-CN": "伊修加德内墙",
+   "zh-TW": "伊修加德內牆",
+   "ja": "イシュガルディアン・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall designed in the alpine fashion.",
+   "zh-CN": "伊修加德样式的内墙。",
+   "zh-TW": "伊修加德樣式的內牆。",
+   "ja": "イシュガルド様式の内壁材"
+  }
+ },
+ {
+  "slug": "sharlayan-flooring",
+  "en": "Sharlayan Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Sharlayan Flooring",
+   "zh-CN": "萨雷安地板",
+   "zh-TW": "薩雷安地板",
+   "ja": "シャーレアン・フローリング"
+  },
+  "desc": {
+   "en": "Elegant marbled flooring capable of transforming any estate into a bastion of enlightenment.",
+   "zh-CN": "萨雷安样式的地板。",
+   "zh-TW": "薩雷安樣式的地板。",
+   "ja": "シャーレアン様式の床板"
+  }
+ },
+ {
+  "slug": "bluesky-interior-wall",
+  "en": "Bluesky Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Bluesky Interior Wall",
+   "zh-CN": "蓝天内墙",
+   "zh-TW": "藍天內牆",
+   "ja": "ブルースカイ・インナーウォール"
+  },
+  "desc": {
+   "en": "A cheery interior wall for those who wish their skies to be forever blue.",
+   "zh-CN": "描绘着蓝天白云的房屋内壁，十分敞亮。",
+   "zh-TW": "描繪着藍天白雲的房屋內壁，十分敞亮。",
+   "ja": "青空を描いた開放感あふれる内壁材"
+  }
+ },
+ {
+  "slug": "gold-saucer-chandelier",
+  "en": "Gold Saucer Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Gold Saucer Chandelier",
+   "zh-CN": "金碟吊灯",
+   "zh-TW": "金碟吊燈",
+   "ja": "ゴールドソーサー・シャンデリア"
+  },
+  "desc": {
+   "en": "A chandelier used in the Manderville Gold Saucer.",
+   "zh-CN": "曼德维尔金碟游乐场所使用的吊灯。",
+   "zh-TW": "曼德維爾金碟遊樂場所使用的吊燈。",
+   "ja": "マンダヴィル・ゴールドソーサーで用いられているシャンデリア"
+  }
+ },
+ {
+  "slug": "chocobo-cottage-walls",
+  "en": "Chocobo Cottage Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Chocobo Cottage Walls",
+   "zh-CN": "小型陆行鸟外墙",
+   "zh-TW": "小型陸行鳥外牆",
+   "ja": "チョコボ・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those whose love for chocobos transcends mundane aesthetic sensibilities.",
+   "zh-CN": "带有陆行鸟图案的小型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有陸行鳥圖案的小型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "チョコボの意匠を施した小型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "chocobo-house-walls",
+  "en": "Chocobo House Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Chocobo House Walls",
+   "zh-CN": "中型陆行鸟外墙",
+   "zh-TW": "中型陸行鳥外牆",
+   "ja": "チョコボ・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those whose love for chocobos transcends mundane aesthetic sensibilities.",
+   "zh-CN": "带有陆行鸟图案的中型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有陸行鳥圖案的中型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "チョコボの意匠を施した中型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "chocobo-mansion-walls",
+  "en": "Chocobo Mansion Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Chocobo Mansion Walls",
+   "zh-CN": "大型陆行鸟外墙",
+   "zh-TW": "大型陸行鳥外牆",
+   "ja": "チョコボ・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those whose love for chocobos transcends mundane aesthetic sensibilities.",
+   "zh-CN": "带有陆行鸟图案的大型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有陸行鳥圖案的大型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "チョコボの意匠を施した大型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "deluxe-eerie-wallpaper",
+  "en": "Deluxe Eerie Wallpaper",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Deluxe Eerie Wallpaper",
+   "zh-CN": "特制守护天内墙",
+   "zh-TW": "特製守護天內牆",
+   "ja": "イアリウォールペーパーEX"
+  },
+  "desc": {
+   "en": "Ready your estate for All Saints' Wake with this frightening-yet-festive interior wall covering. Decidedly better than last year's wallpaper in ways far too numerous to list here.",
+   "zh-CN": "有着南瓜头和蝙蝠的夜晚，总是那么恐怖，让人难以入睡。",
+   "zh-TW": "有着南瓜頭和蝙蝠的夜晚，總是那麼恐怖，讓人難以入睡。",
+   "ja": "守護天節の意匠を施した内壁材"
+  }
+ },
+ {
+  "slug": "deluxe-starlight-interior-wall",
+  "en": "Deluxe Starlight Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Deluxe Starlight Interior Wall",
+   "zh-CN": "特制星芒内墙",
+   "zh-TW": "特製星芒內牆",
+   "ja": "スターライトインナーウォールEX"
+  },
+  "desc": {
+   "en": "This wall bears a festive design certain to bring joy and cheer to all...until you finally get around to taking it down six moons later. Decidedly more stellar than last year's walls in ways far too profound to explain here.",
+   "zh-CN": "繁星点点，飞雪纷纷，可不要因为季节过了就换下来哦。",
+   "zh-TW": "繁星點點，飛雪紛紛，可不要因爲季節過了就換下來哦。",
+   "ja": "星芒祭の意匠を施した内壁材"
+  }
+ },
+ {
+  "slug": "crystal-chandelier",
+  "en": "Crystal Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Crystal Chandelier",
+   "zh-CN": "水晶吊灯",
+   "zh-TW": "水晶吊燈",
+   "ja": "クリスタルシャンデリア"
+  },
+  "desc": {
+   "en": "The aether contained within the crystals used to construct this magnificent lighting fixture emits an ethereal glow which enhances the mood of any hall or parlor.",
+   "zh-CN": "以以太之光为概念设计出的吊灯。",
+   "zh-TW": "以以太之光爲概念設計出的吊燈。",
+   "ja": "大いなるクリスタルの意匠を施したシャンデリア"
+  }
+ },
+ {
+  "slug": "palace-of-the-dead-flooring",
+  "en": "Palace of the Dead Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Palace of the Dead Flooring",
+   "zh-CN": "死者宫殿地板",
+   "zh-TW": "死者宮殿地板",
+   "ja": "パレス・オブ・デッド・フローリング"
+  },
+  "desc": {
+   "en": "Flooring designed using reports penned by those fortunate enough to return from their expeditionary missions into the Palace of the Dead...with their sanity intact.",
+   "zh-CN": "以死者宫殿为概念设计出的地板。",
+   "zh-TW": "以死者宮殿爲概念設計出的地板。",
+   "ja": "死者の宮殿の意匠を施した床材"
+  }
+ },
+ {
+  "slug": "palace-of-the-dead-interior-wall",
+  "en": "Palace of the Dead Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Palace of the Dead Interior Wall",
+   "zh-CN": "死者宫殿内墙",
+   "zh-TW": "死者宮殿內牆",
+   "ja": "パレス・オブ・デッド・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall designed using reports penned by those fortunate enough to return from their expeditionary missions into the Palace of the Dead...with their sanity intact.",
+   "zh-CN": "以死者宫殿为概念设计出的房屋内壁。",
+   "zh-TW": "以死者宮殿爲概念設計出的房屋內壁。",
+   "ja": "死者の宮殿の意匠を施した内壁材"
+  }
+ },
+ {
+  "slug": "deluxe-bombard-lamp",
+  "en": "Deluxe Bombard Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Deluxe Bombard Lamp",
+   "zh-CN": "特制轰击怪灯笼",
+   "zh-TW": "特製轟擊怪燈籠",
+   "ja": "ボンバード提灯EX"
+  },
+  "desc": {
+   "en": "A massive lamp designed to resemble the villain of the Moonfire Faire—the Bombard. Completely different than last year's lamp, we promise.",
+   "zh-CN": "仿照大炎兽轰击怪的形象做出的灯笼。",
+   "zh-TW": "仿照大炎獸轟擊怪的形象做出的燈籠。",
+   "ja": "大炎獣ボンバードを象った照明器具"
+  }
+ },
+ {
+  "slug": "paissa-cottage-walls",
+  "en": "Paissa Cottage Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Paissa Cottage Walls",
+   "zh-CN": "小型猴面雀外墙",
+   "zh-TW": "小型猴面雀外牆",
+   "ja": "パイッサ・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into paissa paradise.",
+   "zh-CN": "带有猴面雀图案的小型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有猴面雀圖案的小型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "パイッサの意匠を施した小型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "paissa-house-walls",
+  "en": "Paissa House Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Paissa House Walls",
+   "zh-CN": "中型猴面雀外墙",
+   "zh-TW": "中型猴面雀外牆",
+   "ja": "パイッサ・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a paissa paradise.",
+   "zh-CN": "带有猴面雀图案的中型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有猴面雀圖案的中型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "パイッサの意匠を施した中型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "paissa-mansion-walls",
+  "en": "Paissa Mansion Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Paissa Mansion Walls",
+   "zh-CN": "大型猴面雀外墙",
+   "zh-TW": "大型猴面雀外牆",
+   "ja": "パイッサ・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a paissa paradise.",
+   "zh-CN": "带有猴面雀图案的大型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有猴面雀圖案的大型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "パイッサの意匠を施した大型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "fortemps-manor-interior-wall",
+  "en": "Fortemps Manor Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Fortemps Manor Interior Wall",
+   "zh-CN": "福尔唐府邸内墙",
+   "zh-TW": "福爾唐府邸內牆",
+   "ja": "フォルタンマナー・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall for those in the mood for a dash of northern sophistication.",
+   "zh-CN": "福尔唐伯爵府用的内壁。",
+   "zh-TW": "福爾唐伯爵府用的內壁。",
+   "ja": "フォルタン伯爵邸で用いられている内壁材"
+  }
+ },
+ {
+  "slug": "eggstravagant-interior-wall",
+  "en": "Eggstravagant Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Eggstravagant Interior Wall",
+   "zh-CN": "预言蛋内墙",
+   "zh-TW": "預言蛋內牆",
+   "ja": "アルコンエッグ・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall designed to complement private Hatching–tide celebrations.",
+   "zh-CN": "彩蛋～彩蛋～大彩蛋～大家一起来收集彩蛋吧！",
+   "zh-TW": "彩蛋～彩蛋～大彩蛋～大家一起來收集彩蛋吧！",
+   "ja": "エッグハントの意匠を施した内壁材"
+  }
+ },
+ {
+  "slug": "white-interior-wall",
+  "en": "White Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "White Interior Wall",
+   "zh-CN": "白色内墙",
+   "zh-TW": "白色內牆",
+   "ja": "ホワイトインナーウォール"
+  },
+  "desc": {
+   "en": "A plain white interior wall for those estate owners with minimalistic tastes.",
+   "zh-CN": "白色的内壁，难道不想在上面画些什么吗？",
+   "zh-TW": "白色的內壁，難道不想在上面畫些什麼嗎？",
+   "ja": "白壁の内壁材"
+  }
+ },
+ {
+  "slug": "tribunal-flooring",
+  "en": "Tribunal Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Tribunal Flooring",
+   "zh-CN": "裁判所地板",
+   "zh-TW": "裁判所地板",
+   "ja": "トリビュナルフローリング"
+  },
+  "desc": {
+   "en": "A close replica of the flooring found in the Supreme Sacred Tribunal of Halonic Inquisitory Doctrine.",
+   "zh-CN": "神圣裁判所用的地板。",
+   "zh-TW": "神聖裁判所用的地板。",
+   "ja": "神聖裁判所で用いられている床材"
+  }
+ },
+ {
+  "slug": "pendant-lamp-planter",
+  "en": "Pendant Lamp Planter",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Pendant Lamp Planter",
+   "zh-CN": "盆栽吊灯",
+   "zh-TW": "盆栽吊燈",
+   "ja": "ペンダントランププランター"
+  },
+  "desc": {
+   "en": "All the beauty of a pendant lamp coupled with all the functionality of a garden planter. Why did no one think of this before!?",
+   "zh-CN": "结合盆栽设计而成的吊灯。",
+   "zh-TW": "結合盆栽設計而成的吊燈。",
+   "ja": "植木鉢と一体化した吊りランプ"
+  }
+ },
+ {
+  "slug": "topmast-interior-wall",
+  "en": "Topmast Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Topmast Interior Wall",
+   "zh-CN": "中桅塔内墙",
+   "zh-TW": "中桅塔內牆",
+   "ja": "トップマスト・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall designed to complement Topmast apartments.",
+   "zh-CN": "中桅塔样式内壁墙壁设计。",
+   "zh-TW": "中桅塔樣式內壁牆壁設計。",
+   "ja": "トップマスト用にデザインされた内壁材"
+  }
+ },
+ {
+  "slug": "lily-hills-interior-wall",
+  "en": "Lily Hills Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Lily Hills Interior Wall",
+   "zh-CN": "百合岭内墙",
+   "zh-TW": "百合嶺內牆",
+   "ja": "リリーヒルズ・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall designed to complement Lily Hills apartments.",
+   "zh-CN": "百合岭样式内壁墙壁设计。",
+   "zh-TW": "百合嶺樣式內壁牆壁設計。",
+   "ja": "リリーヒルズ用にデザインされた内壁材"
+  }
+ },
+ {
+  "slug": "sultana-s-breath-interior-wall",
+  "en": "Sultana's Breath Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Sultana's Breath Interior Wall",
+   "zh-CN": "娜娜莫大风车内墙",
+   "zh-TW": "娜娜莫大風車內牆",
+   "ja": "スルタナズブレス・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall designed to complement Sultana's Breath apartments.",
+   "zh-CN": "娜娜莫大风车样式内壁墙壁设计。",
+   "zh-TW": "娜娜莫大風車樣式內壁牆壁設計。",
+   "ja": "ナナモ大風車用にデザインされた内壁材"
+  }
+ },
+ {
+  "slug": "topmast-flooring",
+  "en": "Topmast Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Topmast Flooring",
+   "zh-CN": "中桅塔地板",
+   "zh-TW": "中桅塔地板",
+   "ja": "トップマスト・フローリング"
+  },
+  "desc": {
+   "en": "Floorboards designed to complement Topmast apartments.",
+   "zh-CN": "中桅塔样式地板设计。",
+   "zh-TW": "中桅塔樣式地板設計。",
+   "ja": "トップマスト用にデザインされた床材"
+  }
+ },
+ {
+  "slug": "lily-hills-flooring",
+  "en": "Lily Hills Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Lily Hills Flooring",
+   "zh-CN": "百合岭地板",
+   "zh-TW": "百合嶺地板",
+   "ja": "リリーヒルズ・フローリング"
+  },
+  "desc": {
+   "en": "Floorboards designed to complement Lily Hills apartments.",
+   "zh-CN": "百合岭样式地板设计。",
+   "zh-TW": "百合嶺樣式地板設計。",
+   "ja": "リリーヒルズ用にデザインされた床材"
+  }
+ },
+ {
+  "slug": "sultana-s-breath-flooring",
+  "en": "Sultana's Breath Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Sultana's Breath Flooring",
+   "zh-CN": "娜娜莫大风车地板",
+   "zh-TW": "娜娜莫大風車地板",
+   "ja": "スルタナズブレス・フローリング"
+  },
+  "desc": {
+   "en": "Floorboards designed to complement Sultana's Breath apartments.",
+   "zh-CN": "娜娜莫大风车样式地板设计。",
+   "zh-TW": "娜娜莫大風車樣式地板設計。",
+   "ja": "ナナモ大風車用にデザインされた床材"
+  }
+ },
+ {
+  "slug": "house-fortemps-chandelier",
+  "en": "House Fortemps Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "House Fortemps Chandelier",
+   "zh-CN": "福尔唐枝形吊灯",
+   "zh-TW": "福爾唐枝形吊燈",
+   "ja": "フォルタン・シャンデリア"
+  },
+  "desc": {
+   "en": "A faithful replica of the grand chandelier found in Fortemps Manor.",
+   "zh-CN": "福尔唐伯爵府同款吊灯。",
+   "zh-TW": "福爾唐伯爵府同款吊燈。",
+   "ja": "フォルタン伯爵邸と同型のシャンデリア"
+  }
+ },
+ {
+  "slug": "carbuncle-cottage-walls",
+  "en": "Carbuncle Cottage Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Carbuncle Cottage Walls",
+   "zh-CN": "小型宝石兽外墙",
+   "zh-TW": "小型寶石獸外牆",
+   "ja": "カーバンクル・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those whose love of their loyal Carbuncle companions transcends a simple pat on the head or scratch under the chin.",
+   "zh-CN": "带有宝石兽图案的小型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有寶石獸圖案的小型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "カーバンクルハウスの意匠を施した小型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "carbuncle-house-walls",
+  "en": "Carbuncle House Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Carbuncle House Walls",
+   "zh-CN": "中型宝石兽外墙",
+   "zh-TW": "中型寶石獸外牆",
+   "ja": "カーバンクル・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those whose love of their loyal Carbuncle companions transcends a simple pat on the head or scratch under the chin.",
+   "zh-CN": "带有宝石兽图案的中型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有寶石獸圖案的中型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "カーバンクルハウスの意匠を施した中型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "carbuncle-mansion-walls",
+  "en": "Carbuncle Mansion Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Carbuncle Mansion Walls",
+   "zh-CN": "大型宝石兽外墙",
+   "zh-TW": "大型寶石獸外牆",
+   "ja": "カーバンクル・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those whose love of their loyal Carbuncle companions transcends a simple pat on the head or scratch under the chin.",
+   "zh-CN": "带有宝石兽图案的大型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有寶石獸圖案的大型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "カーバンクルハウスの意匠を施した大型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "hingan-cottage-roof-mokuzo",
+  "en": "Hingan Cottage Roof (Mokuzo)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Hingan Cottage Roof (Mokuzo)",
+   "zh-CN": "木制东洋小屋房顶",
+   "zh-TW": "木製東洋小屋房頂",
+   "ja": "白銀木造平屋屋根"
+  },
+  "desc": {
+   "en": "A wooden Hingan hiraya-style tiled roof designed exclusively for use with cottages.",
+   "zh-CN": "白银乡样式小型住宅所使用的房顶。",
+   "zh-TW": "白銀鄉樣式小型住宅所使用的房頂。",
+   "ja": "東方風の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "hingan-cottage-roof-nanpu",
+  "en": "Hingan Cottage Roof (Nanpu)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Hingan Cottage Roof (Nanpu)",
+   "zh-CN": "混合制东洋小屋房顶",
+   "zh-TW": "混合制東洋小屋房頂",
+   "ja": "白銀南風平屋屋根"
+  },
+  "desc": {
+   "en": "A southern Hingan hiraya-style tiled roof designed exclusively for use with cottages.",
+   "zh-CN": "白银乡样式小型住宅所使用的房顶。",
+   "zh-TW": "白銀鄉樣式小型住宅所使用的房頂。",
+   "ja": "東方風の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "hingan-cottage-roof-kura-zukuri",
+  "en": "Hingan Cottage Roof (Kura-zukuri)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Hingan Cottage Roof (Kura-zukuri)",
+   "zh-CN": "石制东洋小屋房顶",
+   "zh-TW": "石制東洋小屋房頂",
+   "ja": "白銀蔵造平屋屋根"
+  },
+  "desc": {
+   "en": "A traditional Hingan hiraya-style tiled roof designed exclusively for use with cottages.",
+   "zh-CN": "白银乡样式小型住宅所使用的房顶。",
+   "zh-TW": "白銀鄉樣式小型住宅所使用的房頂。",
+   "ja": "東方風の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "hingan-house-roof-mokuzo",
+  "en": "Hingan House Roof (Mokuzo)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Hingan House Roof (Mokuzo)",
+   "zh-CN": "木制东洋公馆房顶",
+   "zh-TW": "木製東洋公館房頂",
+   "ja": "白銀木造屋敷屋根"
+  },
+  "desc": {
+   "en": "A wooden Hingan yashiki-style tiled roof designed exclusively for use with houses.",
+   "zh-CN": "白银乡样式中型住宅所使用的房顶。",
+   "zh-TW": "白銀鄉樣式中型住宅所使用的房頂。",
+   "ja": "東方風の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "hingan-house-roof-nanpu",
+  "en": "Hingan House Roof (Nanpu)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Hingan House Roof (Nanpu)",
+   "zh-CN": "混合制东洋公馆房顶",
+   "zh-TW": "混合制東洋公館房頂",
+   "ja": "白銀南風屋敷屋根"
+  },
+  "desc": {
+   "en": "A southern Hingan yashiki-style tiled roof designed exclusively for use with houses.",
+   "zh-CN": "白银乡样式中型住宅所使用的房顶。",
+   "zh-TW": "白銀鄉樣式中型住宅所使用的房頂。",
+   "ja": "東方風の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "hingan-house-roof-kura-zukuri",
+  "en": "Hingan House Roof (Kura-zukuri)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Hingan House Roof (Kura-zukuri)",
+   "zh-CN": "石制东洋公馆房顶",
+   "zh-TW": "石制東洋公館房頂",
+   "ja": "白銀蔵造屋敷屋根"
+  },
+  "desc": {
+   "en": "A traditional Hingan yashiki-style tiled roof designed exclusively for use with houses.",
+   "zh-CN": "白银乡样式中型住宅所使用的房顶。",
+   "zh-TW": "白銀鄉樣式中型住宅所使用的房頂。",
+   "ja": "東方風の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "hingan-mansion-roof-mokuzo",
+  "en": "Hingan Mansion Roof (Mokuzo)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Hingan Mansion Roof (Mokuzo)",
+   "zh-CN": "木制东洋别墅房顶",
+   "zh-TW": "木製東洋別墅房頂",
+   "ja": "白銀木造御殿屋根"
+  },
+  "desc": {
+   "en": "A wooden Hingan goten-style tiled roof designed exclusively for use with mansions.",
+   "zh-CN": "白银乡样式大型住宅所使用的房顶。",
+   "zh-TW": "白銀鄉樣式大型住宅所使用的房頂。",
+   "ja": "東方風の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "hingan-mansion-roof-nanpu",
+  "en": "Hingan Mansion Roof (Nanpu)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Hingan Mansion Roof (Nanpu)",
+   "zh-CN": "混合制东洋别墅房顶",
+   "zh-TW": "混合制東洋別墅房頂",
+   "ja": "白銀南風御殿屋根"
+  },
+  "desc": {
+   "en": "A southern Hingan goten-style tiled roof designed exclusively for use with mansions.",
+   "zh-CN": "白银乡样式大型住宅所使用的房顶。",
+   "zh-TW": "白銀鄉樣式大型住宅所使用的房頂。",
+   "ja": "東方風の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "hingan-mansion-roof-kura-zukuri",
+  "en": "Hingan Mansion Roof (Kura-zukuri)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Hingan Mansion Roof (Kura-zukuri)",
+   "zh-CN": "石制东洋别墅房顶",
+   "zh-TW": "石制東洋別墅房頂",
+   "ja": "白銀蔵造御殿屋根"
+  },
+  "desc": {
+   "en": "A traditional Hingan goten-style tiled roof designed exclusively for use with mansions.",
+   "zh-CN": "白银乡样式大型住宅所使用的房顶。",
+   "zh-TW": "白銀鄉樣式大型住宅所使用的房頂。",
+   "ja": "東方風の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "hingan-cottage-wall-mokuzo",
+  "en": "Hingan Cottage Wall (Mokuzo)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Hingan Cottage Wall (Mokuzo)",
+   "zh-CN": "木制东洋小屋外墙",
+   "zh-TW": "木製東洋小屋外牆",
+   "ja": "白銀木造平屋壁"
+  },
+  "desc": {
+   "en": "A wooden Hingan hiraya-style simple wall designed exclusively for use with cottages.",
+   "zh-CN": "白银乡样式小型住宅所使用的外墙。",
+   "zh-TW": "白銀鄉樣式小型住宅所使用的外牆。",
+   "ja": "東方風の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "hingan-cottage-wall-nanpu",
+  "en": "Hingan Cottage Wall (Nanpu)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Hingan Cottage Wall (Nanpu)",
+   "zh-CN": "混合制东洋小屋外墙",
+   "zh-TW": "混合制東洋小屋外牆",
+   "ja": "白銀南風平屋壁"
+  },
+  "desc": {
+   "en": "A southern Hingan hiraya-style painted wall designed exclusively for use with cottages.",
+   "zh-CN": "白银乡样式小型住宅所使用的外墙。",
+   "zh-TW": "白銀鄉樣式小型住宅所使用的外牆。",
+   "ja": "東方風の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "hingan-cottage-wall-kura-zukuri",
+  "en": "Hingan Cottage Wall (Kura-zukuri)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Hingan Cottage Wall (Kura-zukuri)",
+   "zh-CN": "石制东洋小屋外墙",
+   "zh-TW": "石制東洋小屋外牆",
+   "ja": "白銀蔵造平屋壁"
+  },
+  "desc": {
+   "en": "A traditional Hingan hiraya-style earthen wall designed exclusively for use with cottages.",
+   "zh-CN": "白银乡样式小型住宅所使用的外墙。",
+   "zh-TW": "白銀鄉樣式小型住宅所使用的外牆。",
+   "ja": "東方風の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "hingan-house-wall-mokuzo",
+  "en": "Hingan House Wall (Mokuzo)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Hingan House Wall (Mokuzo)",
+   "zh-CN": "木制东洋公馆外墙",
+   "zh-TW": "木製東洋公館外牆",
+   "ja": "白銀木造屋敷壁"
+  },
+  "desc": {
+   "en": "A wooden Hingan yashiki-style simple wall designed exclusively for use with houses.",
+   "zh-CN": "白银乡样式中型住宅所使用的外墙。",
+   "zh-TW": "白銀鄉樣式中型住宅所使用的外牆。",
+   "ja": "東方風の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "hingan-house-wall-nanpu",
+  "en": "Hingan House Wall (Nanpu)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Hingan House Wall (Nanpu)",
+   "zh-CN": "混合制东洋公馆外墙",
+   "zh-TW": "混合制東洋公館外牆",
+   "ja": "白銀南風屋敷壁"
+  },
+  "desc": {
+   "en": "A southern Hingan yashiki-style painted wall designed exclusively for use with houses.",
+   "zh-CN": "白银乡样式中型住宅所使用的外墙。",
+   "zh-TW": "白銀鄉樣式中型住宅所使用的外牆。",
+   "ja": "東方風の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "hingan-house-wall-kura-zukuri",
+  "en": "Hingan House Wall (Kura-zukuri)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Hingan House Wall (Kura-zukuri)",
+   "zh-CN": "石制东洋公馆外墙",
+   "zh-TW": "石制東洋公館外牆",
+   "ja": "白銀蔵造屋敷壁"
+  },
+  "desc": {
+   "en": "A traditional Hingan yashiki-style earthen wall designed exclusively for use with houses.",
+   "zh-CN": "白银乡样式中型住宅所使用的外墙。",
+   "zh-TW": "白銀鄉樣式中型住宅所使用的外牆。",
+   "ja": "東方風の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "hingan-mansion-wall-mokuzo",
+  "en": "Hingan Mansion Wall (Mokuzo)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Hingan Mansion Wall (Mokuzo)",
+   "zh-CN": "木制东洋别墅外墙",
+   "zh-TW": "木製東洋別墅外牆",
+   "ja": "白銀木造御殿壁"
+  },
+  "desc": {
+   "en": "A wooden Hingan goten-style simple wall designed exclusively for use with mansions.",
+   "zh-CN": "白银乡样式大型住宅所使用的外墙。",
+   "zh-TW": "白銀鄉樣式大型住宅所使用的外牆。",
+   "ja": "東方風の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "hingan-mansion-wall-nanpu",
+  "en": "Hingan Mansion Wall (Nanpu)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Hingan Mansion Wall (Nanpu)",
+   "zh-CN": "混合制东洋别墅外墙",
+   "zh-TW": "混合制東洋別墅外牆",
+   "ja": "白銀南風御殿壁"
+  },
+  "desc": {
+   "en": "A southern Hingan goten-style painted wall designed exclusively for use with mansions.",
+   "zh-CN": "白银乡样式大型住宅所使用的外墙。",
+   "zh-TW": "白銀鄉樣式大型住宅所使用的外牆。",
+   "ja": "東方風の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "hingan-mansion-wall-kura-zukuri",
+  "en": "Hingan Mansion Wall (Kura-zukuri)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Hingan Mansion Wall (Kura-zukuri)",
+   "zh-CN": "石制东洋别墅外墙",
+   "zh-TW": "石制東洋別墅外牆",
+   "ja": "白銀蔵造御殿壁"
+  },
+  "desc": {
+   "en": "A traditional Hingan goten-style earthen wall designed exclusively for use with mansions.",
+   "zh-CN": "白银乡样式大型住宅所使用的外墙。",
+   "zh-TW": "白銀鄉樣式大型住宅所使用的外牆。",
+   "ja": "東方風の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "hingan-oblong-window",
+  "en": "Hingan Oblong Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Hingan Oblong Window",
+   "zh-CN": "东洋方窗",
+   "zh-TW": "東洋方窗",
+   "ja": "白銀方形窓"
+  },
+  "desc": {
+   "en": "A Hingan oblong window designed to add a touch of Far Eastern charm to residences.",
+   "zh-CN": "东方样式住宅所使用的方窗。",
+   "zh-TW": "東方樣式住宅所使用的方窗。",
+   "ja": "東方風の住宅に使われる方形の窓"
+  }
+ },
+ {
+  "slug": "hingan-lancet-window",
+  "en": "Hingan Lancet Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Hingan Lancet Window",
+   "zh-CN": "东洋格窗",
+   "zh-TW": "東洋格窗",
+   "ja": "白銀鐘形窓"
+  },
+  "desc": {
+   "en": "A Hingan lancet window designed to add a touch of Far Eastern charm to residences.",
+   "zh-CN": "东方样式住宅所使用的格窗。",
+   "zh-TW": "東方樣式住宅所使用的格窗。",
+   "ja": "東方風の住宅に使われる鐘形の窓"
+  }
+ },
+ {
+  "slug": "hingan-squinch-window",
+  "en": "Hingan Squinch Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Hingan Squinch Window",
+   "zh-CN": "东洋拱窗",
+   "zh-TW": "東洋拱窗",
+   "ja": "白銀迫持窓"
+  },
+  "desc": {
+   "en": "A Hingan squinch window designed to add a touch of Far Eastern charm to residences.",
+   "zh-CN": "东方样式住宅所使用的拱窗。",
+   "zh-TW": "東方樣式住宅所使用的拱窗。",
+   "ja": "東方風の住宅に使われるアーチ型の窓"
+  }
+ },
+ {
+  "slug": "hingan-door-mokuzo",
+  "en": "Hingan Door (Mokuzo)",
+  "fixtureType": "door",
+  "n": {
+   "en": "Hingan Door (Mokuzo)",
+   "zh-CN": "东洋雕花门",
+   "zh-TW": "東洋雕花門",
+   "ja": "白銀木造扉"
+  },
+  "desc": {
+   "en": "A Hingan wooden door designed to add a touch of Far Eastern charm to residences.",
+   "zh-CN": "东方样式住宅所使用的正门，上面刻有雕花。",
+   "zh-TW": "東方樣式住宅所使用的正門，上面刻有雕花。",
+   "ja": "東方風の住宅に使われる玄関扉"
+  }
+ },
+ {
+  "slug": "hingan-door-nanpu",
+  "en": "Hingan Door (Nanpu)",
+  "fixtureType": "door",
+  "n": {
+   "en": "Hingan Door (Nanpu)",
+   "zh-CN": "东洋镶金门",
+   "zh-TW": "東洋鑲金門",
+   "ja": "白銀南風扉"
+  },
+  "desc": {
+   "en": "A Hingan painted door designed to add a touch of Far Eastern charm to residences.",
+   "zh-CN": "东方样式住宅所使用的正门，上面镶有金边。",
+   "zh-TW": "東方樣式住宅所使用的正門，上面鑲有金邊。",
+   "ja": "東方風の住宅に使われる玄関扉"
+  }
+ },
+ {
+  "slug": "hingan-door-kura-zukuri",
+  "en": "Hingan Door (Kura-zukuri)",
+  "fixtureType": "door",
+  "n": {
+   "en": "Hingan Door (Kura-zukuri)",
+   "zh-CN": "东洋描花门",
+   "zh-TW": "東洋描花門",
+   "ja": "白銀蔵造扉"
+  },
+  "desc": {
+   "en": "A Hingan heavy door designed to add a touch of Far Eastern charm to residences.",
+   "zh-CN": "东方样式住宅所使用的正门，上面描绘了图案。",
+   "zh-TW": "東方樣式住宅所使用的正門，上面描繪了圖案。",
+   "ja": "東方風の住宅に使われる玄関扉"
+  }
+ },
+ {
+  "slug": "hingan-watchtower-mokuzo",
+  "en": "Hingan Watchtower (Mokuzo)",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Hingan Watchtower (Mokuzo)",
+   "zh-CN": "东洋木制烟囱",
+   "zh-TW": "東洋木製煙囪",
+   "ja": "白銀木造火見櫓"
+  },
+  "desc": {
+   "en": "A wooden tower known in the Far East as a “hinomi yagura.” Used traditionally to maintain a watch for fires.",
+   "zh-CN": "东方风格的木制屋顶烟囱。",
+   "zh-TW": "東方風格的木製屋頂煙囪。",
+   "ja": "東方風の木造火見櫓"
+  }
+ },
+ {
+  "slug": "hingan-watchtower-nanpu",
+  "en": "Hingan Watchtower (Nanpu)",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Hingan Watchtower (Nanpu)",
+   "zh-CN": "东洋朱漆烟囱",
+   "zh-TW": "東洋朱漆煙囪",
+   "ja": "白銀南風火見櫓"
+  },
+  "desc": {
+   "en": "A painted tower known in the southern islands of Hingashi as a “hinomi yagura.” Used traditionally to maintain a watch for fires.",
+   "zh-CN": "东方风格的朱漆屋顶烟囱。",
+   "zh-TW": "東方風格的朱漆屋頂煙囪。",
+   "ja": "東方風の南風火見櫓"
+  }
+ },
+ {
+  "slug": "hingan-chimney-kura-zukuri",
+  "en": "Hingan Chimney (Kura-zukuri)",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Hingan Chimney (Kura-zukuri)",
+   "zh-CN": "东洋石制烟囱",
+   "zh-TW": "東洋石制煙囪",
+   "ja": "白銀蔵造煙突"
+  },
+  "desc": {
+   "en": "A traditional stone chimney designed in the Hingan style.",
+   "zh-CN": "东方风格的石制屋顶烟囱。",
+   "zh-TW": "東方風格的石制屋頂煙囪。",
+   "ja": "東方風の石造の屋根出し煙突"
+  }
+ },
+ {
+  "slug": "hingan-awning-mokuzo",
+  "en": "Hingan Awning (Mokuzo)",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Hingan Awning (Mokuzo)",
+   "zh-CN": "东洋木制遮蓬",
+   "zh-TW": "東洋木製遮蓬",
+   "ja": "白銀木造日除け"
+  },
+  "desc": {
+   "en": "A simple awning designed to complement wooden Hingan residences.",
+   "zh-CN": "东方样式的遮蓬。",
+   "zh-TW": "東方樣式的遮蓬。",
+   "ja": "東方風の日除け"
+  }
+ },
+ {
+  "slug": "hingan-awning-nanpu",
+  "en": "Hingan Awning (Nanpu)",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Hingan Awning (Nanpu)",
+   "zh-CN": "东洋朱漆遮蓬",
+   "zh-TW": "東洋朱漆遮蓬",
+   "ja": "白銀南風日除け"
+  },
+  "desc": {
+   "en": "A brightly painted awning designed to complement southern Hingan residences.",
+   "zh-CN": "东方样式的遮蓬。",
+   "zh-TW": "東方樣式的遮蓬。",
+   "ja": "東方風の日除け"
+  }
+ },
+ {
+  "slug": "hingan-awning-kura-zukuri",
+  "en": "Hingan Awning (Kura-zukuri)",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Hingan Awning (Kura-zukuri)",
+   "zh-CN": "东洋石制遮蓬",
+   "zh-TW": "東洋石制遮蓬",
+   "ja": "白銀蔵造日除け"
+  },
+  "desc": {
+   "en": "An intricately carved awning designed to complement traditional Hingan residences.",
+   "zh-CN": "东方样式的遮蓬。",
+   "zh-TW": "東方樣式的遮蓬。",
+   "ja": "東方風の日除け"
+  }
+ },
+ {
+  "slug": "hingan-placard-mokuzo",
+  "en": "Hingan Placard (Mokuzo)",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Hingan Placard (Mokuzo)",
+   "zh-CN": "东洋木制门牌",
+   "zh-TW": "東洋木製門牌",
+   "ja": "白銀木造看板"
+  },
+  "desc": {
+   "en": "A handsome placard designed to complement wooden Hingan residences.",
+   "zh-CN": "东方样式的直立门牌。",
+   "zh-TW": "東方樣式的直立門牌。",
+   "ja": "東方風の直付け看板"
+  }
+ },
+ {
+  "slug": "hingan-placard-nanpu",
+  "en": "Hingan Placard (Nanpu)",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Hingan Placard (Nanpu)",
+   "zh-CN": "东洋镶金门牌",
+   "zh-TW": "東洋鑲金門牌",
+   "ja": "白銀南風看板"
+  },
+  "desc": {
+   "en": "A handsome placard designed to complement southern Hingan residences.",
+   "zh-CN": "东方样式的直立门牌。",
+   "zh-TW": "東方樣式的直立門牌。",
+   "ja": "東方風の直付け看板"
+  }
+ },
+ {
+  "slug": "hingan-placard-kura-zukuri",
+  "en": "Hingan Placard (Kura-zukuri)",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Hingan Placard (Kura-zukuri)",
+   "zh-CN": "东洋古典门牌",
+   "zh-TW": "東洋古典門牌",
+   "ja": "白銀蔵造看板"
+  },
+  "desc": {
+   "en": "A handsome placard designed to complement traditional Hingan residences.",
+   "zh-CN": "东方样式的直立门牌。",
+   "zh-TW": "東方樣式的直立門牌。",
+   "ja": "東方風の直付け看板"
+  }
+ },
+ {
+  "slug": "hingan-fence-mokuzo",
+  "en": "Hingan Fence (Mokuzo)",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Hingan Fence (Mokuzo)",
+   "zh-CN": "东洋纹饰围墙",
+   "zh-TW": "東洋紋飾圍牆",
+   "ja": "白銀石塀"
+  },
+  "desc": {
+   "en": "A stone-and-tile Hingan fence designed to add a touch of Far Eastern charm to residences.",
+   "zh-CN": "东方样式住宅所使用的院墙，上面画有古典图案。",
+   "zh-TW": "東方樣式住宅所使用的院牆，上面畫有古典圖案。",
+   "ja": "東方風の住宅に使われる塀"
+  }
+ },
+ {
+  "slug": "hingan-fence-nanpu",
+  "en": "Hingan Fence (Nanpu)",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Hingan Fence (Nanpu)",
+   "zh-CN": "东洋镶金围墙",
+   "zh-TW": "東洋鑲金圍牆",
+   "ja": "白銀南風塀"
+  },
+  "desc": {
+   "en": "A southern Hingan fence designed to add a touch of Far Eastern charm to residences.",
+   "zh-CN": "东方样式住宅所使用的院墙，色彩十分鲜艳。",
+   "zh-TW": "東方樣式住宅所使用的院牆，色彩十分鮮豔。",
+   "ja": "東方風の住宅に使われる塀"
+  }
+ },
+ {
+  "slug": "hingan-fence-kura-zukuri",
+  "en": "Hingan Fence (Kura-zukuri)",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Hingan Fence (Kura-zukuri)",
+   "zh-CN": "东洋石制围墙",
+   "zh-TW": "東洋石制圍牆",
+   "ja": "白銀蔵造塀"
+  },
+  "desc": {
+   "en": "A traditional Hingan stone fence designed to add a touch of Far Eastern charm to residences.",
+   "zh-CN": "东方样式住宅所使用的院墙，由石材堆砌而成。",
+   "zh-TW": "東方樣式住宅所使用的院牆，由石材堆砌而成。",
+   "ja": "東方風の住宅に使われる塀"
+  }
+ },
+ {
+  "slug": "hingan-interior-wall",
+  "en": "Hingan Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Hingan Interior Wall",
+   "zh-CN": "东洋内墙",
+   "zh-TW": "東洋內牆",
+   "ja": "白銀内壁"
+  },
+  "desc": {
+   "en": "An interior wall designed to complement Hingan residences.",
+   "zh-CN": "东方样式的内壁墙壁设计。",
+   "zh-TW": "東方樣式的內壁牆壁設計。",
+   "ja": "東方風の内壁材"
+  }
+ },
+ {
+  "slug": "gold-leaf-interior-wall",
+  "en": "Gold Leaf Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Gold Leaf Interior Wall",
+   "zh-CN": "贴金内墙",
+   "zh-TW": "貼金內牆",
+   "ja": "金箔貼内壁"
+  },
+  "desc": {
+   "en": "An interior wall covered from corner to corner in whisper-thin gold leaf.",
+   "zh-CN": "贴有金箔的内壁墙壁设计。",
+   "zh-TW": "貼有金箔的內壁牆壁設計。",
+   "ja": "金箔が張られた内壁材"
+  }
+ },
+ {
+  "slug": "hingan-flooring",
+  "en": "Hingan Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Hingan Flooring",
+   "zh-CN": "东洋地板",
+   "zh-TW": "東洋地板",
+   "ja": "白銀床板"
+  },
+  "desc": {
+   "en": "Floorboards designed to complement Hingan residences.",
+   "zh-CN": "东方样式的室内地板。",
+   "zh-TW": "東方樣式的室內地板。",
+   "ja": "東方風の床板"
+  }
+ },
+ {
+  "slug": "gold-leaf-flooring",
+  "en": "Gold Leaf Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Gold Leaf Flooring",
+   "zh-CN": "贴金地板",
+   "zh-TW": "貼金地板",
+   "ja": "金箔貼床板"
+  },
+  "desc": {
+   "en": "Hardwood floorboards covered in a thin layer of meticulously applied gold leaf.",
+   "zh-CN": "贴有金箔的室内地板。",
+   "zh-TW": "貼有金箔的室內地板。",
+   "ja": "金箔が張られた床材"
+  }
+ },
+ {
+  "slug": "hingan-hanging-bonbori-lamp",
+  "en": "Hingan Hanging Bonbori Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Hingan Hanging Bonbori Lamp",
+   "zh-CN": "东洋吊顶雪洞灯",
+   "zh-TW": "東洋吊頂雪洞燈",
+   "ja": "白銀吊りぼんぼり"
+  },
+  "desc": {
+   "en": "An oblate lamp designed to complement Hingan residences.",
+   "zh-CN": "东方样式的吊顶雪洞灯。",
+   "zh-TW": "東方樣式的吊頂雪洞燈。",
+   "ja": "東方風の吊りぼんぼり"
+  }
+ },
+ {
+  "slug": "hingan-hanging-andon-lamp",
+  "en": "Hingan Hanging Andon Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Hingan Hanging Andon Lamp",
+   "zh-CN": "东洋吊顶行灯",
+   "zh-TW": "東洋吊頂行燈",
+   "ja": "白銀吊り行燈"
+  },
+  "desc": {
+   "en": "An octagonal ceiling lamp designed to complement Hingan residences.",
+   "zh-CN": "东方样式的吊顶行灯。",
+   "zh-TW": "東方樣式的吊頂行燈。",
+   "ja": "東方風の吊り行燈"
+  }
+ },
+ {
+  "slug": "hingan-hanging-toro-lamp",
+  "en": "Hingan Hanging Toro Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Hingan Hanging Toro Lamp",
+   "zh-CN": "东洋吊顶灯笼",
+   "zh-TW": "東洋吊頂燈籠",
+   "ja": "白銀吊り灯篭"
+  },
+  "desc": {
+   "en": "A multi-sided lamp designed to complement Hingan residences.",
+   "zh-CN": "东方样式的吊顶灯笼。",
+   "zh-TW": "東方樣式的吊頂燈籠。",
+   "ja": "東方風の吊り灯篭"
+  }
+ },
+ {
+  "slug": "small-shirogane-castle-walls",
+  "en": "Small Shirogane Castle Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Small Shirogane Castle Walls",
+   "zh-CN": "小型东洋城堡外墙",
+   "zh-TW": "小型東洋城堡外牆",
+   "ja": "白銀城造平屋壁"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a traditional Hingan castle.",
+   "zh-CN": "小型东洋城堡的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "小型東洋城堡的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "小型の東方城塞の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "medium-shirogane-castle-walls",
+  "en": "Medium Shirogane Castle Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Medium Shirogane Castle Walls",
+   "zh-CN": "中型东洋城堡外墙",
+   "zh-TW": "中型東洋城堡外牆",
+   "ja": "白銀城造屋敷壁"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a traditional Hingan castle.",
+   "zh-CN": "中型东洋城堡的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "中型東洋城堡的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "中型の東方城塞の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "large-shirogane-castle-walls",
+  "en": "Large Shirogane Castle Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Large Shirogane Castle Walls",
+   "zh-CN": "大型东洋城堡外墙",
+   "zh-TW": "大型東洋城堡外牆",
+   "ja": "白銀城造御殿壁"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a traditional Hingan castle.",
+   "zh-CN": "大型东洋城堡的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "大型東洋城堡的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "大型の東方城塞の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "house-borel-interior-wall",
+  "en": "House Borel Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "House Borel Interior Wall",
+   "zh-CN": "博雷尔内墙",
+   "zh-TW": "博雷爾內牆",
+   "ja": "ボーレルインナーウォール"
+  },
+  "desc": {
+   "en": "A wall that matches the design of those used in Aymeric de Borel's very manor.",
+   "zh-CN": "博雷尔子爵府使用的内壁墙壁设计。",
+   "zh-TW": "博雷爾子爵府使用的內壁牆壁設計。",
+   "ja": "ボーレル子爵邸で用いられている内壁材"
+  }
+ },
+ {
+  "slug": "white-marble-flooring",
+  "en": "White Marble Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "White Marble Flooring",
+   "zh-CN": "白色大理石地板",
+   "zh-TW": "白色大理石地板",
+   "ja": "ホワイトマーブルフローリング"
+  },
+  "desc": {
+   "en": "Smooth, elegant floor tiling made of polished marble.",
+   "zh-CN": "用大理石打磨出的房屋地板。",
+   "zh-TW": "用大理石打磨出的房屋地板。",
+   "ja": "大理石の床材"
+  }
+ },
+ {
+  "slug": "classic-chandelier",
+  "en": "Classic Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Classic Chandelier",
+   "zh-CN": "古典枝形吊灯",
+   "zh-TW": "古典枝形吊燈",
+   "ja": "クラシックシャンデリア"
+  },
+  "desc": {
+   "en": "A lavish light fixture that hearkens to days long past.",
+   "zh-CN": "具有古典气息的枝形吊灯。",
+   "zh-TW": "具有古典氣息的枝形吊燈。",
+   "ja": "クラシックな雰囲気のシャンデリア"
+  }
+ },
+ {
+  "slug": "authentic-eggstravagant-interior-wall",
+  "en": "Authentic Eggstravagant Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Authentic Eggstravagant Interior Wall",
+   "zh-CN": "特制预言蛋内墙",
+   "zh-TW": "特製預言蛋內牆",
+   "ja": "アルコンエッグ・インナーウォールEX"
+  },
+  "desc": {
+   "en": "An authentic reproduction of an interior wall designed to complement private Hatching–tide celebrations.",
+   "zh-CN": "彩蛋～彩蛋～大彩蛋～大家一起来收集彩蛋吧！",
+   "zh-TW": "彩蛋～彩蛋～大彩蛋～大家一起來收集彩蛋吧！",
+   "ja": "エッグハントの意匠を施した内壁材"
+  }
+ },
+ {
+  "slug": "solid-brick-interior-wall",
+  "en": "Solid-brick Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Solid-brick Interior Wall",
+   "zh-CN": "红砖内墙",
+   "zh-TW": "紅磚內牆",
+   "ja": "ソリッドブリック・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall of rustic red brick.",
+   "zh-CN": "使用了砖块的内壁墙壁设计。",
+   "zh-TW": "使用了磚塊的內壁牆壁設計。",
+   "ja": "レンガを用いた内壁材"
+  }
+ },
+ {
+  "slug": "unfinished-wood-flooring",
+  "en": "Unfinished Wood Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Unfinished Wood Flooring",
+   "zh-CN": "白色木地板",
+   "zh-TW": "白色木地板",
+   "ja": "白木床"
+  },
+  "desc": {
+   "en": "Natural flooring made of unvarnished wood.",
+   "zh-CN": "没有涂蜡油的房屋地板。",
+   "zh-TW": "沒有塗蠟油的房屋地板。",
+   "ja": "ワックスの塗られていない木製の床材"
+  }
+ },
+ {
+  "slug": "odder-otter-hanging-andon-lamp",
+  "en": "Odder Otter Hanging Andon Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Odder Otter Hanging Andon Lamp",
+   "zh-CN": "獭獭吊顶行灯",
+   "zh-TW": "獺獺吊頂行燈",
+   "ja": "ウソウソ吊り行燈"
+  },
+  "desc": {
+   "en": "A festive ceiling lamp with an odder otter motif.",
+   "zh-CN": "带有獭獭图案的吊顶行灯。",
+   "zh-TW": "帶有獺獺圖案的吊頂行燈。",
+   "ja": "ウソウソの意匠を施した吊り行燈"
+  }
+ },
+ {
+  "slug": "odder-otter-cottage-walls",
+  "en": "Odder Otter Cottage Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Odder Otter Cottage Walls",
+   "zh-CN": "小型獭獭外墙",
+   "zh-TW": "小型獺獺外牆",
+   "ja": "ウソウソ・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls for those who wish to make their homes a bit odder.",
+   "zh-CN": "带有獭獭图案的小型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有獺獺圖案的小型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "ウソウソの意匠を施した小型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "odder-otter-house-walls",
+  "en": "Odder Otter House Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Odder Otter House Walls",
+   "zh-CN": "中型獭獭外墙",
+   "zh-TW": "中型獺獺外牆",
+   "ja": "ウソウソ・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls for those who wish to make their homes somewhat odder.",
+   "zh-CN": "带有獭獭图案的中型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有獺獺圖案的中型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "ウソウソの意匠を施した中型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "odder-otter-mansion-walls",
+  "en": "Odder Otter Mansion Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Odder Otter Mansion Walls",
+   "zh-CN": "大型獭獭外墙",
+   "zh-TW": "大型獺獺外牆",
+   "ja": "ウソウソ・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls for those who wish to make their homes much odder.",
+   "zh-CN": "带有獭獭图案的大型房屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "帶有獺獺圖案的大型房屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "ウソウソの意匠を施した大型ハウス用の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "carpeting",
+  "en": "Carpeting",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Carpeting",
+   "zh-CN": "绒毯",
+   "zh-TW": "絨毯",
+   "ja": "カーペット"
+  },
+  "desc": {
+   "en": "Durable yet fuzzy loop carpet with a checkerboard pattern.",
+   "zh-CN": "用绒毯铺设的房屋地板。",
+   "zh-TW": "用絨毯鋪設的房屋地板。",
+   "ja": "絨毯の床材"
+  }
+ },
+ {
+  "slug": "divine-chandelier",
+  "en": "Divine Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Divine Chandelier",
+   "zh-CN": "十二神吊灯",
+   "zh-TW": "十二神吊燈",
+   "ja": "トゥエルブシャンデリア"
+  },
+  "desc": {
+   "en": "A contemporary light fixture designed with the Twelve as its primary theme.",
+   "zh-CN": "以十二神为概念设计出的吊灯。",
+   "zh-TW": "以十二神爲概念設計出的吊燈。",
+   "ja": "エオルゼア十二神の意匠を施したシャンデリア"
+  }
+ },
+ {
+  "slug": "unfinished-interior-wall",
+  "en": "Unfinished Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Unfinished Interior Wall",
+   "zh-CN": "白色木墙",
+   "zh-TW": "白色木牆",
+   "ja": "白木内壁"
+  },
+  "desc": {
+   "en": "An interior wall of pale unvarnished wood.",
+   "zh-CN": "没有涂蜡油的木制内墙。",
+   "zh-TW": "沒有塗蠟油的木製內牆。",
+   "ja": "ワックスの塗られていない木製の内壁材"
+  }
+ },
+ {
+  "slug": "golden-upholstered-interior-wall",
+  "en": "Golden Upholstered Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Golden Upholstered Interior Wall",
+   "zh-CN": "金织内墙",
+   "zh-TW": "金織內牆",
+   "ja": "ゴールデンキルト・インナーウォール"
+  },
+  "desc": {
+   "en": "A shining plush wall designed to complement excessively gaudy residences.",
+   "zh-CN": "闪耀着金色交错编织图案的内壁墙壁设计。",
+   "zh-TW": "閃耀着金色交錯編織圖案的內壁牆壁設計。",
+   "ja": "金色に輝くキルト柄の内壁材"
+  }
+ },
+ {
+  "slug": "golden-kasamatsu-interior-wall",
+  "en": "Golden Kasamatsu Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Golden Kasamatsu Interior Wall",
+   "zh-CN": "金箔笠松内墙",
+   "zh-TW": "金箔笠松內牆",
+   "ja": "金箔笠松内壁"
+  },
+  "desc": {
+   "en": "A glimmering wall filigreed with a Far Eastern pine motif.",
+   "zh-CN": "用金箔装饰出笠松图案的内壁墙壁设计。",
+   "zh-TW": "用金箔裝飾出笠松圖案的內壁牆壁設計。",
+   "ja": "金箔で飾られた笠松模様の内壁材"
+  }
+ },
+ {
+  "slug": "teal-blue-carpeting",
+  "en": "Teal Blue Carpeting",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Teal Blue Carpeting",
+   "zh-CN": "淡青色地毯",
+   "zh-TW": "淡青色地毯",
+   "ja": "パールブルーカーペット"
+  },
+  "desc": {
+   "en": "Durable yet fuzzy loop carpet in a soothing blue-green.",
+   "zh-CN": "淡青色的地毯。",
+   "zh-TW": "淡青色的地毯。",
+   "ja": "薄青色の絨毯の床材"
+  }
+ },
+ {
+  "slug": "black-and-white-interior-wall",
+  "en": "Black-and-white Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Black-and-white Interior Wall",
+   "zh-CN": "边境内墙",
+   "zh-TW": "邊境內牆",
+   "ja": "ボーダーインナーウォール"
+  },
+  "desc": {
+   "en": "A wooden interior wall painted with a monochrome pattern of wide horizontal stripes.",
+   "zh-CN": "黑与白横纹样式内壁墙壁设计。",
+   "zh-TW": "黑與白橫紋樣式內壁牆壁設計。",
+   "ja": "白と黒の横縞模様でデザインされた内壁材"
+  }
+ },
+ {
+  "slug": "carbuncle-chandelier",
+  "en": "Carbuncle Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Carbuncle Chandelier",
+   "zh-CN": "宝石兽吊灯",
+   "zh-TW": "寶石獸吊燈",
+   "ja": "カーバンクルシャンデリア"
+  },
+  "desc": {
+   "en": "Because who doesn't want to be welcomed home from a hard day's adventuring by a few Carbuncles dangling from their ceiling?",
+   "zh-CN": "带有宝石兽图案的吊灯。",
+   "zh-TW": "帶有寶石獸圖案的吊燈。",
+   "ja": "カーバンクルの意匠を施したシャンデリア"
+  }
+ },
+ {
+  "slug": "walnut-interior-wall",
+  "en": "Walnut Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Walnut Interior Wall",
+   "zh-CN": "胡桃木内墙",
+   "zh-TW": "胡桃木內牆",
+   "ja": "ウォルナットインナーウォール"
+  },
+  "desc": {
+   "en": "A rustic interior wall of simple wooden boards.",
+   "zh-CN": "用胡桃木做出的房屋内壁。",
+   "zh-TW": "用胡桃木做出的房屋內壁。",
+   "ja": "ウォルナット材の内壁材"
+  }
+ },
+ {
+  "slug": "brick-flooring",
+  "en": "Brick Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Brick Flooring",
+   "zh-CN": "砖块地板",
+   "zh-TW": "磚塊地板",
+   "ja": "ブリックフローリング"
+  },
+  "desc": {
+   "en": "Flooring of evenly laid red brick that calls to mind urban spaces.",
+   "zh-CN": "砖块风格的地板。",
+   "zh-TW": "磚塊風格的地板。",
+   "ja": "レンガ調の床板"
+  }
+ },
+ {
+  "slug": "crystarium-chandelier",
+  "en": "Crystarium Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Crystarium Chandelier",
+   "zh-CN": "水晶都吊灯",
+   "zh-TW": "水晶都吊燈",
+   "ja": "クリスタリウムシャンデリア"
+  },
+  "desc": {
+   "en": "A bright and elegant ceiling light identical to those found throughout the Crystarium.",
+   "zh-CN": "水晶都样式的华丽吊灯。",
+   "zh-TW": "水晶都樣式的華麗吊燈。",
+   "ja": "クリスタリウム様式の華やかなシャンデリア"
+  }
+ },
+ {
+  "slug": "eulmoran-inner-wall",
+  "en": "Eulmoran Inner Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Eulmoran Inner Wall",
+   "zh-CN": "游末邦内墙",
+   "zh-TW": "遊末邦內牆",
+   "ja": "ユールモア・インナーウォール"
+  },
+  "desc": {
+   "en": "A deep scarlet interior wall with a slightly rough texture for those estate owners who wish to recreate the opulence of Eulmore.",
+   "zh-CN": "游末邦样式的红色内壁墙壁设计。",
+   "zh-TW": "遊末邦樣式的紅色內壁牆壁設計。",
+   "ja": "ユールモア様式の真紅の内壁材"
+  }
+ },
+ {
+  "slug": "eulmoran-marble-flooring",
+  "en": "Eulmoran Marble Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Eulmoran Marble Flooring",
+   "zh-CN": "游末邦大理石地板",
+   "zh-TW": "遊末邦大理石地板",
+   "ja": "ユールモア・マーブルフローリング"
+  },
+  "desc": {
+   "en": "Smooth, elegant floor tiling made of deep green marble.",
+   "zh-CN": "游末邦样式的绿色大理石地板。",
+   "zh-TW": "遊末邦樣式的綠色大理石地板。",
+   "ja": "ユールモア様式の緑がかった大理石の床材"
+  }
+ },
+ {
+  "slug": "eulmoran-chandelier",
+  "en": "Eulmoran Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Eulmoran Chandelier",
+   "zh-CN": "游末邦枝形吊灯",
+   "zh-TW": "遊末邦枝形吊燈",
+   "ja": "ユールモア・シャンデリア"
+  },
+  "desc": {
+   "en": "A bright and elegant ceiling light identical to those found throughout Eulmore.",
+   "zh-CN": "游末邦样式的枝形吊灯。",
+   "zh-TW": "遊末邦樣式的枝形吊燈。",
+   "ja": "ユールモア様式の豪奢なシャンデリア"
+  }
+ },
+ {
+  "slug": "trader-s-cottage-walls",
+  "en": "Trader's Cottage Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Trader's Cottage Walls",
+   "zh-CN": "小型贸易商外墙",
+   "zh-TW": "小型貿易商外牆",
+   "ja": "トレーダー・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a trader's shop.",
+   "zh-CN": "小型贸易商的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "小型貿易商的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "小型商店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "trader-s-house-walls",
+  "en": "Trader's House Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Trader's House Walls",
+   "zh-CN": "中型贸易商外墙",
+   "zh-TW": "中型貿易商外牆",
+   "ja": "トレーダー・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a trader's shop.",
+   "zh-CN": "中型贸易商的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "中型貿易商的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "中型商店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "trader-s-mansion-walls",
+  "en": "Trader's Mansion Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Trader's Mansion Walls",
+   "zh-CN": "大型贸易商外墙",
+   "zh-TW": "大型貿易商外牆",
+   "ja": "トレーダー・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a trader's shop.",
+   "zh-CN": "大型贸易商的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "大型貿易商的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "大型商店の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "half-timbered-cottage-walls",
+  "en": "Half-timbered Cottage Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Half-timbered Cottage Walls",
+   "zh-CN": "小型半木外墙",
+   "zh-TW": "小型半木外牆",
+   "ja": "ハーフティンバー・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a quaint mercantile establishment.",
+   "zh-CN": "小型店铺的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "小型店鋪的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "小型店舗の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "half-timbered-house-walls",
+  "en": "Half-timbered House Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Half-timbered House Walls",
+   "zh-CN": "中型半木外墙",
+   "zh-TW": "中型半木外牆",
+   "ja": "ハーフティンバー・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a quaint mercantile establishment.",
+   "zh-CN": "中型店铺的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "中型店鋪的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "中型店舗の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "half-timbered-mansion-walls",
+  "en": "Half-timbered Mansion Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Half-timbered Mansion Walls",
+   "zh-CN": "大型半木外墙",
+   "zh-TW": "大型半木外牆",
+   "ja": "ハーフティンバー・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a quaint mercantile establishment.",
+   "zh-CN": "大型店铺的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "大型店鋪的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "大型店舗の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "rough-stone-interior-wall",
+  "en": "Rough Stone Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Rough Stone Interior Wall",
+   "zh-CN": "石堆内墙",
+   "zh-TW": "石堆內牆",
+   "ja": "ラフストーン・インナーウォール"
+  },
+  "desc": {
+   "en": "An imposing interior wall of haphazardly arranged hunks of stone.",
+   "zh-CN": "不平滑的石堆风格内壁墙壁设计。",
+   "zh-TW": "不平滑的石堆風格內壁牆壁設計。",
+   "ja": "不揃いな石積み風の内壁材"
+  }
+ },
+ {
+  "slug": "rough-stone-flooring",
+  "en": "Rough Stone Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Rough Stone Flooring",
+   "zh-CN": "石堆地板",
+   "zh-TW": "石堆地板",
+   "ja": "ラフストーン・フローリング"
+  },
+  "desc": {
+   "en": "Unpolished flagstone—for everyone's favorite seedy tavern ambience.",
+   "zh-CN": "不平滑的石堆风格地板。",
+   "zh-TW": "不平滑的石堆風格地板。",
+   "ja": "不揃いな石畳風の床板"
+  }
+ },
+ {
+  "slug": "wooden-chandelier",
+  "en": "Wooden Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Wooden Chandelier",
+   "zh-CN": "木头吊灯",
+   "zh-TW": "木頭吊燈",
+   "ja": "ウッドシャンデリア"
+  },
+  "desc": {
+   "en": "Ideal for swinging on with roguish grace—though do try not to burn the place down.",
+   "zh-CN": "朴素的木制吊灯。",
+   "zh-TW": "樸素的木製吊燈。",
+   "ja": "素朴な木製のシャンデリア"
+  }
+ },
+ {
+  "slug": "small-smithy-walls",
+  "en": "Small Smithy Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Small Smithy Walls",
+   "zh-CN": "小型锻铁匠外墙",
+   "zh-TW": "小型鍛鐵匠外牆",
+   "ja": "アンビル・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to give their estate hall a smithy-inspired look.",
+   "zh-CN": "具备铁砧装饰的小型锻铁匠外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "具備鐵砧裝飾的小型鍛鐵匠外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "鉄床をあしらった小型の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "medium-smithy-walls",
+  "en": "Medium Smithy Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Medium Smithy Walls",
+   "zh-CN": "中型锻铁匠外墙",
+   "zh-TW": "中型鍛鐵匠外牆",
+   "ja": "アンビル・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to give their estate hall a smithy-inspired look.",
+   "zh-CN": "具备铁砧装饰的中型锻铁匠外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "具備鐵砧裝飾的中型鍛鐵匠外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "鉄床をあしらった中型の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "large-smithy-walls",
+  "en": "Large Smithy Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Large Smithy Walls",
+   "zh-CN": "大型锻铁匠外墙",
+   "zh-TW": "大型鍛鐵匠外牆",
+   "ja": "アンビル・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to give their estate hall a smithy-inspired look.",
+   "zh-CN": "具备铁砧装饰的大型锻铁匠外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "具備鐵砧裝飾的大型鍛鐵匠外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "鉄床をあしらった大型の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "factory-interior-wall",
+  "en": "Factory Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Factory Interior Wall",
+   "zh-CN": "复制内墙",
+   "zh-TW": "複製內牆",
+   "ja": "複製サレタ内壁"
+  },
+  "desc": {
+   "en": "An industrial wall resembling those seen in the Copied Factory.",
+   "zh-CN": "复制工厂样式的内壁墙壁设计。",
+   "zh-TW": "複製工廠樣式的內壁牆壁設計。",
+   "ja": "複製サレタ工場風の内壁材"
+  }
+ },
+ {
+  "slug": "factory-flooring",
+  "en": "Factory Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Factory Flooring",
+   "zh-CN": "复制地板",
+   "zh-TW": "複製地板",
+   "ja": "複製サレタ床板"
+  },
+  "desc": {
+   "en": "Rusted metal factory flooring.",
+   "zh-CN": "复制工厂样式的室内地板。",
+   "zh-TW": "複製工廠樣式的室內地板。",
+   "ja": "複製サレタ工場風の床板"
+  }
+ },
+ {
+  "slug": "factory-chandelier",
+  "en": "Factory Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Factory Chandelier",
+   "zh-CN": "复制屋顶照明",
+   "zh-TW": "複製屋頂照明",
+   "ja": "複製サレタ天井照明"
+  },
+  "desc": {
+   "en": "A rusted metal lighting fixture unlike any to which you are accustomed.",
+   "zh-CN": "复制工厂样式的屋顶照明。",
+   "zh-TW": "複製工廠樣式的屋頂照明。",
+   "ja": "複製サレタ工場風の天井照明"
+  }
+ },
+ {
+  "slug": "herringbone-flooring",
+  "en": "Herringbone Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Herringbone Flooring",
+   "zh-CN": "人字形地板",
+   "zh-TW": "人字形地板",
+   "ja": "ヘリンボーン・フローリング"
+  },
+  "desc": {
+   "en": "Most herring would argue that their bones bear little resemblance to this flooring design.",
+   "zh-CN": "组成人字形图案的木质地板。",
+   "zh-TW": "組成人字形圖案的木質地板。",
+   "ja": "ヘリンボーン模様に組まれた木製の床材"
+  }
+ },
+ {
+  "slug": "skylight-chandelier",
+  "en": "Skylight Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Skylight Chandelier",
+   "zh-CN": "天窗吊灯",
+   "zh-TW": "天窗吊燈",
+   "ja": "スカイライト・シャンデリア"
+  },
+  "desc": {
+   "en": "This exquisite piece utilizes natural sunlight to provide illumination. How it continues to work at night, however, is a closely guarded secret.",
+   "zh-CN": "亮度接近自然光的时尚吊灯。",
+   "zh-TW": "亮度接近自然光的時尚吊燈。",
+   "ja": "自然光に近い光を灯すおしゃれなシャンデリア"
+  }
+ },
+ {
+  "slug": "varied-wood-interior-wall",
+  "en": "Varied Wood Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Varied Wood Interior Wall",
+   "zh-CN": "混合木制内墙",
+   "zh-TW": "混合木製內牆",
+   "ja": "ランダムウッド・インナーウォール"
+  },
+  "desc": {
+   "en": "While the wooden pieces may appear to be randomly placed, there is method in the madness. Or possibly madness in the method.",
+   "zh-CN": "随机选用各种色泽的木材组建成的内墙。",
+   "zh-TW": "隨機選用各種色澤的木材組建成的內牆。",
+   "ja": "ランダムな色合いで組まれた木製の内壁材"
+  }
+ },
+ {
+  "slug": "small-florist-s-walls",
+  "en": "Small Florist's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Small Florist's Walls",
+   "zh-CN": "小型花店外墙",
+   "zh-TW": "小型花店外牆",
+   "ja": "フローリスト・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to bedeck their home with an abundance of flowers. Allergy sufferers beware.",
+   "zh-CN": "整体用鲜花装饰的小型花店外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "整體用鮮花裝飾的小型花店外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "満遍なく花をあしらった小型の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "medium-florist-s-walls",
+  "en": "Medium Florist's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Medium Florist's Walls",
+   "zh-CN": "中型花店外墙",
+   "zh-TW": "中型花店外牆",
+   "ja": "フローリスト・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to bedeck their home with an abundance of flowers—and be forever dusting the pollen from their deck chairs.",
+   "zh-CN": "整体用鲜花装饰的中型花店外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "整體用鮮花裝飾的中型花店外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "満遍なく花をあしらった中型の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "large-florist-s-walls",
+  "en": "Large Florist's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Large Florist's Walls",
+   "zh-CN": "大型花店外墙",
+   "zh-TW": "大型花店外牆",
+   "ja": "フローリスト・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to bedeck their home with an abundance of flowers. Note that certain flora are known to attract murderbees.",
+   "zh-CN": "整体用鲜花装饰的大型花店外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "整體用鮮花裝飾的大型花店外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "満遍なく花をあしらった大型の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "small-forge-s-walls",
+  "en": "Small Forge's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Small Forge's Walls",
+   "zh-CN": "小型锻冶工房外墙",
+   "zh-TW": "小型鍛冶工房外牆",
+   "ja": "フォージ・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a forge.",
+   "zh-CN": "小型锻冶工房的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "小型鍛冶工房的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "小型鍛冶場の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "medium-forge-s-walls",
+  "en": "Medium Forge's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Medium Forge's Walls",
+   "zh-CN": "中型锻冶工房外墙",
+   "zh-TW": "中型鍛冶工房外牆",
+   "ja": "フォージ・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a forge.",
+   "zh-CN": "中型锻冶工房的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "中型鍛冶工房的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "中型鍛冶場の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "large-forge-s-walls",
+  "en": "Large Forge's Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Large Forge's Walls",
+   "zh-CN": "大型锻冶工房外墙",
+   "zh-TW": "大型鍛冶工房外牆",
+   "ja": "フォージ・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a forge.",
+   "zh-CN": "大型锻冶工房的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "大型鍛冶工房的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "大型鍛冶場の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "storm-blue-interior-wall",
+  "en": "Storm Blue Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Storm Blue Interior Wall",
+   "zh-CN": "暴风蓝内墙",
+   "zh-TW": "暴風藍內牆",
+   "ja": "ストームブルー・インナーウォール"
+  },
+  "desc": {
+   "en": "A blue interior wall for those estate owners who wish to make a simple statement.",
+   "zh-CN": "藏青色的内壁墙壁设计。",
+   "zh-TW": "藏青色的內壁牆壁設計。",
+   "ja": "紺色の内壁材"
+  }
+ },
+ {
+  "slug": "cream-yellow-carpet",
+  "en": "Cream Yellow Carpet",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Cream Yellow Carpet",
+   "zh-CN": "奶油黄地毯",
+   "zh-TW": "奶油黃地毯",
+   "ja": "クリームイエローカーペット"
+  },
+  "desc": {
+   "en": "Durable-yet-fuzzy loop carpet in a cozy cream yellow.",
+   "zh-CN": "淡黄色的地毯。",
+   "zh-TW": "淡黃色的地毯。",
+   "ja": "淡黄色の絨毯の床材"
+  }
+ },
+ {
+  "slug": "cloud-acorn-chandelier",
+  "en": "Cloud Acorn Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Cloud Acorn Chandelier",
+   "zh-CN": "云海橡果吊灯",
+   "zh-TW": "雲海橡果吊燈",
+   "ja": "クラウドエーコン・シャンデリア"
+  },
+  "desc": {
+   "en": "“Quaint” does not begin to describe this chandelier made with cloud acorns still hanging on the branch.",
+   "zh-CN": "用原产于阿巴拉提亚云海的大橡果制作的吊灯。",
+   "zh-TW": "用原產於阿巴拉提亞雲海的大橡果製作的吊燈。",
+   "ja": "アバラシア雲海原産の巨大ドングリを用いたシャンデリア"
+  }
+ },
+ {
+  "slug": "garlean-concrete-inner-wall",
+  "en": "Garlean Concrete Inner Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Garlean Concrete Inner Wall",
+   "zh-CN": "加雷马混凝土内墙",
+   "zh-TW": "加雷馬混凝土內牆",
+   "ja": "ガレアンコンクリート・インナーウォール"
+  },
+  "desc": {
+   "en": "A cold, stark interior wall for those who fear their home is becoming a little *too* cozy.",
+   "zh-CN": "使用了加雷马人发明的混凝土的内壁墙壁设计。",
+   "zh-TW": "使用了加雷馬人發明的混凝土的內壁牆壁設計。",
+   "ja": "ガレアン族が考案したコンクリートを用いた内壁材"
+  }
+ },
+ {
+  "slug": "varied-wood-flooring",
+  "en": "Varied Wood Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Varied Wood Flooring",
+   "zh-CN": "撞色木纹地板",
+   "zh-TW": "撞色木紋地板",
+   "ja": "ランダムウッド・モノクロームフローリング"
+  },
+  "desc": {
+   "en": "This style of flooring is also known as “carpenters' leftovers.”",
+   "zh-CN": "将许多种木料随机拼接在一起组成的木质地板。",
+   "zh-TW": "將許多種木料隨機拼接在一起組成的木質地板。",
+   "ja": "複数種類の材木をランダムに組み合わせた床材"
+  }
+ },
+ {
+  "slug": "leafy-ceiling-lamp",
+  "en": "Leafy Ceiling Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Leafy Ceiling Lamp",
+   "zh-CN": "浓翠吊灯",
+   "zh-TW": "濃翠吊燈",
+   "ja": "リーフィ・シーリングランプ"
+  },
+  "desc": {
+   "en": "Ceiling-mounted lighting designed to resemble a ceiling-mounted, glowing bush.",
+   "zh-CN": "一种精心设计的吊灯，在灯罩上装饰了大量的植物，营造出一种日光投下树影的自然氛围。",
+   "zh-TW": "一種精心設計的吊燈，在燈罩上裝飾了大量的植物，營造出一種日光投下樹影的自然氛圍。",
+   "ja": "カバーに植物を配して木漏れ日風に演出した天井照明"
+  }
+ },
+ {
+  "slug": "small-cafe-walls",
+  "en": "Small Cafe Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Small Cafe Walls",
+   "zh-CN": "小型咖啡馆外墙",
+   "zh-TW": "小型咖啡館外牆",
+   "ja": "カフェ・コテージウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a café.",
+   "zh-CN": "小型咖啡店的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "小型咖啡店的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "小型カフェの外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "medium-cafe-walls",
+  "en": "Medium Cafe Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Medium Cafe Walls",
+   "zh-CN": "中型咖啡馆外墙",
+   "zh-TW": "中型咖啡館外牆",
+   "ja": "カフェ・ハウスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a café.",
+   "zh-CN": "中型咖啡店的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "中型咖啡店的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "中型カフェの外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "large-cafe-walls",
+  "en": "Large Cafe Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Large Cafe Walls",
+   "zh-CN": "大型咖啡馆外墙",
+   "zh-TW": "大型咖啡館外牆",
+   "ja": "カフェ・レジデンスウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a café.",
+   "zh-CN": "大型咖啡店的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "大型咖啡店的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "大型カフェの外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "highland-cottage-roof-wood",
+  "en": "Highland Cottage Roof (Wood)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Highland Cottage Roof (Wood)",
+   "zh-CN": "木制雪峰小屋房顶",
+   "zh-TW": "木製雪峯小屋房頂",
+   "ja": "クルザン・ウッドコテージ・ルーフ"
+  },
+  "desc": {
+   "en": "A highland wooden roof designed exclusively for use with cottages.",
+   "zh-CN": "库尔札斯样式小型住宅所使用的房顶。",
+   "zh-TW": "庫爾札斯樣式小型住宅所使用的房頂。",
+   "ja": "クルザス様式の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "highland-cottage-roof-stone",
+  "en": "Highland Cottage Roof (Stone)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Highland Cottage Roof (Stone)",
+   "zh-CN": "石制雪峰小屋房顶",
+   "zh-TW": "石制雪峯小屋房頂",
+   "ja": "クルザン・ストーンコテージ・ルーフ"
+  },
+  "desc": {
+   "en": "A highland stone roof designed exclusively for use with cottages.",
+   "zh-CN": "库尔札斯样式小型住宅所使用的房顶。",
+   "zh-TW": "庫爾札斯樣式小型住宅所使用的房頂。",
+   "ja": "クルザス様式の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "highland-cottage-roof-composite",
+  "en": "Highland Cottage Roof (Composite)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Highland Cottage Roof (Composite)",
+   "zh-CN": "混合制雪峰小屋房顶",
+   "zh-TW": "混合制雪峯小屋房頂",
+   "ja": "クルザン・コンポジットコテージ・ルーフ"
+  },
+  "desc": {
+   "en": "A highland composite roof designed exclusively for use with cottages.",
+   "zh-CN": "库尔札斯样式小型住宅所使用的房顶。",
+   "zh-TW": "庫爾札斯樣式小型住宅所使用的房頂。",
+   "ja": "クルザス様式の小型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "highland-house-roof-wood",
+  "en": "Highland House Roof (Wood)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Highland House Roof (Wood)",
+   "zh-CN": "木制雪峰公馆房顶",
+   "zh-TW": "木製雪峯公館房頂",
+   "ja": "クルザン・ウッドハウス・ルーフ"
+  },
+  "desc": {
+   "en": "A highland wooden roof designed exclusively for use with houses.",
+   "zh-CN": "库尔札斯样式中型住宅所使用的房顶。",
+   "zh-TW": "庫爾札斯樣式中型住宅所使用的房頂。",
+   "ja": "クルザス様式の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "highland-house-roof-stone",
+  "en": "Highland House Roof (Stone)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Highland House Roof (Stone)",
+   "zh-CN": "石制雪峰公馆房顶",
+   "zh-TW": "石制雪峯公館房頂",
+   "ja": "クルザン・ストーンハウス・ルーフ"
+  },
+  "desc": {
+   "en": "A highland stone roof designed exclusively for use with houses.",
+   "zh-CN": "库尔札斯样式中型住宅所使用的房顶。",
+   "zh-TW": "庫爾札斯樣式中型住宅所使用的房頂。",
+   "ja": "クルザス様式の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "highland-house-roof-composite",
+  "en": "Highland House Roof (Composite)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Highland House Roof (Composite)",
+   "zh-CN": "混合制雪峰公馆房顶",
+   "zh-TW": "混合制雪峯公館房頂",
+   "ja": "クルザン・コンポジットハウス・ルーフ"
+  },
+  "desc": {
+   "en": "A highland composite roof designed exclusively for use with houses.",
+   "zh-CN": "库尔札斯样式中型住宅所使用的房顶。",
+   "zh-TW": "庫爾札斯樣式中型住宅所使用的房頂。",
+   "ja": "クルザス様式の中型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "highland-mansion-roof-wood",
+  "en": "Highland Mansion Roof (Wood)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Highland Mansion Roof (Wood)",
+   "zh-CN": "木制雪峰别墅房顶",
+   "zh-TW": "木製雪峯別墅房頂",
+   "ja": "クルザン・ウッドレジデンス・ルーフ"
+  },
+  "desc": {
+   "en": "A highland wooden roof designed exclusively for use with mansions.",
+   "zh-CN": "库尔札斯样式大型住宅所使用的房顶。",
+   "zh-TW": "庫爾札斯樣式大型住宅所使用的房頂。",
+   "ja": "クルザス様式の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "highland-mansion-roof-stone",
+  "en": "Highland Mansion Roof (Stone)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Highland Mansion Roof (Stone)",
+   "zh-CN": "石制雪峰别墅房顶",
+   "zh-TW": "石制雪峯別墅房頂",
+   "ja": "クルザン・ストーンレジデンス・ルーフ"
+  },
+  "desc": {
+   "en": "A highland stone roof designed exclusively for use with mansions.",
+   "zh-CN": "库尔札斯样式大型住宅所使用的房顶。",
+   "zh-TW": "庫爾札斯樣式大型住宅所使用的房頂。",
+   "ja": "クルザス様式の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "highland-mansion-roof-composite",
+  "en": "Highland Mansion Roof (Composite)",
+  "fixtureType": "roof",
+  "n": {
+   "en": "Highland Mansion Roof (Composite)",
+   "zh-CN": "混合制雪峰别墅房顶",
+   "zh-TW": "混合制雪峯別墅房頂",
+   "ja": "クルザン・コンポジットレジデンス・ルーフ"
+  },
+  "desc": {
+   "en": "A highland composite roof designed exclusively for use with mansions.",
+   "zh-CN": "库尔札斯样式大型住宅所使用的房顶。",
+   "zh-TW": "庫爾札斯樣式大型住宅所使用的房頂。",
+   "ja": "クルザス様式の大型住宅に使われる屋根"
+  }
+ },
+ {
+  "slug": "highland-cottage-wall-wood",
+  "en": "Highland Cottage Wall (Wood)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Highland Cottage Wall (Wood)",
+   "zh-CN": "木制雪峰小屋外墙",
+   "zh-TW": "木製雪峯小屋外牆",
+   "ja": "クルザン・ウッドコテージ・ウォール"
+  },
+  "desc": {
+   "en": "A highland wooden wall designed exclusively for use with cottages.",
+   "zh-CN": "库尔札斯样式小型住宅所使用的外墙。",
+   "zh-TW": "庫爾札斯樣式小型住宅所使用的外牆。",
+   "ja": "クルザス様式の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "highland-cottage-wall-stone",
+  "en": "Highland Cottage Wall (Stone)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Highland Cottage Wall (Stone)",
+   "zh-CN": "石制雪峰小屋外墙",
+   "zh-TW": "石制雪峯小屋外牆",
+   "ja": "クルザン・ストーンコテージ・ウォール"
+  },
+  "desc": {
+   "en": "A highland stone wall designed exclusively for use with cottages.",
+   "zh-CN": "库尔札斯样式小型住宅所使用的外墙。",
+   "zh-TW": "庫爾札斯樣式小型住宅所使用的外牆。",
+   "ja": "クルザス様式の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "highland-cottage-wall-composite",
+  "en": "Highland Cottage Wall (Composite)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Highland Cottage Wall (Composite)",
+   "zh-CN": "混合制雪峰小屋外墙",
+   "zh-TW": "混合制雪峯小屋外牆",
+   "ja": "クルザン・コンポジットコテージ・ウォール"
+  },
+  "desc": {
+   "en": "A highland composite wall designed exclusively for use with cottages.",
+   "zh-CN": "库尔札斯样式小型住宅所使用的外墙。",
+   "zh-TW": "庫爾札斯樣式小型住宅所使用的外牆。",
+   "ja": "クルザス様式の小型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "highland-house-wall-wood",
+  "en": "Highland House Wall (Wood)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Highland House Wall (Wood)",
+   "zh-CN": "木制雪峰公馆外墙",
+   "zh-TW": "木製雪峯公館外牆",
+   "ja": "クルザン・ウッドハウス・ウォール"
+  },
+  "desc": {
+   "en": "A highland wooden wall designed exclusively for use with houses.",
+   "zh-CN": "库尔札斯样式中型住宅所使用的外墙。",
+   "zh-TW": "庫爾札斯樣式中型住宅所使用的外牆。",
+   "ja": "クルザス様式の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "highland-house-wall-stone",
+  "en": "Highland House Wall (Stone)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Highland House Wall (Stone)",
+   "zh-CN": "石制雪峰公馆外墙",
+   "zh-TW": "石制雪峯公館外牆",
+   "ja": "クルザン・ストーンハウス・ウォール"
+  },
+  "desc": {
+   "en": "A highland stone wall designed exclusively for use with houses.",
+   "zh-CN": "库尔札斯样式中型住宅所使用的外墙。",
+   "zh-TW": "庫爾札斯樣式中型住宅所使用的外牆。",
+   "ja": "クルザス様式の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "highland-house-wall-composite",
+  "en": "Highland House Wall (Composite)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Highland House Wall (Composite)",
+   "zh-CN": "混合制雪峰公馆外墙",
+   "zh-TW": "混合制雪峯公館外牆",
+   "ja": "クルザン・コンポジットハウス・ウォール"
+  },
+  "desc": {
+   "en": "A highland composite wall designed exclusively for use with houses.",
+   "zh-CN": "库尔札斯样式中型住宅所使用的外墙。",
+   "zh-TW": "庫爾札斯樣式中型住宅所使用的外牆。",
+   "ja": "クルザス様式の中型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "highland-mansion-wall-wood",
+  "en": "Highland Mansion Wall (Wood)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Highland Mansion Wall (Wood)",
+   "zh-CN": "木制雪峰别墅外墙",
+   "zh-TW": "木製雪峯別墅外牆",
+   "ja": "クルザン・ウッドレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "A highland wooden wall designed exclusively for use with mansions.",
+   "zh-CN": "库尔札斯样式大型住宅所使用的外墙。",
+   "zh-TW": "庫爾札斯樣式大型住宅所使用的外牆。",
+   "ja": "クルザス様式の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "highland-mansion-wall-stone",
+  "en": "Highland Mansion Wall (Stone)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Highland Mansion Wall (Stone)",
+   "zh-CN": "石制雪峰别墅外墙",
+   "zh-TW": "石制雪峯別墅外牆",
+   "ja": "クルザン・ストーンレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "A highland stone wall designed exclusively for use with mansions.",
+   "zh-CN": "库尔札斯样式大型住宅所使用的外墙。",
+   "zh-TW": "庫爾札斯樣式大型住宅所使用的外牆。",
+   "ja": "クルザス様式の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "highland-mansion-wall-composite",
+  "en": "Highland Mansion Wall (Composite)",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Highland Mansion Wall (Composite)",
+   "zh-CN": "混合制雪峰别墅外墙",
+   "zh-TW": "混合制雪峯別墅外牆",
+   "ja": "クルザン・コンポジットレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "A highland composite wall designed exclusively for use with mansions.",
+   "zh-CN": "库尔札斯样式大型住宅所使用的外墙。",
+   "zh-TW": "庫爾札斯樣式大型住宅所使用的外牆。",
+   "ja": "クルザス様式の大型住宅に使われる外壁"
+  }
+ },
+ {
+  "slug": "highland-classical-window",
+  "en": "Highland Classical Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Highland Classical Window",
+   "zh-CN": "雪峰古典窗",
+   "zh-TW": "雪峯古典窗",
+   "ja": "クルザン・クラシックウィンドウ"
+  },
+  "desc": {
+   "en": "A classical window in the highland style.",
+   "zh-CN": "库尔札斯样式住宅所使用的尖窗。",
+   "zh-TW": "庫爾札斯樣式住宅所使用的尖窗。",
+   "ja": "クルザス様式の住宅に使われる古典的な窓"
+  }
+ },
+ {
+  "slug": "highland-lancet-window",
+  "en": "Highland Lancet Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Highland Lancet Window",
+   "zh-CN": "雪峰尖窗",
+   "zh-TW": "雪峯尖窗",
+   "ja": "クルザン・ランセットウィンドウ"
+  },
+  "desc": {
+   "en": "A lancet window in the highland style.",
+   "zh-CN": "库尔札斯样式住宅所使用的尖窗。",
+   "zh-TW": "庫爾札斯樣式住宅所使用的尖窗。",
+   "ja": "クルザス様式の住宅に使われる尖頭窓"
+  }
+ },
+ {
+  "slug": "highland-oblong-window",
+  "en": "Highland Oblong Window",
+  "fixtureType": "window",
+  "n": {
+   "en": "Highland Oblong Window",
+   "zh-CN": "雪峰方窗",
+   "zh-TW": "雪峯方窗",
+   "ja": "クルザン・オブロングウィンドウ"
+  },
+  "desc": {
+   "en": "An oblong window in the highland style.",
+   "zh-CN": "库尔札斯样式住宅所使用的方窗。",
+   "zh-TW": "庫爾札斯樣式住宅所使用的方窗。",
+   "ja": "クルザス様式の住宅に使われる方形の窓"
+  }
+ },
+ {
+  "slug": "highland-wooden-door",
+  "en": "Highland Wooden Door",
+  "fixtureType": "door",
+  "n": {
+   "en": "Highland Wooden Door",
+   "zh-CN": "雪峰木制门",
+   "zh-TW": "雪峯木製門",
+   "ja": "クルザン・ウッドドア"
+  },
+  "desc": {
+   "en": "A wooden door in the highland style.",
+   "zh-CN": "库尔札斯样式住宅所使用的正门，由木材制造。",
+   "zh-TW": "庫爾札斯樣式住宅所使用的正門，由木材製造。",
+   "ja": "クルザス様式の住宅に使われる木造の玄関扉"
+  }
+ },
+ {
+  "slug": "highland-ornate-door",
+  "en": "Highland Ornate Door",
+  "fixtureType": "door",
+  "n": {
+   "en": "Highland Ornate Door",
+   "zh-CN": "雪峰装饰门",
+   "zh-TW": "雪峯裝飾門",
+   "ja": "クルザン・オーネイトドア"
+  },
+  "desc": {
+   "en": "An ornate door in the highland style.",
+   "zh-CN": "库尔札斯样式住宅所使用的正门，装饰非常华丽。",
+   "zh-TW": "庫爾札斯樣式住宅所使用的正門，裝飾非常華麗。",
+   "ja": "クルザス様式の住宅に使われる飾り付きの玄関扉"
+  }
+ },
+ {
+  "slug": "highland-classical-door",
+  "en": "Highland Classical Door",
+  "fixtureType": "door",
+  "n": {
+   "en": "Highland Classical Door",
+   "zh-CN": "雪峰古典门",
+   "zh-TW": "雪峯古典門",
+   "ja": "クルザン・クラシックドア"
+  },
+  "desc": {
+   "en": "A classical door in the highland style.",
+   "zh-CN": "库尔札斯样式住宅所使用的正门，风格古典。",
+   "zh-TW": "庫爾札斯樣式住宅所使用的正門，風格古典。",
+   "ja": "クルザス様式の住宅に使われる古典的な玄関扉"
+  }
+ },
+ {
+  "slug": "highland-interior-wall",
+  "en": "Highland Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Highland Interior Wall",
+   "zh-CN": "雪峰内墙",
+   "zh-TW": "雪峯內牆",
+   "ja": "クルザン・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的内壁墙壁设计。",
+   "zh-TW": "庫爾札斯樣式的內壁牆壁設計。",
+   "ja": "クルザス様式の内壁材"
+  }
+ },
+ {
+  "slug": "highland-flooring",
+  "en": "Highland Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Highland Flooring",
+   "zh-CN": "雪峰地板",
+   "zh-TW": "雪峯地板",
+   "ja": "クルザン・フローリング"
+  },
+  "desc": {
+   "en": "Floorboards designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的地板。",
+   "zh-TW": "庫爾札斯樣式的地板。",
+   "ja": "クルザス様式の床板"
+  }
+ },
+ {
+  "slug": "highland-pendant-lamp",
+  "en": "Highland Pendant Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Highland Pendant Lamp",
+   "zh-CN": "雪峰吊灯",
+   "zh-TW": "雪峯吊燈",
+   "ja": "クルザン・ペンダントランプ"
+  },
+  "desc": {
+   "en": "A pendant lamp designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的吊灯。",
+   "zh-TW": "庫爾札斯樣式的吊燈。",
+   "ja": "クルザス様式の吊りランプ"
+  }
+ },
+ {
+  "slug": "deluxe-highland-pendant-lamp",
+  "en": "Deluxe Highland Pendant Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Deluxe Highland Pendant Lamp",
+   "zh-CN": "雪峰豪华吊灯",
+   "zh-TW": "雪峯豪華吊燈",
+   "ja": "クルザン・デラックスペンダントランプ"
+  },
+  "desc": {
+   "en": "A large pendant lamp designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的大型吊灯。",
+   "zh-TW": "庫爾札斯樣式的大型吊燈。",
+   "ja": "クルザス様式の大きな吊りランプ"
+  }
+ },
+ {
+  "slug": "highland-chandelier",
+  "en": "Highland Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Highland Chandelier",
+   "zh-CN": "雪峰枝形吊灯",
+   "zh-TW": "雪峯枝形吊燈",
+   "ja": "クルザン・シャンデリア"
+  },
+  "desc": {
+   "en": "A sumptuous chandelier designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的枝形吊灯。",
+   "zh-TW": "庫爾札斯樣式的枝形吊燈。",
+   "ja": "クルザス様式の豪奢なシャンデリア"
+  }
+ },
+ {
+  "slug": "highland-composite-chimney",
+  "en": "Highland Composite Chimney",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Highland Composite Chimney",
+   "zh-CN": "雪峰混合制烟囱",
+   "zh-TW": "雪峯混合制煙囪",
+   "ja": "クルザン・コンポジットチムニー"
+  },
+  "desc": {
+   "en": "A composite chimney designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的混合制屋顶烟囱。",
+   "zh-TW": "庫爾札斯樣式的混合制屋頂煙囪。",
+   "ja": "クルザス様式の屋根出し煙突"
+  }
+ },
+ {
+  "slug": "highland-rounded-chimney",
+  "en": "Highland Rounded Chimney",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Highland Rounded Chimney",
+   "zh-CN": "雪峰圆形烟囱",
+   "zh-TW": "雪峯圓形煙囪",
+   "ja": "クルザン・ラウンドチムニー"
+  },
+  "desc": {
+   "en": "A rounded chimney designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的圆形屋顶烟囱。",
+   "zh-TW": "庫爾札斯樣式的圓形屋頂煙囪。",
+   "ja": "クルザス様式の円形の屋根出し煙突"
+  }
+ },
+ {
+  "slug": "highland-stone-chimney",
+  "en": "Highland Stone Chimney",
+  "fixtureType": "roof-decoration",
+  "n": {
+   "en": "Highland Stone Chimney",
+   "zh-CN": "雪峰石制烟囱",
+   "zh-TW": "雪峯石制煙囪",
+   "ja": "クルザン・ストーンチムニー"
+  },
+  "desc": {
+   "en": "A stone chimney designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的石制屋顶烟囱。",
+   "zh-TW": "庫爾札斯樣式的石制屋頂煙囪。",
+   "ja": "クルザス様式の石造の壁出し煙突"
+  }
+ },
+ {
+  "slug": "highland-wooden-awning",
+  "en": "Highland Wooden Awning",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Highland Wooden Awning",
+   "zh-CN": "雪峰木制遮蓬",
+   "zh-TW": "雪峯木製遮蓬",
+   "ja": "クルザン・ウッドオーニング"
+  },
+  "desc": {
+   "en": "A sturdy wooden awning designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的遮蓬。",
+   "zh-TW": "庫爾札斯樣式的遮蓬。",
+   "ja": "クルザス様式の庇（ひさし）"
+  }
+ },
+ {
+  "slug": "highland-stone-awning",
+  "en": "Highland Stone Awning",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Highland Stone Awning",
+   "zh-CN": "雪峰石制遮蓬",
+   "zh-TW": "雪峯石制遮蓬",
+   "ja": "クルザン・ストーンオーニング"
+  },
+  "desc": {
+   "en": "A sturdy stone awning designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的遮蓬。",
+   "zh-TW": "庫爾札斯樣式的遮蓬。",
+   "ja": "クルザス様式の庇（ひさし）"
+  }
+ },
+ {
+  "slug": "highland-composite-awning",
+  "en": "Highland Composite Awning",
+  "fixtureType": "exterior-wall-decoration",
+  "n": {
+   "en": "Highland Composite Awning",
+   "zh-CN": "雪峰混合制遮蓬",
+   "zh-TW": "雪峯混合制遮蓬",
+   "ja": "クルザン・コンポジットオーニング"
+  },
+  "desc": {
+   "en": "A sturdy composite awning designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的遮蓬。",
+   "zh-TW": "庫爾札斯樣式的遮蓬。",
+   "ja": "クルザス様式の庇（ひさし）"
+  }
+ },
+ {
+  "slug": "highland-placard",
+  "en": "Highland Placard",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Highland Placard",
+   "zh-CN": "雪峰门牌",
+   "zh-TW": "雪峯門牌",
+   "ja": "クルザン・サインボード"
+  },
+  "desc": {
+   "en": "A handsome placard designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的直立门牌。",
+   "zh-TW": "庫爾札斯樣式的直立門牌。",
+   "ja": "クルザス様式の直付け看板"
+  }
+ },
+ {
+  "slug": "highland-hanging-placard",
+  "en": "Highland Hanging Placard",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Highland Hanging Placard",
+   "zh-CN": "雪峰悬挂门牌",
+   "zh-TW": "雪峯懸掛門牌",
+   "ja": "クルザン・ハンギングボード"
+  },
+  "desc": {
+   "en": "A hanging placard designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的悬挂门牌。",
+   "zh-TW": "庫爾札斯樣式的懸掛門牌。",
+   "ja": "クルザス様式の吊り看板"
+  }
+ },
+ {
+  "slug": "highland-banner",
+  "en": "Highland Banner",
+  "fixtureType": "placard",
+  "n": {
+   "en": "Highland Banner",
+   "zh-CN": "雪峰标旗",
+   "zh-TW": "雪峯標旗",
+   "ja": "クルザン・ハンギングバナー"
+  },
+  "desc": {
+   "en": "A handsome banner designed to complement highland residences.",
+   "zh-CN": "库尔札斯样式的标旗。",
+   "zh-TW": "庫爾札斯樣式的標旗。",
+   "ja": "クルザス様式の垂れ幕"
+  }
+ },
+ {
+  "slug": "highland-stone-wall",
+  "en": "Highland Stone Wall",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Highland Stone Wall",
+   "zh-CN": "雪峰石制围墙",
+   "zh-TW": "雪峯石制圍牆",
+   "ja": "クルザン・ストーンウォール"
+  },
+  "desc": {
+   "en": "A stone wall designed to complement highland residences. Mix and match at your own peril.",
+   "zh-CN": "库尔札斯样式住宅所使用的院墙，由石材堆砌制成。",
+   "zh-TW": "庫爾札斯樣式住宅所使用的院牆，由石材堆砌製成。",
+   "ja": "クルザス様式の住宅に使われる石組みの塀"
+  }
+ },
+ {
+  "slug": "highland-fence",
+  "en": "Highland Fence",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Highland Fence",
+   "zh-CN": "雪峰栅栏围墙",
+   "zh-TW": "雪峯柵欄圍牆",
+   "ja": "クルザン・アーチウォール"
+  },
+  "desc": {
+   "en": "An arched stone fence designed to complement highland residences. Mix and match at your own peril.",
+   "zh-CN": "库尔札斯样式住宅所使用的院墙，由栅栏包围制成。",
+   "zh-TW": "庫爾札斯樣式住宅所使用的院牆，由柵欄包圍製成。",
+   "ja": "クルザス様式の住宅に使われるアーチ付きの石組みの塀"
+  }
+ },
+ {
+  "slug": "highland-potting-fence",
+  "en": "Highland Potting Fence",
+  "fixtureType": "fence",
+  "n": {
+   "en": "Highland Potting Fence",
+   "zh-CN": "雪峰园艺围墙",
+   "zh-TW": "雪峯園藝圍牆",
+   "ja": "クルザン・ガーデニングウォール"
+  },
+  "desc": {
+   "en": "A stone potting fence designed to complement highland residences. Mix and match at your own peril.",
+   "zh-CN": "库尔札斯样式住宅所使用的院墙，由植物栽种制成。",
+   "zh-TW": "庫爾札斯樣式住宅所使用的院牆，由植物栽種製成。",
+   "ja": "クルザス様式の住宅に使われる植え込み付き石組みの塀"
+  }
+ },
+ {
+  "slug": "gingerbread-cottage-walls",
+  "en": "Gingerbread Cottage Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Gingerbread Cottage Walls",
+   "zh-CN": "姜饼小屋外墙",
+   "zh-TW": "薑餅小屋外牆",
+   "ja": "ジンジャーブレッドコテージ・ウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a delicious gingerbread cottage.",
+   "zh-CN": "小型糖果屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "小型糖果屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "小型のお菓子の家外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "gingerbread-house-walls",
+  "en": "Gingerbread House Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Gingerbread House Walls",
+   "zh-CN": "姜饼公馆外墙",
+   "zh-TW": "薑餅公館外牆",
+   "ja": "ジンジャーブレッドハウス・ウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a delicious gingerbread house.",
+   "zh-CN": "中型糖果屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "中型糖果屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "中型のお菓子の家外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "gingerbread-mansion-walls",
+  "en": "Gingerbread Mansion Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Gingerbread Mansion Walls",
+   "zh-CN": "姜饼别墅外墙",
+   "zh-TW": "薑餅別墅外牆",
+   "ja": "ジンジャーブレッドレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a delicious gingerbread mansion.",
+   "zh-CN": "大型糖果屋的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "大型糖果屋的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "大型のお菓子の家外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "amaurotine-interior-wall",
+  "en": "Amaurotine Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Amaurotine Interior Wall",
+   "zh-CN": "亚马乌罗提内墙",
+   "zh-TW": "亞馬烏羅提內牆",
+   "ja": "アーモロート・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall recreated from the memory of a city long since destroyed.",
+   "zh-CN": "亚马乌罗提样式的内壁墙壁设计。",
+   "zh-TW": "亞馬烏羅提樣式的內壁牆壁設計。",
+   "ja": "アーモロート様式の内壁材"
+  }
+ },
+ {
+  "slug": "amaurotine-flooring",
+  "en": "Amaurotine Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Amaurotine Flooring",
+   "zh-CN": "亚马乌罗提地板",
+   "zh-TW": "亞馬烏羅提地板",
+   "ja": "アーモロート・フローリング"
+  },
+  "desc": {
+   "en": "Elegant stone flooring recreated from the memory of a city long since destroyed.",
+   "zh-CN": "亚马乌罗提样式的地板。",
+   "zh-TW": "亞馬烏羅提樣式的地板。",
+   "ja": "アーモロート様式の街路風床材"
+  }
+ },
+ {
+  "slug": "amaurotine-spire-chandelier",
+  "en": "Amaurotine Spire Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Amaurotine Spire Chandelier",
+   "zh-CN": "亚马乌罗提枝形吊灯",
+   "zh-TW": "亞馬烏羅提枝形吊燈",
+   "ja": "アーモロート・シャンデリア"
+  },
+  "desc": {
+   "en": "A breathtaking light fixture resembling the once-proud spires of a city long since destroyed.",
+   "zh-CN": "以亚马乌罗提的高塔为概念设计出的枝形吊灯。",
+   "zh-TW": "以亞馬烏羅提的高塔爲概念設計出的枝形吊燈。",
+   "ja": "アーモロートの塔を思わせる意匠が施されたシャンデリア"
+  }
+ },
+ {
+  "slug": "leveilleur-estate-flooring",
+  "en": "Leveilleur Estate Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Leveilleur Estate Flooring",
+   "zh-CN": "莱韦耶勒尔地板",
+   "zh-TW": "萊韋耶勒爾地板",
+   "ja": "ルヴェユール・フローリング"
+  },
+  "desc": {
+   "en": "Live like a Leveilleur lord or lady with this fancy flooring beneath your feet.",
+   "zh-CN": "莱韦耶勒尔府风格的室内地板。",
+   "zh-TW": "萊韋耶勒爾府風格的室內地板。",
+   "ja": "ルヴェユール邸を思わせる床材"
+  }
+ },
+ {
+  "slug": "leveilleur-estate-chandelier",
+  "en": "Leveilleur Estate Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Leveilleur Estate Chandelier",
+   "zh-CN": "莱韦耶勒尔吊灯",
+   "zh-TW": "萊韋耶勒爾吊燈",
+   "ja": "ルヴェユール・シャンデリア"
+  },
+  "desc": {
+   "en": "A light fixture crafted to resemble the opulent chandeliers of the Leveilleur estate. Not an actual chandelier from the Leveilleur estate.",
+   "zh-CN": "莱韦耶勒尔府风格的吊灯。",
+   "zh-TW": "萊韋耶勒爾府風格的吊燈。",
+   "ja": "ルヴェユール邸を思わせるシャンデリア"
+  }
+ },
+ {
+  "slug": "leveilleur-estate-interior-wall",
+  "en": "Leveilleur Estate Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Leveilleur Estate Interior Wall",
+   "zh-CN": "莱韦耶勒尔内墙",
+   "zh-TW": "萊韋耶勒爾內牆",
+   "ja": "ルヴェユール・インナーウォール"
+  },
+  "desc": {
+   "en": "Adopt the modest—yet still somehow incredibly expensive—style of the Leveilleur estate walls.",
+   "zh-CN": "莱韦耶勒尔府风格的内壁墙壁设计。",
+   "zh-TW": "萊韋耶勒爾府風格的內壁牆壁設計。",
+   "ja": "ルヴェユール邸を思わせる内壁材"
+  }
+ },
+ {
+  "slug": "sukiya-zukuri-cottage-walls",
+  "en": "Sukiya-zukuri Cottage Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Sukiya-zukuri Cottage Walls",
+   "zh-CN": "风雅东洋小屋外墙",
+   "zh-TW": "風雅東洋小屋外牆",
+   "ja": "数寄屋造平屋壁"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a stylish Far Eastern residence with attached onsen.",
+   "zh-CN": "附有东方样式温泉的小型宅邸外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "附有東方樣式溫泉的小型宅邸外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "小型の東方風温泉付き邸宅の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "sukiya-zukuri-house-walls",
+  "en": "Sukiya-zukuri House Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Sukiya-zukuri House Walls",
+   "zh-CN": "风雅东洋公馆外墙",
+   "zh-TW": "風雅東洋公館外牆",
+   "ja": "数寄屋造屋敷壁"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a stylish Far Eastern residence with attached onsen.",
+   "zh-CN": "附有东方样式温泉的中型宅邸外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "附有東方樣式溫泉的中型宅邸外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "中型の東方風温泉付き邸宅の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "sukiya-zukuri-mansion-walls",
+  "en": "Sukiya-zukuri Mansion Walls",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Sukiya-zukuri Mansion Walls",
+   "zh-CN": "风雅东洋别墅外墙",
+   "zh-TW": "風雅東洋別墅外牆",
+   "ja": "数寄屋造御殿壁"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to transform their estate into a stylish Far Eastern residence with attached onsen.",
+   "zh-CN": "附有东方样式温泉的大型宅邸外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "附有東方樣式溫泉的大型宅邸外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "大型の東方風温泉付き邸宅の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "hannish-interior-wall",
+  "en": "Hannish Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Hannish Interior Wall",
+   "zh-CN": "多彩内墙",
+   "zh-TW": "多彩內牆",
+   "ja": "ラザハン・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall designed to complement Hannish residences.",
+   "zh-CN": "拉札罕样式的内壁墙壁设计。",
+   "zh-TW": "拉札罕樣式的內壁牆壁設計。",
+   "ja": "ラザハン様式の内壁材"
+  }
+ },
+ {
+  "slug": "hannish-tile-flooring",
+  "en": "Hannish Tile Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Hannish Tile Flooring",
+   "zh-CN": "多彩地板",
+   "zh-TW": "多彩地板",
+   "ja": "ラザハン・フローリング"
+  },
+  "desc": {
+   "en": "Dark, resplendent tiling detailed in gold.",
+   "zh-CN": "拉札罕样式的地板设计。",
+   "zh-TW": "拉札罕樣式的地板設計。",
+   "ja": "ラザハン様式の床材"
+  }
+ },
+ {
+  "slug": "hannish-ceiling-lamp",
+  "en": "Hannish Ceiling Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Hannish Ceiling Lamp",
+   "zh-CN": "多彩顶灯",
+   "zh-TW": "多彩頂燈",
+   "ja": "ラザハン・シーリングライト"
+  },
+  "desc": {
+   "en": "A hanging light fixture of undeniably Hannish design.",
+   "zh-CN": "拉札罕样式的天花板照明设备。",
+   "zh-TW": "拉札罕樣式的天花板照明設備。",
+   "ja": "ラザハン様式の天井照明"
+  }
+ },
+ {
+  "slug": "watcher-s-palace-interior-wall",
+  "en": "Watcher's Palace Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Watcher's Palace Interior Wall",
+   "zh-CN": "监视者之馆内墙",
+   "zh-TW": "監視者之館內牆",
+   "ja": "ウォッチャーズパレス・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall crafted to mimic the design of the Watcher's Palace.",
+   "zh-CN": "再现了监视者之馆使用的内壁墙壁设计。",
+   "zh-TW": "再現了監視者之館使用的內壁牆壁設計。",
+   "ja": "監視者の館に使用されているものを再現した内壁材"
+  }
+ },
+ {
+  "slug": "watcher-s-palace-flooring",
+  "en": "Watcher's Palace Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Watcher's Palace Flooring",
+   "zh-CN": "监视者之馆地板",
+   "zh-TW": "監視者之館地板",
+   "ja": "ウォッチャーズパレス・フローリング"
+  },
+  "desc": {
+   "en": "A section of flooring crafted to mimic the design of the Watcher's Palace.",
+   "zh-CN": "再现了监视者之馆使用的地板。",
+   "zh-TW": "再現了監視者之館使用的地板。",
+   "ja": "監視者の館に使用されているものを再現した床材"
+  }
+ },
+ {
+  "slug": "watcher-s-palace-ceiling-lamp",
+  "en": "Watcher's Palace Ceiling Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Watcher's Palace Ceiling Lamp",
+   "zh-CN": "监视者之馆顶灯",
+   "zh-TW": "監視者之館頂燈",
+   "ja": "ウォッチャーズパレス・シーリングライト"
+  },
+  "desc": {
+   "en": "A chandelier crafted to resemble the lamps found in the Watcher's Palace.",
+   "zh-CN": "再现了监视者之馆使用的屋顶照明。",
+   "zh-TW": "再現了監視者之館使用的屋頂照明。",
+   "ja": "監視者の館に使用されているものを再現した天井照明"
+  }
+ },
+ {
+  "slug": "fern-interior-wall",
+  "en": "Fern Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Fern Interior Wall",
+   "zh-CN": "蕨类内墙",
+   "zh-TW": "蕨類內牆",
+   "ja": "ファーンインナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall delicately stenciled with a cascading leafy design.",
+   "zh-CN": "带有蕨类图案的房屋内壁。",
+   "zh-TW": "帶有蕨類圖案的房屋內壁。",
+   "ja": "シダ類の意匠を施した内壁材"
+  }
+ },
+ {
+  "slug": "greige-carpet",
+  "en": "Greige Carpet",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Greige Carpet",
+   "zh-CN": "米灰色地毯",
+   "zh-TW": "米灰色地毯",
+   "ja": "グレージュカーペット"
+  },
+  "desc": {
+   "en": "For the ambivalent designer who cannot commit to grey or beige. Guaranteed unremarkable!",
+   "zh-CN": "米灰色的地毯。",
+   "zh-TW": "米灰色的地毯。",
+   "ja": "生糸色の絨毯の床材"
+  }
+ },
+ {
+  "slug": "seabed-ceiling-lamp",
+  "en": "Seabed Ceiling Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Seabed Ceiling Lamp",
+   "zh-CN": "海底吊灯",
+   "zh-TW": "海底吊燈",
+   "ja": "シーベッド・シーリングランプ"
+  },
+  "desc": {
+   "en": "Simply install this light fixture to be immersed in the magic of the deep. Unsettling fish sold separately by popular request.",
+   "zh-CN": "演绎出水底幻想风格光芒的吊灯。",
+   "zh-TW": "演繹出水底幻想風格光芒的吊燈。",
+   "ja": "水底の幻想的な光を演出する天井照明"
+  }
+ },
+ {
+  "slug": "country-cottage-wall",
+  "en": "Country Cottage Wall",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Country Cottage Wall",
+   "zh-CN": "乡间小屋外墙",
+   "zh-TW": "鄉間小屋外牆",
+   "ja": "カントリーコテージ・ウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to give their estate a quaint, rural look.",
+   "zh-CN": "小型田园风格的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "小型田園風格的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "小型の田園風邸宅の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "country-house-wall",
+  "en": "Country House Wall",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Country House Wall",
+   "zh-CN": "乡间公馆外墙",
+   "zh-TW": "鄉間公館外牆",
+   "ja": "カントリーハウス・ウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to give their estate a quaint, rural look.",
+   "zh-CN": "中型田园风格的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "中型田園風格的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "中型の田園風邸宅の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "country-mansion-wall",
+  "en": "Country Mansion Wall",
+  "fixtureType": "exterior-wall",
+  "n": {
+   "en": "Country Mansion Wall",
+   "zh-CN": "乡间别墅外墙",
+   "zh-TW": "鄉間別墅外牆",
+   "ja": "カントリーレジデンス・ウォール"
+  },
+  "desc": {
+   "en": "A set of four walls designed for those who wish to give their estate a quaint, rural look.",
+   "zh-CN": "大型田园风格的外部装潢套装。无法对局部进行更改，只能够一次性变更外部装潢的所有配件。",
+   "zh-TW": "大型田園風格的外部裝潢套裝。無法對局部進行更改，只能夠一次性變更外部裝潢的所有配件。",
+   "ja": "大型の田園風邸宅の外装セット。一体型のため外装の全パーツがまとめて変更され、個別のパーツ変更は不可"
+  }
+ },
+ {
+  "slug": "tiled-carpeting",
+  "en": "Tiled Carpeting",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Tiled Carpeting",
+   "zh-CN": "块状地毯",
+   "zh-TW": "塊狀地毯",
+   "ja": "タイルカーペット"
+  },
+  "desc": {
+   "en": "Soft flooring patterned in a mosaic of muted, multicolored material.",
+   "zh-CN": "将多种颜色的地毯拼成马赛克图案的地板设计。",
+   "zh-TW": "將多種顏色的地毯拼成馬賽克圖案的地板設計。",
+   "ja": "複数色の絨毯をモザイク状に組み合わせた床材"
+  }
+ },
+ {
+  "slug": "wisteria-ceiling-lamp",
+  "en": "Wisteria Ceiling Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Wisteria Ceiling Lamp",
+   "zh-CN": "紫藤吊灯",
+   "zh-TW": "紫藤吊燈",
+   "ja": "ウィステリア・シーリングランプ"
+  },
+  "desc": {
+   "en": "These cascading purple blossoms have the power to lend any room a mysterious and ethereal ambience.",
+   "zh-CN": "垂着的淡紫色花藤营造出了幻想般氛围的屋顶照明。",
+   "zh-TW": "垂着的淡紫色花藤營造出了幻想般氛圍的屋頂照明。",
+   "ja": "垂れ下がった薄紫色の花が、幻想的な雰囲気を醸し出す天井照明"
+  }
+ },
+ {
+  "slug": "seafade-interior-wall",
+  "en": "Seafade Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Seafade Interior Wall",
+   "zh-CN": "淡蓝内墙",
+   "zh-TW": "淡藍內牆",
+   "ja": "シーフェイド・インナーウォール"
+  },
+  "desc": {
+   "en": "This shade of blue can best be described as a gentle blend of sky and ocean.",
+   "zh-CN": "柔和的蓝色色调让人不禁联想起天空和大海的内壁墙壁设计。",
+   "zh-TW": "柔和的藍色色調讓人不禁聯想起天空和大海的內壁牆壁設計。",
+   "ja": "空や海を思わせる、なめらかな青色の色調の内壁材"
+  }
+ },
+ {
+  "slug": "pure-white-interior-wall",
+  "en": "Pure White Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Pure White Interior Wall",
+   "zh-CN": "纯白内墙",
+   "zh-TW": "純白內牆",
+   "ja": "ピュアホワイト・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall of plain, pristine white for maximum versatility.",
+   "zh-CN": "注重通用性的简洁白色内壁墙壁设计。",
+   "zh-TW": "注重通用性的簡潔白色內壁牆壁設計。",
+   "ja": "汎用性を重視した、シンプルな白色の内壁材"
+  }
+ },
+ {
+  "slug": "light-wood-flooring",
+  "en": "Light Wood Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Light Wood Flooring",
+   "zh-CN": "轻木地板",
+   "zh-TW": "輕木地板",
+   "ja": "ライトウッド・フローリング"
+  },
+  "desc": {
+   "en": "Flooring made from rustic planks in an unpretentious pale shade.",
+   "zh-CN": "颜色浅而温暖的朴素木制地板设计。",
+   "zh-TW": "顏色淺而溫暖的樸素木製地板設計。",
+   "ja": "素朴な木目が温かな、淡い色調の床板"
+  }
+ },
+ {
+  "slug": "flat-ceiling-lamp",
+  "en": "Flat Ceiling Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Flat Ceiling Lamp",
+   "zh-CN": "平贴吸顶灯",
+   "zh-TW": "平貼吸頂燈",
+   "ja": "フラット・シーリングランプ"
+  },
+  "desc": {
+   "en": "This unobtrusive lighting fixture is ideal for those who would rather not draw attention to the ceiling.",
+   "zh-CN": "内敛朴素的圆形屋顶照明灯具。",
+   "zh-TW": "內斂樸素的圓形屋頂照明燈具。",
+   "ja": "主張を抑えた、シンプルな円盤型の天井照明"
+  }
+ },
+ {
+  "slug": "plaid-interior-wall",
+  "en": "Plaid Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Plaid Interior Wall",
+   "zh-CN": "格纹内墙",
+   "zh-TW": "格紋內牆",
+   "ja": "プラッドインナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall with a bold black-on-red pattern of intersecting stripes.",
+   "zh-CN": "格子花纹的内壁墙壁设计。",
+   "zh-TW": "格子花紋的內壁牆壁設計。",
+   "ja": "格子模様の内壁材"
+  }
+ },
+ {
+  "slug": "honeycomb-carpet",
+  "en": "Honeycomb Carpet",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Honeycomb Carpet",
+   "zh-CN": "蜂巢纹地毯",
+   "zh-TW": "蜂巢紋地毯",
+   "ja": "ハニカムカーペット"
+  },
+  "desc": {
+   "en": "Soft flooring made of perfectly tessellating hexagonal panels.",
+   "zh-CN": "正六边形地毯块拼成的地板设计。",
+   "zh-TW": "正六邊形地毯塊拼成的地板設計。",
+   "ja": "正六角形の絨毯パネルを組み合わせた床材"
+  }
+ },
+ {
+  "slug": "forged-leaves-ceiling-light",
+  "en": "Forged Leaves Ceiling Light",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Forged Leaves Ceiling Light",
+   "zh-CN": "铁叶顶灯",
+   "zh-TW": "鐵葉頂燈",
+   "ja": "アイロンリーフ・シーリングライト"
+  },
+  "desc": {
+   "en": "An ornate light fixture featuring intricately wrought metal foliage.",
+   "zh-CN": "根据植物树叶形象设计的金属制吊灯。",
+   "zh-TW": "根據植物樹葉形象設計的金屬製吊燈。",
+   "ja": "金属材で植物の葉を象った天井照明"
+  }
+ },
+ {
+  "slug": "wilds-pendant-lamp",
+  "en": "Wilds Pendant Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Wilds Pendant Lamp",
+   "zh-CN": "荒野吊灯",
+   "zh-TW": "荒野吊燈",
+   "ja": "ワイルズ・ペンダントランプ"
+  },
+  "desc": {
+   "en": "A pendant lamp inspired by tales of hunters from another world.",
+   "zh-CN": "受到某个异世界的猎人们的传说故事启发创作出的吊灯。",
+   "zh-TW": "受到某個異世界的獵人們的傳說故事啓發創作出的吊燈。",
+   "ja": "とある異界のハンターたちの物語から着想を得た吊りランプ"
+  }
+ },
+ {
+  "slug": "herringbone-interior-wall",
+  "en": "Herringbone Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Herringbone Interior Wall",
+   "zh-CN": "人字形内墙",
+   "zh-TW": "人字形內牆",
+   "ja": "ヘリンボーン・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall perfect for those who can't decide which diagonal they prefer.",
+   "zh-CN": "组成人字形图案的木质内壁墙壁设计。",
+   "zh-TW": "組成人字形圖案的木質內壁牆壁設計。",
+   "ja": "ヘリンボーン模様に組まれた木製の内壁材"
+  }
+ },
+ {
+  "slug": "teal-carpet",
+  "en": "Teal Carpet",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Teal Carpet",
+   "zh-CN": "水鸭色地毯",
+   "zh-TW": "水鴨色地毯",
+   "ja": "ティールブルーカーペット"
+  },
+  "desc": {
+   "en": "Durable-yet-fuzzy loop carpet in a rich blue-green.",
+   "zh-CN": "选用了和鸭子羽毛一样颜色的地毯的地板设计。",
+   "zh-TW": "選用了和鴨子羽毛一樣顏色的地毯的地板設計。",
+   "ja": "鴨の羽色の絨毯の床材"
+  }
+ },
+ {
+  "slug": "fluorescent-tube-chandelier",
+  "en": "Fluorescent Tube Chandelier",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Fluorescent Tube Chandelier",
+   "zh-CN": "荧光管吊灯",
+   "zh-TW": "熒光管吊燈",
+   "ja": "フローレセントシャンデリア"
+  },
+  "desc": {
+   "en": "Elegant meets mundane in this tasteful ceiling decoration that emits wholly practical light.",
+   "zh-CN": "由亮着微光的直管组成的吊灯。",
+   "zh-TW": "由亮着微光的直管組成的吊燈。",
+   "ja": "淡く発光する直管を組み合わせたシャンデリア"
+  }
+ },
+ {
+  "slug": "cosmomodule-inner-wall",
+  "en": "Cosmomodule Inner Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Cosmomodule Inner Wall",
+   "zh-CN": "宇宙内墙",
+   "zh-TW": "宇宙內牆",
+   "ja": "コスモインナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall used in habitation modules constructed by the Cosmic Exploration Initiative.",
+   "zh-CN": "宇宙探索计划居住舱使用的内壁墙壁设计。",
+   "zh-TW": "宇宙探索計劃居住艙使用的內壁牆壁設計。",
+   "ja": "コスモエクスプローラー計画の居住モジュールに用いられる内壁材"
+  }
+ },
+ {
+  "slug": "cosmomodule-flooring",
+  "en": "Cosmomodule Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Cosmomodule Flooring",
+   "zh-CN": "宇宙地板",
+   "zh-TW": "宇宙地板",
+   "ja": "コスモフローリング"
+  },
+  "desc": {
+   "en": "Floorboards used in habitation modules constructed by the Cosmic Exploration Initiative.",
+   "zh-CN": "宇宙探索计划居住舱使用的房屋地板。",
+   "zh-TW": "宇宙探索計劃居住艙使用的房屋地板。",
+   "ja": "コスモエクスプローラー計画の居住モジュールに用いられる床材"
+  }
+ },
+ {
+  "slug": "charcoal-interior-wall",
+  "en": "Charcoal Interior Wall",
+  "fixtureType": "interior-wall",
+  "n": {
+   "en": "Charcoal Interior Wall",
+   "zh-CN": "炭黑内墙",
+   "zh-TW": "炭黑內牆",
+   "ja": "ダークチャコール・インナーウォール"
+  },
+  "desc": {
+   "en": "An interior wall that can be left bare or laden with decorations, depending on one's mood.",
+   "zh-CN": "注重通用性的简洁深色内壁墙壁设计。",
+   "zh-TW": "注重通用性的簡潔深色內壁牆壁設計。",
+   "ja": "汎用性を重視した、シンプルな暗色の内壁材"
+  }
+ },
+ {
+  "slug": "dark-wood-flooring",
+  "en": "Dark Wood Flooring",
+  "fixtureType": "flooring",
+  "n": {
+   "en": "Dark Wood Flooring",
+   "zh-CN": "乌木地板",
+   "zh-TW": "烏木地板",
+   "ja": "ダークウッド・フローリング"
+  },
+  "desc": {
+   "en": "This dark wood lends an intimate air to any room while also making inevitable blemishes on the floor less apparent.",
+   "zh-CN": "颜色深而稳重的朴素木制地板设计。",
+   "zh-TW": "顏色深而穩重的樸素木製地板設計。",
+   "ja": "落ち着いた印象を与える、濃い色調の床板"
+  }
+ },
+ {
+  "slug": "square-ceiling-lamp",
+  "en": "Square Ceiling Lamp",
+  "fixtureType": "ceiling-light",
+  "n": {
+   "en": "Square Ceiling Lamp",
+   "zh-CN": "方形吸顶灯",
+   "zh-TW": "方形吸頂燈",
+   "ja": "スクエア・シーリングランプ"
+  },
+  "desc": {
+   "en": "This unobtrusive lighting fixture brightens a room without drawing the eye upward.",
+   "zh-CN": "内敛朴素的方形屋顶照明灯具。",
+   "zh-TW": "內斂樸素的方形屋頂照明燈具。",
+   "ja": "主張を抑えた、シンプルな角型の天井照明"
+  }
+ }
+]

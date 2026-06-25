@@ -1,0 +1,7 @@
+id: topmast-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Topmast Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

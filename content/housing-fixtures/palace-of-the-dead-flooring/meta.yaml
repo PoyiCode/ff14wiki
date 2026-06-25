@@ -1,0 +1,7 @@
+id: palace-of-the-dead-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Palace of the Dead Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

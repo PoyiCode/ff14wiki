@@ -1,0 +1,7 @@
+id: rough-stone-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Rough Stone Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

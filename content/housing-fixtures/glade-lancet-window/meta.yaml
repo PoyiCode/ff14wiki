@@ -1,0 +1,7 @@
+id: glade-lancet-window
+category: housing-fixtures
+type: fixture
+fixture: "Glade Lancet Window"
+fixture_type: window
+tags: [housing, fixture, window]
+status: stable

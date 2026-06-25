@@ -1,0 +1,7 @@
+id: highland-house-roof-stone
+category: housing-fixtures
+type: fixture
+fixture: "Highland House Roof (Stone)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

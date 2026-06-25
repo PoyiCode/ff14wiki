@@ -1,0 +1,7 @@
+id: glade-cobblestone-wall
+category: housing-fixtures
+type: fixture
+fixture: "Glade Cobblestone Wall"
+fixture_type: fence
+tags: [housing, fixture, fence]
+status: stable

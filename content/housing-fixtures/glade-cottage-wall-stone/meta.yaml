@@ -1,0 +1,7 @@
+id: glade-cottage-wall-stone
+category: housing-fixtures
+type: fixture
+fixture: "Glade Cottage Wall (Stone)"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

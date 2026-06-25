@@ -1,0 +1,7 @@
+id: medium-arms-supplier-s-walls
+category: housing-fixtures
+type: fixture
+fixture: "Medium Arms Supplier's Walls"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

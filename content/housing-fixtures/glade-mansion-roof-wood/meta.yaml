@@ -1,0 +1,7 @@
+id: glade-mansion-roof-wood
+category: housing-fixtures
+type: fixture
+fixture: "Glade Mansion Roof (Wood)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

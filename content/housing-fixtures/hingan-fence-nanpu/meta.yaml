@@ -1,0 +1,7 @@
+id: hingan-fence-nanpu
+category: housing-fixtures
+type: fixture
+fixture: "Hingan Fence (Nanpu)"
+fixture_type: fence
+tags: [housing, fixture, fence]
+status: stable

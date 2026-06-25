@@ -1,0 +1,7 @@
+id: highland-wooden-door
+category: housing-fixtures
+type: fixture
+fixture: "Highland Wooden Door"
+fixture_type: door
+tags: [housing, fixture, door]
+status: stable

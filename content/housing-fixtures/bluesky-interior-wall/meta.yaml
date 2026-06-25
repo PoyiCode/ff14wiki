@@ -1,0 +1,7 @@
+id: bluesky-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Bluesky Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

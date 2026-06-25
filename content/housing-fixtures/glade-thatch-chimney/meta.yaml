@@ -1,0 +1,7 @@
+id: glade-thatch-chimney
+category: housing-fixtures
+type: fixture
+fixture: "Glade Thatch Chimney"
+fixture_type: roof-decoration
+tags: [housing, fixture, roof-decoration]
+status: stable

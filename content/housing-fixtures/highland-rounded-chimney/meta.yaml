@@ -1,0 +1,7 @@
+id: highland-rounded-chimney
+category: housing-fixtures
+type: fixture
+fixture: "Highland Rounded Chimney"
+fixture_type: roof-decoration
+tags: [housing, fixture, roof-decoration]
+status: stable

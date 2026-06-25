@@ -1,0 +1,7 @@
+id: deluxe-bombard-lamp
+category: housing-fixtures
+type: fixture
+fixture: "Deluxe Bombard Lamp"
+fixture_type: ceiling-light
+tags: [housing, fixture, ceiling-light]
+status: stable

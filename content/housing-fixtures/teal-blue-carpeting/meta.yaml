@@ -1,0 +1,7 @@
+id: teal-blue-carpeting
+category: housing-fixtures
+type: fixture
+fixture: "Teal Blue Carpeting"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

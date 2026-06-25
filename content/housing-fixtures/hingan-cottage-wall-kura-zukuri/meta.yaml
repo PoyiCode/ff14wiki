@@ -1,0 +1,7 @@
+id: hingan-cottage-wall-kura-zukuri
+category: housing-fixtures
+type: fixture
+fixture: "Hingan Cottage Wall (Kura-zukuri)"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

@@ -1,0 +1,7 @@
+id: glade-tiled-awning
+category: housing-fixtures
+type: fixture
+fixture: "Glade Tiled Awning"
+fixture_type: exterior-wall-decoration
+tags: [housing, fixture, exterior-wall-decoration]
+status: stable

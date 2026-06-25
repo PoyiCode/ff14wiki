@@ -1,0 +1,7 @@
+id: half-timbered-mansion-walls
+category: housing-fixtures
+type: fixture
+fixture: "Half-timbered Mansion Walls"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

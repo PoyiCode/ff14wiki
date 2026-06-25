@@ -1,0 +1,7 @@
+id: chocobo-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Chocobo Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

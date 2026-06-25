@@ -1,0 +1,7 @@
+id: oasis-flora-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Flora Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

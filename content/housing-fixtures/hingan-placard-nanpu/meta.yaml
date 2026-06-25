@@ -1,0 +1,7 @@
+id: hingan-placard-nanpu
+category: housing-fixtures
+type: fixture
+fixture: "Hingan Placard (Nanpu)"
+fixture_type: placard
+tags: [housing, fixture, placard]
+status: stable

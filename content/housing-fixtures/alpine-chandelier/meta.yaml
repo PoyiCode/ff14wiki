@@ -1,0 +1,7 @@
+id: alpine-chandelier
+category: housing-fixtures
+type: fixture
+fixture: "Alpine Chandelier"
+fixture_type: ceiling-light
+tags: [housing, fixture, ceiling-light]
+status: stable

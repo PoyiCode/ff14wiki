@@ -1,0 +1,7 @@
+id: medium-cafe-walls
+category: housing-fixtures
+type: fixture
+fixture: "Medium Cafe Walls"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

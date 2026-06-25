@@ -1,0 +1,7 @@
+id: riviera-roofed-wall
+category: housing-fixtures
+type: fixture
+fixture: "Riviera Roofed Wall"
+fixture_type: fence
+tags: [housing, fixture, fence]
+status: stable

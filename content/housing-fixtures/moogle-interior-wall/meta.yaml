@@ -1,0 +1,7 @@
+id: moogle-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Moogle Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

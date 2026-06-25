@@ -1,0 +1,7 @@
+id: hingan-house-wall-nanpu
+category: housing-fixtures
+type: fixture
+fixture: "Hingan House Wall (Nanpu)"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

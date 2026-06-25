@@ -1,0 +1,7 @@
+id: oasis-wall-chimney
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Wall Chimney"
+fixture_type: exterior-wall-decoration
+tags: [housing, fixture, exterior-wall-decoration]
+status: stable

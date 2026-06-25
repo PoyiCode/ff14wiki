@@ -1,0 +1,7 @@
+id: glade-chandelier
+category: housing-fixtures
+type: fixture
+fixture: "Glade Chandelier"
+fixture_type: ceiling-light
+tags: [housing, fixture, ceiling-light]
+status: stable

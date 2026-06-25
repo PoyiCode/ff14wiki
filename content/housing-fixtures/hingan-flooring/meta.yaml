@@ -1,0 +1,7 @@
+id: hingan-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Hingan Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

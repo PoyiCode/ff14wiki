@@ -1,0 +1,7 @@
+id: leveilleur-estate-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Leveilleur Estate Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

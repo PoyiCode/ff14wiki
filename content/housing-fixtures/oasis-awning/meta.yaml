@@ -1,0 +1,7 @@
+id: oasis-awning
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Awning"
+fixture_type: exterior-wall-decoration
+tags: [housing, fixture, exterior-wall-decoration]
+status: stable

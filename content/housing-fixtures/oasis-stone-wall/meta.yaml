@@ -1,0 +1,7 @@
+id: oasis-stone-wall
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Stone Wall"
+fixture_type: fence
+tags: [housing, fixture, fence]
+status: stable

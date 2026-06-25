@@ -1,0 +1,7 @@
+id: cactuar-weathervane
+category: housing-fixtures
+type: fixture
+fixture: "Cactuar Weathervane"
+fixture_type: roof-decoration
+tags: [housing, fixture, roof-decoration]
+status: stable

@@ -1,0 +1,7 @@
+id: riviera-mansion-roof-composite
+category: housing-fixtures
+type: fixture
+fixture: "Riviera Mansion Roof (Composite)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

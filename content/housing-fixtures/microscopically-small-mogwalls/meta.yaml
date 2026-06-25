@@ -1,0 +1,7 @@
+id: microscopically-small-mogwalls
+category: housing-fixtures
+type: fixture
+fixture: "Microscopically Small Mogwalls"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

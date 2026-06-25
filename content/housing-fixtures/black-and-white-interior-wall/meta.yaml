@@ -1,0 +1,7 @@
+id: black-and-white-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Black-and-white Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

@@ -1,0 +1,7 @@
+id: odder-otter-house-walls
+category: housing-fixtures
+type: fixture
+fixture: "Odder Otter House Walls"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

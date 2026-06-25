@@ -1,0 +1,7 @@
+id: hingan-door-kura-zukuri
+category: housing-fixtures
+type: fixture
+fixture: "Hingan Door (Kura-zukuri)"
+fixture_type: door
+tags: [housing, fixture, door]
+status: stable

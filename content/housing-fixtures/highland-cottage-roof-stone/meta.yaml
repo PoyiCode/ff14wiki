@@ -1,0 +1,7 @@
+id: highland-cottage-roof-stone
+category: housing-fixtures
+type: fixture
+fixture: "Highland Cottage Roof (Stone)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

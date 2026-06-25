@@ -1,0 +1,7 @@
+id: illumination-module
+category: housing-fixtures
+type: fixture
+fixture: "Illumination Module"
+fixture_type: ceiling-light
+tags: [housing, fixture, ceiling-light]
+status: stable

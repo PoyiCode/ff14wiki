@@ -1,0 +1,7 @@
+id: highland-oblong-window
+category: housing-fixtures
+type: fixture
+fixture: "Highland Oblong Window"
+fixture_type: window
+tags: [housing, fixture, window]
+status: stable

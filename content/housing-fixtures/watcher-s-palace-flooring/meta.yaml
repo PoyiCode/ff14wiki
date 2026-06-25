@@ -1,0 +1,7 @@
+id: watcher-s-palace-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Watcher's Palace Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

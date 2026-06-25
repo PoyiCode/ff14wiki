@@ -1,0 +1,7 @@
+id: cosmomodule-inner-wall
+category: housing-fixtures
+type: fixture
+fixture: "Cosmomodule Inner Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

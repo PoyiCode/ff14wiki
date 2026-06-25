@@ -1,0 +1,7 @@
+id: gingerbread-mansion-walls
+category: housing-fixtures
+type: fixture
+fixture: "Gingerbread Mansion Walls"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

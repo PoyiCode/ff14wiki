@@ -1,0 +1,7 @@
+id: striped-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Striped Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

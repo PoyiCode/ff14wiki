@@ -1,0 +1,7 @@
+id: small-merchant-s-walls
+category: housing-fixtures
+type: fixture
+fixture: "Small Merchant's Walls"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

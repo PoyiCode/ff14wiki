@@ -1,0 +1,7 @@
+id: highland-classical-door
+category: housing-fixtures
+type: fixture
+fixture: "Highland Classical Door"
+fixture_type: door
+tags: [housing, fixture, door]
+status: stable

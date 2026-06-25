@@ -13,7 +13,7 @@ const CATEGORIES = [
   'minions', 'music', 'titles', 'dyes', 'ornaments', 'triple-triad',
   'sightseeing', 'food', 'furniture', 'garden', 'hairstyles', 'fish',
   'facewear', 'fishing-spots', 'instruments', 'barding', 'online-status',
-  'gardening',
+  'gardening', 'housing-fixtures',
 ];
 const CONTENT_DIR = path.join(process.cwd(), 'content');
 

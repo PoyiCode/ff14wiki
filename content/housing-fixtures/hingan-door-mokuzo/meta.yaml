@@ -1,0 +1,7 @@
+id: hingan-door-mokuzo
+category: housing-fixtures
+type: fixture
+fixture: "Hingan Door (Mokuzo)"
+fixture_type: door
+tags: [housing, fixture, door]
+status: stable

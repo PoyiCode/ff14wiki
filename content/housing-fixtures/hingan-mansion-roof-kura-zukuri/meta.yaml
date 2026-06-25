@@ -1,0 +1,7 @@
+id: hingan-mansion-roof-kura-zukuri
+category: housing-fixtures
+type: fixture
+fixture: "Hingan Mansion Roof (Kura-zukuri)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

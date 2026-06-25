@@ -300,6 +300,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The crops and plants residents can grow in their gardens, so the bot can chat about gardening, harvests and home-grown produce.',
     },
   },
+  {
+    key: 'housing-fixtures',
+    label: { 'zh-TW': '房屋部件', 'zh-CN': '房屋部件', ja: 'ハウジング部材', en: 'House Fixtures' },
+    description: {
+      'zh-TW': '房屋的結構與裝潢部件（屋頂、外牆、窗、門、圍欄、內牆、地板、照明等），讓 bot 能聊自家房屋的外觀與改裝。',
+      'zh-CN': '房屋的结构与装潢部件（屋顶、外墙、窗、门、围栏、内墙、地板、照明等），让 bot 能聊自家房屋的外观与改装。',
+      ja: '家の構造・内装部材（屋根・外壁・窓・扉・フェンス・内壁・床・照明など）。botが自宅の外観や改装を語れるように。',
+      en: 'The structural and decor fixtures of a house (roofs, walls, windows, doors, fences, flooring, lighting and more), so the bot can talk about its home’s look and remodelling.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

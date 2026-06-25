@@ -1,0 +1,7 @@
+id: hingan-door-nanpu
+category: housing-fixtures
+type: fixture
+fixture: "Hingan Door (Nanpu)"
+fixture_type: door
+tags: [housing, fixture, door]
+status: stable

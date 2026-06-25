@@ -1,0 +1,7 @@
+id: riviera-studded-door
+category: housing-fixtures
+type: fixture
+fixture: "Riviera Studded Door"
+fixture_type: door
+tags: [housing, fixture, door]
+status: stable

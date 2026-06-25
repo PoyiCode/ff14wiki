@@ -1,0 +1,7 @@
+id: highland-mansion-wall-composite
+category: housing-fixtures
+type: fixture
+fixture: "Highland Mansion Wall (Composite)"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

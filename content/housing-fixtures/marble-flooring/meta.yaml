@@ -1,0 +1,7 @@
+id: marble-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Marble Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

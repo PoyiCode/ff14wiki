@@ -1,0 +1,7 @@
+id: storm-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Storm Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

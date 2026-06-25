@@ -1,0 +1,7 @@
+id: oasis-placard
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Placard"
+fixture_type: placard
+tags: [housing, fixture, placard]
+status: stable

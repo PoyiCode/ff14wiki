@@ -1,0 +1,7 @@
+id: leafy-ceiling-lamp
+category: housing-fixtures
+type: fixture
+fixture: "Leafy Ceiling Lamp"
+fixture_type: ceiling-light
+tags: [housing, fixture, ceiling-light]
+status: stable

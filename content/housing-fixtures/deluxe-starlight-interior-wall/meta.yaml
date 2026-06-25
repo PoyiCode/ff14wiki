@@ -1,0 +1,7 @@
+id: deluxe-starlight-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Deluxe Starlight Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

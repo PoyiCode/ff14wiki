@@ -1,0 +1,7 @@
+id: oasis-ornate-fence
+category: housing-fixtures
+type: fixture
+fixture: "Oasis Ornate Fence"
+fixture_type: fence
+tags: [housing, fixture, fence]
+status: stable

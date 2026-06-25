@@ -1,0 +1,7 @@
+id: sharlayan-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Sharlayan Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

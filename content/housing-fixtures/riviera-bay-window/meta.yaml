@@ -1,0 +1,7 @@
+id: riviera-bay-window
+category: housing-fixtures
+type: fixture
+fixture: "Riviera Bay Window"
+fixture_type: window
+tags: [housing, fixture, window]
+status: stable

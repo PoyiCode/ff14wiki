@@ -1,0 +1,7 @@
+id: highland-house-roof-wood
+category: housing-fixtures
+type: fixture
+fixture: "Highland House Roof (Wood)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

@@ -1,0 +1,7 @@
+id: half-timbered-house-walls
+category: housing-fixtures
+type: fixture
+fixture: "Half-timbered House Walls"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

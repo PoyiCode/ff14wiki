@@ -1,0 +1,7 @@
+id: stone-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Stone Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

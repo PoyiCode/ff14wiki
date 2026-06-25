@@ -1,0 +1,7 @@
+id: hingan-chimney-kura-zukuri
+category: housing-fixtures
+type: fixture
+fixture: "Hingan Chimney (Kura-zukuri)"
+fixture_type: roof-decoration
+tags: [housing, fixture, roof-decoration]
+status: stable

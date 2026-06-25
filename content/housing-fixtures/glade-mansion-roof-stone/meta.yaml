@@ -1,0 +1,7 @@
+id: glade-mansion-roof-stone
+category: housing-fixtures
+type: fixture
+fixture: "Glade Mansion Roof (Stone)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

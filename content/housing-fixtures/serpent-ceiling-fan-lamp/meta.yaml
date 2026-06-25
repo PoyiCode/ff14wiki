@@ -1,0 +1,7 @@
+id: serpent-ceiling-fan-lamp
+category: housing-fixtures
+type: fixture
+fixture: "Serpent Ceiling Fan & Lamp"
+fixture_type: ceiling-light
+tags: [housing, fixture, ceiling-light]
+status: stable

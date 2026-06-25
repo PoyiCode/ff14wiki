@@ -1,0 +1,7 @@
+id: riviera-stone-wall
+category: housing-fixtures
+type: fixture
+fixture: "Riviera Stone Wall"
+fixture_type: fence
+tags: [housing, fixture, fence]
+status: stable

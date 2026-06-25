@@ -1,0 +1,7 @@
+id: trader-s-cottage-walls
+category: housing-fixtures
+type: fixture
+fixture: "Trader's Cottage Walls"
+fixture_type: exterior-wall
+tags: [housing, fixture, exterior-wall]
+status: stable

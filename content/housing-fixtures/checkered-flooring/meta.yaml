@@ -1,0 +1,7 @@
+id: checkered-flooring
+category: housing-fixtures
+type: fixture
+fixture: "Checkered Flooring"
+fixture_type: flooring
+tags: [housing, fixture, flooring]
+status: stable

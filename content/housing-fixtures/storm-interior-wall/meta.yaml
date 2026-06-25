@@ -1,0 +1,7 @@
+id: storm-interior-wall
+category: housing-fixtures
+type: fixture
+fixture: "Storm Interior Wall"
+fixture_type: interior-wall
+tags: [housing, fixture, interior-wall]
+status: stable

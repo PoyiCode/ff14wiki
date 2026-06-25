@@ -1,0 +1,7 @@
+id: hingan-house-roof-nanpu
+category: housing-fixtures
+type: fixture
+fixture: "Hingan House Roof (Nanpu)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

@@ -1,0 +1,7 @@
+id: highland-mansion-roof-stone
+category: housing-fixtures
+type: fixture
+fixture: "Highland Mansion Roof (Stone)"
+fixture_type: roof
+tags: [housing, fixture, roof]
+status: stable

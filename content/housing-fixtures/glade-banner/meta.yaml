@@ -1,0 +1,7 @@
+id: glade-banner
+category: housing-fixtures
+type: fixture
+fixture: "Glade Banner"
+fixture_type: placard
+tags: [housing, fixture, placard]
+status: stable
