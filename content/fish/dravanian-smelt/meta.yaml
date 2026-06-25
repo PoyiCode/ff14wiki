@@ -2,5 +2,6 @@ id: dravanian-smelt
 category: fish
 type: fish
 fish: "Dravanian Smelt"
+related: [the-hundred-throes]
 tags: [fish, fishing, nature]
 status: stable

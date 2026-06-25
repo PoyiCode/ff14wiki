@@ -2,5 +2,6 @@ id: nervure-driftwood
 category: fish
 type: fish
 fish: "Nervure Driftwood"
+related: [western-nervure-2, western-nervure-3, western-nervure-4, western-nervure-5]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: megalith-lithoshell
 category: fish
 type: fish
 fish: "Megalith Lithoshell"
+related: [megalithopolis-5]
 tags: [fish, fishing, nature]
 status: stable

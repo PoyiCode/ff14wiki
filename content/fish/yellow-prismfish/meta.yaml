@@ -2,5 +2,6 @@ id: yellow-prismfish
 category: fish
 type: fish
 fish: "Yellow Prismfish"
+related: [prism-lake]
 tags: [fish, fishing, nature]
 status: stable

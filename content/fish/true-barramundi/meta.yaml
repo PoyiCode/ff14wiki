@@ -2,5 +2,6 @@ id: true-barramundi
 category: fish
 type: fish
 fish: "True Barramundi"
+related: [rhotano-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

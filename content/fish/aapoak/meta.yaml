@@ -2,5 +2,6 @@ id: aapoak
 category: fish
 type: fish
 fish: "Aapoak"
+related: [west-caliban-gap]
 tags: [fish, fishing, nature]
 status: stable

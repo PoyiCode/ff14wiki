@@ -2,5 +2,6 @@ id: abyssal-snail
 category: fish
 type: fish
 fish: "Abyssal Snail"
+related: [the-rift-of-sighs, the-rusted-reservoir]
 tags: [fish, fishing, nature]
 status: stable

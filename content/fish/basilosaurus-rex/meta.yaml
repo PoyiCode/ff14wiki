@@ -2,5 +2,6 @@ id: basilosaurus-rex
 category: fish
 type: fish
 fish: "Basilosaurus Rex"
+related: [the-perfumed-tides]
 tags: [fish, fishing, nature]
 status: stable

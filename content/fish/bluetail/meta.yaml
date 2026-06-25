@@ -2,5 +2,6 @@ id: bluetail
 category: fish
 type: fish
 fish: "Bluetail"
+related: [the-stainless-course]
 tags: [fish, fishing, nature]
 status: stable

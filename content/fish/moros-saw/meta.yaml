@@ -2,5 +2,6 @@ id: moros-saw
 category: fish
 type: fish
 fish: "Moros Saw"
+related: [the-moros-well-4]
 tags: [fish, fishing, nature]
 status: stable

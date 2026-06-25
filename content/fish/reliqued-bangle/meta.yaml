@@ -2,5 +2,6 @@ id: reliqued-bangle
 category: fish
 type: fish
 fish: "Reliqued Bangle"
+related: [under-overboard-3]
 tags: [fish, fishing, nature]
 status: stable

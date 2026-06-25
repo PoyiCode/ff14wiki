@@ -2,5 +2,6 @@ id: cirrostratus
 category: fish
 type: fish
 fish: "Cirrostratus"
+related: [cloudtop]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: junkmonger
 category: fish
 type: fish
 fish: "Junkmonger"
+related: [skull-valley]
 tags: [fish, fishing, nature]
 status: stable

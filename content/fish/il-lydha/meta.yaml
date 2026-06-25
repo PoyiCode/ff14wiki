@@ -2,5 +2,6 @@ id: il-lydha
 category: fish
 type: fish
 fish: "Il Lydha"
+related: [the-norvrandt-slope]
 tags: [fish, fishing, nature]
 status: stable

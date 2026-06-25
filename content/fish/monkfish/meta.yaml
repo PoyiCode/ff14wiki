@@ -2,5 +2,6 @@ id: monkfish
 category: fish
 type: fish
 fish: "Monkfish"
+related: [crescent-cove]
 tags: [fish, fishing, nature]
 status: stable

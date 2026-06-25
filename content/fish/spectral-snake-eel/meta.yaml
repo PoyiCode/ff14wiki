@@ -2,5 +2,6 @@ id: spectral-snake-eel
 category: fish
 type: fish
 fish: "Spectral Snake Eel"
+related: [open-ruby-sea]
 tags: [fish, fishing, nature]
 status: stable

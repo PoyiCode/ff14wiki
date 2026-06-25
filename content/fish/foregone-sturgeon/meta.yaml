@@ -2,5 +2,6 @@ id: foregone-sturgeon
 category: fish
 type: fish
 fish: "Foregone Sturgeon"
+related: [foregone-oasis-4]
 tags: [fish, fishing, nature]
 status: stable

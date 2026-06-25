@@ -2,5 +2,6 @@ id: lunar-turtle
 category: fish
 type: fish
 fish: "Lunar Turtle"
+related: [hollow-harbor-5]
 tags: [fish, fishing, nature]
 status: stable

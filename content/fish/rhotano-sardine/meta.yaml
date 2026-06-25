@@ -2,5 +2,6 @@ id: rhotano-sardine
 category: fish
 type: fish
 fish: "Rhotano Sardine"
+related: [open-rhotano-sea]
 tags: [fish, fishing, nature]
 status: stable

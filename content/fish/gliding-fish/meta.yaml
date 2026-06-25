@@ -2,5 +2,6 @@ id: gliding-fish
 category: fish
 type: fish
 fish: "Gliding Fish"
+related: [isari]
 tags: [fish, fishing, nature]
 status: stable

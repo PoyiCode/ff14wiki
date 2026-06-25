@@ -2,5 +2,6 @@ id: coeurlfish
 category: fish
 type: fish
 fish: "Coeurlfish"
+related: [oakwood]
 tags: [fish, fishing, nature]
 status: stable

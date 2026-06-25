@@ -2,5 +2,6 @@ id: potash-guppish
 category: fish
 type: fish
 fish: "Potash Guppish"
+related: [west-beaconveil-7]
 tags: [fish, fishing, nature]
 status: stable

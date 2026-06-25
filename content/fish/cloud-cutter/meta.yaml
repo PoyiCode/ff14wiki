@@ -2,5 +2,6 @@ id: cloud-cutter
 category: fish
 type: fish
 fish: "Cloud Cutter"
+related: [witchdrop, sea-of-clouds]
 tags: [fish, fishing, nature]
 status: stable

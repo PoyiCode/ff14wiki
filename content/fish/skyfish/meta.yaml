@@ -2,5 +2,6 @@ id: skyfish
 category: fish
 type: fish
 fish: "Skyfish"
+related: [witchdrop, sea-of-clouds]
 tags: [fish, fishing, nature]
 status: stable

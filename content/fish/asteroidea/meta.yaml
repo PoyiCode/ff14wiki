@@ -2,5 +2,6 @@ id: asteroidea
 category: fish
 type: fish
 fish: "Asteroidea"
+related: [the-trivium]
 tags: [fish, fishing, nature]
 status: stable

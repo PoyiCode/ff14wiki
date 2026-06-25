@@ -2,5 +2,6 @@ id: silencer
 category: fish
 type: fish
 fish: "Silencer"
+related: [rhotano-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

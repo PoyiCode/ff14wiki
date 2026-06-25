@@ -2,5 +2,6 @@ id: gwl-crab
 category: fish
 type: fish
 fish: "Gwl Crab"
+related: [yedlihmad]
 tags: [fish, fishing, nature]
 status: stable

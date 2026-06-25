@@ -2,5 +2,6 @@ id: paksa-fish
 category: fish
 type: fish
 fish: "Paksa Fish"
+related: [the-thavnairian-coast]
 tags: [fish, fishing, nature]
 status: stable

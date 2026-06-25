@@ -2,5 +2,6 @@ id: dumplingfish
 category: fish
 type: fish
 fish: "Dumplingfish"
+related: [miyakabek-zoma, marsh-ligaka]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: sylvan-strand
 category: fish
 type: fish
 fish: "Sylvan Strand"
+related: [full-bloom-fountain-5]
 tags: [fish, fishing, nature]
 status: stable

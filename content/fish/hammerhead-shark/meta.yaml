@@ -2,5 +2,6 @@ id: hammerhead-shark
 category: fish
 type: fish
 fish: "Hammerhead Shark"
+related: [halfstone, the-silver-bazaar]
 tags: [fish, fishing, nature]
 status: stable

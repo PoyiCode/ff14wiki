@@ -2,5 +2,6 @@ id: reliqued-vessel
 category: fish
 type: fish
 fish: "Reliqued Vessel"
+related: [the-moros-well-5]
 tags: [fish, fishing, nature]
 status: stable

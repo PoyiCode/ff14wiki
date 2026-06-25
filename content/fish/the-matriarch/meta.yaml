@@ -2,5 +2,6 @@ id: the-matriarch
 category: fish
 type: fish
 fish: "The Matriarch"
+related: [exploratory-ice-hole]
 tags: [fish, fishing, nature]
 status: stable

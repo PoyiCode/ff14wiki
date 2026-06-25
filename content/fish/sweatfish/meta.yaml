@@ -2,5 +2,6 @@ id: sweatfish
 category: fish
 type: fish
 fish: "Sweatfish"
+related: [azim-khaat]
 tags: [fish, fishing, nature]
 status: stable

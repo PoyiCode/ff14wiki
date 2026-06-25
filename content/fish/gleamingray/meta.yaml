@@ -2,5 +2,6 @@ id: gleamingray
 category: fish
 type: fish
 fish: "Gleamingray"
+related: [glimmerpond-beta-2]
 tags: [fish, fishing, nature]
 status: stable

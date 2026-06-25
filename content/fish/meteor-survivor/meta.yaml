@@ -2,5 +2,6 @@ id: meteor-survivor
 category: fish
 type: fish
 fish: "Meteor Survivor"
+related: [the-salt-strand]
 tags: [fish, fishing, nature]
 status: stable

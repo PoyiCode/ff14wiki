@@ -2,5 +2,6 @@ id: canal-drum
 category: fish
 type: fish
 fish: "Canal Drum"
+related: [canal-town-south]
 tags: [fish, fishing, nature]
 status: stable

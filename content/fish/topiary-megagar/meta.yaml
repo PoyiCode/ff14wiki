@@ -2,5 +2,6 @@ id: topiary-megagar
 category: fish
 type: fish
 fish: "Topiary Megagar"
+related: [emerald-springs-5]
 tags: [fish, fishing, nature]
 status: stable

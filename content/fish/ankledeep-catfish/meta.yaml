@@ -2,5 +2,6 @@ id: ankledeep-catfish
 category: fish
 type: fish
 fish: "Ankledeep Catfish"
+related: [ankledeep]
 tags: [fish, fishing, nature]
 status: stable

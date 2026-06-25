@@ -2,5 +2,6 @@ id: samurai-fish
 category: fish
 type: fish
 fish: "Samurai Fish"
+related: [doma-castle]
 tags: [fish, fishing, nature]
 status: stable

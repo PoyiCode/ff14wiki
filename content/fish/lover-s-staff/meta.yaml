@@ -2,5 +2,6 @@ id: lover-s-staff
 category: fish
 type: fish
 fish: "Lover's Staff"
+related: [southeast-well-3]
 tags: [fish, fishing, nature]
 status: stable

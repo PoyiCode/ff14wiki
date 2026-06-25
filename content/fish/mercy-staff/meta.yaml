@@ -2,5 +2,6 @@ id: mercy-staff
 category: fish
 type: fish
 fish: "Mercy Staff"
+related: [west-banepool]
 tags: [fish, fishing, nature]
 status: stable

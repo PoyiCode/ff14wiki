@@ -2,5 +2,6 @@ id: bone-coral
 category: fish
 type: fish
 fish: "Bone Coral"
+related: [shoal-rock]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: purple-palate
 category: fish
 type: fish
 fish: "Purple Palate"
+related: [ku-uxage]
 tags: [fish, fishing, nature]
 status: stable

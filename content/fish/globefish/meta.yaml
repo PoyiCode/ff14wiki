@@ -2,5 +2,6 @@ id: globefish
 category: fish
 type: fish
 fish: "Globefish"
+related: [isari]
 tags: [fish, fishing, nature]
 status: stable

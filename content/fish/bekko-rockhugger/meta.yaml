@@ -2,5 +2,6 @@ id: bekko-rockhugger
 category: fish
 type: fish
 fish: "Bekko Rockhugger"
+related: [ruby-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

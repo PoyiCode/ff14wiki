@@ -2,5 +2,6 @@ id: cobalt-fish
 category: fish
 type: fish
 fish: "Cobalt Fish"
+related: [northward-hop-print-7]
 tags: [fish, fishing, nature]
 status: stable

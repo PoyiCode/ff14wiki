@@ -2,5 +2,6 @@ id: blue-cichlid
 category: fish
 type: fish
 fish: "Blue Cichlid"
+related: [northward-hop-print-2]
 tags: [fish, fishing, nature]
 status: stable

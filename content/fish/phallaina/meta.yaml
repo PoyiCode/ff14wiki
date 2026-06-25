@@ -2,5 +2,6 @@ id: phallaina
 category: fish
 type: fish
 fish: "Phallaina"
+related: [limne-3-2]
 tags: [fish, fishing, nature]
 status: stable

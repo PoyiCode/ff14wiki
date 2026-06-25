@@ -2,5 +2,6 @@ id: letter-puffer
 category: fish
 type: fish
 fish: "Letter Puffer"
+related: [landlord-colony]
 tags: [fish, fishing, nature]
 status: stable

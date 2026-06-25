@@ -2,5 +2,6 @@ id: moggle-mogpom
 category: fish
 type: fish
 fish: "Moggle Mogpom"
+related: [greensward]
 tags: [fish, fishing, nature]
 status: stable

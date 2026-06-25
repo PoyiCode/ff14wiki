@@ -2,5 +2,6 @@ id: lunar-deathworm
 category: fish
 type: fish
 fish: "Lunar Deathworm"
+related: [the-chlorophospond]
 tags: [fish, fishing, nature]
 status: stable

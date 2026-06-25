@@ -2,5 +2,6 @@ id: star-eater
 category: fish
 type: fish
 fish: "Star Eater"
+related: [apohelos-18, apohelos-18-2, apohelos-18-3]
 tags: [fish, fishing, nature]
 status: stable

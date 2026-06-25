@@ -2,5 +2,6 @@ id: lehr-killifish
 category: fish
 type: fish
 fish: "Lehr Killifish"
+related: [the-lehr-7]
 tags: [fish, fishing, nature]
 status: stable

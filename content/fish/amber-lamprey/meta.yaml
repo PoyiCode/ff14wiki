@@ -2,5 +2,6 @@ id: amber-lamprey
 category: fish
 type: fish
 fish: "Amber Lamprey"
+related: [the-nabaath-severance]
 tags: [fish, fishing, nature]
 status: stable

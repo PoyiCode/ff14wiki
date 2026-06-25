@@ -2,5 +2,6 @@ id: gold-broochback
 category: fish
 type: fish
 fish: "Gold Broochback"
+related: [the-prismatic-pull-4]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: star-crabtain
 category: fish
 type: fish
 fish: "Star Crabtain"
+related: [the-lehr-7]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: mythril-boxfish
 category: fish
 type: fish
 fish: "Mythril Boxfish"
+related: [cieldalaes-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

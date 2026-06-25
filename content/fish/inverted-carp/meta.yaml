@@ -2,5 +2,6 @@ id: inverted-carp
 category: fish
 type: fish
 fish: "Inverted Carp"
+related: [the-subterrain-3]
 tags: [fish, fishing, nature]
 status: stable

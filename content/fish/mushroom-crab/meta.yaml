@@ -2,5 +2,6 @@ id: mushroom-crab
 category: fish
 type: fish
 fish: "Mushroom Crab"
+related: [sylphlands]
 tags: [fish, fishing, nature]
 status: stable

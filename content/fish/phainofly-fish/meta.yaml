@@ -2,5 +2,6 @@ id: phainofly-fish
 category: fish
 type: fish
 fish: "Phainofly Fish"
+related: [bubble-bursters-2]
 tags: [fish, fishing, nature]
 status: stable

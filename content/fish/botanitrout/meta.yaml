@@ -2,5 +2,6 @@ id: botanitrout
 category: fish
 type: fish
 fish: "Botanitrout"
+related: [sprouting-cisterns-2, sprouting-cisterns-3]
 tags: [fish, fishing, nature]
 status: stable

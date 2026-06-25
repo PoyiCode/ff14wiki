@@ -2,5 +2,6 @@ id: iron-oxydoras
 category: fish
 type: fish
 fish: "Iron Oxydoras"
+related: [miyakabek-zoma]
 tags: [fish, fishing, nature]
 status: stable

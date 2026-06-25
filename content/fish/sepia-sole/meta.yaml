@@ -2,5 +2,6 @@ id: sepia-sole
 category: fish
 type: fish
 fish: "Sepia Sole"
+related: [sharptongue-drip]
 tags: [fish, fishing, nature]
 status: stable

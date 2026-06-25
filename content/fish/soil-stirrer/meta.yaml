@@ -2,5 +2,6 @@ id: soil-stirrer
 category: fish
 type: fish
 fish: "Soil Stirrer"
+related: [emerald-springs-4]
 tags: [fish, fishing, nature]
 status: stable

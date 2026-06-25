@@ -2,5 +2,6 @@ id: bursting-anemone
 category: fish
 type: fish
 fish: "Bursting Anemone"
+related: [bubble-bursters-2, bubble-bursters-3]
 tags: [fish, fishing, nature]
 status: stable

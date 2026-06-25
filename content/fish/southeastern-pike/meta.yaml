@@ -2,5 +2,6 @@ id: southeastern-pike
 category: fish
 type: fish
 fish: "Southeastern Pike"
+related: [southeast-well-6]
 tags: [fish, fishing, nature]
 status: stable

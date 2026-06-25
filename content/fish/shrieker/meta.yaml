@@ -2,5 +2,6 @@ id: shrieker
 category: fish
 type: fish
 fish: "Shrieker"
+related: [hells-lid]
 tags: [fish, fishing, nature]
 status: stable

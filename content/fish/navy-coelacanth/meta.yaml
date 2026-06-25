@@ -2,5 +2,6 @@ id: navy-coelacanth
 category: fish
 type: fish
 fish: "Navy Coelacanth"
+related: [lower-soda-lime-float-2, lower-soda-lime-float-3, lower-soda-lime-float-5]
 tags: [fish, fishing, nature]
 status: stable

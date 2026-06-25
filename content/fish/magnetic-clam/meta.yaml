@@ -2,5 +2,6 @@ id: magnetic-clam
 category: fish
 type: fish
 fish: "Magnetic Clam"
+related: [magnetic-horizon-3]
 tags: [fish, fishing, nature]
 status: stable

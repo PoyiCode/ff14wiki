@@ -2,5 +2,6 @@ id: corn-dace
 category: fish
 type: fish
 fish: "Corn Dace"
+related: [ku-uxage]
 tags: [fish, fishing, nature]
 status: stable

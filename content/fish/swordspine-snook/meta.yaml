@@ -2,5 +2,6 @@ id: swordspine-snook
 category: fish
 type: fish
 fish: "Swordspine Snook"
+related: [oinops]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: flarefish
 category: fish
 type: fish
 fish: "Flarefish"
+related: [unfrozen-pond]
 tags: [fish, fishing, nature]
 status: stable

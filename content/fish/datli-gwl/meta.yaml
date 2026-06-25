@@ -2,5 +2,6 @@ id: datli-gwl
 category: fish
 type: fish
 fish: "Datli Gwl"
+related: [thavnair-margin]
 tags: [fish, fishing, nature]
 status: stable

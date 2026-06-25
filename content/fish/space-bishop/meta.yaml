@@ -2,5 +2,6 @@ id: space-bishop
 category: fish
 type: fish
 fish: "Space Bishop"
+related: [limne-3]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: mahu-wai
 category: fish
 type: fish
 fish: "Mahu Wai"
+related: [cloudtop, blustery-cloudtop, calm-cloudtop]
 tags: [fish, fishing, nature]
 status: stable

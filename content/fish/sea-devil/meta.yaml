@@ -2,5 +2,6 @@ id: sea-devil
 category: fish
 type: fish
 fish: "Sea Devil"
+related: [isles-of-umbra-southshore, cape-westwind, sapsa-spawning-grounds]
 tags: [fish, fishing, nature]
 status: stable

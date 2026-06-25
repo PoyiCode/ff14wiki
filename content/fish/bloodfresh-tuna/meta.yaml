@@ -2,5 +2,6 @@ id: bloodfresh-tuna
 category: fish
 type: fish
 fish: "Bloodfresh Tuna"
+related: [open-bloodbrine-sea]
 tags: [fish, fishing, nature]
 status: stable

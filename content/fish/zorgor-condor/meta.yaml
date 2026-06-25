@@ -2,5 +2,6 @@ id: zorgor-condor
 category: fish
 type: fish
 fish: "Zorgor Condor"
+related: [westbound-zorgor]
 tags: [fish, fishing, nature]
 status: stable

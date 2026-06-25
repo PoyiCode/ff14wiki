@@ -2,5 +2,6 @@ id: red-drum
 category: fish
 type: fish
 fish: "Red Drum"
+related: [the-wakeful-torana]
 tags: [fish, fishing, nature]
 status: stable

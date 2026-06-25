@@ -2,5 +2,6 @@ id: browned-banana-eel
 category: fish
 type: fish
 fish: "Browned Banana Eel"
+related: [pavana-s-remorse]
 tags: [fish, fishing, nature]
 status: stable

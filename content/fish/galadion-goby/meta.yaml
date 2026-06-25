@@ -2,5 +2,6 @@ id: galadion-goby
 category: fish
 type: fish
 fish: "Galadion Goby"
+related: [outer-galadion-bay]
 tags: [fish, fishing, nature]
 status: stable

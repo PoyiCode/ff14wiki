@@ -2,5 +2,6 @@ id: white-ronso
 category: fish
 type: fish
 fish: "White Ronso"
+related: [lower-watts-river]
 tags: [fish, fishing, nature]
 status: stable

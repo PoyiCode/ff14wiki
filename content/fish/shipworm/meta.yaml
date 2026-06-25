@@ -2,5 +2,6 @@ id: shipworm
 category: fish
 type: fish
 fish: "Shipworm"
+related: [thaliak-river, upper-thaliak-river]
 tags: [fish, fishing, nature]
 status: stable

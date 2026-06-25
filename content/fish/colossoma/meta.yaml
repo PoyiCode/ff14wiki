@@ -2,5 +2,6 @@ id: colossoma
 category: fish
 type: fish
 fish: "Colossoma"
+related: [the-lower-hungering-gardens]
 tags: [fish, fishing, nature]
 status: stable

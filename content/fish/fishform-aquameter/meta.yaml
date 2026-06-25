@@ -2,5 +2,6 @@ id: fishform-aquameter
 category: fish
 type: fish
 fish: "Fishform: Aquameter"
+related: [stratostone-shores-2]
 tags: [fish, fishing, nature]
 status: stable

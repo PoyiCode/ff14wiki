@@ -2,5 +2,6 @@ id: rapids-jumper
 category: fish
 type: fish
 fish: "Rapids Jumper"
+related: [the-slow-wash]
 tags: [fish, fishing, nature]
 status: stable

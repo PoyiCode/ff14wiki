@@ -2,5 +2,6 @@ id: burrow-clam
 category: fish
 type: fish
 fish: "Burrow Clam"
+related: [the-subterrain-2]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: turquoise-vine
 category: fish
 type: fish
 fish: "Turquoise Vine"
+related: [sylvan-soaking-pool-2]
 tags: [fish, fishing, nature]
 status: stable

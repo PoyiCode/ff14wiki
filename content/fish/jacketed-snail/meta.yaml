@@ -2,5 +2,6 @@ id: jacketed-snail
 category: fish
 type: fish
 fish: "Jacketed Snail"
+related: [the-trivium]
 tags: [fish, fishing, nature]
 status: stable

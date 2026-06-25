@@ -2,5 +2,6 @@ id: glass-nib
 category: fish
 type: fish
 fish: "Glass Nib"
+related: [capsule-pools-3]
 tags: [fish, fishing, nature]
 status: stable

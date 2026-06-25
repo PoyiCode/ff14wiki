@@ -2,5 +2,6 @@ id: geras-eel
 category: fish
 type: fish
 fish: "Geras Eel"
+related: [magnetic-horizon-8]
 tags: [fish, fishing, nature]
 status: stable

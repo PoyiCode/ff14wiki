@@ -2,5 +2,6 @@ id: specterfish
 category: fish
 type: fish
 fish: "Specterfish"
+related: [unnamed-margin]
 tags: [fish, fishing, nature]
 status: stable

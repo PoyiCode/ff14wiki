@@ -2,5 +2,6 @@ id: harutsuge
 category: fish
 type: fish
 fish: "Harutsuge"
+related: [shoal-rock]
 tags: [fish, fishing, nature]
 status: stable

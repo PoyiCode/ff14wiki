@@ -2,5 +2,6 @@ id: alien-mertone
 category: fish
 type: fish
 fish: "Alien Mertone"
+related: [limne-18]
 tags: [fish, fishing, nature]
 status: stable

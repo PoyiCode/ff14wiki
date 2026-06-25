@@ -2,5 +2,6 @@ id: pancake-octopus
 category: fish
 type: fish
 fish: "Pancake Octopus"
+related: [east-caliban-gap]
 tags: [fish, fishing, nature]
 status: stable

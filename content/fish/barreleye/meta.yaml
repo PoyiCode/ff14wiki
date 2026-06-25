@@ -2,5 +2,6 @@ id: barreleye
 category: fish
 type: fish
 fish: "Barreleye"
+related: [the-flagship]
 tags: [fish, fishing, nature]
 status: stable

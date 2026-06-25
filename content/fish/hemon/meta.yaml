@@ -2,5 +2,6 @@ id: hemon
 category: fish
 type: fish
 fish: "Hemon"
+related: [the-bull-s-bath]
 tags: [fish, fishing, nature]
 status: stable

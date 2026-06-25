@@ -2,5 +2,6 @@ id: toffee-snail
 category: fish
 type: fish
 fish: "Toffee Snail"
+related: [upper-watts-river, lower-watts-river, sharptongue-drip]
 tags: [fish, fishing, nature]
 status: stable

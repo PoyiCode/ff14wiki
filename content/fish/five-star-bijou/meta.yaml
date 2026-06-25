@@ -2,5 +2,6 @@ id: five-star-bijou
 category: fish
 type: fish
 fish: "Five-star Bijou"
+related: [capsule-pools-2]
 tags: [fish, fishing, nature]
 status: stable

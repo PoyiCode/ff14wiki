@@ -2,5 +2,6 @@ id: captivating-cap
 category: fish
 type: fish
 fish: "Captivating Cap"
+related: [collapsed-tunnel-2]
 tags: [fish, fishing, nature]
 status: stable

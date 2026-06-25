@@ -2,5 +2,6 @@ id: red-hammerhead
 category: fish
 type: fish
 fish: "Red Hammerhead"
+related: [the-derelicts]
 tags: [fish, fishing, nature]
 status: stable

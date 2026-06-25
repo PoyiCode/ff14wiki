@@ -2,5 +2,6 @@ id: satrapsaurus
 category: fish
 type: fish
 fish: "Satrapsaurus"
+related: [thavnair-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

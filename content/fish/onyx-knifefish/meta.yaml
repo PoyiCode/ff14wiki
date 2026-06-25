@@ -2,5 +2,6 @@ id: onyx-knifefish
 category: fish
 type: fish
 fish: "Onyx Knifefish"
+related: [the-mover-beta]
 tags: [fish, fishing, nature]
 status: stable

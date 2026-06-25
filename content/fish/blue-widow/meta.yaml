@@ -2,5 +2,6 @@ id: blue-widow
 category: fish
 type: fish
 fish: "Blue Widow"
+related: [murmur-rills]
 tags: [fish, fishing, nature]
 status: stable

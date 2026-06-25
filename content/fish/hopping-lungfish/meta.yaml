@@ -2,5 +2,6 @@ id: hopping-lungfish
 category: fish
 type: fish
 fish: "Hopping Lungfish"
+related: [westward-hop-print-8]
 tags: [fish, fishing, nature]
 status: stable

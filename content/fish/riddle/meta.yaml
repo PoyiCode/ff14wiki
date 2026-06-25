@@ -2,5 +2,6 @@ id: riddle
 category: fish
 type: fish
 fish: "Riddle"
+related: [anyx-old]
 tags: [fish, fishing, nature]
 status: stable

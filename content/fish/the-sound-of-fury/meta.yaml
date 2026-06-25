@@ -2,5 +2,6 @@ id: the-sound-of-fury
 category: fish
 type: fish
 fish: "The Sound of Fury"
+related: [longmirror-lake]
 tags: [fish, fishing, nature]
 status: stable

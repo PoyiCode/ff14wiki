@@ -2,5 +2,6 @@ id: leanchoilia
 category: fish
 type: fish
 fish: "Leanchoilia"
+related: [glimmerpond-beta-3]
 tags: [fish, fishing, nature]
 status: stable

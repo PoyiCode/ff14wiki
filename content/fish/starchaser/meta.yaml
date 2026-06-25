@@ -2,5 +2,6 @@ id: starchaser
 category: fish
 type: fish
 fish: "Starchaser"
+related: [purpure]
 tags: [fish, fishing, nature]
 status: stable

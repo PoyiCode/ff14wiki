@@ -2,5 +2,6 @@ id: arsenic-salamander
 category: fish
 type: fish
 fish: "Arsenic Salamander"
+related: [palus-arsenici-5]
 tags: [fish, fishing, nature]
 status: stable

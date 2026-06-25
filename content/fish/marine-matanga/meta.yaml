@@ -2,5 +2,6 @@ id: marine-matanga
 category: fish
 type: fish
 fish: "Marine Matanga"
+related: [open-sirensong-sea]
 tags: [fish, fishing, nature]
 status: stable

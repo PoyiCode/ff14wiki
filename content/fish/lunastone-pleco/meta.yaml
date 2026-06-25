@@ -2,5 +2,6 @@ id: lunastone-pleco
 category: fish
 type: fish
 fish: "Lunastone Pleco"
+related: [weeping-pool-9]
 tags: [fish, fishing, nature]
 status: stable

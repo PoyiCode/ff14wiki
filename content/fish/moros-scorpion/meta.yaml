@@ -2,5 +2,6 @@ id: moros-scorpion
 category: fish
 type: fish
 fish: "Moros Scorpion"
+related: [the-moros-well-2, the-moros-well-3, the-moros-well-4, the-moros-well-5]
 tags: [fish, fishing, nature]
 status: stable

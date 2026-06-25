@@ -2,5 +2,6 @@ id: marine-magnet
 category: fish
 type: fish
 fish: "Marine Magnet"
+related: [under-overboard-2]
 tags: [fish, fishing, nature]
 status: stable

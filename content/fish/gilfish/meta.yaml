@@ -2,5 +2,6 @@ id: gilfish
 category: fish
 type: fish
 fish: "Gilfish"
+related: [the-outer-fist]
 tags: [fish, fishing, nature]
 status: stable

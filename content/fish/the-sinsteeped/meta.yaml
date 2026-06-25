@@ -2,5 +2,6 @@ id: the-sinsteeped
 category: fish
 type: fish
 fish: "The Sinsteeped"
+related: [the-quadrivium]
 tags: [fish, fishing, nature]
 status: stable

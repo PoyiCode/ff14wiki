@@ -2,5 +2,6 @@ id: kissing-trout
 category: fish
 type: fish
 fish: "Kissing Trout"
+related: [coerthas-river, the-nail, dragonhead-latrines, exploratory-ice-hole]
 tags: [fish, fishing, nature]
 status: stable

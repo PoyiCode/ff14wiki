@@ -2,5 +2,6 @@ id: aetherochemical-compound-123
 category: fish
 type: fish
 fish: "Aetherochemical Compound #123"
+related: [aetherochemical-spill]
 tags: [fish, fishing, nature]
 status: stable

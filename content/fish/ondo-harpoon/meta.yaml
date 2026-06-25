@@ -2,5 +2,6 @@ id: ondo-harpoon
 category: fish
 type: fish
 fish: "Ondo Harpoon"
+related: [the-flounders-floor]
 tags: [fish, fishing, nature]
 status: stable

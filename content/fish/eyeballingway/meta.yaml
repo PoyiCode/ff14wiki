@@ -2,5 +2,6 @@ id: eyeballingway
 category: fish
 type: fish
 fish: "Eyeballingway"
+related: [palus-arsenici-5]
 tags: [fish, fishing, nature]
 status: stable

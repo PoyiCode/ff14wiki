@@ -2,5 +2,6 @@ id: harbor-herring
 category: fish
 type: fish
 fish: "Harbor Herring"
+related: [limsa-lominsa-lower-decks, limsa-lominsa-upper-decks, zephyr-drift, summerford, cedarwood, moraby-drydocks, north-bloodshore, swiftperch, the-brewer-s-beacon, vesper-bay, mist, rhotano-sea-privateer-forecastle]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: fragrant-sweetfish
 category: fish
 type: fish
 fish: "Fragrant Sweetfish"
+related: [lower-yat-khaal]
 tags: [fish, fishing, nature]
 status: stable

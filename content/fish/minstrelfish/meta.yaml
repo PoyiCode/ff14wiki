@@ -2,5 +2,6 @@ id: minstrelfish
 category: fish
 type: fish
 fish: "Minstrelfish"
+related: [seagazer-shoals]
 tags: [fish, fishing, nature]
 status: stable

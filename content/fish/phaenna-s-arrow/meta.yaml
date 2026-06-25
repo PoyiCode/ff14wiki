@@ -2,5 +2,6 @@ id: phaenna-s-arrow
 category: fish
 type: fish
 fish: "Phaenna's Arrow"
+related: [west-beaconveil-5]
 tags: [fish, fishing, nature]
 status: stable

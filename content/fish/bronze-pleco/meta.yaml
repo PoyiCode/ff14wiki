@@ -2,5 +2,6 @@ id: bronze-pleco
 category: fish
 type: fish
 fish: "Bronze Pleco"
+related: [the-dewspun-bank, peaks-poga]
 tags: [fish, fishing, nature]
 status: stable

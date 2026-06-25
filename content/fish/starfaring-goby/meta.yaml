@@ -2,5 +2,6 @@ id: starfaring-goby
 category: fish
 type: fish
 fish: "Starfaring Goby"
+related: [the-lehr-8]
 tags: [fish, fishing, nature]
 status: stable

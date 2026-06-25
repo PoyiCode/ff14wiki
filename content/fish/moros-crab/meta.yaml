@@ -2,5 +2,6 @@ id: moros-crab
 category: fish
 type: fish
 fish: "Moros Crab"
+related: [the-moros-well-2, the-moros-well-3, the-moros-well-4]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: the-winter-queen
 category: fish
 type: fish
 fish: "The Winter Queen"
+related: [shoal-rock]
 tags: [fish, fishing, nature]
 status: stable

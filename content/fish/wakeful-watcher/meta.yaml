@@ -2,5 +2,6 @@ id: wakeful-watcher
 category: fish
 type: fish
 fish: "Wakeful Watcher"
+related: [the-wakeful-torana]
 tags: [fish, fishing, nature]
 status: stable

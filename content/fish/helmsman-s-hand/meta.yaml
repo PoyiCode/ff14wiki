@@ -2,5 +2,6 @@ id: helmsman-s-hand
 category: fish
 type: fish
 fish: "Helmsman's Hand"
+related: [isles-of-umbra-northshore]
 tags: [fish, fishing, nature]
 status: stable

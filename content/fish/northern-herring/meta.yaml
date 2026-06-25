@@ -2,5 +2,6 @@ id: northern-herring
 category: fish
 type: fish
 fish: "Northern Herring"
+related: [scholar-s-harbor]
 tags: [fish, fishing, nature]
 status: stable

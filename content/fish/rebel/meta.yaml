@@ -2,5 +2,6 @@ id: rebel
 category: fish
 type: fish
 fish: "Rebel"
+related: [longmirror-lake]
 tags: [fish, fishing, nature]
 status: stable

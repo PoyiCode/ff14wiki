@@ -2,5 +2,6 @@ id: desert-catfish
 category: fish
 type: fish
 fish: "Desert Catfish"
+related: [sagolii-dunes]
 tags: [fish, fishing, nature]
 status: stable

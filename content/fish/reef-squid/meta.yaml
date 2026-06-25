@@ -2,5 +2,6 @@ id: reef-squid
 category: fish
 type: fish
 fish: "Reef Squid"
+related: [open-ruby-sea]
 tags: [fish, fishing, nature]
 status: stable

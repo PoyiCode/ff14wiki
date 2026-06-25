@@ -2,5 +2,6 @@ id: prismatic-fish
 category: fish
 type: fish
 fish: "Prismatic Fish"
+related: [hollow-harbor-2]
 tags: [fish, fishing, nature]
 status: stable

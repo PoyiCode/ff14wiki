@@ -2,5 +2,6 @@ id: knifefish
 category: fish
 type: fish
 fish: "Knifefish"
+related: [rathefrost, the-deep-tangle, red-mantis-falls, the-burning-wall, bluefog, singing-shards]
 tags: [fish, fishing, nature]
 status: stable

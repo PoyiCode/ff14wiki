@@ -2,5 +2,6 @@ id: fleeting-brand
 category: fish
 type: fish
 fish: "Fleeting Brand"
+related: [the-frozen-fissure]
 tags: [fish, fishing, nature]
 status: stable

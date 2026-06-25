@@ -2,5 +2,6 @@ id: red-sky-coral
 category: fish
 type: fish
 fish: "Red Sky Coral"
+related: [the-eddies]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: mud-golem
 category: fish
 type: fish
 fish: "Mud Golem"
+related: [the-footfalls]
 tags: [fish, fishing, nature]
 status: stable

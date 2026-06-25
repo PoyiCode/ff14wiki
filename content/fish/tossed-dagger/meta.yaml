@@ -2,5 +2,6 @@ id: tossed-dagger
 category: fish
 type: fish
 fish: "Tossed Dagger"
+related: [the-northern-strait-of-merlthor]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: oizys-rock
 category: fish
 type: fish
 fish: "Oizys Rock"
+related: [megalithopolis-6]
 tags: [fish, fishing, nature]
 status: stable

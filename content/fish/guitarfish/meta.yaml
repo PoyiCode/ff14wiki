@@ -2,5 +2,6 @@ id: guitarfish
 category: fish
 type: fish
 fish: "Guitarfish"
+related: [scholar-s-harbor]
 tags: [fish, fishing, nature]
 status: stable

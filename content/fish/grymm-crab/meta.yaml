@@ -2,5 +2,6 @@ id: grymm-crab
 category: fish
 type: fish
 fish: "Grymm Crab"
+related: [grymm-enid]
 tags: [fish, fishing, nature]
 status: stable

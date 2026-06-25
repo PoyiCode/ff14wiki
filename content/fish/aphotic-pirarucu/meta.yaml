@@ -2,5 +2,6 @@ id: aphotic-pirarucu
 category: fish
 type: fish
 fish: "Aphotic Pirarucu"
+related: [delta-quadrant]
 tags: [fish, fishing, nature]
 status: stable

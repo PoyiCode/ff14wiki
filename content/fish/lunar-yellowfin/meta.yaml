@@ -2,5 +2,6 @@ id: lunar-yellowfin
 category: fish
 type: fish
 fish: "Lunar Yellowfin"
+related: [hollow-harbor-6]
 tags: [fish, fishing, nature]
 status: stable

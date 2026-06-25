@@ -2,5 +2,6 @@ id: glassfish
 category: fish
 type: fish
 fish: "Glassfish"
+related: [apohelos-18-2]
 tags: [fish, fishing, nature]
 status: stable

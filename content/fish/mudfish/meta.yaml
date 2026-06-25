@@ -2,5 +2,6 @@ id: mudfish
 category: fish
 type: fish
 fish: "Mudfish"
+related: [ankledeep, cenote-moxutural, cenote-jayunja, sapsweet-cenote, bitterbark-cenote]
 tags: [fish, fishing, nature]
 status: stable

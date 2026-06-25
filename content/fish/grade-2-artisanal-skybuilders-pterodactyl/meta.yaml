@@ -2,5 +2,6 @@ id: grade-2-artisanal-skybuilders-pterodactyl
 category: fish
 type: fish
 fish: "Grade 2 Artisanal Skybuilders' Pterodactyl"
+related: [swirling-cloudtop-2, buffeted-cloudtop, buffeted-cloudtop-2]
 tags: [fish, fishing, nature]
 status: stable

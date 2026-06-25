@@ -2,5 +2,6 @@ id: bowfin
 category: fish
 type: fish
 fish: "Bowfin"
+related: [lake-tahtotl]
 tags: [fish, fishing, nature]
 status: stable

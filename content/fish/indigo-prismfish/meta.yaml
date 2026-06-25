@@ -2,5 +2,6 @@ id: indigo-prismfish
 category: fish
 type: fish
 fish: "Indigo Prismfish"
+related: [prism-lake]
 tags: [fish, fishing, nature]
 status: stable

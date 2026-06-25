@@ -2,5 +2,6 @@ id: purpure-cod
 category: fish
 type: fish
 fish: "Purpure Cod"
+related: [purpure]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: pond-mussel
 category: fish
 type: fish
 fish: "Pond Mussel"
+related: [sanctum-of-the-twelve, proud-creek, lake-tahtotl, oakwood, northeast-bronze-lake, bronze-lake-shallows, northwest-bronze-lake]
 tags: [fish, fishing, nature]
 status: stable

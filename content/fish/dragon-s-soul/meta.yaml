@@ -2,5 +2,6 @@ id: dragon-s-soul
 category: fish
 type: fish
 fish: "Dragon's Soul"
+related: [landlord-colony]
 tags: [fish, fishing, nature]
 status: stable

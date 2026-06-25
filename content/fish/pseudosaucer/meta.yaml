@@ -2,5 +2,6 @@ id: pseudosaucer
 category: fish
 type: fish
 fish: "Pseudosaucer"
+related: [collapsed-tunnel-6]
 tags: [fish, fishing, nature]
 status: stable

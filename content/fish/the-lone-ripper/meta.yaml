@@ -2,5 +2,6 @@ id: the-lone-ripper
 category: fish
 type: fish
 fish: "The Lone Ripper"
+related: [halfstone]
 tags: [fish, fishing, nature]
 status: stable

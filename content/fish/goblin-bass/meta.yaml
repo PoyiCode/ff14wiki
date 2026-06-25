@@ -2,5 +2,6 @@ id: goblin-bass
 category: fish
 type: fish
 fish: "Goblin Bass"
+related: [middle-thaliak-river]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: bowfish
 category: fish
 type: fish
 fish: "Bowfish"
+related: [tao-khaal]
 tags: [fish, fishing, nature]
 status: stable

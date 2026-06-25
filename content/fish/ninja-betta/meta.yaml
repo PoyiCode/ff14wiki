@@ -2,5 +2,6 @@ id: ninja-betta
 category: fish
 type: fish
 fish: "Ninja Betta"
+related: [the-tangle]
 tags: [fish, fishing, nature]
 status: stable

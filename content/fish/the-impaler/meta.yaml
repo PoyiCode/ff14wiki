@@ -2,5 +2,6 @@ id: the-impaler
 category: fish
 type: fish
 fish: "The Impaler"
+related: [dragonspit]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: tiger-muskellunge
 category: fish
 type: fish
 fish: "Tiger Muskellunge"
+related: [outskirts-shallows]
 tags: [fish, fishing, nature]
 status: stable

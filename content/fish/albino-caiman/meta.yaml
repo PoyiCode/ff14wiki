@@ -2,5 +2,6 @@ id: albino-caiman
 category: fish
 type: fish
 fish: "Albino Caiman"
+related: [the-rift-of-sighs]
 tags: [fish, fishing, nature]
 status: stable

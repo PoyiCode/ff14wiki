@@ -2,5 +2,6 @@ id: chakrafish
 category: fish
 type: fish
 fish: "Chakrafish"
+related: [dimwold]
 tags: [fish, fishing, nature]
 status: stable

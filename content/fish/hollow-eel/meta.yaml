@@ -2,5 +2,6 @@ id: hollow-eel
 category: fish
 type: fish
 fish: "Hollow Eel"
+related: [hollow-harbor-8]
 tags: [fish, fishing, nature]
 status: stable

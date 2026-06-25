@@ -2,5 +2,6 @@ id: ignus-horn
 category: fish
 type: fish
 fish: "Ignus Horn"
+related: [the-deep-tangle]
 tags: [fish, fishing, nature]
 status: stable

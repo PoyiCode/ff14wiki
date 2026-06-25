@@ -2,5 +2,6 @@ id: fuchsia-bloom
 category: fish
 type: fish
 fish: "Fuchsia Bloom"
+related: [longmirror-lake]
 tags: [fish, fishing, nature]
 status: stable

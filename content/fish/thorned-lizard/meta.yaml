@@ -2,5 +2,6 @@ id: thorned-lizard
 category: fish
 type: fish
 fish: "Thorned Lizard"
+related: [the-hills-of-amber]
 tags: [fish, fishing, nature]
 status: stable

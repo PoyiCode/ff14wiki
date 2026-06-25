@@ -2,5 +2,6 @@ id: bomb-puffer
 category: fish
 type: fish
 fish: "Bomb Puffer"
+related: [the-habisphere]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: pseudohedron
 category: fish
 type: fish
 fish: "Pseudohedron"
+related: [emerald-springs-3]
 tags: [fish, fishing, nature]
 status: stable

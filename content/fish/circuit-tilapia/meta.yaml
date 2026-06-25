@@ -2,5 +2,6 @@ id: circuit-tilapia
 category: fish
 type: fish
 fish: "Circuit Tilapia"
+related: [deepmoat]
 tags: [fish, fishing, nature]
 status: stable

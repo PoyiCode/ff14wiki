@@ -2,5 +2,6 @@ id: pelubane
 category: fish
 type: fish
 fish: "Pelubane"
+related: [peaks-poga]
 tags: [fish, fishing, nature]
 status: stable

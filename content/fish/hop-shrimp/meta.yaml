@@ -2,5 +2,6 @@ id: hop-shrimp
 category: fish
 type: fish
 fish: "Hop-shrimp"
+related: [northward-hop-print-2]
 tags: [fish, fishing, nature]
 status: stable

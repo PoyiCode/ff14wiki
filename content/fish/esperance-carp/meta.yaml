@@ -2,5 +2,6 @@ id: esperance-carp
 category: fish
 type: fish
 fish: "Esperance Carp"
+related: [proto-alexandria]
 tags: [fish, fishing, nature]
 status: stable

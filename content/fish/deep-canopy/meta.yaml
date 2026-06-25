@@ -2,5 +2,6 @@ id: deep-canopy
 category: fish
 type: fish
 fish: "Deep Canopy"
+related: [iq-br-aax-reservoir]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: cloudsail
 category: fish
 type: fish
 fish: "Cloudsail"
+related: [eastbound-zorgor]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: levinlight
 category: fish
 type: fish
 fish: "Levinlight"
+related: [everschade]
 tags: [fish, fishing, nature]
 status: stable

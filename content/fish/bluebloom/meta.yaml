@@ -2,5 +2,6 @@ id: bluebloom
 category: fish
 type: fish
 fish: "Bluebloom"
+related: [stratostone-shores-2]
 tags: [fish, fishing, nature]
 status: stable

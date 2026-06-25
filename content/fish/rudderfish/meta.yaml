@@ -2,5 +2,6 @@ id: rudderfish
 category: fish
 type: fish
 fish: "Rudderfish"
+related: [sohm-al-summit, tharl-oom-khash, the-habisphere]
 tags: [fish, fishing, nature]
 status: stable

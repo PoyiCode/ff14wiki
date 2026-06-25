@@ -2,5 +2,6 @@ id: geras-nautilus
 category: fish
 type: fish
 fish: "Geras Nautilus"
+related: [magnetic-horizon-3]
 tags: [fish, fishing, nature]
 status: stable

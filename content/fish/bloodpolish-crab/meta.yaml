@@ -2,5 +2,6 @@ id: bloodpolish-crab
 category: fish
 type: fish
 fish: "Bloodpolish Crab"
+related: [open-bloodbrine-sea]
 tags: [fish, fishing, nature]
 status: stable

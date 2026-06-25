@@ -2,5 +2,6 @@ id: the-unraveled-bow
 category: fish
 type: fish
 fish: "The Unraveled Bow"
+related: [prism-canyon]
 tags: [fish, fishing, nature]
 status: stable

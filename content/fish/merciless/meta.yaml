@@ -2,5 +2,6 @@ id: merciless
 category: fish
 type: fish
 fish: "Merciless"
+related: [west-banepool]
 tags: [fish, fishing, nature]
 status: stable

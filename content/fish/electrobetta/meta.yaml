@@ -2,5 +2,6 @@ id: electrobetta
 category: fish
 type: fish
 fish: "Electrobetta"
+related: [crackling-canyons, alexandrian-ruins]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: spectral-wrasse
 category: fish
 type: fish
 fish: "Spectral Wrasse"
+related: [kugane-coast]
 tags: [fish, fishing, nature]
 status: stable

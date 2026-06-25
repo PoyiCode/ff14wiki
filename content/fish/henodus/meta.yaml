@@ -2,5 +2,6 @@ id: henodus
 category: fish
 type: fish
 fish: "Henodus"
+related: [the-eastern-kholusian-coast]
 tags: [fish, fishing, nature]
 status: stable

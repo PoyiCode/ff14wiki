@@ -2,5 +2,6 @@ id: star-faerie
 category: fish
 type: fish
 fish: "Star Faerie"
+related: [sohm-al-summit]
 tags: [fish, fishing, nature]
 status: stable

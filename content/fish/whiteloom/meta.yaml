@@ -2,5 +2,6 @@ id: whiteloom
 category: fish
 type: fish
 fish: "Whiteloom"
+related: [the-blue-window, calm-cloudtop]
 tags: [fish, fishing, nature]
 status: stable

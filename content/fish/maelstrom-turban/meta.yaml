@@ -2,5 +2,6 @@ id: maelstrom-turban
 category: fish
 type: fish
 fish: "Maelstrom Turban"
+related: [kugane-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

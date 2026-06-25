@@ -2,5 +2,6 @@ id: cyan-sea-devil
 category: fish
 type: fish
 fish: "Cyan Sea Devil"
+related: [east-caliban-gap]
 tags: [fish, fishing, nature]
 status: stable

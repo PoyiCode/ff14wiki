@@ -2,5 +2,6 @@ id: burst-lungfish
 category: fish
 type: fish
 fish: "Burst Lungfish"
+related: [the-driftdowns]
 tags: [fish, fishing, nature]
 status: stable

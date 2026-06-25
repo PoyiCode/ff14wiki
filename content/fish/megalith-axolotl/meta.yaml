@@ -2,5 +2,6 @@ id: megalith-axolotl
 category: fish
 type: fish
 fish: "Megalith Axolotl"
+related: [megalithopolis-4]
 tags: [fish, fishing, nature]
 status: stable

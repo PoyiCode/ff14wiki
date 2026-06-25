@@ -2,5 +2,6 @@ id: atopodentatus
 category: fish
 type: fish
 fish: "Atopodentatus"
+related: [palus-arsenici-3]
 tags: [fish, fishing, nature]
 status: stable

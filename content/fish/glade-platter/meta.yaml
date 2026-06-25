@@ -2,5 +2,6 @@ id: glade-platter
 category: fish
 type: fish
 fish: "Glade Platter"
+related: [emerald-springs-4]
 tags: [fish, fishing, nature]
 status: stable

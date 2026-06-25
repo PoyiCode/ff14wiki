@@ -2,5 +2,6 @@ id: thavnairian-shark
 category: fish
 type: fish
 fish: "Thavnairian Shark"
+related: [outer-rothlyt-sound]
 tags: [fish, fishing, nature]
 status: stable

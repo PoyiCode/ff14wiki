@@ -2,5 +2,6 @@ id: basilosaurus
 category: fish
 type: fish
 fish: "Basilosaurus"
+related: [the-perfumed-tides]
 tags: [fish, fishing, nature]
 status: stable

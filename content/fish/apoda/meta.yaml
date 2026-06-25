@@ -2,5 +2,6 @@ id: apoda
 category: fish
 type: fish
 fish: "Apoda"
+related: [yak-awak-tsoly]
 tags: [fish, fishing, nature]
 status: stable

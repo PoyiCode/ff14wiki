@@ -2,5 +2,6 @@ id: cave-killifish
 category: fish
 type: fish
 fish: "Cave Killifish"
+related: [dimwold]
 tags: [fish, fishing, nature]
 status: stable

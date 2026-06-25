@@ -2,5 +2,6 @@ id: crystarium-tetra
 category: fish
 type: fish
 fish: "Crystarium Tetra"
+related: [crystarium-personal-suites]
 tags: [fish, fishing, nature]
 status: stable

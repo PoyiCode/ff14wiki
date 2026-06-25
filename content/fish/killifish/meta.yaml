@@ -2,5 +2,6 @@ id: killifish
 category: fish
 type: fish
 fish: "Killifish"
+related: [nem-khaal, the-silver-canal]
 tags: [fish, fishing, nature]
 status: stable

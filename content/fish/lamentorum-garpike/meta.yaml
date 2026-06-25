@@ -2,5 +2,6 @@ id: lamentorum-garpike
 category: fish
 type: fish
 fish: "Lamentorum Garpike"
+related: [southeast-well-6]
 tags: [fish, fishing, nature]
 status: stable

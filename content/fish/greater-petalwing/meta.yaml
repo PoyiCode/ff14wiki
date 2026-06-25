@@ -2,5 +2,6 @@ id: greater-petalwing
 category: fish
 type: fish
 fish: "Greater Petalwing"
+related: [sprouting-cisterns-3]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: nepto-dragon
 category: fish
 type: fish
 fish: "Nepto Dragon"
+related: [rhotano-sea-privateer-sterncastle]
 tags: [fish, fishing, nature]
 status: stable

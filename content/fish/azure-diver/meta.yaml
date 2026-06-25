@@ -2,5 +2,6 @@ id: azure-diver
 category: fish
 type: fish
 fish: "Azure Diver"
+related: [eastbound-zorgor]
 tags: [fish, fishing, nature]
 status: stable

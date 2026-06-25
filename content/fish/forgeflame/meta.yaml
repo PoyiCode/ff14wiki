@@ -2,5 +2,6 @@ id: forgeflame
 category: fish
 type: fish
 fish: "Forgeflame"
+related: [ksiroda]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: bluebell-salmon
 category: fish
 type: fish
 fish: "Bluebell Salmon"
+related: [springripple-brook, murmur-rills, fool-falls]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: ambling-caltrop
 category: fish
 type: fish
 fish: "Ambling Caltrop"
+related: [the-hills-of-amber]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: nogoi
 category: fish
 type: fish
 fish: "Nogoi"
+related: [namai, the-silver-canal]
 tags: [fish, fishing, nature]
 status: stable

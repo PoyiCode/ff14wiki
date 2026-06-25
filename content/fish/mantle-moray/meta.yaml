@@ -2,5 +2,6 @@ id: mantle-moray
 category: fish
 type: fish
 fish: "Mantle Moray"
+related: [open-ruby-sea]
 tags: [fish, fishing, nature]
 status: stable

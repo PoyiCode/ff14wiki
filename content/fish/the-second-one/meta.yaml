@@ -2,5 +2,6 @@ id: the-second-one
 category: fish
 type: fish
 fish: "The Second One"
+related: [the-blue-window]
 tags: [fish, fishing, nature]
 status: stable

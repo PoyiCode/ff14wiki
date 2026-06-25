@@ -2,5 +2,6 @@ id: oathfish
 category: fish
 type: fish
 fish: "Oathfish"
+related: [the-red-chalice, woven-oath]
 tags: [fish, fishing, nature]
 status: stable

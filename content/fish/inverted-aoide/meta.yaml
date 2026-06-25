@@ -2,5 +2,6 @@ id: inverted-aoide
 category: fish
 type: fish
 fish: "Inverted Aoide"
+related: [megalithopolis-4]
 tags: [fish, fishing, nature]
 status: stable

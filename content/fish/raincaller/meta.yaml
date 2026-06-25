@@ -2,5 +2,6 @@ id: raincaller
 category: fish
 type: fish
 fish: "Raincaller"
+related: [whispering-gorge, jadeite-flood]
 tags: [fish, fishing, nature]
 status: stable

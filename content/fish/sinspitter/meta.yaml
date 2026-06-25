@@ -2,5 +2,6 @@ id: sinspitter
 category: fish
 type: fish
 fish: "Sinspitter"
+related: [the-quadrivium]
 tags: [fish, fishing, nature]
 status: stable

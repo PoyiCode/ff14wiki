@@ -2,5 +2,6 @@ id: iron-coral
 category: fish
 type: fish
 fish: "Iron Coral"
+related: [magnetic-horizon-9]
 tags: [fish, fishing, nature]
 status: stable

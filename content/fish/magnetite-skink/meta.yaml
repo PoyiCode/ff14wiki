@@ -2,5 +2,6 @@ id: magnetite-skink
 category: fish
 type: fish
 fish: "Magnetite Skink"
+related: [collapsed-tunnel-5]
 tags: [fish, fishing, nature]
 status: stable

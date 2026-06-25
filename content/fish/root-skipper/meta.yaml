@@ -2,5 +2,6 @@ id: root-skipper
 category: fish
 type: fish
 fish: "Root Skipper"
+related: [rootslake]
 tags: [fish, fishing, nature]
 status: stable

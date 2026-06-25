@@ -2,5 +2,6 @@ id: helicoprion
 category: fish
 type: fish
 fish: "Helicoprion"
+related: [sagolii-desert]
 tags: [fish, fishing, nature]
 status: stable

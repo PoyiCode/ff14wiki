@@ -2,5 +2,6 @@ id: horned-frog
 category: fish
 type: fish
 fish: "Horned Frog"
+related: [xobr-it-tsoly]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: floating-boulder
 category: fish
 type: fish
 fish: "Floating Boulder"
+related: [lower-hathoeva-river]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: redtail
 category: fish
 type: fish
 fish: "Redtail"
+related: [the-outer-fist]
 tags: [fish, fishing, nature]
 status: stable

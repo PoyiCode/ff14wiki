@@ -2,5 +2,6 @@ id: crepe-sole
 category: fish
 type: fish
 fish: "Crepe Sole"
+related: [rothlyt-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

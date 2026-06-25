@@ -4,3 +4,5 @@ summary: "A fish of Eorzea."
 ---
 
 **Inverted Lungfish** is a fish found in the waters of Eorzea — the kind of catch a resident might land while fishing or chat about by the water. In-game name: Inverted Lungfish.
+
+Caught at: Collapsed Tunnel, Collapsed Tunnel, Collapsed Tunnel, Collapsed Tunnel

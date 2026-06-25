@@ -2,5 +2,6 @@ id: othardian-trout
 category: fish
 type: fish
 fish: "Othardian Trout"
+related: [nem-khaal, azim-khaat, lower-yat-khaal]
 tags: [fish, fishing, nature]
 status: stable

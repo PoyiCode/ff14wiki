@@ -2,5 +2,6 @@ id: arsenic-flower
 category: fish
 type: fish
 fish: "Arsenic Flower"
+related: [palus-arsenici-5]
 tags: [fish, fishing, nature]
 status: stable

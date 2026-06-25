@@ -2,5 +2,6 @@ id: crimson-monkfish
 category: fish
 type: fish
 fish: "Crimson Monkfish"
+related: [open-rhotano-sea]
 tags: [fish, fishing, nature]
 status: stable

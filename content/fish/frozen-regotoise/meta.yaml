@@ -2,5 +2,6 @@ id: frozen-regotoise
 category: fish
 type: fish
 fish: "Frozen Regotoise"
+related: [the-frozen-fissure]
 tags: [fish, fishing, nature]
 status: stable

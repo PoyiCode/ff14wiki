@@ -2,5 +2,6 @@ id: site-sleeper
 category: fish
 type: fish
 fish: "Site Sleeper"
+related: [megalithopolis-2, megalithopolis-3, megalithopolis-4, megalithopolis-5]
 tags: [fish, fishing, nature]
 status: stable

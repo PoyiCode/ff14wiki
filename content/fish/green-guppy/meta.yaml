@@ -2,5 +2,6 @@ id: green-guppy
 category: fish
 type: fish
 fish: "Green Guppy"
+related: [full-bloom-fountain-3]
 tags: [fish, fishing, nature]
 status: stable

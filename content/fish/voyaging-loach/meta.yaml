@@ -2,5 +2,6 @@ id: voyaging-loach
 category: fish
 type: fish
 fish: "Voyaging Loach"
+related: [foregone-oasis-2, foregone-oasis-3, foregone-oasis-4, foregone-oasis-5]
 tags: [fish, fishing, nature]
 status: stable

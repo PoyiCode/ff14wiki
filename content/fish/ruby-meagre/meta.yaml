@@ -2,5 +2,6 @@ id: ruby-meagre
 category: fish
 type: fish
 fish: "Ruby Meagre"
+related: [isari]
 tags: [fish, fishing, nature]
 status: stable

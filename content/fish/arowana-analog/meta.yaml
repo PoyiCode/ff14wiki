@@ -2,5 +2,6 @@ id: arowana-analog
 category: fish
 type: fish
 fish: "Arowana Analog"
+related: [emerald-springs-5]
 tags: [fish, fishing, nature]
 status: stable

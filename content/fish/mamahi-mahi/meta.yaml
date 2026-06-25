@@ -2,5 +2,6 @@ id: mamahi-mahi
 category: fish
 type: fish
 fish: "Mamahi-mahi"
+related: [cieldalaes-margin]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: five-ilm-pleco
 category: fish
 type: fish
 fish: "Five-ilm Pleco"
+related: [middle-hathoeva-river, goblinblood]
 tags: [fish, fishing, nature]
 status: stable

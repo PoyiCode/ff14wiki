@@ -2,5 +2,6 @@ id: gensui-shrimp
 category: fish
 type: fish
 fish: "Gensui Shrimp"
+related: [one-river-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

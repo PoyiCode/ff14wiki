@@ -2,5 +2,6 @@ id: mahi-mahi
 category: fish
 type: fish
 fish: "Mahi-mahi"
+related: [oschon-s-torch]
 tags: [fish, fishing, nature]
 status: stable

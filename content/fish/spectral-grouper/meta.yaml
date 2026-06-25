@@ -2,5 +2,6 @@ id: spectral-grouper
 category: fish
 type: fish
 fish: "Spectral Grouper"
+related: [thavnair-margin]
 tags: [fish, fishing, nature]
 status: stable

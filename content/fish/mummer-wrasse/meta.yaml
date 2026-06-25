@@ -2,5 +2,6 @@ id: mummer-wrasse
 category: fish
 type: fish
 fish: "Mummer Wrasse"
+related: [isles-of-umbra-southshore, the-ship-graveyard]
 tags: [fish, fishing, nature]
 status: stable

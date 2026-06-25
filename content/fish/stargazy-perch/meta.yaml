@@ -2,5 +2,6 @@ id: stargazy-perch
 category: fish
 type: fish
 fish: "Stargazy Perch"
+related: [timberpond-5]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: moonlit-snakehead
 category: fish
 type: fish
 fish: "Moonlit Snakehead"
+related: [southeast-well-6, southeast-well-7]
 tags: [fish, fishing, nature]
 status: stable

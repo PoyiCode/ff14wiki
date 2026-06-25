@@ -2,5 +2,6 @@ id: cloud-wasp
 category: fish
 type: fish
 fish: "Cloud Wasp"
+related: [eastbound-zorgor]
 tags: [fish, fishing, nature]
 status: stable

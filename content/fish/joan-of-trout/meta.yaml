@@ -2,5 +2,6 @@ id: joan-of-trout
 category: fish
 type: fish
 fish: "Joan of Trout"
+related: [fool-falls]
 tags: [fish, fishing, nature]
 status: stable

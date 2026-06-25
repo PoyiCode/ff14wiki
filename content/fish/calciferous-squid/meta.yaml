@@ -2,5 +2,6 @@ id: calciferous-squid
 category: fish
 type: fish
 fish: "Calciferous Squid"
+related: [magnetic-horizon-3]
 tags: [fish, fishing, nature]
 status: stable

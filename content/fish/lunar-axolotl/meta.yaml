@@ -2,5 +2,6 @@ id: lunar-axolotl
 category: fish
 type: fish
 fish: "Lunar Axolotl"
+related: [southeast-well-2]
 tags: [fish, fishing, nature]
 status: stable

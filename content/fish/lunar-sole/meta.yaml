@@ -2,5 +2,6 @@ id: lunar-sole
 category: fish
 type: fish
 fish: "Lunar Sole"
+related: [southeast-well-4]
 tags: [fish, fishing, nature]
 status: stable

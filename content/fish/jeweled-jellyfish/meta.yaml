@@ -2,5 +2,6 @@ id: jeweled-jellyfish
 category: fish
 type: fish
 fish: "Jeweled Jellyfish"
+related: [the-flagship]
 tags: [fish, fishing, nature]
 status: stable

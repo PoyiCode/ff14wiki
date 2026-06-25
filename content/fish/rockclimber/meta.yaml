@@ -2,5 +2,6 @@ id: rockclimber
 category: fish
 type: fish
 fish: "Rockclimber"
+related: [delta-quadrant]
 tags: [fish, fishing, nature]
 status: stable

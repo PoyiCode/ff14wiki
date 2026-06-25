@@ -2,5 +2,6 @@ id: vampire-lampern
 category: fish
 type: fish
 fish: "Vampire Lampern"
+related: [the-juggernaut, parata-s-peace]
 tags: [fish, fishing, nature]
 status: stable

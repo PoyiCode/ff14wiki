@@ -2,5 +2,6 @@ id: silkfin
 category: fish
 type: fish
 fish: "Silkfin"
+related: [thavnair-margin]
 tags: [fish, fishing, nature]
 status: stable

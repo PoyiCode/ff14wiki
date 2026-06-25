@@ -2,5 +2,6 @@ id: executioner
 category: fish
 type: fish
 fish: "Executioner"
+related: [rhotano-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

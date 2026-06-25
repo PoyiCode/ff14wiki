@@ -2,5 +2,6 @@ id: ondo-kelp
 category: fish
 type: fish
 fish: "Ondo Kelp"
+related: [the-eastern-kholusian-coast]
 tags: [fish, fishing, nature]
 status: stable

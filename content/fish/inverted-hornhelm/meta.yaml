@@ -2,5 +2,6 @@ id: inverted-hornhelm
 category: fish
 type: fish
 fish: "Inverted Hornhelm"
+related: [the-moros-well-3]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: lunar-grass-carp
 category: fish
 type: fish
 fish: "Lunar Grass Carp"
+related: [southeast-well-3, southeast-well-5, southeast-well-6, southeast-well-7, southeast-well-8]
 tags: [fish, fishing, nature]
 status: stable

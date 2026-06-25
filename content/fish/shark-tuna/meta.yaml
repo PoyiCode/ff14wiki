@@ -2,5 +2,6 @@ id: shark-tuna
 category: fish
 type: fish
 fish: "Shark Tuna"
+related: [costa-del-sol]
 tags: [fish, fishing, nature]
 status: stable

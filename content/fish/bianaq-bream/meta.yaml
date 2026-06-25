@@ -2,5 +2,6 @@ id: bianaq-bream
 category: fish
 type: fish
 fish: "Bianaq Bream"
+related: [south-bloodshore, costa-del-sol, mist]
 tags: [fish, fishing, nature]
 status: stable

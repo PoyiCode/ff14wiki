@@ -2,5 +2,6 @@ id: snowcaller
 category: fish
 type: fish
 fish: "Snowcaller"
+related: [west-banepool]
 tags: [fish, fishing, nature]
 status: stable

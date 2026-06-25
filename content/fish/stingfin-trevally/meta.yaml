@@ -2,5 +2,6 @@ id: stingfin-trevally
 category: fish
 type: fish
 fish: "Stingfin Trevally"
+related: [kugane-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

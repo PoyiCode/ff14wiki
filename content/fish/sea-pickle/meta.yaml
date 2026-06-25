@@ -2,5 +2,6 @@ id: sea-pickle
 category: fish
 type: fish
 fish: "Sea Pickle"
+related: [north-bloodshore, halfstone]
 tags: [fish, fishing, nature]
 status: stable

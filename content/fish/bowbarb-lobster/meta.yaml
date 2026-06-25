@@ -2,5 +2,6 @@ id: bowbarb-lobster
 category: fish
 type: fish
 fish: "Bowbarb Lobster"
+related: [ruby-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

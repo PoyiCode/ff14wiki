@@ -2,5 +2,6 @@ id: othardian-salmon
 category: fish
 type: fish
 fish: "Othardian Salmon"
+related: [the-one-river-east]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: giant-snakehead
 category: fish
 type: fish
 fish: "Giant Snakehead"
+related: [mu-springs-eternal]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: rimepike
 category: fish
 type: fish
 fish: "Rimepike"
+related: [the-eblan-thaw]
 tags: [fish, fishing, nature]
 status: stable

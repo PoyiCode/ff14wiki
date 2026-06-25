@@ -2,5 +2,6 @@ id: trailing-snailfish
 category: fish
 type: fish
 fish: "Trailing Snailfish"
+related: [opalescent-crossing-8]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: diamond-pipira
 category: fish
 type: fish
 fish: "Diamond Pipira"
+related: [the-red-chalice]
 tags: [fish, fishing, nature]
 status: stable

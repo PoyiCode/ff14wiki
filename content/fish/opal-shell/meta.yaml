@@ -2,5 +2,6 @@ id: opal-shell
 category: fish
 type: fish
 fish: "Opal Shell"
+related: [opalescent-crossing-5]
 tags: [fish, fishing, nature]
 status: stable

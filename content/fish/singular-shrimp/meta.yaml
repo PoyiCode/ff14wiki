@@ -2,5 +2,6 @@ id: singular-shrimp
 category: fish
 type: fish
 fish: "Singular Shrimp"
+related: [lower-one-river]
 tags: [fish, fishing, nature]
 status: stable

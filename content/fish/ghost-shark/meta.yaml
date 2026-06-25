@@ -2,5 +2,6 @@ id: ghost-shark
 category: fish
 type: fish
 fish: "Ghost Shark"
+related: [galadion-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

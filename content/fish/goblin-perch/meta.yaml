@@ -2,5 +2,6 @@ id: goblin-perch
 category: fish
 type: fish
 fish: "Goblin Perch"
+related: [goblinblood]
 tags: [fish, fishing, nature]
 status: stable

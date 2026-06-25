@@ -2,5 +2,6 @@ id: crimson-sea-spider
 category: fish
 type: fish
 fish: "Crimson Sea Spider"
+related: [the-derelicts]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: doman-grass-carp
 category: fish
 type: fish
 fish: "Doman Grass Carp"
+related: [mercantile-docks]
 tags: [fish, fishing, nature]
 status: stable

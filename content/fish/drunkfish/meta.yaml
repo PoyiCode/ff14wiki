@@ -2,5 +2,6 @@ id: drunkfish
 category: fish
 type: fish
 fish: "Drunkfish"
+related: [outer-galadion-bay]
 tags: [fish, fishing, nature]
 status: stable

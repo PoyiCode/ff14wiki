@@ -2,5 +2,6 @@ id: broodingway
 category: fish
 type: fish
 fish: "Broodingway"
+related: [palus-arsenici-4]
 tags: [fish, fishing, nature]
 status: stable

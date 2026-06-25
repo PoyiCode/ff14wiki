@@ -2,5 +2,6 @@ id: oho-hunu
 category: fish
 type: fish
 fish: "Oho Hunu"
+related: [the-dewspun-bank, peaks-poga]
 tags: [fish, fishing, nature]
 status: stable

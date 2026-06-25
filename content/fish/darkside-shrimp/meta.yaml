@@ -2,5 +2,6 @@ id: darkside-shrimp
 category: fish
 type: fish
 fish: "Darkside Shrimp"
+related: [palus-arsenici-9]
 tags: [fish, fishing, nature]
 status: stable

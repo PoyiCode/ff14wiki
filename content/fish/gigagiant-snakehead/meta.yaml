@@ -2,5 +2,6 @@ id: gigagiant-snakehead
 category: fish
 type: fish
 fish: "Gigagiant Snakehead"
+related: [mu-springs-eternal]
 tags: [fish, fishing, nature]
 status: stable

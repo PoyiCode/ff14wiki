@@ -2,5 +2,6 @@ id: ice-faerie
 category: fish
 type: fish
 fish: "Ice Faerie"
+related: [unfrozen-pond, clearpool, south-banepool, ashpool, west-banepool]
 tags: [fish, fishing, nature]
 status: stable

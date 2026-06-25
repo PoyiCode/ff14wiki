@@ -2,5 +2,6 @@ id: aquamaton
 category: fish
 type: fish
 fish: "Aquamaton"
+related: [seagazer-shoals]
 tags: [fish, fishing, nature]
 status: stable

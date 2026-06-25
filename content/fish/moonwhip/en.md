@@ -4,3 +4,5 @@ summary: "A fish of Eorzea."
 ---
 
 **Moonwhip** is a fish found in the waters of Eorzea — the kind of catch a resident might land while fishing or chat about by the water. In-game name: Moonwhip.
+
+Caught at: Palus Arsenici, Palus Arsenici, Palus Arsenici, Palus Arsenici, Palus Arsenici, Palus Arsenici, Palus Arsenici

@@ -4,3 +4,5 @@ summary: "A fish of Eorzea."
 ---
 
 **Ctenophora Lunaris** is a fish found in the waters of Eorzea — the kind of catch a resident might land while fishing or chat about by the water. In-game name: Ctenophora Lunaris.
+
+Caught at: Aetherial Falls, Aetherial Falls, Aetherial Falls

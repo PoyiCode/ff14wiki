@@ -2,5 +2,6 @@ id: octomammoth
 category: fish
 type: fish
 fish: "Octomammoth"
+related: [limsa-lominsa-lower-decks]
 tags: [fish, fishing, nature]
 status: stable

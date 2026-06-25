@@ -2,5 +2,6 @@ id: saber-sardine
 category: fish
 type: fish
 fish: "Saber Sardine"
+related: [halfstone, crescent-cove]
 tags: [fish, fishing, nature]
 status: stable

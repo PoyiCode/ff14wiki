@@ -2,5 +2,6 @@ id: mirage-mahi
 category: fish
 type: fish
 fish: "Mirage Mahi"
+related: [mirage-creek]
 tags: [fish, fishing, nature]
 status: stable

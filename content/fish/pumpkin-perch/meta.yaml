@@ -2,5 +2,6 @@ id: pumpkin-perch
 category: fish
 type: fish
 fish: "Pumpkin Perch"
+related: [outskirts-shallows]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: barkscale
 category: fish
 type: fish
 fish: "Barkscale"
+related: [western-nervure-3]
 tags: [fish, fishing, nature]
 status: stable

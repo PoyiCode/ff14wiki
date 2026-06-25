@@ -2,5 +2,6 @@ id: matron-carp
 category: fish
 type: fish
 fish: "Matron Carp"
+related: [whispering-gorge]
 tags: [fish, fishing, nature]
 status: stable

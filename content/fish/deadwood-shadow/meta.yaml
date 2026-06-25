@@ -2,5 +2,6 @@ id: deadwood-shadow
 category: fish
 type: fish
 fish: "Deadwood Shadow"
+related: [mjrl-s-tears]
 tags: [fish, fishing, nature]
 status: stable

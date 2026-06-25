@@ -2,5 +2,6 @@ id: lake-urchin
 category: fish
 type: fish
 fish: "Lake Urchin"
+related: [south-banepool, ashpool, west-banepool]
 tags: [fish, fishing, nature]
 status: stable

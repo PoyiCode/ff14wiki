@@ -2,5 +2,6 @@ id: lunar-lungfish
 category: fish
 type: fish
 fish: "Lunar Lungfish"
+related: [westward-hop-print-5]
 tags: [fish, fishing, nature]
 status: stable

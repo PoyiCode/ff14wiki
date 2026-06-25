@@ -2,5 +2,6 @@ id: unbegotten
 category: fish
 type: fish
 fish: "Unbegotten"
+related: [limne-3-2]
 tags: [fish, fishing, nature]
 status: stable

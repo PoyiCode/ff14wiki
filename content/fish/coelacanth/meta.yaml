@@ -2,5 +2,6 @@ id: coelacanth
 category: fish
 type: fish
 fish: "Coelacanth"
+related: [isles-of-umbra-southshore]
 tags: [fish, fishing, nature]
 status: stable

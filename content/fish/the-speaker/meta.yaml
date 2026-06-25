@@ -2,5 +2,6 @@ id: the-speaker
 category: fish
 type: fish
 fish: "The Speaker"
+related: [upper-thaliak-river]
 tags: [fish, fishing, nature]
 status: stable

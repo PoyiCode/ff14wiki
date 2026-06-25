@@ -2,5 +2,6 @@ id: heavensent-shark
 category: fish
 type: fish
 fish: "Heavensent Shark"
+related: [open-ruby-sea]
 tags: [fish, fishing, nature]
 status: stable

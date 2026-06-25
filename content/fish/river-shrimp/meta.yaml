@@ -2,5 +2,6 @@ id: river-shrimp
 category: fish
 type: fish
 fish: "River Shrimp"
+related: [the-hundred-throes]
 tags: [fish, fishing, nature]
 status: stable

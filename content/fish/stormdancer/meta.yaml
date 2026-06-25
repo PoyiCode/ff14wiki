@@ -2,5 +2,6 @@ id: stormdancer
 category: fish
 type: fish
 fish: "Stormdancer"
+related: [jadeite-flood]
 tags: [fish, fishing, nature]
 status: stable

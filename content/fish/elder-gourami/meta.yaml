@@ -2,5 +2,6 @@ id: elder-gourami
 category: fish
 type: fish
 fish: "Elder Gourami"
+related: [tao-khaal]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: shoshitsuki
 category: fish
 type: fish
 fish: "Shoshitsuki"
+related: [kugane-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

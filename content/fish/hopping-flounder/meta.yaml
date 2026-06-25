@@ -2,5 +2,6 @@ id: hopping-flounder
 category: fish
 type: fish
 fish: "Hopping Flounder"
+related: [northward-hop-print-7]
 tags: [fish, fishing, nature]
 status: stable

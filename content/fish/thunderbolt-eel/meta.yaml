@@ -2,5 +2,6 @@ id: thunderbolt-eel
 category: fish
 type: fish
 fish: "Thunderbolt Eel"
+related: [the-iron-feast, diadem-grotto]
 tags: [fish, fishing, nature]
 status: stable

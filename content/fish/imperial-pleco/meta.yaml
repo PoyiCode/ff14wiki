@@ -2,5 +2,6 @@ id: imperial-pleco
 category: fish
 type: fish
 fish: "Imperial Pleco"
+related: [the-stainless-course]
 tags: [fish, fishing, nature]
 status: stable

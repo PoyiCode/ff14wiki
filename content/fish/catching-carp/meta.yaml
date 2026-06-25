@@ -2,5 +2,6 @@ id: catching-carp
 category: fish
 type: fish
 fish: "Catching Carp"
+related: [lower-one-river]
 tags: [fish, fishing, nature]
 status: stable

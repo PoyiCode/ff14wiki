@@ -2,5 +2,6 @@ id: true-scad
 category: fish
 type: fish
 fish: "True Scad"
+related: [open-bloodbrine-sea]
 tags: [fish, fishing, nature]
 status: stable

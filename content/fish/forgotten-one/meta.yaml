@@ -2,5 +2,6 @@ id: forgotten-one
 category: fish
 type: fish
 fish: "Forgotten One"
+related: [canal-town-north]
 tags: [fish, fishing, nature]
 status: stable

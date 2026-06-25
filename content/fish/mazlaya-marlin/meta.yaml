@@ -2,5 +2,6 @@ id: mazlaya-marlin
 category: fish
 type: fish
 fish: "Mazlaya Marlin"
+related: [north-bloodshore, rhotano-sea-privateer-forecastle]
 tags: [fish, fishing, nature]
 status: stable

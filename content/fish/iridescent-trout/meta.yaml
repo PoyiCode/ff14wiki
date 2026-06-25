@@ -2,5 +2,6 @@ id: iridescent-trout
 category: fish
 type: fish
 fish: "Iridescent Trout"
+related: [one-river-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: timberpond-muskellunge
 category: fish
 type: fish
 fish: "Timberpond Muskellunge"
+related: [timberpond-5]
 tags: [fish, fishing, nature]
 status: stable

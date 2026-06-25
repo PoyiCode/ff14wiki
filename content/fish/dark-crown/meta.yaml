@@ -2,5 +2,6 @@ id: dark-crown
 category: fish
 type: fish
 fish: "Dark Crown"
+related: [the-stainless-course]
 tags: [fish, fishing, nature]
 status: stable

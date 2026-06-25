@@ -2,5 +2,6 @@ id: wootz-knifefish
 category: fish
 type: fish
 fish: "Wootz Knifefish"
+related: [ceruleum-field]
 tags: [fish, fishing, nature]
 status: stable

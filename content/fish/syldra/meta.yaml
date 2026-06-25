@@ -2,5 +2,6 @@ id: syldra
 category: fish
 type: fish
 fish: "Syldra"
+related: [cedarwood]
 tags: [fish, fishing, nature]
 status: stable

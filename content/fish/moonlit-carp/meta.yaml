@@ -2,5 +2,6 @@ id: moonlit-carp
 category: fish
 type: fish
 fish: "Moonlit Carp"
+related: [westward-hop-print-8]
 tags: [fish, fishing, nature]
 status: stable

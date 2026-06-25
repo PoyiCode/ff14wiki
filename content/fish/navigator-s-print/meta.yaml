@@ -2,5 +2,6 @@ id: navigator-s-print
 category: fish
 type: fish
 fish: "Navigator's Print"
+related: [galadion-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

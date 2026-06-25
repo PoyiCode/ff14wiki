@@ -2,5 +2,6 @@ id: blue-corpse
 category: fish
 type: fish
 fish: "Blue Corpse"
+related: [snowcloak]
 tags: [fish, fishing, nature]
 status: stable

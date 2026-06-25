@@ -2,5 +2,6 @@ id: moongill
 category: fish
 type: fish
 fish: "Moongill"
+related: [hollow-harbor-2, hollow-harbor-3, hollow-harbor-4, hollow-harbor-5, hollow-harbor-7, hollow-harbor-8]
 tags: [fish, fishing, nature]
 status: stable

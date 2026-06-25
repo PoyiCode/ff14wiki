@@ -2,5 +2,6 @@ id: chthonic-tapestry
 category: fish
 type: fish
 fish: "Chthonic Tapestry"
+related: [bubble-bursters-2]
 tags: [fish, fishing, nature]
 status: stable

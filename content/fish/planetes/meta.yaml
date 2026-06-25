@@ -2,5 +2,6 @@ id: planetes
 category: fish
 type: fish
 fish: "Planetes"
+related: [rumination-s-ramble]
 tags: [fish, fishing, nature]
 status: stable

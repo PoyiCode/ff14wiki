@@ -2,5 +2,6 @@ id: soaking-betta
 category: fish
 type: fish
 fish: "Soaking Betta"
+related: [sylvan-soaking-pool-2]
 tags: [fish, fishing, nature]
 status: stable

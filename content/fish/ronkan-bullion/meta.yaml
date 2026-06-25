@@ -2,5 +2,6 @@ id: ronkan-bullion
 category: fish
 type: fish
 fish: "Ronkan Bullion"
+related: [mjrl-s-tears]
 tags: [fish, fishing, nature]
 status: stable

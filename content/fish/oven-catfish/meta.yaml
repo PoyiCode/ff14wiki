@@ -2,5 +2,6 @@ id: oven-catfish
 category: fish
 type: fish
 fish: "Oven Catfish"
+related: [mourn]
 tags: [fish, fishing, nature]
 status: stable

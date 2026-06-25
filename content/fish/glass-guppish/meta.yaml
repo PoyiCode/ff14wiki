@@ -2,5 +2,6 @@ id: glass-guppish
 category: fish
 type: fish
 fish: "Glass Guppish"
+related: [capsule-pools-2, capsule-pools-3]
 tags: [fish, fishing, nature]
 status: stable

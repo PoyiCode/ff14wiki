@@ -2,5 +2,6 @@ id: fat-purse
 category: fish
 type: fish
 fish: "Fat Purse"
+related: [riversmeet]
 tags: [fish, fishing, nature]
 status: stable

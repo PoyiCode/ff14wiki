@@ -2,5 +2,6 @@ id: blindfish
 category: fish
 type: fish
 fish: "Blindfish"
+related: [daniffen-pass, blind-iron-mines, moondrip]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: silent-shark
 category: fish
 type: fish
 fish: "Silent Shark"
+related: [kugane-coast]
 tags: [fish, fishing, nature]
 status: stable

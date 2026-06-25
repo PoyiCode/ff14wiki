@@ -2,5 +2,6 @@ id: blowgun
 category: fish
 type: fish
 fish: "Blowgun"
+related: [the-mover-beta]
 tags: [fish, fishing, nature]
 status: stable

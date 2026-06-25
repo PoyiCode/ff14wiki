@@ -2,5 +2,6 @@ id: saltshield-snapper
 category: fish
 type: fish
 fish: "Saltshield Snapper"
+related: [loch-seld]
 tags: [fish, fishing, nature]
 status: stable

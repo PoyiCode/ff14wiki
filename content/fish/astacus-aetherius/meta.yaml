@@ -2,5 +2,6 @@ id: astacus-aetherius
 category: fish
 type: fish
 fish: "Astacus Aetherius"
+related: [deepmoat]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: pearl-bombfish
 category: fish
 type: fish
 fish: "Pearl Bombfish"
+related: [rothlyt-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

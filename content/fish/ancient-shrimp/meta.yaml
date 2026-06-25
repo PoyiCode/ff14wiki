@@ -2,5 +2,6 @@ id: ancient-shrimp
 category: fish
 type: fish
 fish: "Ancient Shrimp"
+related: [west-caliban-gap]
 tags: [fish, fishing, nature]
 status: stable

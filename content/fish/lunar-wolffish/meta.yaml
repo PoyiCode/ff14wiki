@@ -2,5 +2,6 @@ id: lunar-wolffish
 category: fish
 type: fish
 fish: "Lunar Wolffish"
+related: [northward-hop-print-6]
 tags: [fish, fishing, nature]
 status: stable

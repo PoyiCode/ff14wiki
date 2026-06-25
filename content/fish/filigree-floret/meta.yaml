@@ -2,5 +2,6 @@ id: filigree-floret
 category: fish
 type: fish
 fish: "Filigree Floret"
+related: [lower-soda-lime-float-4]
 tags: [fish, fishing, nature]
 status: stable

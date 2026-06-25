@@ -2,5 +2,6 @@ id: moongate-cod
 category: fish
 type: fish
 fish: "Moongate Cod"
+related: [southeast-well-7]
 tags: [fish, fishing, nature]
 status: stable

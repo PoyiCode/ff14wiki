@@ -2,5 +2,6 @@ id: the-captain-s-chalice
 category: fish
 type: fish
 fish: "The Captain's Chalice"
+related: [sapsa-spawning-grounds]
 tags: [fish, fishing, nature]
 status: stable

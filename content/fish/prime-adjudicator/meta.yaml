@@ -2,5 +2,6 @@ id: prime-adjudicator
 category: fish
 type: fish
 fish: "Prime Adjudicator"
+related: [karvarhur-the-first]
 tags: [fish, fishing, nature]
 status: stable

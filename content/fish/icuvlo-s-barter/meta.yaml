@@ -2,5 +2,6 @@ id: icuvlo-s-barter
 category: fish
 type: fish
 fish: "Icuvlo's Barter"
+related: [downripple]
 tags: [fish, fishing, nature]
 status: stable

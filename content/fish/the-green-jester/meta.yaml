@@ -2,5 +2,6 @@ id: the-green-jester
 category: fish
 type: fish
 fish: "The Green Jester"
+related: [hopeseed-pond]
 tags: [fish, fishing, nature]
 status: stable

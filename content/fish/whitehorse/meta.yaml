@@ -2,5 +2,6 @@ id: whitehorse
 category: fish
 type: fish
 fish: "Whitehorse"
+related: [loch-seld]
 tags: [fish, fishing, nature]
 status: stable

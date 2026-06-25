@@ -2,5 +2,6 @@ id: capsule-amber
 category: fish
 type: fish
 fish: "Capsule Amber"
+related: [capsule-pools-2]
 tags: [fish, fishing, nature]
 status: stable

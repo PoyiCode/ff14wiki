@@ -2,5 +2,6 @@ id: captivating-clam
 category: fish
 type: fish
 fish: "Captivating Clam"
+related: [magnetic-horizon-8]
 tags: [fish, fishing, nature]
 status: stable

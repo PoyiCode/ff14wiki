@@ -2,5 +2,6 @@ id: lunar-discus
 category: fish
 type: fish
 fish: "Lunar Discus"
+related: [northward-hop-print-4]
 tags: [fish, fishing, nature]
 status: stable

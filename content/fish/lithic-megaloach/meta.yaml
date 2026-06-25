@@ -2,5 +2,6 @@ id: lithic-megaloach
 category: fish
 type: fish
 fish: "Lithic Megaloach"
+related: [megalithopolis-2]
 tags: [fish, fishing, nature]
 status: stable

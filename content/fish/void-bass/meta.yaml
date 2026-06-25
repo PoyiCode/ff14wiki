@@ -2,5 +2,6 @@ id: void-bass
 category: fish
 type: fish
 fish: "Void Bass"
+related: [rathefrost]
 tags: [fish, fishing, nature]
 status: stable

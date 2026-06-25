@@ -2,5 +2,6 @@ id: gladius
 category: fish
 type: fish
 fish: "Gladius"
+related: [the-southern-strait-of-merlthor]
 tags: [fish, fishing, nature]
 status: stable

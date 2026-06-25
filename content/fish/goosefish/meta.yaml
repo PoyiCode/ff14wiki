@@ -2,5 +2,6 @@ id: goosefish
 category: fish
 type: fish
 fish: "Goosefish"
+related: [skull-valley]
 tags: [fish, fishing, nature]
 status: stable

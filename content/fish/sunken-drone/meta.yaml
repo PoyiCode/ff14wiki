@@ -2,5 +2,6 @@ id: sunken-drone
 category: fish
 type: fish
 fish: "Sunken Drone"
+related: [northward-hop-print-8]
 tags: [fish, fishing, nature]
 status: stable

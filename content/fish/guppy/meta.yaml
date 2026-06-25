@@ -2,5 +2,6 @@ id: guppy
 category: fish
 type: fish
 fish: "Guppy"
+related: [azim-khaat]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: grade-3-skybuilders-whiteloom
 category: fish
 type: fish
 fish: "Grade 3 Skybuilders' Whiteloom"
+related: [blustery-cloudtop-3, calm-cloudtop-3, swirling-cloudtop-3, windswept-cloudtop-2, windbreaking-cloudtop, buffeted-cloudtop]
 tags: [fish, fishing, nature]
 status: stable

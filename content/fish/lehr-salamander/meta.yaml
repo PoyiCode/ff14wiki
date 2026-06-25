@@ -2,5 +2,6 @@ id: lehr-salamander
 category: fish
 type: fish
 fish: "Lehr Salamander"
+related: [the-lehr-3]
 tags: [fish, fishing, nature]
 status: stable

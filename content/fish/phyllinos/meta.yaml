@@ -2,5 +2,6 @@ id: phyllinos
 category: fish
 type: fish
 fish: "Phyllinos"
+related: [the-lower-hungering-gardens]
 tags: [fish, fishing, nature]
 status: stable

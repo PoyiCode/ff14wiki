@@ -2,5 +2,6 @@ id: knight-goby
 category: fish
 type: fish
 fish: "Knight Goby"
+related: [the-knowable, mu-springs-eternal, leynode-aero]
 tags: [fish, fishing, nature]
 status: stable

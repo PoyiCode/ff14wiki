@@ -2,5 +2,6 @@ id: darkstar
 category: fish
 type: fish
 fish: "Darkstar"
+related: [the-weeping-saint]
 tags: [fish, fishing, nature]
 status: stable

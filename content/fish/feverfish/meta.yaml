@@ -2,5 +2,6 @@ id: feverfish
 category: fish
 type: fish
 fish: "Feverfish"
+related: [the-chlorophospond, the-frozen-fissure]
 tags: [fish, fishing, nature]
 status: stable

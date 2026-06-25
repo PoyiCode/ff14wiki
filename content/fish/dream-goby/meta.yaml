@@ -2,5 +2,6 @@ id: dream-goby
 category: fish
 type: fish
 fish: "Dream Goby"
+related: [upper-soot-creek]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: predator
 category: fish
 type: fish
 fish: "Predator"
+related: [the-norvrandt-slope]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: drepanaspis
 category: fish
 type: fish
 fish: "Drepanaspis"
+related: [grymm-enid]
 tags: [fish, fishing, nature]
 status: stable

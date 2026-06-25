@@ -2,5 +2,6 @@ id: blood-red-bonytongue
 category: fish
 type: fish
 fish: "Blood Red Bonytongue"
+related: [singing-shards]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: sapphire-fan
 category: fish
 type: fish
 fish: "Sapphire Fan"
+related: [dimwold]
 tags: [fish, fishing, nature]
 status: stable

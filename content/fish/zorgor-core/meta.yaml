@@ -2,5 +2,6 @@ id: zorgor-core
 category: fish
 type: fish
 fish: "Zorgor Core"
+related: [westbound-zorgor, eastbound-zorgor]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: hundred-eyed-axolotl
 category: fish
 type: fish
 fish: "Hundred-eyed Axolotl"
+related: [the-pappus-tree]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: yat-khan
 category: fish
 type: fish
 fish: "Yat Khan"
+related: [lower-yat-khaal]
 tags: [fish, fishing, nature]
 status: stable

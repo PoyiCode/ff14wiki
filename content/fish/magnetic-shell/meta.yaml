@@ -2,5 +2,6 @@ id: magnetic-shell
 category: fish
 type: fish
 fish: "Magnetic Shell"
+related: [collapsed-tunnel-5]
 tags: [fish, fishing, nature]
 status: stable

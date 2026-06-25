@@ -2,5 +2,6 @@ id: blooded-wrasse
 category: fish
 type: fish
 fish: "Blooded Wrasse"
+related: [open-bloodbrine-sea]
 tags: [fish, fishing, nature]
 status: stable

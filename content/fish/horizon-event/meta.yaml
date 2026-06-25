@@ -2,5 +2,6 @@ id: horizon-event
 category: fish
 type: fish
 fish: "Horizon Event"
+related: [limne-3-2]
 tags: [fish, fishing, nature]
 status: stable

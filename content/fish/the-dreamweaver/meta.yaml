@@ -2,5 +2,6 @@ id: the-dreamweaver
 category: fish
 type: fish
 fish: "The Dreamweaver"
+related: [the-smoldering-wastes]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: capsule-castoff
 category: fish
 type: fish
 fish: "Capsule Castoff"
+related: [capsule-pools-2]
 tags: [fish, fishing, nature]
 status: stable

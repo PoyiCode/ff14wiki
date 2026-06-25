@@ -2,5 +2,6 @@ id: wandering-catfish
 category: fish
 type: fish
 fish: "Wandering Catfish"
+related: [the-quadrivium]
 tags: [fish, fishing, nature]
 status: stable

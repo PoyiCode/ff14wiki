@@ -2,5 +2,6 @@ id: crayfish
 category: fish
 type: fish
 fish: "Crayfish"
+related: [the-vein, rogue-river, west-agelyss-river, the-mourning-widow, the-footfalls, whispering-gorge, jadeite-flood, lower-black-tea-brook, upper-black-tea-brook]
 tags: [fish, fishing, nature]
 status: stable

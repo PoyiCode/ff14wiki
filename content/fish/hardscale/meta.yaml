@@ -2,5 +2,6 @@ id: hardscale
 category: fish
 type: fish
 fish: "Hardscale"
+related: [azim-khaat]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: scholar-sculpin
 category: fish
 type: fish
 fish: "Scholar Sculpin"
+related: [upper-thaliak-river, middle-thaliak-river]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: pinhead
 category: fish
 type: fish
 fish: "Pinhead"
+related: [isari]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: peachpetal-shell
 category: fish
 type: fish
 fish: "Peachpetal Shell"
+related: [sprouting-cisterns-2]
 tags: [fish, fishing, nature]
 status: stable

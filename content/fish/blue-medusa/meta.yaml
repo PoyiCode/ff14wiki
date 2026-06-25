@@ -2,5 +2,6 @@ id: blue-medusa
 category: fish
 type: fish
 fish: "Blue Medusa"
+related: [landlord-colony]
 tags: [fish, fishing, nature]
 status: stable

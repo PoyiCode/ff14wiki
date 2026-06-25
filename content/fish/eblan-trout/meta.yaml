@@ -2,5 +2,6 @@ id: eblan-trout
 category: fish
 type: fish
 fish: "Eblan Trout"
+related: [the-eblan-thaw, the-stainless-course]
 tags: [fish, fishing, nature]
 status: stable

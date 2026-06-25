@@ -2,5 +2,6 @@ id: dark-carp
 category: fish
 type: fish
 fish: "Dark Carp"
+related: [weeping-pool-7]
 tags: [fish, fishing, nature]
 status: stable

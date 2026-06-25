@@ -2,5 +2,6 @@ id: spear-squid
 category: fish
 type: fish
 fish: "Spear Squid"
+related: [kugane-coast]
 tags: [fish, fishing, nature]
 status: stable

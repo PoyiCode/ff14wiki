@@ -2,5 +2,6 @@ id: sunfish
 category: fish
 type: fish
 fish: "Sunfish"
+related: [isles-of-umbra-northshore]
 tags: [fish, fishing, nature]
 status: stable

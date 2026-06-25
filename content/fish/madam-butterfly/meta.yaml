@@ -2,5 +2,6 @@ id: madam-butterfly
 category: fish
 type: fish
 fish: "Madam Butterfly"
+related: [quickspill-delta]
 tags: [fish, fishing, nature]
 status: stable

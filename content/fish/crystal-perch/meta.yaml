@@ -2,5 +2,6 @@ id: crystal-perch
 category: fish
 type: fish
 fish: "Crystal Perch"
+related: [woad-whisper-canyon]
 tags: [fish, fishing, nature]
 status: stable

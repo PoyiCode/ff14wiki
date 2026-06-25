@@ -2,5 +2,6 @@ id: blue-crab
 category: fish
 type: fish
 fish: "Blue Crab"
+related: [the-western-kholusian-coast]
 tags: [fish, fishing, nature]
 status: stable

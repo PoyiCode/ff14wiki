@@ -2,5 +2,6 @@ id: stargilt-lobster
 category: fish
 type: fish
 fish: "Stargilt Lobster"
+related: [apohelos-18-3]
 tags: [fish, fishing, nature]
 status: stable

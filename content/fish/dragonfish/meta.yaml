@@ -2,5 +2,6 @@ id: dragonfish
 category: fish
 type: fish
 fish: "Dragonfish"
+related: [doma-castle]
 tags: [fish, fishing, nature]
 status: stable

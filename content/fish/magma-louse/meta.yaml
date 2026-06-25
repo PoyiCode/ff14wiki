@@ -2,5 +2,6 @@ id: magma-louse
 category: fish
 type: fish
 fish: "Magma Louse"
+related: [anyx-old]
 tags: [fish, fishing, nature]
 status: stable

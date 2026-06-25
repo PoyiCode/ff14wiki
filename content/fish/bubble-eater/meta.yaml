@@ -2,5 +2,6 @@ id: bubble-eater
 category: fish
 type: fish
 fish: "Bubble Eater"
+related: [bubble-bursters-2]
 tags: [fish, fishing, nature]
 status: stable

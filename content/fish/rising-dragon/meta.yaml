@@ -2,5 +2,6 @@ id: rising-dragon
 category: fish
 type: fish
 fish: "Rising Dragon"
+related: [kugane-piers]
 tags: [fish, fishing, nature]
 status: stable

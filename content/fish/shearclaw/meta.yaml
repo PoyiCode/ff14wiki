@@ -2,5 +2,6 @@ id: shearclaw
 category: fish
 type: fish
 fish: "Shearclaw"
+related: [fusingway-flow-2, fusingway-flow-3]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: inanity-eel
 category: fish
 type: fish
 fish: "Inanity Eel"
+related: [hollow-harbor-8]
 tags: [fish, fishing, nature]
 status: stable

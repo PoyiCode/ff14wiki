@@ -2,5 +2,6 @@ id: hinterlands-perch
 category: fish
 type: fish
 fish: "Hinterlands Perch"
+related: [thaliak-river]
 tags: [fish, fishing, nature]
 status: stable

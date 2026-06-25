@@ -2,5 +2,6 @@ id: maru-crab
 category: fish
 type: fish
 fish: "Maru Crab"
+related: [west-caliban-gap]
 tags: [fish, fishing, nature]
 status: stable

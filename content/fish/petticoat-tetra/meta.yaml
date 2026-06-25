@@ -2,5 +2,6 @@ id: petticoat-tetra
 category: fish
 type: fish
 fish: "Petticoat Tetra"
+related: [downripple]
 tags: [fish, fishing, nature]
 status: stable

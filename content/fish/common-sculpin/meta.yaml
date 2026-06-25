@@ -2,5 +2,6 @@ id: common-sculpin
 category: fish
 type: fish
 fish: "Common Sculpin"
+related: [sylphlands, the-weeping-saint, oakwood, bluefog]
 tags: [fish, fishing, nature]
 status: stable

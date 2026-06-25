@@ -2,5 +2,6 @@ id: doman-crayfish
 category: fish
 type: fish
 fish: "Doman Crayfish"
+related: [the-heron-s-nest, the-heron-s-way, prism-canyon]
 tags: [fish, fishing, nature]
 status: stable

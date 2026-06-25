@@ -2,5 +2,6 @@ id: dark-ambusher
 category: fish
 type: fish
 fish: "Dark Ambusher"
+related: [sweetbloom-pier]
 tags: [fish, fishing, nature]
 status: stable

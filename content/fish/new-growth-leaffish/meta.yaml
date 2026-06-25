@@ -2,5 +2,6 @@ id: new-growth-leaffish
 category: fish
 type: fish
 fish: "New Growth Leaffish"
+related: [new-growth-tapwaters-2, new-growth-tapwaters-3, new-growth-tapwaters-5]
 tags: [fish, fishing, nature]
 status: stable

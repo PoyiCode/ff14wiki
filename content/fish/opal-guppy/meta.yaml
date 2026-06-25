@@ -2,5 +2,6 @@ id: opal-guppy
 category: fish
 type: fish
 fish: "Opal Guppy"
+related: [hollow-harbor-7]
 tags: [fish, fishing, nature]
 status: stable

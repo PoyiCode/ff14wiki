@@ -2,5 +2,6 @@ id: chrome-hammerhead
 category: fish
 type: fish
 fish: "Chrome Hammerhead"
+related: [open-rhotano-sea]
 tags: [fish, fishing, nature]
 status: stable

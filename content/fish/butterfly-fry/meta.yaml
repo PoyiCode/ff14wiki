@@ -2,5 +2,6 @@ id: butterfly-fry
 category: fish
 type: fish
 fish: "Butterfly Fry"
+related: [unmoved-source-alpha, the-mover-alpha, unmoved-source-beta, the-mover-beta, deepmoat]
 tags: [fish, fishing, nature]
 status: stable

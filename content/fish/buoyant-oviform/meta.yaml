@@ -2,5 +2,6 @@ id: buoyant-oviform
 category: fish
 type: fish
 fish: "Buoyant Oviform"
+related: [cloudtop, the-blue-window, blustery-cloudtop]
 tags: [fish, fishing, nature]
 status: stable

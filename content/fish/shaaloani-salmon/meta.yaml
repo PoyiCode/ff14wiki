@@ -2,5 +2,6 @@ id: shaaloani-salmon
 category: fish
 type: fish
 fish: "Shaaloani Salmon"
+related: [niikwerepi]
 tags: [fish, fishing, nature]
 status: stable

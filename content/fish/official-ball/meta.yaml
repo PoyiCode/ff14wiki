@@ -2,5 +2,6 @@ id: official-ball
 category: fish
 type: fish
 fish: "Official Ball"
+related: [longmirror-lake, the-haughty-one, father-collard-s-failings]
 tags: [fish, fishing, nature]
 status: stable

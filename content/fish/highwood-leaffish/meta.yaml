@@ -2,5 +2,6 @@ id: highwood-leaffish
 category: fish
 type: fish
 fish: "Highwood Leaffish"
+related: [timberpond-2, timberpond-3, timberpond-4, timberpond-5]
 tags: [fish, fishing, nature]
 status: stable

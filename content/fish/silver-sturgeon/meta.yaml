@@ -2,5 +2,6 @@ id: silver-sturgeon
 category: fish
 type: fish
 fish: "Silver Sturgeon"
+related: [southeast-well-4]
 tags: [fish, fishing, nature]
 status: stable

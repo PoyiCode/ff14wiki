@@ -2,5 +2,6 @@ id: the-gobfather
 category: fish
 type: fish
 fish: "The Gobfather"
+related: [goblinblood]
 tags: [fish, fishing, nature]
 status: stable

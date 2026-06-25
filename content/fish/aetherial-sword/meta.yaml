@@ -2,5 +2,6 @@ id: aetherial-sword
 category: fish
 type: fish
 fish: "Aetherial Sword"
+related: [aetherial-falls-3, aetherial-falls-4]
 tags: [fish, fishing, nature]
 status: stable

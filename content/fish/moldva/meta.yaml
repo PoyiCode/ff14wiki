@@ -2,5 +2,6 @@ id: moldva
 category: fish
 type: fish
 fish: "Moldva"
+related: [springripple-brook]
 tags: [fish, fishing, nature]
 status: stable

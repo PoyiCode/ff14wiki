@@ -2,5 +2,6 @@ id: sandfish
 category: fish
 type: fish
 fish: "Sandfish"
+related: [sagolii-desert]
 tags: [fish, fishing, nature]
 status: stable

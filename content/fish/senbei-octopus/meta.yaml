@@ -2,5 +2,6 @@ id: senbei-octopus
 category: fish
 type: fish
 fish: "Senbei Octopus"
+related: [ruby-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

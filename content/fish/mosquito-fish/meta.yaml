@@ -2,5 +2,6 @@ id: mosquito-fish
 category: fish
 type: fish
 fish: "Mosquito Fish"
+related: [downripple]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: isosceles-pearl
 category: fish
 type: fish
 fish: "Isosceles Pearl"
+related: [west-beaconveil-7]
 tags: [fish, fishing, nature]
 status: stable

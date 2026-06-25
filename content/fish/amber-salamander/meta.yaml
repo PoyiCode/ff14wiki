@@ -2,5 +2,6 @@ id: amber-salamander
 category: fish
 type: fish
 fish: "Amber Salamander"
+related: [the-iron-feast]
 tags: [fish, fishing, nature]
 status: stable

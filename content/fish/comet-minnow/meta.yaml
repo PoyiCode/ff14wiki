@@ -2,5 +2,6 @@ id: comet-minnow
 category: fish
 type: fish
 fish: "Comet Minnow"
+related: [the-outer-fist]
 tags: [fish, fishing, nature]
 status: stable

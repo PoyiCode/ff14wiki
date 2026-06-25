@@ -2,5 +2,6 @@ id: lepopredator
 category: fish
 type: fish
 fish: "Lepopredator"
+related: [glimmerpond-alpha-3]
 tags: [fish, fishing, nature]
 status: stable

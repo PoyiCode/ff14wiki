@@ -2,5 +2,6 @@ id: the-unforgiven
 category: fish
 type: fish
 fish: "The Unforgiven"
+related: [the-source]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: yellowcheek
 category: fish
 type: fish
 fish: "Yellowcheek"
+related: [weeping-pool-5]
 tags: [fish, fishing, nature]
 status: stable

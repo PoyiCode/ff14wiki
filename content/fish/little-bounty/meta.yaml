@@ -2,5 +2,6 @@ id: little-bounty
 category: fish
 type: fish
 fish: "Little Bounty"
+related: [saint-fathric-s-temple]
 tags: [fish, fishing, nature]
 status: stable

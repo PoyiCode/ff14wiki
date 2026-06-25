@@ -2,5 +2,6 @@ id: boro-bead
 category: fish
 type: fish
 fish: "Boro Bead"
+related: [west-beaconveil-5]
 tags: [fish, fishing, nature]
 status: stable

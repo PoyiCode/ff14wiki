@@ -2,5 +2,6 @@ id: sand-bream
 category: fish
 type: fish
 fish: "Sand Bream"
+related: [sagolii-desert, sagolii-dunes]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: harlequin-queen
 category: fish
 type: fish
 fish: "Harlequin Queen"
+related: [the-knowable]
 tags: [fish, fishing, nature]
 status: stable

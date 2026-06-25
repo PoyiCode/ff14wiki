@@ -2,5 +2,6 @@ id: thaliak-caiman
 category: fish
 type: fish
 fish: "Thaliak Caiman"
+related: [middle-thaliak-river]
 tags: [fish, fishing, nature]
 status: stable

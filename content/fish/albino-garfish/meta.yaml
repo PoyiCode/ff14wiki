@@ -2,5 +2,6 @@ id: albino-garfish
 category: fish
 type: fish
 fish: "Albino Garfish"
+related: [the-isle-of-ken]
 tags: [fish, fishing, nature]
 status: stable

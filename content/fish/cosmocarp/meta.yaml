@@ -2,5 +2,6 @@ id: cosmocarp
 category: fish
 type: fish
 fish: "Cosmocarp"
+related: [emerald-springs-5]
 tags: [fish, fishing, nature]
 status: stable

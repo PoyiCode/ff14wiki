@@ -2,5 +2,6 @@ id: mooncrystal-perch
 category: fish
 type: fish
 fish: "Mooncrystal Perch"
+related: [northward-hop-print-5, northward-hop-print-6, northward-hop-print-7]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: swordtip-squid
 category: fish
 type: fish
 fish: "Swordtip Squid"
+related: [kugane-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

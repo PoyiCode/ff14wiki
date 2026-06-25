@@ -2,5 +2,6 @@ id: thundergut
 category: fish
 type: fish
 fish: "Thundergut"
+related: [the-long-climb]
 tags: [fish, fishing, nature]
 status: stable

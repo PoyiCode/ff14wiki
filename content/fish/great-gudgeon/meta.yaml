@@ -2,5 +2,6 @@ id: great-gudgeon
 category: fish
 type: fish
 fish: "Great Gudgeon"
+related: [west-agelyss-river]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: canal-bream
 category: fish
 type: fish
 fish: "Canal Bream"
+related: [canal-town-south, canal-town-north]
 tags: [fish, fishing, nature]
 status: stable

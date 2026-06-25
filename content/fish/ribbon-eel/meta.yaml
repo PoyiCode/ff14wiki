@@ -2,5 +2,6 @@ id: ribbon-eel
 category: fish
 type: fish
 fish: "Ribbon Eel"
+related: [kugane-piers]
 tags: [fish, fishing, nature]
 status: stable

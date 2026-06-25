@@ -2,5 +2,6 @@ id: ealad-skaan
 category: fish
 type: fish
 fish: "Ealad Skaan"
+related: [longmirror-lake]
 tags: [fish, fishing, nature]
 status: stable

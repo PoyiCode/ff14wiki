@@ -2,5 +2,6 @@ id: garum-jug
 category: fish
 type: fish
 fish: "Garum Jug"
+related: [rothlyt-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

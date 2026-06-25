@@ -2,5 +2,6 @@ id: full-moon-catfish
 category: fish
 type: fish
 fish: "Full Moon Catfish"
+related: [southeast-well-8]
 tags: [fish, fishing, nature]
 status: stable

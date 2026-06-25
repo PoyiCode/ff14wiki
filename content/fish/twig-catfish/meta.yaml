@@ -2,5 +2,6 @@ id: twig-catfish
 category: fish
 type: fish
 fish: "Twig Catfish"
+related: [sapsweet-cenote]
 tags: [fish, fishing, nature]
 status: stable

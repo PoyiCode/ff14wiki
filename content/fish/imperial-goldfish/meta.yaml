@@ -2,5 +2,6 @@ id: imperial-goldfish
 category: fish
 type: fish
 fish: "Imperial Goldfish"
+related: [red-mantis-falls]
 tags: [fish, fishing, nature]
 status: stable

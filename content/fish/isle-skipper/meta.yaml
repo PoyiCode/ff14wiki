@@ -2,5 +2,6 @@ id: isle-skipper
 category: fish
 type: fish
 fish: "Isle Skipper"
+related: [rumination-s-ramble, the-lower-hungering-gardens, lethe]
 tags: [fish, fishing, nature]
 status: stable

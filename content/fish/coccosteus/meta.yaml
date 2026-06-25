@@ -2,5 +2,6 @@ id: coccosteus
 category: fish
 type: fish
 fish: "Coccosteus"
+related: [northern-merlthor-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

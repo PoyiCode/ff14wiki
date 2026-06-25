@@ -2,5 +2,6 @@ id: marrow-sucker
 category: fish
 type: fish
 fish: "Marrow Sucker"
+related: [north-drybone]
 tags: [fish, fishing, nature]
 status: stable

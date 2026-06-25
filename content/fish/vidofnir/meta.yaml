@@ -2,5 +2,6 @@ id: vidofnir
 category: fish
 type: fish
 fish: "Vidofnir"
+related: [eil-tohm]
 tags: [fish, fishing, nature]
 status: stable

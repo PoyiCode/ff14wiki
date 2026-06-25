@@ -2,5 +2,6 @@ id: hyphalosaurus
 category: fish
 type: fish
 fish: "Hyphalosaurus"
+related: [deepmoat]
 tags: [fish, fishing, nature]
 status: stable

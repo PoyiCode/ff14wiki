@@ -2,5 +2,6 @@ id: chlorophos-deathworm
 category: fish
 type: fish
 fish: "Chlorophos Deathworm"
+related: [the-chlorophospond]
 tags: [fish, fishing, nature]
 status: stable

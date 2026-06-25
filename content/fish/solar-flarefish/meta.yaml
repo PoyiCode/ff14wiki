@@ -2,5 +2,6 @@ id: solar-flarefish
 category: fish
 type: fish
 fish: "Solar Flarefish"
+related: [northward-hop-print-4]
 tags: [fish, fishing, nature]
 status: stable

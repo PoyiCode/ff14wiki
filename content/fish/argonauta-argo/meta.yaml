@@ -2,5 +2,6 @@ id: argonauta-argo
 category: fish
 type: fish
 fish: "Argonauta argo"
+related: [limne-3]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: fountfish
 category: fish
 type: fish
 fish: "Fountfish"
+related: [delta-quadrant, the-pappus-tree]
 tags: [fish, fishing, nature]
 status: stable

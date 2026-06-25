@@ -2,5 +2,6 @@ id: rhotano-wahoo
 category: fish
 type: fish
 fish: "Rhotano Wahoo"
+related: [open-rhotano-sea]
 tags: [fish, fishing, nature]
 status: stable

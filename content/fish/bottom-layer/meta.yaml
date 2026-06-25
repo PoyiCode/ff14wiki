@@ -2,5 +2,6 @@ id: bottom-layer
 category: fish
 type: fish
 fish: "Bottom-layer"
+related: [the-lehr-7]
 tags: [fish, fishing, nature]
 status: stable

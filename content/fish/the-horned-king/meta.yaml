@@ -2,5 +2,6 @@ id: the-horned-king
 category: fish
 type: fish
 fish: "The Horned King"
+related: [the-river-of-sand]
 tags: [fish, fishing, nature]
 status: stable

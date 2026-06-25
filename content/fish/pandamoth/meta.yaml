@@ -2,5 +2,6 @@ id: pandamoth
 category: fish
 type: fish
 fish: "Pandamoth"
+related: [plum-spring]
 tags: [fish, fishing, nature]
 status: stable

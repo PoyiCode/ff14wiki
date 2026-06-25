@@ -2,5 +2,6 @@ id: foregone-goby
 category: fish
 type: fish
 fish: "Foregone Goby"
+related: [foregone-oasis-5]
 tags: [fish, fishing, nature]
 status: stable

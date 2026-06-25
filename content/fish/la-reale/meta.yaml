@@ -2,5 +2,6 @@ id: la-reale
 category: fish
 type: fish
 fish: "La Reale"
+related: [ashpool]
 tags: [fish, fishing, nature]
 status: stable

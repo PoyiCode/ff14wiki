@@ -2,5 +2,6 @@ id: cave-cherax
 category: fish
 type: fish
 fish: "Cave Cherax"
+related: [daniffen-pass]
 tags: [fish, fishing, nature]
 status: stable

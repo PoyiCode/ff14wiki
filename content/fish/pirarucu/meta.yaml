@@ -2,5 +2,6 @@ id: pirarucu
 category: fish
 type: fish
 fish: "Pirarucu"
+related: [proud-creek]
 tags: [fish, fishing, nature]
 status: stable

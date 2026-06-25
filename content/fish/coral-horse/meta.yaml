@@ -2,5 +2,6 @@ id: coral-horse
 category: fish
 type: fish
 fish: "Coral Horse"
+related: [the-ruby-price]
 tags: [fish, fishing, nature]
 status: stable

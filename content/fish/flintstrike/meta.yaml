@@ -2,5 +2,6 @@ id: flintstrike
 category: fish
 type: fish
 fish: "Flintstrike"
+related: [the-pappus-tree]
 tags: [fish, fishing, nature]
 status: stable

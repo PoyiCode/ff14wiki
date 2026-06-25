@@ -2,5 +2,6 @@ id: skyworm
 category: fish
 type: fish
 fish: "Skyworm"
+related: [greytail-falls]
 tags: [fish, fishing, nature]
 status: stable

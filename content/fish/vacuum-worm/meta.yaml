@@ -2,5 +2,6 @@ id: vacuum-worm
 category: fish
 type: fish
 fish: "Vacuum Worm"
+related: [magnetic-horizon-5]
 tags: [fish, fishing, nature]
 status: stable

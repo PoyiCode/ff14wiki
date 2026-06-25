@@ -2,5 +2,6 @@ id: sandblaster
 category: fish
 type: fish
 fish: "Sandblaster"
+related: [opalescent-crossing-5]
 tags: [fish, fishing, nature]
 status: stable

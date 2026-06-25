@@ -2,5 +2,6 @@ id: ka-puyhu
 category: fish
 type: fish
 fish: "Ka Puyhu"
+related: [ku-uxage]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: cerule-core
 category: fish
 type: fish
 fish: "Cerule Core"
+related: [the-eblan-thaw]
 tags: [fish, fishing, nature]
 status: stable

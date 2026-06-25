@@ -2,5 +2,6 @@ id: goldflake-sandfish
 category: fish
 type: fish
 fish: "Goldflake Sandfish"
+related: [the-prismatic-pull-2]
 tags: [fish, fishing, nature]
 status: stable

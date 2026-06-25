@@ -2,5 +2,6 @@ id: quartz-hammerhead
 category: fish
 type: fish
 fish: "Quartz Hammerhead"
+related: [bloodbrine-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

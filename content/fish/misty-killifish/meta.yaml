@@ -2,5 +2,6 @@ id: misty-killifish
 category: fish
 type: fish
 fish: "Misty Killifish"
+related: [the-rusted-reservoir]
 tags: [fish, fishing, nature]
 status: stable

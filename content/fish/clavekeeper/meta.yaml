@@ -2,5 +2,6 @@ id: clavekeeper
 category: fish
 type: fish
 fish: "Clavekeeper"
+related: [seagazer-shoals]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: lunar-tilapia
 category: fish
 type: fish
 fish: "Lunar Tilapia"
+related: [weeping-pool-2]
 tags: [fish, fishing, nature]
 status: stable

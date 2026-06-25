@@ -2,5 +2,6 @@ id: blockhead
 category: fish
 type: fish
 fish: "Blockhead"
+related: [hells-lid]
 tags: [fish, fishing, nature]
 status: stable

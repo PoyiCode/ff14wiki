@@ -2,5 +2,6 @@ id: lancetfish
 category: fish
 type: fish
 fish: "Lancetfish"
+related: [northwest-caliban-gorge]
 tags: [fish, fishing, nature]
 status: stable

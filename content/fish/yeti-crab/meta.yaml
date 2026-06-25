@@ -2,5 +2,6 @@ id: yeti-crab
 category: fish
 type: fish
 fish: "Yeti Crab"
+related: [west-caliban-gap]
 tags: [fish, fishing, nature]
 status: stable

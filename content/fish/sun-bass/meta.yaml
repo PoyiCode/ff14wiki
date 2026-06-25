@@ -2,5 +2,6 @@ id: sun-bass
 category: fish
 type: fish
 fish: "Sun Bass"
+related: [azim-khaat]
 tags: [fish, fishing, nature]
 status: stable

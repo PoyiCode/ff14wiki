@@ -2,5 +2,6 @@ id: inverted-skipper
 category: fish
 type: fish
 fish: "Inverted Skipper"
+related: [megalithopolis-2, megalithopolis-3, megalithopolis-4, megalithopolis-5, megalithopolis-6]
 tags: [fish, fishing, nature]
 status: stable

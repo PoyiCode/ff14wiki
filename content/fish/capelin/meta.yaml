@@ -2,5 +2,6 @@ id: capelin
 category: fish
 type: fish
 fish: "Capelin"
+related: [clearpool]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: oxydoras
 category: fish
 type: fish
 fish: "Oxydoras"
+related: [miyakabek-zoma]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: radial-cichlid
 category: fish
 type: fish
 fish: "Radial Cichlid"
+related: [emerald-springs-3]
 tags: [fish, fishing, nature]
 status: stable

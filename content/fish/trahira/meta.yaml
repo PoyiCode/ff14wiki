@@ -2,5 +2,6 @@ id: trahira
 category: fish
 type: fish
 fish: "Trahira"
+related: [miyakabek-zu]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: inverted-whitefish
 category: fish
 type: fish
 fish: "Inverted Whitefish"
+related: [foregone-oasis-2]
 tags: [fish, fishing, nature]
 status: stable

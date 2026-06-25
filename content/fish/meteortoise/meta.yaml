@@ -2,5 +2,6 @@ id: meteortoise
 category: fish
 type: fish
 fish: "Meteortoise"
+related: [mourn]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: moros-sandworm
 category: fish
 type: fish
 fish: "Moros Sandworm"
+related: [the-moros-well-4]
 tags: [fish, fishing, nature]
 status: stable

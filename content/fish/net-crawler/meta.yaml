@@ -2,5 +2,6 @@ id: net-crawler
 category: fish
 type: fish
 fish: "Net Crawler"
+related: [the-northern-strait-of-merlthor]
 tags: [fish, fishing, nature]
 status: stable

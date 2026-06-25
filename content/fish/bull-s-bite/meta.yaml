@@ -2,5 +2,6 @@ id: bull-s-bite
 category: fish
 type: fish
 fish: "Bull's Bite"
+related: [the-bull-s-bath]
 tags: [fish, fishing, nature]
 status: stable

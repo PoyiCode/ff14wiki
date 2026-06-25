@@ -2,5 +2,6 @@ id: copperfish
 category: fish
 type: fish
 fish: "Copperfish"
+related: [verdant-drop, east-hathoeva-river, woad-whisper-canyon, empty-heart, east-agelyss-river, raincatcher-gully, the-juggernaut, fool-falls, nophica-s-wells, the-footfalls, burnt-lizard-creek, forgotten-springs, the-goblet]
 tags: [fish, fishing, nature]
 status: stable

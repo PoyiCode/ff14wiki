@@ -2,5 +2,6 @@ id: honeycomb-fish
 category: fish
 type: fish
 fish: "Honeycomb Fish"
+related: [outer-rothlyt-sound]
 tags: [fish, fishing, nature]
 status: stable

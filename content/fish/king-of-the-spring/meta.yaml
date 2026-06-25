@@ -2,5 +2,6 @@ id: king-of-the-spring
 category: fish
 type: fish
 fish: "King of the Spring"
+related: [northeast-bronze-lake, northwest-bronze-lake]
 tags: [fish, fishing, nature]
 status: stable

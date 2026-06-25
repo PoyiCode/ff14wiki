@@ -2,5 +2,6 @@ id: rosebud-frog
 category: fish
 type: fish
 fish: "Rosebud Frog"
+related: [the-knowable, mu-springs-eternal, leynode-aero]
 tags: [fish, fishing, nature]
 status: stable

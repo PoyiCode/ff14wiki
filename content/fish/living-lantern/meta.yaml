@@ -2,5 +2,6 @@ id: living-lantern
 category: fish
 type: fish
 fish: "Living Lantern"
+related: [outer-rothlyt-sound]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: bicuda
 category: fish
 type: fish
 fish: "Bicuda"
+related: [ksiroda]
 tags: [fish, fishing, nature]
 status: stable

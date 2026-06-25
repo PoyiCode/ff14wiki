@@ -2,5 +2,6 @@ id: greengill-salmon
 category: fish
 type: fish
 fish: "Greengill Salmon"
+related: [the-mover-alpha]
 tags: [fish, fishing, nature]
 status: stable

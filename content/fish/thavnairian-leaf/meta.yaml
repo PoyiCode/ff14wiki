@@ -2,5 +2,6 @@ id: thavnairian-leaf
 category: fish
 type: fish
 fish: "Thavnairian Leaf"
+related: [upper-thaliak-river]
 tags: [fish, fishing, nature]
 status: stable

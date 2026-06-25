@@ -2,5 +2,6 @@ id: aurora-shell
 category: fish
 type: fish
 fish: "Aurora Shell"
+related: [west-beaconveil-7]
 tags: [fish, fishing, nature]
 status: stable

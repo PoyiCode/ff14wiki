@@ -2,5 +2,6 @@ id: pinebark-flounder
 category: fish
 type: fish
 fish: "Pinebark Flounder"
+related: [open-ruby-sea]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: fullmoon-sardine
 category: fish
 type: fish
 fish: "Fullmoon Sardine"
+related: [south-bloodshore, costa-del-sol, isles-of-umbra-northshore, isles-of-umbra-southshore, sapsa-spawning-grounds, mist]
 tags: [fish, fishing, nature]
 status: stable

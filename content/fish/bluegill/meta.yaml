@@ -2,5 +2,6 @@ id: bluegill
 category: fish
 type: fish
 fish: "Bluegill"
+related: [giantsgall-grounds]
 tags: [fish, fishing, nature]
 status: stable

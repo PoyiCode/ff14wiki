@@ -2,5 +2,6 @@ id: saucerfish
 category: fish
 type: fish
 fish: "Saucerfish"
+related: [witchdrop]
 tags: [fish, fishing, nature]
 status: stable

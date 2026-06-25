@@ -2,5 +2,6 @@ id: bloodtail-zombie
 category: fish
 type: fish
 fish: "Bloodtail Zombie"
+related: [the-outer-fist]
 tags: [fish, fishing, nature]
 status: stable

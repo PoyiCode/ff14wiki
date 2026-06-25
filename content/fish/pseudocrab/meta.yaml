@@ -2,5 +2,6 @@ id: pseudocrab
 category: fish
 type: fish
 fish: "Pseudocrab"
+related: [magnetic-horizon-5]
 tags: [fish, fishing, nature]
 status: stable

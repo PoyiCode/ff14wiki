@@ -2,5 +2,6 @@ id: eulmore-butterfly
 category: fish
 type: fish
 fish: "Eulmore Butterfly"
+related: [the-derelicts]
 tags: [fish, fishing, nature]
 status: stable

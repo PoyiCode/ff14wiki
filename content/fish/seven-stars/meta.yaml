@@ -2,5 +2,6 @@ id: seven-stars
 category: fish
 type: fish
 fish: "Seven Stars"
+related: [the-isle-of-bekko]
 tags: [fish, fishing, nature]
 status: stable

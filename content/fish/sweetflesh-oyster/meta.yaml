@@ -2,5 +2,6 @@ id: sweetflesh-oyster
 category: fish
 type: fish
 fish: "Sweetflesh Oyster"
+related: [the-norvrandt-slope]
 tags: [fish, fishing, nature]
 status: stable

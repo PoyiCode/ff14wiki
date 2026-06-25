@@ -2,5 +2,6 @@ id: goldfish
 category: fish
 type: fish
 fish: "Goldfish"
+related: [lake-tahtotl, north-silvertear, rathefrost, red-mantis-falls, ceruleum-field, the-north-shards, the-goblet]
 tags: [fish, fishing, nature]
 status: stable

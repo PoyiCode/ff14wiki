@@ -2,5 +2,6 @@ id: gigantshark
 category: fish
 type: fish
 fish: "Gigantshark"
+related: [summerford]
 tags: [fish, fishing, nature]
 status: stable

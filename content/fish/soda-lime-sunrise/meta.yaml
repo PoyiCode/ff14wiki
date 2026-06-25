@@ -2,5 +2,6 @@ id: soda-lime-sunrise
 category: fish
 type: fish
 fish: "Soda-lime Sunrise"
+related: [lower-soda-lime-float-4]
 tags: [fish, fishing, nature]
 status: stable

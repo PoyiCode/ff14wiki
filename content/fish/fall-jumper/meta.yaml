@@ -2,5 +2,6 @@ id: fall-jumper
 category: fish
 type: fish
 fish: "Fall Jumper"
+related: [verdant-drop, fool-falls]
 tags: [fish, fishing, nature]
 status: stable

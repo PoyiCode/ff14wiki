@@ -2,5 +2,6 @@ id: archerfish
 category: fish
 type: fish
 fish: "Archerfish"
+related: [east-agelyss-river, raincatcher-gully]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: black-jet
 category: fish
 type: fish
 fish: "Black Jet"
+related: [the-lozatl]
 tags: [fish, fishing, nature]
 status: stable

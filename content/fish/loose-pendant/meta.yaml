@@ -2,5 +2,6 @@ id: loose-pendant
 category: fish
 type: fish
 fish: "Loose Pendant"
+related: [crystarium-personal-suites]
 tags: [fish, fishing, nature]
 status: stable

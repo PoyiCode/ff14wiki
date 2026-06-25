@@ -2,5 +2,6 @@ id: highland-perch
 category: fish
 type: fish
 fish: "Highland Perch"
+related: [mirage-creek]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: quicksand-mantaroid
 category: fish
 type: fish
 fish: "Quicksand Mantaroid"
+related: [the-prismatic-pull-3]
 tags: [fish, fishing, nature]
 status: stable

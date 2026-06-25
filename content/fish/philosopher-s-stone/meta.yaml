@@ -2,5 +2,6 @@ id: philosopher-s-stone
 category: fish
 type: fish
 fish: "Philosopher's Stone"
+related: [thaliak-river, middle-thaliak-river]
 tags: [fish, fishing, nature]
 status: stable

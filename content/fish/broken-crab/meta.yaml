@@ -2,5 +2,6 @@ id: broken-crab
 category: fish
 type: fish
 fish: "Broken Crab"
+related: [upper-mirage-creek]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: magnetic-needler
 category: fish
 type: fish
 fish: "Magnetic Needler"
+related: [under-overboard-2]
 tags: [fish, fishing, nature]
 status: stable

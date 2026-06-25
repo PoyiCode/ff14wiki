@@ -2,5 +2,6 @@ id: cloud-jellyfish
 category: fish
 type: fish
 fish: "Cloud Jellyfish"
+related: [witchdrop, sea-of-clouds]
 tags: [fish, fishing, nature]
 status: stable

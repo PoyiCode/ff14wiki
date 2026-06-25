@@ -2,5 +2,6 @@ id: grade-3-artisanal-skybuilders-archaeopteryx
 category: fish
 type: fish
 fish: "Grade 3 Artisanal Skybuilders' Archaeopteryx"
+related: [blustery-cloudtop-3, windbreaking-cloudtop-2]
 tags: [fish, fishing, nature]
 status: stable

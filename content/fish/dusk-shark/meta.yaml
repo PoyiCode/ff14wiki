@@ -2,5 +2,6 @@ id: dusk-shark
 category: fish
 type: fish
 fish: "Dusk Shark"
+related: [open-sirensong-sea]
 tags: [fish, fishing, nature]
 status: stable

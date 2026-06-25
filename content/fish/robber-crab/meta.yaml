@@ -2,5 +2,6 @@ id: robber-crab
 category: fish
 type: fish
 fish: "Robber Crab"
+related: [lake-tusi-mek-ta, south-mjrl-s-regret]
 tags: [fish, fishing, nature]
 status: stable

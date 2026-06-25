@@ -2,5 +2,6 @@ id: the-lord-of-lords
 category: fish
 type: fish
 fish: "The Lord of Lords"
+related: [halo]
 tags: [fish, fishing, nature]
 status: stable

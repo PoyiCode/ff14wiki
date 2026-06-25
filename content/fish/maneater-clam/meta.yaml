@@ -2,5 +2,6 @@ id: maneater-clam
 category: fish
 type: fish
 fish: "Maneater Clam"
+related: [purpure]
 tags: [fish, fishing, nature]
 status: stable

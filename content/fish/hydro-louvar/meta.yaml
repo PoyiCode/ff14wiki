@@ -2,5 +2,6 @@ id: hydro-louvar
 category: fish
 type: fish
 fish: "Hydro Louvar"
+related: [canal-town-south]
 tags: [fish, fishing, nature]
 status: stable

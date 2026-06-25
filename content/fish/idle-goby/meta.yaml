@@ -2,5 +2,6 @@ id: idle-goby
 category: fish
 type: fish
 fish: "Idle Goby"
+related: [the-slow-wash]
 tags: [fish, fishing, nature]
 status: stable

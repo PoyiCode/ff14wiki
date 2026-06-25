@@ -2,5 +2,6 @@ id: argonaut
 category: fish
 type: fish
 fish: "Argonaut"
+related: [limne-3]
 tags: [fish, fishing, nature]
 status: stable

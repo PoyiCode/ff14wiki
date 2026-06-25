@@ -2,5 +2,6 @@ id: problematicus
 category: fish
 type: fish
 fish: "Problematicus"
+related: [halo]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: balloonfish
 category: fish
 type: fish
 fish: "Balloonfish"
+related: [north-bloodshore, halfstone, rhotano-sea-privateer-forecastle]
 tags: [fish, fishing, nature]
 status: stable

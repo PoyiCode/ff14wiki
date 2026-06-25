@@ -2,5 +2,6 @@ id: chasm-avatar
 category: fish
 type: fish
 fish: "Chasm Avatar"
+related: [bubble-bursters-2]
 tags: [fish, fishing, nature]
 status: stable

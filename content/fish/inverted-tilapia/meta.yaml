@@ -2,5 +2,6 @@ id: inverted-tilapia
 category: fish
 type: fish
 fish: "Inverted Tilapia"
+related: [collapsed-tunnel-3]
 tags: [fish, fishing, nature]
 status: stable

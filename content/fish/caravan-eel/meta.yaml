@@ -2,5 +2,6 @@ id: caravan-eel
 category: fish
 type: fish
 fish: "Caravan Eel"
+related: [sagolii-dunes]
 tags: [fish, fishing, nature]
 status: stable

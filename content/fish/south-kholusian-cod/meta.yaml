@@ -2,5 +2,6 @@ id: south-kholusian-cod
 category: fish
 type: fish
 fish: "South Kholusian Cod"
+related: [the-western-kholusian-coast, seagazer-shoals, the-eastern-kholusian-coast]
 tags: [fish, fishing, nature]
 status: stable

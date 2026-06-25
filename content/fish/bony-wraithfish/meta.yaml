@@ -2,5 +2,6 @@ id: bony-wraithfish
 category: fish
 type: fish
 fish: "Bony Wraithfish"
+related: [opalescent-crossing-4]
 tags: [fish, fishing, nature]
 status: stable

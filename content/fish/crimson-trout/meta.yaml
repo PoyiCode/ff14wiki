@@ -2,5 +2,6 @@ id: crimson-trout
 category: fish
 type: fish
 fish: "Crimson Trout"
+related: [coerthas-river, the-nail, the-weeping-saint, dragonhead-latrines, snowcloak]
 tags: [fish, fishing, nature]
 status: stable

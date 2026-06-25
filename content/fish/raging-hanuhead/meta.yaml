@@ -2,5 +2,6 @@ id: raging-hanuhead
 category: fish
 type: fish
 fish: "Raging Hanuhead"
+related: [eastbound-zorgor]
 tags: [fish, fishing, nature]
 status: stable

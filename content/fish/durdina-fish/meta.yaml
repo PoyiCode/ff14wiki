@@ -2,5 +2,6 @@ id: durdina-fish
 category: fish
 type: fish
 fish: "Durdina Fish"
+related: [the-thavnairian-coast]
 tags: [fish, fishing, nature]
 status: stable

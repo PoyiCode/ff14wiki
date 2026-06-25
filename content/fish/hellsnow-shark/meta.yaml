@@ -2,5 +2,6 @@ id: hellsnow-shark
 category: fish
 type: fish
 fish: "Hellsnow Shark"
+related: [eastbound-zorgor]
 tags: [fish, fishing, nature]
 status: stable

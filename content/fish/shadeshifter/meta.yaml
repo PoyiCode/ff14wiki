@@ -2,5 +2,6 @@ id: shadeshifter
 category: fish
 type: fish
 fish: "Shadeshifter"
+related: [seagazer-shoals]
 tags: [fish, fishing, nature]
 status: stable

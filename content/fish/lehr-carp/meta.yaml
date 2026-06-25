@@ -2,5 +2,6 @@ id: lehr-carp
 category: fish
 type: fish
 fish: "Lehr Carp"
+related: [the-lehr-5]
 tags: [fish, fishing, nature]
 status: stable

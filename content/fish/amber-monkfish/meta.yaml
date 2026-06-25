@@ -2,5 +2,6 @@ id: amber-monkfish
 category: fish
 type: fish
 fish: "Amber Monkfish"
+related: [the-hills-of-amber]
 tags: [fish, fishing, nature]
 status: stable

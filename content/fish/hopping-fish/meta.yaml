@@ -2,5 +2,6 @@ id: hopping-fish
 category: fish
 type: fish
 fish: "Hopping Fish"
+related: [northward-hop-print-3]
 tags: [fish, fishing, nature]
 status: stable

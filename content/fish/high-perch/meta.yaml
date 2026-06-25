@@ -2,5 +2,6 @@ id: high-perch
 category: fish
 type: fish
 fish: "High Perch"
+related: [nym-river]
 tags: [fish, fishing, nature]
 status: stable

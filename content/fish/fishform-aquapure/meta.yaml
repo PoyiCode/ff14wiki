@@ -2,5 +2,6 @@ id: fishform-aquapure
 category: fish
 type: fish
 fish: "Fishform: Aquapure"
+related: [full-bloom-fountain-5]
 tags: [fish, fishing, nature]
 status: stable

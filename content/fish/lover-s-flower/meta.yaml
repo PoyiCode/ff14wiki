@@ -2,5 +2,6 @@ id: lover-s-flower
 category: fish
 type: fish
 fish: "Lover's Flower"
+related: [the-trivium]
 tags: [fish, fishing, nature]
 status: stable

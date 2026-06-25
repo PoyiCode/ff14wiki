@@ -2,5 +2,6 @@ id: etheirys-croppie
 category: fish
 type: fish
 fish: "Etheirys Croppie"
+related: [glimmerpond-alpha-2]
 tags: [fish, fishing, nature]
 status: stable

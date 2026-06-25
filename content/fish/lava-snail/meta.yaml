@@ -2,5 +2,6 @@ id: lava-snail
 category: fish
 type: fish
 fish: "Lava Snail"
+related: [halo]
 tags: [fish, fishing, nature]
 status: stable

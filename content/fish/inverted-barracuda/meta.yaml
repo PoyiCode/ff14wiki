@@ -2,5 +2,6 @@ id: inverted-barracuda
 category: fish
 type: fish
 fish: "Inverted Barracuda"
+related: [magnetic-horizon-2, magnetic-horizon-4, magnetic-horizon-5, magnetic-horizon-6, magnetic-horizon-7, magnetic-horizon-8]
 tags: [fish, fishing, nature]
 status: stable

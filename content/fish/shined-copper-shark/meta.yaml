@@ -2,5 +2,6 @@ id: shined-copper-shark
 category: fish
 type: fish
 fish: "Shined Copper Shark"
+related: [canal-town-north]
 tags: [fish, fishing, nature]
 status: stable

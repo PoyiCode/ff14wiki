@@ -2,5 +2,6 @@ id: the-assassin
 category: fish
 type: fish
 fish: "The Assassin"
+related: [sanctum-of-the-twelve]
 tags: [fish, fishing, nature]
 status: stable

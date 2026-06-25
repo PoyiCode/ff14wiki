@@ -2,5 +2,6 @@ id: fishform-aqualevel
 category: fish
 type: fish
 fish: "Fishform: Aqualevel"
+related: [sprouting-cisterns-4]
 tags: [fish, fishing, nature]
 status: stable

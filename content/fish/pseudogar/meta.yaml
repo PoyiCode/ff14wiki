@@ -2,5 +2,6 @@ id: pseudogar
 category: fish
 type: fish
 fish: "Pseudogar"
+related: [collapsed-tunnel-5]
 tags: [fish, fishing, nature]
 status: stable

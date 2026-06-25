@@ -2,5 +2,6 @@ id: lunar-prismfish
 category: fish
 type: fish
 fish: "Lunar Prismfish"
+related: [northward-hop-print-5, northward-hop-print-6, northward-hop-print-7]
 tags: [fish, fishing, nature]
 status: stable

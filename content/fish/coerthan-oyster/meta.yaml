@@ -2,5 +2,6 @@ id: coerthan-oyster
 category: fish
 type: fish
 fish: "Coerthan Oyster"
+related: [west-banepool]
 tags: [fish, fishing, nature]
 status: stable

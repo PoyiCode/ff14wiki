@@ -2,5 +2,6 @@ id: shisui-goby
 category: fish
 type: fish
 fish: "Shisui Goby"
+related: [open-ruby-sea]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: starbright
 category: fish
 type: fish
 fish: "Starbright"
+related: [the-nail]
 tags: [fish, fishing, nature]
 status: stable

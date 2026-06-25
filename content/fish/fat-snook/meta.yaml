@@ -2,5 +2,6 @@ id: fat-snook
 category: fish
 type: fish
 fish: "Fat Snook"
+related: [unmoved-source-alpha]
 tags: [fish, fishing, nature]
 status: stable

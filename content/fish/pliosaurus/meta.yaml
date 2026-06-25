@@ -2,5 +2,6 @@ id: pliosaurus
 category: fish
 type: fish
 fish: "Pliosaurus"
+related: [thavnair-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

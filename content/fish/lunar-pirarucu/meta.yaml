@@ -2,5 +2,6 @@ id: lunar-pirarucu
 category: fish
 type: fish
 fish: "Lunar Pirarucu"
+related: [hollow-harbor-3]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: mayashell
 category: fish
 type: fish
 fish: "Mayashell"
+related: [the-font-of-maya]
 tags: [fish, fishing, nature]
 status: stable

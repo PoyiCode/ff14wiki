@@ -2,5 +2,6 @@ id: quicksilver-blade
 category: fish
 type: fish
 fish: "Quicksilver Blade"
+related: [galadion-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

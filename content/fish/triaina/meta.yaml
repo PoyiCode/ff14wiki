@@ -2,5 +2,6 @@ id: triaina
 category: fish
 type: fish
 fish: "Triaina"
+related: [limne-3, limne-3-2]
 tags: [fish, fishing, nature]
 status: stable

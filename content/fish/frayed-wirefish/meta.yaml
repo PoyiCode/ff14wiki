@@ -2,5 +2,6 @@ id: frayed-wirefish
 category: fish
 type: fish
 fish: "Frayed Wirefish"
+related: [collapsed-tunnel-2]
 tags: [fish, fishing, nature]
 status: stable

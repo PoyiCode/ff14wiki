@@ -2,5 +2,6 @@ id: codmonaut
 category: fish
 type: fish
 fish: "Codmonaut"
+related: [opalescent-crossing-7]
 tags: [fish, fishing, nature]
 status: stable

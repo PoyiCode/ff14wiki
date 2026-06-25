@@ -2,5 +2,6 @@ id: heavenswimmer
 category: fish
 type: fish
 fish: "Heavenswimmer"
+related: [outer-galadion-bay]
 tags: [fish, fishing, nature]
 status: stable

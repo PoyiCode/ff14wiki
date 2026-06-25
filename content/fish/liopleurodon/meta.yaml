@@ -2,5 +2,6 @@ id: liopleurodon
 category: fish
 type: fish
 fish: "Liopleurodon"
+related: [hells-lid]
 tags: [fish, fishing, nature]
 status: stable

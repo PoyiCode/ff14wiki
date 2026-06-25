@@ -2,5 +2,6 @@ id: lungfish
 category: fish
 type: fish
 fish: "Lungfish"
+related: [the-pappus-tree]
 tags: [fish, fishing, nature]
 status: stable

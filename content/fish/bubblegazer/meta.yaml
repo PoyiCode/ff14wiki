@@ -2,5 +2,6 @@ id: bubblegazer
 category: fish
 type: fish
 fish: "Bubblegazer"
+related: [bubble-bursters-2]
 tags: [fish, fishing, nature]
 status: stable

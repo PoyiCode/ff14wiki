@@ -2,5 +2,6 @@ id: grade-4-skybuilders-starflower
 category: fish
 type: fish
 fish: "Grade 4 Skybuilders' Starflower"
+related: [diadem-grotto-4]
 tags: [fish, fishing, nature]
 status: stable

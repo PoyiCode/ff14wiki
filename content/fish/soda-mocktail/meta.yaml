@@ -2,5 +2,6 @@ id: soda-mocktail
 category: fish
 type: fish
 fish: "Soda Mocktail"
+related: [lower-soda-lime-float-4]
 tags: [fish, fishing, nature]
 status: stable

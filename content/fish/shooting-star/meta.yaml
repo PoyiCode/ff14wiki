@@ -2,5 +2,6 @@ id: shooting-star
 category: fish
 type: fish
 fish: "Shooting Star"
+related: [the-northern-strait-of-merlthor]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: tornado-shark
 category: fish
 type: fish
 fish: "Tornado Shark"
+related: [the-blue-window]
 tags: [fish, fishing, nature]
 status: stable

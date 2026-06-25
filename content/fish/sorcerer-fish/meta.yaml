@@ -2,5 +2,6 @@ id: sorcerer-fish
 category: fish
 type: fish
 fish: "Sorcerer Fish"
+related: [unfrozen-pond]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,5 +2,6 @@ id: castaway-chocobo-chick
 category: fish
 type: fish
 fish: "Castaway Chocobo Chick"
+related: [north-isle-of-endless-summer]
 tags: [fish, fishing, nature]
 status: stable

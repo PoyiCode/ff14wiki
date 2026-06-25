@@ -2,5 +2,6 @@ id: sothis
 category: fish
 type: fish
 fish: "Sothis"
+related: [galadion-spectral-current]
 tags: [fish, fishing, nature]
 status: stable

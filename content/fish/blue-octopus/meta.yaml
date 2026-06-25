@@ -2,5 +2,6 @@ id: blue-octopus
 category: fish
 type: fish
 fish: "Blue Octopus"
+related: [limsa-lominsa-lower-decks, limsa-lominsa-upper-decks, zephyr-drift, summerford, moraby-bay, cedarwood, moraby-drydocks, south-bloodshore, swiftperch, skull-valley, vesper-bay, mist]
 tags: [fish, fishing, nature]
 status: stable

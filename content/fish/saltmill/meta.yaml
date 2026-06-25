@@ -2,5 +2,6 @@ id: saltmill
 category: fish
 type: fish
 fish: "Saltmill"
+related: [loch-seld]
 tags: [fish, fishing, nature]
 status: stable

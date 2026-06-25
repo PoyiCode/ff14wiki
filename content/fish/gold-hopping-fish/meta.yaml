@@ -2,5 +2,6 @@ id: gold-hopping-fish
 category: fish
 type: fish
 fish: "Gold Hopping Fish"
+related: [northward-hop-print-5]
 tags: [fish, fishing, nature]
 status: stable
