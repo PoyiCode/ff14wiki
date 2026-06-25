@@ -1,0 +1,10 @@
+id: the-keeper-of-the-lake
+category: sightseeing
+type: vista
+place: "Mor Dhona"
+time: ["17:00", "17:59"]
+weather: "Fair Skies"
+emote: "/groundsit"
+related: [mor-dhona, groundsit, fair-skies]
+tags: [sightseeing, vista, travel]
+status: stable

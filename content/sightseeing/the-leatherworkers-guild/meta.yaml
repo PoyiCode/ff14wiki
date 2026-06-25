@@ -1,0 +1,10 @@
+id: the-leatherworkers-guild
+category: sightseeing
+type: vista
+place: "Gridania"
+time: ["12:00", "16:59"]
+weather: "Clouds"
+emote: "/lookout"
+related: [gridania, lookout, clouds]
+tags: [sightseeing, vista, travel]
+status: stable

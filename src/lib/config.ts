@@ -180,6 +180,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The Triple Triad cards of the Gold Saucer and their lore — a favourite tabletop game for residents to play and collect.',
     },
   },
+  {
+    key: 'sightseeing',
+    label: { 'zh-TW': '觀光景點', 'zh-CN': '观光景点', ja: '観光スポット', en: 'Sightseeing' },
+    description: {
+      'zh-TW': '探險手帳收錄的風景名勝：在特定地點、時段與天氣下擺出指定動作欣賞的美景，是 bot 規劃旅遊與觀光的依據。',
+      'zh-CN': '探险手账收录的风景名胜：在特定地点、时段与天气下摆出指定动作欣赏的美景，是 bot 规划旅游与观光的依据。',
+      ja: '探検手帳に載る名所・絶景。特定の場所・時間帯・天候で指定のしぐさを取って眺める風景。botの観光・旅の計画の基礎。',
+      en: 'The vistas of the Sightseeing Log — scenic spots viewed by striking a set pose at a given place, time and weather. The basis for the bot to plan trips and sightseeing.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

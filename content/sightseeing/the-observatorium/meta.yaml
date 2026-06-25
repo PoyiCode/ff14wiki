@@ -1,0 +1,10 @@
+id: the-observatorium
+category: sightseeing
+type: vista
+place: "Coerthas Central Highlands"
+time: ["18:00", "04:59"]
+weather: "Fog"
+emote: "/lookout"
+related: [lookout, fog]
+tags: [sightseeing, vista, travel]
+status: stable

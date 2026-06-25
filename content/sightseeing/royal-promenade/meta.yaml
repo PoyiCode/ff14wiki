@@ -1,0 +1,10 @@
+id: royal-promenade
+category: sightseeing
+type: vista
+place: "Ul'dah"
+time: ["05:00", "07:59"]
+weather: "Fair Skies"
+emote: "/salute"
+related: [salute, fair-skies]
+tags: [sightseeing, vista, travel]
+status: stable

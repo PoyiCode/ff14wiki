@@ -1,0 +1,8 @@
+id: the-pike
+category: sightseeing
+type: vista
+place: "Coerthas Western Highlands"
+emote: "/rally"
+related: [rally]
+tags: [sightseeing, vista, travel]
+status: stable

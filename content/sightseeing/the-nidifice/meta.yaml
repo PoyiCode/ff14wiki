@@ -1,0 +1,8 @@
+id: the-nidifice
+category: sightseeing
+type: vista
+place: "The Sea of Clouds"
+emote: "/doze"
+related: [doze]
+tags: [sightseeing, vista, travel]
+status: stable

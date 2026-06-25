@@ -1,0 +1,10 @@
+id: jijiroon-s-trading-post
+category: sightseeing
+type: vista
+place: "Upper La Noscea"
+time: ["18:00", "04:59"]
+weather: "Thunderstorms"
+emote: "/lookout"
+related: [lookout, thunderstorms]
+tags: [sightseeing, vista, travel]
+status: stable

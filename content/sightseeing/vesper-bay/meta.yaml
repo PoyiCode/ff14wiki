@@ -1,0 +1,10 @@
+id: vesper-bay
+category: sightseeing
+type: vista
+place: "Western Thanalan"
+time: ["12:00", "16:59"]
+weather: "Fair Skies"
+emote: "/point"
+related: [point, fair-skies]
+tags: [sightseeing, vista, travel]
+status: stable

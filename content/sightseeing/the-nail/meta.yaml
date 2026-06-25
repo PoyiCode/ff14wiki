@@ -1,0 +1,10 @@
+id: the-nail
+category: sightseeing
+type: vista
+place: "Coerthas Central Highlands"
+time: ["17:00", "17:59"]
+weather: "Clear Skies"
+emote: "/lookout"
+related: [lookout, clear-skies]
+tags: [sightseeing, vista, travel]
+status: stable

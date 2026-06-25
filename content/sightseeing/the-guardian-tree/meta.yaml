@@ -1,0 +1,10 @@
+id: the-guardian-tree
+category: sightseeing
+type: vista
+place: "Central Shroud"
+time: ["12:00", "16:59"]
+weather: "Fair Skies"
+emote: "/lookout"
+related: [lookout, fair-skies]
+tags: [sightseeing, vista, travel]
+status: stable

@@ -1,0 +1,10 @@
+id: the-astalicia
+category: sightseeing
+type: vista
+place: "Limsa Lominsa"
+time: ["18:00", "04:59"]
+weather: "Clear Skies"
+emote: "/lookout"
+related: [limsa-lominsa, lookout, clear-skies]
+tags: [sightseeing, vista, travel]
+status: stable

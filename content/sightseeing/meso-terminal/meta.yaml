@@ -1,0 +1,8 @@
+id: meso-terminal
+category: sightseeing
+type: vista
+place: "Living Memory"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

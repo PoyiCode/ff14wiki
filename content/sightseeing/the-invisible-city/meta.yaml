@@ -1,0 +1,10 @@
+id: the-invisible-city
+category: sightseeing
+type: vista
+place: "Eastern Thanalan"
+time: ["08:00", "11:59"]
+weather: "Clouds"
+emote: "/lookout"
+related: [lookout, clouds]
+tags: [sightseeing, vista, travel]
+status: stable

@@ -1,0 +1,10 @@
+id: the-ship-graveyard
+category: sightseeing
+type: vista
+place: "Western La Noscea"
+time: ["18:00", "04:59"]
+weather: "Gales"
+emote: "/lookout"
+related: [lookout, gales]
+tags: [sightseeing, vista, travel]
+status: stable

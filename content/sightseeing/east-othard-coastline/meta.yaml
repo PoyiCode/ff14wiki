@@ -1,0 +1,9 @@
+id: east-othard-coastline
+category: sightseeing
+type: vista
+place: "The Ruby Sea"
+time: ["05:00", "07:59"]
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

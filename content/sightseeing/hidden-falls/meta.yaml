@@ -1,0 +1,10 @@
+id: hidden-falls
+category: sightseeing
+type: vista
+place: "Eastern La Noscea"
+time: ["08:00", "11:59"]
+weather: "Clear Skies"
+emote: "/groundsit"
+related: [groundsit, clear-skies]
+tags: [sightseeing, vista, travel]
+status: stable

@@ -1,0 +1,10 @@
+id: castrum-centri
+category: sightseeing
+type: vista
+place: "Mor Dhona"
+time: ["12:00", "16:59"]
+weather: "Gloom"
+emote: "/lookout"
+related: [mor-dhona, lookout, gloom]
+tags: [sightseeing, vista, travel]
+status: stable

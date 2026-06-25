@@ -1,0 +1,8 @@
+id: the-for-ard-cabins
+category: sightseeing
+type: vista
+place: "Tuliyollal"
+emote: "/lookout"
+related: [tuliyollal, lookout]
+tags: [sightseeing, vista, travel]
+status: stable

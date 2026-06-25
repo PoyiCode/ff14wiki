@@ -1,0 +1,8 @@
+id: schism
+category: sightseeing
+type: vista
+place: "The Fringes"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

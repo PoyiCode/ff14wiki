@@ -1,0 +1,10 @@
+id: urth-s-gift
+category: sightseeing
+type: vista
+place: "South Shroud"
+time: ["12:00", "16:59"]
+weather: "Fog"
+emote: "/lookout"
+related: [lookout, fog]
+tags: [sightseeing, vista, travel]
+status: stable

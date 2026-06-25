@@ -1,0 +1,8 @@
+id: the-sekiseigumi-barracks
+category: sightseeing
+type: vista
+place: "Kugane"
+emote: "/lookout"
+related: [kugane, lookout]
+tags: [sightseeing, vista, travel]
+status: stable

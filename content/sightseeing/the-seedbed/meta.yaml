@@ -1,0 +1,10 @@
+id: the-seedbed
+category: sightseeing
+type: vista
+place: "East Shroud"
+time: ["18:00", "04:59"]
+weather: "Thunder"
+emote: "/lookout"
+related: [lookout, thunder]
+tags: [sightseeing, vista, travel]
+status: stable

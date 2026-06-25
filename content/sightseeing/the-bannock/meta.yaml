@@ -1,0 +1,10 @@
+id: the-bannock
+category: sightseeing
+type: vista
+place: "Central Shroud"
+time: ["05:00", "07:59"]
+weather: "Rain"
+emote: "/lookout"
+related: [lookout, rain]
+tags: [sightseeing, vista, travel]
+status: stable

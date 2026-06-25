@@ -1,0 +1,10 @@
+id: the-ruins-of-sil-dih
+category: sightseeing
+type: vista
+place: "Central Thanalan"
+time: ["08:00", "11:59"]
+weather: "Fog"
+emote: "/lookout"
+related: [lookout, fog]
+tags: [sightseeing, vista, travel]
+status: stable

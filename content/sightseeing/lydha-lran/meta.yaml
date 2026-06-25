@@ -1,0 +1,8 @@
+id: lydha-lran
+category: sightseeing
+type: vista
+place: "Il Mheg"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

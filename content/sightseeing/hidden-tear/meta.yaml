@@ -1,0 +1,8 @@
+id: hidden-tear
+category: sightseeing
+type: vista
+place: "The Peaks"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

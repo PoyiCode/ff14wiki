@@ -1,0 +1,10 @@
+id: the-frozen-fang
+category: sightseeing
+type: vista
+place: "Coerthas Central Highlands"
+time: ["08:00", "11:59"]
+weather: "Blizzards"
+emote: "/lookout"
+related: [lookout, blizzards]
+tags: [sightseeing, vista, travel]
+status: stable

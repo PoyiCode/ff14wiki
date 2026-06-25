@@ -1,0 +1,10 @@
+id: minotaur-malm
+category: sightseeing
+type: vista
+place: "Southern Thanalan"
+time: ["05:00", "07:59"]
+weather: "Heat Waves"
+emote: "/psych"
+related: [psych, heat-waves]
+tags: [sightseeing, vista, travel]
+status: stable

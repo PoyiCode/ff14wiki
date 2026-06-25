@@ -1,0 +1,8 @@
+id: the-cenotaph
+category: sightseeing
+type: vista
+place: "The Dravanian Hinterlands"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

@@ -1,0 +1,10 @@
+id: quarrymill
+category: sightseeing
+type: vista
+place: "South Shroud"
+time: ["05:00", "07:59"]
+weather: "Fair Skies"
+emote: "/lookout"
+related: [lookout, fair-skies]
+tags: [sightseeing, vista, travel]
+status: stable

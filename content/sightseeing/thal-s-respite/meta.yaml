@@ -1,0 +1,10 @@
+id: thal-s-respite
+category: sightseeing
+type: vista
+place: "Eastern Thanalan"
+time: ["18:00", "04:59"]
+weather: "Showers"
+emote: "/pray"
+related: [pray, showers]
+tags: [sightseeing, vista, travel]
+status: stable

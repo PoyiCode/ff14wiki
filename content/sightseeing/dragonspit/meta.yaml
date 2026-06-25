@@ -1,0 +1,8 @@
+id: dragonspit
+category: sightseeing
+type: vista
+place: "Coerthas Western Highlands"
+emote: "/groundsit"
+related: [groundsit]
+tags: [sightseeing, vista, travel]
+status: stable

@@ -1,0 +1,8 @@
+id: loth-ast-gnath
+category: sightseeing
+type: vista
+place: "The Dravanian Forelands"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

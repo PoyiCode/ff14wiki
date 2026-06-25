@@ -1,0 +1,10 @@
+id: gullperch-tower
+category: sightseeing
+type: vista
+place: "Eastern La Noscea"
+time: ["18:00", "04:59"]
+weather: "Rain"
+emote: "/lookout"
+related: [lookout, rain]
+tags: [sightseeing, vista, travel]
+status: stable

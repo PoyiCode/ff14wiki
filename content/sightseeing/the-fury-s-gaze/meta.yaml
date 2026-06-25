@@ -1,0 +1,10 @@
+id: the-fury-s-gaze
+category: sightseeing
+type: vista
+place: "Coerthas Central Highlands"
+time: ["18:00", "04:59"]
+weather: "Blizzards"
+emote: "/lookout"
+related: [lookout, blizzards]
+tags: [sightseeing, vista, travel]
+status: stable

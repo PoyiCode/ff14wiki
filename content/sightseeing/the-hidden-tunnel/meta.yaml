@@ -1,0 +1,8 @@
+id: the-hidden-tunnel
+category: sightseeing
+type: vista
+place: "The Lochs"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

@@ -1,0 +1,10 @@
+id: the-sanctum-of-the-twelve
+category: sightseeing
+type: vista
+place: "East Shroud"
+time: ["08:00", "11:59"]
+weather: "Fair Skies"
+emote: "/pray"
+related: [pray, fair-skies]
+tags: [sightseeing, vista, travel]
+status: stable

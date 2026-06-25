@@ -1,0 +1,10 @@
+id: east-watchtower
+category: sightseeing
+type: vista
+place: "Northern Thanalan"
+time: ["05:00", "07:59"]
+weather: "Clear Skies"
+emote: "/salute"
+related: [salute, clear-skies]
+tags: [sightseeing, vista, travel]
+status: stable

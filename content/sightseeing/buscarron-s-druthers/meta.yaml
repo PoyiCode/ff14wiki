@@ -1,0 +1,10 @@
+id: buscarron-s-druthers
+category: sightseeing
+type: vista
+place: "South Shroud"
+time: ["08:00", "11:59"]
+weather: "Thunderstorms"
+emote: "/lookout"
+related: [lookout, thunderstorms]
+tags: [sightseeing, vista, travel]
+status: stable

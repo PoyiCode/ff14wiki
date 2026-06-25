@@ -1,0 +1,8 @@
+id: meryall-agronomics
+category: sightseeing
+type: vista
+place: "Labyrinthos"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

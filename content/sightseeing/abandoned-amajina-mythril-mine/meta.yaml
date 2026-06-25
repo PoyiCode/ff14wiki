@@ -1,0 +1,10 @@
+id: abandoned-amajina-mythril-mine
+category: sightseeing
+type: vista
+place: "Northern Thanalan"
+time: ["18:00", "04:59"]
+weather: "Fog"
+emote: "/lookout"
+related: [lookout, fog]
+tags: [sightseeing, vista, travel]
+status: stable

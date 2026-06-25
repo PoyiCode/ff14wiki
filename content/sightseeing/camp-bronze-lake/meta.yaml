@@ -1,0 +1,10 @@
+id: camp-bronze-lake
+category: sightseeing
+type: vista
+place: "Upper La Noscea"
+time: ["17:00", "17:59"]
+weather: "Fair Skies"
+emote: "/lookout"
+related: [lookout, fair-skies]
+tags: [sightseeing, vista, travel]
+status: stable

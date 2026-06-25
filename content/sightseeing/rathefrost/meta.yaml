@@ -1,0 +1,10 @@
+id: rathefrost
+category: sightseeing
+type: vista
+place: "Mor Dhona"
+time: ["12:00", "16:59"]
+weather: "Clear Skies"
+emote: "/lookout"
+related: [mor-dhona, lookout, clear-skies]
+tags: [sightseeing, vista, travel]
+status: stable

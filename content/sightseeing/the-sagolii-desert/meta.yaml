@@ -1,0 +1,10 @@
+id: the-sagolii-desert
+category: sightseeing
+type: vista
+place: "Southern Thanalan"
+time: ["12:00", "16:59"]
+weather: "Heat Waves"
+emote: "/lookout"
+related: [lookout, heat-waves]
+tags: [sightseeing, vista, travel]
+status: stable

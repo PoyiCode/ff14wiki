@@ -1,0 +1,8 @@
+id: heimdall-s-last-sight
+category: sightseeing
+type: vista
+place: "Mare Lamentorum"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

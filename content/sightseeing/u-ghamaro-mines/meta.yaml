@@ -1,0 +1,10 @@
+id: u-ghamaro-mines
+category: sightseeing
+type: vista
+place: "Outer La Noscea"
+time: ["12:00", "16:59"]
+weather: "Clear Skies"
+emote: "/lookout"
+related: [lookout, clear-skies]
+tags: [sightseeing, vista, travel]
+status: stable

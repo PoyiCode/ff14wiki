@@ -1,0 +1,8 @@
+id: bloodstorm
+category: sightseeing
+type: vista
+place: "Rhalgr's Reach"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

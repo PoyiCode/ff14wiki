@@ -1,0 +1,8 @@
+id: the-great-work
+category: sightseeing
+type: vista
+place: "Thavnair"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

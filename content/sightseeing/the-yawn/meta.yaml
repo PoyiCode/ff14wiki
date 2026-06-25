@@ -1,0 +1,9 @@
+id: the-yawn
+category: sightseeing
+type: vista
+place: "The Fringes"
+time: ["18:00", "04:59"]
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

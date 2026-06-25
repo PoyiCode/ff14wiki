@@ -1,0 +1,10 @@
+id: barracuda-piers
+category: sightseeing
+type: vista
+place: "Limsa Lominsa"
+time: ["08:00", "11:59"]
+weather: "Fair Skies"
+emote: "/lookout"
+related: [limsa-lominsa, lookout, fair-skies]
+tags: [sightseeing, vista, travel]
+status: stable

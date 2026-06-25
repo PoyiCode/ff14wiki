@@ -1,0 +1,10 @@
+id: the-lonely-giant
+category: sightseeing
+type: vista
+place: "Eastern Thanalan"
+time: ["17:00", "17:59"]
+weather: "Rain"
+emote: "/comfort"
+related: [comfort, rain]
+tags: [sightseeing, vista, travel]
+status: stable

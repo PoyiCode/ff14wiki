@@ -1,0 +1,10 @@
+id: black-brush-station
+category: sightseeing
+type: vista
+place: "Central Thanalan"
+time: ["18:00", "04:59"]
+weather: "Dust Storms"
+emote: "/lookout"
+related: [lookout, dust-storms]
+tags: [sightseeing, vista, travel]
+status: stable

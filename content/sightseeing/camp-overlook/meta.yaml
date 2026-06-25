@@ -1,0 +1,10 @@
+id: camp-overlook
+category: sightseeing
+type: vista
+place: "Outer La Noscea"
+time: ["05:00", "07:59"]
+weather: "Clouds"
+emote: "/lookout"
+related: [lookout, clouds]
+tags: [sightseeing, vista, travel]
+status: stable

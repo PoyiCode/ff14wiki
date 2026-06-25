@@ -1,0 +1,10 @@
+id: the-navigator
+category: sightseeing
+type: vista
+place: "Western La Noscea"
+time: ["17:00", "17:59"]
+weather: "Clear Skies"
+emote: "/pray"
+related: [pray, clear-skies]
+tags: [sightseeing, vista, travel]
+status: stable

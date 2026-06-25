@@ -1,0 +1,8 @@
+id: the-outskirts
+category: sightseeing
+type: vista
+place: "Heritage Found"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

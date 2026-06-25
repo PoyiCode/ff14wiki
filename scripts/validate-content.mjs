@@ -11,6 +11,7 @@ const CATEGORIES = [
   'world', 'locations', 'lore', 'culture',
   'personas', 'activities', 'emotes', 'glossary', 'weather', 'mounts',
   'minions', 'music', 'titles', 'dyes', 'ornaments', 'triple-triad',
+  'sightseeing',
 ];
 const CONTENT_DIR = path.join(process.cwd(), 'content');
 

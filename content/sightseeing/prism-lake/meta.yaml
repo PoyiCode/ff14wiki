@@ -1,0 +1,8 @@
+id: prism-lake
+category: sightseeing
+type: vista
+place: "Yanxia"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

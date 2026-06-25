@@ -1,0 +1,10 @@
+id: alder-springs
+category: sightseeing
+type: vista
+place: "North Shroud"
+time: ["08:00", "11:59"]
+weather: "Clouds"
+emote: "/lookout"
+related: [lookout, clouds]
+tags: [sightseeing, vista, travel]
+status: stable

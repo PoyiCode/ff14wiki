@@ -1,0 +1,8 @@
+id: ceol-aen
+category: sightseeing
+type: vista
+place: "The Azim Steppe"
+emote: "/lookout"
+related: [lookout]
+tags: [sightseeing, vista, travel]
+status: stable

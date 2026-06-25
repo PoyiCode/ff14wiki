@@ -1,0 +1,10 @@
+id: the-gold-court
+category: sightseeing
+type: vista
+place: "Ul'dah"
+time: ["12:00", "16:59"]
+weather: "Clouds"
+emote: "/lookout"
+related: [lookout, clouds]
+tags: [sightseeing, vista, travel]
+status: stable

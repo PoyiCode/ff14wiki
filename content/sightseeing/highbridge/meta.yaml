@@ -1,0 +1,10 @@
+id: highbridge
+category: sightseeing
+type: vista
+place: "Eastern Thanalan"
+time: ["05:00", "07:59"]
+weather: "Fair Skies"
+emote: "/pray"
+related: [pray, fair-skies]
+tags: [sightseeing, vista, travel]
+status: stable
