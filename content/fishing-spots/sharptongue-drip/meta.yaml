@@ -1,0 +1,8 @@
+id: sharptongue-drip
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sharptongue Drip"
+fish_count: 4
+related: [skulleater, toffee-snail, sepia-sole, bronze-sole]
+tags: [fishing, spot, nature]
+status: stable

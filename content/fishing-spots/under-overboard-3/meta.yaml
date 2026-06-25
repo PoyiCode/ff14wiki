@@ -1,0 +1,8 @@
+id: under-overboard-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Under Overboard"
+fish_count: 6
+related: [oizykelp, geras-cloud, platinum-coral, reliqued-bangle, reliqued-ring, reliqued-coin]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: loch-seld
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Loch Seld"
+fish_count: 8
+related: [rock-saltfish, saltshield-snapper, whitehorse, pearl-eye, sculptor, saltmill, diamond-eye, stethacanthus]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: palus-arsenici-6
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Palus Arsenici"
+fish_count: 6
+related: [lunar-scorpion, moonwhip, lunar-anemone, culter-arsenici, lamentorum-regotoise, polypus-sulfuris]
+tags: [fishing, spot, nature]
+status: stable

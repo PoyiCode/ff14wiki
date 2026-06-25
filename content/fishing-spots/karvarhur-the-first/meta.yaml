@@ -1,0 +1,8 @@
+id: karvarhur-the-first
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Karvarhur the First"
+fish_count: 7
+related: [first-feastfish, urqofrog, zeh-tortoh, morsel-trout, deepwarden, qor-pirarucu, prime-adjudicator]
+tags: [fishing, spot, nature]
+status: stable

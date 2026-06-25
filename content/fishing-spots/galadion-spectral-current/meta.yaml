@@ -1,0 +1,8 @@
+id: galadion-spectral-current
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Galadion Spectral Current"
+fish_count: 10
+related: [merman-s-mane, heavenskey, ghost-shark, fishmonger, navigator-s-print, casket-oyster, quicksilver-blade, funnel-shark, nimble-dancer, sothis]
+tags: [fishing, spot, nature]
+status: stable

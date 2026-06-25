@@ -1,0 +1,8 @@
+id: capsule-pools-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Capsule Pools"
+fish_count: 6
+related: [glass-guppish, nyctichthys, false-tetraform, capsulette, glass-nib, encapsulated-impesctor]
+tags: [fishing, spot, nature]
+status: stable

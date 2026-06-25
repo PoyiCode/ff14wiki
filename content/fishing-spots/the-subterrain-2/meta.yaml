@@ -1,0 +1,8 @@
+id: the-subterrain-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Subterrain"
+fish_count: 6
+related: [burrow-shrimp, pseudoturtle, burrow-clam, inverted-bass, pseudosnake, ruined-relic]
+tags: [fishing, spot, nature]
+status: stable

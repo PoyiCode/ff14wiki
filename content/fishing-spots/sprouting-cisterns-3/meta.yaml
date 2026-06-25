@@ -1,0 +1,8 @@
+id: sprouting-cisterns-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sprouting Cisterns"
+fish_count: 6
+related: [topiary-gibal, botanitrout, cotyledon-grouper, greater-petalwing, shroud-in-a-bottle, topiary-cetacean]
+tags: [fishing, spot, nature]
+status: stable

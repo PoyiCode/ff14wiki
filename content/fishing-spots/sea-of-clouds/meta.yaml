@@ -1,0 +1,8 @@
+id: sea-of-clouds
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sea of Clouds"
+fish_count: 6
+related: [cloud-jellyfish, skyfish, cloud-cutter, blind-manta, rift-sailor, anomalocaris]
+tags: [fishing, spot, nature]
+status: stable

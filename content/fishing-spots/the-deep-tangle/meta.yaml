@@ -1,0 +1,8 @@
+id: the-deep-tangle
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Deep Tangle"
+fish_count: 9
+related: [ala-mhigan-fighting-fish, dark-bass, mitten-crab, giant-bass, ignus-snail, knifefish, boxing-pleco, monke-onke, ignus-horn]
+tags: [fishing, spot, nature]
+status: stable

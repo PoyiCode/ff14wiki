@@ -1,0 +1,8 @@
+id: palus-arsenici-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Palus Arsenici"
+fish_count: 5
+related: [lunar-scorpion, moonwhip, polypus-arsenici, broodingway, galactic-haze]
+tags: [fishing, spot, nature]
+status: stable

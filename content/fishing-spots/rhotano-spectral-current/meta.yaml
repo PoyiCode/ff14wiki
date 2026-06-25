@@ -1,0 +1,8 @@
+id: rhotano-spectral-current
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Rhotano Spectral Current"
+fish_count: 10
+related: [aronnax, sweeper, silencer, deep-sea-eel, executioner, floating-saucer, true-barramundi, prodigal-son, slipsnail, stonescale]
+tags: [fishing, spot, nature]
+status: stable

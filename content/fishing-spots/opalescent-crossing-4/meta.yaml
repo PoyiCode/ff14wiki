@@ -1,0 +1,8 @@
+id: opalescent-crossing-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Opalescent Crossing"
+fish_count: 4
+related: [pearl-shell, cobalt-bijou, bony-wraithfish, emeraldback]
+tags: [fishing, spot, nature]
+status: stable

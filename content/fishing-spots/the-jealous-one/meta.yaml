@@ -1,0 +1,8 @@
+id: the-jealous-one
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Jealous One"
+fish_count: 5
+related: [grey-skipper, cerulean-loach, blood-eyed-frog, spotted-blue-eye, fae-rainbow]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: dimwold
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Dimwold"
+fish_count: 8
+related: [miounnefish, bone-melter, fallen-leaf, padjali-loach, cave-killifish, wraithfish, chakrafish, sapphire-fan]
+tags: [fishing, spot, nature]
+status: stable

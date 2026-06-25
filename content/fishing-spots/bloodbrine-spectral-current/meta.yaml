@@ -1,0 +1,8 @@
+id: bloodbrine-spectral-current
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Bloodbrine Spectral Current"
+fish_count: 10
+related: [oracular-crab, dravanian-bream, skaldminni, serrated-clam, beatific-vision, exterminator, gory-tuna, ticinepomis, quartz-hammerhead, seafaring-toad]
+tags: [fishing, spot, nature]
+status: stable

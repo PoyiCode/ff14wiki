@@ -1,0 +1,8 @@
+id: cenote-moxutural
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Cenote Moxutural"
+fish_count: 5
+related: [mudfish, yak-t-el-catfish, checkered-cichlid, moxutural-gar, moxutural-greatgar]
+tags: [fishing, spot, nature]
+status: stable

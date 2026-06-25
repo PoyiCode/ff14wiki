@@ -1,0 +1,8 @@
+id: west-beaconveil-6
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "West Beaconveil"
+fish_count: 5
+related: [glass-stitcher, glass-discus, isosceles-amethyst, iceglass-floe, super-starburst]
+tags: [fishing, spot, nature]
+status: stable

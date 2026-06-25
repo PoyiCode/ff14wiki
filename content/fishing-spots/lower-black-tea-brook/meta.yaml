@@ -1,0 +1,8 @@
+id: lower-black-tea-brook
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Lower Black Tea Brook"
+fish_count: 6
+related: [crayfish, pipira, gudgeon, maiden-carp, moat-carp, bloody-brewer]
+tags: [fishing, spot, nature]
+status: stable

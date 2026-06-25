@@ -1,0 +1,8 @@
+id: seagazer-shoals
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Seagazer Shoals"
+fish_count: 8
+related: [south-kholusian-cod, kholusian-flounder, blood-cloud, shapeshifter, minstrelfish, clavekeeper, shadeshifter, aquamaton]
+tags: [fishing, spot, nature]
+status: stable

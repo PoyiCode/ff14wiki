@@ -1,0 +1,8 @@
+id: blustery-cloudtop-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Blustery Cloudtop"
+fish_count: 5
+related: [grade-3-skybuilders-scorpionfly, grade-3-skybuilders-whiteloom, grade-3-skybuilders-pteranodon, grade-3-artisanal-skybuilders-oscar, grade-3-artisanal-skybuilders-archaeopteryx]
+tags: [fishing, spot, nature]
+status: stable

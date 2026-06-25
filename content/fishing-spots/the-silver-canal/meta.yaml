@@ -1,0 +1,8 @@
+id: the-silver-canal
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Silver Canal"
+fish_count: 6
+related: [nogoi, doman-trout, killifish, brassfish, bonsai-fish, princess-killifish]
+tags: [fishing, spot, nature]
+status: stable

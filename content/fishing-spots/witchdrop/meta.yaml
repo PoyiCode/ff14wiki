@@ -1,0 +1,8 @@
+id: witchdrop
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Witchdrop"
+fish_count: 9
+related: [cloud-jellyfish, skyfish, cloud-cutter, blind-manta, rift-sailor, saucerfish, rhamphorhynchus, mahar, shonisaurus]
+tags: [fishing, spot, nature]
+status: stable

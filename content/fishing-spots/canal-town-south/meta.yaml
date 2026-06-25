@@ -1,0 +1,8 @@
+id: canal-town-south
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Canal Town South"
+fish_count: 6
+related: [canal-bream, iris-wrasse, canal-drum, butterfly-ray, hydro-louvar, gondola-louvar]
+tags: [fishing, spot, nature]
+status: stable

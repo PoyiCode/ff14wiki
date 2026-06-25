@@ -1,0 +1,8 @@
+id: the-hills-of-amber
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Hills of Amber"
+fish_count: 7
+related: [garik-crab, desert-dustfish, web-footed-sand-gecko, nabaath-manta, amber-monkfish, thorned-lizard, ambling-caltrop]
+tags: [fishing, spot, nature]
+status: stable

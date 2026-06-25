@@ -1,0 +1,8 @@
+id: voor-sian-siran
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Voor Sian Siran"
+fish_count: 8
+related: [hedgemole-cricket, cloudfish, bullfrog, maiboi, bubble-eye, caiman, cloud-kelp, inkfish]
+tags: [fishing, spot, nature]
+status: stable

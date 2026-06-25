@@ -1,0 +1,8 @@
+id: ashpool
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Ashpool"
+fish_count: 8
+related: [abalathian-smelt, ice-faerie, fanged-clam, lake-urchin, gigant-grouper, battle-galley, northern-oyster, la-reale]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-weeping-saint
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Weeping Saint"
+fish_count: 8
+related: [lamp-marimo, abalathian-smelt, giant-bass, crimson-trout, common-sculpin, northern-pike, angry-pike, darkstar]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-ruby-price
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Ruby Price"
+fish_count: 6
+related: [grinning-anchovy, glass-herring, coeurl-snake-eel, coral-horse, ku-er, the-ruby-dragon]
+tags: [fishing, spot, nature]
+status: stable

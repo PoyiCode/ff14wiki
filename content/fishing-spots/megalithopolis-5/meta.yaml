@@ -1,0 +1,8 @@
+id: megalithopolis-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Megalithopolis"
+fish_count: 4
+related: [inverted-skipper, site-sleeper, megalith-lithoshell, megalith-bichir]
+tags: [fishing, spot, nature]
+status: stable

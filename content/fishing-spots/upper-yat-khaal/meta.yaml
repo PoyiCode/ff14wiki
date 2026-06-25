@@ -1,0 +1,8 @@
+id: upper-yat-khaal
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Upper Yat Khaal"
+fish_count: 6
+related: [tail-mountains-minnow, zagas-khaal, dry-steppe-skipper, skytear, dusk-crayfish, blade-skipper]
+tags: [fishing, spot, nature]
+status: stable

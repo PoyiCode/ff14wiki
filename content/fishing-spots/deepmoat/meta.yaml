@@ -1,0 +1,8 @@
+id: deepmoat
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Deepmoat"
+fish_count: 6
+related: [butterfly-fry, astacus-aetherius, xenocypris, labyrinthos-tilapia, circuit-tilapia, hyphalosaurus]
+tags: [fishing, spot, nature]
+status: stable

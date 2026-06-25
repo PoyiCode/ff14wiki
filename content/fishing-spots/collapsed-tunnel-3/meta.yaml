@@ -1,0 +1,8 @@
+id: collapsed-tunnel-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Collapsed Tunnel"
+fish_count: 5
+related: [upside-down-squeaker, upside-down-minnow, inverted-tilapia, oizyshrimp, oizys-bullion]
+tags: [fishing, spot, nature]
+status: stable

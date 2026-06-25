@@ -1,0 +1,8 @@
+id: southern-diadem-lake-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Southern Diadem Lake"
+fish_count: 4
+related: [grade-3-skybuilders-thunderbolt-sculpin, grade-3-skybuilders-alligator-snapping-turtle, grade-3-skybuilders-bonytongue, grade-3-skybuilders-hermit-goby]
+tags: [fishing, spot, nature]
+status: stable

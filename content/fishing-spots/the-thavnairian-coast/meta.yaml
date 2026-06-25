@@ -1,0 +1,8 @@
+id: the-thavnairian-coast
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Thavnairian Coast"
+fish_count: 8
+related: [thavnairian-goby, qeyiq-sole, fate-s-design, shadowdart-sardine, paksa-fish, chalky-coral, jhinga, durdina-fish]
+tags: [fishing, spot, nature]
+status: stable

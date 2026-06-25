@@ -1,0 +1,8 @@
+id: greatest-endsvale
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Greatest Endsvale"
+fish_count: 6
+related: [star-blue-guppy, lunar-cichlid, teareye, replipirarucu, ossicula, disappirarucu]
+tags: [fishing, spot, nature]
+status: stable

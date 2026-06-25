@@ -1,0 +1,8 @@
+id: nym-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Nym River"
+fish_count: 8
+related: [chub, dwarf-catfish, princess-trout, dusk-goby, gudgeon, maiden-carp, la-noscean-perch, high-perch]
+tags: [fishing, spot, nature]
+status: stable

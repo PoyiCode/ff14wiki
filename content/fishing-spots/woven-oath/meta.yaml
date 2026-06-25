@@ -1,0 +1,8 @@
+id: woven-oath
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Woven Oath"
+fish_count: 5
+related: [clawbow, oathfish, darkroot, darkdweller, deephaunt]
+tags: [fishing, spot, nature]
+status: stable

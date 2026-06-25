@@ -1,0 +1,8 @@
+id: the-silver-bazaar
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Silver Bazaar"
+fish_count: 9
+related: [lominsan-anchovy, pebble-crab, tiger-cod, rothlyt-oyster, hammerhead-shark, indigo-herring, haraldr-haddock, rock-lobster, dirty-herry]
+tags: [fishing, spot, nature]
+status: stable

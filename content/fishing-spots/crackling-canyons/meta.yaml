@@ -1,0 +1,8 @@
+id: crackling-canyons
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Crackling Canyons"
+fish_count: 6
+related: [electrobetta, thundering-redbelly, yyasulani-bowfin, crackling-flounder, thunderous-flounder, goldentail]
+tags: [fishing, spot, nature]
+status: stable

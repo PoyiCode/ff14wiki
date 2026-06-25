@@ -1,0 +1,8 @@
+id: sunken-stars
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sunken Stars"
+fish_count: 6
+related: [sea-alpaca, marbled-hatchetfish, starsnipper, urqotrout, yok-huy-stonecutter, moongripper]
+tags: [fishing, spot, nature]
+status: stable

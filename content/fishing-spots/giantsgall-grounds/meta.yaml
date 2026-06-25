@@ -1,0 +1,8 @@
+id: giantsgall-grounds
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Giantsgall Grounds"
+fish_count: 5
+related: [kadjaya-s-castaway, marid-frog, bluegill, bronze-pipira, hippo-frog]
+tags: [fishing, spot, nature]
+status: stable

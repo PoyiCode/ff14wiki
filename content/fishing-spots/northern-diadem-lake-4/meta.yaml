@@ -1,0 +1,8 @@
+id: northern-diadem-lake-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Northern Diadem Lake"
+fish_count: 4
+related: [grade-4-skybuilders-glacier-core, grade-4-skybuilders-kissing-fish, grade-4-skybuilders-cavalry-catfish, grade-4-skybuilders-manasail]
+tags: [fishing, spot, nature]
+status: stable

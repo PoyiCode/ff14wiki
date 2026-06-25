@@ -1,0 +1,8 @@
+id: cape-westwind
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Cape Westwind"
+fish_count: 10
+related: [merlthor-goby, haraldr-haddock, whitelip-oyster, silver-shark, wahoo, blacklip-oyster, plaice, sea-devil, titanic-sawfish, pirate-s-bane]
+tags: [fishing, spot, nature]
+status: stable

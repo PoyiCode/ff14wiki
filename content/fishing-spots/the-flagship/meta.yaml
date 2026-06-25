@@ -1,0 +1,8 @@
+id: the-flagship
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Flagship"
+fish_count: 8
+related: [platinum-fish, azysfish, oil-eel, jeweled-jellyfish, barreleye, functional-proto-hropken, allagan-bladeshark, opabinia]
+tags: [fishing, spot, nature]
+status: stable

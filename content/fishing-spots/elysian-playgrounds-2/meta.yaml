@@ -1,0 +1,8 @@
+id: elysian-playgrounds-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Elysian Playgrounds β"
+fish_count: 3
+related: [protoflesh, wandering-starscale, katoptron]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: iq-br-aax-reservoir
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Iq Br'aax Reservoir"
+fish_count: 6
+related: [shimmering-shadow, ut-ohmu-dawnfish, iq-br-aax-sailfin, hunmu-ob, iq-ebaji, deep-canopy]
+tags: [fishing, spot, nature]
+status: stable

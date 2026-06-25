@@ -1,0 +1,8 @@
+id: hyperstellar-downconverter
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Hyperstellar Downconverter"
+fish_count: 6
+related: [platinum-fish, azysfish, oil-eel, mucous-minnow, oliphant-s-trunk, ceti]
+tags: [fishing, spot, nature]
+status: stable

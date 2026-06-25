@@ -1,0 +1,8 @@
+id: vesper-bay
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Vesper Bay"
+fish_count: 7
+related: [lominsan-anchovy, harbor-herring, pebble-crab, tiger-cod, rothlyt-oyster, blue-octopus, rivet-oyster]
+tags: [fishing, spot, nature]
+status: stable

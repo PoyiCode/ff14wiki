@@ -1,0 +1,8 @@
+id: dragonspit
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Dragonspit"
+fish_count: 6
+related: [ogre-horn-snail, cherry-trout, hospitalier-fish, spring-urchin, dragonspine, the-impaler]
+tags: [fishing, spot, nature]
+status: stable

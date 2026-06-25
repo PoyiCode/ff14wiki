@@ -1,0 +1,8 @@
+id: upper-thaliak-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Upper Thaliak River"
+fish_count: 10
+related: [hedgemole-cricket, scholar-sculpin, sweetfish, shipworm, yalm-lobster, loosetongue, armored-catfish, thavnairian-leaf, the-speaker, armor-fish]
+tags: [fishing, spot, nature]
+status: stable

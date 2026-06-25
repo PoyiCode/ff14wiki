@@ -1,0 +1,8 @@
+id: yak-awak-tsoly
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Yak Awak Tsoly"
+fish_count: 6
+related: [shimmering-shadow, ut-ohmu-dawnfish, apoda, mirror-carp, yak-awak-core, awaksbane-apoda]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-tangle
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Tangle"
+fish_count: 9
+related: [bone-crayfish, ala-mhigan-fighting-fish, silverfish, sludgeskipper, assassin-betta, boltfish, ilsabardian-bass, cadaver-carp, ninja-betta]
+tags: [fishing, spot, nature]
+status: stable

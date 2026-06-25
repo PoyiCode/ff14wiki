@@ -1,0 +1,8 @@
+id: lake-tahtotl
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Lake Tahtotl"
+fish_count: 9
+related: [mudcrab, pond-mussel, bonytongue, silverfish, assassin-betta, boxing-pleco, goldfish, bowfin, cornelia]
+tags: [fishing, spot, nature]
+status: stable

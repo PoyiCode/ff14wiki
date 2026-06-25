@@ -1,0 +1,8 @@
+id: cieldalaes-margin
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Cieldalaes Margin"
+fish_count: 10
+related: [tortoiseshell-crab, lady-s-cameo, metallic-boxfish, goobbue-ray, watermoura, king-cobrafish, mamahi-mahi, lavandin-remora, spectral-butterfly, cieldalaes-geode]
+tags: [fishing, spot, nature]
+status: stable

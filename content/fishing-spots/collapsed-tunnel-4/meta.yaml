@@ -1,0 +1,8 @@
+id: collapsed-tunnel-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Collapsed Tunnel"
+fish_count: 6
+related: [upside-down-squeaker, inverted-lungfish, wronghair-catfish, gravity-core, pseudomander, collapsed-sucker]
+tags: [fishing, spot, nature]
+status: stable

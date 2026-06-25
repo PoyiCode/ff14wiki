@@ -1,0 +1,8 @@
+id: the-lehr-8
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Lehr"
+fish_count: 2
+related: [starfaring-goby, initiative-trout]
+tags: [fishing, spot, nature]
+status: stable

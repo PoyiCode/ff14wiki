@@ -1,0 +1,8 @@
+id: timberpond-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Timberpond"
+fish_count: 4
+related: [timberpond-skipper, highwood-leaffish, stargazy-perch, timberpond-muskellunge]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: yugr-am-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Yugr'am River"
+fish_count: 7
+related: [warmwater-trout, black-eel, dark-bass, yugr-am-salmon, mitten-crab, trader-eel, the-warden-s-wand]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: palus-arsenici-8
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Palus Arsenici"
+fish_count: 6
+related: [lunar-scorpion, arsenical-proto-hropken, lunar-oil-eel, galactic-noise, onychodictyon, eolactoria-arsenici]
+tags: [fishing, spot, nature]
+status: stable

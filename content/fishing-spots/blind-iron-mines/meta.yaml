@@ -1,0 +1,8 @@
+id: blind-iron-mines
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Blind Iron Mines"
+fish_count: 5
+related: [bone-crayfish, acorn-snail, blindfish, lamp-marimo, cupfish]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: miyakabek-zoma
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Miyakabek'zoma"
+fish_count: 6
+related: [ligaka-guppy, dumplingfish, banded-candiru, oxydoras, honeycomb-sponge, iron-oxydoras]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: hopeseed-pond
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Hopeseed Pond"
+fish_count: 8
+related: [mudcrab, black-eel, black-ghost, ala-mhigan-fighting-fish, mudskipper, clown-loach, seema, the-green-jester]
+tags: [fishing, spot, nature]
+status: stable

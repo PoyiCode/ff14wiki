@@ -1,0 +1,8 @@
+id: oinops
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Oinops"
+fish_count: 5
+related: [astacus, peacock-bass, academician, swordspine-snook, greatsword-snook]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: rumination-s-ramble
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Rumination's Ramble"
+fish_count: 6
+related: [isle-skipper, albino-loach, iribainion, golden-shiner, mangar, planetes]
+tags: [fishing, spot, nature]
+status: stable

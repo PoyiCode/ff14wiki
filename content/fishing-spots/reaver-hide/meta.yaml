@@ -1,0 +1,8 @@
+id: reaver-hide
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Reaver Hide"
+fish_count: 8
+related: [lominsan-anchovy, merlthor-goby, red-coral, wahoo, blacklip-oyster, rock-lobster, dinichthys, seahag]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: waters-hanu
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Waters Hanu"
+fish_count: 6
+related: [kozama-uka-skipper, bopo-u-sleeper, plattershell, yok-huy-pleco, pote-uka, cazuela-crab]
+tags: [fishing, spot, nature]
+status: stable

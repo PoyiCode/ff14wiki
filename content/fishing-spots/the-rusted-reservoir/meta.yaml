@@ -1,0 +1,8 @@
+id: the-rusted-reservoir
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Rusted Reservoir"
+fish_count: 6
+related: [hard-candy, abyssal-snail, water-ball, misty-killifish, platinum-guppy, moonlight-guppy]
+tags: [fishing, spot, nature]
+status: stable

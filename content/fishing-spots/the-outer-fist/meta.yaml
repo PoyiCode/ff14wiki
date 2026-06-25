@@ -1,0 +1,8 @@
+id: the-outer-fist
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Outer Fist"
+fish_count: 7
+related: [comet-minnow, balloon-frog, lantern-marimo, bloodsipper, gilfish, redtail, bloodtail-zombie]
+tags: [fishing, spot, nature]
+status: stable

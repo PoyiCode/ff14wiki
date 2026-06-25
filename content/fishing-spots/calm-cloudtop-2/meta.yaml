@@ -1,0 +1,8 @@
+id: calm-cloudtop-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Calm Cloudtop"
+fish_count: 5
+related: [grade-2-skybuilders-cloud-cutter, grade-2-skybuilders-vampiric-tapestry, grade-2-skybuilders-blind-manta, grade-2-artisanal-skybuilders-gobbie-mask, grade-2-artisanal-skybuilders-anomalocaris]
+tags: [fishing, spot, nature]
+status: stable

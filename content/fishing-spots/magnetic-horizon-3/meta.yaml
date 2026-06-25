@@ -1,0 +1,8 @@
+id: magnetic-horizon-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Magnetic Horizon"
+fish_count: 5
+related: [inverted-anchovy, magnetic-clam, calciferous-squid, geras-nautilus, pseudoshark]
+tags: [fishing, spot, nature]
+status: stable

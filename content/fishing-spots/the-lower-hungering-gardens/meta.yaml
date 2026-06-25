@@ -1,0 +1,8 @@
+id: the-lower-hungering-gardens
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Lower Hungering Gardens"
+fish_count: 6
+related: [isle-skipper, dermogenys, iribainion, colossoma, phyllinos, gilt-dermogenys]
+tags: [fishing, spot, nature]
+status: stable

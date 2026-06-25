@@ -1,0 +1,8 @@
+id: the-moros-well-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Moros Well"
+fish_count: 6
+related: [moros-scorpion, pseudomonkfish, pseudogecko, molten-lamprey, oizyhelix, reliqued-vessel]
+tags: [fishing, spot, nature]
+status: stable

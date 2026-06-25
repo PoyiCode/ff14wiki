@@ -1,0 +1,8 @@
+id: whilom-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Whilom River"
+fish_count: 7
+related: [whilom-catfish, rock-mussel, pipira-pira, three-lip-carp, dravanian-bass, blueclaw-shrimp, twin-tongued-carp]
+tags: [fishing, spot, nature]
+status: stable

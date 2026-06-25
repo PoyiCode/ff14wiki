@@ -1,0 +1,8 @@
+id: red-mantis-falls
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Red Mantis Falls"
+fish_count: 9
+related: [mitten-crab, silverfish, clown-loach, discus, knifefish, agelyss-carp, goldfish, jungle-catfish, imperial-goldfish]
+tags: [fishing, spot, nature]
+status: stable

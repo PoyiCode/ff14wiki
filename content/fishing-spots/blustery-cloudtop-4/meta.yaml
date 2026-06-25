@@ -1,0 +1,8 @@
+id: blustery-cloudtop-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Blustery Cloudtop"
+fish_count: 5
+related: [grade-4-skybuilders-ghost-faerie, grade-4-skybuilders-ashfish, grade-4-skybuilders-whitehorse, grade-4-artisanal-skybuilders-sweatfish, grade-4-artisanal-skybuilders-marrella]
+tags: [fishing, spot, nature]
+status: stable

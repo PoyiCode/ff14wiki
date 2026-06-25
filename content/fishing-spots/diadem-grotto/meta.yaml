@@ -1,0 +1,8 @@
+id: diadem-grotto
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Diadem Grotto"
+fish_count: 2
+related: [thunderbolt-eel, noontide-oscar]
+tags: [fishing, spot, nature]
+status: stable

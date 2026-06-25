@@ -1,0 +1,8 @@
+id: kugane-coast
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Kugane Coast"
+fish_count: 10
+related: [ruby-herring, whirlpool-turban, leopard-prawn, spear-squid, floating-lantern, rubescent-tatsunoko, hatatate, silent-shark, spectral-wrasse, mizuhiki]
+tags: [fishing, spot, nature]
+status: stable

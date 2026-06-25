@@ -1,0 +1,8 @@
+id: sohm-al-summit
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sohm Al Summit"
+fish_count: 8
+related: [sky-faerie, gloaming-coral, cloud-rider, rudderfish, gobbie-mask, star-faerie, pteranodon, dimorphodon]
+tags: [fishing, spot, nature]
+status: stable

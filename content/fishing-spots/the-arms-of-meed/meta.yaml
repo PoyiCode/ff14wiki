@@ -1,0 +1,8 @@
+id: the-arms-of-meed
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Arms of Meed"
+fish_count: 7
+related: [gyr-abanian-trout, gigant-bass, eastern-pike, scimitarfish, ala-mhigan-ribbon, rockfish, lily-of-the-veil]
+tags: [fishing, spot, nature]
+status: stable

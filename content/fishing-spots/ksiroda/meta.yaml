@@ -1,0 +1,8 @@
+id: ksiroda
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Ksiroda"
+fish_count: 6
+related: [green-swordtail, ksirapayin, forgeflame, bicuda, seedtoad, bigcuda]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: upper-mirage-creek
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Upper Mirage Creek"
+fish_count: 6
+related: [abalathian-bitterling, broken-crab, miounnefish, gyr-abanian-trout, bloodsipper, hookstealer]
+tags: [fishing, spot, nature]
+status: stable

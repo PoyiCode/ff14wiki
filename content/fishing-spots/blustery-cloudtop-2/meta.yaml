@@ -1,0 +1,8 @@
+id: blustery-cloudtop-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Blustery Cloudtop"
+fish_count: 5
+related: [grade-2-skybuilders-cloud-cutter, grade-2-skybuilders-vampiric-tapestry, grade-2-skybuilders-tupuxuara, grade-2-artisanal-skybuilders-rhomaleosaurus, grade-2-artisanal-skybuilders-cometfish]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: halfstone
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Halfstone"
+fish_count: 8
+related: [saber-sardine, blue-coral, hammerhead-shark, sea-pickle, whitelip-oyster, lavender-remora, balloonfish, the-lone-ripper]
+tags: [fishing, spot, nature]
+status: stable

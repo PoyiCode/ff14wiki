@@ -1,0 +1,8 @@
+id: full-bloom-fountain-8
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Full Bloom Fountain"
+fish_count: 2
+related: [cosmic-hedgemole-cricket, auxesian-cabomba]
+tags: [fishing, spot, nature]
+status: stable

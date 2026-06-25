@@ -1,0 +1,8 @@
+id: the-eblan-thaw
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Eblan Thaw"
+fish_count: 7
+related: [garlean-clam, animulus, eblan-trout, cerule-core, icepike, rimepike, snowy-parexus]
+tags: [fishing, spot, nature]
+status: stable

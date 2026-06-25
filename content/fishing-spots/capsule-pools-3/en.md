@@ -1,0 +1,15 @@
+---
+title: "Capsule Pools"
+summary: "A fishing spot in Eorzea."
+---
+
+**Capsule Pools** is a fishing hole in Eorzea where a resident can cast a line. In-game name: Capsule Pools.
+
+**Fish you can catch here：**
+
+- Glass Guppish
+- Nyctichthys
+- False Tetraform
+- Capsulette
+- Glass Nib
+- Encapsulated Impesctor

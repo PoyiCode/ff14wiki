@@ -1,0 +1,8 @@
+id: southeast-well-7
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Southeast Well"
+fish_count: 6
+related: [star-pleco, lunar-grass-carp, moonlit-snakehead, moonbeam, moongate-cod, lunar-sturgeon]
+tags: [fishing, spot, nature]
+status: stable

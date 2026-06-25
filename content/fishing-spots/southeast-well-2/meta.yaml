@@ -1,0 +1,8 @@
+id: southeast-well-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Southeast Well"
+fish_count: 3
+related: [star-pleco, lunar-axolotl, lunar-catfish]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-mover-alpha
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Mover Alpha"
+fish_count: 6
+related: [butterfly-fry, prochilodus-luminosus, xenocypris, mesonauta, greengill-salmon, mossgill-salmon]
+tags: [fishing, spot, nature]
+status: stable

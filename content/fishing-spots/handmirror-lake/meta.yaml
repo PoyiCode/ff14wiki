@@ -1,0 +1,8 @@
+id: handmirror-lake
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Handmirror Lake"
+fish_count: 7
+related: [grey-skipper, pixie-fish, lemonfish, wimple-carp, faeshine-clam, mirror-image, leannisg]
+tags: [fishing, spot, nature]
+status: stable

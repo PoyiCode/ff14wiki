@@ -1,0 +1,8 @@
+id: sanctum-of-the-twelve
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sanctum of the Twelve"
+fish_count: 8
+related: [bone-crayfish, river-crab, acorn-snail, moat-carp, tricolored-carp, pond-mussel, dark-bass, the-assassin]
+tags: [fishing, spot, nature]
+status: stable

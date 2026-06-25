@@ -1,0 +1,8 @@
+id: unmoved-source-beta
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Unmoved Source Beta"
+fish_count: 5
+related: [butterfly-fry, raiamas, xenocypris, red-bowfin, swampsucker-bowfin]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-lavender-beds
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Lavender Beds"
+fish_count: 9
+related: [pipira, dark-sleeper, ala-mhigan-fighting-fish, tricolored-carp, shadow-catfish, spotted-pleco, bonytongue, monke-onke, sweetnewt]
+tags: [fishing, spot, nature]
+status: stable

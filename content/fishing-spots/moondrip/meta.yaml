@@ -1,0 +1,8 @@
+id: moondrip
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Moondrip"
+fish_count: 6
+related: [blindfish, grip-killifish, silverfish, assassin-betta, garpike, ndendecki]
+tags: [fishing, spot, nature]
+status: stable

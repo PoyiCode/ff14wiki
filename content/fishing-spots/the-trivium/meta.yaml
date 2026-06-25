@@ -1,0 +1,8 @@
+id: the-trivium
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Trivium"
+fish_count: 6
+related: [crystal-knife, laxan-carp, asteroidea, lover-s-flower, jacketed-snail, aster-trivi]
+tags: [fishing, spot, nature]
+status: stable

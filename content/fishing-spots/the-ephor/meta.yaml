@@ -1,0 +1,8 @@
+id: the-ephor
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Ephor"
+fish_count: 5
+related: [heather-charr, meditator, stonytongue, deemster, moksha]
+tags: [fishing, spot, nature]
+status: stable

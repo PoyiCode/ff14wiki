@@ -1,0 +1,8 @@
+id: the-vein
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Vein"
+fish_count: 8
+related: [crayfish, striped-goby, pipira, gudgeon, brass-loach, maiden-carp, eunuch-crayfish, chirurgeon]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: lower-one-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Lower One River"
+fish_count: 10
+related: [catching-carp, garlean-bluegill, yanxian-softshell, princess-salmon, calligraph, singular-shrimp, brocade-carp, yanxian-sturgeon, spectral-kotsu-zetsu, fishy-shark]
+tags: [fishing, spot, nature]
+status: stable

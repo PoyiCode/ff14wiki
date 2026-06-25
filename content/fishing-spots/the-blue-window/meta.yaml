@@ -1,0 +1,8 @@
+id: the-blue-window
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Blue Window"
+fish_count: 9
+related: [buoyant-oviform, sky-faerie, whiteloom, storm-core, winged-gurnard, sky-sweeper, tornado-shark, cloudweed, the-second-one]
+tags: [fishing, spot, nature]
+status: stable

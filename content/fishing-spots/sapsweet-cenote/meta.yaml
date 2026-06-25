@@ -1,0 +1,8 @@
+id: sapsweet-cenote
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sapsweet Cenote"
+fish_count: 5
+related: [mudfish, yak-t-el-catfish, glittergill, twig-catfish, autarch-s-supper]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: emerald-springs-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Emerald Springs"
+fish_count: 5
+related: [mossy-globule, greatfrond-turtle, towerling-stemling, crenicichla-cosmica, timberland-camofin]
+tags: [fishing, spot, nature]
+status: stable

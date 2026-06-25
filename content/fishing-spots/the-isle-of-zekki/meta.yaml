@@ -1,0 +1,8 @@
+id: the-isle-of-zekki
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Isle of Zekki"
+fish_count: 6
+related: [ruby-shrimp, daio-squid, koromo-octopus, zekki-grouper, zekki-gator, rakshasa]
+tags: [fishing, spot, nature]
+status: stable

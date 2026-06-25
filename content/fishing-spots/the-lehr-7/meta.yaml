@@ -1,0 +1,8 @@
+id: the-lehr-7
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Lehr"
+fish_count: 6
+related: [macrobrachium-phaennense, stellar-skink, star-crabtain, lehr-killifish, doomed-voyager, bottom-layer]
+tags: [fishing, spot, nature]
+status: stable

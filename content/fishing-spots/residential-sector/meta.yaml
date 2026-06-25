@@ -1,0 +1,8 @@
+id: residential-sector
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Residential Sector"
+fish_count: 5
+related: [everkeep-yabby, stickleback, custodian-carp, mosaic-loach, pixel-loach]
+tags: [fishing, spot, nature]
+status: stable

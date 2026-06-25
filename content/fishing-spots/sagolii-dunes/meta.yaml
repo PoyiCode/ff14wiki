@@ -1,0 +1,8 @@
+id: sagolii-dunes
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sagolii Dunes"
+fish_count: 8
+related: [sand-bream, desert-catfish, dustfish, storm-rider, antlion-slug, dune-manta, caravan-eel, olgoi-khorkhoi]
+tags: [fishing, spot, nature]
+status: stable

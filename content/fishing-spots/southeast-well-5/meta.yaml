@@ -1,0 +1,8 @@
+id: southeast-well-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Southeast Well"
+fish_count: 4
+related: [star-pleco, lunar-grass-carp, macrobrachium-lunaris, ataxite]
+tags: [fishing, spot, nature]
+status: stable

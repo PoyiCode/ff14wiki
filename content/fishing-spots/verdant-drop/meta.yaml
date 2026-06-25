@@ -1,0 +1,8 @@
+id: verdant-drop
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Verdant Drop"
+fish_count: 9
+related: [rainbow-trout, river-crab, copperfish, black-eel, climbing-perch, yugr-am-salmon, spotted-pleco, fall-jumper, sylphsbane]
+tags: [fishing, spot, nature]
+status: stable

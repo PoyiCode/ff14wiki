@@ -1,0 +1,8 @@
+id: swirling-cloudtop
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Swirling Cloudtop"
+fish_count: 2
+related: [vampiric-tapestry, moogle-spirit]
+tags: [fishing, spot, nature]
+status: stable

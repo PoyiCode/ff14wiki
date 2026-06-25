@@ -1,0 +1,8 @@
+id: snowcloak
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Snowcloak"
+fish_count: 5
+related: [rainbow-trout, seema, crimson-trout, wandering-sculpin, blue-corpse]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: unfrozen-pond
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Unfrozen Pond"
+fish_count: 7
+related: [abalathian-smelt, icepick, ice-faerie, sorcerer-fish, albino-octopus, coerthan-clione, flarefish]
+tags: [fishing, spot, nature]
+status: stable

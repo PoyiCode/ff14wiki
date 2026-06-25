@@ -1,0 +1,8 @@
+id: the-velodyna-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Velodyna River"
+fish_count: 6
+related: [velodyna-grass-carp, greenstream-loach, bloodsipper, black-velodyna-carp, velodyna-salmon, downstream-loach]
+tags: [fishing, spot, nature]
+status: stable

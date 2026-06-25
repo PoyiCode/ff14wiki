@@ -1,0 +1,8 @@
+id: aetherial-falls-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Aetherial Falls"
+fish_count: 6
+related: [ctenophora-lunaris, protomyke-721, argonauta-lunaris, aetherial-sword, macropinna, deepmoon-seadragon]
+tags: [fishing, spot, nature]
+status: stable

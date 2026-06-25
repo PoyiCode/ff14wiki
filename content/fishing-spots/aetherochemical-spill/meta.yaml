@@ -1,0 +1,8 @@
+id: aetherochemical-spill
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Aetherochemical Spill"
+fish_count: 6
+related: [platinum-fish, bullwhip, blood-skipper, aetherochemical-compound-123, proto-hropken, aetherochemical-compound-666]
+tags: [fishing, spot, nature]
+status: stable

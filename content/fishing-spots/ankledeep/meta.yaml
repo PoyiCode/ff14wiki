@@ -1,0 +1,8 @@
+id: ankledeep
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Ankledeep"
+fish_count: 5
+related: [mudfish, turali-beaded-lizard, yak-t-el-catfish, ankledeep-catfish, shin-snuffler]
+tags: [fishing, spot, nature]
+status: stable

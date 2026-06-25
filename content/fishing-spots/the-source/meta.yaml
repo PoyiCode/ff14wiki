@@ -1,0 +1,8 @@
+id: the-source
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Source"
+fish_count: 8
+related: [hard-candy, clean-saucer, rabbit-skipper, xanthic-bass, albino-rock-crab, laxan-inkhorn, platinum-seahorse, the-unforgiven]
+tags: [fishing, spot, nature]
+status: stable

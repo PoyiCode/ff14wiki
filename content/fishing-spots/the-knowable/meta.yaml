@@ -1,0 +1,8 @@
+id: the-knowable
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Knowable"
+fish_count: 5
+related: [rosebud-frog, knight-goby, windspath-eel, harlequin-lancer, harlequin-queen]
+tags: [fishing, spot, nature]
+status: stable

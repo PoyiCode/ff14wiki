@@ -1,0 +1,8 @@
+id: westward-hop-print-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Westward Hop-print"
+fish_count: 3
+related: [bluemoon-loach, lunar-raiamas, cobalt-eel]
+tags: [fishing, spot, nature]
+status: stable

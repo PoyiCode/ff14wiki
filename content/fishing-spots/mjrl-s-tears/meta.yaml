@@ -1,0 +1,8 @@
+id: mjrl-s-tears
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Mjrl's Tears"
+fish_count: 6
+related: [clawbow, yellow-pipira, golding, deadwood-shadow, ronkan-bullion, golden-pipira]
+tags: [fishing, spot, nature]
+status: stable

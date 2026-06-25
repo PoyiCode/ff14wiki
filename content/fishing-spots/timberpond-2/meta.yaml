@@ -1,0 +1,8 @@
+id: timberpond-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Timberpond"
+fish_count: 3
+related: [timberpond-skipper, highwood-leaffish, prochilodus-cosmica]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: timmon-beck
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Timmon Beck"
+fish_count: 7
+related: [steelhead-trout, miounnefish, balloon-frog, death-loach, gyr-abanian-chub, hardhead-trout, xenacanthus]
+tags: [fishing, spot, nature]
+status: stable

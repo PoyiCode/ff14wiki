@@ -1,0 +1,8 @@
+id: northern-diadem-lake-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Northern Diadem Lake"
+fish_count: 4
+related: [grade-2-skybuilders-cloudskipper, grade-2-skybuilders-meditator, grade-2-skybuilders-pirarucu, grade-2-skybuilders-brown-bolo]
+tags: [fishing, spot, nature]
+status: stable

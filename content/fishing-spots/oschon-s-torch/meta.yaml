@@ -1,0 +1,8 @@
+id: oschon-s-torch
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Oschon's Torch"
+fish_count: 8
+related: [sea-cucumber, vongola-clam, moraby-flounder, pebble-crab, tiger-cod, rothlyt-oyster, mahi-mahi, silver-sovereign]
+tags: [fishing, spot, nature]
+status: stable

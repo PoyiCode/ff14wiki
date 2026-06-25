@@ -1,0 +1,8 @@
+id: niikwerepi
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Niikwerepi"
+fish_count: 5
+related: [bonytail-chub, niikwerepi-trout, pyariyoanaan-cichlid, shaaloani-salmon, hwittayoanaan-cichlid]
+tags: [fishing, spot, nature]
+status: stable

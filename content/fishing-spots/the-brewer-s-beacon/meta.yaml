@@ -1,0 +1,8 @@
+id: the-brewer-s-beacon
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Brewer's Beacon"
+fish_count: 8
+related: [white-coral, harbor-herring, helmet-crab, rothlyt-oyster, navigator-s-dagger, ogre-barracuda, gigant-octopus, navigator-s-brand]
+tags: [fishing, spot, nature]
+status: stable

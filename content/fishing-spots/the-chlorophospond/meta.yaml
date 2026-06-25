@@ -1,0 +1,8 @@
+id: the-chlorophospond
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Chlorophospond"
+fish_count: 6
+related: [feverfish, calicia, protomyke-987, lunar-deathworm, chlorophos-deathworm, lopoceras-elegans]
+tags: [fishing, spot, nature]
+status: stable

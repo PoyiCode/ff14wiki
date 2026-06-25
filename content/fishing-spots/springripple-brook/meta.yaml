@@ -1,0 +1,8 @@
+id: springripple-brook
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Springripple Brook"
+fish_count: 8
+related: [brass-loach, maiden-carp, rainbow-trout, river-crab, ala-mhigan-fighting-fish, bluebell-salmon, eunuch-crayfish, moldva]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-juggernaut
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Juggernaut"
+fish_count: 8
+related: [copperfish, mudcrab, lamprey, grip-killifish, silverfish, sludgeskipper, vampire-lampern, mirrorscale]
+tags: [fishing, spot, nature]
+status: stable

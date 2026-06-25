@@ -1,0 +1,8 @@
+id: outer-galadion-bay
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Outer Galadion Bay"
+fish_count: 10
+related: [galadion-goby, galadion-chovy, leopard-eel, jasperhead, tarnished-shark, rosy-bream, cyan-octopus, heavenswimmer, spectral-megalodon, drunkfish]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: under-overboard-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Under Overboard"
+fish_count: 5
+related: [oizykelp, geras-cloud, magnetic-needler, pseudonautilus, marine-magnet]
+tags: [fishing, spot, nature]
+status: stable

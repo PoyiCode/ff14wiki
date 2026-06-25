@@ -1,0 +1,8 @@
+id: calm-cloudtop
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Calm Cloudtop"
+fish_count: 4
+related: [mahu-wai, whiteloom, blue-cloud-coral, mitre-slug]
+tags: [fishing, spot, nature]
+status: stable

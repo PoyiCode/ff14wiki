@@ -1,0 +1,8 @@
+id: thavnair-margin
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Thavnair Margin"
+fish_count: 10
+related: [red-mantis, datli-gwl, agama-s-strand, palaka-s-blade, parjanya-wrasse, simolestes, thavnasaurus, junior-jinbei, spectral-grouper, silkfin]
+tags: [fishing, spot, nature]
+status: stable

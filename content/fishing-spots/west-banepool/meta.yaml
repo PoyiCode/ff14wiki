@@ -1,0 +1,8 @@
+id: west-banepool
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "West Banepool"
+fish_count: 8
+related: [fanged-clam, lake-urchin, ice-faerie, mercy-staff, snowcaller, coerthan-oyster, warmscale-pleco, merciless]
+tags: [fishing, spot, nature]
+status: stable

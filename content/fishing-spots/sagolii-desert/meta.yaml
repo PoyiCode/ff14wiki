@@ -1,0 +1,8 @@
+id: sagolii-desert
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sagolii Desert"
+fish_count: 9
+related: [sandfish, sand-bream, dustfish, storm-rider, antlion-slug, dune-manta, sagolii-monkfish, magic-carpet, helicoprion]
+tags: [fishing, spot, nature]
+status: stable

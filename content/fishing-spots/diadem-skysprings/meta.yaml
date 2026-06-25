@@ -1,0 +1,8 @@
+id: diadem-skysprings
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Diadem Skysprings"
+fish_count: 2
+related: [maiboi, cloudfish]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: lake-tusi-mek-ta
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Lake Tusi Mek'ta"
+fish_count: 8
+related: [clawbow, yellow-pipira, robber-crab, clown-tetra, eryops, spangled-pirarucu, priest-of-yx-lokwa, greater-serpent-of-ronka]
+tags: [fishing, spot, nature]
+status: stable

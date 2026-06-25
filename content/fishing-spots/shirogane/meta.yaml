@@ -1,0 +1,8 @@
+id: shirogane
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Shirogane"
+fish_count: 5
+related: [grinning-anchovy, ruby-shrimp, striped-fugu, glass-tuna, the-gambler]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: open-rhotano-sea
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Open Rhotano Sea"
+fish_count: 10
+related: [rhotano-wahoo, rhotano-sardine, deep-plaice, crimson-monkfish, chrome-hammerhead, ogre-eel, dark-nautilus, lampfish, spectral-bass, sabaton]
+tags: [fishing, spot, nature]
+status: stable

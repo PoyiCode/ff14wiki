@@ -1,0 +1,8 @@
+id: the-eastern-kholusian-coast
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Eastern Kholusian Coast"
+fish_count: 9
+related: [south-kholusian-cod, shellfracture-kelp, blood-cloud, spearhead-squid, kholusian-wrasse, weedy-seadragon, henodus, ondo-kelp, henodus-grandis]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: cieldalaes-spectral-current
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Cieldalaes Spectral Current"
+fish_count: 10
+related: [titanshell-crab, mythril-boxfish, mistbeard-s-cup, anomalocaris-saron, flaming-eel, jetborne-manta, devil-s-sting, callichthyid, meandering-mora, hafgufa]
+tags: [fishing, spot, nature]
+status: stable

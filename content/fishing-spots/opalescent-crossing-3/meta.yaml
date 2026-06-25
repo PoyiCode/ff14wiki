@@ -1,0 +1,8 @@
+id: opalescent-crossing-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Opalescent Crossing"
+fish_count: 3
+related: [pearl-shell, cobalt-bijou, lampwork-cucumber]
+tags: [fishing, spot, nature]
+status: stable

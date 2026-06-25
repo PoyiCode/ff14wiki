@@ -1,0 +1,8 @@
+id: coerthas-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Coerthas River"
+fish_count: 8
+related: [striped-goby, maiden-carp, rainbow-trout, seema, giant-bass, crimson-trout, kissing-trout, daniffen-s-mark]
+tags: [fishing, spot, nature]
+status: stable

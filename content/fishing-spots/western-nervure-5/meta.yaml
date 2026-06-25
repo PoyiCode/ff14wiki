@@ -1,0 +1,8 @@
+id: western-nervure-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Western Nervure"
+fish_count: 6
+related: [perchsplorer, nervure-driftwood, autumn-s-wealth, chlorotic-butterfly, pileus-corn-dace, verdant-veil]
+tags: [fishing, spot, nature]
+status: stable

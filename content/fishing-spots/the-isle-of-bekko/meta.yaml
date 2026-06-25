@@ -1,0 +1,8 @@
+id: the-isle-of-bekko
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Isle of Bekko"
+fish_count: 9
+related: [grinning-anchovy, hellyfish, ruby-shrimp, dafu, glass-tuna, tawny-wench-shark, usuginu-octopus, fatty-herring, seven-stars]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: rhotano-sea-privateer-forecastle
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Rhotano Sea (Privateer Forecastle)"
+fish_count: 10
+related: [finger-shrimp, harbor-herring, blowfish, balloonfish, ash-tuna, red-coral, ogre-barracuda, mazlaya-marlin, gigant-octopus, the-old-man-in-the-sea]
+tags: [fishing, spot, nature]
+status: stable

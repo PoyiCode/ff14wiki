@@ -1,0 +1,8 @@
+id: sylvan-soaking-pool-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sylvan Soaking Pool"
+fish_count: 5
+related: [fishform-alluvimix, soaking-betta, fishform-alluvimark, indicoresin-trahira, turquoise-vine]
+tags: [fishing, spot, nature]
+status: stable

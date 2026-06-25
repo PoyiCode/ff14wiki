@@ -1,0 +1,8 @@
+id: limne-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Limne 3-α"
+fish_count: 8
+related: [wormhole-worm, unidentified-flying-biomass-ii, triaina, argonaut, echinos, space-bishop, alyketos, argonauta-argo]
+tags: [fishing, spot, nature]
+status: stable

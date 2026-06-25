@@ -1,0 +1,8 @@
+id: limsa-lominsa-lower-decks
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Limsa Lominsa Lower Decks"
+fish_count: 9
+related: [limsa-lominsa-lower-decks, merlthor-goby, lominsan-anchovy, malm-kelp, finger-shrimp, ocean-cloud, harbor-herring, coral-butterfly, blue-octopus, octomammoth]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: thaliak-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Thaliak River"
+fish_count: 9
+related: [hedgemole-cricket, sweetfish, philosopher-s-stone, shipworm, autumn-leaf, illuminati-perch, hinterlands-perch, thinker-s-coral, the-ewer-king]
+tags: [fishing, spot, nature]
+status: stable

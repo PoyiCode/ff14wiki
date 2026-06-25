@@ -1,0 +1,8 @@
+id: southeast-well-8
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Southeast Well"
+fish_count: 5
+related: [star-pleco, lunar-grass-carp, full-moon-catfish, lunar-longhair, heavy-ataxite]
+tags: [fishing, spot, nature]
+status: stable

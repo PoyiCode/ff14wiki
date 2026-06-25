@@ -1,0 +1,8 @@
+id: magnetic-horizon-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Magnetic Horizon"
+fish_count: 5
+related: [inverted-anchovy, inverted-barracuda, vacuum-worm, pseudocrab, ancient-oizys-fossil]
+tags: [fishing, spot, nature]
+status: stable

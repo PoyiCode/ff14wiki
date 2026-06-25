@@ -1,0 +1,8 @@
+id: capsule-pools-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Capsule Pools"
+fish_count: 5
+related: [glass-guppish, nyctichthys, five-star-bijou, capsule-castoff, capsule-amber]
+tags: [fishing, spot, nature]
+status: stable

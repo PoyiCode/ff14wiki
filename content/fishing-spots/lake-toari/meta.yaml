@@ -1,0 +1,8 @@
+id: lake-toari
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Lake Toari"
+fish_count: 6
+related: [bonytail-chub, niikwerepi-trout, trailtrout, toari-sucker, turali-paddlefish, ttokatoa]
+tags: [fishing, spot, nature]
+status: stable

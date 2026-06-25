@@ -1,0 +1,8 @@
+id: the-frozen-fissure
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Frozen Fissure"
+fish_count: 5
+related: [feverfish, calicia, fleeting-brand, regotoise, frozen-regotoise]
+tags: [fishing, spot, nature]
+status: stable

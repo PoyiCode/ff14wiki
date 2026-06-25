@@ -1,0 +1,8 @@
+id: hollow-harbor-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Hollow Harbor"
+fish_count: 5
+related: [moonrock-candy, moongill, darkside-bass, lunar-sisterscale, grand-crowntail-betta]
+tags: [fishing, spot, nature]
+status: stable

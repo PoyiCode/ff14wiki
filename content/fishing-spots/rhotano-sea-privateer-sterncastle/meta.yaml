@@ -1,0 +1,8 @@
+id: rhotano-sea-privateer-sterncastle
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Rhotano Sea (Privateer Sterncastle)"
+fish_count: 10
+related: [merlthor-goby, blowfish, leafy-seadragon, rock-lobster, wahoo, little-thalaos, shall-shell, megalodon, giant-squid, nepto-dragon]
+tags: [fishing, spot, nature]
+status: stable

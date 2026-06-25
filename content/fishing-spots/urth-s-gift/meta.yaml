@@ -1,0 +1,8 @@
+id: urth-s-gift
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Urth's Gift"
+fish_count: 10
+related: [ala-mhigan-fighting-fish, monke-onke, bonytongue, mitten-crab, velodyna-carp, southern-pike, boxing-pleco, takitaro, giant-takitaro, namitaro]
+tags: [fishing, spot, nature]
+status: stable

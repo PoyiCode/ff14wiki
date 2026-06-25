@@ -1,0 +1,8 @@
+id: where-the-dry-return
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Where the Dry Return"
+fish_count: 6
+related: [stormfish, deep-purple-coral, caliban, stippled-eel, ondobane, the-ondotaker]
+tags: [fishing, spot, nature]
+status: stable

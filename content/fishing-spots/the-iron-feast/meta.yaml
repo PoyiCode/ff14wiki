@@ -1,0 +1,8 @@
+id: the-iron-feast
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Iron Feast"
+fish_count: 7
+related: [pipira-pira, blueclaw-shrimp, dragonhead, caiman, thunderbolt-eel, amber-salamander, thunderscale]
+tags: [fishing, spot, nature]
+status: stable

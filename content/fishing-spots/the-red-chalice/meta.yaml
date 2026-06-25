@@ -1,0 +1,8 @@
+id: the-red-chalice
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Red Chalice"
+fish_count: 6
+related: [clawbow, yellow-pipira, oathfish, darkroot, diamond-pipira, pearl-pipira]
+tags: [fishing, spot, nature]
+status: stable

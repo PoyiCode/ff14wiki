@@ -1,0 +1,8 @@
+id: glimmerpond-beta-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Glimmerpond Beta"
+fish_count: 6
+related: [lunar-goldfish, lunar-minnow, lunar-glassfish, gleaming-deathworm, leanchoilia, harpagofututor]
+tags: [fishing, spot, nature]
+status: stable

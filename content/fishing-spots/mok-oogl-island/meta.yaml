@@ -1,0 +1,8 @@
+id: mok-oogl-island
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Mok Oogl Island"
+fish_count: 8
+related: [starflower, sky-faerie, scorpionfly, moogle-spirit, vampiric-tapestry, heavens-coral, basking-shark, sea-butterfly]
+tags: [fishing, spot, nature]
+status: stable

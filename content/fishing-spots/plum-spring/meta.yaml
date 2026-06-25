@@ -1,0 +1,8 @@
+id: plum-spring
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Plum Spring"
+fish_count: 7
+related: [doman-trout, kotsu-zetsu, pandamoth, silken-koi, plum-gazer, petal-shell, hagoromo-koi]
+tags: [fishing, spot, nature]
+status: stable

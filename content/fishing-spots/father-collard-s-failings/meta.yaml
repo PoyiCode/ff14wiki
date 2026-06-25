@@ -1,0 +1,8 @@
+id: father-collard-s-failings
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Father Collard's Failings"
+fish_count: 5
+related: [grey-skipper, pixie-fish, official-ball, toadhead, celestial]
+tags: [fishing, spot, nature]
+status: stable

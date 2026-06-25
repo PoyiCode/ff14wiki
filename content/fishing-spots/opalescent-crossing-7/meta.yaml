@@ -1,0 +1,8 @@
+id: opalescent-crossing-7
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Opalescent Crossing"
+fish_count: 5
+related: [pearl-shell, cobalt-bijou, selenium-herring, codmonaut, opalite-impesctor]
+tags: [fishing, spot, nature]
+status: stable

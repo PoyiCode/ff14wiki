@@ -1,0 +1,8 @@
+id: middle-thaliak-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Middle Thaliak River"
+fish_count: 10
+related: [philosopher-s-stone, scholar-sculpin, sweetfish, hedgemole-cricket, bullfrog, thaliak-caiman, berserker-betta, goblin-bass, inkshell, bobgoblin-bass]
+tags: [fishing, spot, nature]
+status: stable

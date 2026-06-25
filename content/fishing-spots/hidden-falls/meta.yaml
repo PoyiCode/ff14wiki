@@ -1,0 +1,8 @@
+id: hidden-falls
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Hidden Falls"
+fish_count: 7
+related: [crimson-crayfish, dark-sleeper, mitten-crab, spotted-puffer, discus, kobold-puffer, the-salter]
+tags: [fishing, spot, nature]
+status: stable

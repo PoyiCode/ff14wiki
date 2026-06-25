@@ -1,0 +1,8 @@
+id: eastbound-zorgor
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Eastbound Zorgor"
+fish_count: 7
+related: [zorgor-core, cloud-wasp, azure-glider, hellsnow-shark, raging-hanuhead, cloudsail, azure-diver]
+tags: [fishing, spot, nature]
+status: stable

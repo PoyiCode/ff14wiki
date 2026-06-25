@@ -1,0 +1,8 @@
+id: proto-alexandria
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Proto Alexandria"
+fish_count: 5
+related: [golden-day, starglass-gibel, scarlet-queen, ultimoat-carp, esperance-carp]
+tags: [fishing, spot, nature]
+status: stable

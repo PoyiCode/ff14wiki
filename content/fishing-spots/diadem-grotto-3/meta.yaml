@@ -1,0 +1,8 @@
+id: diadem-grotto-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Diadem Grotto"
+fish_count: 4
+related: [grade-3-skybuilders-cherax, grade-3-skybuilders-marimo, grade-3-skybuilders-catfish, grade-3-skybuilders-ricefish]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-lehr-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Lehr"
+fish_count: 4
+related: [macrobrachium-phaennense, eelsplorer, dark-expanse-catfish, light-expanse-catfish]
+tags: [fishing, spot, nature]
+status: stable

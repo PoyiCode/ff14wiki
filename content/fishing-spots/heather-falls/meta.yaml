@@ -1,0 +1,8 @@
+id: heather-falls
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Heather Falls"
+fish_count: 6
+related: [adamantite-bichir, death-loach, abalathian-salamander, steelshark, purple-buckler, the-last-tear]
+tags: [fishing, spot, nature]
+status: stable

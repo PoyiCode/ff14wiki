@@ -1,0 +1,8 @@
+id: xobr-it-tsoly
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Xobr'it Tsoly"
+fish_count: 5
+related: [cloud-eye-carp, xobr-it-lobster, sunbright-axolotl, horned-frog, lotl-in-waiting]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: azim-khaat
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Azim Khaat"
+fish_count: 7
+related: [othardian-trout, zagas-khaal, sun-bass, hardscale, sweatfish, guppy, duskfish]
+tags: [fishing, spot, nature]
+status: stable

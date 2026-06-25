@@ -1,0 +1,8 @@
+id: alexandrian-ruins
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Alexandrian Ruins"
+fish_count: 5
+related: [electrobetta, thundering-redbelly, yyasulani-bowfin, goldgrouper, heirloom-goldgrouper]
+tags: [fishing, spot, nature]
+status: stable

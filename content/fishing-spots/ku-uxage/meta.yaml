@@ -1,0 +1,8 @@
+id: ku-uxage
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Ku'uxage"
+fish_count: 6
+related: [ku-uxage-bitterling, tonguesnatcher, corn-dace, ka-puyhu, purple-palate, shuckfin-dace]
+tags: [fishing, spot, nature]
+status: stable

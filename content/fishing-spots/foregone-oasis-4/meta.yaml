@@ -1,0 +1,8 @@
+id: foregone-oasis-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Foregone Oasis"
+fish_count: 4
+related: [voyaging-loach, inverted-trout, oizys-catfish, foregone-sturgeon]
+tags: [fishing, spot, nature]
+status: stable

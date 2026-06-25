@@ -1,0 +1,8 @@
+id: limne-18
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Limne 18"
+fish_count: 8
+related: [wormhole-worm, unidentified-flying-biomass-ii, sophos-deka-okto, class-twenty-four, terrifyingway, alien-mertone, monster-carrot, forbiddingway]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: nem-khaal
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Nem Khaal"
+fish_count: 6
+related: [killifish, othardian-trout, zagas-khaal, steppe-skipper, dawn-crayfish, garden-skipper]
+tags: [fishing, spot, nature]
+status: stable

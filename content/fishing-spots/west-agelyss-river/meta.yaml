@@ -1,0 +1,8 @@
+id: west-agelyss-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "West Agelyss River"
+fish_count: 7
+related: [crayfish, chub, dwarf-catfish, princess-trout, gudgeon, la-noscean-perch, great-gudgeon]
+tags: [fishing, spot, nature]
+status: stable

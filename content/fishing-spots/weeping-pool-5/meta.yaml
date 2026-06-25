@@ -1,0 +1,8 @@
+id: weeping-pool-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Weeping Pool"
+fish_count: 4
+related: [astacus-lamentorum, starcrier, weeping-cichlid, yellowcheek]
+tags: [fishing, spot, nature]
+status: stable

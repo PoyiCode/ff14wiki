@@ -1,0 +1,8 @@
+id: full-bloom-fountain-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Full Bloom Fountain"
+fish_count: 5
+related: [cosmic-hedgemole-cricket, flourishing-guppy, cosmic-piraputanga, green-guppy, fishform-aquacleanse]
+tags: [fishing, spot, nature]
+status: stable

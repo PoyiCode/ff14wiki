@@ -1,0 +1,8 @@
+id: the-northern-strait-of-merlthor
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Northern Strait of Merlthor"
+fish_count: 10
+related: [floefish, megasquid, oschon-s-stone, tossed-dagger, tripod-fish, net-crawler, merlthor-lobster, elder-dinichthys, spectral-sea-bo, shooting-star]
+tags: [fishing, spot, nature]
+status: stable

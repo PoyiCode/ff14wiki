@@ -1,0 +1,8 @@
+id: southern-diadem-lake
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Southern Diadem Lake"
+fish_count: 4
+related: [maiboi, bullfrog, cloudfish, yalm-lobster]
+tags: [fishing, spot, nature]
+status: stable

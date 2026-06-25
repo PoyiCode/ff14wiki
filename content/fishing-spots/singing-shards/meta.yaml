@@ -1,0 +1,8 @@
+id: singing-shards
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Singing Shards"
+fish_count: 9
+related: [mudcrab, lamp-marimo, bonytongue, silverfish, giant-bass, knifefish, garpike, ilsabardian-bass, blood-red-bonytongue]
+tags: [fishing, spot, nature]
+status: stable

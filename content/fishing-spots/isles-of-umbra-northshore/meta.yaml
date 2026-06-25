@@ -1,0 +1,8 @@
+id: isles-of-umbra-northshore
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Isles of Umbra Northshore"
+fish_count: 10
+related: [merlthor-goby, ocean-cloud, fullmoon-sardine, lavender-remora, red-coral, silver-shark, wahoo, pike-eel, sunfish, helmsman-s-hand]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: greytail-falls
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Greytail Falls"
+fish_count: 6
+related: [cloud-coral, skyworm, glacier-core, warballoon, rime-eater, hailfinder]
+tags: [fishing, spot, nature]
+status: stable

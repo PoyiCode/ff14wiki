@@ -1,0 +1,8 @@
+id: haukke-manor
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Haukke Manor"
+fish_count: 6
+related: [mudskipper, ala-mhigan-fighting-fish, mudcrab, monke-onke, silverfish, bloodbath]
+tags: [fishing, spot, nature]
+status: stable

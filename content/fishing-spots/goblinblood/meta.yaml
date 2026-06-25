@@ -1,0 +1,8 @@
+id: goblinblood
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Goblinblood"
+fish_count: 10
+related: [ala-mhigan-fighting-fish, mudcrab, dark-bass, five-ilm-pleco, black-ghost, yugr-am-salmon, bonytongue, silverfish, goblin-perch, the-gobfather]
+tags: [fishing, spot, nature]
+status: stable

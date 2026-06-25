@@ -1,0 +1,8 @@
+id: full-bloom-fountain-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Full Bloom Fountain"
+fish_count: 5
+related: [cosmic-hedgemole-cricket, fishform-aquaflow, stacks-foliafin, sylvan-strand, fishform-aquapure]
+tags: [fishing, spot, nature]
+status: stable

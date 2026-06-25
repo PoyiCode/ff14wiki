@@ -1,0 +1,8 @@
+id: hollow-harbor-7
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Hollow Harbor"
+fish_count: 6
+related: [moonrock-candy, moongill, darkside-bass, opal-guppy, harbor-fang, deepmoon-cabomba]
+tags: [fishing, spot, nature]
+status: stable

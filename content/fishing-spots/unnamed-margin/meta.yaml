@@ -1,0 +1,8 @@
+id: unnamed-margin
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Unnamed Margin"
+fish_count: 10
+related: [first-mate-s-finger, specterfish, rhotano-permit, rhotano-dahlia, lodesmate-s-pen, rhotano-roosterfish, rhotanosaurus, royal-handmaiden, spectral-starfish, frolicsome-fish]
+tags: [fishing, spot, nature]
+status: stable

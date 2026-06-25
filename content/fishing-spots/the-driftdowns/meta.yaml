@@ -1,0 +1,8 @@
+id: the-driftdowns
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Driftdowns"
+fish_count: 6
+related: [heritage-loach, outskirts-sniffer, moon-croppie, driftdowns-trout, burst-lungfish, thunderswift-trout]
+tags: [fishing, spot, nature]
+status: stable

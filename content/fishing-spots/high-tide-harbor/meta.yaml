@@ -1,0 +1,8 @@
+id: high-tide-harbor
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "High Tide Harbor"
+fish_count: 7
+related: [reasonscale-silverside, floating-fife, blue-purse, goldfin-cavalli, king-puffer, harbor-cloud, purse-of-riches]
+tags: [fishing, spot, nature]
+status: stable

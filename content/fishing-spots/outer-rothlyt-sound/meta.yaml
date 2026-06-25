@@ -1,0 +1,8 @@
+id: outer-rothlyt-sound
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Outer Rothlyt Sound"
+fish_count: 10
+related: [crow-puffer, rothlyt-kelp, living-lantern, honeycomb-fish, godsbed, lansquenet, thavnairian-shark, nephrite-eel, spectresaur, ginkgo-fin]
+tags: [fishing, spot, nature]
+status: stable

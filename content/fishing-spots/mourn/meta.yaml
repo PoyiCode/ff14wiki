@@ -1,0 +1,8 @@
+id: mourn
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Mourn"
+fish_count: 6
+related: [lava-crab, granite-crab, cindersmith, cometoise, oven-catfish, meteortoise]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: xty-iinbek-tsoly
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Xty'iinbek Tsoly"
+fish_count: 6
+related: [ut-ohmu-tiika, sharknose-goby, yak-t-el-crab, xty-iinbek-sleeper, chain-shark, stardust-sleeper]
+tags: [fishing, spot, nature]
+status: stable

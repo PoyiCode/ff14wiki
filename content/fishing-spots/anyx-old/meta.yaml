@@ -1,0 +1,8 @@
+id: anyx-old
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Anyx Old"
+fish_count: 8
+related: [lava-crab, granite-crab, cindersmith, aithon-s-colt, cometoise, magma-louse, hoplite, riddle]
+tags: [fishing, spot, nature]
+status: stable

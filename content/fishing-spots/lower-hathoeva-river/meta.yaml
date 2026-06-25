@@ -1,0 +1,8 @@
+id: lower-hathoeva-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Lower Hathoeva River"
+fish_count: 10
+related: [rainbow-trout, ala-mhigan-fighting-fish, faerie-bass, mudcrab, eunuch-crayfish, black-eel, climbing-perch, yugr-am-salmon, velodyna-carp, floating-boulder]
+tags: [fishing, spot, nature]
+status: stable

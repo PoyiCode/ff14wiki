@@ -1,0 +1,8 @@
+id: zephyr-drift
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Zephyr Drift"
+fish_count: 10
+related: [merlthor-goby, lominsan-anchovy, finger-shrimp, ocean-cloud, sea-cucumber, harbor-herring, coral-butterfly, angelfish, blue-octopus, zalera]
+tags: [fishing, spot, nature]
+status: stable

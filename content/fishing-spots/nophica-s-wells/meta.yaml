@@ -1,0 +1,8 @@
+id: nophica-s-wells
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Nophica's Wells"
+fish_count: 8
+related: [bone-crayfish, dusk-goby, gudgeon, brass-loach, maiden-carp, copperfish, eunuch-crayfish, glimmerscale]
+tags: [fishing, spot, nature]
+status: stable

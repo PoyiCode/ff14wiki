@@ -1,0 +1,8 @@
+id: magnetic-horizon-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Magnetic Horizon"
+fish_count: 4
+related: [inverted-anchovy, inverted-barracuda, geras-seahorse, rocky-sunfish]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: unmoved-source-alpha
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Unmoved Source Alpha"
+fish_count: 6
+related: [butterfly-fry, topminnow, tessera, giant-aetherlouse, fat-snook, jumbo-snook]
+tags: [fishing, spot, nature]
+status: stable

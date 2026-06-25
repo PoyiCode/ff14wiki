@@ -1,0 +1,8 @@
+id: tharl-oom-khash
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Tharl Oom Khash"
+fish_count: 10
+related: [sky-faerie, cloud-rider, rudderfish, manasail, brown-bolo, cobrafish, storm-chaser, nyctosaur, bloodchaser, raimdellopterus]
+tags: [fishing, spot, nature]
+status: stable

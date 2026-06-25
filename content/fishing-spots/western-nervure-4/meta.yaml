@@ -1,0 +1,8 @@
+id: western-nervure-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Western Nervure"
+fish_count: 6
+related: [perchsplorer, nervure-driftwood, fishform-aquacycle, ripe-citrusfish, fishform-vegiclean, topiary-carp]
+tags: [fishing, spot, nature]
+status: stable

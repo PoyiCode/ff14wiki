@@ -1,0 +1,8 @@
+id: east-caliban-gap
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "East Caliban Gap"
+fish_count: 6
+related: [stormfish, sycorax, hoodwinker, cyan-sea-devil, pancake-octopus, the-mother-of-all-pancakes]
+tags: [fishing, spot, nature]
+status: stable

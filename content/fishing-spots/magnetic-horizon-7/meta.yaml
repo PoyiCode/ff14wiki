@@ -1,0 +1,8 @@
+id: magnetic-horizon-7
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Magnetic Horizon"
+fish_count: 6
+related: [inverted-anchovy, inverted-barracuda, geras-trap, pseudolumpsucker, inverted-brindlebass, craggy-sunfish]
+tags: [fishing, spot, nature]
+status: stable

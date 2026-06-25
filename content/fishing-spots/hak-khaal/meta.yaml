@@ -1,0 +1,8 @@
+id: hak-khaal
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Hak Khaal"
+fish_count: 6
+related: [zagas-khaal, curtain-pleco, dry-steppe-skipper, dusk-crayfish, hak-bitterling, banderole]
+tags: [fishing, spot, nature]
+status: stable

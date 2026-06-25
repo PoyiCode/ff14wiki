@@ -1,0 +1,8 @@
+id: north-silvertear
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "North Silvertear"
+fish_count: 9
+related: [lamp-marimo, silverfish, ignus-snail, sludgeskipper, assassin-betta, ilsabardian-bass, goldfish, heliobatis, aetherlouse]
+tags: [fishing, spot, nature]
+status: stable

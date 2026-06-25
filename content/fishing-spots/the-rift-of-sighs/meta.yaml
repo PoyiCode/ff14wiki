@@ -1,0 +1,8 @@
+id: the-rift-of-sighs
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Rift of Sighs"
+fish_count: 6
+related: [eighteyes-eel, hard-candy, abyssal-snail, water-ball, albino-caiman, sweetheart]
+tags: [fishing, spot, nature]
+status: stable

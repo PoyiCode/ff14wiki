@@ -1,0 +1,8 @@
+id: western-nervure-6
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Western Nervure"
+fish_count: 2
+related: [perchsplorer, auxesian-core]
+tags: [fishing, spot, nature]
+status: stable

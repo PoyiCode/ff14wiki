@@ -1,0 +1,8 @@
+id: cedarwood
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Cedarwood"
+fish_count: 9
+related: [merlthor-goby, ocean-cloud, harbor-herring, moraby-flounder, pebble-crab, tiger-cod, blue-octopus, leafy-seadragon, syldra]
+tags: [fishing, spot, nature]
+status: stable

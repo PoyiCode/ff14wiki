@@ -1,0 +1,8 @@
+id: riversmeet
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Riversmeet"
+fish_count: 4
+related: [abalathian-smelt, coerthan-crab, coerthan-puffer, fat-purse]
+tags: [fishing, spot, nature]
+status: stable

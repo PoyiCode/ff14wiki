@@ -1,0 +1,8 @@
+id: prism-lake
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Prism Lake"
+fish_count: 9
+related: [yellow-prismfish, blue-prismfish, violet-prismfish, red-prismfish, white-goldfish, firelight-goldfish, indigo-prismfish, green-prismfish, warden-of-the-seven-hues]
+tags: [fishing, spot, nature]
+status: stable

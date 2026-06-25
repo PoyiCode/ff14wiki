@@ -1,0 +1,8 @@
+id: open-bloodbrine-sea
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Open Bloodbrine Sea"
+fish_count: 10
+related: [thaliak-crab, star-of-the-destroyer, true-scad, blooded-wrasse, bloodpolish-crab, blue-stitcher, bloodfresh-tuna, sunken-mask, spectral-eel, bareface]
+tags: [fishing, spot, nature]
+status: stable

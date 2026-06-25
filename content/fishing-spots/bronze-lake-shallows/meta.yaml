@@ -1,0 +1,8 @@
+id: bronze-lake-shallows
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Bronze Lake Shallows"
+fish_count: 6
+related: [crimson-crayfish, river-crab, faerie-bass, jade-eel, pond-mussel, worm-of-nym]
+tags: [fishing, spot, nature]
+status: stable

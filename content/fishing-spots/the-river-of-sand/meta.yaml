@@ -1,0 +1,8 @@
+id: the-river-of-sand
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The River of Sand"
+fish_count: 7
+related: [shadow-crab, desert-dustfish, sand-egg, hornhelm, web-footed-sand-gecko, the-horned-king, cinder-surprise]
+tags: [fishing, spot, nature]
+status: stable

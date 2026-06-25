@@ -1,0 +1,8 @@
+id: proud-creek
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Proud Creek"
+fish_count: 9
+related: [pond-mussel, mitten-crab, seema, golden-loach, loyal-pleco, oakroot, southern-pike, pirarucu, shadowstreak]
+tags: [fishing, spot, nature]
+status: stable

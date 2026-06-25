@@ -1,0 +1,8 @@
+id: the-pappus-tree
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Pappus Tree"
+fish_count: 7
+related: [fountfish, crystalfin, aether-eye, lungfish, tiny-axolotl, flintstrike, hundred-eyed-axolotl]
+tags: [fishing, spot, nature]
+status: stable

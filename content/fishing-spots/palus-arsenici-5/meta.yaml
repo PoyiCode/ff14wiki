@@ -1,0 +1,8 @@
+id: palus-arsenici-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Palus Arsenici"
+fish_count: 6
+related: [lunar-scorpion, moonwhip, polypus-arsenici, arsenic-flower, arsenic-salamander, eyeballingway]
+tags: [fishing, spot, nature]
+status: stable

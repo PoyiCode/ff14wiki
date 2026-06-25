@@ -1,0 +1,8 @@
+id: quickspill-delta
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Quickspill Delta"
+fish_count: 9
+related: [blueclaw-shrimp, bullfrog, hedgemole-cricket, yalm-lobster, orn-butterfly, tigerfish, gnomefish, dravanian-scallop, madam-butterfly]
+tags: [fishing, spot, nature]
+status: stable

@@ -250,6 +250,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'Facewear like glasses and eyepatches worn on the face, so the bot can describe its look and chat about accessorising.',
     },
   },
+  {
+    key: 'fishing-spots',
+    label: { 'zh-TW': '釣場', 'zh-CN': '钓场', ja: '釣り場', en: 'Fishing Spots' },
+    description: {
+      'zh-TW': '艾歐澤亞各地的釣場與能在該處釣到的魚，連結地點與魚類，是 bot 規劃釣魚行程的依據。',
+      'zh-CN': '艾欧泽亚各地的钓场与能在该处钓到的鱼，连结地点与鱼类，是 bot 规划钓鱼行程的依据。',
+      ja: 'エオルゼア各地の釣り場と、そこで釣れる魚。場所と魚を結び、botの釣り計画の基礎となる。',
+      en: 'The fishing holes across Eorzea and the fish you can catch at each, linking places to fish — the basis for the bot to plan a fishing trip.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

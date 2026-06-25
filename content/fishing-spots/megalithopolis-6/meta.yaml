@@ -1,0 +1,8 @@
+id: megalithopolis-6
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Megalithopolis"
+fish_count: 2
+related: [inverted-skipper, oizys-rock]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: alpha-quadrant
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Alpha Quadrant"
+fish_count: 6
+related: [platinum-fish, bullwhip, blood-skipper, high-allagan-helmet, allagan-hunter, augmented-high-allagan-helmet]
+tags: [fishing, spot, nature]
+status: stable

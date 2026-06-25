@@ -1,0 +1,8 @@
+id: mercantile-docks
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Mercantile Docks"
+fish_count: 6
+related: [doman-trout, doman-grass-carp, lordly-salmon, kotsu-zetsu, white-clam, suiten-ippeki]
+tags: [fishing, spot, nature]
+status: stable

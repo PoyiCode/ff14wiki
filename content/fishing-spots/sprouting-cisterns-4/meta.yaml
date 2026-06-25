@@ -1,0 +1,8 @@
+id: sprouting-cisterns-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sprouting Cisterns"
+fish_count: 6
+related: [topiary-gibal, fishform-nutrigrowth, drifting-dragon, auroral-petalfish, fishform-aqualevel, topiary-serpent]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-moros-well-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Moros Well"
+fish_count: 5
+related: [moros-scorpion, moros-crab, sky-sniffer, unmoored-submariner, moros-horned-viper]
+tags: [fishing, spot, nature]
+status: stable

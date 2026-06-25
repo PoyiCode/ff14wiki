@@ -1,0 +1,8 @@
+id: the-comet-s-tail
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Comet's Tail"
+fish_count: 7
+related: [bone-melter, falling-star, capsized-squeaker, nirvana-crab, cardinalfish, lake-sphairai, the-archbishop]
+tags: [fishing, spot, nature]
+status: stable

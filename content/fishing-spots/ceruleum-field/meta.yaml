@@ -1,0 +1,8 @@
+id: ceruleum-field
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Ceruleum Field"
+fish_count: 9
+related: [grip-killifish, silverfish, ignus-snail, sludgeskipper, boltfish, ilsabardian-bass, goldfish, wootz-knifefish, wootz-knifefish-zenith]
+tags: [fishing, spot, nature]
+status: stable

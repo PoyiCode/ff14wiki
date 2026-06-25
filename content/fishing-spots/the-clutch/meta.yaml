@@ -1,0 +1,8 @@
+id: the-clutch
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Clutch"
+fish_count: 6
+related: [bone-crayfish, dusk-goby, brass-loach, maiden-carp, dark-bass, old-softie]
+tags: [fishing, spot, nature]
+status: stable

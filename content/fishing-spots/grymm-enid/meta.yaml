@@ -1,0 +1,8 @@
+id: grymm-enid
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Grymm & Enid"
+fish_count: 6
+related: [death-loach, grymm-crab, enid-shrimp, curefish, bondsplitter, drepanaspis]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: bubble-bursters-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Bubble Bursters"
+fish_count: 6
+related: [bursting-anemone, bubble-eater, phainofly-fish, bubblegazer, chthonic-tapestry, chasm-avatar]
+tags: [fishing, spot, nature]
+status: stable

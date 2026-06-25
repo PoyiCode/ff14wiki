@@ -1,0 +1,8 @@
+id: upper-hathoeva-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Upper Hathoeva River"
+fish_count: 9
+related: [rainbow-trout, river-crab, ala-mhigan-fighting-fish, faerie-bass, dark-sleeper, eunuch-crayfish, black-eel, velodyna-carp, vip-viper]
+tags: [fishing, spot, nature]
+status: stable

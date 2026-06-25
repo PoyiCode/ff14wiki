@@ -1,0 +1,8 @@
+id: the-haughty-one
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Haughty One"
+fish_count: 6
+related: [grey-skipper, cerulean-loach, official-ball, blood-eyed-frog, spotted-ctenopoma, sunken-tome]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: pavana-s-remorse
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Pavana's Remorse"
+fish_count: 5
+related: [green-swordtail, radzbalik, half-moon-betta, banana-eel, browned-banana-eel]
+tags: [fishing, spot, nature]
+status: stable

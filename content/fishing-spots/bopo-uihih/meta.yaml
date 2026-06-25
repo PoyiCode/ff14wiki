@@ -1,0 +1,8 @@
+id: bopo-uihih
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Bopo'uihih"
+fish_count: 7
+related: [kozama-uka-skipper, bopo-u-sleeper, poison-dyefrog, pleated-matamata, uyuy-xage, oily-ropefish, muttering-matamata]
+tags: [fishing, spot, nature]
+status: stable

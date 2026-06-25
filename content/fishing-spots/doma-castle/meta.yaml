@@ -1,0 +1,8 @@
+id: doma-castle
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Doma Castle"
+fish_count: 6
+related: [doman-trout, samurai-fish, blank-oscar, dragonfish, raitonfish, bokuden]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: oakwood
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Oakwood"
+fish_count: 10
+related: [river-crab, faerie-bass, jade-eel, pond-mussel, warmwater-trout, four-eyed-fish, dark-bass, common-sculpin, coeurlfish, toramafish]
+tags: [fishing, spot, nature]
+status: stable

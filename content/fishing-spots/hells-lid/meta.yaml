@@ -1,0 +1,8 @@
+id: hells-lid
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Hells' Lid"
+fish_count: 9
+related: [grinning-anchovy, hellyfish, ruby-shrimp, blockhead, liopleurodon, ukiki, shrieker, wicked-wartfish, the-vegetarian]
+tags: [fishing, spot, nature]
+status: stable

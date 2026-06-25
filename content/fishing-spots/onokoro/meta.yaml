@@ -1,0 +1,8 @@
+id: onokoro
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Onokoro"
+fish_count: 7
+related: [onokoro, ruby-shrimp, leaf-tatsunoko, glass-flounder, blackfin-snake-eel, swordfish, hook-fish, argonautica]
+tags: [fishing, spot, nature]
+status: stable

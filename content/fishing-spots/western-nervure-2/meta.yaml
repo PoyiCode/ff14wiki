@@ -1,0 +1,8 @@
+id: western-nervure-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Western Nervure"
+fish_count: 5
+related: [perchsplorer, nervure-driftwood, auxesian-marjoram, fishform-aquamotion, nervure-corntail]
+tags: [fishing, spot, nature]
+status: stable

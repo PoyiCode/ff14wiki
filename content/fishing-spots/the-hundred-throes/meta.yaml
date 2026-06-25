@@ -1,0 +1,8 @@
+id: the-hundred-throes
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Hundred Throes"
+fish_count: 8
+related: [whilom-catfish, pipira-pira, blueclaw-shrimp, grass-carp, shadowhisker, dravanian-smelt, river-shrimp, scaleripper]
+tags: [fishing, spot, nature]
+status: stable

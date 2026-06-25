@@ -1,0 +1,8 @@
+id: isles-of-umbra-southshore
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Isles of Umbra Southshore"
+fish_count: 10
+related: [fullmoon-sardine, red-coral, blacklip-oyster, nautilus, mummer-wrasse, plaice, sea-devil, coelacanth, coelacanthus, endoceras]
+tags: [fishing, spot, nature]
+status: stable

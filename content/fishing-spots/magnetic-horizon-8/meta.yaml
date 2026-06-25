@@ -1,0 +1,8 @@
+id: magnetic-horizon-8
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Magnetic Horizon"
+fish_count: 6
+related: [inverted-anchovy, inverted-barracuda, captivating-clam, geras-eel, mirrorshark, pseudosaurus]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: western-nervure-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Western Nervure"
+fish_count: 6
+related: [perchsplorer, nervure-driftwood, chlorotic-smelt, barkscale, nervure-taproot, orchidelirium-principal]
+tags: [fishing, spot, nature]
+status: stable

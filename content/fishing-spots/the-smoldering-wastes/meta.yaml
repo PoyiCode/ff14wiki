@@ -1,0 +1,8 @@
+id: the-smoldering-wastes
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Smoldering Wastes"
+fish_count: 7
+related: [whilom-catfish, rock-mussel, blueclaw-shrimp, three-lip-carp, warmwater-bichir, marble-oscar, the-dreamweaver]
+tags: [fishing, spot, nature]
+status: stable

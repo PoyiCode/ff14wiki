@@ -1,0 +1,8 @@
+id: full-bloom-fountain-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Full Bloom Fountain"
+fish_count: 5
+related: [cosmic-hedgemole-cricket, fishform-aquaflow, eriocaulon-auxesicum, aquagrapes, cosmoss]
+tags: [fishing, spot, nature]
+status: stable

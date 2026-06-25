@@ -1,0 +1,8 @@
+id: sullen
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sullen"
+fish_count: 5
+related: [hard-candy, rabbit-skipper, xanthic-bass, snakeskin-discus, python-discus]
+tags: [fishing, spot, nature]
+status: stable

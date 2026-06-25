@@ -1,0 +1,8 @@
+id: marsh-ligaka
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Marsh Ligaka"
+fish_count: 6
+related: [ligaka-guppy, dumplingfish, spotted-stingray, yellow-peacock-bass, shovelnose-catfish, excavator-catfish]
+tags: [fishing, spot, nature]
+status: stable

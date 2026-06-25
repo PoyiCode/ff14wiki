@@ -1,0 +1,8 @@
+id: the-isle-of-ken
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Isle of Ken"
+fish_count: 7
+related: [hard-candy, clean-saucer, albino-garfish, vicejaw, forgiven-melancholy, the-jaws-of-undeath, listracanthus]
+tags: [fishing, spot, nature]
+status: stable

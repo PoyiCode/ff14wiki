@@ -1,0 +1,8 @@
+id: the-habisphere
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Habisphere"
+fish_count: 9
+related: [sky-faerie, rudderfish, unidentified-flying-biomass, bomb-puffer, sky-sweeper, tupuxuara, stupendemys, cobrafish, crystal-pigeon]
+tags: [fishing, spot, nature]
+status: stable

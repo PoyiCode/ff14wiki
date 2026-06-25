@@ -1,0 +1,8 @@
+id: fusingway-flow-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Fusingway Flow"
+fish_count: 6
+related: [shearclaw, bellows-crab, crimplouse, confusing-catfusion, specious-shark, fused-animus]
+tags: [fishing, spot, nature]
+status: stable

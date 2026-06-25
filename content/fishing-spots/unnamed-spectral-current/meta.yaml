@@ -1,0 +1,8 @@
+id: unnamed-spectral-current
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Unnamed Spectral Current"
+fish_count: 10
+related: [captain-s-finger, bright-red-coral, royal-favorite, pirate-s-purse, captain-s-pen, tylosaurus, cieldalaes-roosterfish, renegade-rhotanosaurus, red-boarfish, akupara]
+tags: [fishing, spot, nature]
+status: stable

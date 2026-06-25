@@ -1,0 +1,8 @@
+id: shoal-rock
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Shoal Rock"
+fish_count: 8
+related: [grinning-anchovy, ruby-coral, sapphire-coral, bone-coral, butterfly-fish, harutsuge, ruby-laver, the-winter-queen]
+tags: [fishing, spot, nature]
+status: stable

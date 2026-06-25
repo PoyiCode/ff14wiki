@@ -1,0 +1,8 @@
+id: the-slow-wash
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Slow Wash"
+fish_count: 7
+related: [idle-goby, rapids-jumper, gyr-abanian-trout, heather-charr, death-loach, invisible-crayfish, the-undecided]
+tags: [fishing, spot, nature]
+status: stable

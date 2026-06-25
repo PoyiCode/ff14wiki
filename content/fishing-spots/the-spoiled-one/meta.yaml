@@ -1,0 +1,8 @@
+id: the-spoiled-one
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Spoiled One"
+fish_count: 5
+related: [brightmirror-clam, grey-skipper, cerulean-loach, cherry-herring, dammroen-herring]
+tags: [fishing, spot, nature]
+status: stable

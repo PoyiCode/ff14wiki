@@ -1,0 +1,8 @@
+id: west-mourn
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "West Mourn"
+fish_count: 6
+related: [granite-crab, aithon-s-colt, magma-tree, cindersmith, black-magefish, hraesvelgr-s-tear]
+tags: [fishing, spot, nature]
+status: stable

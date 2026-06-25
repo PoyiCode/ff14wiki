@@ -1,0 +1,8 @@
+id: woad-whisper-canyon
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Woad Whisper Canyon"
+fish_count: 8
+related: [dwarf-catfish, dusk-goby, river-crab, la-noscean-perch, copperfish, eunuch-crayfish, glass-perch, crystal-perch]
+tags: [fishing, spot, nature]
+status: stable

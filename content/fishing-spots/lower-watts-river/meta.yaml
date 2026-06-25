@@ -1,0 +1,8 @@
+id: lower-watts-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Lower Watts River"
+fish_count: 5
+related: [skulleater, toffee-snail, watts-trout, zebra-catfish, white-ronso]
+tags: [fishing, spot, nature]
+status: stable

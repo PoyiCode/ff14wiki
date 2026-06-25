@@ -1,0 +1,8 @@
+id: meghaduta
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Meghaduta"
+fish_count: 5
+related: [trunkblessed, seema-duta, longear-sunfish, silver-characin, earful]
+tags: [fishing, spot, nature]
+status: stable

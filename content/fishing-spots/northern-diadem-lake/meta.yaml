@@ -1,0 +1,8 @@
+id: northern-diadem-lake
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Northern Diadem Lake"
+fish_count: 1
+related: [cloudfish]
+tags: [fishing, spot, nature]
+status: stable

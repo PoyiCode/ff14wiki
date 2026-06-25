@@ -1,0 +1,8 @@
+id: costa-del-sol
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Costa del Sol"
+fish_count: 10
+related: [costa-del-sol, angelfish, blowfish, bianaq-bream, indigo-herring, ash-tuna, fullmoon-sardine, lavender-remora, silver-shark, little-thalaos, shark-tuna]
+tags: [fishing, spot, nature]
+status: stable

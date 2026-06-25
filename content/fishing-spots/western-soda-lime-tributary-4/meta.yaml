@@ -1,0 +1,8 @@
+id: western-soda-lime-tributary-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Western Soda-lime Tributary"
+fish_count: 5
+related: [white-starburst, skippingway, glass-coral, shallnot-shell, full-blown-bubble]
+tags: [fishing, spot, nature]
+status: stable

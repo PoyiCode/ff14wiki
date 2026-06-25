@@ -1,0 +1,8 @@
+id: the-mover-beta
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Mover Beta"
+fish_count: 7
+related: [butterfly-fry, macrobrachium-lar, xenocypris, blowgun, the-fury-s-aegis, darksteel-knifefish, onyx-knifefish]
+tags: [fishing, spot, nature]
+status: stable

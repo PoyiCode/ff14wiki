@@ -1,0 +1,8 @@
+id: west-beaconveil-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "West Beaconveil"
+fish_count: 4
+related: [glass-stitcher, glass-discus, phaenna-s-arrow, boro-bead]
+tags: [fishing, spot, nature]
+status: stable

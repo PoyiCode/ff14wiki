@@ -1,0 +1,8 @@
+id: east-agelyss-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "East Agelyss River"
+fish_count: 9
+related: [copperfish, lamprey, monke-onke, mitten-crab, discus, loyal-pleco, archerfish, agelyss-carp, the-drowned-sniper]
+tags: [fishing, spot, nature]
+status: stable

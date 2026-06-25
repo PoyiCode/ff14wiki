@@ -1,0 +1,8 @@
+id: iq-rrax-tsoly
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Iq Rrax Tsoly"
+fish_count: 6
+related: [tsoly-mu, iq-rrax-leaffish, archmatron-angelfish, yak-t-el-salamander, shadowtongue, iron-shadowtongue]
+tags: [fishing, spot, nature]
+status: stable

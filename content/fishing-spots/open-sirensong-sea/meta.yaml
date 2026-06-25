@@ -1,0 +1,8 @@
+id: open-sirensong-sea
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Open Sirensong Sea"
+fish_count: 10
+related: [deepshade-sardine, sirensong-mussel, arrowhead, pink-shrimp, sirensong-mullet, selkie-puffer, poet-s-pipe, marine-matanga, spectral-coelacanth, dusk-shark]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: daniffen-pass
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Daniffen Pass"
+fish_count: 7
+related: [striped-goby, blindfish, lamp-marimo, abalathian-smelt, golden-loach, cave-cherax, charon-s-lantern]
+tags: [fishing, spot, nature]
+status: stable

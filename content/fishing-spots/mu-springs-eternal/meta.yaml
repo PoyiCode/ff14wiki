@@ -1,0 +1,8 @@
+id: mu-springs-eternal
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Mu Springs Eternal"
+fish_count: 5
+related: [rosebud-frog, knight-goby, cleyran-carp, giant-snakehead, gigagiant-snakehead]
+tags: [fishing, spot, nature]
+status: stable

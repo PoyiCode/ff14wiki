@@ -1,0 +1,8 @@
+id: skull-valley
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Skull Valley"
+fish_count: 8
+related: [merlthor-goby, tiger-cod, rothlyt-oyster, razor-clam, blue-octopus, wahoo, goosefish, junkmonger]
+tags: [fishing, spot, nature]
+status: stable

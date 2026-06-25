@@ -1,0 +1,8 @@
+id: north-bloodshore
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "North Bloodshore"
+fish_count: 10
+related: [harbor-herring, ogre-barracuda, black-sole, sea-pickle, ash-tuna, whitelip-oyster, balloonfish, red-coral, mazlaya-marlin, bombardfish]
+tags: [fishing, spot, nature]
+status: stable

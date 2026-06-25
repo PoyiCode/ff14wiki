@@ -1,0 +1,8 @@
+id: westward-hop-print-6
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Westward Hop-print"
+fish_count: 5
+related: [bluemoon-loach, lunar-raiamas, preceptor-betta, lunar-academician, skipping-star]
+tags: [fishing, spot, nature]
+status: stable

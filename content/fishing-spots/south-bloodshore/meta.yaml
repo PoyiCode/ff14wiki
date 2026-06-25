@@ -1,0 +1,8 @@
+id: south-bloodshore
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "South Bloodshore"
+fish_count: 10
+related: [merlthor-goby, coral-butterfly, blue-octopus, blue-coral, sea-bo, bianaq-bream, fullmoon-sardine, silver-shark, gigant-clam, the-greatest-bream-in-the-world]
+tags: [fishing, spot, nature]
+status: stable

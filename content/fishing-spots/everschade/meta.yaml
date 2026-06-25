@@ -1,0 +1,8 @@
+id: everschade
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Everschade"
+fish_count: 7
+related: [black-eel, ala-mhigan-fighting-fish, monke-onke, mitten-crab, spotted-pleco, bonytongue, levinlight]
+tags: [fishing, spot, nature]
+status: stable

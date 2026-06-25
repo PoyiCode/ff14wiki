@@ -1,0 +1,8 @@
+id: halo
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Halo"
+fish_count: 8
+related: [granite-crab, magma-tree, cometoise, fossiltongue, lavalord, lava-snail, the-lord-of-lords, problematicus]
+tags: [fishing, spot, nature]
+status: stable

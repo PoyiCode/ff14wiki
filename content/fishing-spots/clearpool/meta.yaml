@@ -1,0 +1,8 @@
+id: clearpool
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Clearpool"
+fish_count: 9
+related: [abalathian-smelt, ice-faerie, coerthan-crab, hotrod, capelin, priestfish, ghost-faerie, bishopfish, charibenet]
+tags: [fishing, spot, nature]
+status: stable

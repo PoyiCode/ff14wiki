@@ -1,0 +1,8 @@
+id: sapsa-spawning-grounds
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sapsa Spawning Grounds"
+fish_count: 7
+related: [fullmoon-sardine, whitelip-oyster, red-coral, blacklip-oyster, nautilus, sea-devil, the-captain-s-chalice]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: bitterbark-cenote
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Bitterbark Cenote"
+fish_count: 6
+related: [mudfish, yak-t-el-catfish, blind-brotula, yak-t-el-caiman, cenote-oyster, bitterbark-caiman]
+tags: [fishing, spot, nature]
+status: stable

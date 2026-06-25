@@ -1,0 +1,8 @@
+id: moraby-bay
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Moraby Bay"
+fish_count: 9
+related: [merlthor-goby, malm-kelp, ocean-cloud, sea-cucumber, vongola-clam, moraby-flounder, pebble-crab, blue-octopus, oschon-s-print]
+tags: [fishing, spot, nature]
+status: stable

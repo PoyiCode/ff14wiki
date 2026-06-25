@@ -1,0 +1,8 @@
+id: peaks-poga
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Peaks Poga"
+fish_count: 6
+related: [oho-hunu, bronze-pleco, hunu-peacock-bass, pelubane, giant-trahira, punutiy-pain]
+tags: [fishing, spot, nature]
+status: stable

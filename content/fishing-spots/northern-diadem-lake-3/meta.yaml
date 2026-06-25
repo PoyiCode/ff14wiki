@@ -1,0 +1,8 @@
+id: northern-diadem-lake-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Northern Diadem Lake"
+fish_count: 4
+related: [grade-3-skybuilders-mudskipper, grade-3-skybuilders-steppe-bullfrog, grade-3-skybuilders-golden-loach, grade-3-skybuilders-bass]
+tags: [fishing, spot, nature]
+status: stable

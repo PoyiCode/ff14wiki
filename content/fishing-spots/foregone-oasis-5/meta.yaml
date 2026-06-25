@@ -1,0 +1,8 @@
+id: foregone-oasis-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Foregone Oasis"
+fish_count: 4
+related: [voyaging-loach, inverted-trout, foregone-goby, temporal-staff]
+tags: [fishing, spot, nature]
+status: stable

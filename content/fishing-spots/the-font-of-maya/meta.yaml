@@ -1,0 +1,8 @@
+id: the-font-of-maya
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Font of Maya"
+fish_count: 7
+related: [green-swordtail, radzbalik, handy-hamsa, flowerhorn, thavnairian-caiman, mayashell, mayaman]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-great-runoff
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Great Runoff"
+fish_count: 6
+related: [thavnairian-goby, qeyiq-sole, garjana-wrasse, golden-barramundi, sarikuyruk, vidyutvat-wrasse]
+tags: [fishing, spot, nature]
+status: stable

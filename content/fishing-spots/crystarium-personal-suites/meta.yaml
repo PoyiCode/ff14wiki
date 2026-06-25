@@ -1,0 +1,8 @@
+id: crystarium-personal-suites
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Crystarium Personal Suites"
+fish_count: 5
+related: [crystal-knife, laxan-carp, crystarium-tetra, skeletonfish, loose-pendant]
+tags: [fishing, spot, nature]
+status: stable

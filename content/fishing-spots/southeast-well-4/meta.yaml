@@ -1,0 +1,8 @@
+id: southeast-well-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Southeast Well"
+fish_count: 4
+related: [star-pleco, pinkmoon-cichlid, lunar-sole, silver-sturgeon]
+tags: [fishing, spot, nature]
+status: stable

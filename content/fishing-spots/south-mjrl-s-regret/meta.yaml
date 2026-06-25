@@ -1,0 +1,8 @@
+id: south-mjrl-s-regret
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "South Mjrl's Regret"
+fish_count: 7
+related: [clawbow, yellow-pipira, rak-tika-trout, night-s-bass, robber-crab, silver-kitten, recordkiller]
+tags: [fishing, spot, nature]
+status: stable

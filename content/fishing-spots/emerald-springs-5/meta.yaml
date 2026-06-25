@@ -1,0 +1,8 @@
+id: emerald-springs-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Emerald Springs"
+fish_count: 6
+related: [mossy-globule, greatfrond-turtle, cosmocarp, netroot-tortoise, arowana-analog, topiary-megagar]
+tags: [fishing, spot, nature]
+status: stable

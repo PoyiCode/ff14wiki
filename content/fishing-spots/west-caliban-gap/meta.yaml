@@ -1,0 +1,8 @@
+id: west-caliban-gap
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "West Caliban Gap"
+fish_count: 7
+related: [stormfish, sycorax, ancient-shrimp, yeti-crab, aapoak, gonzalo-s-grace, maru-crab]
+tags: [fishing, spot, nature]
+status: stable

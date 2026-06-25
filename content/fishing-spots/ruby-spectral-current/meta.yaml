@@ -1,0 +1,8 @@
+id: ruby-spectral-current
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Ruby Spectral Current"
+fish_count: 10
+related: [fleeting-squid, bowbarb-lobster, pitch-pickle, senbei-octopus, tentacle-thresher, bekko-rockhugger, yellow-iris, crimson-sentry, flying-squid, hells-claw]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: southern-merlthor-spectral-current
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Southern Merlthor Spectral Current"
+fish_count: 10
+related: [sea-nettle, great-grandmarlin, shipwreck-s-sail, charlatan-survivor, hi-aetherlouse, azeyma-s-sleeve, aetheric-seadragon, mythril-sovereign, roguesaurus, coral-manta]
+tags: [fishing, spot, nature]
+status: stable

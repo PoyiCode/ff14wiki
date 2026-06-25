@@ -1,0 +1,8 @@
+id: collapsed-tunnel-6
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Collapsed Tunnel"
+fish_count: 5
+related: [upside-down-squeaker, inverted-lungfish, pseudosaucer, iron-thornytooth, elongated-cameroceras]
+tags: [fishing, spot, nature]
+status: stable

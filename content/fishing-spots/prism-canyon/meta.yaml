@@ -1,0 +1,8 @@
+id: prism-canyon
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Prism Canyon"
+fish_count: 4
+related: [doman-trout, doman-crayfish, doman-eel, the-unraveled-bow]
+tags: [fishing, spot, nature]
+status: stable

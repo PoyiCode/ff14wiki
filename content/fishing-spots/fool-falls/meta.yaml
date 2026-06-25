@@ -1,0 +1,8 @@
+id: fool-falls
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Fool Falls"
+fish_count: 10
+related: [crimson-crayfish, river-crab, copperfish, bluebell-salmon, jade-eel, warmwater-trout, four-eyed-fish, dark-bass, fall-jumper, joan-of-trout]
+tags: [fishing, spot, nature]
+status: stable

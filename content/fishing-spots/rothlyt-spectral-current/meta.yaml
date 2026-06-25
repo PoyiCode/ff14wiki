@@ -1,0 +1,8 @@
+id: rothlyt-spectral-current
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Rothlyt Spectral Current"
+fish_count: 10
+related: [garum-jug, smooth-jaguar, rothlyt-mussel, levi-elver, pearl-bombfish, trollfish, panoptes, crepe-sole, knifejaw, placodus]
+tags: [fishing, spot, nature]
+status: stable

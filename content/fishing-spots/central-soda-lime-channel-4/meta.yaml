@@ -1,0 +1,8 @@
+id: central-soda-lime-channel-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Central Soda-lime Channel"
+fish_count: 6
+related: [glass-dahlia, fishy-jellyfish, decorative-disc, milky-irisfish, applebrow, untitled-work-no-765]
+tags: [fishing, spot, nature]
+status: stable

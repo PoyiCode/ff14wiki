@@ -1,0 +1,8 @@
+id: summerford
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Summerford"
+fish_count: 10
+related: [merlthor-goby, finger-shrimp, white-coral, ocean-cloud, harbor-herring, vongola-clam, blue-octopus, ogre-barracuda, silver-shark, gigantshark]
+tags: [fishing, spot, nature]
+status: stable

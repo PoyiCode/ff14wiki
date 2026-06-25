@@ -1,0 +1,8 @@
+id: downripple
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Downripple"
+fish_count: 4
+related: [mosquito-fish, pel-frog, petticoat-tetra, icuvlo-s-barter]
+tags: [fishing, spot, nature]
+status: stable

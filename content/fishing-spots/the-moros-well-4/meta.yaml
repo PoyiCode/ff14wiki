@@ -1,0 +1,8 @@
+id: the-moros-well-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Moros Well"
+fish_count: 6
+related: [moros-scorpion, moros-crab, moros-egg, desert-expanse-catfish, moros-saw, moros-sandworm]
+tags: [fishing, spot, nature]
+status: stable

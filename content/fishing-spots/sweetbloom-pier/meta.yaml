@@ -1,0 +1,8 @@
+id: sweetbloom-pier
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sweetbloom Pier"
+fish_count: 8
+related: [bone-crayfish, striped-goby, pipira, maiden-carp, river-crab, dark-sleeper, eunuch-crayfish, dark-ambusher]
+tags: [fishing, spot, nature]
+status: stable

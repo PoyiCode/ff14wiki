@@ -1,0 +1,8 @@
+id: lethe
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Lethe"
+fish_count: 6
+related: [isle-skipper, antheia, iribainion, smaragdos, antheian-dahlia, furcacauda]
+tags: [fishing, spot, nature]
+status: stable

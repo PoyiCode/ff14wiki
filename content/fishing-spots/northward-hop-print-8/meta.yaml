@@ -1,0 +1,8 @@
+id: northward-hop-print-8
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Northward Hop-print"
+fish_count: 2
+related: [melancholia, sunken-drone]
+tags: [fishing, spot, nature]
+status: stable

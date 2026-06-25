@@ -1,0 +1,8 @@
+id: full-bloom-fountain-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Full Bloom Fountain"
+fish_count: 5
+related: [cosmic-hedgemole-cricket, fishform-aquaflow, fatleaf-frog, trailing-tendril, roaming-pipira]
+tags: [fishing, spot, nature]
+status: stable

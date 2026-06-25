@@ -1,0 +1,8 @@
+id: glimmerpond-beta-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Glimmerpond Beta"
+fish_count: 6
+related: [lunar-goldfish, lunar-minnow, gleamingray, lunar-butterfly, lunar-seagrapes, fishingway]
+tags: [fishing, spot, nature]
+status: stable

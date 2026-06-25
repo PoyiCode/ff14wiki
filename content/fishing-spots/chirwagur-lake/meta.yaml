@@ -1,0 +1,8 @@
+id: chirwagur-lake
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Chirwagur Lake"
+fish_count: 5
+related: [chirwagur-loach, alright-alright-alright, zorlortor, shooting-starscale, ole-ole-ole]
+tags: [fishing, spot, nature]
+status: stable

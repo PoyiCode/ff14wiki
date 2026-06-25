@@ -1,0 +1,8 @@
+id: the-one-river-west
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The One River (West)"
+fish_count: 5
+related: [longhair-catfish, doman-trout, kotsu-zetsu, seraphim, hagoromo-bijin]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-long-climb
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Long Climb"
+fish_count: 7
+related: [giant-bass, ignus-snail, thunderbolt-sculpin, warmwater-trout, bronze-lake-trout, giant-donko, thundergut]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: scholar-s-harbor
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Scholar's Harbor"
+fish_count: 6
+related: [pecten, northern-herring, dog-faced-puffer, cobalt-chromis, guitarfish, aetherolectric-guitarfish]
+tags: [fishing, spot, nature]
+status: stable

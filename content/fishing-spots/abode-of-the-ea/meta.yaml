@@ -1,0 +1,8 @@
+id: abode-of-the-ea
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Abode of the Ea"
+fish_count: 4
+related: [abode-of-the-ea, protoflesh, katoptron, wandering-starscale, starscale-ephemeris]
+tags: [fishing, spot, nature]
+status: stable

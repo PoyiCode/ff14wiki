@@ -1,0 +1,8 @@
+id: cloudtop
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Cloudtop"
+fish_count: 7
+related: [starflower, buoyant-oviform, mahu-wai, mitre-slug, blue-cloud-coral, fleece-stingray, cirrostratus]
+tags: [fishing, spot, nature]
+status: stable

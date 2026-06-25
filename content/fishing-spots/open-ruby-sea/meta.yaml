@@ -1,0 +1,8 @@
+id: open-ruby-sea
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Open Ruby Sea"
+fish_count: 10
+related: [crimson-kelp, reef-squid, pinebark-flounder, mantle-moray, barded-lobster, sanbaso, shisui-goby, violet-sentry, spectral-snake-eel, heavensent-shark]
+tags: [fishing, spot, nature]
+status: stable

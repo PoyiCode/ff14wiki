@@ -1,0 +1,8 @@
+id: diadem-grotto-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Diadem Grotto"
+fish_count: 4
+related: [grade-2-skybuilders-cloudskipper, grade-2-skybuilders-meditator, grade-2-skybuilders-bitterling, grade-2-skybuilders-caiman]
+tags: [fishing, spot, nature]
+status: stable

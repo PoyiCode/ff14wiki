@@ -1,0 +1,8 @@
+id: west-beaconveil-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "West Beaconveil"
+fish_count: 3
+related: [glass-stitcher, biodome, roseveil-bijou]
+tags: [fishing, spot, nature]
+status: stable

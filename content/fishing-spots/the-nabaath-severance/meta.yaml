@@ -1,0 +1,8 @@
+id: the-nabaath-severance
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Nabaath Severance"
+fish_count: 8
+related: [shadow-crab, desert-dustfish, amber-lamprey, hornhelm, desert-saw, areng-dire, gold-dustfish, nabaath-saw]
+tags: [fishing, spot, nature]
+status: stable

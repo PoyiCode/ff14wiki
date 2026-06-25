@@ -1,0 +1,8 @@
+id: aetherial-falls-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Aetherial Falls"
+fish_count: 6
+related: [ctenophora-lunaris, protomyke-721, argonauta-lunaris, aetherial-sword, moon-manta, nadir-ambulocetus]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-one-river-east
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The One River (East)"
+fish_count: 7
+related: [yanxian-koi, longhair-catfish, doman-trout, yanxian-barramundi, kotsu-zetsu, othardian-salmon, axelrod]
+tags: [fishing, spot, nature]
+status: stable

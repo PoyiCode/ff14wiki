@@ -1,0 +1,8 @@
+id: apohelos-18
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Apohelos 18-γ"
+fish_count: 5
+related: [superstring, vacuum-shrimp, star-eater, cosmic-noise, cosmic-haze]
+tags: [fishing, spot, nature]
+status: stable

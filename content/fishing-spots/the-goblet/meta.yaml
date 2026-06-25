@@ -1,0 +1,8 @@
+id: the-goblet
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Goblet"
+fish_count: 9
+related: [brass-loach, faerie-bass, copperfish, eunuch-crayfish, dark-bass, lamprey, silverfish, goldfish, spearnose]
+tags: [fishing, spot, nature]
+status: stable

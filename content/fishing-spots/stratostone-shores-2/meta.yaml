@@ -1,0 +1,8 @@
+id: stratostone-shores-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Stratostone Shores"
+fish_count: 6
+related: [skylit-petal, indigo-pulpscale, sylvan-core, fishform-aquameter, bluebloom, crabby-indicolite]
+tags: [fishing, spot, nature]
+status: stable

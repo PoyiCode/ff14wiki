@@ -1,0 +1,8 @@
+id: south-drybone
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "South Drybone"
+fish_count: 7
+related: [dusk-goby, mudskipper, faerie-bass, acorn-snail, mudcrab, bone-cleaner, mud-pilgrim]
+tags: [fishing, spot, nature]
+status: stable

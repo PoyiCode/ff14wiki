@@ -1,0 +1,8 @@
+id: the-moros-well-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Moros Well"
+fish_count: 6
+related: [moros-scorpion, moros-crab, inverted-hornhelm, stygian-pseudomander, ironsand-lizard, oddweight-ironsand-lizard]
+tags: [fishing, spot, nature]
+status: stable

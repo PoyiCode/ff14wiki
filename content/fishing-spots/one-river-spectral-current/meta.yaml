@@ -1,0 +1,8 @@
+id: one-river-spectral-current
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "One River Spectral Current"
+fish_count: 10
+related: [gensui-shrimp, yato-no-kami, heron-s-eel, crowshadow-mussel, yanxian-goby, iridescent-trout, un-namazu, gakugyo, ginrin-goshiki, jewel-of-plum-spring]
+tags: [fishing, spot, nature]
+status: stable

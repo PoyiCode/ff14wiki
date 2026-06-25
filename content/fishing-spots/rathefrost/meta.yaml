@@ -1,0 +1,8 @@
+id: rathefrost
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Rathefrost"
+fish_count: 10
+related: [lamp-marimo, silverfish, giant-bass, ignus-snail, knifefish, assassin-betta, ilsabardian-bass, goldfish, poxpike, void-bass]
+tags: [fishing, spot, nature]
+status: stable

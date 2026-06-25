@@ -1,0 +1,8 @@
+id: whispering-gorge
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Whispering Gorge"
+fish_count: 7
+related: [crayfish, pipira, gudgeon, maiden-carp, moat-carp, raincaller, matron-carp]
+tags: [fishing, spot, nature]
+status: stable

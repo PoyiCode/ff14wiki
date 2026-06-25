@@ -1,0 +1,8 @@
+id: the-stainless-course
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Stainless Course"
+fish_count: 7
+related: [garlean-clam, dark-crown, eblan-trout, imperial-pleco, bluetail, kitty-herring, sovereign-shadow]
+tags: [fishing, spot, nature]
+status: stable

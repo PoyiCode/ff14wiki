@@ -1,0 +1,8 @@
+id: northern-merlthor-spectral-current
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Northern Merlthor Spectral Current"
+fish_count: 10
+related: [hammerclaw, coccosteus, bartholomew-the-chopper, prowler, mopbeard, wild-urchin, gugrusaurus, coral-seadragon, the-fallen-one, elasmosaurus]
+tags: [fishing, spot, nature]
+status: stable

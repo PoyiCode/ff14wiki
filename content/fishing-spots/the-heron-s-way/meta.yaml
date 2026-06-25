@@ -1,0 +1,8 @@
+id: the-heron-s-way
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Heron's Way"
+fish_count: 4
+related: [river-barramundi, doman-trout, doman-crayfish, glarramundi]
+tags: [fishing, spot, nature]
+status: stable

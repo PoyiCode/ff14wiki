@@ -1,0 +1,8 @@
+id: the-perfumed-tides
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Perfumed Tides"
+fish_count: 8
+related: [fiery-goby, puff-paya, narunnairian-octopus, roosterfish, basilosaurus, thavnairian-calamari, basilosaurus-rex, gharlichthys]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: outskirts-shallows
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Outskirts Shallows"
+fish_count: 5
+related: [heritage-loach, outskirts-sniffer, pumpkin-perch, tiger-muskellunge, sprouting-perch]
+tags: [fishing, spot, nature]
+status: stable

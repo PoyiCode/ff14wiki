@@ -1,0 +1,8 @@
+id: isari
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Isari"
+fish_count: 8
+related: [glass-herring, gliding-fish, globefish, fan-clam, ruby-meagre, triplespine, shirogane-clam, pinhead]
+tags: [fishing, spot, nature]
+status: stable

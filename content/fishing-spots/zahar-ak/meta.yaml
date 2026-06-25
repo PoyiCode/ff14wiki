@@ -1,0 +1,8 @@
+id: zahar-ak
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Zahar'ak"
+fish_count: 8
+related: [moat-carp, mudcrab, plaguefish, clown-loach, discus, ignus-snail, paglth-an-discus, discobolus]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: longmirror-lake
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Longmirror Lake"
+fish_count: 8
+related: [grey-skipper, cerulean-loach, official-ball, rebel, wild-red-betta, fuchsia-bloom, the-sound-of-fury, ealad-skaan]
+tags: [fishing, spot, nature]
+status: stable

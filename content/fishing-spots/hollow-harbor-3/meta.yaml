@@ -1,0 +1,8 @@
+id: hollow-harbor-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Hollow Harbor"
+fish_count: 5
+related: [moonrock-candy, moongill, lunar-cabomba, opal-eel, lunar-pirarucu]
+tags: [fishing, spot, nature]
+status: stable

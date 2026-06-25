@@ -1,0 +1,8 @@
+id: northward-hop-print-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Northward Hop-print"
+fish_count: 3
+related: [melancholia, hop-shrimp, blue-cichlid]
+tags: [fishing, spot, nature]
+status: stable

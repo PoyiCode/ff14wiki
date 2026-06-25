@@ -1,0 +1,8 @@
+id: northeast-bronze-lake
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Northeast Bronze Lake"
+fish_count: 10
+related: [jade-eel, pond-mussel, four-eyed-fish, bonytongue, mitten-crab, silverfish, giant-bass, bronze-lake-trout, giant-catfish, king-of-the-spring]
+tags: [fishing, spot, nature]
+status: stable

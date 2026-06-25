@@ -1,0 +1,8 @@
+id: weeping-pool-8
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Weeping Pool"
+fish_count: 5
+related: [astacus-lamentorum, teardrop-knifefish, weeping-crab, silvermoon-tilapia, weeping-minnow]
+tags: [fishing, spot, nature]
+status: stable

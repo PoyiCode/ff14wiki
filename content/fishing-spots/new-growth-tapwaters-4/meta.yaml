@@ -1,0 +1,8 @@
+id: new-growth-tapwaters-4
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "New Growth Tapwaters"
+fish_count: 4
+related: [fishform-modulight, new-growth-carp, fishform-alluviscoop, verdant-dancer]
+tags: [fishing, spot, nature]
+status: stable

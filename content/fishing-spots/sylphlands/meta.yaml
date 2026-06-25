@@ -1,0 +1,8 @@
+id: sylphlands
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sylphlands"
+fish_count: 7
+related: [giant-bass, velodyna-carp, oakroot, common-sculpin, southern-pike, mushroom-crab, magicked-mushroom]
+tags: [fishing, spot, nature]
+status: stable

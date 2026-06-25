@@ -1,0 +1,8 @@
+id: rhalgr-s-reach
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Rhalgr's Reach"
+fish_count: 7
+related: [golden-cichlid, temple-carp, gyr-abanian-trout, monk-betta, electric-catfish, pagan-pirarucu, watcher-catfish]
+tags: [fishing, spot, nature]
+status: stable

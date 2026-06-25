@@ -1,0 +1,8 @@
+id: westward-hop-print-9
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Westward Hop-print"
+fish_count: 3
+related: [bluemoon-loach, lamentorum-geayi, moon-bluetail]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-wakeful-torana
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Wakeful Torana"
+fish_count: 5
+related: [green-swordtail, ksirapayin, wakeful-watcher, red-drum, wakeful-warden]
+tags: [fishing, spot, nature]
+status: stable

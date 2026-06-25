@@ -1,0 +1,8 @@
+id: limsa-lominsa-upper-decks
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Limsa Lominsa Upper Decks"
+fish_count: 9
+related: [merlthor-goby, lominsan-anchovy, malm-kelp, finger-shrimp, ocean-cloud, harbor-herring, coral-butterfly, blue-octopus, goldenfin]
+tags: [fishing, spot, nature]
+status: stable

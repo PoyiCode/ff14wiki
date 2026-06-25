@@ -1,0 +1,8 @@
+id: the-western-kholusian-coast
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Western Kholusian Coast"
+fish_count: 9
+related: [south-kholusian-cod, kholusian-flounder, shellfracture-kelp, creamy-oyster, rose-shrimp, razorfish, kholusian-king-crab, blue-crab, steel-razor]
+tags: [fishing, spot, nature]
+status: stable

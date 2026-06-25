@@ -1,0 +1,8 @@
+id: weston-waters
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Weston Waters"
+fish_count: 7
+related: [cloudfish, dravanian-squeaker, weston-bowfin, hundred-fin, lovers-clam, illuminati-mask, thousand-fin]
+tags: [fishing, spot, nature]
+status: stable

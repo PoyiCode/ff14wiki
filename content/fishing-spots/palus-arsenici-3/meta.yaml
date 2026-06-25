@@ -1,0 +1,8 @@
+id: palus-arsenici-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Palus Arsenici"
+fish_count: 5
+related: [lunar-scorpion, moonwhip, polypus-arsenici, wiwaxia, atopodentatus]
+tags: [fishing, spot, nature]
+status: stable

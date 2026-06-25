@@ -1,0 +1,8 @@
+id: bubble-bursters-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Bubble Bursters"
+fish_count: 3
+related: [bursting-anemone, midnight-impression, blue-starburst]
+tags: [fishing, spot, nature]
+status: stable

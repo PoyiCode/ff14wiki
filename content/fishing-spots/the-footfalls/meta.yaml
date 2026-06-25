@@ -1,0 +1,8 @@
+id: the-footfalls
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Footfalls"
+fish_count: 8
+related: [crayfish, mudskipper, faerie-bass, mudcrab, acorn-snail, copperfish, eunuch-crayfish, mud-golem]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-quadrivium
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Quadrivium"
+fish_count: 5
+related: [crystal-knife, laxan-carp, sinspitter, wandering-catfish, the-sinsteeped]
+tags: [fishing, spot, nature]
+status: stable

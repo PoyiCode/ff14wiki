@@ -1,0 +1,8 @@
+id: the-for-ard-cabins
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The For'ard Cabins"
+fish_count: 7
+related: [reasonscale-silverside, stardust-shrimp, shallows-sot, ghostfish, permit, inktopus, cabinkeep-permit]
+tags: [fishing, spot, nature]
+status: stable

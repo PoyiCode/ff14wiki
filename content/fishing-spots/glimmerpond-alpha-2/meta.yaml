@@ -1,0 +1,8 @@
+id: glimmerpond-alpha-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Glimmerpond Alpha"
+fish_count: 5
+related: [arsenic-axolotl, sunny-jellyfish, universal-darkfin, etheirys-croppie, moon-mora]
+tags: [fishing, spot, nature]
+status: stable

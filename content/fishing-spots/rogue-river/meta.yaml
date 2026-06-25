@@ -1,0 +1,8 @@
+id: rogue-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Rogue River"
+fish_count: 6
+related: [crayfish, chub, dwarf-catfish, princess-trout, la-noscean-perch, beguiler-chub]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: secluded-diadem-pond
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Secluded Diadem Pond"
+fish_count: 1
+related: [three-lip-carp]
+tags: [fishing, spot, nature]
+status: stable

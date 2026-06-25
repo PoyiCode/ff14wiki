@@ -1,0 +1,8 @@
+id: the-mourning-widow
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Mourning Widow"
+fish_count: 8
+related: [crayfish, chub, dwarf-catfish, princess-trout, dusk-goby, gudgeon, maiden-carp, caterwauler]
+tags: [fishing, spot, nature]
+status: stable

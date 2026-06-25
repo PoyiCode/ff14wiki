@@ -1,0 +1,8 @@
+id: glimmerpond-alpha-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Glimmerpond Alpha"
+fish_count: 6
+related: [arsenic-axolotl, sunny-jellyfish, universal-darkfin, glimmerfish, lepopredator, soliclymenia]
+tags: [fishing, spot, nature]
+status: stable

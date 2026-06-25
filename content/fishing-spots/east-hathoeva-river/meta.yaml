@@ -1,0 +1,8 @@
+id: east-hathoeva-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "East Hathoeva River"
+fish_count: 9
+related: [rainbow-trout, faerie-bass, dark-sleeper, copperfish, mudcrab, eunuch-crayfish, black-eel, velodyna-carp, the-grinner]
+tags: [fishing, spot, nature]
+status: stable

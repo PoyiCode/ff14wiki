@@ -1,0 +1,8 @@
+id: the-north-shards
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The North Shards"
+fish_count: 10
+related: [lamp-marimo, silverfish, giant-bass, ignus-snail, assassin-betta, ilsabardian-bass, goldfish, morinabaligi, canavan, kuno-the-killer]
+tags: [fishing, spot, nature]
+status: stable

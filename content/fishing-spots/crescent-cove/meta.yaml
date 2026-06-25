@@ -1,0 +1,8 @@
+id: crescent-cove
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Crescent Cove"
+fish_count: 8
+related: [lominsan-anchovy, razor-clam, blowfish, saber-sardine, monkfish, spotted-puffer, rock-lobster, fingers]
+tags: [fishing, spot, nature]
+status: stable

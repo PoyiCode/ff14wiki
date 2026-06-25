@@ -1,0 +1,8 @@
+id: the-bull-s-bath
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Bull's Bath"
+fish_count: 7
+related: [death-loach, invisible-crayfish, bull-s-bite, peeping-pisces, meditator, alligator-snapping-turtle, hemon]
+tags: [fishing, spot, nature]
+status: stable

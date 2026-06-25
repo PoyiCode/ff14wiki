@@ -1,0 +1,8 @@
+id: the-norvrandt-slope
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Norvrandt Slope"
+fish_count: 8
+related: [stormfish, sycorax, sweetflesh-oyster, azure-sea-spider, rainbow-shrimp, predator, il-lydha, opal-shrimp]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: exploratory-ice-hole
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Exploratory Ice Hole"
+fish_count: 5
+related: [lamp-marimo, abalathian-smelt, northern-pike, kissing-trout, the-matriarch]
+tags: [fishing, spot, nature]
+status: stable

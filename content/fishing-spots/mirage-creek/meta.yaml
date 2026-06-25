@@ -1,0 +1,8 @@
+id: mirage-creek
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Mirage Creek"
+fish_count: 7
+related: [highland-perch, mirage-chub, gravel-gudgeon, rhalgr-s-bolt, mirage-mahi, scarlet-frog, corpse-chub]
+tags: [fishing, spot, nature]
+status: stable

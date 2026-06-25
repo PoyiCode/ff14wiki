@@ -1,0 +1,8 @@
+id: full-bloom-fountain-7
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Full Bloom Fountain"
+fish_count: 6
+related: [cosmic-hedgemole-cricket, fishform-aquaflow, sylvan-herald, chlorotic-pleco, blooming-characin, topiary-pirarucu]
+tags: [fishing, spot, nature]
+status: stable

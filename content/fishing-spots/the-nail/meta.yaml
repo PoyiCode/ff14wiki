@@ -1,0 +1,8 @@
+id: the-nail
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Nail"
+fish_count: 9
+related: [striped-goby, abalathian-smelt, giant-bass, crimson-trout, bronze-lake-trout, northern-pike, kissing-trout, emperor-fish, starbright]
+tags: [fishing, spot, nature]
+status: stable

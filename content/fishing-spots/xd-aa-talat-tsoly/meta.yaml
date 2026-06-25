@@ -1,0 +1,8 @@
+id: xd-aa-talat-tsoly
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Xd'aa Talat Tsoly"
+fish_count: 5
+related: [shimmering-shadow, ut-ohmu-dawnfish, belonesox, xd-aa-talat-cichlid, ilyon-asoh-cichlid]
+tags: [fishing, spot, nature]
+status: stable

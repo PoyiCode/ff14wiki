@@ -1,0 +1,8 @@
+id: the-dewspun-bank
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Dewspun Bank"
+fish_count: 4
+related: [oho-hunu, bronze-pleco, crenicichla, crenicichla-miyaka]
+tags: [fishing, spot, nature]
+status: stable

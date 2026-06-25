@@ -1,0 +1,8 @@
+id: namai
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Namai"
+fish_count: 2
+related: [namai, nogoi, hermit-s-end]
+tags: [fishing, spot, nature]
+status: stable

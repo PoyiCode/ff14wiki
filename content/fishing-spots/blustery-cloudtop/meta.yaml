@@ -1,0 +1,8 @@
+id: blustery-cloudtop
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Blustery Cloudtop"
+fish_count: 4
+related: [buoyant-oviform, mahu-wai, mitre-slug, blue-cloud-coral]
+tags: [fishing, spot, nature]
+status: stable

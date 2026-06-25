@@ -1,0 +1,8 @@
+id: the-lehr-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Lehr"
+fish_count: 3
+related: [macrobrachium-phaennense, eelsplorer, lehr-salamander]
+tags: [fishing, spot, nature]
+status: stable

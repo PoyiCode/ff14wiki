@@ -1,0 +1,8 @@
+id: north-drybone
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "North Drybone"
+fish_count: 7
+related: [dusk-goby, mudskipper, faerie-bass, acorn-snail, mudcrab, bone-cleaner, marrow-sucker]
+tags: [fishing, spot, nature]
+status: stable

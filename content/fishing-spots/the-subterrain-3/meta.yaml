@@ -1,0 +1,8 @@
+id: the-subterrain-3
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Subterrain"
+fish_count: 6
+related: [burrow-shrimp, pseudoturtle, upside-down-aether-eye, inverted-carp, burrow-bolo, euhedroturtle]
+tags: [fishing, spot, nature]
+status: stable

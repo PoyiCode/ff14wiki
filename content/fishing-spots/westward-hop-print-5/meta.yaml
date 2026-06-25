@@ -1,0 +1,8 @@
+id: westward-hop-print-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Westward Hop-print"
+fish_count: 5
+related: [bluemoon-loach, leaping-loach, lunar-bronze-pleco, starry-stingray, lunar-lungfish]
+tags: [fishing, spot, nature]
+status: stable

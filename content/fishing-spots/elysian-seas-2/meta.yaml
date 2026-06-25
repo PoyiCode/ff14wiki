@@ -1,0 +1,8 @@
+id: elysian-seas-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Elysian Seas β"
+fish_count: 2
+related: [protoflesh, comet-tail]
+tags: [fishing, spot, nature]
+status: stable

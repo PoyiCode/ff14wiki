@@ -1,0 +1,8 @@
+id: reflecting-pool
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Reflecting Pool"
+fish_count: 4
+related: [astacus, ponderer, tidal-dahlia, catastrophizer]
+tags: [fishing, spot, nature]
+status: stable

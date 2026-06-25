@@ -1,0 +1,8 @@
+id: apohelos-18-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Apohelos 18-β"
+fish_count: 5
+related: [superstring, glassfish, star-eater, foun-myhk, foun-ahlm]
+tags: [fishing, spot, nature]
+status: stable

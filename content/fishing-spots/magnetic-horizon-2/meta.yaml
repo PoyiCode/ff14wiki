@@ -1,0 +1,8 @@
+id: magnetic-horizon-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Magnetic Horizon"
+fish_count: 5
+related: [inverted-anchovy, inverted-barracuda, geras-crab, pole-shifter, iron-longnose]
+tags: [fishing, spot, nature]
+status: stable

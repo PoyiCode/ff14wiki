@@ -1,0 +1,8 @@
+id: kugane-spectral-current
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Kugane Spectral Current"
+fish_count: 10
+related: [snapping-koban, silkweft-prawn, stingfin-trevally, swordtip-squid, mailfish, idaten-s-bolt, maelstrom-turban, shoshitsuki, spadefish, glass-dragon]
+tags: [fishing, spot, nature]
+status: stable

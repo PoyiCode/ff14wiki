@@ -1,0 +1,8 @@
+id: rootslake
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Rootslake"
+fish_count: 7
+related: [bone-crayfish, climbing-perch, root-skipper, mitten-crab, armored-pleco, judgment-staff, son-of-levin]
+tags: [fishing, spot, nature]
+status: stable

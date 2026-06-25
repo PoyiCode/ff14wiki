@@ -1,0 +1,8 @@
+id: upper-watts-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Upper Watts River"
+fish_count: 6
+related: [skulleater, toffee-snail, watts-trout, hucho-taimen, winged-hatchetfish, giant-taimen]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: the-wellspring-of-regret
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Wellspring of Regret"
+fish_count: 5
+related: [protoflesh, katoptron, comet-tail, aoide, starscryer]
+tags: [fishing, spot, nature]
+status: stable

@@ -1,0 +1,8 @@
+id: raincatcher-gully
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Raincatcher Gully"
+fish_count: 10
+related: [copperfish, lamprey, mitten-crab, giant-bass, discus, loyal-pleco, thunderbolt-sculpin, archerfish, agelyss-carp, the-terpsichorean]
+tags: [fishing, spot, nature]
+status: stable

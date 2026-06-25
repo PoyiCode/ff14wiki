@@ -1,0 +1,8 @@
+id: south-banepool
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "South Banepool"
+fish_count: 10
+related: [abalathian-smelt, icepick, ice-faerie, lake-urchin, ammonite, seema-patrician, fanged-clam, mountain-kraken, magic-bucket, captain-nemo]
+tags: [fishing, spot, nature]
+status: stable

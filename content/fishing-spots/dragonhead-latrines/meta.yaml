@@ -1,0 +1,8 @@
+id: dragonhead-latrines
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Dragonhead Latrines"
+fish_count: 7
+related: [striped-goby, rainbow-trout, abalathian-smelt, seema, crimson-trout, kissing-trout, dawn-maiden]
+tags: [fishing, spot, nature]
+status: stable

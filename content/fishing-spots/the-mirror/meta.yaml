@@ -1,0 +1,8 @@
+id: the-mirror
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Mirror"
+fish_count: 8
+related: [bone-crayfish, pipira, gudgeon, brass-loach, maiden-carp, moat-carp, tricolored-carp, ghost-carp]
+tags: [fishing, spot, nature]
+status: stable

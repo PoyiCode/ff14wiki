@@ -1,0 +1,8 @@
+id: canal-town-north
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Canal Town North"
+fish_count: 6
+related: [canal-bream, iris-wrasse, devotion-clam, forgotten-one, copper-shark, shined-copper-shark]
+tags: [fishing, spot, nature]
+status: stable

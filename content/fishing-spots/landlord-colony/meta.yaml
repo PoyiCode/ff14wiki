@@ -1,0 +1,8 @@
+id: landlord-colony
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Landlord Colony"
+fish_count: 8
+related: [sky-faerie, gloaming-coral, cloud-rider, blue-medusa, letter-puffer, dragon-s-soul, sunsail, the-soul-of-the-martyr]
+tags: [fishing, spot, nature]
+status: stable

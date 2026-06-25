@@ -1,0 +1,8 @@
+id: parata-s-peace
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Parata's Peace"
+fish_count: 8
+related: [grip-killifish, silverfish, ignus-snail, sludgeskipper, boltfish, ilsabardian-bass, vampire-lampern, bat-o-nine-tails]
+tags: [fishing, spot, nature]
+status: stable

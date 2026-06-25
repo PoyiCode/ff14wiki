@@ -1,0 +1,8 @@
+id: kugane-piers
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Kugane Piers"
+fish_count: 7
+related: [grinning-anchovy, ruby-shrimp, striped-fugu, glass-tuna, hanatatsu, ribbon-eel, rising-dragon]
+tags: [fishing, spot, nature]
+status: stable

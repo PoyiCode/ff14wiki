@@ -1,0 +1,8 @@
+id: middle-hathoeva-river
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Middle Hathoeva River"
+fish_count: 9
+related: [rainbow-trout, dark-sleeper, five-ilm-pleco, yugr-am-salmon, mitten-crab, seema, armored-pleco, velodyna-carp, the-sinker]
+tags: [fishing, spot, nature]
+status: stable

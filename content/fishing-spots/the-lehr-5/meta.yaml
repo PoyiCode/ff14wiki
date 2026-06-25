@@ -1,0 +1,8 @@
+id: the-lehr-5
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Lehr"
+fish_count: 4
+related: [macrobrachium-phaennense, eelsplorer, cosmocaecilian, lehr-carp]
+tags: [fishing, spot, nature]
+status: stable

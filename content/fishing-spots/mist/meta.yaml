@@ -1,0 +1,8 @@
+id: mist
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Mist"
+fish_count: 9
+related: [harbor-herring, blue-octopus, blowfish, bianaq-bream, indigo-herring, ash-tuna, fullmoon-sardine, nautilus, twitchbeard]
+tags: [fishing, spot, nature]
+status: stable

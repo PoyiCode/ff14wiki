@@ -1,0 +1,8 @@
+id: delta-quadrant
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Delta Quadrant"
+fish_count: 7
+related: [fountfish, rockclimber, aether-eye, yalm-lobster, euphotic-pirarucu, pickled-pom, aphotic-pirarucu]
+tags: [fishing, spot, nature]
+status: stable

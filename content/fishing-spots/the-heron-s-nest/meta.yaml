@@ -1,0 +1,8 @@
+id: the-heron-s-nest
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Heron's Nest"
+fish_count: 4
+related: [doman-trout, doman-crayfish, maiden-s-heart, pomegranate-trout]
+tags: [fishing, spot, nature]
+status: stable

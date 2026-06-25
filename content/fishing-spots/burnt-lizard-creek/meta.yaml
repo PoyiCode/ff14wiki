@@ -1,0 +1,8 @@
+id: burnt-lizard-creek
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Burnt Lizard Creek"
+fish_count: 6
+related: [copperfish, warmwater-trout, dark-bass, lamprey, plaguefish, old-hollow-eyes]
+tags: [fishing, spot, nature]
+status: stable

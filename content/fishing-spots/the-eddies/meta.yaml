@@ -1,0 +1,8 @@
+id: the-eddies
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Eddies"
+fish_count: 8
+related: [hedgemole-cricket, cloudfish, bullfrog, yalm-lobster, vanuhead, catkiller, red-sky-coral, paikiller]
+tags: [fishing, spot, nature]
+status: stable

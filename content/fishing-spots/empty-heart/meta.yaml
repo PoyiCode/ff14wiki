@@ -1,0 +1,8 @@
+id: empty-heart
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Empty Heart"
+fish_count: 9
+related: [dusk-goby, crimson-crayfish, faerie-bass, acorn-snail, moat-carp, copperfish, eunuch-crayfish, grip-killifish, faerie-queen]
+tags: [fishing, spot, nature]
+status: stable

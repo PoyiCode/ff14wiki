@@ -1,0 +1,8 @@
+id: the-flounders-floor
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Flounders' Floor"
+fish_count: 6
+related: [stormfish, deep-purple-coral, caliban, bubble-angler, ondo-harpoon, ondo-sigh]
+tags: [fishing, spot, nature]
+status: stable

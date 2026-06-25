@@ -1,0 +1,8 @@
+id: bluefog
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Bluefog"
+fish_count: 10
+related: [bone-crayfish, silverfish, giant-bass, golden-loach, ignus-snail, knifefish, common-sculpin, garpike, alligator-garfish, hannibal]
+tags: [fishing, spot, nature]
+status: stable

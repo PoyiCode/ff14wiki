@@ -1,0 +1,8 @@
+id: northwest-caliban-gorge
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Northwest Caliban Gorge"
+fish_count: 8
+related: [stormfish, sycorax, caliban, hoodwinker, seatrap, sweetmeat-mussel, mora-tecta, lancetfish]
+tags: [fishing, spot, nature]
+status: stable

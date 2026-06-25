@@ -1,0 +1,8 @@
+id: miyakabek-zu
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Miyakabek'zu"
+fish_count: 6
+related: [kozama-uka-skipper, bopo-u-sleeper, candiru, trahira, driftwood-catfish, riverlong-candiru]
+tags: [fishing, spot, nature]
+status: stable

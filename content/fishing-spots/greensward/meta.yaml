@@ -1,0 +1,8 @@
+id: greensward
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Greensward"
+fish_count: 3
+related: [mogpom, moggle-mogpom, holier-than-mogpom]
+tags: [fishing, spot, nature]
+status: stable

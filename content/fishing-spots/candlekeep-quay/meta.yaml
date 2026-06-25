@@ -1,0 +1,8 @@
+id: candlekeep-quay
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Candlekeep Quay"
+fish_count: 8
+related: [lominsan-anchovy, vongola-clam, moraby-flounder, pebble-crab, tiger-cod, rothlyt-oyster, shall-shell, sabertooth-cod]
+tags: [fishing, spot, nature]
+status: stable

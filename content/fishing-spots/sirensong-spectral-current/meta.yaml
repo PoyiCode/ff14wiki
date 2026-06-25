@@ -1,0 +1,8 @@
+id: sirensong-spectral-current
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Sirensong Spectral Current"
+fish_count: 10
+related: [mermaid-scale, broadhead, vivid-pink-shrimp, sunken-coelacanth, siren-s-sigh, black-jawed-helicoprion, impostopus, jade-mantis-shrimp, nymeia-s-wheel, taniwha]
+tags: [fishing, spot, nature]
+status: stable

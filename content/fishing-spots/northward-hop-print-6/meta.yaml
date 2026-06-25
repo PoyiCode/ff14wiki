@@ -1,0 +1,8 @@
+id: northward-hop-print-6
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Northward Hop-print"
+fish_count: 6
+related: [melancholia, mooncrystal-perch, lunar-prismfish, hopping-goby, lunar-wolffish, platinum-bichir]
+tags: [fishing, spot, nature]
+status: stable

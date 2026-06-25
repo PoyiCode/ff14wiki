@@ -1,0 +1,8 @@
+id: lower-soda-lime-float-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "Lower Soda-lime Float"
+fish_count: 5
+related: [kissing-counterfeit, float-cloud, navy-coelacanth, iceglass-gar, moonstone-mora]
+tags: [fishing, spot, nature]
+status: stable

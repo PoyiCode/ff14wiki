@@ -1,0 +1,8 @@
+id: the-lehr-2
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Lehr"
+fish_count: 3
+related: [macrobrachium-phaennense, eelsplorer, lehr-brotula]
+tags: [fishing, spot, nature]
+status: stable

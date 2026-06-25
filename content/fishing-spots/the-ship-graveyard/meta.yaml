@@ -1,0 +1,8 @@
+id: the-ship-graveyard
+category: fishing-spots
+type: fishing_spot
+fishing_spot: "The Ship Graveyard"
+fish_count: 10
+related: [merlthor-goby, red-coral, wahoo, blacklip-oyster, pike-eel, mummer-wrasse, plaice, giant-squid, megalodon, frilled-shark]
+tags: [fishing, spot, nature]
+status: stable
