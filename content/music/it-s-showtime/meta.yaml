@@ -1,0 +1,6 @@
+id: it-s-showtime
+category: music
+type: orchestrion
+music: "It's Showtime!"
+tags: [music, orchestrion]
+status: stable

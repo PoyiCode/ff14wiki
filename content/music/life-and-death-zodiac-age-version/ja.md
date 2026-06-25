@@ -1,0 +1,6 @@
+---
+title: "死闘（Zodiac Age Version）"
+summary: "エオルゼアの楽曲。"
+---
+
+**死闘（Zodiac Age Version）**はFF14の楽曲（オーケストリオン譜）。住民が流したり口ずさんだり、プレイヤーと語り合ったりする一曲。ゲーム内の曲名：Life and Death (Zodiac Age Version)。

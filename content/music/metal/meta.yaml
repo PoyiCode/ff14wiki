@@ -1,0 +1,6 @@
+id: metal
+category: music
+type: orchestrion
+music: "Metal"
+tags: [music, orchestrion]
+status: stable

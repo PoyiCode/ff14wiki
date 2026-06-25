@@ -1,0 +1,6 @@
+---
+title: "Moonfire Faire"
+summary: "A piece of Eorzean music."
+---
+
+**Moonfire Faire** is a track from Final Fantasy XIV — an orchestrion roll a resident might play, hum, or chat about with players. In-game title: Moonfire Faire.

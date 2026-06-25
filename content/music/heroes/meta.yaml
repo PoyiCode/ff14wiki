@@ -1,0 +1,6 @@
+id: heroes
+category: music
+type: orchestrion
+music: "Heroes"
+tags: [music, orchestrion]
+status: stable

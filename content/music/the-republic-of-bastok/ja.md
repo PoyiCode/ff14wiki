@@ -1,0 +1,6 @@
+---
+title: "The Republic of Bastok"
+summary: "エオルゼアの楽曲。"
+---
+
+**The Republic of Bastok**はFF14の楽曲（オーケストリオン譜）。住民が流したり口ずさんだり、プレイヤーと語り合ったりする一曲。ゲーム内の曲名：The Republic of Bastok。

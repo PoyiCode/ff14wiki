@@ -1,0 +1,6 @@
+id: canticle
+category: music
+type: orchestrion
+music: "Canticle"
+tags: [music, orchestrion]
+status: stable

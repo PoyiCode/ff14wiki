@@ -1,0 +1,6 @@
+---
+title: "To Sail Forbidden Seas"
+summary: "エオルゼアの楽曲。"
+---
+
+**To Sail Forbidden Seas**はFF14の楽曲（オーケストリオン譜）。住民が流したり口ずさんだり、プレイヤーと語り合ったりする一曲。ゲーム内の曲名：To Sail Forbidden Seas。

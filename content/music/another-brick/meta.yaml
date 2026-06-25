@@ -1,0 +1,6 @@
+id: another-brick
+category: music
+type: orchestrion
+music: "Another Brick"
+tags: [music, orchestrion]
+status: stable

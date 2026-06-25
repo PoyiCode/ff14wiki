@@ -1,0 +1,6 @@
+---
+title: "偉大なる母港（Piano Collections）"
+summary: "エオルゼアの楽曲。"
+---
+
+**偉大なる母港（Piano Collections）**はFF14の楽曲（オーケストリオン譜）。住民が流したり口ずさんだり、プレイヤーと語り合ったりする一曲。ゲーム内の曲名：I Am the Sea (Piano Collections)。

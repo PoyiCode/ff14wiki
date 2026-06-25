@@ -130,6 +130,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The little minions that follow a resident around — companions that brighten daily life and a favourite thing for players to collect and chat about.',
     },
   },
+  {
+    key: 'music',
+    label: { 'zh-TW': '音樂', 'zh-CN': '音乐', ja: '音楽', en: 'Music' },
+    description: {
+      'zh-TW': '艾歐澤亞的樂曲（管弦樂機關／Orchestrion），讓 bot 能聊喜歡的曲子、哼歌、描述場景的配樂。',
+      'zh-CN': '艾欧泽亚的乐曲（管弦乐机关／Orchestrion），让 bot 能聊喜欢的曲子、哼歌、描述场景的配乐。',
+      ja: 'エオルゼアの楽曲（オーケストリオン）。botが好きな曲を語り、口ずさみ、情景の音楽を描けるように。',
+      en: 'The music of Eorzea (orchestrion rolls), so the bot can chat about favourite tracks, hum tunes, and describe the score of a scene.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);
