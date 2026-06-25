@@ -1,0 +1,7 @@
+id: veteran-jockey
+category: titles
+type: title
+title: "Veteran Jockey"
+placement: prefix
+tags: [title, identity]
+status: stable

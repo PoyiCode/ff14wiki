@@ -1,0 +1,7 @@
+id: sunforged
+category: titles
+type: title
+title: "Sunforged"
+placement: prefix
+tags: [title, identity]
+status: stable

@@ -1,0 +1,7 @@
+id: master-botanist
+category: titles
+type: title
+title: "Master Botanist"
+placement: prefix
+tags: [title, identity]
+status: stable

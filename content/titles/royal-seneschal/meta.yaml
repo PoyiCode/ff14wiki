@@ -1,0 +1,8 @@
+id: royal-seneschal
+category: titles
+type: title
+title: "Royal Seneschal"
+placement: prefix
+feminine: "Princess for a Day"
+tags: [title, identity]
+status: stable

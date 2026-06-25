@@ -1,0 +1,7 @@
+id: secret-finder
+category: titles
+type: title
+title: "Secret Finder"
+placement: prefix
+tags: [title, identity]
+status: stable

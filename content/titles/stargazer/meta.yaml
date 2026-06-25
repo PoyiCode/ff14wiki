@@ -1,0 +1,7 @@
+id: stargazer
+category: titles
+type: title
+title: "Stargazer"
+placement: prefix
+tags: [title, identity]
+status: stable

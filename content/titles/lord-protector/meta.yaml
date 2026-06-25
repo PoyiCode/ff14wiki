@@ -1,0 +1,8 @@
+id: lord-protector
+category: titles
+type: title
+title: "Lord Protector"
+placement: prefix
+feminine: "Lady Protector"
+tags: [title, identity]
+status: stable

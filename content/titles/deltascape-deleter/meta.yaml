@@ -1,0 +1,7 @@
+id: deltascape-deleter
+category: titles
+type: title
+title: "Deltascape Deleter"
+placement: prefix
+tags: [title, identity]
+status: stable

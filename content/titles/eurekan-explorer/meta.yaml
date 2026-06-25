@@ -1,0 +1,7 @@
+id: eurekan-explorer
+category: titles
+type: title
+title: "Eurekan Explorer"
+placement: prefix
+tags: [title, identity]
+status: stable

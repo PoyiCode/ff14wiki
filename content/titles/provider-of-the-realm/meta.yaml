@@ -1,0 +1,7 @@
+id: provider-of-the-realm
+category: titles
+type: title
+title: "Provider of the Realm"
+placement: suffix
+tags: [title, identity]
+status: stable

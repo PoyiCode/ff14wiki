@@ -1,0 +1,7 @@
+id: bronze-bearer
+category: titles
+type: title
+title: "Bronze Bearer"
+placement: prefix
+tags: [title, identity]
+status: stable

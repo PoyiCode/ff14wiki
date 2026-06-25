@@ -1,0 +1,7 @@
+id: minion-collector
+category: titles
+type: title
+title: "Minion Collector"
+placement: prefix
+tags: [title, identity]
+status: stable

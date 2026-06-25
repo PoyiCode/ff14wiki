@@ -1,0 +1,7 @@
+id: treasure-hunter
+category: titles
+type: title
+title: "Treasure Hunter"
+placement: prefix
+tags: [title, identity]
+status: stable

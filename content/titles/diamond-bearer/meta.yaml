@@ -1,0 +1,7 @@
+id: diamond-bearer
+category: titles
+type: title
+title: "Diamond Bearer"
+placement: prefix
+tags: [title, identity]
+status: stable

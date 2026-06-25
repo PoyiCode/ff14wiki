@@ -1,0 +1,7 @@
+id: tank-technician
+category: titles
+type: title
+title: "Tank Technician"
+placement: prefix
+tags: [title, identity]
+status: stable

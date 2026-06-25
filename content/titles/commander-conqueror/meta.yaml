@@ -1,0 +1,7 @@
+id: commander-conqueror
+category: titles
+type: title
+title: "Commander Conqueror"
+placement: prefix
+tags: [title, identity]
+status: stable

@@ -1,0 +1,7 @@
+id: moneybags
+category: titles
+type: title
+title: "Moneybags"
+placement: prefix
+tags: [title, identity]
+status: stable

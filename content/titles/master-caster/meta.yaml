@@ -1,0 +1,7 @@
+id: master-caster
+category: titles
+type: title
+title: "Master Caster"
+placement: prefix
+tags: [title, identity]
+status: stable

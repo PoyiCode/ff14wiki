@@ -1,0 +1,7 @@
+id: lone-hero
+category: titles
+type: title
+title: "Lone Hero"
+placement: prefix
+tags: [title, identity]
+status: stable

@@ -1,0 +1,7 @@
+id: peacemaker
+category: titles
+type: title
+title: "Peacemaker"
+placement: prefix
+tags: [title, identity]
+status: stable

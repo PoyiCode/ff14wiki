@@ -1,0 +1,7 @@
+id: gambler
+category: titles
+type: title
+title: "Gambler"
+placement: prefix
+tags: [title, identity]
+status: stable

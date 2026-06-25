@@ -1,0 +1,7 @@
+id: drone-sniper
+category: titles
+type: title
+title: "Drone Sniper"
+placement: prefix
+tags: [title, identity]
+status: stable

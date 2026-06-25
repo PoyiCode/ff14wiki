@@ -1,0 +1,8 @@
+id: the-luckiest-of-lords
+category: titles
+type: title
+title: "The Luckiest of Lords"
+placement: suffix
+feminine: "The Luckiest of Ladies"
+tags: [title, identity]
+status: stable

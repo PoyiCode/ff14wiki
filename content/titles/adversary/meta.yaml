@@ -1,0 +1,7 @@
+id: adversary
+category: titles
+type: title
+title: "Adversary"
+placement: prefix
+tags: [title, identity]
+status: stable

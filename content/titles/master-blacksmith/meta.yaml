@@ -1,0 +1,7 @@
+id: master-blacksmith
+category: titles
+type: title
+title: "Master Blacksmith"
+placement: prefix
+tags: [title, identity]
+status: stable

@@ -1,0 +1,7 @@
+id: hoarder
+category: titles
+type: title
+title: "Hoarder"
+placement: prefix
+tags: [title, identity]
+status: stable

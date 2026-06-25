@@ -1,0 +1,7 @@
+id: storm-forerunner
+category: titles
+type: title
+title: "Storm Forerunner"
+placement: prefix
+tags: [title, identity]
+status: stable

@@ -1,0 +1,7 @@
+id: sovereign-hero
+category: titles
+type: title
+title: "Sovereign Hero"
+placement: prefix
+tags: [title, identity]
+status: stable

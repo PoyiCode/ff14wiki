@@ -1,0 +1,7 @@
+id: secret-keeper
+category: titles
+type: title
+title: "Secret Keeper"
+placement: prefix
+tags: [title, identity]
+status: stable

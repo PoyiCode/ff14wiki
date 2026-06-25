@@ -1,0 +1,8 @@
+id: canal-lord
+category: titles
+type: title
+title: "Canal Lord"
+placement: prefix
+feminine: "Canal Lady"
+tags: [title, identity]
+status: stable

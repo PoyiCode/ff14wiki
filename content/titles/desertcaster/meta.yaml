@@ -1,0 +1,7 @@
+id: desertcaster
+category: titles
+type: title
+title: "Desertcaster"
+placement: prefix
+tags: [title, identity]
+status: stable

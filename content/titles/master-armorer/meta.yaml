@@ -1,0 +1,7 @@
+id: master-armorer
+category: titles
+type: title
+title: "Master Armorer"
+placement: prefix
+tags: [title, identity]
+status: stable

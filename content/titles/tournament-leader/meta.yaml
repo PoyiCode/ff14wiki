@@ -1,0 +1,7 @@
+id: tournament-leader
+category: titles
+type: title
+title: "Tournament Leader"
+placement: prefix
+tags: [title, identity]
+status: stable

@@ -1,0 +1,7 @@
+id: inquisitor
+category: titles
+type: title
+title: "Inquisitor"
+placement: prefix
+tags: [title, identity]
+status: stable

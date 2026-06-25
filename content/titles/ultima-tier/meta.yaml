@@ -1,0 +1,7 @@
+id: ultima-tier
+category: titles
+type: title
+title: "Ultima Tier"
+placement: prefix
+tags: [title, identity]
+status: stable

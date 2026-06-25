@@ -1,0 +1,8 @@
+id: lord-of-the-fetch
+category: titles
+type: title
+title: "Lord of the Fetch"
+placement: suffix
+feminine: "Lady of the Fetch"
+tags: [title, identity]
+status: stable

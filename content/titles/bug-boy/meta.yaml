@@ -1,0 +1,8 @@
+id: bug-boy
+category: titles
+type: title
+title: "Bug Boy"
+placement: prefix
+feminine: "Bug Girl"
+tags: [title, identity]
+status: stable

@@ -1,0 +1,7 @@
+id: dreadspawn
+category: titles
+type: title
+title: "Dreadspawn"
+placement: suffix
+tags: [title, identity]
+status: stable

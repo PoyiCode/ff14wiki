@@ -1,0 +1,7 @@
+id: taco-hero
+category: titles
+type: title
+title: "Taco Hero"
+placement: prefix
+tags: [title, identity]
+status: stable

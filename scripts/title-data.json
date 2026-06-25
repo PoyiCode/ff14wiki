@@ -1,0 +1,9703 @@
+[
+ {
+  "slug": "the-insatiable",
+  "en": "The Insatiable",
+  "prefix": false,
+  "n": {
+   "en": "The Insatiable",
+   "zh-CN": "永无止境",
+   "ja": "the Insatiable",
+   "zh-TW": "永無止境"
+  }
+ },
+ {
+  "slug": "the-true",
+  "en": "The True",
+  "prefix": false,
+  "n": {
+   "en": "The True",
+   "zh-CN": "忠诚",
+   "ja": "the True",
+   "zh-TW": "忠誠"
+  }
+ },
+ {
+  "slug": "coeurlfist",
+  "en": "Coeurlfist",
+  "prefix": true,
+  "n": {
+   "en": "Coeurlfist",
+   "zh-CN": "豹拳",
+   "ja": "Coeurlfist",
+   "zh-TW": "豹拳"
+  }
+ },
+ {
+  "slug": "ironeater",
+  "en": "Ironeater",
+  "prefix": true,
+  "n": {
+   "en": "Ironeater",
+   "zh-CN": "斩铁",
+   "ja": "Ironeater",
+   "zh-TW": "斬鐵"
+  }
+ },
+ {
+  "slug": "of-the-vengeful-lance",
+  "en": "Of the Vengeful Lance",
+  "prefix": false,
+  "n": {
+   "en": "Of the Vengeful Lance",
+   "zh-CN": "雪恨",
+   "ja": "of the Vengeful Lance",
+   "zh-TW": "雪恨"
+  }
+ },
+ {
+  "slug": "the-godsbow",
+  "en": "The Godsbow",
+  "prefix": false,
+  "n": {
+   "en": "The Godsbow",
+   "zh-CN": "天弓",
+   "ja": "the Godsbow",
+   "zh-TW": "天弓"
+  }
+ },
+ {
+  "slug": "the-white",
+  "en": "The White",
+  "prefix": false,
+  "n": {
+   "en": "The White",
+   "zh-CN": "纯白",
+   "ja": "the White",
+   "zh-TW": "純白"
+  }
+ },
+ {
+  "slug": "starcaller",
+  "en": "Starcaller",
+  "prefix": true,
+  "n": {
+   "en": "Starcaller",
+   "zh-CN": "召星",
+   "ja": "Starcaller",
+   "zh-TW": "召星"
+  }
+ },
+ {
+  "slug": "the-exterminator",
+  "en": "The Exterminator",
+  "prefix": false,
+  "n": {
+   "en": "The Exterminator",
+   "zh-CN": "嗜血",
+   "ja": "Exterminator",
+   "zh-TW": "嗜血"
+  }
+ },
+ {
+  "slug": "notorious-monster-hunter",
+  "en": "Notorious Monster Hunter",
+  "prefix": true,
+  "n": {
+   "en": "Notorious Monster Hunter",
+   "zh-CN": "精英杀手",
+   "ja": "Notorious Monster Hunter",
+   "zh-TW": "精英殺手"
+  }
+ },
+ {
+  "slug": "honest-gillionaire",
+  "en": "Honest Gillionaire",
+  "prefix": true,
+  "n": {
+   "en": "Honest Gillionaire",
+   "zh-CN": "仁心之富",
+   "ja": "Honest Adventurer",
+   "zh-TW": "仁心之富"
+  }
+ },
+ {
+  "slug": "ruthless-gillionaire",
+  "en": "Ruthless Gillionaire",
+  "prefix": true,
+  "n": {
+   "en": "Ruthless Gillionaire",
+   "zh-CN": "冷血之富",
+   "ja": "Scavenger",
+   "zh-TW": "冷血之富"
+  }
+ },
+ {
+  "slug": "warmonger",
+  "en": "Warmonger",
+  "prefix": true,
+  "n": {
+   "en": "Warmonger",
+   "zh-CN": "尚武",
+   "ja": "Master Fighter",
+   "zh-TW": "尚武"
+  }
+ },
+ {
+  "slug": "archmage",
+  "en": "Archmage",
+  "prefix": true,
+  "n": {
+   "en": "Archmage",
+   "zh-CN": "御魔",
+   "ja": "Master Sorcerer",
+   "zh-TW": "御魔"
+  }
+ },
+ {
+  "slug": "builder-of-the-realm",
+  "en": "Builder of the Realm",
+  "prefix": false,
+  "n": {
+   "en": "Builder of the Realm",
+   "zh-CN": "博学",
+   "ja": "Master Crafter",
+   "zh-TW": "博學"
+  }
+ },
+ {
+  "slug": "provider-of-the-realm",
+  "en": "Provider of the Realm",
+  "prefix": false,
+  "n": {
+   "en": "Provider of the Realm",
+   "zh-CN": "广识",
+   "ja": "Master Gatherer",
+   "zh-TW": "廣識"
+  }
+ },
+ {
+  "slug": "of-the-golden-saw",
+  "en": "Of the Golden Saw",
+  "prefix": false,
+  "n": {
+   "en": "Of the Golden Saw",
+   "zh-CN": "刻木金锯",
+   "ja": "of the Golden Saw",
+   "zh-TW": "刻木金鋸"
+  }
+ },
+ {
+  "slug": "of-the-golden-anvil",
+  "en": "Of the Golden Anvil",
+  "prefix": false,
+  "n": {
+   "en": "Of the Golden Anvil",
+   "zh-CN": "锻铁金砧",
+   "ja": "of the Golden Anvil",
+   "zh-TW": "鍛鐵金砧"
+  }
+ },
+ {
+  "slug": "of-the-golden-hammer",
+  "en": "Of the Golden Hammer",
+  "prefix": false,
+  "n": {
+   "en": "Of the Golden Hammer",
+   "zh-CN": "铸甲金锤",
+   "ja": "of the Golden Hammer",
+   "zh-TW": "鑄甲金錘"
+  }
+ },
+ {
+  "slug": "of-the-golden-leaf",
+  "en": "Of the Golden Leaf",
+  "prefix": false,
+  "n": {
+   "en": "Of the Golden Leaf",
+   "zh-CN": "雕金金板",
+   "ja": "of the Golden Leaf",
+   "zh-TW": "雕金金板"
+  }
+ },
+ {
+  "slug": "of-the-golden-hide",
+  "en": "Of the Golden Hide",
+  "prefix": false,
+  "n": {
+   "en": "Of the Golden Hide",
+   "zh-CN": "制革金刀",
+   "ja": "of the Golden Hide",
+   "zh-TW": "製革金刀"
+  }
+ },
+ {
+  "slug": "of-the-golden-needle",
+  "en": "Of the Golden Needle",
+  "prefix": false,
+  "n": {
+   "en": "Of the Golden Needle",
+   "zh-CN": "裁衣金针",
+   "ja": "of the Golden Needle",
+   "zh-TW": "裁衣金針"
+  }
+ },
+ {
+  "slug": "of-the-golden-lead",
+  "en": "Of the Golden Lead",
+  "prefix": false,
+  "n": {
+   "en": "Of the Golden Lead",
+   "zh-CN": "炼金金瓶",
+   "ja": "of the Golden Lead",
+   "zh-TW": "鍊金金瓶"
+  }
+ },
+ {
+  "slug": "of-the-golden-ladle",
+  "en": "Of the Golden Ladle",
+  "prefix": false,
+  "n": {
+   "en": "Of the Golden Ladle",
+   "zh-CN": "烹饪金勺",
+   "ja": "of the Golden Ladle",
+   "zh-TW": "烹飪金勺"
+  }
+ },
+ {
+  "slug": "meadowbreaker",
+  "en": "Meadowbreaker",
+  "prefix": true,
+  "n": {
+   "en": "Meadowbreaker",
+   "zh-CN": "碧海采掘之王",
+   "ja": "La Noscea Digger",
+   "zh-TW": "碧海採掘之王"
+  },
+  "fem": {
+   "zh-CN": "碧海采掘女王",
+   "zh-TW": "碧海採掘女王"
+  }
+ },
+ {
+  "slug": "forestbreaker",
+  "en": "Forestbreaker",
+  "prefix": true,
+  "n": {
+   "en": "Forestbreaker",
+   "zh-CN": "密林采掘之王",
+   "ja": "Shroud Digger",
+   "zh-TW": "密林採掘之王"
+  },
+  "fem": {
+   "zh-CN": "密林采掘女王",
+   "zh-TW": "密林採掘女王"
+  }
+ },
+ {
+  "slug": "desertbreaker",
+  "en": "Desertbreaker",
+  "prefix": true,
+  "n": {
+   "en": "Desertbreaker",
+   "zh-CN": "黄沙采掘之王",
+   "ja": "Thanalan Digger",
+   "zh-TW": "黃沙採掘之王"
+  },
+  "fem": {
+   "zh-CN": "黄沙采掘女王",
+   "zh-TW": "黃沙採掘女王"
+  }
+ },
+ {
+  "slug": "of-the-meadow-mines",
+  "en": "Of the Meadow Mines",
+  "prefix": false,
+  "n": {
+   "en": "Of the Meadow Mines",
+   "zh-CN": "碧海碎石之王",
+   "ja": "La Noscea Crusher",
+   "zh-TW": "碧海碎石之王"
+  },
+  "fem": {
+   "zh-CN": "碧海碎石女王",
+   "zh-TW": "碧海碎石女王"
+  }
+ },
+ {
+  "slug": "of-the-forest-mines",
+  "en": "Of the Forest Mines",
+  "prefix": false,
+  "n": {
+   "en": "Of the Forest Mines",
+   "zh-CN": "密林碎石之王",
+   "ja": "Shroud Crusher",
+   "zh-TW": "密林碎石之王"
+  },
+  "fem": {
+   "zh-CN": "密林碎石女王",
+   "zh-TW": "密林碎石女王"
+  }
+ },
+ {
+  "slug": "of-the-desert-mines",
+  "en": "Of the Desert Mines",
+  "prefix": false,
+  "n": {
+   "en": "Of the Desert Mines",
+   "zh-CN": "黄沙碎石之王",
+   "ja": "Thanalan Crusher",
+   "zh-TW": "黃沙碎石之王"
+  },
+  "fem": {
+   "zh-CN": "黄沙碎石女王",
+   "zh-TW": "黃沙碎石女王"
+  }
+ },
+ {
+  "slug": "meadowreaper",
+  "en": "Meadowreaper",
+  "prefix": true,
+  "n": {
+   "en": "Meadowreaper",
+   "zh-CN": "碧海采伐之王",
+   "ja": "La Noscea Logger",
+   "zh-TW": "碧海採伐之王"
+  },
+  "fem": {
+   "zh-CN": "碧海采伐女王",
+   "zh-TW": "碧海採伐女王"
+  }
+ },
+ {
+  "slug": "forestreaper",
+  "en": "Forestreaper",
+  "prefix": true,
+  "n": {
+   "en": "Forestreaper",
+   "zh-CN": "密林采伐之王",
+   "ja": "Shroud Logger",
+   "zh-TW": "密林採伐之王"
+  },
+  "fem": {
+   "zh-CN": "密林采伐女王",
+   "zh-TW": "密林採伐女王"
+  }
+ },
+ {
+  "slug": "desertreaper",
+  "en": "Desertreaper",
+  "prefix": true,
+  "n": {
+   "en": "Desertreaper",
+   "zh-CN": "黄沙采伐之王",
+   "ja": "Thanalan Logger",
+   "zh-TW": "黃沙採伐之王"
+  },
+  "fem": {
+   "zh-CN": "黄沙采伐女王",
+   "zh-TW": "黃沙採伐女王"
+  }
+ },
+ {
+  "slug": "of-the-meadow-grasses",
+  "en": "Of the Meadow Grasses",
+  "prefix": false,
+  "n": {
+   "en": "Of the Meadow Grasses",
+   "zh-CN": "碧海割草之王",
+   "ja": "La Noscea Harvester",
+   "zh-TW": "碧海割草之王"
+  },
+  "fem": {
+   "zh-CN": "碧海割草女王",
+   "zh-TW": "碧海割草女王"
+  }
+ },
+ {
+  "slug": "of-the-forest-grasses",
+  "en": "Of the Forest Grasses",
+  "prefix": false,
+  "n": {
+   "en": "Of the Forest Grasses",
+   "zh-CN": "密林割草之王",
+   "ja": "Shroud Harvester",
+   "zh-TW": "密林割草之王"
+  },
+  "fem": {
+   "zh-CN": "密林割草女王",
+   "zh-TW": "密林割草女王"
+  }
+ },
+ {
+  "slug": "of-the-desert-grasses",
+  "en": "Of the Desert Grasses",
+  "prefix": false,
+  "n": {
+   "en": "Of the Desert Grasses",
+   "zh-CN": "黄沙割草之王",
+   "ja": "Thanalan Harvester",
+   "zh-TW": "黃沙割草之王"
+  },
+  "fem": {
+   "zh-CN": "黄沙割草女王",
+   "zh-TW": "黃沙割草女王"
+  }
+ },
+ {
+  "slug": "meadowcaster",
+  "en": "Meadowcaster",
+  "prefix": true,
+  "n": {
+   "en": "Meadowcaster",
+   "zh-CN": "碧海钓鱼之王",
+   "ja": "La Noscea Angler",
+   "zh-TW": "碧海釣魚之王"
+  },
+  "fem": {
+   "zh-CN": "碧海钓鱼女王",
+   "zh-TW": "碧海釣魚女王"
+  }
+ },
+ {
+  "slug": "forestcaster",
+  "en": "Forestcaster",
+  "prefix": true,
+  "n": {
+   "en": "Forestcaster",
+   "zh-CN": "密林钓鱼之王",
+   "ja": "Shroud Angler",
+   "zh-TW": "密林釣魚之王"
+  },
+  "fem": {
+   "zh-CN": "密林钓鱼女王",
+   "zh-TW": "密林釣魚女王"
+  }
+ },
+ {
+  "slug": "desertcaster",
+  "en": "Desertcaster",
+  "prefix": true,
+  "n": {
+   "en": "Desertcaster",
+   "zh-CN": "黄沙钓鱼之王",
+   "ja": "Thanalan Angler",
+   "zh-TW": "黃沙釣魚之王"
+  },
+  "fem": {
+   "zh-CN": "黄沙钓鱼女王",
+   "zh-TW": "黃沙釣魚女王"
+  }
+ },
+ {
+  "slug": "of-the-meadow-pools",
+  "en": "Of the Meadow Pools",
+  "prefix": false,
+  "n": {
+   "en": "Of the Meadow Pools",
+   "zh-CN": "碧海刺鱼之王",
+   "ja": "La Noscea Harpooner",
+   "zh-TW": "碧海刺魚之王"
+  },
+  "fem": {
+   "zh-CN": "碧海刺鱼女王",
+   "zh-TW": "碧海刺魚女王"
+  }
+ },
+ {
+  "slug": "of-the-forest-pools",
+  "en": "Of the Forest Pools",
+  "prefix": false,
+  "n": {
+   "en": "Of the Forest Pools",
+   "zh-CN": "密林刺鱼之王",
+   "ja": "Shroud Harpooner",
+   "zh-TW": "密林刺魚之王"
+  },
+  "fem": {
+   "zh-CN": "密林刺鱼女王",
+   "zh-TW": "密林刺魚女王"
+  }
+ },
+ {
+  "slug": "of-the-desert-pools",
+  "en": "Of the Desert Pools",
+  "prefix": false,
+  "n": {
+   "en": "Of the Desert Pools",
+   "zh-CN": "黄沙刺鱼之王",
+   "ja": "Thanalan Harpooner",
+   "zh-TW": "黃沙刺魚之王"
+  },
+  "fem": {
+   "zh-CN": "黄沙刺鱼女王",
+   "zh-TW": "黃沙刺魚女王"
+  }
+ },
+ {
+  "slug": "carrier-of-the-cauldron",
+  "en": "Carrier of the Cauldron",
+  "prefix": false,
+  "n": {
+   "en": "Carrier of the Cauldron",
+   "zh-CN": "镶嵌专家",
+   "ja": "Carrier of the Cauldron",
+   "zh-TW": "鑲嵌專家"
+  }
+ },
+ {
+  "slug": "the-assimilator",
+  "en": "The Assimilator",
+  "prefix": false,
+  "n": {
+   "en": "The Assimilator",
+   "zh-CN": "物质变换",
+   "ja": "the Materia Master",
+   "zh-TW": "物質變換"
+  }
+ },
+ {
+  "slug": "seeker-of-blood",
+  "en": "Seeker of Blood",
+  "prefix": false,
+  "n": {
+   "en": "Seeker of Blood",
+   "zh-CN": "血战",
+   "ja": "Expert Fighter",
+   "zh-TW": "血戰"
+  }
+ },
+ {
+  "slug": "seeker-of-truth",
+  "en": "Seeker of Truth",
+  "prefix": false,
+  "n": {
+   "en": "Seeker of Truth",
+   "zh-CN": "学识",
+   "ja": "Expert Sorcerer",
+   "zh-TW": "學識"
+  }
+ },
+ {
+  "slug": "seeker-of-skill",
+  "en": "Seeker of Skill",
+  "prefix": false,
+  "n": {
+   "en": "Seeker of Skill",
+   "zh-CN": "工艺",
+   "ja": "Expert Crafter",
+   "zh-TW": "工藝"
+  }
+ },
+ {
+  "slug": "seeker-of-bounty",
+  "en": "Seeker of Bounty",
+  "prefix": false,
+  "n": {
+   "en": "Seeker of Bounty",
+   "zh-CN": "平衡",
+   "ja": "Expert Gatherer",
+   "zh-TW": "平衡"
+  }
+ },
+ {
+  "slug": "sidestepper",
+  "en": "Sidestepper",
+  "prefix": true,
+  "n": {
+   "en": "Sidestepper",
+   "zh-CN": "热心肠",
+   "ja": "the Helping Hand",
+   "zh-TW": "熱心腸"
+  }
+ },
+ {
+  "slug": "lord-protector",
+  "en": "Lord Protector",
+  "prefix": true,
+  "n": {
+   "en": "Lord Protector",
+   "zh-CN": "百战历练",
+   "ja": "Veteran Mercenary",
+   "zh-TW": "百戰歷練"
+  },
+  "fem": {
+   "en": "Lady Protector"
+  }
+ },
+ {
+  "slug": "lord-creator",
+  "en": "Lord Creator",
+  "prefix": true,
+  "n": {
+   "en": "Lord Creator",
+   "zh-CN": "天衣无缝",
+   "ja": "Master Craftsman",
+   "zh-TW": "天衣無縫"
+  },
+  "fem": {
+   "en": "Lady Creator",
+   "ja": "Master Craftswoman"
+  }
+ },
+ {
+  "slug": "peacemaker",
+  "en": "Peacemaker",
+  "prefix": true,
+  "n": {
+   "en": "Peacemaker",
+   "zh-CN": "维和之人",
+   "ja": "Peacemaker",
+   "zh-TW": "維和之人"
+  }
+ },
+ {
+  "slug": "the-last-resort",
+  "en": "The Last Resort",
+  "prefix": false,
+  "n": {
+   "en": "The Last Resort",
+   "zh-CN": "王牌之兵",
+   "ja": "the Last Resort",
+   "zh-TW": "王牌之兵"
+  }
+ },
+ {
+  "slug": "the-sword-of-la-noscea",
+  "en": "The Sword of La Noscea",
+  "prefix": false,
+  "n": {
+   "en": "The Sword of La Noscea",
+   "zh-CN": "拉诺西亚之利剑",
+   "ja": "Sword of La Noscea",
+   "zh-TW": "拉諾西亞之利劍"
+  }
+ },
+ {
+  "slug": "the-sword-of-the-shroud",
+  "en": "The Sword of the Shroud",
+  "prefix": false,
+  "n": {
+   "en": "The Sword of the Shroud",
+   "zh-CN": "黑衣森林之利剑",
+   "ja": "Sword of the Shroud",
+   "zh-TW": "黑衣森林之利劍"
+  }
+ },
+ {
+  "slug": "the-sword-of-thanalan",
+  "en": "The Sword of Thanalan",
+  "prefix": false,
+  "n": {
+   "en": "The Sword of Thanalan",
+   "zh-CN": "萨纳兰之利剑",
+   "ja": "Sword of Thanalan",
+   "zh-TW": "薩納蘭之利劍"
+  }
+ },
+ {
+  "slug": "the-sword-of-eorzea",
+  "en": "The Sword of Eorzea",
+  "prefix": false,
+  "n": {
+   "en": "The Sword of Eorzea",
+   "zh-CN": "艾欧泽亚之利剑",
+   "ja": "Sword of Eorzea",
+   "zh-TW": "艾歐澤亞之利劍"
+  }
+ },
+ {
+  "slug": "the-shield-of-la-noscea",
+  "en": "The Shield of La Noscea",
+  "prefix": false,
+  "n": {
+   "en": "The Shield of La Noscea",
+   "zh-CN": "拉诺西亚之坚盾",
+   "ja": "Shield of La Noscea",
+   "zh-TW": "拉諾西亞之堅盾"
+  }
+ },
+ {
+  "slug": "the-shield-of-the-shroud",
+  "en": "The Shield of the Shroud",
+  "prefix": false,
+  "n": {
+   "en": "The Shield of the Shroud",
+   "zh-CN": "黑衣森林之坚盾",
+   "ja": "Shield of the Shroud",
+   "zh-TW": "黑衣森林之堅盾"
+  }
+ },
+ {
+  "slug": "the-shield-of-thanalan",
+  "en": "The Shield of Thanalan",
+  "prefix": false,
+  "n": {
+   "en": "The Shield of Thanalan",
+   "zh-CN": "萨纳兰之坚盾",
+   "ja": "Shield of Thanalan",
+   "zh-TW": "薩納蘭之堅盾"
+  }
+ },
+ {
+  "slug": "the-shield-of-eorzea",
+  "en": "The Shield of Eorzea",
+  "prefix": false,
+  "n": {
+   "en": "The Shield of Eorzea",
+   "zh-CN": "艾欧泽亚之坚盾",
+   "ja": "Shield of Eorzea",
+   "zh-TW": "艾歐澤亞之堅盾"
+  }
+ },
+ {
+  "slug": "brother-of-the-broken-blade",
+  "en": "Brother of the Broken Blade",
+  "prefix": true,
+  "n": {
+   "en": "Brother of the Broken Blade",
+   "zh-CN": "破刃之剑",
+   "ja": "Brother of the Broken Blade",
+   "zh-TW": "破刃之劍"
+  },
+  "fem": {
+   "en": "Sister of the Broken Blade",
+   "ja": "Sister of the Broken Blade"
+  }
+ },
+ {
+  "slug": "the-warden-s-wall",
+  "en": "The Warden's Wall",
+  "prefix": false,
+  "n": {
+   "en": "The Warden's Wall",
+   "zh-CN": "阿泽玛之盾",
+   "ja": "Shield of the Warden",
+   "zh-TW": "阿澤瑪之盾"
+  }
+ },
+ {
+  "slug": "bearer-of-the-horn",
+  "en": "Bearer of the Horn",
+  "prefix": true,
+  "n": {
+   "en": "Bearer of the Horn",
+   "zh-CN": "独角之手",
+   "ja": "Eye of the Hand",
+   "zh-TW": "獨角之手"
+  }
+ },
+ {
+  "slug": "the-uncommitted",
+  "en": "The Uncommitted",
+  "prefix": false,
+  "n": {
+   "en": "The Uncommitted",
+   "zh-CN": "正义",
+   "ja": "Hammer of Justice",
+   "zh-TW": "正義"
+  }
+ },
+ {
+  "slug": "the-professional",
+  "en": "The Professional",
+  "prefix": false,
+  "n": {
+   "en": "The Professional",
+   "zh-CN": "专家",
+   "ja": "the Tristar",
+   "zh-TW": "專家"
+  }
+ },
+ {
+  "slug": "inquisitor",
+  "en": "Inquisitor",
+  "prefix": true,
+  "n": {
+   "en": "Inquisitor",
+   "zh-CN": "无神论者",
+   "ja": "Inquisitor",
+   "zh-TW": "無神論者"
+  }
+ },
+ {
+  "slug": "divine-crusher",
+  "en": "Divine Crusher",
+  "prefix": true,
+  "n": {
+   "en": "Divine Crusher",
+   "zh-CN": "断剑之人",
+   "ja": "Divine Crusher",
+   "zh-TW": "斷劍之人"
+  }
+ },
+ {
+  "slug": "stonesplitter",
+  "en": "Stonesplitter",
+  "prefix": true,
+  "n": {
+   "en": "Stonesplitter",
+   "zh-CN": "不碎之岩",
+   "ja": "Stonesplitter",
+   "zh-TW": "不碎之巖"
+  }
+ },
+ {
+  "slug": "a-kobold-s-worst-nightmare",
+  "en": "A Kobold's Worst Nightmare",
+  "prefix": false,
+  "n": {
+   "en": "A Kobold's Worst Nightmare",
+   "zh-CN": "地灵克星",
+   "ja": "A Kobold's Worst Nightmare",
+   "zh-TW": "地靈剋星"
+  }
+ },
+ {
+  "slug": "an-ixal-s-worst-nightmare",
+  "en": "An Ixal's Worst Nightmare",
+  "prefix": false,
+  "n": {
+   "en": "An Ixal's Worst Nightmare",
+   "zh-CN": "鸟人克星",
+   "ja": "An Ixal's Worst Nightmare",
+   "zh-TW": "鳥人剋星"
+  }
+ },
+ {
+  "slug": "an-amalj-aa-s-worst-nightmare",
+  "en": "An Amalj'aa's Worst Nightmare",
+  "prefix": false,
+  "n": {
+   "en": "An Amalj'aa's Worst Nightmare",
+   "zh-CN": "蜥蜴人克星",
+   "ja": "An Amalj'aa's Worst Nightmare",
+   "zh-TW": "蜥蜴人剋星"
+  }
+ },
+ {
+  "slug": "the-guardian-of-aleport",
+  "en": "The Guardian of Aleport",
+  "prefix": false,
+  "n": {
+   "en": "The Guardian of Aleport",
+   "zh-CN": "小麦酒港之卫",
+   "ja": "the Guardian of Aleport",
+   "zh-TW": "小麥酒港之衛"
+  }
+ },
+ {
+  "slug": "the-guardian-of-hyrstmill",
+  "en": "The Guardian of Hyrstmill",
+  "prefix": false,
+  "n": {
+   "en": "The Guardian of Hyrstmill",
+   "zh-CN": "林场水车之卫",
+   "ja": "the Guardian of Hyrstmill",
+   "zh-TW": "林場水車之衛"
+  }
+ },
+ {
+  "slug": "the-guardian-of-the-golden-bazaar",
+  "en": "The Guardian of the Golden Bazaar",
+  "prefix": false,
+  "n": {
+   "en": "The Guardian of the Golden Bazaar",
+   "zh-CN": "黄金集市之卫",
+   "ja": "the Guardian of the Golden Bazaar",
+   "zh-TW": "黃金集市之衛"
+  }
+ },
+ {
+  "slug": "the-wind-of-aleport",
+  "en": "The Wind of Aleport",
+  "prefix": false,
+  "n": {
+   "en": "The Wind of Aleport",
+   "zh-CN": "小麦酒港之风",
+   "ja": "the Wind of Aleport",
+   "zh-TW": "小麥酒港之風"
+  }
+ },
+ {
+  "slug": "the-wind-of-hyrstmill",
+  "en": "The Wind of Hyrstmill",
+  "prefix": false,
+  "n": {
+   "en": "The Wind of Hyrstmill",
+   "zh-CN": "林场水车之风",
+   "ja": "the Wind of Hyrstmill",
+   "zh-TW": "林場水車之風"
+  }
+ },
+ {
+  "slug": "the-wind-of-the-golden-bazaar",
+  "en": "The Wind of the Golden Bazaar",
+  "prefix": false,
+  "n": {
+   "en": "The Wind of the Golden Bazaar",
+   "zh-CN": "黄金集市之风",
+   "ja": "the Wind of the Golden Bazaar",
+   "zh-TW": "黃金集市之風"
+  }
+ },
+ {
+  "slug": "the-hand-of-aleport",
+  "en": "The Hand of Aleport",
+  "prefix": false,
+  "n": {
+   "en": "The Hand of Aleport",
+   "zh-CN": "小麦酒港之手",
+   "ja": "the Hand of Aleport",
+   "zh-TW": "小麥酒港之手"
+  }
+ },
+ {
+  "slug": "the-hand-of-hyrstmill",
+  "en": "The Hand of Hyrstmill",
+  "prefix": false,
+  "n": {
+   "en": "The Hand of Hyrstmill",
+   "zh-CN": "林场水车之手",
+   "ja": "the Hand of Hyrstmill",
+   "zh-TW": "林場水車之手"
+  }
+ },
+ {
+  "slug": "the-hand-of-the-golden-bazaar",
+  "en": "The Hand of the Golden Bazaar",
+  "prefix": false,
+  "n": {
+   "en": "The Hand of the Golden Bazaar",
+   "zh-CN": "黄金集市之手",
+   "ja": "the Hand of the Golden Bazaar",
+   "zh-TW": "黃金集市之手"
+  }
+ },
+ {
+  "slug": "wild-thing",
+  "en": "Wild Thing",
+  "prefix": true,
+  "n": {
+   "en": "Wild Thing",
+   "zh-CN": "狂野",
+   "ja": "Wild Thing",
+   "zh-TW": "狂野"
+  }
+ },
+ {
+  "slug": "the-winter-wyrm",
+  "en": "The Winter Wyrm",
+  "prefix": false,
+  "n": {
+   "en": "The Winter Wyrm",
+   "zh-CN": "凛冬之龙",
+   "ja": "the Winter Dragon",
+   "zh-TW": "凜冬之龍"
+  }
+ },
+ {
+  "slug": "messenger-of-love",
+  "en": "Messenger of Love",
+  "prefix": true,
+  "n": {
+   "en": "Messenger of Love",
+   "zh-CN": "爱之使者",
+   "ja": "Messenger of Love",
+   "zh-TW": "愛之使者"
+  }
+ },
+ {
+  "slug": "royal-seneschal",
+  "en": "Royal Seneschal",
+  "prefix": true,
+  "n": {
+   "en": "Royal Seneschal",
+   "zh-CN": "皇家总管",
+   "ja": "Royal Seneschal",
+   "zh-TW": "皇家總管"
+  },
+  "fem": {
+   "en": "Princess for a Day",
+   "zh-CN": "樱花公主",
+   "zh-TW": "櫻花公主",
+   "ja": "Princess for a Day"
+  }
+ },
+ {
+  "slug": "dreamseeker",
+  "en": "Dreamseeker",
+  "prefix": true,
+  "n": {
+   "en": "Dreamseeker",
+   "zh-CN": "猎蛋人",
+   "ja": "Egg Hunter",
+   "zh-TW": "獵蛋人"
+  }
+ },
+ {
+  "slug": "cascadier",
+  "en": "Cascadier",
+  "prefix": true,
+  "n": {
+   "en": "Cascadier",
+   "zh-CN": "名誉防爆员",
+   "ja": "ABU Honorary Member",
+   "zh-TW": "名譽防爆員"
+  }
+ },
+ {
+  "slug": "crystal-bearer",
+  "en": "Crystal Bearer",
+  "prefix": true,
+  "n": {
+   "en": "Crystal Bearer",
+   "zh-CN": "水晶搬运者",
+   "ja": "Crystal Bearer",
+   "zh-TW": "水晶搬運者"
+  }
+ },
+ {
+  "slug": "stormlord",
+  "en": "Stormlord",
+  "prefix": true,
+  "n": {
+   "en": "Stormlord",
+   "zh-CN": "黑涡先锋队",
+   "ja": "Lominsan Hero",
+   "zh-TW": "黑渦先鋒隊"
+  },
+  "fem": {
+   "en": "Stormlady"
+  }
+ },
+ {
+  "slug": "serpentlord",
+  "en": "Serpentlord",
+  "prefix": true,
+  "n": {
+   "en": "Serpentlord",
+   "zh-CN": "双蛇先锋队",
+   "ja": "Gridanian Hero",
+   "zh-TW": "雙蛇先鋒隊"
+  },
+  "fem": {
+   "en": "Serpentlady"
+  }
+ },
+ {
+  "slug": "flamelord",
+  "en": "Flamelord",
+  "prefix": true,
+  "n": {
+   "en": "Flamelord",
+   "zh-CN": "恒辉先锋队",
+   "ja": "Ul'dahn Hero",
+   "zh-TW": "恆輝先鋒隊"
+  },
+  "fem": {
+   "en": "Flamelady"
+  }
+ },
+ {
+  "slug": "the-stormsworn",
+  "en": "The Stormsworn",
+  "prefix": false,
+  "n": {
+   "en": "The Stormsworn",
+   "zh-CN": "黑涡精兵队",
+   "ja": "Lominsan Veteran",
+   "zh-TW": "黑渦精兵隊"
+  }
+ },
+ {
+  "slug": "the-serpentsworn",
+  "en": "The Serpentsworn",
+  "prefix": false,
+  "n": {
+   "en": "The Serpentsworn",
+   "zh-CN": "双蛇精兵队",
+   "ja": "Gridanian Veteran",
+   "zh-TW": "雙蛇精兵隊"
+  }
+ },
+ {
+  "slug": "the-flamesworn",
+  "en": "The Flamesworn",
+  "prefix": false,
+  "n": {
+   "en": "The Flamesworn",
+   "zh-CN": "恒辉精兵队",
+   "ja": "Ul'dahn Veteran",
+   "zh-TW": "恆輝精兵隊"
+  }
+ },
+ {
+  "slug": "stormcarrier",
+  "en": "Stormcarrier",
+  "prefix": true,
+  "n": {
+   "en": "Stormcarrier",
+   "zh-CN": "黑涡军备队",
+   "ja": "Lominsan Carrier",
+   "zh-TW": "黑渦軍備隊"
+  }
+ },
+ {
+  "slug": "serpentcarrier",
+  "en": "Serpentcarrier",
+  "prefix": true,
+  "n": {
+   "en": "Serpentcarrier",
+   "zh-CN": "双蛇军备队",
+   "ja": "Gridanian Carrier",
+   "zh-TW": "雙蛇軍備隊"
+  }
+ },
+ {
+  "slug": "flamecarrier",
+  "en": "Flamecarrier",
+  "prefix": true,
+  "n": {
+   "en": "Flamecarrier",
+   "zh-CN": "恒辉军备队",
+   "ja": "Ul'dahn Carrier",
+   "zh-TW": "恆輝軍備隊"
+  }
+ },
+ {
+  "slug": "stormbringer",
+  "en": "Stormbringer",
+  "prefix": true,
+  "n": {
+   "en": "Stormbringer",
+   "zh-CN": "黑涡后勤队",
+   "ja": "Lominsan Builder",
+   "zh-TW": "黑渦後勤隊"
+  }
+ },
+ {
+  "slug": "serpentbringer",
+  "en": "Serpentbringer",
+  "prefix": true,
+  "n": {
+   "en": "Serpentbringer",
+   "zh-CN": "双蛇后勤队",
+   "ja": "Gridanian Builder",
+   "zh-TW": "雙蛇後勤隊"
+  }
+ },
+ {
+  "slug": "flamebringer",
+  "en": "Flamebringer",
+  "prefix": true,
+  "n": {
+   "en": "Flamebringer",
+   "zh-CN": "恒辉后勤队",
+   "ja": "Ul'dahn Builder",
+   "zh-TW": "恆輝後勤隊"
+  }
+ },
+ {
+  "slug": "featherfoot",
+  "en": "Featherfoot",
+  "prefix": true,
+  "n": {
+   "en": "Featherfoot",
+   "zh-CN": "矫捷",
+   "ja": "the Featherfoot",
+   "zh-TW": "矯捷"
+  }
+ },
+ {
+  "slug": "a-bo-s-best-friend",
+  "en": "A Bo's Best Friend",
+  "prefix": true,
+  "n": {
+   "en": "A Bo's Best Friend",
+   "zh-CN": "铁卫",
+   "ja": "Caravan Driver",
+   "zh-TW": "鐵衛"
+  }
+ },
+ {
+  "slug": "lightning",
+  "en": "Lightning",
+  "prefix": true,
+  "n": {
+   "en": "Lightning",
+   "zh-CN": "迅雷",
+   "ja": "Speedster",
+   "zh-TW": "迅雷"
+  }
+ },
+ {
+  "slug": "cavalier",
+  "en": "Cavalier",
+  "prefix": true,
+  "n": {
+   "en": "Cavalier",
+   "zh-CN": "护卫队员",
+   "ja": "Chocobo Cavalier",
+   "zh-TW": "護衛隊員"
+  }
+ },
+ {
+  "slug": "the-wanderer-s-shadow",
+  "en": "The Wanderer's Shadow",
+  "prefix": false,
+  "n": {
+   "en": "The Wanderer's Shadow",
+   "zh-CN": "放浪之圣徒",
+   "ja": "Oschon's Saint",
+   "zh-TW": "放浪之聖徒"
+  }
+ },
+ {
+  "slug": "green-eyes",
+  "en": "Green Eyes",
+  "prefix": false,
+  "n": {
+   "en": "Green Eyes",
+   "zh-CN": "绿瞳",
+   "ja": "the Oeilvert",
+   "zh-TW": "綠瞳"
+  }
+ },
+ {
+  "slug": "the-strategist",
+  "en": "The Strategist",
+  "prefix": false,
+  "n": {
+   "en": "The Strategist",
+   "zh-CN": "韬略",
+   "ja": "Strategist",
+   "zh-TW": "韜略"
+  }
+ },
+ {
+  "slug": "the-reaper",
+  "en": "The Reaper",
+  "prefix": false,
+  "n": {
+   "en": "The Reaper",
+   "zh-CN": "天道酬勤",
+   "ja": "the Reaper",
+   "zh-TW": "天道酬勤"
+  }
+ },
+ {
+  "slug": "dungeon-master",
+  "en": "Dungeon Master",
+  "prefix": true,
+  "n": {
+   "en": "Dungeon Master",
+   "zh-CN": "地牢围攻",
+   "ja": "Dungeon Explorer",
+   "zh-TW": "地牢圍攻"
+  }
+ },
+ {
+  "slug": "tempter-of-fate",
+  "en": "Tempter of Fate",
+  "prefix": false,
+  "n": {
+   "en": "Tempter of Fate",
+   "zh-CN": "临危不惧",
+   "ja": "the Fates",
+   "zh-TW": "臨危不懼"
+  },
+  "fem": {
+   "en": "Temptress of Fate"
+  }
+ },
+ {
+  "slug": "elite-cascadier",
+  "en": "Elite Cascadier",
+  "prefix": true,
+  "n": {
+   "en": "Elite Cascadier",
+   "zh-CN": "防爆组佣兵",
+   "ja": "ABU Mercenary",
+   "zh-TW": "防爆組傭兵"
+  }
+ },
+ {
+  "slug": "storm-puppy",
+  "en": "Storm Puppy",
+  "prefix": true,
+  "n": {
+   "en": "Storm Puppy",
+   "zh-CN": "碧海幼狼",
+   "ja": "Lominsan Puppy",
+   "zh-TW": "碧海幼狼"
+  }
+ },
+ {
+  "slug": "storm-howler",
+  "en": "Storm Howler",
+  "prefix": true,
+  "n": {
+   "en": "Storm Howler",
+   "zh-CN": "碧海吼狼",
+   "ja": "Lominsan Howler",
+   "zh-TW": "碧海吼狼"
+  }
+ },
+ {
+  "slug": "storm-growler",
+  "en": "Storm Growler",
+  "prefix": true,
+  "n": {
+   "en": "Storm Growler",
+   "zh-CN": "碧海啸狼",
+   "ja": "Lominsan Growler",
+   "zh-TW": "碧海嘯狼"
+  }
+ },
+ {
+  "slug": "storm-hound",
+  "en": "Storm Hound",
+  "prefix": true,
+  "n": {
+   "en": "Storm Hound",
+   "zh-CN": "碧海猎狼",
+   "ja": "Lominsan Hound",
+   "zh-TW": "碧海獵狼"
+  }
+ },
+ {
+  "slug": "storm-stalker",
+  "en": "Storm Stalker",
+  "prefix": true,
+  "n": {
+   "en": "Storm Stalker",
+   "zh-CN": "碧海巡狼",
+   "ja": "Lominsan Stalker",
+   "zh-TW": "碧海巡狼"
+  }
+ },
+ {
+  "slug": "storm-chaser",
+  "en": "Storm Chaser",
+  "prefix": true,
+  "n": {
+   "en": "Storm Chaser",
+   "zh-CN": "碧海追狼",
+   "ja": "Lominsan Chaser",
+   "zh-TW": "碧海追狼"
+  }
+ },
+ {
+  "slug": "naago-s-friend",
+  "en": "Naago's Friend",
+  "prefix": true,
+  "n": {
+   "en": "Naago's Friend",
+   "zh-CN": "娜格的主顾",
+   "ja": "Naago's Friend",
+   "zh-TW": "娜格的主顧"
+  }
+ },
+ {
+  "slug": "naago-s-partner",
+  "en": "Naago's Partner",
+  "prefix": true,
+  "n": {
+   "en": "Naago's Partner",
+   "zh-CN": "娜格的搭档",
+   "ja": "Naago's Partner",
+   "zh-TW": "娜格的搭檔"
+  }
+ },
+ {
+  "slug": "wings-of-steel",
+  "en": "Wings of Steel",
+  "prefix": false,
+  "n": {
+   "en": "Wings of Steel",
+   "zh-CN": "钢翼",
+   "ja": "Wings of Steel",
+   "zh-TW": "鋼翼"
+  }
+ },
+ {
+  "slug": "wings-of-fire",
+  "en": "Wings of Fire",
+  "prefix": false,
+  "n": {
+   "en": "Wings of Fire",
+   "zh-CN": "烈羽",
+   "ja": "Wings of Fire",
+   "zh-TW": "烈羽"
+  }
+ },
+ {
+  "slug": "serpent-puppy",
+  "en": "Serpent Puppy",
+  "prefix": true,
+  "n": {
+   "en": "Serpent Puppy",
+   "zh-CN": "密林幼狼",
+   "ja": "Gridanian Puppy",
+   "zh-TW": "密林幼狼"
+  }
+ },
+ {
+  "slug": "serpent-howler",
+  "en": "Serpent Howler",
+  "prefix": true,
+  "n": {
+   "en": "Serpent Howler",
+   "zh-CN": "密林吼狼",
+   "ja": "Gridanian Howler",
+   "zh-TW": "密林吼狼"
+  }
+ },
+ {
+  "slug": "serpent-growler",
+  "en": "Serpent Growler",
+  "prefix": true,
+  "n": {
+   "en": "Serpent Growler",
+   "zh-CN": "密林啸狼",
+   "ja": "Gridanian Growler",
+   "zh-TW": "密林嘯狼"
+  }
+ },
+ {
+  "slug": "serpent-hound",
+  "en": "Serpent Hound",
+  "prefix": true,
+  "n": {
+   "en": "Serpent Hound",
+   "zh-CN": "密林猎狼",
+   "ja": "Gridanian Hound",
+   "zh-TW": "密林獵狼"
+  }
+ },
+ {
+  "slug": "serpent-stalker",
+  "en": "Serpent Stalker",
+  "prefix": true,
+  "n": {
+   "en": "Serpent Stalker",
+   "zh-CN": "密林巡狼",
+   "ja": "Gridanian Stalker",
+   "zh-TW": "密林巡狼"
+  }
+ },
+ {
+  "slug": "serpent-chaser",
+  "en": "Serpent Chaser",
+  "prefix": true,
+  "n": {
+   "en": "Serpent Chaser",
+   "zh-CN": "密林追狼",
+   "ja": "Gridanian Chaser",
+   "zh-TW": "密林追狼"
+  }
+ },
+ {
+  "slug": "deep-canal-raider",
+  "en": "Deep Canal Raider",
+  "prefix": true,
+  "n": {
+   "en": "Deep Canal Raider",
+   "zh-CN": "深层入侵者",
+   "ja": "Deep Canal Raider",
+   "zh-TW": "深層入侵者"
+  }
+ },
+ {
+  "slug": "deep-canal-dweller",
+  "en": "Deep Canal Dweller",
+  "prefix": true,
+  "n": {
+   "en": "Deep Canal Dweller",
+   "zh-CN": "深层居民",
+   "ja": "Deep Canal Dweller",
+   "zh-TW": "深層居民"
+  }
+ },
+ {
+  "slug": "the-luckiest-of-lords",
+  "en": "The Luckiest of Lords",
+  "prefix": false,
+  "n": {
+   "en": "The Luckiest of Lords",
+   "zh-CN": "鸿运之主",
+   "ja": "Lucky Lord",
+   "zh-TW": "鴻運之主"
+  },
+  "fem": {
+   "en": "The Luckiest of Ladies",
+   "ja": "Lucky Lady"
+  }
+ },
+ {
+  "slug": "crimson-explorer",
+  "en": "Crimson Explorer",
+  "prefix": true,
+  "n": {
+   "en": "Crimson Explorer",
+   "zh-CN": "红莲探索者",
+   "ja": "Crimson Explorer",
+   "zh-TW": "紅蓮探索者"
+  }
+ },
+ {
+  "slug": "flame-puppy",
+  "en": "Flame Puppy",
+  "prefix": true,
+  "n": {
+   "en": "Flame Puppy",
+   "zh-CN": "黄沙幼狼",
+   "ja": "Ul'dahn Puppy",
+   "zh-TW": "黃沙幼狼"
+  }
+ },
+ {
+  "slug": "flame-howler",
+  "en": "Flame Howler",
+  "prefix": true,
+  "n": {
+   "en": "Flame Howler",
+   "zh-CN": "黄沙吼狼",
+   "ja": "Ul'dahn Howler",
+   "zh-TW": "黃沙吼狼"
+  }
+ },
+ {
+  "slug": "flame-growler",
+  "en": "Flame Growler",
+  "prefix": true,
+  "n": {
+   "en": "Flame Growler",
+   "zh-CN": "黄沙啸狼",
+   "ja": "Ul'dahn Growler",
+   "zh-TW": "黃沙嘯狼"
+  }
+ },
+ {
+  "slug": "flame-hound",
+  "en": "Flame Hound",
+  "prefix": true,
+  "n": {
+   "en": "Flame Hound",
+   "zh-CN": "黄沙猎狼",
+   "ja": "Ul'dahn Hound",
+   "zh-TW": "黃沙獵狼"
+  }
+ },
+ {
+  "slug": "flame-stalker",
+  "en": "Flame Stalker",
+  "prefix": true,
+  "n": {
+   "en": "Flame Stalker",
+   "zh-CN": "黄沙巡狼",
+   "ja": "Ul'dahn Stalker",
+   "zh-TW": "黃沙巡狼"
+  }
+ },
+ {
+  "slug": "flame-chaser",
+  "en": "Flame Chaser",
+  "prefix": true,
+  "n": {
+   "en": "Flame Chaser",
+   "zh-CN": "黄沙追狼",
+   "ja": "Ul'dahn Chaser",
+   "zh-TW": "黃沙追狼"
+  }
+ },
+ {
+  "slug": "the-legend",
+  "en": "The Legend",
+  "prefix": false,
+  "n": {
+   "en": "The Legend",
+   "zh-CN": "传奇",
+   "ja": "the Legend",
+   "zh-TW": "傳奇"
+  }
+ },
+ {
+  "slug": "raubahn-s-left-arm",
+  "en": "Raubahn's Left Arm",
+  "prefix": true,
+  "n": {
+   "en": "Raubahn's Left Arm",
+   "zh-CN": "劳班的左膀",
+   "ja": "Raubahn's Left Arm",
+   "zh-TW": "勞班的左膀"
+  }
+ },
+ {
+  "slug": "of-the-blue",
+  "en": "Of the Blue",
+  "prefix": false,
+  "n": {
+   "en": "Of the Blue",
+   "zh-CN": "碧蓝之甲",
+   "ja": "the Blue",
+   "zh-TW": "碧藍之甲"
+  }
+ },
+ {
+  "slug": "fashion-leader",
+  "en": "Fashion Leader",
+  "prefix": false,
+  "n": {
+   "en": "Fashion Leader",
+   "zh-CN": "时尚先锋",
+   "ja": "Fashion Leader",
+   "zh-TW": "時尚先鋒"
+  }
+ },
+ {
+  "slug": "the-ravenous-wolf",
+  "en": "The Ravenous Wolf",
+  "prefix": false,
+  "n": {
+   "en": "The Ravenous Wolf",
+   "zh-CN": "嗜血饿狼",
+   "ja": "Ravenous Wolf",
+   "zh-TW": "嗜血餓狼"
+  }
+ },
+ {
+  "slug": "the-alpha-wolf",
+  "en": "The Alpha Wolf",
+  "prefix": false,
+  "n": {
+   "en": "The Alpha Wolf",
+   "zh-CN": "铁血头狼",
+   "ja": "Alpha Wolf",
+   "zh-TW": "鐵血頭狼"
+  }
+ },
+ {
+  "slug": "the-heart-of-the-party",
+  "en": "The Heart of the Party",
+  "prefix": false,
+  "n": {
+   "en": "The Heart of the Party",
+   "zh-CN": "组织核心",
+   "ja": "Heart of the Party",
+   "zh-TW": "組織核心"
+  }
+ },
+ {
+  "slug": "brother-of-ash",
+  "en": "Brother of Ash",
+  "prefix": true,
+  "n": {
+   "en": "Brother of Ash",
+   "zh-CN": "灰党兄弟",
+   "ja": "Ashen Warrior",
+   "zh-TW": "灰黨兄弟"
+  },
+  "fem": {
+   "en": "Sister of Ash",
+   "zh-CN": "灰党姐妹",
+   "zh-TW": "灰黨姐妹"
+  }
+ },
+ {
+  "slug": "sylph-friend",
+  "en": "Sylph-Friend",
+  "prefix": true,
+  "n": {
+   "en": "Sylph-Friend",
+   "zh-CN": "妖精之友",
+   "ja": "Sylph-Friend",
+   "zh-TW": "妖精之友"
+  }
+ },
+ {
+  "slug": "treasure-hunter",
+  "en": "Treasure Hunter",
+  "prefix": true,
+  "n": {
+   "en": "Treasure Hunter",
+   "zh-CN": "宝物猎人",
+   "ja": "Treasure Hunter",
+   "zh-TW": "寶物獵人"
+  }
+ },
+ {
+  "slug": "789th-order-champion",
+  "en": "789th Order Champion",
+  "prefix": true,
+  "n": {
+   "en": "789th Order Champion",
+   "zh-CN": "矿团勇士",
+   "ja": "789th Order Champion",
+   "zh-TW": "礦團勇士"
+  }
+ },
+ {
+  "slug": "novv-clutchmate",
+  "en": "Novv Clutchmate",
+  "prefix": true,
+  "n": {
+   "en": "Novv Clutchmate",
+   "zh-CN": "诺布家人",
+   "ja": "Novv Clutchmate",
+   "zh-TW": "諾布家人"
+  }
+ },
+ {
+  "slug": "the-ambitious-angler",
+  "en": "The Ambitious Angler",
+  "prefix": false,
+  "n": {
+   "en": "The Ambitious Angler",
+   "zh-CN": "海川鱼神",
+   "ja": "the Ambitious Angler",
+   "zh-TW": "海川魚神"
+  }
+ },
+ {
+  "slug": "the-meat-shield",
+  "en": "The Meat Shield",
+  "prefix": false,
+  "n": {
+   "en": "The Meat Shield",
+   "zh-CN": "银白骑士",
+   "ja": "White Knight",
+   "zh-TW": "銀白騎士"
+  }
+ },
+ {
+  "slug": "the-meat-axe",
+  "en": "The Meat Axe",
+  "prefix": false,
+  "n": {
+   "en": "The Meat Axe",
+   "zh-CN": "血红战士",
+   "ja": "Bloody Warrior",
+   "zh-TW": "血紅戰士"
+  }
+ },
+ {
+  "slug": "of-the-stalwart-shield",
+  "en": "Of the Stalwart Shield",
+  "prefix": false,
+  "n": {
+   "en": "Of the Stalwart Shield",
+   "zh-CN": "坚盾骑士",
+   "ja": "of the Stalwart Shield",
+   "zh-TW": "堅盾騎士"
+  }
+ },
+ {
+  "slug": "of-the-stalwart-axe",
+  "en": "Of the Stalwart Axe",
+  "prefix": false,
+  "n": {
+   "en": "Of the Stalwart Axe",
+   "zh-CN": "利斧战士",
+   "ja": "of the Stalwart Axe",
+   "zh-TW": "利斧戰士"
+  }
+ },
+ {
+  "slug": "frontline-forerunner",
+  "en": "Frontline Forerunner",
+  "prefix": true,
+  "n": {
+   "en": "Frontline Forerunner",
+   "zh-CN": "前线先驱者",
+   "ja": "Frontline Forerunner",
+   "zh-TW": "前線先驅者"
+  }
+ },
+ {
+  "slug": "storm-forerunner",
+  "en": "Storm Forerunner",
+  "prefix": true,
+  "n": {
+   "en": "Storm Forerunner",
+   "zh-CN": "碧海先驱者",
+   "ja": "Lominsan Forerunner",
+   "zh-TW": "碧海先驅者"
+  }
+ },
+ {
+  "slug": "flame-forerunner",
+  "en": "Flame Forerunner",
+  "prefix": true,
+  "n": {
+   "en": "Flame Forerunner",
+   "zh-CN": "黄沙先驱者",
+   "ja": "Ul'dahn Forerunner",
+   "zh-TW": "黃沙先驅者"
+  }
+ },
+ {
+  "slug": "serpent-forerunner",
+  "en": "Serpent Forerunner",
+  "prefix": true,
+  "n": {
+   "en": "Serpent Forerunner",
+   "zh-CN": "密林先驱者",
+   "ja": "Gridanian Forerunner",
+   "zh-TW": "密林先驅者"
+  }
+ },
+ {
+  "slug": "drone-sniper",
+  "en": "Drone Sniper",
+  "prefix": true,
+  "n": {
+   "en": "Drone Sniper",
+   "zh-CN": "无人机射手",
+   "ja": "Drone Sniper",
+   "zh-TW": "無人機射手"
+  }
+ },
+ {
+  "slug": "heliodrome-hero",
+  "en": "Heliodrome Hero",
+  "prefix": true,
+  "n": {
+   "en": "Heliodrome Hero",
+   "zh-CN": "逐日英雄",
+   "ja": "Heliodrome Hero",
+   "zh-TW": "逐日英雄"
+  }
+ },
+ {
+  "slug": "hunter-for-hire",
+  "en": "Hunter for Hire",
+  "prefix": true,
+  "n": {
+   "en": "Hunter for Hire",
+   "zh-CN": "狩猎新星",
+   "ja": "Mob Hunter",
+   "zh-TW": "狩獵新星"
+  }
+ },
+ {
+  "slug": "seeker-of-fortune",
+  "en": "Seeker of Fortune",
+  "prefix": true,
+  "n": {
+   "en": "Seeker of Fortune",
+   "zh-CN": "狩猎行家",
+   "ja": "Mob Seeker",
+   "zh-TW": "狩獵行家"
+  }
+ },
+ {
+  "slug": "seasoned-tracker",
+  "en": "Seasoned Tracker",
+  "prefix": true,
+  "n": {
+   "en": "Seasoned Tracker",
+   "zh-CN": "狩猎大师",
+   "ja": "Mob Tracker",
+   "zh-TW": "狩獵大師"
+  }
+ },
+ {
+  "slug": "bounty-hunter",
+  "en": "Bounty Hunter",
+  "prefix": true,
+  "n": {
+   "en": "Bounty Hunter",
+   "zh-CN": "赏金猎人",
+   "ja": "Bounty Hunter",
+   "zh-TW": "賞金獵人"
+  }
+ },
+ {
+  "slug": "soldier-of-fortune",
+  "en": "Soldier of Fortune",
+  "prefix": true,
+  "n": {
+   "en": "Soldier of Fortune",
+   "zh-CN": "赏金佣兵",
+   "ja": "Soldier of Fortune",
+   "zh-TW": "賞金傭兵"
+  }
+ },
+ {
+  "slug": "captain-of-the-hunt",
+  "en": "Captain of the Hunt",
+  "prefix": false,
+  "n": {
+   "en": "Captain of the Hunt",
+   "zh-CN": "狩猎队长",
+   "ja": "Captain of the Hunt",
+   "zh-TW": "狩獵隊長"
+  }
+ },
+ {
+  "slug": "rafflesia-reaper",
+  "en": "Rafflesia Reaper",
+  "prefix": true,
+  "n": {
+   "en": "Rafflesia Reaper",
+   "zh-CN": "大王花杀手",
+   "ja": "Rafflesia Reaper",
+   "zh-TW": "大王花殺手"
+  }
+ },
+ {
+  "slug": "melusine-mauler",
+  "en": "Melusine Mauler",
+  "prefix": true,
+  "n": {
+   "en": "Melusine Mauler",
+   "zh-CN": "美瑠姬奴克星",
+   "ja": "Melusine Mauler",
+   "zh-TW": "美瑠姬奴剋星"
+  }
+ },
+ {
+  "slug": "the-avatar",
+  "en": "The Avatar",
+  "prefix": false,
+  "n": {
+   "en": "The Avatar",
+   "zh-CN": "降世化身",
+   "ja": "the Avatar",
+   "zh-TW": "降世化身"
+  }
+ },
+ {
+  "slug": "domitor",
+  "en": "Domitor",
+  "prefix": false,
+  "n": {
+   "en": "Domitor",
+   "zh-CN": "征服者",
+   "ja": "the Conqueror",
+   "zh-TW": "征服者"
+  },
+  "fem": {
+   "en": "Domitrix"
+  }
+ },
+ {
+  "slug": "the-disassembler",
+  "en": "The Disassembler",
+  "prefix": true,
+  "n": {
+   "en": "The Disassembler",
+   "zh-CN": "分解技工",
+   "ja": "the Disassembler",
+   "zh-TW": "分解技工"
+  }
+ },
+ {
+  "slug": "eversharp",
+  "en": "Eversharp",
+  "prefix": false,
+  "n": {
+   "en": "Eversharp",
+   "zh-CN": "永锋",
+   "ja": "Eversharp",
+   "zh-TW": "永鋒"
+  }
+ },
+ {
+  "slug": "bearer-of-the-coffer",
+  "en": "Bearer of the Coffer",
+  "prefix": true,
+  "n": {
+   "en": "Bearer of the Coffer",
+   "zh-CN": "秘宝猎人",
+   "ja": "Coffer Bearer",
+   "zh-TW": "祕寶獵人"
+  }
+ },
+ {
+  "slug": "defender-of-eorzea",
+  "en": "Defender of Eorzea",
+  "prefix": false,
+  "n": {
+   "en": "Defender of Eorzea",
+   "zh-CN": "艾欧泽亚的守护者",
+   "ja": "Defender of Eorzea",
+   "zh-TW": "艾歐澤亞的守護者"
+  }
+ },
+ {
+  "slug": "the-postman",
+  "en": "The Postman",
+  "prefix": false,
+  "n": {
+   "en": "The Postman",
+   "zh-CN": "邮递员",
+   "ja": "the Postman",
+   "zh-TW": "郵遞員"
+  },
+  "fem": {
+   "en": "The Postwoman",
+   "ja": "the Postwoman"
+  }
+ },
+ {
+  "slug": "ehcatl-blackguard",
+  "en": "Ehcatl Blackguard",
+  "prefix": true,
+  "n": {
+   "en": "Ehcatl Blackguard",
+   "zh-CN": "长风痞徒",
+   "ja": "Ehcatl Blackguard",
+   "zh-TW": "長風痞徒"
+  }
+ },
+ {
+  "slug": "the-negotiator",
+  "en": "The Negotiator",
+  "prefix": false,
+  "n": {
+   "en": "The Negotiator",
+   "zh-CN": "能言善道",
+   "ja": "the Negotiator",
+   "zh-TW": "能言善道"
+  }
+ },
+ {
+  "slug": "the-final-witness",
+  "en": "The Final Witness",
+  "prefix": false,
+  "n": {
+   "en": "The Final Witness",
+   "zh-CN": "最终见证",
+   "ja": "the Final Witness",
+   "zh-TW": "最終見證"
+  }
+ },
+ {
+  "slug": "of-dragons-deep",
+  "en": "Of Dragons Deep",
+  "prefix": false,
+  "n": {
+   "en": "Of Dragons Deep",
+   "zh-CN": "挥竿降龙",
+   "ja": "of Dragons Deep",
+   "zh-TW": "揮竿降龍"
+  }
+ },
+ {
+  "slug": "master-caster",
+  "en": "Master Caster",
+  "prefix": true,
+  "n": {
+   "en": "Master Caster",
+   "zh-CN": "鱼太公",
+   "ja": "Taikoubou",
+   "zh-TW": "魚太公"
+  }
+ },
+ {
+  "slug": "the-new-sun",
+  "en": "The New Sun",
+  "prefix": false,
+  "n": {
+   "en": "The New Sun",
+   "zh-CN": "曙光",
+   "ja": "the New Sun",
+   "zh-TW": "曙光"
+  }
+ },
+ {
+  "slug": "the-shadow",
+  "en": "The Shadow",
+  "prefix": false,
+  "n": {
+   "en": "The Shadow",
+   "zh-CN": "影忍",
+   "ja": "the Shadow",
+   "zh-TW": "影忍"
+  }
+ },
+ {
+  "slug": "icebreaker",
+  "en": "Icebreaker",
+  "prefix": true,
+  "n": {
+   "en": "Icebreaker",
+   "zh-CN": "破冰",
+   "ja": "Icebreaker",
+   "zh-TW": "破冰"
+  }
+ },
+ {
+  "slug": "of-the-silver-lining",
+  "en": "Of the Silver Lining",
+  "prefix": false,
+  "n": {
+   "en": "Of the Silver Lining",
+   "zh-CN": "壮志凌云",
+   "ja": "Cloud Controller",
+   "zh-TW": "壯志凌雲"
+  }
+ },
+ {
+  "slug": "gentleman",
+  "en": "Gentleman",
+  "prefix": true,
+  "n": {
+   "en": "Gentleman",
+   "zh-CN": "绅士",
+   "ja": "Gentleman",
+   "zh-TW": "紳士"
+  },
+  "fem": {
+   "en": "Gentlewoman",
+   "zh-CN": "淑女",
+   "zh-TW": "淑女",
+   "ja": "Gentlewoman"
+  }
+ },
+ {
+  "slug": "cupid",
+  "en": "Cupid",
+  "prefix": true,
+  "n": {
+   "en": "Cupid",
+   "zh-CN": "丘比特",
+   "ja": "Observer of Love",
+   "zh-TW": "丘比特"
+  }
+ },
+ {
+  "slug": "tamer-of-steeds",
+  "en": "Tamer of Steeds",
+  "prefix": false,
+  "n": {
+   "en": "Tamer of Steeds",
+   "zh-CN": "麒麟儿",
+   "ja": "Kirin Tamer",
+   "zh-TW": "麒麟兒"
+  }
+ },
+ {
+  "slug": "the-unsevered",
+  "en": "The Unsevered",
+  "prefix": false,
+  "n": {
+   "en": "The Unsevered",
+   "zh-CN": "不可斩断",
+   "ja": "the Unsevered",
+   "zh-TW": "不可斬斷"
+  }
+ },
+ {
+  "slug": "slaughterhouse",
+  "en": "Slaughterhouse",
+  "prefix": true,
+  "n": {
+   "en": "Slaughterhouse",
+   "zh-CN": "主宰",
+   "ja": "the Dominator",
+   "zh-TW": "主宰"
+  }
+ },
+ {
+  "slug": "the-hand-of-mercy",
+  "en": "The Hand of Mercy",
+  "prefix": false,
+  "n": {
+   "en": "The Hand of Mercy",
+   "zh-CN": "大慈大悲",
+   "ja": "the Hand of Mercy",
+   "zh-TW": "大慈大悲"
+  }
+ },
+ {
+  "slug": "the-light-in-hand",
+  "en": "The Light in Hand",
+  "prefix": false,
+  "n": {
+   "en": "The Light in Hand",
+   "zh-CN": "巧手的华光",
+   "ja": "the Light in Hand",
+   "zh-TW": "巧手的華光"
+  }
+ },
+ {
+  "slug": "the-light-of-the-land",
+  "en": "The Light of the Land",
+  "prefix": false,
+  "n": {
+   "en": "The Light of the Land",
+   "zh-CN": "大地的华光",
+   "ja": "the Light of the Land",
+   "zh-TW": "大地的華光"
+  }
+ },
+ {
+  "slug": "z",
+  "en": "Z",
+  "prefix": false,
+  "n": {
+   "en": "Z",
+   "zh-CN": "本我觉醒",
+   "ja": "the Zeta",
+   "zh-TW": "本我覺醒"
+  }
+ },
+ {
+  "slug": "golemancer",
+  "en": "Golemancer",
+  "prefix": true,
+  "n": {
+   "en": "Golemancer",
+   "zh-CN": "人偶师",
+   "ja": "Doll Master",
+   "zh-TW": "人偶師"
+  }
+ },
+ {
+  "slug": "gambler",
+  "en": "Gambler",
+  "prefix": true,
+  "n": {
+   "en": "Gambler",
+   "zh-CN": "胜负师",
+   "ja": "Gambler",
+   "zh-TW": "勝負師"
+  }
+ },
+ {
+  "slug": "high-roller",
+  "en": "High Roller",
+  "prefix": true,
+  "n": {
+   "en": "High Roller",
+   "zh-CN": "一掷千金",
+   "ja": "High Roller",
+   "zh-TW": "一擲千金"
+  }
+ },
+ {
+  "slug": "chocobo-breeder",
+  "en": "Chocobo Breeder",
+  "prefix": true,
+  "n": {
+   "en": "Chocobo Breeder",
+   "zh-CN": "育鸟人",
+   "ja": "Chocobo Breeder",
+   "zh-TW": "育鳥人"
+  }
+ },
+ {
+  "slug": "chocobo-trainer",
+  "en": "Chocobo Trainer",
+  "prefix": true,
+  "n": {
+   "en": "Chocobo Trainer",
+   "zh-CN": "训鸟专家",
+   "ja": "Chocobo Trainer",
+   "zh-TW": "訓鳥專家"
+  }
+ },
+ {
+  "slug": "bug-boy",
+  "en": "Bug Boy",
+  "prefix": true,
+  "n": {
+   "en": "Bug Boy",
+   "zh-CN": "学徒骑师",
+   "ja": "Apprentice Jockey",
+   "zh-TW": "學徒騎師"
+  },
+  "fem": {
+   "en": "Bug Girl"
+  }
+ },
+ {
+  "slug": "senior-jockey",
+  "en": "Senior Jockey",
+  "prefix": true,
+  "n": {
+   "en": "Senior Jockey",
+   "zh-CN": "上级骑师",
+   "ja": "Senior Jockey",
+   "zh-TW": "上級騎師"
+  }
+ },
+ {
+  "slug": "veteran-jockey",
+  "en": "Veteran Jockey",
+  "prefix": true,
+  "n": {
+   "en": "Veteran Jockey",
+   "zh-CN": "资深骑师",
+   "ja": "Veteran Jockey",
+   "zh-TW": "資深騎師"
+  }
+ },
+ {
+  "slug": "the-first-across",
+  "en": "The First Across",
+  "prefix": false,
+  "n": {
+   "en": "The First Across",
+   "zh-CN": "一流骑师",
+   "ja": "Leading Jockey",
+   "zh-TW": "一流騎師"
+  }
+ },
+ {
+  "slug": "deck-holder",
+  "en": "Deck Holder",
+  "prefix": true,
+  "n": {
+   "en": "Deck Holder",
+   "zh-CN": "幻卡搜集者",
+   "ja": "Deck Holder",
+   "zh-TW": "幻卡蒐集者"
+  }
+ },
+ {
+  "slug": "deck-hoarder",
+  "en": "Deck Hoarder",
+  "prefix": true,
+  "n": {
+   "en": "Deck Hoarder",
+   "zh-CN": "幻卡收藏家",
+   "ja": "Deck Hoarder",
+   "zh-TW": "幻卡收藏家"
+  }
+ },
+ {
+  "slug": "the-trinity",
+  "en": "The Trinity",
+  "prefix": false,
+  "n": {
+   "en": "The Trinity",
+   "zh-CN": "天命所归",
+   "ja": "the Trinity",
+   "zh-TW": "天命所歸"
+  }
+ },
+ {
+  "slug": "duelist",
+  "en": "Duelist",
+  "prefix": true,
+  "n": {
+   "en": "Duelist",
+   "zh-CN": "决斗者",
+   "ja": "Duelist",
+   "zh-TW": "決鬥者"
+  }
+ },
+ {
+  "slug": "keymaster",
+  "en": "Keymaster",
+  "prefix": true,
+  "n": {
+   "en": "Keymaster",
+   "zh-CN": "见机行事",
+   "ja": "Gatekeeper",
+   "zh-TW": "見機行事"
+  },
+  "fem": {
+   "en": "Gatekeeper"
+  }
+ },
+ {
+  "slug": "the-fungah",
+  "en": "The Fungah",
+  "prefix": false,
+  "n": {
+   "en": "The Fungah",
+   "zh-CN": "踏风无痕",
+   "ja": "the Fungah",
+   "zh-TW": "踏風無痕"
+  }
+ },
+ {
+  "slug": "moneybags",
+  "en": "Moneybags",
+  "prefix": true,
+  "n": {
+   "en": "Moneybags",
+   "zh-CN": "仙风道骨",
+   "ja": "Coin Collector",
+   "zh-TW": "仙風道骨"
+  }
+ },
+ {
+  "slug": "raiser-of-mountains",
+  "en": "Raiser of Mountains",
+  "prefix": false,
+  "n": {
+   "en": "Raiser of Mountains",
+   "zh-CN": "奇光异彩",
+   "ja": "Millionaire",
+   "zh-TW": "奇光異彩"
+  },
+  "fem": {
+   "ja": "Millionairess"
+  }
+ },
+ {
+  "slug": "bearer-of-the-torch",
+  "en": "Bearer of the Torch",
+  "prefix": false,
+  "n": {
+   "en": "Bearer of the Torch",
+   "zh-CN": "希望的灯火",
+   "ja": "Bearer of the Torch",
+   "zh-TW": "希望的燈火"
+  }
+ },
+ {
+  "slug": "postmaster",
+  "en": "Postmaster",
+  "prefix": true,
+  "n": {
+   "en": "Postmaster",
+   "zh-CN": "光之邮递员",
+   "ja": "Postmaster",
+   "zh-TW": "光之郵遞員"
+  }
+ },
+ {
+  "slug": "half-boiled-hero",
+  "en": "Half-boiled Hero",
+  "prefix": true,
+  "n": {
+   "en": "Half-boiled Hero",
+   "zh-CN": "巨蛋猎人",
+   "ja": "Giant Egg Hunter",
+   "zh-TW": "巨蛋獵人"
+  },
+  "fem": {
+   "en": "Half-boiled Heroine"
+  }
+ },
+ {
+  "slug": "unbeliever",
+  "en": "Unbeliever",
+  "prefix": true,
+  "n": {
+   "en": "Unbeliever",
+   "zh-CN": "无信仰者",
+   "ja": "Unbeliever",
+   "zh-TW": "無信仰者"
+  }
+ },
+ {
+  "slug": "the-redeemed",
+  "en": "The Redeemed",
+  "prefix": false,
+  "n": {
+   "en": "The Redeemed",
+   "zh-CN": "脱罪之人",
+   "ja": "the Redeemed",
+   "zh-TW": "脫罪之人"
+  }
+ },
+ {
+  "slug": "nidhogg-slayer",
+  "en": "Nidhogg Slayer",
+  "prefix": true,
+  "n": {
+   "en": "Nidhogg Slayer",
+   "zh-CN": "邪龙杀手",
+   "ja": "Nidhogg Slayer",
+   "zh-TW": "邪龍殺手"
+  }
+ },
+ {
+  "slug": "of-the-silver-fuller",
+  "en": "Of the Silver Fuller",
+  "prefix": false,
+  "n": {
+   "en": "Of the Silver Fuller",
+   "zh-CN": "银剑",
+   "ja": "of the Silver Fuller",
+   "zh-TW": "銀劍"
+  }
+ },
+ {
+  "slug": "imperial-nuisance",
+  "en": "Imperial Nuisance",
+  "prefix": false,
+  "n": {
+   "en": "Imperial Nuisance",
+   "zh-CN": "帝国隐患",
+   "ja": "Imperial Nuisance",
+   "zh-TW": "帝國隱患"
+  }
+ },
+ {
+  "slug": "under-archon",
+  "en": "Under-archon",
+  "prefix": true,
+  "n": {
+   "en": "Under-archon",
+   "zh-CN": "希望重现",
+   "ja": "Under-archon",
+   "zh-TW": "希望重現"
+  }
+ },
+ {
+  "slug": "the-end-of-ascalon",
+  "en": "The End of Ascalon",
+  "prefix": true,
+  "n": {
+   "en": "The End of Ascalon",
+   "zh-CN": "阿斯卡隆的末日",
+   "ja": "Ascalon Breaker",
+   "zh-TW": "阿斯卡隆的末日"
+  }
+ },
+ {
+  "slug": "snake-in-the-grass",
+  "en": "Snake in the Grass",
+  "prefix": true,
+  "n": {
+   "en": "Snake in the Grass",
+   "zh-CN": "灵蛇之光",
+   "ja": "Snake in the Grass",
+   "zh-TW": "靈蛇之光"
+  }
+ },
+ {
+  "slug": "the-oathkeeper",
+  "en": "The Oathkeeper",
+  "prefix": false,
+  "n": {
+   "en": "The Oathkeeper",
+   "zh-CN": "守誓之剑",
+   "ja": "the Oathkeeper",
+   "zh-TW": "守誓之劍"
+  }
+ },
+ {
+  "slug": "of-the-14th-chakra",
+  "en": "Of the 14th Chakra",
+  "prefix": false,
+  "n": {
+   "en": "Of the 14th Chakra",
+   "zh-CN": "脉轮全开",
+   "ja": "of the 14th Chakra",
+   "zh-TW": "脈輪全開"
+  }
+ },
+ {
+  "slug": "the-mythril-heart",
+  "en": "The Mythril Heart",
+  "prefix": false,
+  "n": {
+   "en": "The Mythril Heart",
+   "zh-CN": "秘银之心",
+   "ja": "the Mythril Heart",
+   "zh-TW": "祕銀之心"
+  }
+ },
+ {
+  "slug": "the-azure-dragoon",
+  "en": "The Azure Dragoon",
+  "prefix": false,
+  "n": {
+   "en": "The Azure Dragoon",
+   "zh-CN": "苍天龙骑",
+   "ja": "the Azure Dragoon",
+   "zh-TW": "蒼天龍騎"
+  }
+ },
+ {
+  "slug": "skysinger",
+  "en": "Skysinger",
+  "prefix": false,
+  "n": {
+   "en": "Skysinger",
+   "zh-CN": "云上战歌",
+   "ja": "Skysinger",
+   "zh-TW": "雲上戰歌"
+  }
+ },
+ {
+  "slug": "pure-white",
+  "en": "Pure White",
+  "prefix": true,
+  "n": {
+   "en": "Pure White",
+   "zh-CN": "洁白无瑕",
+   "ja": "Pure White",
+   "zh-TW": "潔白無瑕"
+  }
+ },
+ {
+  "slug": "annihilator",
+  "en": "Annihilator",
+  "prefix": true,
+  "n": {
+   "en": "Annihilator",
+   "zh-CN": "惩奸除恶",
+   "ja": "Annihilator",
+   "zh-TW": "懲奸除惡"
+  }
+ },
+ {
+  "slug": "dreadspawn",
+  "en": "Dreadspawn",
+  "prefix": false,
+  "n": {
+   "en": "Dreadspawn",
+   "zh-CN": "龙神后裔",
+   "ja": "Dreadspawn",
+   "zh-TW": "龍神後裔"
+  }
+ },
+ {
+  "slug": "nymian-marine",
+  "en": "Nymian Marine",
+  "prefix": true,
+  "n": {
+   "en": "Nymian Marine",
+   "zh-CN": "尼姆海兵",
+   "ja": "Nymian Marine",
+   "zh-TW": "尼姆海兵"
+  }
+ },
+ {
+  "slug": "the-darkest-shadow",
+  "en": "The Darkest Shadow",
+  "prefix": false,
+  "n": {
+   "en": "The Darkest Shadow",
+   "zh-CN": "深暗之影",
+   "ja": "the Darkest Shadow",
+   "zh-TW": "深暗之影"
+  }
+ },
+ {
+  "slug": "blackblood",
+  "en": "Blackblood",
+  "prefix": false,
+  "n": {
+   "en": "Blackblood",
+   "zh-CN": "暗血沸腾",
+   "ja": "Blackblood",
+   "zh-TW": "暗血沸騰"
+  }
+ },
+ {
+  "slug": "liberator",
+  "en": "Liberator",
+  "prefix": true,
+  "n": {
+   "en": "Liberator",
+   "zh-CN": "解放之人",
+   "ja": "Liberator",
+   "zh-TW": "解放之人"
+  }
+ },
+ {
+  "slug": "stargazer",
+  "en": "Stargazer",
+  "prefix": true,
+  "n": {
+   "en": "Stargazer",
+   "zh-CN": "星天观测",
+   "ja": "Stargazer",
+   "zh-TW": "星天觀測"
+  }
+ },
+ {
+  "slug": "illuminati-quencher",
+  "en": "Illuminati Quencher",
+  "prefix": true,
+  "n": {
+   "en": "Illuminati Quencher",
+   "zh-CN": "熄火青蓝之手",
+   "ja": "Blue hands Quencher",
+   "zh-TW": "熄火青藍之手"
+  }
+ },
+ {
+  "slug": "finder-of-false-gods",
+  "en": "Finder of False Gods",
+  "prefix": false,
+  "n": {
+   "en": "Finder of False Gods",
+   "zh-CN": "伪神探求者",
+   "ja": "Finder of False Gods",
+   "zh-TW": "僞神探求者"
+  }
+ },
+ {
+  "slug": "lighter-than-air",
+  "en": "Lighter than Air",
+  "prefix": true,
+  "n": {
+   "en": "Lighter than Air",
+   "zh-CN": "身轻如燕",
+   "ja": "Lighter than Air",
+   "zh-TW": "身輕如燕"
+  }
+ },
+ {
+  "slug": "grandmaster-of-war",
+  "en": "Grandmaster of War",
+  "prefix": true,
+  "n": {
+   "en": "Grandmaster of War",
+   "zh-CN": "宣武",
+   "ja": "Grandmaster of War",
+   "zh-TW": "宣武"
+  }
+ },
+ {
+  "slug": "grandmaster-of-magic",
+  "en": "Grandmaster of Magic",
+  "prefix": true,
+  "n": {
+   "en": "Grandmaster of Magic",
+   "zh-CN": "炼魔",
+   "ja": "Grandmaster of Magic",
+   "zh-TW": "煉魔"
+  }
+ },
+ {
+  "slug": "dark-driver",
+  "en": "Dark Driver",
+  "prefix": true,
+  "n": {
+   "en": "Dark Driver",
+   "zh-CN": "昏黑骑士",
+   "ja": "Dark Knight",
+   "zh-TW": "昏黑騎士"
+  }
+ },
+ {
+  "slug": "of-the-stalwart-sword",
+  "en": "Of the Stalwart Sword",
+  "prefix": false,
+  "n": {
+   "en": "Of the Stalwart Sword",
+   "zh-CN": "重剑骑士",
+   "ja": "of the Stalwart Sword",
+   "zh-TW": "重劍騎士"
+  }
+ },
+ {
+  "slug": "keeper-of-knowledge",
+  "en": "Keeper of Knowledge",
+  "prefix": true,
+  "n": {
+   "en": "Keeper of Knowledge",
+   "zh-CN": "尘谜守护者",
+   "ja": "Keeper of Knowledge",
+   "zh-TW": "塵謎守護者"
+  }
+ },
+ {
+  "slug": "canal-dweller",
+  "en": "Canal Dweller",
+  "prefix": true,
+  "n": {
+   "en": "Canal Dweller",
+   "zh-CN": "运河居民",
+   "ja": "Canal Dweller",
+   "zh-TW": "運河居民"
+  }
+ },
+ {
+  "slug": "canal-lord",
+  "en": "Canal Lord",
+  "prefix": true,
+  "n": {
+   "en": "Canal Lord",
+   "zh-CN": "运河之主",
+   "ja": "Canal Lord",
+   "zh-TW": "運河之主"
+  },
+  "fem": {
+   "en": "Canal Lady"
+  }
+ },
+ {
+  "slug": "the-necromancer",
+  "en": "The Necromancer",
+  "prefix": false,
+  "n": {
+   "en": "The Necromancer",
+   "zh-CN": "死灵术士",
+   "ja": "the Necromancer",
+   "zh-TW": "死靈術士"
+  }
+ },
+ {
+  "slug": "grandmaster-of-the-hand",
+  "en": "Grandmaster of the Hand",
+  "prefix": true,
+  "n": {
+   "en": "Grandmaster of the Hand",
+   "zh-CN": "博闻",
+   "ja": "Grandmaster of the Hand",
+   "zh-TW": "博聞"
+  }
+ },
+ {
+  "slug": "grandmaster-of-the-land",
+  "en": "Grandmaster of the Land",
+  "prefix": true,
+  "n": {
+   "en": "Grandmaster of the Land",
+   "zh-CN": "强识",
+   "ja": "Grandmaster of the Land",
+   "zh-TW": "強識"
+  }
+ },
+ {
+  "slug": "molder-of-masterpieces",
+  "en": "Molder of Masterpieces",
+  "prefix": true,
+  "n": {
+   "en": "Molder of Masterpieces",
+   "zh-CN": "精品制作者",
+   "ja": "Molder of Masterpieces",
+   "zh-TW": "精品製作者"
+  }
+ },
+ {
+  "slug": "amasser-of-masterpieces",
+  "en": "Amasser of Masterpieces",
+  "prefix": true,
+  "n": {
+   "en": "Amasser of Masterpieces",
+   "zh-CN": "精品采集者",
+   "ja": "Amasser of Masterpieces",
+   "zh-TW": "精品採集者"
+  }
+ },
+ {
+  "slug": "business-associate",
+  "en": "Business Associate",
+  "prefix": true,
+  "n": {
+   "en": "Business Associate",
+   "zh-CN": "生意伙伴",
+   "ja": "Business Associate",
+   "zh-TW": "生意夥伴"
+  }
+ },
+ {
+  "slug": "master-carpenter",
+  "en": "Master Carpenter",
+  "prefix": true,
+  "n": {
+   "en": "Master Carpenter",
+   "zh-CN": "刻木专家",
+   "ja": "Master Woodworker",
+   "zh-TW": "刻木專家"
+  }
+ },
+ {
+  "slug": "master-blacksmith",
+  "en": "Master Blacksmith",
+  "prefix": true,
+  "n": {
+   "en": "Master Blacksmith",
+   "zh-CN": "锻铁专家",
+   "ja": "Master Blacksmith",
+   "zh-TW": "鍛鐵專家"
+  }
+ },
+ {
+  "slug": "master-armorer",
+  "en": "Master Armorer",
+  "prefix": true,
+  "n": {
+   "en": "Master Armorer",
+   "zh-CN": "铸甲专家",
+   "ja": "Master Armourer",
+   "zh-TW": "鑄甲專家"
+  },
+  "fem": {
+   "ja": "Master Armorer"
+  }
+ },
+ {
+  "slug": "master-goldsmith",
+  "en": "Master Goldsmith",
+  "prefix": true,
+  "n": {
+   "en": "Master Goldsmith",
+   "zh-CN": "雕金专家",
+   "ja": "Master Goldsmith",
+   "zh-TW": "雕金專家"
+  }
+ },
+ {
+  "slug": "master-leatherworker",
+  "en": "Master Leatherworker",
+  "prefix": true,
+  "n": {
+   "en": "Master Leatherworker",
+   "zh-CN": "制革专家",
+   "ja": "Master Tanner",
+   "zh-TW": "製革專家"
+  }
+ },
+ {
+  "slug": "master-weaver",
+  "en": "Master Weaver",
+  "prefix": true,
+  "n": {
+   "en": "Master Weaver",
+   "zh-CN": "裁衣专家",
+   "ja": "Master Weaver",
+   "zh-TW": "裁衣專家"
+  }
+ },
+ {
+  "slug": "master-alchemist",
+  "en": "Master Alchemist",
+  "prefix": true,
+  "n": {
+   "en": "Master Alchemist",
+   "zh-CN": "炼金专家",
+   "ja": "Master Alchemist",
+   "zh-TW": "鍊金專家"
+  }
+ },
+ {
+  "slug": "master-culinarian",
+  "en": "Master Culinarian",
+  "prefix": true,
+  "n": {
+   "en": "Master Culinarian",
+   "zh-CN": "烹调专家",
+   "ja": "Master Culinarian",
+   "zh-TW": "烹調專家"
+  }
+ },
+ {
+  "slug": "master-miner",
+  "en": "Master Miner",
+  "prefix": true,
+  "n": {
+   "en": "Master Miner",
+   "zh-CN": "采矿专家",
+   "ja": "Master Miner",
+   "zh-TW": "採礦專家"
+  }
+ },
+ {
+  "slug": "master-botanist",
+  "en": "Master Botanist",
+  "prefix": true,
+  "n": {
+   "en": "Master Botanist",
+   "zh-CN": "园艺专家",
+   "ja": "Master Harvester",
+   "zh-TW": "園藝專家"
+  }
+ },
+ {
+  "slug": "master-fisher",
+  "en": "Master Fisher",
+  "prefix": true,
+  "n": {
+   "en": "Master Fisher",
+   "zh-CN": "捕鱼专家",
+   "ja": "Master Fisher",
+   "zh-TW": "捕魚專家"
+  }
+ },
+ {
+  "slug": "the-fortunate",
+  "en": "The Fortunate",
+  "prefix": false,
+  "n": {
+   "en": "The Fortunate",
+   "zh-CN": "幸运儿",
+   "ja": "the Fortunate",
+   "zh-TW": "幸運兒"
+  }
+ },
+ {
+  "slug": "good-samaritan",
+  "en": "Good Samaritan",
+  "prefix": true,
+  "n": {
+   "en": "Good Samaritan",
+   "zh-CN": "乐善好施",
+   "ja": "Good Samaritan",
+   "zh-TW": "樂善好施"
+  }
+ },
+ {
+  "slug": "minion-collector",
+  "en": "Minion Collector",
+  "prefix": true,
+  "n": {
+   "en": "Minion Collector",
+   "zh-CN": "宠物收藏家",
+   "ja": "Minion Collector",
+   "zh-TW": "寵物收藏家"
+  }
+ },
+ {
+  "slug": "minion-master",
+  "en": "Minion Master",
+  "prefix": true,
+  "n": {
+   "en": "Minion Master",
+   "zh-CN": "宠物大师",
+   "ja": "Minion Master",
+   "zh-TW": "寵物大師"
+  }
+ },
+ {
+  "slug": "mammeteer",
+  "en": "Mammeteer",
+  "prefix": true,
+  "n": {
+   "en": "Mammeteer",
+   "zh-CN": "寻踪觅影",
+   "ja": "Mammeteer",
+   "zh-TW": "尋蹤覓影"
+  }
+ },
+ {
+  "slug": "prince-of-verminion",
+  "en": "Prince of Verminion",
+  "prefix": false,
+  "n": {
+   "en": "Prince of Verminion",
+   "zh-CN": "萌宠王子",
+   "ja": "Prince of Verminion",
+   "zh-TW": "萌寵王子"
+  },
+  "fem": {
+   "en": "Princess of Verminion",
+   "zh-CN": "萌宠公主",
+   "zh-TW": "萌寵公主",
+   "ja": "Princess of Verminion"
+  }
+ },
+ {
+  "slug": "lord-of-verminion",
+  "en": "Lord of Verminion",
+  "prefix": false,
+  "n": {
+   "en": "Lord of Verminion",
+   "zh-CN": "萌宠之王",
+   "ja": "Lord of Verminion",
+   "zh-TW": "萌寵之王"
+  },
+  "fem": {
+   "en": "Lady of Verminion",
+   "zh-CN": "萌宠女王",
+   "zh-TW": "萌寵女王",
+   "ja": "Lady of Verminion"
+  }
+ },
+ {
+  "slug": "house-fortemps-knight",
+  "en": "House Fortemps Knight",
+  "prefix": false,
+  "n": {
+   "en": "House Fortemps Knight",
+   "zh-CN": "福尔唐家的骑士",
+   "ja": "House Fortemps Knight",
+   "zh-TW": "福爾唐家的騎士"
+  }
+ },
+ {
+  "slug": "sky-pirate",
+  "en": "Sky Pirate",
+  "prefix": true,
+  "n": {
+   "en": "Sky Pirate",
+   "zh-CN": "空贼",
+   "ja": "Sky Pirate",
+   "zh-TW": "空賊"
+  }
+ },
+ {
+  "slug": "the-noumenon",
+  "en": "The Noumenon",
+  "prefix": false,
+  "n": {
+   "en": "The Noumenon",
+   "zh-CN": "元灵实体",
+   "ja": "the Noumenon",
+   "zh-TW": "元靈實體"
+  }
+ },
+ {
+  "slug": "sundrop-dancer",
+  "en": "Sundrop Dancer",
+  "prefix": true,
+  "n": {
+   "en": "Sundrop Dancer",
+   "zh-CN": "太阳舞者",
+   "ja": "Sundrop Dancer",
+   "zh-TW": "太陽舞者"
+  }
+ },
+ {
+  "slug": "myth-breaker",
+  "en": "Myth Breaker",
+  "prefix": true,
+  "n": {
+   "en": "Myth Breaker",
+   "zh-CN": "神话破灭",
+   "ja": "Myth Breaker",
+   "zh-TW": "神話破滅"
+  }
+ },
+ {
+  "slug": "veteran-explorer",
+  "en": "Veteran Explorer",
+  "prefix": true,
+  "n": {
+   "en": "Veteran Explorer",
+   "zh-CN": "熟练探索者",
+   "ja": "Veteran Explorer",
+   "zh-TW": "熟練探索者"
+  }
+ },
+ {
+  "slug": "special-advisor",
+  "en": "Special Advisor",
+  "prefix": true,
+  "n": {
+   "en": "Special Advisor",
+   "zh-CN": "特别顾问",
+   "ja": "Special Adviser",
+   "zh-TW": "特別顧問"
+  }
+ },
+ {
+  "slug": "notorious-monster-slayer",
+  "en": "Notorious Monster Slayer",
+  "prefix": true,
+  "n": {
+   "en": "Notorious Monster Slayer",
+   "zh-CN": "恶名精英猎手",
+   "ja": "Notorious Monster Slayer",
+   "zh-TW": "惡名精英獵手"
+  }
+ },
+ {
+  "slug": "hungry-wolf",
+  "en": "Hungry Wolf",
+  "prefix": true,
+  "n": {
+   "en": "Hungry Wolf",
+   "zh-CN": "狼子野心",
+   "ja": "Hungry Wolf",
+   "zh-TW": "狼子野心"
+  }
+ },
+ {
+  "slug": "the-devourer",
+  "en": "The Devourer",
+  "prefix": false,
+  "n": {
+   "en": "The Devourer",
+   "zh-CN": "狼吞虎噬",
+   "ja": "the Devourer",
+   "zh-TW": "狼吞虎噬"
+  }
+ },
+ {
+  "slug": "the-unmoving",
+  "en": "The Unmoving",
+  "prefix": false,
+  "n": {
+   "en": "The Unmoving",
+   "zh-CN": "不动如山",
+   "ja": "the Unmoving",
+   "zh-TW": "不動如山"
+  }
+ },
+ {
+  "slug": "the-unrelenting",
+  "en": "The Unrelenting",
+  "prefix": false,
+  "n": {
+   "en": "The Unrelenting",
+   "zh-CN": "心狠手辣",
+   "ja": "the Unrelenting",
+   "zh-TW": "心狠手辣"
+  }
+ },
+ {
+  "slug": "the-unseen",
+  "en": "The Unseen",
+  "prefix": false,
+  "n": {
+   "en": "The Unseen",
+   "zh-CN": "潜踪隐迹",
+   "ja": "the Unseen",
+   "zh-TW": "潛蹤隱跡"
+  }
+ },
+ {
+  "slug": "the-unleashed",
+  "en": "The Unleashed",
+  "prefix": false,
+  "n": {
+   "en": "The Unleashed",
+   "zh-CN": "无拘无束",
+   "ja": "the Unleashed",
+   "zh-TW": "無拘無束"
+  }
+ },
+ {
+  "slug": "the-undamaged",
+  "en": "The Undamaged",
+  "prefix": false,
+  "n": {
+   "en": "The Undamaged",
+   "zh-CN": "毫发无伤",
+   "ja": "the Undamaged",
+   "zh-TW": "毫髮無傷"
+  }
+ },
+ {
+  "slug": "mentor",
+  "en": "Mentor",
+  "prefix": true,
+  "n": {
+   "en": "Mentor",
+   "zh-CN": "良师益友",
+   "ja": "Mentor",
+   "zh-TW": "良師益友"
+  }
+ },
+ {
+  "slug": "mentor-of-mentors",
+  "en": "Mentor of Mentors",
+  "prefix": true,
+  "n": {
+   "en": "Mentor of Mentors",
+   "zh-CN": "人生导师",
+   "ja": "Mentor of Mentors",
+   "zh-TW": "人生導師"
+  }
+ },
+ {
+  "slug": "carrier-of-the-kettle",
+  "en": "Carrier of the Kettle",
+  "prefix": true,
+  "n": {
+   "en": "Carrier of the Kettle",
+   "zh-CN": "一壶千金",
+   "ja": "Carrier of the Kettle",
+   "zh-TW": "一壺千金"
+  }
+ },
+ {
+  "slug": "the-gear-of-change",
+  "en": "The Gear of Change",
+  "prefix": false,
+  "n": {
+   "en": "The Gear of Change",
+   "zh-CN": "命运的齿轮",
+   "ja": "the Gears of Change",
+   "zh-TW": "命運的齒輪"
+  }
+ },
+ {
+  "slug": "allthoughts",
+  "en": "Allthoughts",
+  "prefix": false,
+  "n": {
+   "en": "Allthoughts",
+   "zh-CN": "全心全意",
+   "ja": "Allthoughts",
+   "zh-TW": "全心全意"
+  }
+ },
+ {
+  "slug": "the-newmind",
+  "en": "The Newmind",
+  "prefix": false,
+  "n": {
+   "en": "The Newmind",
+   "zh-CN": "自由新脑",
+   "ja": "the Newmind",
+   "zh-TW": "自由新腦"
+  }
+ },
+ {
+  "slug": "the-dragonsong",
+  "en": "The Dragonsong",
+  "prefix": false,
+  "n": {
+   "en": "The Dragonsong",
+   "zh-CN": "龙诗战争",
+   "ja": "Revenge of the Horde",
+   "zh-TW": "龍詩戰爭"
+  }
+ },
+ {
+  "slug": "polis-raider",
+  "en": "Polis Raider",
+  "prefix": true,
+  "n": {
+   "en": "Polis Raider",
+   "zh-CN": "水城入侵者",
+   "ja": "Aquapolis Raider",
+   "zh-TW": "水城入侵者"
+  }
+ },
+ {
+  "slug": "polis-dweller",
+  "en": "Polis Dweller",
+  "prefix": true,
+  "n": {
+   "en": "Polis Dweller",
+   "zh-CN": "水城居民",
+   "ja": "Aquapolis Dweller",
+   "zh-TW": "水城居民"
+  }
+ },
+ {
+  "slug": "polis-lord",
+  "en": "Polis Lord",
+  "prefix": true,
+  "n": {
+   "en": "Polis Lord",
+   "zh-CN": "宝物收藏家",
+   "ja": "Treasure Collector",
+   "zh-TW": "寶物收藏家"
+  },
+  "fem": {
+   "en": "Polis Lady"
+  }
+ },
+ {
+  "slug": "pom-friend",
+  "en": "Pom Friend",
+  "prefix": true,
+  "n": {
+   "en": "Pom Friend",
+   "zh-CN": "莫古之友",
+   "ja": "Mog Friend",
+   "zh-TW": "莫古之友"
+  }
+ },
+ {
+  "slug": "leader-of-the-pack",
+  "en": "Leader of the Pack",
+  "prefix": true,
+  "n": {
+   "en": "Leader of the Pack",
+   "zh-CN": "孤傲狼王",
+   "ja": "the Feast Champion",
+   "zh-TW": "孤傲狼王"
+  }
+ },
+ {
+  "slug": "beta-wolf",
+  "en": "Beta Wolf",
+  "prefix": true,
+  "n": {
+   "en": "Beta Wolf",
+   "zh-CN": "杀戮凶狼",
+   "ja": "the Feast Slayer",
+   "zh-TW": "殺戮兇狼"
+  }
+ },
+ {
+  "slug": "hunter-wolf",
+  "en": "Hunter Wolf",
+  "prefix": true,
+  "n": {
+   "en": "Hunter Wolf",
+   "zh-CN": "战场野狼",
+   "ja": "the Feast Ranker",
+   "zh-TW": "戰場野狼"
+  }
+ },
+ {
+  "slug": "bronze-wolf",
+  "en": "Bronze Wolf",
+  "prefix": true,
+  "n": {
+   "en": "Bronze Wolf",
+   "zh-CN": "青铜野狼",
+   "ja": "Bronze Wolf",
+   "zh-TW": "青銅野狼"
+  }
+ },
+ {
+  "slug": "silver-wolf",
+  "en": "Silver Wolf",
+  "prefix": true,
+  "n": {
+   "en": "Silver Wolf",
+   "zh-CN": "白银野狼",
+   "ja": "Silver Wolf",
+   "zh-TW": "白銀野狼"
+  }
+ },
+ {
+  "slug": "gold-wolf",
+  "en": "Gold Wolf",
+  "prefix": true,
+  "n": {
+   "en": "Gold Wolf",
+   "zh-CN": "黄金凶狼",
+   "ja": "Gold Wolf",
+   "zh-TW": "黃金兇狼"
+  }
+ },
+ {
+  "slug": "platinum-wolf",
+  "en": "Platinum Wolf",
+  "prefix": true,
+  "n": {
+   "en": "Platinum Wolf",
+   "zh-CN": "白金凶狼",
+   "ja": "Platinum Wolf",
+   "zh-TW": "白金兇狼"
+  }
+ },
+ {
+  "slug": "diamond-wolf",
+  "en": "Diamond Wolf",
+  "prefix": true,
+  "n": {
+   "en": "Diamond Wolf",
+   "zh-CN": "钻石狼王",
+   "ja": "Diamond Wolf",
+   "zh-TW": "鑽石狼王"
+  }
+ },
+ {
+  "slug": "of-the-first-pack",
+  "en": "Of the First Pack",
+  "prefix": false,
+  "n": {
+   "en": "Of the First Pack",
+   "zh-CN": "狼群之王",
+   "ja": "of the Feast Champion",
+   "zh-TW": "狼羣之王"
+  }
+ },
+ {
+  "slug": "of-the-second-pack",
+  "en": "Of the Second Pack",
+  "prefix": false,
+  "n": {
+   "en": "Of the Second Pack",
+   "zh-CN": "残暴狼群",
+   "ja": "of the Feast Slayer",
+   "zh-TW": "殘暴狼羣"
+  }
+ },
+ {
+  "slug": "of-the-hungry-pack",
+  "en": "Of the Hungry Pack",
+  "prefix": false,
+  "n": {
+   "en": "Of the Hungry Pack",
+   "zh-CN": "凶恶狼群",
+   "ja": "of the Feast Ranker",
+   "zh-TW": "兇惡狼羣"
+  }
+ },
+ {
+  "slug": "of-the-bronze-pack",
+  "en": "Of the Bronze Pack",
+  "prefix": false,
+  "n": {
+   "en": "Of the Bronze Pack",
+   "zh-CN": "青铜狼群",
+   "ja": "of the Bronze Wolf",
+   "zh-TW": "青銅狼羣"
+  }
+ },
+ {
+  "slug": "of-the-silver-pack",
+  "en": "Of the Silver Pack",
+  "prefix": false,
+  "n": {
+   "en": "Of the Silver Pack",
+   "zh-CN": "白银狼群",
+   "ja": "of the Silver Wolf",
+   "zh-TW": "白銀狼羣"
+  }
+ },
+ {
+  "slug": "of-the-gold-pack",
+  "en": "Of the Gold Pack",
+  "prefix": false,
+  "n": {
+   "en": "Of the Gold Pack",
+   "zh-CN": "黄金狼群",
+   "ja": "of the Gold Wolf",
+   "zh-TW": "黃金狼羣"
+  }
+ },
+ {
+  "slug": "of-the-platinum-pack",
+  "en": "Of the Platinum Pack",
+  "prefix": false,
+  "n": {
+   "en": "Of the Platinum Pack",
+   "zh-CN": "白金狼群",
+   "ja": "of the Platinum Wolf",
+   "zh-TW": "白金狼羣"
+  }
+ },
+ {
+  "slug": "of-the-diamond-pack",
+  "en": "Of the Diamond Pack",
+  "prefix": false,
+  "n": {
+   "en": "Of the Diamond Pack",
+   "zh-CN": "钻石狼群",
+   "ja": "of the Diamond Wolf",
+   "zh-TW": "鑽石狼羣"
+  }
+ },
+ {
+  "slug": "the-knight-of-glory",
+  "en": "The Knight of Glory",
+  "prefix": false,
+  "n": {
+   "en": "The Knight of Glory",
+   "zh-CN": "荣誉骑士",
+   "ja": "the Knight of Glory",
+   "zh-TW": "榮譽騎士"
+  }
+ },
+ {
+  "slug": "the-chief-mourner",
+  "en": "The Chief Mourner",
+  "prefix": false,
+  "n": {
+   "en": "The Chief Mourner",
+   "zh-CN": "灵魂主祭",
+   "ja": "the Chief Mourner",
+   "zh-TW": "靈魂主祭"
+  }
+ },
+ {
+  "slug": "the-wings-of-time",
+  "en": "The Wings of Time",
+  "prefix": false,
+  "n": {
+   "en": "The Wings of Time",
+   "zh-CN": "光阴之翼",
+   "ja": "Wings of Time",
+   "zh-TW": "光陰之翼"
+  }
+ },
+ {
+  "slug": "surrenderer-of-souls",
+  "en": "Surrenderer of Souls",
+  "prefix": false,
+  "n": {
+   "en": "Surrenderer of Souls",
+   "zh-CN": "灵魂继承者",
+   "ja": "Soul Surrender",
+   "zh-TW": "靈魂繼承者"
+  }
+ },
+ {
+  "slug": "khloe-s-friend",
+  "en": "Khloe's Friend",
+  "prefix": true,
+  "n": {
+   "en": "Khloe's Friend",
+   "zh-CN": "库洛的小伙伴",
+   "ja": "Khloe's Friend",
+   "zh-TW": "庫洛的小夥伴"
+  }
+ },
+ {
+  "slug": "khloe-s-best-friend",
+  "en": "Khloe's Best Friend",
+  "prefix": true,
+  "n": {
+   "en": "Khloe's Best Friend",
+   "zh-CN": "库洛的好朋友",
+   "ja": "Khloe's Best Friend",
+   "zh-TW": "庫洛的好朋友"
+  }
+ },
+ {
+  "slug": "hero-of-gelmorra",
+  "en": "Hero of Gelmorra",
+  "prefix": false,
+  "n": {
+   "en": "Hero of Gelmorra",
+   "zh-CN": "格尔莫拉英雄",
+   "ja": "the Hero of Gelmorra",
+   "zh-TW": "格爾莫拉英雄"
+  }
+ },
+ {
+  "slug": "lightbringer",
+  "en": "Lightbringer",
+  "prefix": false,
+  "n": {
+   "en": "Lightbringer",
+   "zh-CN": "光明使者",
+   "ja": "the Lightbringer",
+   "zh-TW": "光明使者"
+  }
+ },
+ {
+  "slug": "lonely-explorer",
+  "en": "Lonely Explorer",
+  "prefix": true,
+  "n": {
+   "en": "Lonely Explorer",
+   "zh-CN": "独行探险家",
+   "ja": "Lonely Explorer",
+   "zh-TW": "獨行探險家"
+  }
+ },
+ {
+  "slug": "the-lucky",
+  "en": "The Lucky",
+  "prefix": false,
+  "n": {
+   "en": "The Lucky",
+   "zh-CN": "幸运星",
+   "ja": "Lucky Person",
+   "zh-TW": "幸運星"
+  }
+ },
+ {
+  "slug": "of-the-sixth-sense",
+  "en": "Of the Sixth Sense",
+  "prefix": false,
+  "n": {
+   "en": "Of the Sixth Sense",
+   "zh-CN": "超凡感知",
+   "ja": "Sixth Sense",
+   "zh-TW": "超凡感知"
+  }
+ },
+ {
+  "slug": "corpse-dancer",
+  "en": "Corpse Dancer",
+  "prefix": true,
+  "n": {
+   "en": "Corpse Dancer",
+   "zh-CN": "地狱舞者",
+   "ja": "Corpse Dancer",
+   "zh-TW": "地獄舞者"
+  }
+ },
+ {
+  "slug": "makai-master",
+  "en": "Makai Master",
+  "prefix": true,
+  "n": {
+   "en": "Makai Master",
+   "zh-CN": "魔戒至尊",
+   "ja": "Master of GARO",
+   "zh-TW": "魔戒至尊"
+  }
+ },
+ {
+  "slug": "garo",
+  "en": "Garo",
+  "prefix": true,
+  "n": {
+   "en": "Garo",
+   "zh-CN": "牙狼",
+   "ja": "GARO",
+   "zh-TW": "牙狼"
+  }
+ },
+ {
+  "slug": "makai-monk",
+  "en": "Makai Monk",
+  "prefix": true,
+  "n": {
+   "en": "Makai Monk",
+   "zh-CN": "魔戒武僧",
+   "ja": "Makai Monk",
+   "zh-TW": "魔戒武僧"
+  }
+ },
+ {
+  "slug": "barago",
+  "en": "Barago",
+  "prefix": true,
+  "n": {
+   "en": "Barago",
+   "zh-CN": "巴拉格",
+   "ja": "BARAGO",
+   "zh-TW": "巴拉格"
+  }
+ },
+ {
+  "slug": "dan",
+  "en": "Dan",
+  "prefix": true,
+  "n": {
+   "en": "Dan",
+   "zh-CN": "打无",
+   "ja": "DAN",
+   "zh-TW": "打無"
+  }
+ },
+ {
+  "slug": "makai-bard",
+  "en": "Makai Bard",
+  "prefix": true,
+  "n": {
+   "en": "Makai Bard",
+   "zh-CN": "魔戒吟游诗人",
+   "ja": "Makai Bard",
+   "zh-TW": "魔戒吟遊詩人"
+  }
+ },
+ {
+  "slug": "makai-black-mage",
+  "en": "Makai Black Mage",
+  "prefix": true,
+  "n": {
+   "en": "Makai Black Mage",
+   "zh-CN": "魔戒黑魔法师",
+   "ja": "Makai Black Mage",
+   "zh-TW": "魔戒黑魔法師"
+  }
+ },
+ {
+  "slug": "makai-white-mage",
+  "en": "Makai White Mage",
+  "prefix": true,
+  "n": {
+   "en": "Makai White Mage",
+   "zh-CN": "魔戒白魔法师",
+   "ja": "Makai White Mage",
+   "zh-TW": "魔戒白魔法師"
+  }
+ },
+ {
+  "slug": "zero",
+  "en": "Zero",
+  "prefix": true,
+  "n": {
+   "en": "Zero",
+   "zh-CN": "绝狼",
+   "ja": "ZERO",
+   "zh-TW": "絕狼"
+  }
+ },
+ {
+  "slug": "makai-summoner",
+  "en": "Makai Summoner",
+  "prefix": true,
+  "n": {
+   "en": "Makai Summoner",
+   "zh-CN": "魔戒召唤师",
+   "ja": "Makai Summoner",
+   "zh-TW": "魔戒召喚師"
+  }
+ },
+ {
+  "slug": "makai-scholar",
+  "en": "Makai Scholar",
+  "prefix": true,
+  "n": {
+   "en": "Makai Scholar",
+   "zh-CN": "魔戒学者",
+   "ja": "Makai Scholar",
+   "zh-TW": "魔戒學者"
+  }
+ },
+ {
+  "slug": "kiba",
+  "en": "Kiba",
+  "prefix": true,
+  "n": {
+   "en": "Kiba",
+   "zh-CN": "牙",
+   "ja": "KIBA",
+   "zh-TW": "牙"
+  }
+ },
+ {
+  "slug": "makai-machinist",
+  "en": "Makai Machinist",
+  "prefix": true,
+  "n": {
+   "en": "Makai Machinist",
+   "zh-CN": "魔戒机工士",
+   "ja": "Makai Machinist",
+   "zh-TW": "魔戒機工士"
+  }
+ },
+ {
+  "slug": "makai-astrologian",
+  "en": "Makai Astrologian",
+  "prefix": true,
+  "n": {
+   "en": "Makai Astrologian",
+   "zh-CN": "魔戒占星术士",
+   "ja": "Makai Astrologian",
+   "zh-TW": "魔戒占星術士"
+  }
+ },
+ {
+  "slug": "moonlifter",
+  "en": "Moonlifter",
+  "prefix": true,
+  "n": {
+   "en": "Moonlifter",
+   "zh-CN": "日月舞者",
+   "ja": "Moonlift Dancer",
+   "zh-TW": "日月舞者"
+  }
+ },
+ {
+  "slug": "the-finest-pupil-s-ally",
+  "en": "The Finest Pupil's Ally",
+  "prefix": false,
+  "n": {
+   "en": "The Finest Pupil's Ally",
+   "zh-CN": "最好的学生",
+   "ja": "the Finest Pupil",
+   "zh-TW": "最好的學生"
+  }
+ },
+ {
+  "slug": "fatewalker",
+  "en": "Fatewalker",
+  "prefix": true,
+  "n": {
+   "en": "Fatewalker",
+   "zh-CN": "命运的止境",
+   "ja": "the Far Edge of Fate",
+   "zh-TW": "命運的止境"
+  }
+ },
+ {
+  "slug": "of-the-holy-body",
+  "en": "Of the Holy Body",
+  "prefix": false,
+  "n": {
+   "en": "Of the Holy Body",
+   "zh-CN": "咨询师",
+   "ja": "Consulting Associate",
+   "zh-TW": "諮詢師"
+  }
+ },
+ {
+  "slug": "gigi-s-best-friend",
+  "en": "Gigi's Best Friend",
+  "prefix": true,
+  "n": {
+   "en": "Gigi's Best Friend",
+   "zh-CN": "吉吉最好的朋友",
+   "ja": "Gigi's Best Friend",
+   "zh-TW": "吉吉最好的朋友"
+  }
+ },
+ {
+  "slug": "tamer-of-the-undying-flame",
+  "en": "Tamer of the Undying Flame",
+  "prefix": false,
+  "n": {
+   "en": "Tamer of the Undying Flame",
+   "zh-CN": "跨凤乘鸾",
+   "ja": "Phoenix Tamer",
+   "zh-TW": "跨鳳乘鸞"
+  }
+ },
+ {
+  "slug": "mortal-fist",
+  "en": "Mortal Fist",
+  "prefix": true,
+  "n": {
+   "en": "Mortal Fist",
+   "zh-CN": "致命",
+   "ja": "Hard Puncher",
+   "zh-TW": "致命"
+  }
+ },
+ {
+  "slug": "rhalgr-s-right-fist",
+  "en": "Rhalgr's Right Fist",
+  "prefix": false,
+  "n": {
+   "en": "Rhalgr's Right Fist",
+   "zh-CN": "破坏神圣徒",
+   "ja": "Rhalgr's Saint",
+   "zh-TW": "破壞神聖徒"
+  }
+ },
+ {
+  "slug": "tablesetter",
+  "en": "Tablesetter",
+  "prefix": true,
+  "n": {
+   "en": "Tablesetter",
+   "zh-CN": "辅弼",
+   "ja": "Tablesetter",
+   "zh-TW": "輔弼"
+  }
+ },
+ {
+  "slug": "halone-s-cup-bearer",
+  "en": "Halone's Cup Bearer",
+  "prefix": false,
+  "n": {
+   "en": "Halone's Cup Bearer",
+   "zh-CN": "战争神圣徒",
+   "ja": "Halone's Saint",
+   "zh-TW": "戰爭神聖徒"
+  }
+ },
+ {
+  "slug": "zhloe-s-friend",
+  "en": "Zhloe's Friend",
+  "prefix": true,
+  "n": {
+   "en": "Zhloe's Friend",
+   "zh-CN": "熙洛的朋友",
+   "ja": "Zhloe's Friend",
+   "zh-TW": "熙洛的朋友"
+  }
+ },
+ {
+  "slug": "zhloe-s-best-friend",
+  "en": "Zhloe's Best Friend",
+  "prefix": true,
+  "n": {
+   "en": "Zhloe's Best Friend",
+   "zh-CN": "熙洛的老主顾",
+   "ja": "Zhloe's Best Friend",
+   "zh-TW": "熙洛的老主顧"
+  }
+ },
+ {
+  "slug": "survivor-of-the-song",
+  "en": "Survivor of the Song",
+  "prefix": false,
+  "n": {
+   "en": "Survivor of the Song",
+   "zh-CN": "妖歌幸存者",
+   "ja": "Survivor of the Song",
+   "zh-TW": "妖歌倖存者"
+  }
+ },
+ {
+  "slug": "ijin-traveler",
+  "en": "Ijin Traveler",
+  "prefix": true,
+  "n": {
+   "en": "Ijin Traveler",
+   "zh-CN": "异人旅者",
+   "ja": "Ijin Traveler",
+   "zh-TW": "異人旅者"
+  }
+ },
+ {
+  "slug": "confederate",
+  "en": "Confederate",
+  "prefix": true,
+  "n": {
+   "en": "Confederate",
+   "zh-CN": "同盟者",
+   "ja": "Confederate",
+   "zh-TW": "同盟者"
+  }
+ },
+ {
+  "slug": "adversary",
+  "en": "Adversary",
+  "prefix": true,
+  "n": {
+   "en": "Adversary",
+   "zh-CN": "敌手",
+   "ja": "Adversary",
+   "zh-TW": "敵手"
+  }
+ },
+ {
+  "slug": "steppe-warrior",
+  "en": "Steppe Warrior",
+  "prefix": true,
+  "n": {
+   "en": "Steppe Warrior",
+   "zh-CN": "草原勇士",
+   "ja": "Steppe Warrior",
+   "zh-TW": "草原勇士"
+  }
+ },
+ {
+  "slug": "the-returned",
+  "en": "The Returned",
+  "prefix": false,
+  "n": {
+   "en": "The Returned",
+   "zh-CN": "归来之人",
+   "ja": "the Returned",
+   "zh-TW": "歸來之人"
+  }
+ },
+ {
+  "slug": "lyse-s-right-fist",
+  "en": "Lyse's Right Fist",
+  "prefix": true,
+  "n": {
+   "en": "Lyse's Right Fist",
+   "zh-CN": "莉瑟的右拳",
+   "ja": "Lyse's Right Fist",
+   "zh-TW": "莉瑟的右拳"
+  }
+ },
+ {
+  "slug": "the-liberator",
+  "en": "The Liberator",
+  "prefix": false,
+  "n": {
+   "en": "The Liberator",
+   "zh-CN": "红莲解放者",
+   "ja": "the Liberator",
+   "zh-TW": "紅蓮解放者"
+  }
+ },
+ {
+  "slug": "deltascape-deleter",
+  "en": "Deltascape Deleter",
+  "prefix": true,
+  "n": {
+   "en": "Deltascape Deleter",
+   "zh-CN": "德尔塔幻境破坏者",
+   "ja": "Deltascape Deleter",
+   "zh-TW": "德爾塔幻境破壞者"
+  }
+ },
+ {
+  "slug": "ul-cup-champion",
+  "en": "Ul Cup Champion",
+  "prefix": true,
+  "n": {
+   "en": "Ul Cup Champion",
+   "zh-CN": "冠军之剑",
+   "ja": "Ul Cup Champion",
+   "zh-TW": "冠軍之劍"
+  }
+ },
+ {
+  "slug": "the-fistful",
+  "en": "The Fistful",
+  "prefix": false,
+  "n": {
+   "en": "The Fistful",
+   "zh-CN": "复教之拳",
+   "ja": "the Fistful",
+   "zh-TW": "復教之拳"
+  }
+ },
+ {
+  "slug": "loved-by-the-axe",
+  "en": "Loved by the Axe",
+  "prefix": false,
+  "n": {
+   "en": "Loved by the Axe",
+   "zh-CN": "纯爱之斧",
+   "ja": "Loved by the Axe",
+   "zh-TW": "純愛之斧"
+  }
+ },
+ {
+  "slug": "the-blood-dragoon",
+  "en": "The Blood Dragoon",
+  "prefix": false,
+  "n": {
+   "en": "The Blood Dragoon",
+   "zh-CN": "红血之龙",
+   "ja": "the Blood Dragoon",
+   "zh-TW": "紅血之龍"
+  }
+ },
+ {
+  "slug": "of-the-true-autumn",
+  "en": "Of the True Autumn",
+  "prefix": false,
+  "n": {
+   "en": "Of the True Autumn",
+   "zh-CN": "红叶之诗",
+   "ja": "of the True Autumn",
+   "zh-TW": "紅葉之詩"
+  }
+ },
+ {
+  "slug": "padjal-protector",
+  "en": "Padjal Protector",
+  "prefix": true,
+  "n": {
+   "en": "Padjal Protector",
+   "zh-CN": "角尊之白",
+   "ja": "Padjali Protector",
+   "zh-TW": "角尊之白"
+  }
+ },
+ {
+  "slug": "gembreaker",
+  "en": "Gembreaker",
+  "prefix": true,
+  "n": {
+   "en": "Gembreaker",
+   "zh-CN": "魔石之黑",
+   "ja": "Gembreaker",
+   "zh-TW": "魔石之黑"
+  }
+ },
+ {
+  "slug": "the-first-caller",
+  "en": "The First Caller",
+  "prefix": false,
+  "n": {
+   "en": "The First Caller",
+   "zh-CN": "首席之唤",
+   "ja": "the First Caller",
+   "zh-TW": "首席之喚"
+  }
+ },
+ {
+  "slug": "keeper-of-the-lilacs",
+  "en": "Keeper of the Lilacs",
+  "prefix": true,
+  "n": {
+   "en": "Keeper of the Lilacs",
+   "zh-CN": "传承之学",
+   "ja": "Keeper of the Lilacs",
+   "zh-TW": "傳承之學"
+  }
+ },
+ {
+  "slug": "eorzean-ninja",
+  "en": "Eorzean Ninja",
+  "prefix": true,
+  "n": {
+   "en": "Eorzean Ninja",
+   "zh-CN": "西方之忍",
+   "ja": "Eorzean Ninja",
+   "zh-TW": "西方之忍"
+  }
+ },
+ {
+  "slug": "of-the-swirling-abyss",
+  "en": "Of the Swirling Abyss",
+  "prefix": false,
+  "n": {
+   "en": "Of the Swirling Abyss",
+   "zh-CN": "深渊之暗",
+   "ja": "of the Swirling Abyss",
+   "zh-TW": "深淵之暗"
+  }
+ },
+ {
+  "slug": "the-howler",
+  "en": "The Howler",
+  "prefix": false,
+  "n": {
+   "en": "The Howler",
+   "zh-CN": "咆哮之火",
+   "ja": "the Musketeer",
+   "zh-TW": "咆哮之火"
+  }
+ },
+ {
+  "slug": "of-the-eastern-skies",
+  "en": "Of the Eastern Skies",
+  "prefix": false,
+  "n": {
+   "en": "Of the Eastern Skies",
+   "zh-CN": "东天之星",
+   "ja": "of the Eastern Skies",
+   "zh-TW": "東天之星"
+  }
+ },
+ {
+  "slug": "the-red",
+  "en": "The Red",
+  "prefix": false,
+  "n": {
+   "en": "The Red",
+   "zh-CN": "抗争之红",
+   "ja": "the Red",
+   "zh-TW": "抗爭之紅"
+  }
+ },
+ {
+  "slug": "muso",
+  "en": "Muso",
+  "prefix": false,
+  "n": {
+   "en": "Muso",
+   "zh-CN": "无双之士",
+   "ja": "the Muso",
+   "zh-TW": "無雙之士"
+  }
+ },
+ {
+  "slug": "god-of-war",
+  "en": "God of War",
+  "prefix": true,
+  "n": {
+   "en": "God of War",
+   "zh-CN": "战争之神",
+   "ja": "God of War",
+   "zh-TW": "戰爭之神"
+  },
+  "fem": {
+   "en": "Goddess of War",
+   "zh-CN": "战争女神",
+   "zh-TW": "戰爭女神"
+  }
+ },
+ {
+  "slug": "god-of-magic",
+  "en": "God of Magic",
+  "prefix": true,
+  "n": {
+   "en": "God of Magic",
+   "zh-CN": "魔法之神",
+   "ja": "God of Magic",
+   "zh-TW": "魔法之神"
+  },
+  "fem": {
+   "en": "Goddess of Magic",
+   "zh-CN": "魔法女神",
+   "zh-TW": "魔法女神"
+  }
+ },
+ {
+  "slug": "god-of-the-hand",
+  "en": "God of the Hand",
+  "prefix": true,
+  "n": {
+   "en": "God of the Hand",
+   "zh-CN": "巧手之神",
+   "ja": "God of the Hand",
+   "zh-TW": "巧手之神"
+  },
+  "fem": {
+   "en": "Goddess of the Hand",
+   "zh-CN": "巧手女神",
+   "zh-TW": "巧手女神"
+  }
+ },
+ {
+  "slug": "god-of-the-land",
+  "en": "God of the Land",
+  "prefix": true,
+  "n": {
+   "en": "God of the Land",
+   "zh-CN": "大地之神",
+   "ja": "God of the Land",
+   "zh-TW": "大地之神"
+  },
+  "fem": {
+   "en": "Goddess of the Land",
+   "zh-CN": "大地女神",
+   "zh-TW": "大地女神"
+  }
+ },
+ {
+  "slug": "of-the-longest-hunt",
+  "en": "Of the Longest Hunt",
+  "prefix": false,
+  "n": {
+   "en": "Of the Longest Hunt",
+   "zh-CN": "极限狩猎",
+   "ja": "of the Longest Hunt",
+   "zh-TW": "極限狩獵"
+  }
+ },
+ {
+  "slug": "of-the-endless-hunt",
+  "en": "Of the Endless Hunt",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Hunt",
+   "zh-CN": "无尽狩猎",
+   "ja": "of the Endless Hunt",
+   "zh-TW": "無盡狩獵"
+  }
+ },
+ {
+  "slug": "thrillseeker",
+  "en": "Thrillseeker",
+  "prefix": true,
+  "n": {
+   "en": "Thrillseeker",
+   "zh-CN": "兴奋猎手",
+   "ja": "Thrillseeker",
+   "zh-TW": "興奮獵手"
+  }
+ },
+ {
+  "slug": "ultimate-thrillseeker",
+  "en": "Ultimate Thrillseeker",
+  "prefix": true,
+  "n": {
+   "en": "Ultimate Thrillseeker",
+   "zh-CN": "刺激猎手",
+   "ja": "Ultimate Thrillseeker",
+   "zh-TW": "刺激獵手"
+  }
+ },
+ {
+  "slug": "canal-raider",
+  "en": "Canal Raider",
+  "prefix": true,
+  "n": {
+   "en": "Canal Raider",
+   "zh-CN": "运河入侵者",
+   "ja": "Canal Raider",
+   "zh-TW": "運河入侵者"
+  }
+ },
+ {
+  "slug": "hiruko-hunter",
+  "en": "Hiruko Hunter",
+  "prefix": true,
+  "n": {
+   "en": "Hiruko Hunter",
+   "zh-CN": "蛭子猎手",
+   "ja": "Hiruko Hunter",
+   "zh-TW": "蛭子獵手"
+  }
+ },
+ {
+  "slug": "heavenly-gate-crasher",
+  "en": "Heavenly Gate Crasher",
+  "prefix": true,
+  "n": {
+   "en": "Heavenly Gate Crasher",
+   "zh-CN": "突破天际",
+   "ja": "Heavenly Gate Crasher",
+   "zh-TW": "突破天際"
+  }
+ },
+ {
+  "slug": "true-hero",
+  "en": "True Hero",
+  "prefix": true,
+  "n": {
+   "en": "True Hero",
+   "zh-CN": "真英雄",
+   "ja": "True Hero",
+   "zh-TW": "真英雄"
+  }
+ },
+ {
+  "slug": "lone-hero",
+  "en": "Lone Hero",
+  "prefix": true,
+  "n": {
+   "en": "Lone Hero",
+   "zh-CN": "孤胆英雄",
+   "ja": "Lone Hero",
+   "zh-TW": "孤膽英雄"
+  }
+ },
+ {
+  "slug": "hoarder",
+  "en": "Hoarder",
+  "prefix": true,
+  "n": {
+   "en": "Hoarder",
+   "zh-CN": "财运亨通",
+   "ja": "Hoarder",
+   "zh-TW": "財運亨通"
+  }
+ },
+ {
+  "slug": "vanguard",
+  "en": "Vanguard",
+  "prefix": true,
+  "n": {
+   "en": "Vanguard",
+   "zh-CN": "先锋",
+   "ja": "Vanguard",
+   "zh-TW": "先鋒"
+  }
+ },
+ {
+  "slug": "kurenai-s-best-friend",
+  "en": "Kurenai's Best Friend",
+  "prefix": true,
+  "n": {
+   "en": "Kurenai's Best Friend",
+   "zh-CN": "红的朋友",
+   "ja": "Kurenai's Best Friend",
+   "zh-TW": "紅的朋友"
+  }
+ },
+ {
+  "slug": "kurenai-s-partner",
+  "en": "Kurenai's Partner",
+  "prefix": true,
+  "n": {
+   "en": "Kurenai's Partner",
+   "zh-CN": "红的老主顾",
+   "ja": "Kurenai's Partner",
+   "zh-TW": "紅的老主顧"
+  }
+ },
+ {
+  "slug": "under-the-moonlight",
+  "en": "Under the Moonlight",
+  "prefix": false,
+  "n": {
+   "en": "Under the Moonlight",
+   "zh-CN": "月下彼岸花",
+   "ja": "Under the Moonlight",
+   "zh-TW": "月下彼岸花"
+  }
+ },
+ {
+  "slug": "siltwater-socialite",
+  "en": "Siltwater Socialite",
+  "prefix": true,
+  "n": {
+   "en": "Siltwater Socialite",
+   "zh-CN": "无二江名流",
+   "ja": "Siltwater Socialite",
+   "zh-TW": "無二江名流"
+  }
+ },
+ {
+  "slug": "matchmaker",
+  "en": "Matchmaker",
+  "prefix": true,
+  "n": {
+   "en": "Matchmaker",
+   "zh-CN": "媒人",
+   "ja": "Matchmaker",
+   "zh-TW": "媒人"
+  }
+ },
+ {
+  "slug": "eorzean-ninja-warrior",
+  "en": "Eorzean Ninja Warrior",
+  "prefix": true,
+  "n": {
+   "en": "Eorzean Ninja Warrior",
+   "zh-CN": "艾欧泽亚极限体能王",
+   "ja": "Eorzean Ninja Warrior",
+   "zh-TW": "艾歐澤亞極限體能王"
+  }
+ },
+ {
+  "slug": "calamatologist",
+  "en": "Calamatologist",
+  "prefix": true,
+  "n": {
+   "en": "Calamatologist",
+   "zh-CN": "灵灾学家",
+   "ja": "Calamatologist",
+   "zh-TW": "靈災學家"
+  }
+ },
+ {
+  "slug": "the-ultimate-legend",
+  "en": "The Ultimate Legend",
+  "prefix": false,
+  "n": {
+   "en": "The Ultimate Legend",
+   "zh-CN": "究极",
+   "ja": "the Ultimate Legend",
+   "zh-TW": "究極"
+  }
+ },
+ {
+  "slug": "monster-hunter",
+  "en": "Monster Hunter",
+  "prefix": true,
+  "n": {
+   "en": "Monster Hunter",
+   "zh-CN": "怪物猎人",
+   "ja": "Monster Hunter",
+   "zh-TW": "怪物獵人"
+  }
+ },
+ {
+  "slug": "frc-2018-champion",
+  "en": "FRC 2018 Champion",
+  "prefix": true,
+  "n": {
+   "en": "FRC 2018 Champion",
+   "zh-CN": "2018群狼盛宴冠军",
+   "ja": "FRC2018 Champion",
+   "zh-TW": "2018羣狼盛宴冠軍"
+  }
+ },
+ {
+  "slug": "frc-2018-finalist",
+  "en": "FRC 2018 Finalist",
+  "prefix": true,
+  "n": {
+   "en": "FRC 2018 Finalist",
+   "zh-CN": "2018群狼盛宴晋级选手",
+   "ja": "FRC2018 Finalist",
+   "zh-TW": "2018羣狼盛宴晉級選手"
+  }
+ },
+ {
+  "slug": "frc-2018-ranker",
+  "en": "FRC 2018 Ranker",
+  "prefix": true,
+  "n": {
+   "en": "FRC 2018 Ranker",
+   "zh-CN": "2018群狼盛宴入围选手",
+   "ja": "FRC2018 Ranker",
+   "zh-TW": "2018羣狼盛宴入圍選手"
+  }
+ },
+ {
+  "slug": "prelude-in-violet",
+  "en": "Prelude in Violet",
+  "prefix": true,
+  "n": {
+   "en": "Prelude in Violet",
+   "zh-CN": "狂乱前奏",
+   "ja": "Prelude in Violet",
+   "zh-TW": "狂亂前奏"
+  }
+ },
+ {
+  "slug": "philanthropist",
+  "en": "Philanthropist",
+  "prefix": false,
+  "n": {
+   "en": "Philanthropist",
+   "zh-CN": "慈善家",
+   "ja": "Philanthropist",
+   "zh-TW": "慈善家"
+  }
+ },
+ {
+  "slug": "altar-boy",
+  "en": "Altar Boy",
+  "prefix": true,
+  "n": {
+   "en": "Altar Boy",
+   "zh-CN": "神殿辅祭",
+   "ja": "Altar Boy",
+   "zh-TW": "神殿輔祭"
+  },
+  "fem": {
+   "en": "Altar Girl",
+   "ja": "Altar Girl"
+  }
+ },
+ {
+  "slug": "the-devout",
+  "en": "The Devout",
+  "prefix": false,
+  "n": {
+   "en": "The Devout",
+   "zh-CN": "虔诚信徒",
+   "ja": "the Devout",
+   "zh-TW": "虔誠信徒"
+  }
+ },
+ {
+  "slug": "invoker-of-gods",
+  "en": "Invoker of Gods",
+  "prefix": true,
+  "n": {
+   "en": "Invoker of Gods",
+   "zh-CN": "祈求神灵之人",
+   "ja": "Invoker of Gods",
+   "zh-TW": "祈求神靈之人"
+  }
+ },
+ {
+  "slug": "grandmaster-caster",
+  "en": "Grandmaster Caster",
+  "prefix": true,
+  "n": {
+   "en": "Grandmaster Caster",
+   "zh-CN": "烟波钓徒",
+   "ja": "Ebisu",
+   "zh-TW": "煙波釣徒"
+  }
+ },
+ {
+  "slug": "kyubi-tamer",
+  "en": "Kyubi Tamer",
+  "prefix": false,
+  "n": {
+   "en": "Kyubi Tamer",
+   "zh-CN": "九尾通天",
+   "ja": "Kyubi Tamer",
+   "zh-TW": "九尾通天"
+  }
+ },
+ {
+  "slug": "mahjong-enthusiast",
+  "en": "Mahjong Enthusiast",
+  "prefix": true,
+  "n": {
+   "en": "Mahjong Enthusiast",
+   "zh-CN": "方城之将",
+   "ja": "Mahjong Enthusiast",
+   "zh-TW": "方城之將"
+  }
+ },
+ {
+  "slug": "mahjong-master",
+  "en": "Mahjong Master",
+  "prefix": true,
+  "n": {
+   "en": "Mahjong Master",
+   "zh-CN": "方城之主",
+   "ja": "Mahjong Master",
+   "zh-TW": "方城之主"
+  }
+ },
+ {
+  "slug": "little-piggy",
+  "en": "Little Piggy",
+  "prefix": true,
+  "n": {
+   "en": "Little Piggy",
+   "zh-CN": "小小猪",
+   "ja": "Little Piggy",
+   "zh-TW": "小小豬"
+  }
+ },
+ {
+  "slug": "tough-customer",
+  "en": "Tough Customer",
+  "prefix": true,
+  "n": {
+   "en": "Tough Customer",
+   "zh-CN": "任性的客户",
+   "ja": "Tough Customer",
+   "zh-TW": "任性的客戶"
+  }
+ },
+ {
+  "slug": "blue-blood",
+  "en": "Blue Blood",
+  "prefix": true,
+  "n": {
+   "en": "Blue Blood",
+   "zh-CN": "青之血脉",
+   "ja": "Blue Blood",
+   "zh-TW": "青之血脈"
+  }
+ },
+ {
+  "slug": "mask-of-the-blue",
+  "en": "Mask of the Blue",
+  "prefix": false,
+  "n": {
+   "en": "Mask of the Blue",
+   "zh-CN": "青之假面",
+   "ja": "Mask the Blue",
+   "zh-TW": "青之假面"
+  }
+ },
+ {
+  "slug": "perfect-blue",
+  "en": "Perfect Blue",
+  "prefix": true,
+  "n": {
+   "en": "Perfect Blue",
+   "zh-CN": "青之完美",
+   "ja": "Perfect Blue",
+   "zh-TW": "青之完美"
+  }
+ },
+ {
+  "slug": "eurekan-explorer",
+  "en": "Eurekan Explorer",
+  "prefix": true,
+  "n": {
+   "en": "Eurekan Explorer",
+   "zh-CN": "优雷卡探险家",
+   "ja": "Eurekan Explorer",
+   "zh-TW": "優雷卡探險家"
+  }
+ },
+ {
+  "slug": "a-requiem-for-heroes",
+  "en": "A Requiem For Heroes",
+  "prefix": false,
+  "n": {
+   "en": "A Requiem For Heroes",
+   "zh-CN": "英雄挽歌",
+   "ja": "A Requiem For Heroes",
+   "zh-TW": "英雄輓歌"
+  }
+ },
+ {
+  "slug": "the-soboro",
+  "en": "The Soboro",
+  "prefix": false,
+  "n": {
+   "en": "The Soboro",
+   "zh-CN": "破衣",
+   "ja": "the Soboro",
+   "zh-TW": "破衣"
+  }
+ },
+ {
+  "slug": "kageyama-killer",
+  "en": "Kageyama Killer",
+  "prefix": false,
+  "n": {
+   "en": "Kageyama Killer",
+   "zh-CN": "替天行道",
+   "ja": "Kageyama Killer",
+   "zh-TW": "替天行道"
+  }
+ },
+ {
+  "slug": "kingsglaive",
+  "en": "Kingsglaive",
+  "prefix": true,
+  "n": {
+   "en": "Kingsglaive",
+   "zh-CN": "王者之剑",
+   "ja": "Kingsglaive",
+   "zh-TW": "王者之劍"
+  }
+ },
+ {
+  "slug": "lord-of-the-fetch",
+  "en": "Lord of the Fetch",
+  "prefix": false,
+  "n": {
+   "en": "Lord of the Fetch",
+   "zh-CN": "寻物高手",
+   "ja": "Lord of the Fetch",
+   "zh-TW": "尋物高手"
+  },
+  "fem": {
+   "en": "Lady of the Fetch",
+   "ja": "Lady of the Fetch"
+  }
+ },
+ {
+  "slug": "soul-of-war",
+  "en": "Soul of War",
+  "prefix": true,
+  "n": {
+   "en": "Soul of War",
+   "zh-CN": "战争之魂",
+   "ja": "Soul of War",
+   "zh-TW": "戰爭之魂"
+  }
+ },
+ {
+  "slug": "soul-of-magic",
+  "en": "Soul of Magic",
+  "prefix": true,
+  "n": {
+   "en": "Soul of Magic",
+   "zh-CN": "魔法之魂",
+   "ja": "Soul of Magic",
+   "zh-TW": "魔法之魂"
+  }
+ },
+ {
+  "slug": "soul-of-the-craft",
+  "en": "Soul of the Craft",
+  "prefix": true,
+  "n": {
+   "en": "Soul of the Craft",
+   "zh-CN": "巧手之魂",
+   "ja": "Soul of the Craft",
+   "zh-TW": "巧手之魂"
+  }
+ },
+ {
+  "slug": "soul-of-the-harvest",
+  "en": "Soul of the Harvest",
+  "prefix": true,
+  "n": {
+   "en": "Soul of the Harvest",
+   "zh-CN": "大地之魂",
+   "ja": "Soul of the Harvest",
+   "zh-TW": "大地之魂"
+  }
+ },
+ {
+  "slug": "outlander",
+  "en": "Outlander",
+  "prefix": true,
+  "n": {
+   "en": "Outlander",
+   "zh-CN": "他乡之人",
+   "ja": "Outlander",
+   "zh-TW": "他鄉之人"
+  }
+ },
+ {
+  "slug": "the-fae-touched",
+  "en": "The Fae-touched",
+  "prefix": false,
+  "n": {
+   "en": "The Fae-touched",
+   "zh-CN": "梦醒妖灵乡",
+   "ja": "the Fae-touched",
+   "zh-TW": "夢醒妖靈鄉"
+  }
+ },
+ {
+  "slug": "seeker-of-hidden-truths",
+  "en": "Seeker of Hidden Truths",
+  "prefix": true,
+  "n": {
+   "en": "Seeker of Hidden Truths",
+   "zh-CN": "溯源",
+   "ja": "Seeker of Hidden Truths",
+   "zh-TW": "溯源"
+  }
+ },
+ {
+  "slug": "of-the-sunless-sea",
+  "en": "Of the Sunless Sea",
+  "prefix": false,
+  "n": {
+   "en": "Of the Sunless Sea",
+   "zh-CN": "无光之人",
+   "ja": "of the Sunless Sea",
+   "zh-TW": "無光之人"
+  }
+ },
+ {
+  "slug": "enemy-of-innocence",
+  "en": "Enemy of Innocence",
+  "prefix": true,
+  "n": {
+   "en": "Enemy of Innocence",
+   "zh-CN": "瑕不掩瑜",
+   "ja": "Enemy of Innocence",
+   "zh-TW": "瑕不掩瑜"
+  }
+ },
+ {
+  "slug": "shadowbringer",
+  "en": "Shadowbringer",
+  "prefix": true,
+  "n": {
+   "en": "Shadowbringer",
+   "zh-CN": "暗影反叛者",
+   "ja": "Shadowbringer",
+   "zh-TW": "暗影反叛者"
+  }
+ },
+ {
+  "slug": "sworn-protector",
+  "en": "Sworn Protector",
+  "prefix": true,
+  "n": {
+   "en": "Sworn Protector",
+   "zh-CN": "守约之刃",
+   "ja": "Sworn Protector",
+   "zh-TW": "守約之刃"
+  }
+ },
+ {
+  "slug": "the-heart-s-beat",
+  "en": "The Heart's Beat",
+  "prefix": false,
+  "n": {
+   "en": "The Heart's Beat",
+   "zh-CN": "心动之舞",
+   "ja": "the Heart's Beat",
+   "zh-TW": "心動之舞"
+  }
+ },
+ {
+  "slug": "living-memory",
+  "en": "Living Memory",
+  "prefix": true,
+  "n": {
+   "en": "Living Memory",
+   "zh-CN": "活着的记忆",
+   "ja": "Living Memory",
+   "zh-TW": "活着的記憶"
+  }
+ },
+ {
+  "slug": "bulwark-between-worlds",
+  "en": "Bulwark between Worlds",
+  "prefix": true,
+  "n": {
+   "en": "Bulwark between Worlds",
+   "zh-CN": "世界壁垒",
+   "ja": "Bulwark Between Worlds",
+   "zh-TW": "世界壁壘"
+  }
+ },
+ {
+  "slug": "the-transcendent",
+  "en": "The Transcendent",
+  "prefix": false,
+  "n": {
+   "en": "The Transcendent",
+   "zh-CN": "天赋卓绝",
+   "ja": "the Transcendent",
+   "zh-TW": "天賦卓絕"
+  }
+ },
+ {
+  "slug": "worldcleaver",
+  "en": "Worldcleaver",
+  "prefix": true,
+  "n": {
+   "en": "Worldcleaver",
+   "zh-CN": "开天辟地",
+   "ja": "Worldcleaver",
+   "zh-TW": "開天闢地"
+  }
+ },
+ {
+  "slug": "bolt-from-the-black",
+  "en": "Bolt from the Black",
+  "prefix": true,
+  "n": {
+   "en": "Bolt from the Black",
+   "zh-CN": "黑翼夙愿",
+   "ja": "Bolt from the Black",
+   "zh-TW": "黑翼夙願"
+  }
+ },
+ {
+  "slug": "the-song-upon-the-wind",
+  "en": "The Song upon the Wind",
+  "prefix": false,
+  "n": {
+   "en": "The Song upon the Wind",
+   "zh-CN": "穿云乐歌",
+   "ja": "the Song upon the Wind",
+   "zh-TW": "穿雲樂歌"
+  }
+ },
+ {
+  "slug": "firstblessed",
+  "en": "Firstblessed",
+  "prefix": true,
+  "n": {
+   "en": "Firstblessed",
+   "zh-CN": "最初祝福",
+   "ja": "Firstblessed",
+   "zh-TW": "最初祝福"
+  }
+ },
+ {
+  "slug": "of-stranger-shadow",
+  "en": "Of Stranger Shadow",
+  "prefix": false,
+  "n": {
+   "en": "Of Stranger Shadow",
+   "zh-CN": "陌影愈深",
+   "ja": "of Stranger Shadow",
+   "zh-TW": "陌影愈深"
+  }
+ },
+ {
+  "slug": "farcaller",
+  "en": "Farcaller",
+  "prefix": true,
+  "n": {
+   "en": "Farcaller",
+   "zh-CN": "至远呼唤",
+   "ja": "Farcaller",
+   "zh-TW": "至遠呼喚"
+  }
+ },
+ {
+  "slug": "knower-of-twin-worlds",
+  "en": "Knower of Twin Worlds",
+  "prefix": true,
+  "n": {
+   "en": "Knower of Twin Worlds",
+   "zh-CN": "智绝两界",
+   "ja": "Knower of Twin Worlds",
+   "zh-TW": "智絕兩界"
+  }
+ },
+ {
+  "slug": "shadow-of-the-other",
+  "en": "Shadow of the Other",
+  "prefix": true,
+  "n": {
+   "en": "Shadow of the Other",
+   "zh-CN": "化身为影",
+   "ja": "Shadow of the Other",
+   "zh-TW": "化身爲影"
+  }
+ },
+ {
+  "slug": "the-boundless-dark",
+  "en": "The Boundless Dark",
+  "prefix": false,
+  "n": {
+   "en": "The Boundless Dark",
+   "zh-CN": "黑暗无际",
+   "ja": "the Boundless Dark",
+   "zh-TW": "黑暗無際"
+  }
+ },
+ {
+  "slug": "the-shot-heard-across-worlds",
+  "en": "The Shot Heard Across Worlds",
+  "prefix": false,
+  "n": {
+   "en": "The Shot Heard Across Worlds",
+   "zh-CN": "跨界枪鸣",
+   "ja": "the Shot Heard Across Worlds",
+   "zh-TW": "跨界槍鳴"
+  }
+ },
+ {
+  "slug": "distant-stargazer",
+  "en": "Distant Stargazer",
+  "prefix": true,
+  "n": {
+   "en": "Distant Stargazer",
+   "zh-CN": "眺望星空",
+   "ja": "Distant Stargazer",
+   "zh-TW": "眺望星空"
+  }
+ },
+ {
+  "slug": "dualistic-duelist",
+  "en": "Dualistic Duelist",
+  "prefix": true,
+  "n": {
+   "en": "Dualistic Duelist",
+   "zh-CN": "二元剑手",
+   "ja": "Dualistic Duelist",
+   "zh-TW": "二元劍手"
+  }
+ },
+ {
+  "slug": "samurai-in-a-strange-land",
+  "en": "Samurai in a Strange Land",
+  "prefix": true,
+  "n": {
+   "en": "Samurai in a Strange Land",
+   "zh-CN": "异乡武士",
+   "ja": "Samurai in a Strange Land",
+   "zh-TW": "異鄉武士"
+  }
+ },
+ {
+  "slug": "wandering-vanguard",
+  "en": "Wandering Vanguard",
+  "prefix": true,
+  "n": {
+   "en": "Wandering Vanguard",
+   "zh-CN": "流浪保镖",
+   "ja": "Wandering Vanguard",
+   "zh-TW": "流浪保鏢"
+  }
+ },
+ {
+  "slug": "riftdancer",
+  "en": "Riftdancer",
+  "prefix": true,
+  "n": {
+   "en": "Riftdancer",
+   "zh-CN": "起舞新程",
+   "ja": "Riftdancer",
+   "zh-TW": "起舞新程"
+  }
+ },
+ {
+  "slug": "otherworld-smith",
+  "en": "Otherworld Smith",
+  "prefix": true,
+  "n": {
+   "en": "Otherworld Smith",
+   "zh-CN": "异界金属匠",
+   "ja": "Otherworld Smith",
+   "zh-TW": "異界金屬匠"
+  }
+ },
+ {
+  "slug": "otherworld-artisan",
+  "en": "Otherworld Artisan",
+  "prefix": true,
+  "n": {
+   "en": "Otherworld Artisan",
+   "zh-CN": "异界手艺人",
+   "ja": "Otherworld Artisan",
+   "zh-TW": "異界手藝人"
+  }
+ },
+ {
+  "slug": "otherworld-apothecary",
+  "en": "Otherworld Apothecary",
+  "prefix": true,
+  "n": {
+   "en": "Otherworld Apothecary",
+   "zh-CN": "异界食药师",
+   "ja": "Otherworld Apothecary",
+   "zh-TW": "異界食藥師"
+  }
+ },
+ {
+  "slug": "otherworld-seeker",
+  "en": "Otherworld Seeker",
+  "prefix": true,
+  "n": {
+   "en": "Otherworld Seeker",
+   "zh-CN": "异界采集家",
+   "ja": "Otherworld Seeker",
+   "zh-TW": "異界採集家"
+  }
+ },
+ {
+  "slug": "otherworld-angler",
+  "en": "Otherworld Angler",
+  "prefix": true,
+  "n": {
+   "en": "Otherworld Angler",
+   "zh-CN": "异界垂钓者",
+   "ja": "Otherworld Angler",
+   "zh-TW": "異界垂釣者"
+  }
+ },
+ {
+  "slug": "the-multifaceted",
+  "en": "The Multifaceted",
+  "prefix": false,
+  "n": {
+   "en": "The Multifaceted",
+   "zh-CN": "森罗万象",
+   "ja": "the Multifaceted",
+   "zh-TW": "森羅萬象"
+  }
+ },
+ {
+  "slug": "trusted-friend",
+  "en": "Trusted Friend",
+  "prefix": true,
+  "n": {
+   "en": "Trusted Friend",
+   "zh-CN": "亲信战友",
+   "ja": "Trusted Friend",
+   "zh-TW": "親信戰友"
+  }
+ },
+ {
+  "slug": "the-invisible-hand",
+  "en": "The Invisible Hand",
+  "prefix": false,
+  "n": {
+   "en": "The Invisible Hand",
+   "zh-CN": "看不见的手",
+   "ja": "the Invisible Hand",
+   "zh-TW": "看不見的手"
+  }
+ },
+ {
+  "slug": "charming-brute",
+  "en": "Charming Brute",
+  "prefix": true,
+  "n": {
+   "en": "Charming Brute",
+   "zh-CN": "人形凶兽",
+   "ja": "Charming Brute",
+   "zh-TW": "人形兇獸"
+  }
+ },
+ {
+  "slug": "the-fabulously-feral",
+  "en": "The Fabulously Feral",
+  "prefix": false,
+  "n": {
+   "en": "The Fabulously Feral",
+   "zh-CN": "凶猛异常",
+   "ja": "the Fabulously Feral",
+   "zh-TW": "兇猛異常"
+  }
+ },
+ {
+  "slug": "of-unyielding-oath",
+  "en": "Of Unyielding Oath",
+  "prefix": false,
+  "n": {
+   "en": "Of Unyielding Oath",
+   "zh-CN": "坚守誓言",
+   "ja": "of Unyielding Oath",
+   "zh-TW": "堅守誓言"
+  }
+ },
+ {
+  "slug": "of-unyielding-steel",
+  "en": "Of Unyielding Steel",
+  "prefix": false,
+  "n": {
+   "en": "Of Unyielding Steel",
+   "zh-CN": "钢铁不屈",
+   "ja": "of Unyielding Steel",
+   "zh-TW": "鋼鐵不屈"
+  }
+ },
+ {
+  "slug": "of-unyielding-principle",
+  "en": "Of Unyielding Principle",
+  "prefix": false,
+  "n": {
+   "en": "Of Unyielding Principle",
+   "zh-CN": "坚定不移",
+   "ja": "of Unyielding Principle",
+   "zh-TW": "堅定不移"
+  }
+ },
+ {
+  "slug": "of-unyielding-lealty",
+  "en": "Of Unyielding Lealty",
+  "prefix": false,
+  "n": {
+   "en": "Of Unyielding Lealty",
+   "zh-CN": "赤胆忠心",
+   "ja": "of Unyielding Lealty",
+   "zh-TW": "赤膽忠心"
+  }
+ },
+ {
+  "slug": "dungeon-raider",
+  "en": "Dungeon Raider",
+  "prefix": true,
+  "n": {
+   "en": "Dungeon Raider",
+   "zh-CN": "宝境入侵者",
+   "ja": "Dungeon Raider",
+   "zh-TW": "寶境入侵者"
+  }
+ },
+ {
+  "slug": "dungeon-dweller",
+  "en": "Dungeon Dweller",
+  "prefix": true,
+  "n": {
+   "en": "Dungeon Dweller",
+   "zh-CN": "宝境居民",
+   "ja": "Dungeon Dweller",
+   "zh-TW": "寶境居民"
+  }
+ },
+ {
+  "slug": "dungeon-lord",
+  "en": "Dungeon Lord",
+  "prefix": true,
+  "n": {
+   "en": "Dungeon Lord",
+   "zh-CN": "宝境之主",
+   "ja": "Dungeon Lord",
+   "zh-TW": "寶境之主"
+  },
+  "fem": {
+   "en": "Dungeon Lady",
+   "ja": "Dungeon Lady"
+  }
+ },
+ {
+  "slug": "kindred-sword",
+  "en": "Kindred Sword",
+  "prefix": true,
+  "n": {
+   "en": "Kindred Sword",
+   "zh-CN": "同道中人",
+   "ja": "Kindred Sword",
+   "zh-TW": "同道中人"
+  }
+ },
+ {
+  "slug": "of-virtuous-deeds",
+  "en": "Of Virtuous Deeds",
+  "prefix": false,
+  "n": {
+   "en": "Of Virtuous Deeds",
+   "zh-CN": "纯白与漆黑",
+   "ja": "of Virtuous Deeds",
+   "zh-TW": "純白與漆黑"
+  }
+ },
+ {
+  "slug": "kai-shirr-s-best-mate",
+  "en": "Kai-Shirr's Best Mate",
+  "prefix": true,
+  "n": {
+   "en": "Kai-Shirr's Best Mate",
+   "zh-CN": "凯·希尔的好伙伴",
+   "ja": "Kai-Shirr's Best Mate",
+   "zh-TW": "凱·希爾的好夥伴"
+  }
+ },
+ {
+  "slug": "honeybee",
+  "en": "Honeybee",
+  "prefix": true,
+  "n": {
+   "en": "Honeybee",
+   "zh-CN": "小蜜蜂",
+   "ja": "Honeybee",
+   "zh-TW": "小蜜蜂"
+  }
+ },
+ {
+  "slug": "sweet-dreamer",
+  "en": "Sweet Dreamer",
+  "prefix": true,
+  "n": {
+   "en": "Sweet Dreamer",
+   "zh-CN": "美梦使者",
+   "ja": "Sweet Dreamer",
+   "zh-TW": "美夢使者"
+  }
+ },
+ {
+  "slug": "the-perfect-legend",
+  "en": "The Perfect Legend",
+  "prefix": false,
+  "n": {
+   "en": "The Perfect Legend",
+   "zh-CN": "完美",
+   "ja": "the Perfect Legend",
+   "zh-TW": "完美"
+  }
+ },
+ {
+  "slug": "blue-to-the-bone",
+  "en": "Blue to the Bone",
+  "prefix": true,
+  "n": {
+   "en": "Blue to the Bone",
+   "zh-CN": "青之骨血",
+   "ja": "Blue to the Bone",
+   "zh-TW": "青之骨血"
+  }
+ },
+ {
+  "slug": "blue-luminary",
+  "en": "Blue Luminary",
+  "prefix": true,
+  "n": {
+   "en": "Blue Luminary",
+   "zh-CN": "青之豪杰",
+   "ja": "Blue Luminary",
+   "zh-TW": "青之豪傑"
+  }
+ },
+ {
+  "slug": "masked-of-the-round",
+  "en": "Masked of the Round",
+  "prefix": true,
+  "n": {
+   "en": "Masked of the Round",
+   "zh-CN": "圆桌假面",
+   "ja": "Masked of the Round",
+   "zh-TW": "圓桌假面"
+  }
+ },
+ {
+  "slug": "unbound-blue",
+  "en": "Unbound Blue",
+  "prefix": true,
+  "n": {
+   "en": "Unbound Blue",
+   "zh-CN": "无拘之青",
+   "ja": "Unbound Blue",
+   "zh-TW": "無拘之青"
+  }
+ },
+ {
+  "slug": "blue-justice",
+  "en": "Blue Justice",
+  "prefix": true,
+  "n": {
+   "en": "Blue Justice",
+   "zh-CN": "青之正义",
+   "ja": "Blue Justice",
+   "zh-TW": "青之正義"
+  }
+ },
+ {
+  "slug": "the-battleforged",
+  "en": "The Battleforged",
+  "prefix": false,
+  "n": {
+   "en": "The Battleforged",
+   "zh-CN": "百战锻铸",
+   "ja": "the Battleforged",
+   "zh-TW": "百戰鍛鑄"
+  }
+ },
+ {
+  "slug": "champion-of-the-blue",
+  "en": "Champion of the Blue",
+  "prefix": true,
+  "n": {
+   "en": "Champion of the Blue",
+   "zh-CN": "青之冠军",
+   "ja": "Champion of the Blue",
+   "zh-TW": "青之冠軍"
+  }
+ },
+ {
+  "slug": "saint-of-the-firmament",
+  "en": "Saint of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Saint of the Firmament",
+   "zh-CN": "天穹圣人",
+   "ja": "Saint of the Firmament",
+   "zh-TW": "天穹聖人"
+  }
+ },
+ {
+  "slug": "beatus-of-the-firmament",
+  "en": "Beatus of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Beatus of the Firmament",
+   "zh-CN": "天穹圣徒",
+   "ja": "Beatus of the Firmament",
+   "zh-TW": "天穹聖徒"
+  },
+  "fem": {
+   "en": "Beata of the Firmament",
+   "ja": "Beata of the Firmament"
+  }
+ },
+ {
+  "slug": "frame-of-the-firmament",
+  "en": "Frame of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Frame of the Firmament",
+   "zh-CN": "天穹之框",
+   "ja": "Frame of the Firmament",
+   "zh-TW": "天穹之框"
+  }
+ },
+ {
+  "slug": "forge-of-the-firmament",
+  "en": "Forge of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Forge of the Firmament",
+   "zh-CN": "天穹之炉",
+   "ja": "Forge of the Firmament",
+   "zh-TW": "天穹之爐"
+  }
+ },
+ {
+  "slug": "hammer-of-the-firmament",
+  "en": "Hammer of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Hammer of the Firmament",
+   "zh-CN": "天穹之锤",
+   "ja": "Hammer of the Firmament",
+   "zh-TW": "天穹之錘"
+  }
+ },
+ {
+  "slug": "jewel-of-the-firmament",
+  "en": "Jewel of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Jewel of the Firmament",
+   "zh-CN": "天穹宝石",
+   "ja": "Jewel of the Firmament",
+   "zh-TW": "天穹寶石"
+  }
+ },
+ {
+  "slug": "knife-of-the-firmament",
+  "en": "Knife of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Knife of the Firmament",
+   "zh-CN": "天穹之刀",
+   "ja": "Knife of the Firmament",
+   "zh-TW": "天穹之刀"
+  }
+ },
+ {
+  "slug": "weave-of-the-firmament",
+  "en": "Weave of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Weave of the Firmament",
+   "zh-CN": "天穹纺车",
+   "ja": "Weave of the Firmament",
+   "zh-TW": "天穹紡車"
+  }
+ },
+ {
+  "slug": "panacea-of-the-firmament",
+  "en": "Panacea of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Panacea of the Firmament",
+   "zh-CN": "天穹灵药",
+   "ja": "Panacea of the Firmament",
+   "zh-TW": "天穹靈藥"
+  }
+ },
+ {
+  "slug": "pan-of-the-firmament",
+  "en": "Pan of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Pan of the Firmament",
+   "zh-CN": "天穹之锅",
+   "ja": "Pan of the Firmament",
+   "zh-TW": "天穹之鍋"
+  }
+ },
+ {
+  "slug": "pick-of-the-firmament",
+  "en": "Pick of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Pick of the Firmament",
+   "zh-CN": "天穹之镐",
+   "ja": "Pick of the Firmament",
+   "zh-TW": "天穹之鎬"
+  }
+ },
+ {
+  "slug": "hatchet-of-the-firmament",
+  "en": "Hatchet of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Hatchet of the Firmament",
+   "zh-CN": "天穹之斧",
+   "ja": "Hatchet of the Firmament",
+   "zh-TW": "天穹之斧"
+  }
+ },
+ {
+  "slug": "rod-of-the-firmament",
+  "en": "Rod of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Rod of the Firmament",
+   "zh-CN": "天穹钓竿",
+   "ja": "Rod of the Firmament",
+   "zh-TW": "天穹釣竿"
+  }
+ },
+ {
+  "slug": "the-hand-of-creation",
+  "en": "The Hand of Creation",
+  "prefix": false,
+  "n": {
+   "en": "The Hand of Creation",
+   "zh-CN": "创造之手",
+   "ja": "the Hand of Creation",
+   "zh-TW": "創造之手"
+  }
+ },
+ {
+  "slug": "divine-provider",
+  "en": "Divine Provider",
+  "prefix": true,
+  "n": {
+   "en": "Divine Provider",
+   "zh-CN": "圣供材商",
+   "ja": "Divine Provider",
+   "zh-TW": "聖供材商"
+  }
+ },
+ {
+  "slug": "the-nest-s-own-carpenter",
+  "en": "The Nest's Own Carpenter",
+  "prefix": false,
+  "n": {
+   "en": "The Nest's Own Carpenter",
+   "zh-CN": "新巢御用刻木匠",
+   "ja": "the Nest's Own Carpenter",
+   "zh-TW": "新巢御用刻木匠"
+  }
+ },
+ {
+  "slug": "the-nest-s-own-blacksmith",
+  "en": "The Nest's Own Blacksmith",
+  "prefix": false,
+  "n": {
+   "en": "The Nest's Own Blacksmith",
+   "zh-CN": "新巢御用锻铁匠",
+   "ja": "the Nest's Own Blacksmith",
+   "zh-TW": "新巢御用鍛鐵匠"
+  }
+ },
+ {
+  "slug": "the-nest-s-own-armorer",
+  "en": "The Nest's Own Armorer",
+  "prefix": false,
+  "n": {
+   "en": "The Nest's Own Armorer",
+   "zh-CN": "新巢御用铸甲匠",
+   "ja": "the Nest's Own Armorer",
+   "zh-TW": "新巢御用鑄甲匠"
+  }
+ },
+ {
+  "slug": "the-nest-s-own-goldsmith",
+  "en": "The Nest's Own Goldsmith",
+  "prefix": false,
+  "n": {
+   "en": "The Nest's Own Goldsmith",
+   "zh-CN": "新巢御用雕金匠",
+   "ja": "the Nest's Own Goldsmith",
+   "zh-TW": "新巢御用雕金匠"
+  }
+ },
+ {
+  "slug": "the-nest-s-own-leatherworker",
+  "en": "The Nest's Own Leatherworker",
+  "prefix": false,
+  "n": {
+   "en": "The Nest's Own Leatherworker",
+   "zh-CN": "新巢御用制革匠",
+   "ja": "the Nest's Own Leatherworker",
+   "zh-TW": "新巢御用製革匠"
+  }
+ },
+ {
+  "slug": "the-nest-s-own-weaver",
+  "en": "The Nest's Own Weaver",
+  "prefix": false,
+  "n": {
+   "en": "The Nest's Own Weaver",
+   "zh-CN": "新巢御用裁衣匠",
+   "ja": "the Nest's Own Weaver",
+   "zh-TW": "新巢御用裁衣匠"
+  }
+ },
+ {
+  "slug": "the-nest-s-own-alchemist",
+  "en": "The Nest's Own Alchemist",
+  "prefix": false,
+  "n": {
+   "en": "The Nest's Own Alchemist",
+   "zh-CN": "新巢御用炼金术士",
+   "ja": "the Nest's Own Alchemist",
+   "zh-TW": "新巢御用鍊金術士"
+  }
+ },
+ {
+  "slug": "the-nest-s-own-culinarian",
+  "en": "The Nest's Own Culinarian",
+  "prefix": false,
+  "n": {
+   "en": "The Nest's Own Culinarian",
+   "zh-CN": "新巢御用烹调师",
+   "ja": "the Nest's Own Culinarian",
+   "zh-TW": "新巢御用烹調師"
+  }
+ },
+ {
+  "slug": "the-nest-s-own-miner",
+  "en": "The Nest's Own Miner",
+  "prefix": false,
+  "n": {
+   "en": "The Nest's Own Miner",
+   "zh-CN": "新巢御用采矿工",
+   "ja": "the Nest's Own Miner",
+   "zh-TW": "新巢御用採礦工"
+  }
+ },
+ {
+  "slug": "the-nest-s-own-botanist",
+  "en": "The Nest's Own Botanist",
+  "prefix": false,
+  "n": {
+   "en": "The Nest's Own Botanist",
+   "zh-CN": "新巢御用园艺工",
+   "ja": "the Nest's Own Botanist",
+   "zh-TW": "新巢御用園藝工"
+  }
+ },
+ {
+  "slug": "the-nest-s-own-fisher",
+  "en": "The Nest's Own Fisher",
+  "prefix": false,
+  "n": {
+   "en": "The Nest's Own Fisher",
+   "zh-CN": "新巢御用捕鱼人",
+   "ja": "the Nest's Own Fisher",
+   "zh-TW": "新巢御用捕魚人"
+  }
+ },
+ {
+  "slug": "fortune-s-favored-kupo",
+  "en": "Fortune's Favored Kupo",
+  "prefix": true,
+  "n": {
+   "en": "Fortune's Favored Kupo",
+   "zh-CN": "好运眷顾的库啵",
+   "ja": "Fortune's Favored Kupo",
+   "zh-TW": "好運眷顧的庫啵"
+  }
+ },
+ {
+  "slug": "ocean-fisher",
+  "en": "Ocean Fisher",
+  "prefix": true,
+  "n": {
+   "en": "Ocean Fisher",
+   "zh-CN": "游钓大洋",
+   "ja": "Ocean Fisher",
+   "zh-TW": "遊釣大洋"
+  }
+ },
+ {
+  "slug": "octopus-traveler",
+  "en": "Octopus Traveler",
+  "prefix": true,
+  "n": {
+   "en": "Octopus Traveler",
+   "zh-CN": "八爪旅人",
+   "ja": "Octopus Traveler",
+   "zh-TW": "八爪旅人"
+  }
+ },
+ {
+  "slug": "shark-hunter",
+  "en": "Shark Hunter",
+  "prefix": true,
+  "n": {
+   "en": "Shark Hunter",
+   "zh-CN": "捕鲨人",
+   "ja": "Shark Hunter",
+   "zh-TW": "捕鯊人"
+  }
+ },
+ {
+  "slug": "jellyfish-fanatic",
+  "en": "Jellyfish Fanatic",
+  "prefix": true,
+  "n": {
+   "en": "Jellyfish Fanatic",
+   "zh-CN": "水母狂魔",
+   "ja": "Jellyfish Fanatic",
+   "zh-TW": "水母狂魔"
+  }
+ },
+ {
+  "slug": "sea-dragoon",
+  "en": "Sea Dragoon",
+  "prefix": true,
+  "n": {
+   "en": "Sea Dragoon",
+   "zh-CN": "海龙骑士",
+   "ja": "Sea Dragoon",
+   "zh-TW": "海龍騎士"
+  }
+ },
+ {
+  "slug": "echo-of-a-fallen-star",
+  "en": "Echo of a Fallen Star",
+  "prefix": true,
+  "n": {
+   "en": "Echo of a Fallen Star",
+   "zh-CN": "追忆的凶星",
+   "ja": "Echo of a Fallen Star",
+   "zh-TW": "追憶的兇星"
+  }
+ },
+ {
+  "slug": "ronkan-historian",
+  "en": "Ronkan Historian",
+  "prefix": true,
+  "n": {
+   "en": "Ronkan Historian",
+   "zh-CN": "隆卡史学家",
+   "ja": "Ronkan Historian",
+   "zh-TW": "隆卡史學家"
+  }
+ },
+ {
+  "slug": "a-dragon-s-best-friend",
+  "en": "A Dragon's Best Friend",
+  "prefix": true,
+  "n": {
+   "en": "A Dragon's Best Friend",
+   "zh-CN": "小龙的朋友",
+   "ja": "A Dragon's Best Friend",
+   "zh-TW": "小龍的朋友"
+  }
+ },
+ {
+  "slug": "tinker-tutor",
+  "en": "Tinker Tutor",
+  "prefix": true,
+  "n": {
+   "en": "Tinker Tutor",
+   "zh-CN": "好奇鬼的酷老师",
+   "ja": "Tinker Tutor",
+   "zh-TW": "好奇鬼的酷老師"
+  }
+ },
+ {
+  "slug": "partner-in-teatime",
+  "en": "Partner in Teatime",
+  "prefix": true,
+  "n": {
+   "en": "Partner in Teatime",
+   "zh-CN": "茶友",
+   "ja": "Partner in Teatime",
+   "zh-TW": "茶友"
+  }
+ },
+ {
+  "slug": "vrai-ami",
+  "en": "Vrai Ami",
+  "prefix": true,
+  "n": {
+   "en": "Vrai Ami",
+   "zh-CN": "真正的朋友",
+   "ja": "Vrai Ami",
+   "zh-TW": "真正的朋友"
+  },
+  "fem": {
+   "en": "Vraie Amie",
+   "ja": "Vraie Amie"
+  }
+ },
+ {
+  "slug": "tank-technician",
+  "en": "Tank Technician",
+  "prefix": true,
+  "n": {
+   "en": "Tank Technician",
+   "zh-CN": "战车技师",
+   "ja": "Tank Technician",
+   "zh-TW": "戰車技師"
+  }
+ },
+ {
+  "slug": "shepherd-to-the-stars",
+  "en": "Shepherd to the Stars",
+  "prefix": true,
+  "n": {
+   "en": "Shepherd to the Stars",
+   "zh-CN": "牧星人",
+   "ja": "Shepherd to the Stars",
+   "zh-TW": "牧星人"
+  }
+ },
+ {
+  "slug": "featherfall-s-finest-carpenter",
+  "en": "Featherfall's Finest Carpenter",
+  "prefix": true,
+  "n": {
+   "en": "Featherfall's Finest Carpenter",
+   "zh-CN": "落羽最佳刻木匠",
+   "ja": "Featherfall's Finest Carpenter",
+   "zh-TW": "落羽最佳刻木匠"
+  }
+ },
+ {
+  "slug": "featherfall-s-finest-blacksmith",
+  "en": "Featherfall's Finest Blacksmith",
+  "prefix": true,
+  "n": {
+   "en": "Featherfall's Finest Blacksmith",
+   "zh-CN": "落羽最佳锻铁匠",
+   "ja": "Featherfall's Finest Blacksmith",
+   "zh-TW": "落羽最佳鍛鐵匠"
+  }
+ },
+ {
+  "slug": "featherfall-s-finest-armorer",
+  "en": "Featherfall's Finest Armorer",
+  "prefix": true,
+  "n": {
+   "en": "Featherfall's Finest Armorer",
+   "zh-CN": "落羽最佳铸甲匠",
+   "ja": "Featherfall's Finest Armorer",
+   "zh-TW": "落羽最佳鑄甲匠"
+  }
+ },
+ {
+  "slug": "featherfall-s-finest-goldsmith",
+  "en": "Featherfall's Finest Goldsmith",
+  "prefix": true,
+  "n": {
+   "en": "Featherfall's Finest Goldsmith",
+   "zh-CN": "落羽最佳雕金匠",
+   "ja": "Featherfall's Finest Goldsmith",
+   "zh-TW": "落羽最佳雕金匠"
+  }
+ },
+ {
+  "slug": "featherfall-s-finest-leatherworker",
+  "en": "Featherfall's Finest Leatherworker",
+  "prefix": true,
+  "n": {
+   "en": "Featherfall's Finest Leatherworker",
+   "zh-CN": "落羽最佳制革匠",
+   "ja": "Featherfall's Finest Leatherworker",
+   "zh-TW": "落羽最佳製革匠"
+  }
+ },
+ {
+  "slug": "featherfall-s-finest-weaver",
+  "en": "Featherfall's Finest Weaver",
+  "prefix": true,
+  "n": {
+   "en": "Featherfall's Finest Weaver",
+   "zh-CN": "落羽最佳裁衣匠",
+   "ja": "Featherfall's Finest Weaver",
+   "zh-TW": "落羽最佳裁衣匠"
+  }
+ },
+ {
+  "slug": "featherfall-s-finest-alchemist",
+  "en": "Featherfall's Finest Alchemist",
+  "prefix": true,
+  "n": {
+   "en": "Featherfall's Finest Alchemist",
+   "zh-CN": "落羽最佳炼金术士",
+   "ja": "Featherfall's Finest Alchemist",
+   "zh-TW": "落羽最佳鍊金術士"
+  }
+ },
+ {
+  "slug": "featherfall-s-finest-culinarian",
+  "en": "Featherfall's Finest Culinarian",
+  "prefix": true,
+  "n": {
+   "en": "Featherfall's Finest Culinarian",
+   "zh-CN": "落羽最佳烹调师",
+   "ja": "Featherfall's Finest Culinarian",
+   "zh-TW": "落羽最佳烹調師"
+  }
+ },
+ {
+  "slug": "featherfall-s-finest-miner",
+  "en": "Featherfall's Finest Miner",
+  "prefix": true,
+  "n": {
+   "en": "Featherfall's Finest Miner",
+   "zh-CN": "落羽最佳采矿工",
+   "ja": "Featherfall's Finest Miner",
+   "zh-TW": "落羽最佳採礦工"
+  }
+ },
+ {
+  "slug": "featherfall-s-finest-botanist",
+  "en": "Featherfall's Finest Botanist",
+  "prefix": true,
+  "n": {
+   "en": "Featherfall's Finest Botanist",
+   "zh-CN": "落羽最佳园艺工",
+   "ja": "Featherfall's Finest Botanist",
+   "zh-TW": "落羽最佳園藝工"
+  }
+ },
+ {
+  "slug": "featherfall-s-finest-fisher",
+  "en": "Featherfall's Finest Fisher",
+  "prefix": true,
+  "n": {
+   "en": "Featherfall's Finest Fisher",
+   "zh-CN": "落羽最佳捕鱼人",
+   "ja": "Featherfall's Finest Fisher",
+   "zh-TW": "落羽最佳捕魚人"
+  }
+ },
+ {
+  "slug": "the-decisive-blow",
+  "en": "The Decisive Blow",
+  "prefix": false,
+  "n": {
+   "en": "The Decisive Blow",
+   "zh-CN": "制胜关键",
+   "ja": "the Decisive Blow",
+   "zh-TW": "制勝關鍵"
+  }
+ },
+ {
+  "slug": "skirmisher",
+  "en": "Skirmisher",
+  "prefix": true,
+  "n": {
+   "en": "Skirmisher",
+   "zh-CN": "散兵",
+   "ja": "Skirmisher",
+   "zh-TW": "散兵"
+  }
+ },
+ {
+  "slug": "siege-liege",
+  "en": "Siege Liege",
+  "prefix": true,
+  "n": {
+   "en": "Siege Liege",
+   "zh-CN": "鹰巢之主",
+   "ja": "Siege Liege",
+   "zh-TW": "鷹巢之主"
+  }
+ },
+ {
+  "slug": "gabriel-s-downfall",
+  "en": "Gabriel's Downfall",
+  "prefix": true,
+  "n": {
+   "en": "Gabriel's Downfall",
+   "zh-CN": "加百列的末日",
+   "ja": "Gabriel's Downfall",
+   "zh-TW": "加百列的末日"
+  }
+ },
+ {
+  "slug": "queller-of-beasts",
+  "en": "Queller of Beasts",
+  "prefix": true,
+  "n": {
+   "en": "Queller of Beasts",
+   "zh-CN": "威镇百兽",
+   "ja": "Queller of Beasts",
+   "zh-TW": "威鎮百獸"
+  }
+ },
+ {
+  "slug": "the-death-of-flame",
+  "en": "The Death of Flame",
+  "prefix": false,
+  "n": {
+   "en": "The Death of Flame",
+   "zh-CN": "烈火金刚",
+   "ja": "the Death of Flame",
+   "zh-TW": "烈火金剛"
+  }
+ },
+ {
+  "slug": "sword-of-the-south",
+  "en": "Sword of the South",
+  "prefix": true,
+  "n": {
+   "en": "Sword of the South",
+   "zh-CN": "南方之剑",
+   "ja": "Sword of the South",
+   "zh-TW": "南方之劍"
+  }
+ },
+ {
+  "slug": "guardian-angel",
+  "en": "Guardian Angel",
+  "prefix": true,
+  "n": {
+   "en": "Guardian Angel",
+   "zh-CN": "守护天使",
+   "ja": "Guardian Angel",
+   "zh-TW": "守護天使"
+  }
+ },
+ {
+  "slug": "saint-of-the-firmament-2",
+  "en": "Saint of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Saint of the Firmament",
+   "zh-CN": "天穹圣人",
+   "ja": "Saint of the Firmament",
+   "zh-TW": "天穹聖人"
+  }
+ },
+ {
+  "slug": "beatus-of-the-firmament-2",
+  "en": "Beatus of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Beatus of the Firmament",
+   "zh-CN": "天穹圣徒",
+   "ja": "Beatus of the Firmament",
+   "zh-TW": "天穹聖徒"
+  },
+  "fem": {
+   "en": "Beata of the Firmament",
+   "ja": "Beata of the Firmament"
+  }
+ },
+ {
+  "slug": "writer-of-histories",
+  "en": "Writer of Histories",
+  "prefix": true,
+  "n": {
+   "en": "Writer of Histories",
+   "zh-CN": "历史缔造者",
+   "ja": "Writer of Histories",
+   "zh-TW": "歷史締造者"
+  }
+ },
+ {
+  "slug": "of-the-truest-blue",
+  "en": "Of the Truest Blue",
+  "prefix": false,
+  "n": {
+   "en": "Of the Truest Blue",
+   "zh-CN": "青之纯粹",
+   "ja": "of the Truest Blue",
+   "zh-TW": "青之純粹"
+  }
+ },
+ {
+  "slug": "blue-ranger",
+  "en": "Blue Ranger",
+  "prefix": true,
+  "n": {
+   "en": "Blue Ranger",
+   "zh-CN": "青之游侠",
+   "ja": "Blue Ranger",
+   "zh-TW": "青之遊俠"
+  }
+ },
+ {
+  "slug": "the-azure-and-omega",
+  "en": "The Azure and Omega",
+  "prefix": false,
+  "n": {
+   "en": "The Azure and Omega",
+   "zh-CN": "青之轮回",
+   "ja": "the Azure and Omega",
+   "zh-TW": "青之輪迴"
+  }
+ },
+ {
+  "slug": "balloon-catcher",
+  "en": "Balloon Catcher",
+  "prefix": true,
+  "n": {
+   "en": "Balloon Catcher",
+   "zh-CN": "小淘气",
+   "ja": "Balloon Catcher",
+   "zh-TW": "小淘氣"
+  }
+ },
+ {
+  "slug": "deadliest-catcher",
+  "en": "Deadliest Catcher",
+  "prefix": true,
+  "n": {
+   "en": "Deadliest Catcher",
+   "zh-CN": "横刀",
+   "ja": "Deadliest Catcher",
+   "zh-TW": "橫刀"
+  }
+ },
+ {
+  "slug": "manta-maniac",
+  "en": "Manta Maniac",
+  "prefix": true,
+  "n": {
+   "en": "Manta Maniac",
+   "zh-CN": "鳐不可急",
+   "ja": "Manta Maniac",
+   "zh-TW": "鰩不可急"
+  }
+ },
+ {
+  "slug": "world-class-troller",
+  "en": "World-class Troller",
+  "prefix": true,
+  "n": {
+   "en": "World-class Troller",
+   "zh-CN": "世界级钓手",
+   "ja": "World Class Troller",
+   "zh-TW": "世界級釣手"
+  }
+ },
+ {
+  "slug": "saint-of-the-firmament-3",
+  "en": "Saint of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Saint of the Firmament",
+   "zh-CN": "天穹圣人",
+   "ja": "Saint of the Firmament",
+   "zh-TW": "天穹聖人"
+  }
+ },
+ {
+  "slug": "beatus-of-the-firmament-3",
+  "en": "Beatus of the Firmament",
+  "prefix": true,
+  "n": {
+   "en": "Beatus of the Firmament",
+   "zh-CN": "天穹圣徒",
+   "ja": "Beatus of the Firmament",
+   "zh-TW": "天穹聖徒"
+  },
+  "fem": {
+   "en": "Beata of the Firmament",
+   "ja": "Beata of the Firmament"
+  }
+ },
+ {
+  "slug": "tournament-leader",
+  "en": "Tournament Leader",
+  "prefix": true,
+  "n": {
+   "en": "Tournament Leader",
+   "zh-CN": "称霸锦标赛",
+   "ja": "Tournament Leader",
+   "zh-TW": "稱霸錦標賽"
+  }
+ },
+ {
+  "slug": "secret-finder",
+  "en": "Secret Finder",
+  "prefix": true,
+  "n": {
+   "en": "Secret Finder",
+   "zh-CN": "探秘人",
+   "ja": "Secret Finder",
+   "zh-TW": "探祕人"
+  }
+ },
+ {
+  "slug": "secret-keeper",
+  "en": "Secret Keeper",
+  "prefix": true,
+  "n": {
+   "en": "Secret Keeper",
+   "zh-CN": "守密人",
+   "ja": "Secret Keeper",
+   "zh-TW": "守密人"
+  }
+ },
+ {
+  "slug": "gaolbreaker",
+  "en": "Gaolbreaker",
+  "prefix": true,
+  "n": {
+   "en": "Gaolbreaker",
+   "zh-CN": "破梦而出",
+   "ja": "Gaolbreaker",
+   "zh-TW": "破夢而出"
+  }
+ },
+ {
+  "slug": "master-of-the-sea",
+  "en": "Master of the Sea",
+  "prefix": true,
+  "n": {
+   "en": "Master of the Sea",
+   "zh-CN": "海王",
+   "ja": "Master of the Sea",
+   "zh-TW": "海王"
+  }
+ },
+ {
+  "slug": "delubrum-delver",
+  "en": "Delubrum Delver",
+  "prefix": true,
+  "n": {
+   "en": "Delubrum Delver",
+   "zh-CN": "古殿探索者",
+   "ja": "Delubrum Delver",
+   "zh-TW": "古殿探索者"
+  }
+ },
+ {
+  "slug": "the-risensung-carpenter",
+  "en": "The Risensung Carpenter",
+  "prefix": false,
+  "n": {
+   "en": "The Risensung Carpenter",
+   "zh-CN": "升歌刻木匠",
+   "ja": "the Risensung Carpenter",
+   "zh-TW": "升歌刻木匠"
+  }
+ },
+ {
+  "slug": "the-risensung-blacksmith",
+  "en": "The Risensung Blacksmith",
+  "prefix": false,
+  "n": {
+   "en": "The Risensung Blacksmith",
+   "zh-CN": "升歌锻铁匠",
+   "ja": "the Risensung Blacksmith",
+   "zh-TW": "升歌鍛鐵匠"
+  }
+ },
+ {
+  "slug": "the-risensung-armorer",
+  "en": "The Risensung Armorer",
+  "prefix": false,
+  "n": {
+   "en": "The Risensung Armorer",
+   "zh-CN": "升歌铸甲匠",
+   "ja": "the Risensung Armorer",
+   "zh-TW": "升歌鑄甲匠"
+  }
+ },
+ {
+  "slug": "the-risensung-goldsmith",
+  "en": "The Risensung Goldsmith",
+  "prefix": false,
+  "n": {
+   "en": "The Risensung Goldsmith",
+   "zh-CN": "升歌雕金匠",
+   "ja": "the Risensung Goldsmith",
+   "zh-TW": "升歌雕金匠"
+  }
+ },
+ {
+  "slug": "the-risensung-leatherworker",
+  "en": "The Risensung Leatherworker",
+  "prefix": false,
+  "n": {
+   "en": "The Risensung Leatherworker",
+   "zh-CN": "升歌制革匠",
+   "ja": "the Risensung Leatherworker",
+   "zh-TW": "升歌製革匠"
+  }
+ },
+ {
+  "slug": "the-risensung-weaver",
+  "en": "The Risensung Weaver",
+  "prefix": false,
+  "n": {
+   "en": "The Risensung Weaver",
+   "zh-CN": "升歌裁衣匠",
+   "ja": "the Risensung Weaver",
+   "zh-TW": "升歌裁衣匠"
+  }
+ },
+ {
+  "slug": "the-risensung-alchemist",
+  "en": "The Risensung Alchemist",
+  "prefix": false,
+  "n": {
+   "en": "The Risensung Alchemist",
+   "zh-CN": "升歌炼金术士",
+   "ja": "the Risensung Alchemist",
+   "zh-TW": "升歌鍊金術士"
+  }
+ },
+ {
+  "slug": "the-risensung-culinarian",
+  "en": "The Risensung Culinarian",
+  "prefix": false,
+  "n": {
+   "en": "The Risensung Culinarian",
+   "zh-CN": "升歌烹调师",
+   "ja": "the Risensung Culinarian",
+   "zh-TW": "升歌烹調師"
+  }
+ },
+ {
+  "slug": "the-risensung-miner",
+  "en": "The Risensung Miner",
+  "prefix": false,
+  "n": {
+   "en": "The Risensung Miner",
+   "zh-CN": "升歌采矿工",
+   "ja": "the Risensung Miner",
+   "zh-TW": "升歌採礦工"
+  }
+ },
+ {
+  "slug": "the-risensung-botanist",
+  "en": "The Risensung Botanist",
+  "prefix": false,
+  "n": {
+   "en": "The Risensung Botanist",
+   "zh-CN": "升歌园艺工",
+   "ja": "the Risensung Botanist",
+   "zh-TW": "升歌園藝工"
+  }
+ },
+ {
+  "slug": "the-risensung-fisher",
+  "en": "The Risensung Fisher",
+  "prefix": false,
+  "n": {
+   "en": "The Risensung Fisher",
+   "zh-CN": "升歌捕鱼人",
+   "ja": "the Risensung Fisher",
+   "zh-TW": "升歌捕魚人"
+  }
+ },
+ {
+  "slug": "jack-of-all-cards",
+  "en": "Jack of All Cards",
+  "prefix": true,
+  "n": {
+   "en": "Jack of All Cards",
+   "zh-CN": "万卡归宗",
+   "ja": "Jack of All Cards",
+   "zh-TW": "萬卡歸宗"
+  }
+ },
+ {
+  "slug": "speed-demon",
+  "en": "Speed Demon",
+  "prefix": true,
+  "n": {
+   "en": "Speed Demon",
+   "zh-CN": "速度之魔",
+   "ja": "Speed Demon",
+   "zh-TW": "速度之魔"
+  }
+ },
+ {
+  "slug": "the-indefatigable",
+  "en": "The Indefatigable",
+  "prefix": false,
+  "n": {
+   "en": "The Indefatigable",
+   "zh-CN": "不知疲倦",
+   "ja": "the Indefatigable",
+   "zh-TW": "不知疲倦"
+  }
+ },
+ {
+  "slug": "lord-of-far-waters",
+  "en": "Lord of Far Waters",
+  "prefix": true,
+  "n": {
+   "en": "Lord of Far Waters",
+   "zh-CN": "异水之主",
+   "ja": "Lord of Far Waters",
+   "zh-TW": "異水之主"
+  },
+  "fem": {
+   "en": "Lady of Far Waters",
+   "ja": "Lady of Far Waters"
+  }
+ },
+ {
+  "slug": "big-fish",
+  "en": "Big Fish",
+  "prefix": true,
+  "n": {
+   "en": "Big Fish",
+   "zh-CN": "钓场之王",
+   "ja": "Big Fish",
+   "zh-TW": "釣場之王"
+  }
+ },
+ {
+  "slug": "charlemend-s-angel",
+  "en": "Charlemend's Angel",
+  "prefix": true,
+  "n": {
+   "en": "Charlemend's Angel",
+   "zh-CN": "狄兰达尔的天使",
+   "ja": "Charlemend's Angel",
+   "zh-TW": "狄蘭達爾的天使"
+  }
+ },
+ {
+  "slug": "lifesaver",
+  "en": "Lifesaver",
+  "prefix": true,
+  "n": {
+   "en": "Lifesaver",
+   "zh-CN": "救生员",
+   "ja": "Lifesaver",
+   "zh-TW": "救生員"
+  }
+ },
+ {
+  "slug": "dawn-treader",
+  "en": "Dawn Treader",
+  "prefix": true,
+  "n": {
+   "en": "Dawn Treader",
+   "zh-CN": "迎向黎明",
+   "ja": "Dawn Treader",
+   "zh-TW": "迎向黎明"
+  }
+ },
+ {
+  "slug": "witness-to-the-dark-apocalypse",
+  "en": "Witness to the Dark Apocalypse",
+  "prefix": true,
+  "n": {
+   "en": "Witness to the Dark Apocalypse",
+   "zh-CN": "见证暗黑天启",
+   "ja": "Witness to the Dark Apocalypse",
+   "zh-TW": "見證暗黑天啓"
+  }
+ },
+ {
+  "slug": "dalriada-raider",
+  "en": "Dalriada Raider",
+  "prefix": true,
+  "n": {
+   "en": "Dalriada Raider",
+   "zh-CN": "攻舰精锐",
+   "ja": "Dalriada Raider",
+   "zh-TW": "攻艦精銳"
+  }
+ },
+ {
+  "slug": "the-hypertuned",
+  "en": "The Hypertuned",
+  "prefix": false,
+  "n": {
+   "en": "The Hypertuned",
+   "zh-CN": "超级调整兵",
+   "ja": "the Hypertuned",
+   "zh-TW": "超級調整兵"
+  }
+ },
+ {
+  "slug": "commander-conqueror",
+  "en": "Commander Conqueror",
+  "prefix": true,
+  "n": {
+   "en": "Commander Conqueror",
+   "zh-CN": "斩将",
+   "ja": "Commander Conqueror",
+   "zh-TW": "斬將"
+  }
+ },
+ {
+  "slug": "lyon-tamer",
+  "en": "Lyon Tamer",
+  "prefix": true,
+  "n": {
+   "en": "Lyon Tamer",
+   "zh-CN": "兽王之王",
+   "ja": "Lyon Tamer",
+   "zh-TW": "獸王之王"
+  }
+ },
+ {
+  "slug": "hero-of-zadnor",
+  "en": "Hero of Zadnor",
+  "prefix": true,
+  "n": {
+   "en": "Hero of Zadnor",
+   "zh-CN": "扎杜诺尔英雄",
+   "ja": "Hero of Zadnor",
+   "zh-TW": "扎杜諾爾英雄"
+  }
+ },
+ {
+  "slug": "gunnhildr-s-blade",
+  "en": "Gunnhildr's Blade",
+  "prefix": true,
+  "n": {
+   "en": "Gunnhildr's Blade",
+   "zh-CN": "女王之刃",
+   "ja": "Gunnhildr's Blade",
+   "zh-TW": "女王之刃"
+  }
+ },
+ {
+  "slug": "the-emblazoned",
+  "en": "The Emblazoned",
+  "prefix": false,
+  "n": {
+   "en": "The Emblazoned",
+   "zh-CN": "荣誉勋章",
+   "ja": "the Emblazoned",
+   "zh-TW": "榮譽勳章"
+  }
+ },
+ {
+  "slug": "queen-s-elect",
+  "en": "Queen's Elect",
+  "prefix": true,
+  "n": {
+   "en": "Queen's Elect",
+   "zh-CN": "女王钦点",
+   "ja": "Queen's Elect",
+   "zh-TW": "女王欽點"
+  }
+ },
+ {
+  "slug": "at-war-s-horizon",
+  "en": "At War's Horizon",
+  "prefix": true,
+  "n": {
+   "en": "At War's Horizon",
+   "zh-CN": "战斗之巅",
+   "ja": "At War's Horizon",
+   "zh-TW": "戰鬥之巔"
+  }
+ },
+ {
+  "slug": "at-magic-s-horizon",
+  "en": "At Magic's Horizon",
+  "prefix": true,
+  "n": {
+   "en": "At Magic's Horizon",
+   "zh-CN": "魔法之巅",
+   "ja": "At Magic's Horizon",
+   "zh-TW": "魔法之巔"
+  }
+ },
+ {
+  "slug": "at-art-s-horizon",
+  "en": "At Art's Horizon",
+  "prefix": true,
+  "n": {
+   "en": "At Art's Horizon",
+   "zh-CN": "工艺之巅",
+   "ja": "At Art's Horizon",
+   "zh-TW": "工藝之巔"
+  }
+ },
+ {
+  "slug": "at-land-s-horizon",
+  "en": "At Land's Horizon",
+  "prefix": true,
+  "n": {
+   "en": "At Land's Horizon",
+   "zh-CN": "大地之巅",
+   "ja": "At Land's Horizon",
+   "zh-TW": "大地之巔"
+  }
+ },
+ {
+  "slug": "magus-resister",
+  "en": "Magus Resister",
+  "prefix": true,
+  "n": {
+   "en": "Magus Resister",
+   "zh-CN": "超脱人趣",
+   "ja": "Magus Resister",
+   "zh-TW": "超脫人趣"
+  }
+ },
+ {
+  "slug": "moonwalker",
+  "en": "Moonwalker",
+  "prefix": true,
+  "n": {
+   "en": "Moonwalker",
+   "zh-CN": "月球漫步者",
+   "ja": "Moonwalker",
+   "zh-TW": "月球漫步者"
+  }
+ },
+ {
+  "slug": "lightingway",
+  "en": "Lightingway",
+  "prefix": true,
+  "n": {
+   "en": "Lightingway",
+   "zh-CN": "光明威",
+   "ja": "Lightingway",
+   "zh-TW": "光明威"
+  }
+ },
+ {
+  "slug": "vrtra-s-valiant",
+  "en": "Vrtra's Valiant",
+  "prefix": true,
+  "n": {
+   "en": "Vrtra's Valiant",
+   "zh-CN": "星龙勇士",
+   "ja": "Vrtra's Valiant",
+   "zh-TW": "星龍勇士"
+  }
+ },
+ {
+  "slug": "elpiphoros",
+  "en": "Elpiphoros",
+  "prefix": true,
+  "n": {
+   "en": "Elpiphoros",
+   "zh-CN": "希望使徒",
+   "ja": "Elpiphoros",
+   "zh-TW": "希望使徒"
+  }
+ },
+ {
+  "slug": "hope-s-legacy",
+  "en": "Hope's Legacy",
+  "prefix": true,
+  "n": {
+   "en": "Hope's Legacy",
+   "zh-CN": "遗留的希望",
+   "ja": "Hope's Legacy",
+   "zh-TW": "遺留的希望"
+  }
+ },
+ {
+  "slug": "endwalker",
+  "en": "Endwalker",
+  "prefix": true,
+  "n": {
+   "en": "Endwalker",
+   "zh-CN": "终途行者",
+   "ja": "Endwalker",
+   "zh-TW": "終途行者"
+  }
+ },
+ {
+  "slug": "lemures",
+  "en": "Lemures",
+  "prefix": true,
+  "n": {
+   "en": "Lemures",
+   "zh-CN": "魂游于夜",
+   "ja": "Lemures",
+   "zh-TW": "魂遊於夜"
+  }
+ },
+ {
+  "slug": "the-sagacious",
+  "en": "The Sagacious",
+  "prefix": false,
+  "n": {
+   "en": "The Sagacious",
+   "zh-CN": "贤高识远",
+   "ja": "the Sagacious",
+   "zh-TW": "賢高識遠"
+  }
+ },
+ {
+  "slug": "erudite-smith",
+  "en": "Erudite Smith",
+  "prefix": true,
+  "n": {
+   "en": "Erudite Smith",
+   "zh-CN": "饱学金属匠",
+   "ja": "Erudite Smith",
+   "zh-TW": "飽學金屬匠"
+  }
+ },
+ {
+  "slug": "erudite-artisan",
+  "en": "Erudite Artisan",
+  "prefix": true,
+  "n": {
+   "en": "Erudite Artisan",
+   "zh-CN": "饱学手艺人",
+   "ja": "Erudite Artisan",
+   "zh-TW": "飽學手藝人"
+  }
+ },
+ {
+  "slug": "erudite-apothecary",
+  "en": "Erudite Apothecary",
+  "prefix": true,
+  "n": {
+   "en": "Erudite Apothecary",
+   "zh-CN": "饱学食药师",
+   "ja": "Erudite Apothecary",
+   "zh-TW": "飽學食藥師"
+  }
+ },
+ {
+  "slug": "erudite-seeker",
+  "en": "Erudite Seeker",
+  "prefix": true,
+  "n": {
+   "en": "Erudite Seeker",
+   "zh-CN": "饱学采集家",
+   "ja": "Erudite Seeker",
+   "zh-TW": "飽學採集家"
+  }
+ },
+ {
+  "slug": "erudite-angler",
+  "en": "Erudite Angler",
+  "prefix": true,
+  "n": {
+   "en": "Erudite Angler",
+   "zh-CN": "饱学垂钓者",
+   "ja": "Erudite Angler",
+   "zh-TW": "飽學垂釣者"
+  }
+ },
+ {
+  "slug": "honorary-academic",
+  "en": "Honorary Academic",
+  "prefix": true,
+  "n": {
+   "en": "Honorary Academic",
+   "zh-CN": "荣誉教员",
+   "ja": "Honorary Academic",
+   "zh-TW": "榮譽教員"
+  }
+ },
+ {
+  "slug": "the-seventh-dawn",
+  "en": "The Seventh Dawn",
+  "prefix": false,
+  "n": {
+   "en": "The Seventh Dawn",
+   "zh-CN": "拂晓血盟",
+   "ja": "the Seventh Dawn",
+   "zh-TW": "拂曉血盟"
+  }
+ },
+ {
+  "slug": "of-unbreakable-oath",
+  "en": "Of Unbreakable Oath",
+  "prefix": false,
+  "n": {
+   "en": "Of Unbreakable Oath",
+   "zh-CN": "誓言不灭",
+   "ja": "of Unbreakable Oath",
+   "zh-TW": "誓言不滅"
+  }
+ },
+ {
+  "slug": "of-unbreakable-steel",
+  "en": "Of Unbreakable Steel",
+  "prefix": false,
+  "n": {
+   "en": "Of Unbreakable Steel",
+   "zh-CN": "钢铁不灭",
+   "ja": "of Unbreakable Steel",
+   "zh-TW": "鋼鐵不滅"
+  }
+ },
+ {
+  "slug": "of-unbreakable-principle",
+  "en": "Of Unbreakable Principle",
+  "prefix": false,
+  "n": {
+   "en": "Of Unbreakable Principle",
+   "zh-CN": "信条不灭",
+   "ja": "of Unbreakable Principle",
+   "zh-TW": "信條不滅"
+  }
+ },
+ {
+  "slug": "of-unbreakable-lealty",
+  "en": "Of Unbreakable Lealty",
+  "prefix": false,
+  "n": {
+   "en": "Of Unbreakable Lealty",
+   "zh-CN": "忠诚不灭",
+   "ja": "of Unbreakable Lealty",
+   "zh-TW": "忠誠不滅"
+  }
+ },
+ {
+  "slug": "gleaning-machine",
+  "en": "Gleaning Machine",
+  "prefix": true,
+  "n": {
+   "en": "Gleaning Machine",
+   "zh-CN": "拾穗机",
+   "ja": "Gleaning Machine",
+   "zh-TW": "拾穗機"
+  }
+ },
+ {
+  "slug": "the-keen",
+  "en": "The Keen",
+  "prefix": false,
+  "n": {
+   "en": "The Keen",
+   "zh-CN": "锐锋",
+   "ja": "the Keen",
+   "zh-TW": "銳鋒"
+  }
+ },
+ {
+  "slug": "the-excruciatingly-excited",
+  "en": "The Excruciatingly Excited",
+  "prefix": false,
+  "n": {
+   "en": "The Excruciatingly Excited",
+   "zh-CN": "极度惊奇",
+   "ja": "the Excruciatingly Excited",
+   "zh-TW": "極度驚奇"
+  }
+ },
+ {
+  "slug": "on-the-hype-tron",
+  "en": "On the Hype Tron",
+  "prefix": false,
+  "n": {
+   "en": "On the Hype Tron",
+   "zh-CN": "百宝连城",
+   "ja": "on the Hype Tron",
+   "zh-TW": "百寶連城"
+  }
+ },
+ {
+  "slug": "lunaire-riche",
+  "en": "Lunaire Riche",
+  "prefix": true,
+  "n": {
+   "en": "Lunaire Riche",
+   "zh-CN": "月健天恩",
+   "ja": "Lunaire Riche",
+   "zh-TW": "月健天恩"
+  }
+ },
+ {
+  "slug": "patron-of-the-fates",
+  "en": "Patron of the Fates",
+  "prefix": true,
+  "n": {
+   "en": "Patron of the Fates",
+   "zh-CN": "命运资助者",
+   "ja": "Patron of the Fates",
+   "zh-TW": "命運資助者"
+  }
+ },
+ {
+  "slug": "the-arbiter",
+  "en": "The Arbiter",
+  "prefix": false,
+  "n": {
+   "en": "The Arbiter",
+   "zh-CN": "仲裁者",
+   "ja": "the Arbiter",
+   "zh-TW": "仲裁者"
+  }
+ },
+ {
+  "slug": "bronze-bearer",
+  "en": "Bronze Bearer",
+  "prefix": true,
+  "n": {
+   "en": "Bronze Bearer",
+   "zh-CN": "青铜守护者",
+   "ja": "Bronze Bearer",
+   "zh-TW": "青銅守護者"
+  }
+ },
+ {
+  "slug": "silver-bearer",
+  "en": "Silver Bearer",
+  "prefix": true,
+  "n": {
+   "en": "Silver Bearer",
+   "zh-CN": "白银守护者",
+   "ja": "Silver Bearer",
+   "zh-TW": "白銀守護者"
+  }
+ },
+ {
+  "slug": "gold-bearer",
+  "en": "Gold Bearer",
+  "prefix": true,
+  "n": {
+   "en": "Gold Bearer",
+   "zh-CN": "黄金守护者",
+   "ja": "Gold Bearer",
+   "zh-TW": "黃金守護者"
+  }
+ },
+ {
+  "slug": "platinum-bearer",
+  "en": "Platinum Bearer",
+  "prefix": true,
+  "n": {
+   "en": "Platinum Bearer",
+   "zh-CN": "白金守护者",
+   "ja": "Platinum Bearer",
+   "zh-TW": "白金守護者"
+  }
+ },
+ {
+  "slug": "diamond-bearer",
+  "en": "Diamond Bearer",
+  "prefix": true,
+  "n": {
+   "en": "Diamond Bearer",
+   "zh-CN": "钻石守护者",
+   "ja": "Diamond Bearer",
+   "zh-TW": "鑽石守護者"
+  }
+ },
+ {
+  "slug": "crystal-keeper",
+  "en": "Crystal Keeper",
+  "prefix": true,
+  "n": {
+   "en": "Crystal Keeper",
+   "zh-CN": "水晶守护者",
+   "ja": "Crystal Keeper",
+   "zh-TW": "水晶守護者"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "hippo-hero",
+  "en": "Hippo Hero",
+  "prefix": true,
+  "n": {
+   "en": "Hippo Hero",
+   "zh-CN": "河马英雄",
+   "ja": "Hippo Hero",
+   "zh-TW": "河馬英雄"
+  }
+ },
+ {
+  "slug": "ami-d-am-liance",
+  "en": "Ami d'Améliance",
+  "prefix": true,
+  "n": {
+   "en": "Ami d'Améliance",
+   "zh-CN": "阿梅莉安丝的贵友",
+   "ja": "Ami d'Améliance",
+   "zh-TW": "阿梅莉安絲的貴友"
+  },
+  "fem": {
+   "en": "Amie d'Améliance",
+   "ja": "Amie d'Améliance"
+  }
+ },
+ {
+  "slug": "academic-advocate",
+  "en": "Academic Advocate",
+  "prefix": true,
+  "n": {
+   "en": "Academic Advocate",
+   "zh-CN": "助学者",
+   "ja": "Academic Advocate",
+   "zh-TW": "助學者"
+  }
+ },
+ {
+  "slug": "the-heavens-legend",
+  "en": "The Heavens' Legend",
+  "prefix": false,
+  "n": {
+   "en": "The Heavens' Legend",
+   "zh-CN": "苍穹",
+   "ja": "the Heavens' Legend",
+   "zh-TW": "蒼穹"
+  }
+ },
+ {
+  "slug": "newfound-adventurer",
+  "en": "Newfound Adventurer",
+  "prefix": true,
+  "n": {
+   "en": "Newfound Adventurer",
+   "zh-CN": "崭新的冒险者",
+   "ja": "Newfound Adventurer",
+   "zh-TW": "嶄新的冒險者"
+  }
+ },
+ {
+  "slug": "blessed-relief",
+  "en": "Blessed Relief",
+  "prefix": true,
+  "n": {
+   "en": "Blessed Relief",
+   "zh-CN": "获得祝福的救赎",
+   "ja": "Blessed Relief",
+   "zh-TW": "獲得祝福的救贖"
+  }
+ },
+ {
+  "slug": "makai-samurai",
+  "en": "Makai Samurai",
+  "prefix": true,
+  "n": {
+   "en": "Makai Samurai",
+   "zh-CN": "魔戒武士",
+   "ja": "Makai Samurai",
+   "zh-TW": "魔戒武士"
+  }
+ },
+ {
+  "slug": "makai-red-mage",
+  "en": "Makai Red Mage",
+  "prefix": true,
+  "n": {
+   "en": "Makai Red Mage",
+   "zh-CN": "魔戒赤魔法师",
+   "ja": "Makai Red Mage",
+   "zh-TW": "魔戒赤魔法師"
+  }
+ },
+ {
+  "slug": "makai-gunbreaker",
+  "en": "Makai Gunbreaker",
+  "prefix": true,
+  "n": {
+   "en": "Makai Gunbreaker",
+   "zh-CN": "魔戒绝枪战士",
+   "ja": "Makai Gunbreaker",
+   "zh-TW": "魔戒絕槍戰士"
+  }
+ },
+ {
+  "slug": "makai-dancer",
+  "en": "Makai Dancer",
+  "prefix": true,
+  "n": {
+   "en": "Makai Dancer",
+   "zh-CN": "魔戒舞者",
+   "ja": "Makai Dancer",
+   "zh-TW": "魔戒舞者"
+  }
+ },
+ {
+  "slug": "makai-reaper",
+  "en": "Makai Reaper",
+  "prefix": true,
+  "n": {
+   "en": "Makai Reaper",
+   "zh-CN": "魔戒钐镰客",
+   "ja": "Makai Reaper",
+   "zh-TW": "魔戒釤鐮客"
+  }
+ },
+ {
+  "slug": "makai-sage",
+  "en": "Makai Sage",
+  "prefix": true,
+  "n": {
+   "en": "Makai Sage",
+   "zh-CN": "魔戒贤者",
+   "ja": "Makai Sage",
+   "zh-TW": "魔戒賢者"
+  }
+ },
+ {
+  "slug": "sanctuary-seeker",
+  "en": "Sanctuary Seeker",
+  "prefix": true,
+  "n": {
+   "en": "Sanctuary Seeker",
+   "zh-CN": "无人岛开拓者",
+   "ja": "Sanctuary Seeker",
+   "zh-TW": "無人島開拓者"
+  }
+ },
+ {
+  "slug": "trader-of-paradise",
+  "en": "Trader of Paradise",
+  "prefix": true,
+  "n": {
+   "en": "Trader of Paradise",
+   "zh-CN": "海岛商人",
+   "ja": "Trader of Paradise",
+   "zh-TW": "海島商人"
+  }
+ },
+ {
+  "slug": "cieldalaes-connoisseur",
+  "en": "Cieldalaes Connoisseur",
+  "prefix": true,
+  "n": {
+   "en": "Cieldalaes Connoisseur",
+   "zh-CN": "谢尔达莱富豪",
+   "ja": "Cieldalaes Connoisseur",
+   "zh-TW": "謝爾達萊富豪"
+  }
+ },
+ {
+  "slug": "voidbound",
+  "en": "Voidbound",
+  "prefix": true,
+  "n": {
+   "en": "Voidbound",
+   "zh-CN": "虚无之约",
+   "ja": "Voidbound",
+   "zh-TW": "虛無之約"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-2",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-2",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-2",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-3",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-3",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-3",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "barista-at-the-end-of-the-universe",
+  "en": "Barista at the End of the Universe",
+  "prefix": true,
+  "n": {
+   "en": "Barista at the End of the Universe",
+   "zh-CN": "宇宙尽头的咖啡师",
+   "ja": "Barista at the End of the Universe",
+   "zh-TW": "宇宙盡頭的咖啡師"
+  }
+ },
+ {
+  "slug": "sultana-s-shadow",
+  "en": "Sultana's Shadow",
+  "prefix": true,
+  "n": {
+   "en": "Sultana's Shadow",
+   "zh-CN": "女王之影",
+   "ja": "Sultana's Shadow",
+   "zh-TW": "女王之影"
+  }
+ },
+ {
+  "slug": "infamy-of-sil-dih",
+  "en": "Infamy of Sil'dih",
+  "prefix": true,
+  "n": {
+   "en": "Infamy of Sil'dih",
+   "zh-CN": "希拉狄哈魔影",
+   "ja": "Infamy of Sil'dih",
+   "zh-TW": "希拉狄哈魔影"
+  }
+ },
+ {
+  "slug": "fiendslayer",
+  "en": "Fiendslayer",
+  "prefix": true,
+  "n": {
+   "en": "Fiendslayer",
+   "zh-CN": "天王尽灭",
+   "ja": "Fiendslayer",
+   "zh-TW": "天王盡滅"
+  }
+ },
+ {
+  "slug": "leaf-whisperer",
+  "en": "Leaf Whisperer",
+  "prefix": true,
+  "n": {
+   "en": "Leaf Whisperer",
+   "zh-CN": "草语者",
+   "ja": "Leaf Whisperer",
+   "zh-TW": "草語者"
+  }
+ },
+ {
+  "slug": "man-maker",
+  "en": "Man-maker",
+  "prefix": true,
+  "n": {
+   "en": "Man-maker",
+   "zh-CN": "大变活人",
+   "ja": "Man-maker",
+   "zh-TW": "大變活人"
+  }
+ },
+ {
+  "slug": "duskfall",
+  "en": "Duskfall",
+  "prefix": true,
+  "n": {
+   "en": "Duskfall",
+   "zh-CN": "暗灭",
+   "ja": "Duskfall",
+   "zh-TW": "暗滅"
+  }
+ },
+ {
+  "slug": "true-steel",
+  "en": "True Steel",
+  "prefix": true,
+  "n": {
+   "en": "True Steel",
+   "zh-CN": "不断之钢",
+   "ja": "True Steel",
+   "zh-TW": "不斷之鋼"
+  }
+ },
+ {
+  "slug": "once-and-future-king",
+  "en": "Once and Future King",
+  "prefix": true,
+  "n": {
+   "en": "Once and Future King",
+   "zh-CN": "永恒之王",
+   "ja": "Once and Future King",
+   "zh-TW": "永恆之王"
+  },
+  "fem": {
+   "en": "Once and Future Queen",
+   "ja": "Once and Future Queen"
+  }
+ },
+ {
+  "slug": "the-accursed",
+  "en": "The Accursed",
+  "prefix": false,
+  "n": {
+   "en": "The Accursed",
+   "zh-CN": "埋藏的诅咒",
+   "ja": "the Accursed",
+   "zh-TW": "埋藏的詛咒"
+  }
+ },
+ {
+  "slug": "sovereign-hero",
+  "en": "Sovereign Hero",
+  "prefix": true,
+  "n": {
+   "en": "Sovereign Hero",
+   "zh-CN": "英雄王",
+   "ja": "Sovereign Hero",
+   "zh-TW": "英雄王"
+  }
+ },
+ {
+  "slug": "dreaming-worker",
+  "en": "Dreaming Worker",
+  "prefix": true,
+  "n": {
+   "en": "Dreaming Worker",
+   "zh-CN": "梦明工作者",
+   "ja": "Dreaming Worker",
+   "zh-TW": "夢明工作者"
+  }
+ },
+ {
+  "slug": "the-alpha-legend",
+  "en": "The Alpha Legend",
+  "prefix": false,
+  "n": {
+   "en": "The Alpha Legend",
+   "zh-CN": "元始",
+   "ja": "the Alpha Legend",
+   "zh-TW": "元始"
+  }
+ },
+ {
+  "slug": "agonistes",
+  "en": "Agonistes",
+  "prefix": true,
+  "n": {
+   "en": "Agonistes",
+   "zh-CN": "体育健将",
+   "ja": "Agonistes",
+   "zh-TW": "體育健將"
+  }
+ },
+ {
+  "slug": "gymnasiarch",
+  "en": "Gymnasiarch",
+  "prefix": true,
+  "n": {
+   "en": "Gymnasiarch",
+   "zh-CN": "体育官",
+   "ja": "Gymnasiarch",
+   "zh-TW": "體育官"
+  }
+ },
+ {
+  "slug": "olympian",
+  "en": "Olympian",
+  "prefix": true,
+  "n": {
+   "en": "Olympian",
+   "zh-CN": "天神下凡",
+   "ja": "Olympian",
+   "zh-TW": "天神下凡"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-4",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-4",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-4",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-5",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-5",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-5",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "throneshaker",
+  "en": "Throneshaker",
+  "prefix": true,
+  "n": {
+   "en": "Throneshaker",
+   "zh-CN": "王座将倾",
+   "ja": "Throneshaker",
+   "zh-TW": "王座將傾"
+  }
+ },
+ {
+  "slug": "wolf-of-easy-street",
+  "en": "Wolf of Easy Street",
+  "prefix": true,
+  "n": {
+   "en": "Wolf of Easy Street",
+   "zh-CN": "安逸街之狼",
+   "ja": "Wolf of Easy Street",
+   "zh-TW": "安逸街之狼"
+  }
+ },
+ {
+  "slug": "doom-of-the-deep",
+  "en": "Doom of the Deep",
+  "prefix": true,
+  "n": {
+   "en": "Doom of the Deep",
+   "zh-CN": "深洋之劫",
+   "ja": "Doom of the Deep",
+   "zh-TW": "深洋之劫"
+  }
+ },
+ {
+  "slug": "sea-comber",
+  "en": "Sea Comber",
+  "prefix": true,
+  "n": {
+   "en": "Sea Comber",
+   "zh-CN": "沧海拾贝",
+   "ja": "Sea Comber",
+   "zh-TW": "滄海拾貝"
+  }
+ },
+ {
+  "slug": "squidzure-dragoon",
+  "en": "Squidzure Dragoon",
+  "prefix": true,
+  "n": {
+   "en": "Squidzure Dragoon",
+   "zh-CN": "矫若鱿龙",
+   "ja": "Squidzure Dragoon",
+   "zh-TW": "矯若魷龍"
+  }
+ },
+ {
+  "slug": "shrimp-mariner",
+  "en": "Shrimp Mariner",
+  "prefix": true,
+  "n": {
+   "en": "Shrimp Mariner",
+   "zh-CN": "虾捕虾捕",
+   "ja": "Shrimp Mariner",
+   "zh-TW": "蝦捕蝦捕"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-6",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-6",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-6",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-7",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-7",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-7",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "ccrc-2023-champion",
+  "en": "CCRC 2023 Champion",
+  "prefix": true,
+  "n": {
+   "en": "CCRC 2023 Champion",
+   "zh-CN": "2024水晶冲突冠军",
+   "ja": "CCRC2023 Champion",
+   "zh-TW": "2024水晶衝突冠軍"
+  }
+ },
+ {
+  "slug": "ccrc-2023-finalist",
+  "en": "CCRC 2023 Finalist",
+  "prefix": true,
+  "n": {
+   "en": "CCRC 2023 Finalist",
+   "zh-CN": "2024水晶冲突晋级选手",
+   "ja": "CCRC2023 Finalist",
+   "zh-TW": "2024水晶衝突晉級選手"
+  }
+ },
+ {
+  "slug": "ccrc-2023-ranker",
+  "en": "CCRC 2023 Ranker",
+  "prefix": true,
+  "n": {
+   "en": "CCRC 2023 Ranker",
+   "zh-CN": "2024水晶冲突入围选手",
+   "ja": "CCRC2023 Ranker",
+   "zh-TW": "2024水晶衝突入圍選手"
+  }
+ },
+ {
+  "slug": "glitterier-than-goldor",
+  "en": "Glitterier than Goldor",
+  "prefix": true,
+  "n": {
+   "en": "Glitterier than Goldor",
+   "zh-CN": "闪耀胜金",
+   "ja": "Glitterier than Goldor",
+   "zh-TW": "閃耀勝金"
+  }
+ },
+ {
+  "slug": "blueblazer",
+  "en": "Blueblazer",
+  "prefix": true,
+  "n": {
+   "en": "Blueblazer",
+   "zh-CN": "青之先驱",
+   "ja": "Blueblazer",
+   "zh-TW": "青之先驅"
+  }
+ },
+ {
+  "slug": "forbidden-blue",
+  "en": "Forbidden Blue",
+  "prefix": true,
+  "n": {
+   "en": "Forbidden Blue",
+   "zh-CN": "青之禁果",
+   "ja": "Forbidden Blue",
+   "zh-TW": "青之禁果"
+  }
+ },
+ {
+  "slug": "reincarnator",
+  "en": "Reincarnator",
+  "prefix": true,
+  "n": {
+   "en": "Reincarnator",
+   "zh-CN": "超度亡魂",
+   "ja": "Reincarnator",
+   "zh-TW": "超度亡魂"
+  }
+ },
+ {
+  "slug": "ascendant-ascetic",
+  "en": "Ascendant Ascetic",
+  "prefix": true,
+  "n": {
+   "en": "Ascendant Ascetic",
+   "zh-CN": "山中头陀",
+   "ja": "Ascendant Ascetic",
+   "zh-TW": "山中頭陀"
+  }
+ },
+ {
+  "slug": "sparrow-s-harmony",
+  "en": "Sparrow's Harmony",
+  "prefix": true,
+  "n": {
+   "en": "Sparrow's Harmony",
+   "zh-CN": "文鸟的和声",
+   "ja": "Sparrow's Harmony",
+   "zh-TW": "文鳥的和聲"
+  }
+ },
+ {
+  "slug": "force-of-nature",
+  "en": "Force of Nature",
+  "prefix": true,
+  "n": {
+   "en": "Force of Nature",
+   "zh-CN": "自然之力",
+   "ja": "Force of Nature",
+   "zh-TW": "自然之力"
+  }
+ },
+ {
+  "slug": "sleepless-scholar",
+  "en": "Sleepless Scholar",
+  "prefix": true,
+  "n": {
+   "en": "Sleepless Scholar",
+   "zh-CN": "缺觉学者",
+   "ja": "Sleepless Scholar",
+   "zh-TW": "缺覺學者"
+  }
+ },
+ {
+  "slug": "the-resourceful",
+  "en": "The Resourceful",
+  "prefix": true,
+  "n": {
+   "en": "The Resourceful",
+   "zh-CN": "足智多谋",
+   "ja": "the Resourceful",
+   "zh-TW": "足智多謀"
+  }
+ },
+ {
+  "slug": "the-mandervillous",
+  "en": "The Mandervillous",
+  "prefix": true,
+  "n": {
+   "en": "The Mandervillous",
+   "zh-CN": "曼德维尔",
+   "ja": "the Mandervillous",
+   "zh-TW": "曼德維爾"
+  }
+ },
+ {
+  "slug": "of-the-relentless-sledge",
+  "en": "Of the Relentless Sledge",
+  "prefix": false,
+  "n": {
+   "en": "Of the Relentless Sledge",
+   "zh-CN": "镐不停歇",
+   "ja": "of the Relentless Sledge",
+   "zh-TW": "鎬不停歇"
+  }
+ },
+ {
+  "slug": "of-the-keen-hatchet",
+  "en": "Of the Keen Hatchet",
+  "prefix": false,
+  "n": {
+   "en": "Of the Keen Hatchet",
+   "zh-CN": "斧木生花",
+   "ja": "of the Keen Hatchet",
+   "zh-TW": "斧木生花"
+  }
+ },
+ {
+  "slug": "of-the-irresistible-lure",
+  "en": "Of the Irresistible Lure",
+  "prefix": false,
+  "n": {
+   "en": "Of the Irresistible Lure",
+   "zh-CN": "钩人心魄",
+   "ja": "of the Irresistible Lure",
+   "zh-TW": "鉤人心魄"
+  }
+ },
+ {
+  "slug": "wavewalker",
+  "en": "Wavewalker",
+  "prefix": true,
+  "n": {
+   "en": "Wavewalker",
+   "zh-CN": "浪涛行者",
+   "ja": "Wavewalker",
+   "zh-TW": "浪濤行者"
+  }
+ },
+ {
+  "slug": "the-final-fish",
+  "en": "The Final Fish",
+  "prefix": false,
+  "n": {
+   "en": "The Final Fish",
+   "zh-CN": "最终鲩想",
+   "ja": "the Final Fish",
+   "zh-TW": "最終鯇想"
+  }
+ },
+ {
+  "slug": "count-of-monte-cowrie",
+  "en": "Count of Monte Cowrie",
+  "prefix": true,
+  "n": {
+   "en": "Count of Monte Cowrie",
+   "zh-CN": "尖尖山伯爵",
+   "ja": "Count of Monte Cowrie",
+   "zh-TW": "尖尖山伯爵"
+  },
+  "fem": {
+   "en": "Countess of Monte Cowrie",
+   "ja": "Countess of Monte Cowrie"
+  }
+ },
+ {
+  "slug": "king-bean",
+  "en": "King Bean",
+  "prefix": true,
+  "n": {
+   "en": "King Bean",
+   "zh-CN": "糖豆王",
+   "ja": "King Bean",
+   "zh-TW": "糖豆王"
+  },
+  "fem": {
+   "en": "Queen Bean",
+   "ja": "Queen Bean"
+  }
+ },
+ {
+  "slug": "embraced-by-gods",
+  "en": "Embraced by Gods",
+  "prefix": true,
+  "n": {
+   "en": "Embraced by Gods",
+   "zh-CN": "众神眷爱之人",
+   "ja": "Embraced by Gods",
+   "zh-TW": "衆神眷愛之人"
+  }
+ },
+ {
+  "slug": "of-the-twinned-star",
+  "en": "Of the Twinned Star",
+  "prefix": false,
+  "n": {
+   "en": "Of the Twinned Star",
+   "zh-CN": "双星际会",
+   "ja": "of the Twinned Star",
+   "zh-TW": "雙星際會"
+  }
+ },
+ {
+  "slug": "wyrm-whisperer",
+  "en": "Wyrm Whisperer",
+  "prefix": true,
+  "n": {
+   "en": "Wyrm Whisperer",
+   "zh-CN": "龙语者",
+   "ja": "Wyrm Whisperer",
+   "zh-TW": "龍語者"
+  }
+ },
+ {
+  "slug": "growing-light",
+  "en": "Growing Light",
+  "prefix": true,
+  "n": {
+   "en": "Growing Light",
+   "zh-CN": "光明的零点",
+   "ja": "Growing Light",
+   "zh-TW": "光明的零點"
+  }
+ },
+ {
+  "slug": "sunchaser",
+  "en": "Sunchaser",
+  "prefix": true,
+  "n": {
+   "en": "Sunchaser",
+   "zh-CN": "追晨逐曦之人",
+   "ja": "Sunchaser",
+   "zh-TW": "追晨逐曦之人"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-8",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-8",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-8",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-9",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-9",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-9",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-10",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-10",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-10",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "epic-hero",
+  "en": "Epic Hero",
+  "prefix": true,
+  "n": {
+   "en": "Epic Hero",
+   "zh-CN": "史诗英雄",
+   "ja": "Epic Hero",
+   "zh-TW": "史詩英雄"
+  }
+ },
+ {
+  "slug": "the-first-s-foremost",
+  "en": "The First's Foremost",
+  "prefix": false,
+  "n": {
+   "en": "The First's Foremost",
+   "zh-CN": "第一中的第一",
+   "ja": "the First's Foremost",
+   "zh-TW": "第一中的第一"
+  }
+ },
+ {
+  "slug": "arbiter-of-war",
+  "en": "Arbiter of War",
+  "prefix": true,
+  "n": {
+   "en": "Arbiter of War",
+   "zh-CN": "战争仲裁者",
+   "ja": "Arbiter of War",
+   "zh-TW": "戰爭仲裁者"
+  }
+ },
+ {
+  "slug": "arbiter-of-magic",
+  "en": "Arbiter of Magic",
+  "prefix": true,
+  "n": {
+   "en": "Arbiter of Magic",
+   "zh-CN": "魔法仲裁者",
+   "ja": "Arbiter of Magic",
+   "zh-TW": "魔法仲裁者"
+  }
+ },
+ {
+  "slug": "arbiter-of-the-arts",
+  "en": "Arbiter of the Arts",
+  "prefix": true,
+  "n": {
+   "en": "Arbiter of the Arts",
+   "zh-CN": "工艺仲裁者",
+   "ja": "Arbiter of the Arts",
+   "zh-TW": "工藝仲裁者"
+  }
+ },
+ {
+  "slug": "arbiter-of-the-land",
+  "en": "Arbiter of the Land",
+  "prefix": true,
+  "n": {
+   "en": "Arbiter of the Land",
+   "zh-CN": "大地仲裁者",
+   "ja": "Arbiter of the Land",
+   "zh-TW": "大地仲裁者"
+  }
+ },
+ {
+  "slug": "on-the-trail",
+  "en": "On the Trail",
+  "prefix": true,
+  "n": {
+   "en": "On the Trail",
+   "zh-CN": "旅途的起点",
+   "ja": "On the Trail",
+   "zh-TW": "旅途的起點"
+  }
+ },
+ {
+  "slug": "herald-of-peace",
+  "en": "Herald of Peace",
+  "prefix": true,
+  "n": {
+   "en": "Herald of Peace",
+   "zh-CN": "和平使者",
+   "ja": "Herald of Peace",
+   "zh-TW": "和平使者"
+  }
+ },
+ {
+  "slug": "sunforged",
+  "en": "Sunforged",
+  "prefix": true,
+  "n": {
+   "en": "Sunforged",
+   "zh-CN": "太阳的历练",
+   "ja": "Sunforged",
+   "zh-TW": "太陽的歷練"
+  }
+ },
+ {
+  "slug": "domebreaker",
+  "en": "Domebreaker",
+  "prefix": true,
+  "n": {
+   "en": "Domebreaker",
+   "zh-CN": "破顶而入",
+   "ja": "Domebreaker",
+   "zh-TW": "破頂而入"
+  }
+ },
+ {
+  "slug": "knight-of-alexandria",
+  "en": "Knight of Alexandria",
+  "prefix": true,
+  "n": {
+   "en": "Knight of Alexandria",
+   "zh-CN": "亚历山德里亚骑士",
+   "ja": "Knight of Alexandria",
+   "zh-TW": "亞歷山德里亞騎士"
+  }
+ },
+ {
+  "slug": "of-the-new-dawn",
+  "en": "Of the New Dawn",
+  "prefix": false,
+  "n": {
+   "en": "Of the New Dawn",
+   "zh-CN": "新的曦光",
+   "ja": "of the New Dawn",
+   "zh-TW": "新的曦光"
+  }
+ },
+ {
+  "slug": "twinfang",
+  "en": "Twinfang",
+  "prefix": true,
+  "n": {
+   "en": "Twinfang",
+   "zh-CN": "双牙",
+   "ja": "Twinfang",
+   "zh-TW": "雙牙"
+  }
+ },
+ {
+  "slug": "picto-perfect",
+  "en": "Picto Perfect",
+  "prefix": true,
+  "n": {
+   "en": "Picto Perfect",
+   "zh-CN": "完美构图",
+   "ja": "Picto Perfect",
+   "zh-TW": "完美構圖"
+  }
+ },
+ {
+  "slug": "of-countless-alloys",
+  "en": "Of Countless Alloys",
+  "prefix": false,
+  "n": {
+   "en": "Of Countless Alloys",
+   "zh-CN": "合金无数",
+   "ja": "of Countless Alloys",
+   "zh-TW": "合金無數"
+  }
+ },
+ {
+  "slug": "of-countless-crafts",
+  "en": "Of Countless Crafts",
+  "prefix": false,
+  "n": {
+   "en": "Of Countless Crafts",
+   "zh-CN": "工艺无数",
+   "ja": "of Countless Crafts",
+   "zh-TW": "工藝無數"
+  }
+ },
+ {
+  "slug": "of-countless-concoctions",
+  "en": "Of Countless Concoctions",
+  "prefix": false,
+  "n": {
+   "en": "Of Countless Concoctions",
+   "zh-CN": "调和无数",
+   "ja": "of Countless Concoctions",
+   "zh-TW": "調和無數"
+  }
+ },
+ {
+  "slug": "of-countless-treasures",
+  "en": "Of Countless Treasures",
+  "prefix": false,
+  "n": {
+   "en": "Of Countless Treasures",
+   "zh-CN": "宝藏无数",
+   "ja": "of Countless Treasures",
+   "zh-TW": "寶藏無數"
+  }
+ },
+ {
+  "slug": "of-countless-catches",
+  "en": "Of Countless Catches",
+  "prefix": false,
+  "n": {
+   "en": "Of Countless Catches",
+   "zh-CN": "渔汛无数",
+   "ja": "of Countless Catches",
+   "zh-TW": "漁汛無數"
+  }
+ },
+ {
+  "slug": "goldheart",
+  "en": "Goldheart",
+  "prefix": true,
+  "n": {
+   "en": "Goldheart",
+   "zh-CN": "黄金之心",
+   "ja": "Goldheart",
+   "zh-TW": "黃金之心"
+  }
+ },
+ {
+  "slug": "of-untarnished-oath",
+  "en": "Of Untarnished Oath",
+  "prefix": false,
+  "n": {
+   "en": "Of Untarnished Oath",
+   "zh-CN": "誓言长明",
+   "ja": "of Untarnished Oath",
+   "zh-TW": "誓言長明"
+  }
+ },
+ {
+  "slug": "of-untarnished-steel",
+  "en": "Of Untarnished Steel",
+  "prefix": false,
+  "n": {
+   "en": "Of Untarnished Steel",
+   "zh-CN": "钢铁长明",
+   "ja": "of Untarnished Steel",
+   "zh-TW": "鋼鐵長明"
+  }
+ },
+ {
+  "slug": "of-untarnished-principle",
+  "en": "Of Untarnished Principle",
+  "prefix": false,
+  "n": {
+   "en": "Of Untarnished Principle",
+   "zh-CN": "信条长明",
+   "ja": "of Untarnished Principle",
+   "zh-TW": "信條長明"
+  }
+ },
+ {
+  "slug": "of-untarnished-lealty",
+  "en": "Of Untarnished Lealty",
+  "prefix": false,
+  "n": {
+   "en": "Of Untarnished Lealty",
+   "zh-CN": "忠诚长明",
+   "ja": "of Untarnished Lealty",
+   "zh-TW": "忠誠長明"
+  }
+ },
+ {
+  "slug": "of-the-bright-plume",
+  "en": "Of the Bright Plume",
+  "prefix": false,
+  "n": {
+   "en": "Of the Bright Plume",
+   "zh-CN": "鲜羽精兵",
+   "ja": "of the Bright Plume",
+   "zh-TW": "鮮羽精兵"
+  }
+ },
+ {
+  "slug": "winged-death",
+  "en": "Winged Death",
+  "prefix": true,
+  "n": {
+   "en": "Winged Death",
+   "zh-CN": "死亡从天而降",
+   "ja": "Winged Death",
+   "zh-TW": "死亡從天而降"
+  }
+ },
+ {
+  "slug": "of-the-hidden-cenote",
+  "en": "Of the Hidden Cenote",
+  "prefix": false,
+  "n": {
+   "en": "Of the Hidden Cenote",
+   "zh-CN": "隐秘天坑",
+   "ja": "of the Hidden Cenote",
+   "zh-TW": "隱祕天坑"
+  }
+ },
+ {
+  "slug": "of-the-brotherhood",
+  "en": "Of the Brotherhood",
+  "prefix": false,
+  "n": {
+   "en": "Of the Brotherhood",
+   "zh-CN": "手足情深",
+   "ja": "of the Brotherhood",
+   "zh-TW": "手足情深"
+  }
+ },
+ {
+  "slug": "of-resplendent-depths",
+  "en": "Of Resplendent Depths",
+  "prefix": false,
+  "n": {
+   "en": "Of Resplendent Depths",
+   "zh-CN": "深奥祥辉",
+   "ja": "of Resplendent Depths",
+   "zh-TW": "深奧祥輝"
+  }
+ },
+ {
+  "slug": "practically-pelupelu",
+  "en": "Practically Pelupelu",
+  "prefix": true,
+  "n": {
+   "en": "Practically Pelupelu",
+   "zh-CN": "几近佩鲁佩鲁族",
+   "ja": "Practically Pelupelu",
+   "zh-TW": "幾近佩魯佩魯族"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-11",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-11",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-11",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-12",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-12",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-12",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-13",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-13",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-13",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "tourist-wrangler",
+  "en": "Tourist Wrangler",
+  "prefix": true,
+  "n": {
+   "en": "Tourist Wrangler",
+   "zh-CN": "观光领路人",
+   "ja": "Tourist Wrangler",
+   "zh-TW": "觀光領路人"
+  }
+ },
+ {
+  "slug": "tracklayer",
+  "en": "Tracklayer",
+  "prefix": true,
+  "n": {
+   "en": "Tracklayer",
+   "zh-CN": "铺轨人",
+   "ja": "Tracklayer",
+   "zh-TW": "鋪軌人"
+  }
+ },
+ {
+  "slug": "transdimensional-tycoon",
+  "en": "Transdimensional Tycoon",
+  "prefix": true,
+  "n": {
+   "en": "Transdimensional Tycoon",
+   "zh-CN": "穿越铁路大亨",
+   "ja": "Transdimensional Tycoon",
+   "zh-TW": "穿越鐵路大亨"
+  }
+ },
+ {
+  "slug": "of-neon-horizons",
+  "en": "Of Neon Horizons",
+  "prefix": false,
+  "n": {
+   "en": "Of Neon Horizons",
+   "zh-CN": "霓虹交错",
+   "ja": "of Neon Horizons",
+   "zh-TW": "霓虹交錯"
+  }
+ },
+ {
+  "slug": "sweet-justice",
+  "en": "Sweet Justice",
+  "prefix": true,
+  "n": {
+   "en": "Sweet Justice",
+   "zh-CN": "甜美正义",
+   "ja": "Sweet Justice",
+   "zh-TW": "甜美正義"
+  }
+ },
+ {
+  "slug": "beader-of-bonds",
+  "en": "Beader of Bonds",
+  "prefix": true,
+  "n": {
+   "en": "Beader of Bonds",
+   "zh-CN": "万珠串联",
+   "ja": "Beader of Bonds",
+   "zh-TW": "萬珠串聯"
+  }
+ },
+ {
+  "slug": "genesis-of-legends",
+  "en": "Genesis of Legends",
+  "prefix": true,
+  "n": {
+   "en": "Genesis of Legends",
+   "zh-CN": "创世",
+   "ja": "Genesis of Legends",
+   "zh-TW": "創世"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-14",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-14",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-14",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "of-the-shining-scale",
+  "en": "Of the Shining Scale",
+  "prefix": false,
+  "n": {
+   "en": "Of the Shining Scale",
+   "zh-CN": "鳞鳞生辉",
+   "ja": "of the Shining Scale",
+   "zh-TW": "鱗鱗生輝"
+  }
+ },
+ {
+  "slug": "seeker-of-eternity",
+  "en": "Seeker of Eternity",
+  "prefix": true,
+  "n": {
+   "en": "Seeker of Eternity",
+   "zh-CN": "永久探求者",
+   "ja": "Seeker of Eternity",
+   "zh-TW": "永久探求者"
+  }
+ },
+ {
+  "slug": "random-encounter",
+  "en": "Random Encounter",
+  "prefix": true,
+  "n": {
+   "en": "Random Encounter",
+   "zh-CN": "随机遇敌",
+   "ja": "Random Encounter",
+   "zh-TW": "隨機遇敵"
+  }
+ },
+ {
+  "slug": "knower-of-fates",
+  "en": "Knower of Fates",
+  "prefix": true,
+  "n": {
+   "en": "Knower of Fates",
+   "zh-CN": "知见命运",
+   "ja": "Knower of Fates",
+   "zh-TW": "知見命運"
+  }
+ },
+ {
+  "slug": "infamy-of-blood",
+  "en": "Infamy of Blood",
+  "prefix": true,
+  "n": {
+   "en": "Infamy of Blood",
+   "zh-CN": "力之守卫",
+   "ja": "Infamy of Blood",
+   "zh-TW": "力之守衛"
+  }
+ },
+ {
+  "slug": "dead-man-s-tale",
+  "en": "Dead Man's Tale",
+  "prefix": true,
+  "n": {
+   "en": "Dead Man's Tale",
+   "zh-CN": "死者的故事",
+   "ja": "Dead Man's Tale",
+   "zh-TW": "死者的故事"
+  }
+ },
+ {
+  "slug": "king-among-castaways",
+  "en": "King Among Castaways",
+  "prefix": true,
+  "n": {
+   "en": "King Among Castaways",
+   "zh-CN": "漂流者之王",
+   "ja": "King Among Castaways",
+   "zh-TW": "漂流者之王"
+  },
+  "fem": {
+   "en": "Queen Among Castaways",
+   "zh-CN": "漂流者女王",
+   "zh-TW": "漂流者女王",
+   "ja": "Queen Among Castaways"
+  }
+ },
+ {
+  "slug": "persistent-pal",
+  "en": "Persistent Pal",
+  "prefix": true,
+  "n": {
+   "en": "Persistent Pal",
+   "zh-CN": "执着的朋友",
+   "ja": "Persistent Pal",
+   "zh-TW": "執着的朋友"
+  }
+ },
+ {
+  "slug": "bunny-blessed",
+  "en": "Bunny-blessed",
+  "prefix": true,
+  "n": {
+   "en": "Bunny-blessed",
+   "zh-CN": "幸福兔保佑",
+   "ja": "Bunny-blessed",
+   "zh-TW": "幸福兔保佑"
+  }
+ },
+ {
+  "slug": "ready-for-liftoff",
+  "en": "Ready for Liftoff",
+  "prefix": true,
+  "n": {
+   "en": "Ready for Liftoff",
+   "zh-CN": "准备起飞",
+   "ja": "Ready for Liftoff",
+   "zh-TW": "準備起飛"
+  }
+ },
+ {
+  "slug": "framer-of-stars",
+  "en": "Framer of Stars",
+  "prefix": true,
+  "n": {
+   "en": "Framer of Stars",
+   "zh-CN": "众星之框",
+   "ja": "Framer of Stars",
+   "zh-TW": "衆星之框"
+  }
+ },
+ {
+  "slug": "temperer-of-stars",
+  "en": "Temperer of Stars",
+  "prefix": true,
+  "n": {
+   "en": "Temperer of Stars",
+   "zh-CN": "众星之炉",
+   "ja": "Temperer of Stars",
+   "zh-TW": "衆星之爐"
+  }
+ },
+ {
+  "slug": "forger-of-stars",
+  "en": "Forger of Stars",
+  "prefix": true,
+  "n": {
+   "en": "Forger of Stars",
+   "zh-CN": "众星之锤",
+   "ja": "Forger of Stars",
+   "zh-TW": "衆星之錘"
+  }
+ },
+ {
+  "slug": "caster-of-stars",
+  "en": "Caster of Stars",
+  "prefix": true,
+  "n": {
+   "en": "Caster of Stars",
+   "zh-CN": "众星宝石",
+   "ja": "Caster of Stars",
+   "zh-TW": "衆星寶石"
+  }
+ },
+ {
+  "slug": "stitcher-of-stars",
+  "en": "Stitcher of Stars",
+  "prefix": true,
+  "n": {
+   "en": "Stitcher of Stars",
+   "zh-CN": "众星之刀",
+   "ja": "Stitcher of Stars",
+   "zh-TW": "衆星之刀"
+  }
+ },
+ {
+  "slug": "weaver-of-stars",
+  "en": "Weaver of Stars",
+  "prefix": true,
+  "n": {
+   "en": "Weaver of Stars",
+   "zh-CN": "众星纺车",
+   "ja": "Weaver of Stars",
+   "zh-TW": "衆星紡車"
+  }
+ },
+ {
+  "slug": "sublimator-of-stars",
+  "en": "Sublimator of Stars",
+  "prefix": true,
+  "n": {
+   "en": "Sublimator of Stars",
+   "zh-CN": "众星灵药",
+   "ja": "Sublimator of Stars",
+   "zh-TW": "衆星靈藥"
+  }
+ },
+ {
+  "slug": "taster-of-stars",
+  "en": "Taster of Stars",
+  "prefix": true,
+  "n": {
+   "en": "Taster of Stars",
+   "zh-CN": "众星之锅",
+   "ja": "Taster of Stars",
+   "zh-TW": "衆星之鍋"
+  }
+ },
+ {
+  "slug": "excavator-of-stars",
+  "en": "Excavator of Stars",
+  "prefix": true,
+  "n": {
+   "en": "Excavator of Stars",
+   "zh-CN": "众星之镐",
+   "ja": "Excavator of Stars",
+   "zh-TW": "衆星之鎬"
+  }
+ },
+ {
+  "slug": "plucker-of-stars",
+  "en": "Plucker of Stars",
+  "prefix": true,
+  "n": {
+   "en": "Plucker of Stars",
+   "zh-CN": "众星之斧",
+   "ja": "Plucker of Stars",
+   "zh-TW": "衆星之斧"
+  }
+ },
+ {
+  "slug": "angler-of-stars",
+  "en": "Angler of Stars",
+  "prefix": true,
+  "n": {
+   "en": "Angler of Stars",
+   "zh-CN": "众星钓竿",
+   "ja": "Angler of Stars",
+   "zh-TW": "衆星釣竿"
+  }
+ },
+ {
+  "slug": "starlighter",
+  "en": "Starlighter",
+  "prefix": true,
+  "n": {
+   "en": "Starlighter",
+   "zh-CN": "群星的启明者",
+   "ja": "Starlighter",
+   "zh-TW": "羣星的啓明者"
+  }
+ },
+ {
+  "slug": "starfinder",
+  "en": "Starfinder",
+  "prefix": true,
+  "n": {
+   "en": "Starfinder",
+   "zh-CN": "群星的探明者",
+   "ja": "Starfinder",
+   "zh-TW": "羣星的探明者"
+  }
+ },
+ {
+  "slug": "wisher-upon-stars",
+  "en": "Wisher upon Stars",
+  "prefix": true,
+  "n": {
+   "en": "Wisher upon Stars",
+   "zh-CN": "星愿",
+   "ja": "Wisher upon Stars",
+   "zh-TW": "星願"
+  }
+ },
+ {
+  "slug": "overemployed",
+  "en": "Overemployed",
+  "prefix": true,
+  "n": {
+   "en": "Overemployed",
+   "zh-CN": "过度赋职",
+   "ja": "Overemployed",
+   "zh-TW": "過度賦職"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-15",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-15",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-15",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-16",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-16",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-16",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "omega-tier",
+  "en": "Omega Tier",
+  "prefix": true,
+  "n": {
+   "en": "Omega Tier",
+   "zh-CN": "欧米茄段位",
+   "ja": "Omega Tier",
+   "zh-TW": "歐米茄段位"
+  }
+ },
+ {
+  "slug": "ultima-tier",
+  "en": "Ultima Tier",
+  "prefix": true,
+  "n": {
+   "en": "Ultima Tier",
+   "zh-CN": "究极段位",
+   "ja": "Ultima Tier",
+   "zh-TW": "究極段位"
+  }
+ },
+ {
+  "slug": "the-promise-of-tomorrow",
+  "en": "The Promise of Tomorrow",
+  "prefix": false,
+  "n": {
+   "en": "The Promise of Tomorrow",
+   "zh-CN": "明日的路标",
+   "ja": "the Promise of Tomorrow",
+   "zh-TW": "明日的路標"
+  }
+ },
+ {
+  "slug": "of-high-spirits",
+  "en": "Of High Spirits",
+  "prefix": false,
+  "n": {
+   "en": "Of High Spirits",
+   "zh-CN": "雪灵精怪",
+   "ja": "of High Spirits",
+   "zh-TW": "雪靈精怪"
+  }
+ },
+ {
+  "slug": "of-neon-nights",
+  "en": "Of Neon Nights",
+  "prefix": false,
+  "n": {
+   "en": "Of Neon Nights",
+   "zh-CN": "霓虹之夜",
+   "ja": "of Neon Nights",
+   "zh-TW": "霓虹之夜"
+  }
+ },
+ {
+  "slug": "sleepless-in-cyberspace",
+  "en": "Sleepless in Cyberspace",
+  "prefix": true,
+  "n": {
+   "en": "Sleepless in Cyberspace",
+   "zh-CN": "一网无眠",
+   "ja": "Sleepless in Cyberspace",
+   "zh-TW": "一網無眠"
+  }
+ },
+ {
+  "slug": "living-the-dream",
+  "en": "Living the Dream",
+  "prefix": false,
+  "n": {
+   "en": "Living the Dream",
+   "zh-CN": "人生如梦",
+   "ja": "Living the Dream",
+   "zh-TW": "人生如夢"
+  }
+ },
+ {
+  "slug": "stellar-astronomer",
+  "en": "Stellar Astronomer",
+  "prefix": true,
+  "n": {
+   "en": "Stellar Astronomer",
+   "zh-CN": "星际天文学家",
+   "ja": "Stellar Astronomer",
+   "zh-TW": "星際天文學家"
+  }
+ },
+ {
+  "slug": "devoted-pilgrim",
+  "en": "Devoted Pilgrim",
+  "prefix": true,
+  "n": {
+   "en": "Devoted Pilgrim",
+   "zh-CN": "虔诚的朝圣者",
+   "ja": "Devoted Pilgrim",
+   "zh-TW": "虔誠的朝聖者"
+  }
+ },
+ {
+  "slug": "saint-of-sorrows",
+  "en": "Saint of Sorrows",
+  "prefix": true,
+  "n": {
+   "en": "Saint of Sorrows",
+   "zh-CN": "悲伤的圣人",
+   "ja": "Saint of Sorrows",
+   "zh-TW": "悲傷的聖人"
+  }
+ },
+ {
+  "slug": "the-enlightened",
+  "en": "The Enlightened",
+  "prefix": false,
+  "n": {
+   "en": "The Enlightened",
+   "zh-CN": "光耀之人",
+   "ja": "the Enlightened",
+   "zh-TW": "光耀之人"
+  }
+ },
+ {
+  "slug": "curse-curator",
+  "en": "Curse Curator",
+  "prefix": true,
+  "n": {
+   "en": "Curse Curator",
+   "zh-CN": "诅咒策展人",
+   "ja": "Curse Curator",
+   "zh-TW": "詛咒策展人"
+  }
+ },
+ {
+  "slug": "the-first-shadow",
+  "en": "The First Shadow",
+  "prefix": false,
+  "n": {
+   "en": "The First Shadow",
+   "zh-CN": "最初之影",
+   "ja": "the First Shadow",
+   "zh-TW": "最初之影"
+  }
+ },
+ {
+  "slug": "grief-s-anointed",
+  "en": "Grief's Anointed",
+  "prefix": true,
+  "n": {
+   "en": "Grief's Anointed",
+   "zh-CN": "悲寂受膏者",
+   "ja": "Grief's Anointed",
+   "zh-TW": "悲寂受膏者"
+  }
+ },
+ {
+  "slug": "the-mourner-of-light",
+  "en": "The Mourner of Light",
+  "prefix": false,
+  "n": {
+   "en": "The Mourner of Light",
+   "zh-CN": "光之送葬者",
+   "ja": "the Mourner of Light",
+   "zh-TW": "光之送葬者"
+  }
+ },
+ {
+  "slug": "the-white-wraith",
+  "en": "The White Wraith",
+  "prefix": false,
+  "n": {
+   "en": "The White Wraith",
+   "zh-CN": "白色孤影",
+   "ja": "the White Wraith",
+   "zh-TW": "白色孤影"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-17",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-17",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-17",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-18",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-18",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-18",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "peak-performer",
+  "en": "Peak Performer",
+  "prefix": true,
+  "n": {
+   "en": "Peak Performer",
+   "zh-CN": "巅峰",
+   "ja": "Peak Performer",
+   "zh-TW": "巔峯"
+  }
+ },
+ {
+  "slug": "ccrc-2026-champion",
+  "en": "CCRC 2026 Champion",
+  "prefix": true,
+  "n": {
+   "en": "CCRC 2026 Champion",
+   "zh-CN": "2026水晶冲突冠军",
+   "ja": "CCRC2026 Champion",
+   "zh-TW": "2026水晶衝突冠軍"
+  }
+ },
+ {
+  "slug": "ccrc-2026-finalist",
+  "en": "CCRC 2026 Finalist",
+  "prefix": true,
+  "n": {
+   "en": "CCRC 2026 Finalist",
+   "zh-CN": "2026水晶冲突晋级选手",
+   "ja": "CCRC2026 Finalist",
+   "zh-TW": "2026水晶衝突晉級選手"
+  }
+ },
+ {
+  "slug": "ccrc-2026-ranker",
+  "en": "CCRC 2026 Ranker",
+  "prefix": true,
+  "n": {
+   "en": "CCRC 2026 Ranker",
+   "zh-CN": "2026水晶冲突入围选手",
+   "ja": "CCRC2026 Ranker",
+   "zh-TW": "2026水晶衝突入圍選手"
+  }
+ },
+ {
+  "slug": "mistcloak",
+  "en": "Mistcloak",
+  "prefix": true,
+  "n": {
+   "en": "Mistcloak",
+   "zh-CN": "雾中奇人",
+   "ja": "Mistcloak",
+   "zh-TW": "霧中奇人"
+  }
+ },
+ {
+  "slug": "professional-protagonist",
+  "en": "Professional Protagonist",
+  "prefix": true,
+  "n": {
+   "en": "Professional Protagonist",
+   "zh-CN": "专业主人公",
+   "ja": "Professional Protagonist",
+   "zh-TW": "專業主人公"
+  }
+ },
+ {
+  "slug": "literary-cannon",
+  "en": "Literary Cannon",
+  "prefix": true,
+  "n": {
+   "en": "Literary Cannon",
+   "zh-CN": "文学重炮",
+   "ja": "Literary Cannon",
+   "zh-TW": "文學重炮"
+  }
+ },
+ {
+  "slug": "gravity-defier",
+  "en": "Gravity Defier",
+  "prefix": true,
+  "n": {
+   "en": "Gravity Defier",
+   "zh-CN": "重力对抗者",
+   "ja": "Gravity Defier",
+   "zh-TW": "重力對抗者"
+  }
+ },
+ {
+  "slug": "designer-of-delight",
+  "en": "Designer of Delight",
+  "prefix": true,
+  "n": {
+   "en": "Designer of Delight",
+   "zh-CN": "悦光之设计师",
+   "ja": "Designer of Delight",
+   "zh-TW": "悅光之設計師"
+  }
+ },
+ {
+  "slug": "interstellar-ambassador",
+  "en": "Interstellar Ambassador",
+  "prefix": true,
+  "n": {
+   "en": "Interstellar Ambassador",
+   "zh-CN": "星际大使",
+   "ja": "Interstellar Ambassador",
+   "zh-TW": "星際大使"
+  }
+ },
+ {
+  "slug": "star-powered-carpenter",
+  "en": "Star-powered Carpenter",
+  "prefix": true,
+  "n": {
+   "en": "Star-powered Carpenter",
+   "zh-CN": "明星级刻木匠",
+   "ja": "Star-powered Carpenter",
+   "zh-TW": "明星級刻木匠"
+  }
+ },
+ {
+  "slug": "star-powered-smith",
+  "en": "Star-powered Smith",
+  "prefix": true,
+  "n": {
+   "en": "Star-powered Smith",
+   "zh-CN": "明星级锻铁匠",
+   "ja": "Star-powered Smith",
+   "zh-TW": "明星級鍛鐵匠"
+  }
+ },
+ {
+  "slug": "star-powered-armorer",
+  "en": "Star-powered Armorer",
+  "prefix": true,
+  "n": {
+   "en": "Star-powered Armorer",
+   "zh-CN": "明星级铸甲匠",
+   "ja": "Star-powered Armorer",
+   "zh-TW": "明星級鑄甲匠"
+  }
+ },
+ {
+  "slug": "star-powered-goldsmith",
+  "en": "Star-powered Goldsmith",
+  "prefix": true,
+  "n": {
+   "en": "Star-powered Goldsmith",
+   "zh-CN": "明星级雕金匠",
+   "ja": "Star-powered Goldsmith",
+   "zh-TW": "明星級雕金匠"
+  }
+ },
+ {
+  "slug": "star-powered-leatherworker",
+  "en": "Star-powered Leatherworker",
+  "prefix": true,
+  "n": {
+   "en": "Star-powered Leatherworker",
+   "zh-CN": "明星级制革匠",
+   "ja": "Star-powered Leatherworker",
+   "zh-TW": "明星級製革匠"
+  }
+ },
+ {
+  "slug": "star-powered-weaver",
+  "en": "Star-powered Weaver",
+  "prefix": true,
+  "n": {
+   "en": "Star-powered Weaver",
+   "zh-CN": "明星级裁衣匠",
+   "ja": "Star-powered Weaver",
+   "zh-TW": "明星級裁衣匠"
+  }
+ },
+ {
+  "slug": "star-powered-alchemist",
+  "en": "Star-powered Alchemist",
+  "prefix": true,
+  "n": {
+   "en": "Star-powered Alchemist",
+   "zh-CN": "明星级炼金术士",
+   "ja": "Star-powered Alchemist",
+   "zh-TW": "明星級鍊金術士"
+  }
+ },
+ {
+  "slug": "star-powered-culinarian",
+  "en": "Star-powered Culinarian",
+  "prefix": true,
+  "n": {
+   "en": "Star-powered Culinarian",
+   "zh-CN": "明星级烹调师",
+   "ja": "Star-powered Culinarian",
+   "zh-TW": "明星級烹調師"
+  }
+ },
+ {
+  "slug": "star-powered-miner",
+  "en": "Star-powered Miner",
+  "prefix": true,
+  "n": {
+   "en": "Star-powered Miner",
+   "zh-CN": "明星级采矿工",
+   "ja": "Star-powered Miner",
+   "zh-TW": "明星級採礦工"
+  }
+ },
+ {
+  "slug": "star-powered-botanist",
+  "en": "Star-powered Botanist",
+  "prefix": true,
+  "n": {
+   "en": "Star-powered Botanist",
+   "zh-CN": "明星级园艺工",
+   "ja": "Star-powered Botanist",
+   "zh-TW": "明星級園藝工"
+  }
+ },
+ {
+  "slug": "star-powered-fisher",
+  "en": "Star-powered Fisher",
+  "prefix": true,
+  "n": {
+   "en": "Star-powered Fisher",
+   "zh-CN": "明星级捕鱼人",
+   "ja": "Star-powered Fisher",
+   "zh-TW": "明星級捕魚人"
+  }
+ },
+ {
+  "slug": "rocket-scientist",
+  "en": "Rocket Scientist",
+  "prefix": true,
+  "n": {
+   "en": "Rocket Scientist",
+   "zh-CN": "宇航奇才",
+   "ja": "Rocket Scientist",
+   "zh-TW": "宇航奇才"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-19",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-19",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-19",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-20",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-20",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-20",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "of-the-final-conflict-21",
+  "en": "Of the Final Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Final Conflict",
+   "zh-CN": "顶级冲突",
+   "ja": "of the Final Conflict",
+   "zh-TW": "頂級衝突"
+  }
+ },
+ {
+  "slug": "of-the-endless-conflict-21",
+  "en": "Of the Endless Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Endless Conflict",
+   "zh-CN": "无尽冲突",
+   "ja": "of the Endless Conflict",
+   "zh-TW": "無盡衝突"
+  }
+ },
+ {
+  "slug": "of-the-rising-conflict-21",
+  "en": "Of the Rising Conflict",
+  "prefix": false,
+  "n": {
+   "en": "Of the Rising Conflict",
+   "zh-CN": "激昂冲突",
+   "ja": "of the Rising Conflict",
+   "zh-TW": "激昂衝突"
+  }
+ },
+ {
+  "slug": "trailblazer",
+  "en": "Trailblazer",
+  "prefix": true,
+  "n": {
+   "en": "Trailblazer",
+   "zh-CN": "天际行者",
+   "ja": "Trailblazer",
+   "zh-TW": "天際行者"
+  }
+ },
+ {
+  "slug": "sun-winged",
+  "en": "Sun-winged",
+  "prefix": true,
+  "n": {
+   "en": "Sun-winged",
+   "zh-CN": "太阳之翼",
+   "ja": "Sun-winged",
+   "zh-TW": "太陽之翼"
+  }
+ },
+ {
+  "slug": "south-sea-scourge",
+  "en": "South Sea Scourge",
+  "prefix": true,
+  "n": {
+   "en": "South Sea Scourge",
+   "zh-CN": "威震南洋",
+   "ja": "South Sea Scourge",
+   "zh-TW": "威震南洋"
+  }
+ },
+ {
+  "slug": "paleoichthyologist",
+  "en": "Paleoichthyologist",
+  "prefix": true,
+  "n": {
+   "en": "Paleoichthyologist",
+   "zh-CN": "古鱼类学者",
+   "ja": "Paleoichthyologist",
+   "zh-TW": "古魚類學者"
+  }
+ },
+ {
+  "slug": "nautical-knockout",
+  "en": "Nautical Knockout",
+  "prefix": true,
+  "n": {
+   "en": "Nautical Knockout",
+   "zh-CN": "一拳潮人",
+   "ja": "Nautical Knockout",
+   "zh-TW": "一拳潮人"
+  }
+ },
+ {
+  "slug": "globe-trotting-miner",
+  "en": "Globe-trotting Miner",
+  "prefix": true,
+  "n": {
+   "en": "Globe-trotting Miner",
+   "zh-CN": "挖遍世界",
+   "ja": "Globe-trotting Miner",
+   "zh-TW": "挖遍世界"
+  }
+ },
+ {
+  "slug": "globe-trotting-botanist",
+  "en": "Globe-trotting Botanist",
+  "prefix": true,
+  "n": {
+   "en": "Globe-trotting Botanist",
+   "zh-CN": "伐遍世界",
+   "ja": "Globe-trotting Botanist",
+   "zh-TW": "伐遍世界"
+  }
+ },
+ {
+  "slug": "globe-trotting-fisher",
+  "en": "Globe-trotting Fisher",
+  "prefix": true,
+  "n": {
+   "en": "Globe-trotting Fisher",
+   "zh-CN": "钓遍世界",
+   "ja": "Globe-trotting Fisher",
+   "zh-TW": "釣遍世界"
+  }
+ },
+ {
+  "slug": "aunt-tii-s-treasure",
+  "en": "Aunt Tii's Treasure",
+  "prefix": true,
+  "n": {
+   "en": "Aunt Tii's Treasure",
+   "zh-CN": "缇姨的宝贝",
+   "ja": "Aunt Tii's Treasure",
+   "zh-TW": "緹姨的寶貝"
+  }
+ },
+ {
+  "slug": "taco-hero",
+  "en": "Taco Hero",
+  "prefix": true,
+  "n": {
+   "en": "Taco Hero",
+   "zh-CN": "塔可英雄",
+   "ja": "Taco Hero",
+   "zh-TW": "塔可英雄"
+  }
+ },
+ {
+  "slug": "pirate-s-displeasure",
+  "en": "Pirate's Displeasure",
+  "prefix": true,
+  "n": {
+   "en": "Pirate's Displeasure",
+   "zh-CN": "海盗之恨",
+   "ja": "Pirate's Displeasure",
+   "zh-TW": "海盜之恨"
+  }
+ },
+ {
+  "slug": "protector-of-pots",
+  "en": "Protector of Pots",
+  "prefix": true,
+  "n": {
+   "en": "Protector of Pots",
+   "zh-CN": "罐子守护者",
+   "ja": "Protector of Pots",
+   "zh-TW": "罐子守護者"
+  }
+ },
+ {
+  "slug": "bun-believable",
+  "en": "Bun-believable",
+  "prefix": true,
+  "n": {
+   "en": "Bun-believable",
+   "zh-CN": "兔有其名",
+   "ja": "Bun-believable",
+   "zh-TW": "兔有其名"
+  }
+ },
+ {
+  "slug": "cruel-legend",
+  "en": "Cruel Legend",
+  "prefix": true,
+  "n": {
+   "en": "Cruel Legend",
+   "zh-CN": "妖星",
+   "ja": "Cruel Legend",
+   "zh-TW": "妖星"
+  }
+ }
+]

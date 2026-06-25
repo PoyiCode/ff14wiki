@@ -1,0 +1,7 @@
+id: bounty-hunter
+category: titles
+type: title
+title: "Bounty Hunter"
+placement: prefix
+tags: [title, identity]
+status: stable

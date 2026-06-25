@@ -1,0 +1,7 @@
+id: postmaster
+category: titles
+type: title
+title: "Postmaster"
+placement: prefix
+tags: [title, identity]
+status: stable

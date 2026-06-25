@@ -1,0 +1,7 @@
+id: gold-bearer
+category: titles
+type: title
+title: "Gold Bearer"
+placement: prefix
+tags: [title, identity]
+status: stable

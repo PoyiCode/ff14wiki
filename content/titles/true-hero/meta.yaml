@@ -1,0 +1,7 @@
+id: true-hero
+category: titles
+type: title
+title: "True Hero"
+placement: prefix
+tags: [title, identity]
+status: stable

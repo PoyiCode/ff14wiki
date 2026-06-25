@@ -1,0 +1,7 @@
+id: soldier-of-fortune
+category: titles
+type: title
+title: "Soldier of Fortune"
+placement: prefix
+tags: [title, identity]
+status: stable

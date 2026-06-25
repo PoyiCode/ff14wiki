@@ -1,0 +1,7 @@
+id: chocobo-trainer
+category: titles
+type: title
+title: "Chocobo Trainer"
+placement: prefix
+tags: [title, identity]
+status: stable

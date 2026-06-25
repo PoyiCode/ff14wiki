@@ -140,6 +140,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The music of Eorzea (orchestrion rolls), so the bot can chat about favourite tracks, hum tunes, and describe the score of a scene.',
     },
   },
+  {
+    key: 'titles',
+    label: { 'zh-TW': '稱號', 'zh-CN': '称号', ja: '称号', en: 'Titles' },
+    description: {
+      'zh-TW': '冒險者掛在名字前後的稱號，是身分與成就的象徵，也是居民閒聊與自我介紹的話題。',
+      'zh-CN': '冒险者挂在名字前后的称号，是身份与成就的象征，也是居民闲聊与自我介绍的话题。',
+      ja: '名前の前後に表示される称号。身分や実績の象徴で、住民の雑談や自己紹介の話題にも。',
+      en: 'The titles adventurers display before or after their name — marks of identity and achievement, and a topic for a resident to chat about or introduce themselves with.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

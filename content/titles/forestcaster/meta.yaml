@@ -1,0 +1,7 @@
+id: forestcaster
+category: titles
+type: title
+title: "Forestcaster"
+placement: prefix
+tags: [title, identity]
+status: stable

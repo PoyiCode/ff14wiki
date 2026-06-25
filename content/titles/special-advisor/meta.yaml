@@ -1,0 +1,7 @@
+id: special-advisor
+category: titles
+type: title
+title: "Special Advisor"
+placement: prefix
+tags: [title, identity]
+status: stable

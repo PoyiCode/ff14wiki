@@ -1,0 +1,7 @@
+id: confederate
+category: titles
+type: title
+title: "Confederate"
+placement: prefix
+tags: [title, identity]
+status: stable

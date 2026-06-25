@@ -1,0 +1,7 @@
+id: omega-tier
+category: titles
+type: title
+title: "Omega Tier"
+placement: prefix
+tags: [title, identity]
+status: stable

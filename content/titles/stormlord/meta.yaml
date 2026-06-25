@@ -1,0 +1,8 @@
+id: stormlord
+category: titles
+type: title
+title: "Stormlord"
+placement: prefix
+feminine: "Stormlady"
+tags: [title, identity]
+status: stable

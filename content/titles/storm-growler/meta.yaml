@@ -1,0 +1,7 @@
+id: storm-growler
+category: titles
+type: title
+title: "Storm Growler"
+placement: prefix
+tags: [title, identity]
+status: stable

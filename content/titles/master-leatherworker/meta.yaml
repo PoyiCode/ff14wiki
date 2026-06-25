@@ -1,0 +1,7 @@
+id: master-leatherworker
+category: titles
+type: title
+title: "Master Leatherworker"
+placement: prefix
+tags: [title, identity]
+status: stable

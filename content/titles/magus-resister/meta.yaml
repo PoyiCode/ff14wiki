@@ -1,0 +1,7 @@
+id: magus-resister
+category: titles
+type: title
+title: "Magus Resister"
+placement: prefix
+tags: [title, identity]
+status: stable

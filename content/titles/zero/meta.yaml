@@ -1,0 +1,7 @@
+id: zero
+category: titles
+type: title
+title: "Zero"
+placement: prefix
+tags: [title, identity]
+status: stable

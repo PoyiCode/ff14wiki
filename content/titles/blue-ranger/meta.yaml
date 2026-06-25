@@ -1,0 +1,7 @@
+id: blue-ranger
+category: titles
+type: title
+title: "Blue Ranger"
+placement: prefix
+tags: [title, identity]
+status: stable

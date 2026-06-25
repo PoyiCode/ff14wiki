@@ -1,0 +1,7 @@
+id: skirmisher
+category: titles
+type: title
+title: "Skirmisher"
+placement: prefix
+tags: [title, identity]
+status: stable

@@ -1,0 +1,7 @@
+id: warmonger
+category: titles
+type: title
+title: "Warmonger"
+placement: prefix
+tags: [title, identity]
+status: stable

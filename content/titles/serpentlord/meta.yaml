@@ -1,0 +1,8 @@
+id: serpentlord
+category: titles
+type: title
+title: "Serpentlord"
+placement: prefix
+feminine: "Serpentlady"
+tags: [title, identity]
+status: stable

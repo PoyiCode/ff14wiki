@@ -1,0 +1,7 @@
+id: veteran-explorer
+category: titles
+type: title
+title: "Veteran Explorer"
+placement: prefix
+tags: [title, identity]
+status: stable

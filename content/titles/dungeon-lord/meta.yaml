@@ -1,0 +1,8 @@
+id: dungeon-lord
+category: titles
+type: title
+title: "Dungeon Lord"
+placement: prefix
+feminine: "Dungeon Lady"
+tags: [title, identity]
+status: stable

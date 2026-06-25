@@ -1,0 +1,7 @@
+id: random-encounter
+category: titles
+type: title
+title: "Random Encounter"
+placement: prefix
+tags: [title, identity]
+status: stable

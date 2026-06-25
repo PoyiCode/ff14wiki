@@ -1,0 +1,7 @@
+id: persistent-pal
+category: titles
+type: title
+title: "Persistent Pal"
+placement: prefix
+tags: [title, identity]
+status: stable

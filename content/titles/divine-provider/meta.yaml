@@ -1,0 +1,7 @@
+id: divine-provider
+category: titles
+type: title
+title: "Divine Provider"
+placement: prefix
+tags: [title, identity]
+status: stable

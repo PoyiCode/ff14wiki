@@ -1,0 +1,8 @@
+id: god-of-war
+category: titles
+type: title
+title: "God of War"
+placement: prefix
+feminine: "Goddess of War"
+tags: [title, identity]
+status: stable

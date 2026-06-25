@@ -1,0 +1,7 @@
+id: crystal-bearer
+category: titles
+type: title
+title: "Crystal Bearer"
+placement: prefix
+tags: [title, identity]
+status: stable

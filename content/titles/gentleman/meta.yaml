@@ -1,0 +1,8 @@
+id: gentleman
+category: titles
+type: title
+title: "Gentleman"
+placement: prefix
+feminine: "Gentlewoman"
+tags: [title, identity]
+status: stable

@@ -1,0 +1,7 @@
+id: tablesetter
+category: titles
+type: title
+title: "Tablesetter"
+placement: prefix
+tags: [title, identity]
+status: stable

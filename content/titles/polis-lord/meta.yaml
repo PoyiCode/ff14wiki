@@ -1,0 +1,8 @@
+id: polis-lord
+category: titles
+type: title
+title: "Polis Lord"
+placement: prefix
+feminine: "Polis Lady"
+tags: [title, identity]
+status: stable

@@ -1,0 +1,7 @@
+id: monster-hunter
+category: titles
+type: title
+title: "Monster Hunter"
+placement: prefix
+tags: [title, identity]
+status: stable

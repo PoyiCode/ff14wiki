@@ -1,0 +1,7 @@
+id: polis-raider
+category: titles
+type: title
+title: "Polis Raider"
+placement: prefix
+tags: [title, identity]
+status: stable

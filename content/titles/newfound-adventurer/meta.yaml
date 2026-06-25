@@ -1,0 +1,7 @@
+id: newfound-adventurer
+category: titles
+type: title
+title: "Newfound Adventurer"
+placement: prefix
+tags: [title, identity]
+status: stable

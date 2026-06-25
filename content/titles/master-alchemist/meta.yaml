@@ -1,0 +1,7 @@
+id: master-alchemist
+category: titles
+type: title
+title: "Master Alchemist"
+placement: prefix
+tags: [title, identity]
+status: stable

@@ -1,0 +1,7 @@
+id: nidhogg-slayer
+category: titles
+type: title
+title: "Nidhogg Slayer"
+placement: prefix
+tags: [title, identity]
+status: stable

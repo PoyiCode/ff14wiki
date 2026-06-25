@@ -1,0 +1,7 @@
+id: lightning
+category: titles
+type: title
+title: "Lightning"
+placement: prefix
+tags: [title, identity]
+status: stable

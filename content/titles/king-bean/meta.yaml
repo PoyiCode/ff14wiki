@@ -1,0 +1,8 @@
+id: king-bean
+category: titles
+type: title
+title: "King Bean"
+placement: prefix
+feminine: "Queen Bean"
+tags: [title, identity]
+status: stable

@@ -1,0 +1,7 @@
+id: farcaller
+category: titles
+type: title
+title: "Farcaller"
+placement: prefix
+tags: [title, identity]
+status: stable

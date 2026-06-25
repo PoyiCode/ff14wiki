@@ -1,0 +1,7 @@
+id: storm-hound
+category: titles
+type: title
+title: "Storm Hound"
+placement: prefix
+tags: [title, identity]
+status: stable

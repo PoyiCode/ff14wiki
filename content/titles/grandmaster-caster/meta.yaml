@@ -1,0 +1,7 @@
+id: grandmaster-caster
+category: titles
+type: title
+title: "Grandmaster Caster"
+placement: prefix
+tags: [title, identity]
+status: stable

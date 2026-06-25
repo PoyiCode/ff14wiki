@@ -1,0 +1,7 @@
+id: archmage
+category: titles
+type: title
+title: "Archmage"
+placement: prefix
+tags: [title, identity]
+status: stable

@@ -1,0 +1,8 @@
+id: lord-of-verminion
+category: titles
+type: title
+title: "Lord of Verminion"
+placement: suffix
+feminine: "Lady of Verminion"
+tags: [title, identity]
+status: stable

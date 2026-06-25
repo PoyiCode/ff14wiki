@@ -1,0 +1,7 @@
+id: duelist
+category: titles
+type: title
+title: "Duelist"
+placement: prefix
+tags: [title, identity]
+status: stable

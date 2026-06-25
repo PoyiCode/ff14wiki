@@ -1,0 +1,7 @@
+id: cupid
+category: titles
+type: title
+title: "Cupid"
+placement: prefix
+tags: [title, identity]
+status: stable

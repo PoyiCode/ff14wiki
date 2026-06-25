@@ -1,0 +1,7 @@
+id: epic-hero
+category: titles
+type: title
+title: "Epic Hero"
+placement: prefix
+tags: [title, identity]
+status: stable

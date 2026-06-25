@@ -1,0 +1,7 @@
+id: mistcloak
+category: titles
+type: title
+title: "Mistcloak"
+placement: prefix
+tags: [title, identity]
+status: stable

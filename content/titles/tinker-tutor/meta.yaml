@@ -1,0 +1,7 @@
+id: tinker-tutor
+category: titles
+type: title
+title: "Tinker Tutor"
+placement: prefix
+tags: [title, identity]
+status: stable

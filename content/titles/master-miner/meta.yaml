@@ -1,0 +1,7 @@
+id: master-miner
+category: titles
+type: title
+title: "Master Miner"
+placement: prefix
+tags: [title, identity]
+status: stable

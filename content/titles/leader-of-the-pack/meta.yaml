@@ -1,0 +1,7 @@
+id: leader-of-the-pack
+category: titles
+type: title
+title: "Leader of the Pack"
+placement: prefix
+tags: [title, identity]
+status: stable

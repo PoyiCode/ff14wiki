@@ -1,0 +1,7 @@
+id: golemancer
+category: titles
+type: title
+title: "Golemancer"
+placement: prefix
+tags: [title, identity]
+status: stable

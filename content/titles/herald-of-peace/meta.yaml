@@ -1,0 +1,7 @@
+id: herald-of-peace
+category: titles
+type: title
+title: "Herald of Peace"
+placement: prefix
+tags: [title, identity]
+status: stable

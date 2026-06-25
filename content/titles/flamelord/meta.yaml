@@ -1,0 +1,8 @@
+id: flamelord
+category: titles
+type: title
+title: "Flamelord"
+placement: prefix
+feminine: "Flamelady"
+tags: [title, identity]
+status: stable

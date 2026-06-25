@@ -1,0 +1,7 @@
+id: voidbound
+category: titles
+type: title
+title: "Voidbound"
+placement: prefix
+tags: [title, identity]
+status: stable

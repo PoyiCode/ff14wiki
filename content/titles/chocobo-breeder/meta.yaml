@@ -1,0 +1,7 @@
+id: chocobo-breeder
+category: titles
+type: title
+title: "Chocobo Breeder"
+placement: prefix
+tags: [title, identity]
+status: stable
