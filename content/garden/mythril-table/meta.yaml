@@ -1,0 +1,6 @@
+id: mythril-table
+category: garden
+type: yard_object
+furnishing: "Mythril Table"
+tags: [garden, housing, outdoor]
+status: stable

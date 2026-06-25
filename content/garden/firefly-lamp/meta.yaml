@@ -1,0 +1,6 @@
+id: firefly-lamp
+category: garden
+type: yard_object
+furnishing: "Firefly Lamp"
+tags: [garden, housing, outdoor]
+status: stable

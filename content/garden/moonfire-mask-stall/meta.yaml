@@ -1,0 +1,6 @@
+id: moonfire-mask-stall
+category: garden
+type: yard_object
+furnishing: "Moonfire Mask Stall"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: dorpokkur-kiln
+category: garden
+type: yard_object
+furnishing: "Dorpokkur Kiln"
+tags: [garden, housing, outdoor]
+status: stable

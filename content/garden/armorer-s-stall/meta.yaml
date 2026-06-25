@@ -1,0 +1,6 @@
+id: armorer-s-stall
+category: garden
+type: yard_object
+furnishing: "Armorer's Stall"
+tags: [garden, housing, outdoor]
+status: stable

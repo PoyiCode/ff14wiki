@@ -1,0 +1,6 @@
+id: retainer-counter
+category: garden
+type: yard_object
+furnishing: "Retainer Counter"
+tags: [garden, housing, outdoor]
+status: stable

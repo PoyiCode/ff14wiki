@@ -1,0 +1,6 @@
+id: parkside-tree
+category: garden
+type: yard_object
+furnishing: "Parkside Tree"
+tags: [garden, housing, outdoor]
+status: stable

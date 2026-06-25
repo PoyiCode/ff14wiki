@@ -1,0 +1,6 @@
+id: automaton-digger
+category: garden
+type: yard_object
+furnishing: "Automaton Digger"
+tags: [garden, housing, outdoor]
+status: stable

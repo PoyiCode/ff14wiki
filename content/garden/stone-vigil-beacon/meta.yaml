@@ -1,0 +1,6 @@
+id: stone-vigil-beacon
+category: garden
+type: yard_object
+furnishing: "Stone Vigil Beacon"
+tags: [garden, housing, outdoor]
+status: stable

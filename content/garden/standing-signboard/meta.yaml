@@ -1,0 +1,6 @@
+id: standing-signboard
+category: garden
+type: yard_object
+furnishing: "Standing Signboard"
+tags: [garden, housing, outdoor]
+status: stable

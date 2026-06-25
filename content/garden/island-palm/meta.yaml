@@ -1,0 +1,6 @@
+id: island-palm
+category: garden
+type: yard_object
+furnishing: "Island Palm"
+tags: [garden, housing, outdoor]
+status: stable

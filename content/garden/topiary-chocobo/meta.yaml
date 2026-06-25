@@ -1,0 +1,6 @@
+id: topiary-chocobo
+category: garden
+type: yard_object
+furnishing: "Topiary Chocobo"
+tags: [garden, housing, outdoor]
+status: stable

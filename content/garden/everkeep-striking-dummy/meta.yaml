@@ -1,0 +1,6 @@
+id: everkeep-striking-dummy
+category: garden
+type: yard_object
+furnishing: "Everkeep Striking Dummy"
+tags: [garden, housing, outdoor]
+status: stable

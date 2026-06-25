@@ -1,0 +1,6 @@
+id: stump-stool
+category: garden
+type: yard_object
+furnishing: "Stump Stool"
+tags: [garden, housing, outdoor]
+status: stable

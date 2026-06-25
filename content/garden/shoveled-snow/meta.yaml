@@ -1,0 +1,6 @@
+id: shoveled-snow
+category: garden
+type: yard_object
+furnishing: "Shoveled Snow"
+tags: [garden, housing, outdoor]
+status: stable

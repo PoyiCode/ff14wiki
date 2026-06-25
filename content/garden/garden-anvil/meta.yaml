@@ -1,0 +1,6 @@
+id: garden-anvil
+category: garden
+type: yard_object
+furnishing: "Garden Anvil"
+tags: [garden, housing, outdoor]
+status: stable

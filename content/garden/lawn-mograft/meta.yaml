@@ -1,0 +1,6 @@
+id: lawn-mograft
+category: garden
+type: yard_object
+furnishing: "Lawn Mograft"
+tags: [garden, housing, outdoor]
+status: stable

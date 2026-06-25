@@ -1,0 +1,6 @@
+id: simple-treehouse
+category: garden
+type: yard_object
+furnishing: "Simple Treehouse"
+tags: [garden, housing, outdoor]
+status: stable

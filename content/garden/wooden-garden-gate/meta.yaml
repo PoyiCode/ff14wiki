@@ -1,0 +1,6 @@
+id: wooden-garden-gate
+category: garden
+type: yard_object
+furnishing: "Wooden Garden Gate"
+tags: [garden, housing, outdoor]
+status: stable

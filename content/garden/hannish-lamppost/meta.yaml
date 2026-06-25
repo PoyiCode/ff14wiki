@@ -1,0 +1,6 @@
+id: hannish-lamppost
+category: garden
+type: yard_object
+furnishing: "Hannish Lamppost"
+tags: [garden, housing, outdoor]
+status: stable

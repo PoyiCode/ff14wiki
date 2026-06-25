@@ -1,0 +1,6 @@
+id: auxesian-waylight
+category: garden
+type: yard_object
+furnishing: "Auxesian Waylight"
+tags: [garden, housing, outdoor]
+status: stable

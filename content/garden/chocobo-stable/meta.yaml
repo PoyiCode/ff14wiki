@@ -1,0 +1,6 @@
+id: chocobo-stable
+category: garden
+type: yard_object
+furnishing: "Chocobo Stable"
+tags: [garden, housing, outdoor]
+status: stable

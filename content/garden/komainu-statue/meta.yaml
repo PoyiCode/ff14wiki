@@ -1,0 +1,6 @@
+id: komainu-statue
+category: garden
+type: yard_object
+furnishing: "Komainu Statue"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: miniature-aetheryte
+category: garden
+type: yard_object
+furnishing: "Miniature Aetheryte"
+tags: [garden, housing, outdoor]
+status: stable

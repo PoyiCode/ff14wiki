@@ -1,0 +1,6 @@
+id: stone-toro-lantern
+category: garden
+type: yard_object
+furnishing: "Stone Toro Lantern"
+tags: [garden, housing, outdoor]
+status: stable

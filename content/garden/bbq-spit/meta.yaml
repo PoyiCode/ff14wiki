@@ -1,0 +1,6 @@
+id: bbq-spit
+category: garden
+type: yard_object
+furnishing: "BBQ Spit"
+tags: [garden, housing, outdoor]
+status: stable

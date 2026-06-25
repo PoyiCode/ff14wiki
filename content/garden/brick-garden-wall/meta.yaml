@@ -1,0 +1,6 @@
+id: brick-garden-wall
+category: garden
+type: yard_object
+furnishing: "Brick Garden Wall"
+tags: [garden, housing, outdoor]
+status: stable

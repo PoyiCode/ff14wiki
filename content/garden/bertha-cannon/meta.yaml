@@ -1,0 +1,6 @@
+id: bertha-cannon
+category: garden
+type: yard_object
+furnishing: "Bertha Cannon"
+tags: [garden, housing, outdoor]
+status: stable

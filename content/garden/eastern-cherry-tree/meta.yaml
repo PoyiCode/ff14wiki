@@ -1,0 +1,6 @@
+id: eastern-cherry-tree
+category: garden
+type: yard_object
+furnishing: "Eastern Cherry Tree"
+tags: [garden, housing, outdoor]
+status: stable

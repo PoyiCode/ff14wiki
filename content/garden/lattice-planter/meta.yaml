@@ -1,0 +1,6 @@
+id: lattice-planter
+category: garden
+type: yard_object
+furnishing: "Lattice Planter"
+tags: [garden, housing, outdoor]
+status: stable

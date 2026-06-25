@@ -1,0 +1,6 @@
+id: sephirot-tree
+category: garden
+type: yard_object
+furnishing: "Sephirot Tree"
+tags: [garden, housing, outdoor]
+status: stable

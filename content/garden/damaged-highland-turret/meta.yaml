@@ -1,0 +1,6 @@
+id: damaged-highland-turret
+category: garden
+type: yard_object
+furnishing: "Damaged Highland Turret"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: pumpkin-carriage
+category: garden
+type: yard_object
+furnishing: "Pumpkin Carriage"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: hingan-rock-garden
+category: garden
+type: yard_object
+furnishing: "Hingan Rock Garden"
+tags: [garden, housing, outdoor]
+status: stable

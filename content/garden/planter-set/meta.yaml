@@ -1,0 +1,6 @@
+id: planter-set
+category: garden
+type: yard_object
+furnishing: "Planter Set"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: glade-striking-dummy
+category: garden
+type: yard_object
+furnishing: "Glade Striking Dummy"
+tags: [garden, housing, outdoor]
+status: stable

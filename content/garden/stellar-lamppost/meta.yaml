@@ -1,0 +1,6 @@
+id: stellar-lamppost
+category: garden
+type: yard_object
+furnishing: "Stellar Lamppost"
+tags: [garden, housing, outdoor]
+status: stable

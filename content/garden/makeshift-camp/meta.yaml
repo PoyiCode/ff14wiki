@@ -1,0 +1,6 @@
+id: makeshift-camp
+category: garden
+type: yard_object
+furnishing: "Makeshift Camp"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: railway-sleepers
+category: garden
+type: yard_object
+furnishing: "Railway Sleepers"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: snowman
+category: garden
+type: yard_object
+furnishing: "Snowman"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: garden-tool-shelf
+category: garden
+type: yard_object
+furnishing: "Garden Tool Shelf"
+tags: [garden, housing, outdoor]
+status: stable

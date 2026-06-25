@@ -1,0 +1,6 @@
+id: palanx-striking-dummy
+category: garden
+type: yard_object
+furnishing: "Palanx Striking Dummy"
+tags: [garden, housing, outdoor]
+status: stable

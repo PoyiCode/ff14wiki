@@ -1,0 +1,6 @@
+id: raised-wooden-deck
+category: garden
+type: yard_object
+furnishing: "Raised Wooden Deck"
+tags: [garden, housing, outdoor]
+status: stable

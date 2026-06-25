@@ -1,0 +1,6 @@
+id: large-garden-pond
+category: garden
+type: yard_object
+furnishing: "Large Garden Pond"
+tags: [garden, housing, outdoor]
+status: stable

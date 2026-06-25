@@ -1,0 +1,6 @@
+id: toymaker-s-show-window
+category: garden
+type: yard_object
+furnishing: "Toymaker's Show Window"
+tags: [garden, housing, outdoor]
+status: stable

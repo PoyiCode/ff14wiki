@@ -1,0 +1,6 @@
+id: sahagin-hanging-larder
+category: garden
+type: yard_object
+furnishing: "Sahagin Hanging Larder"
+tags: [garden, housing, outdoor]
+status: stable

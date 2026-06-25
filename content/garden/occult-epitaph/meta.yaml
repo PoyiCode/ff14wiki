@@ -1,0 +1,6 @@
+id: occult-epitaph
+category: garden
+type: yard_object
+furnishing: "Occult Epitaph"
+tags: [garden, housing, outdoor]
+status: stable

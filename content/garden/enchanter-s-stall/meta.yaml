@@ -1,0 +1,6 @@
+id: enchanter-s-stall
+category: garden
+type: yard_object
+furnishing: "Enchanter's Stall"
+tags: [garden, housing, outdoor]
+status: stable

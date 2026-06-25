@@ -1,0 +1,6 @@
+id: smashed-flower-pot
+category: garden
+type: yard_object
+furnishing: "Smashed Flower Pot"
+tags: [garden, housing, outdoor]
+status: stable

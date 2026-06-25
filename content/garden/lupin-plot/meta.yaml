@@ -1,0 +1,6 @@
+id: lupin-plot
+category: garden
+type: yard_object
+furnishing: "Lupin Plot"
+tags: [garden, housing, outdoor]
+status: stable

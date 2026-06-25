@@ -1,0 +1,6 @@
+id: island-garden-fence
+category: garden
+type: yard_object
+furnishing: "Island Garden Fence"
+tags: [garden, housing, outdoor]
+status: stable

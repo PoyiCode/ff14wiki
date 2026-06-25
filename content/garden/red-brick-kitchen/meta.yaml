@@ -1,0 +1,6 @@
+id: red-brick-kitchen
+category: garden
+type: yard_object
+furnishing: "Red Brick Kitchen"
+tags: [garden, housing, outdoor]
+status: stable

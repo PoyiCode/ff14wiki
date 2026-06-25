@@ -1,0 +1,6 @@
+id: pyrepods
+category: garden
+type: yard_object
+furnishing: "Pyrepods"
+tags: [garden, housing, outdoor]
+status: stable

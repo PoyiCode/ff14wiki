@@ -1,0 +1,6 @@
+id: lawn-chocobo-raft
+category: garden
+type: yard_object
+furnishing: "Lawn Chocobo Raft"
+tags: [garden, housing, outdoor]
+status: stable

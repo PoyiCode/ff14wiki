@@ -1,0 +1,6 @@
+id: lakeland-flower-garden
+category: garden
+type: yard_object
+furnishing: "Lakeland Flower Garden"
+tags: [garden, housing, outdoor]
+status: stable

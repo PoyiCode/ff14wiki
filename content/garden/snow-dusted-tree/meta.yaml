@@ -1,0 +1,6 @@
+id: snow-dusted-tree
+category: garden
+type: yard_object
+furnishing: "Snow-dusted Tree"
+tags: [garden, housing, outdoor]
+status: stable

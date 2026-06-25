@@ -1,0 +1,6 @@
+id: glass-pumpkin-trophy
+category: garden
+type: yard_object
+furnishing: "Glass Pumpkin Trophy"
+tags: [garden, housing, outdoor]
+status: stable

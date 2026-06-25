@@ -1,0 +1,6 @@
+id: zormor-stone-lantern
+category: garden
+type: yard_object
+furnishing: "Zormor Stone Lantern"
+tags: [garden, housing, outdoor]
+status: stable

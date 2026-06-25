@@ -1,0 +1,6 @@
+id: cedar-tree
+category: garden
+type: yard_object
+furnishing: "Cedar Tree"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: maple-leaf-pile
+category: garden
+type: yard_object
+furnishing: "Maple Leaf Pile"
+tags: [garden, housing, outdoor]
+status: stable

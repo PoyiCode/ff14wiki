@@ -1,0 +1,6 @@
+id: oriental-grass-plot
+category: garden
+type: yard_object
+furnishing: "Oriental Grass Plot"
+tags: [garden, housing, outdoor]
+status: stable

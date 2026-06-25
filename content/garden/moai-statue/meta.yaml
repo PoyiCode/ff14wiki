@@ -1,0 +1,6 @@
+id: moai-statue
+category: garden
+type: yard_object
+furnishing: "Moai Statue"
+tags: [garden, housing, outdoor]
+status: stable

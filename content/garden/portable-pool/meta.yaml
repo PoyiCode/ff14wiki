@@ -1,0 +1,6 @@
+id: portable-pool
+category: garden
+type: yard_object
+furnishing: "Portable Pool"
+tags: [garden, housing, outdoor]
+status: stable

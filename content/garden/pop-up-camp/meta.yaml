@@ -1,0 +1,6 @@
+id: pop-up-camp
+category: garden
+type: yard_object
+furnishing: "Pop-up Camp"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: island-wooden-chair
+category: garden
+type: yard_object
+furnishing: "Island Wooden Chair"
+tags: [garden, housing, outdoor]
+status: stable

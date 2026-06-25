@@ -1,0 +1,6 @@
+id: rising-pillar
+category: garden
+type: yard_object
+furnishing: "Rising Pillar"
+tags: [garden, housing, outdoor]
+status: stable

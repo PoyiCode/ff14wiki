@@ -1,0 +1,6 @@
+id: glade-lamppost
+category: garden
+type: yard_object
+furnishing: "Glade Lamppost"
+tags: [garden, housing, outdoor]
+status: stable

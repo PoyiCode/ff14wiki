@@ -1,0 +1,6 @@
+id: amdapori-beacon
+category: garden
+type: yard_object
+furnishing: "Amdapori Beacon"
+tags: [garden, housing, outdoor]
+status: stable

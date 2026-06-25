@@ -1,0 +1,6 @@
+id: garden-gravel
+category: garden
+type: yard_object
+furnishing: "Garden Gravel"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: ornamental-bamboo
+category: garden
+type: yard_object
+furnishing: "Ornamental Bamboo"
+tags: [garden, housing, outdoor]
+status: stable

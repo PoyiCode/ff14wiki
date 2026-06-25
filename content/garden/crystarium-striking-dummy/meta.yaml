@@ -1,0 +1,6 @@
+id: crystarium-striking-dummy
+category: garden
+type: yard_object
+furnishing: "Crystarium Striking Dummy"
+tags: [garden, housing, outdoor]
+status: stable

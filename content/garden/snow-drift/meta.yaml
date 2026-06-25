@@ -1,0 +1,6 @@
+id: snow-drift
+category: garden
+type: yard_object
+furnishing: "Snow Drift"
+tags: [garden, housing, outdoor]
+status: stable

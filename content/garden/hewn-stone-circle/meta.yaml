@@ -1,0 +1,6 @@
+id: hewn-stone-circle
+category: garden
+type: yard_object
+furnishing: "Hewn Stone Circle"
+tags: [garden, housing, outdoor]
+status: stable

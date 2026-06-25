@@ -1,0 +1,6 @@
+id: hanging-bench
+category: garden
+type: yard_object
+furnishing: "Hanging Bench"
+tags: [garden, housing, outdoor]
+status: stable

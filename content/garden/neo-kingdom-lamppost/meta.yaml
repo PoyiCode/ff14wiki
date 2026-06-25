@@ -1,0 +1,6 @@
+id: neo-kingdom-lamppost
+category: garden
+type: yard_object
+furnishing: "Neo Kingdom Lamppost"
+tags: [garden, housing, outdoor]
+status: stable

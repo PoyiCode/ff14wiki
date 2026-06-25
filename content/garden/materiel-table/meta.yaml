@@ -1,0 +1,6 @@
+id: materiel-table
+category: garden
+type: yard_object
+furnishing: "Materiel Table"
+tags: [garden, housing, outdoor]
+status: stable

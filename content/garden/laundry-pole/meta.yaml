@@ -1,0 +1,6 @@
+id: laundry-pole
+category: garden
+type: yard_object
+furnishing: "Laundry Pole"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: firebloom
+category: garden
+type: yard_object
+furnishing: "Firebloom"
+tags: [garden, housing, outdoor]
+status: stable

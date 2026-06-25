@@ -1,0 +1,6 @@
+id: fallen-tree
+category: garden
+type: yard_object
+furnishing: "Fallen Tree"
+tags: [garden, housing, outdoor]
+status: stable

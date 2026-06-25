@@ -1,0 +1,6 @@
+id: mobile-garden-stairs
+category: garden
+type: yard_object
+furnishing: "Mobile Garden Stairs"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: brick-paving
+category: garden
+type: yard_object
+furnishing: "Brick Paving"
+tags: [garden, housing, outdoor]
+status: stable

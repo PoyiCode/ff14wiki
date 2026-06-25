@@ -1,0 +1,6 @@
+id: frozen-garden-pond
+category: garden
+type: yard_object
+furnishing: "Frozen Garden Pond"
+tags: [garden, housing, outdoor]
+status: stable

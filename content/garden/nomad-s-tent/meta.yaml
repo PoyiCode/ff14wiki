@@ -1,0 +1,6 @@
+id: nomad-s-tent
+category: garden
+type: yard_object
+furnishing: "Nomad's Tent"
+tags: [garden, housing, outdoor]
+status: stable

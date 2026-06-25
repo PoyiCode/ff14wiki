@@ -1,0 +1,6 @@
+id: stargazing-deck
+category: garden
+type: yard_object
+furnishing: "Stargazing Deck"
+tags: [garden, housing, outdoor]
+status: stable

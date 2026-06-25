@@ -1,0 +1,6 @@
+id: old-world-striking-dummy
+category: garden
+type: yard_object
+furnishing: "Old World Striking Dummy"
+tags: [garden, housing, outdoor]
+status: stable

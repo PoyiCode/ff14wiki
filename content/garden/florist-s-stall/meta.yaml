@@ -1,0 +1,6 @@
+id: florist-s-stall
+category: garden
+type: yard_object
+furnishing: "Florist's Stall"
+tags: [garden, housing, outdoor]
+status: stable

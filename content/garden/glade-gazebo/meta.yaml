@@ -1,0 +1,6 @@
+id: glade-gazebo
+category: garden
+type: yard_object
+furnishing: "Glade Gazebo"
+tags: [garden, housing, outdoor]
+status: stable

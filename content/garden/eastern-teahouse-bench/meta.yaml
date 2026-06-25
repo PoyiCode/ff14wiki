@@ -1,0 +1,6 @@
+id: eastern-teahouse-bench
+category: garden
+type: yard_object
+furnishing: "Eastern Teahouse Bench"
+tags: [garden, housing, outdoor]
+status: stable

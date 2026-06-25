@@ -1,0 +1,6 @@
+id: weaponsmith-s-stall
+category: garden
+type: yard_object
+furnishing: "Weaponsmith's Stall"
+tags: [garden, housing, outdoor]
+status: stable

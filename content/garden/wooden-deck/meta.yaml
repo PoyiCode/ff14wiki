@@ -1,0 +1,6 @@
+id: wooden-deck
+category: garden
+type: yard_object
+furnishing: "Wooden Deck"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: far-eastern-well
+category: garden
+type: yard_object
+furnishing: "Far Eastern Well"
+tags: [garden, housing, outdoor]
+status: stable

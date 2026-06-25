@@ -1,0 +1,6 @@
+id: garden-creek
+category: garden
+type: yard_object
+furnishing: "Garden Creek"
+tags: [garden, housing, outdoor]
+status: stable

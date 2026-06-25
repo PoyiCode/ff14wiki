@@ -1,0 +1,6 @@
+id: moogle-letter-box
+category: garden
+type: yard_object
+furnishing: "Moogle Letter Box"
+tags: [garden, housing, outdoor]
+status: stable

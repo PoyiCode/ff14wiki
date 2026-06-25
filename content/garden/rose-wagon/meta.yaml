@@ -1,0 +1,6 @@
+id: rose-wagon
+category: garden
+type: yard_object
+furnishing: "Rose Wagon"
+tags: [garden, housing, outdoor]
+status: stable

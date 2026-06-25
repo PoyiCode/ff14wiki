@@ -1,0 +1,6 @@
+id: minute-mindflayer-sprinkler
+category: garden
+type: yard_object
+furnishing: "Minute Mindflayer Sprinkler"
+tags: [garden, housing, outdoor]
+status: stable

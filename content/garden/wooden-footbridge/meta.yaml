@@ -1,0 +1,6 @@
+id: wooden-footbridge
+category: garden
+type: yard_object
+furnishing: "Wooden Footbridge"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: dried-well
+category: garden
+type: yard_object
+furnishing: "Dried Well"
+tags: [garden, housing, outdoor]
+status: stable

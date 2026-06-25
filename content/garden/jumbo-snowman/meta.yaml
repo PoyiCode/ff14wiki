@@ -1,0 +1,6 @@
+id: jumbo-snowman
+category: garden
+type: yard_object
+furnishing: "Jumbo Snowman"
+tags: [garden, housing, outdoor]
+status: stable

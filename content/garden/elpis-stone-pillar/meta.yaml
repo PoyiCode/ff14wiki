@@ -1,0 +1,6 @@
+id: elpis-stone-pillar
+category: garden
+type: yard_object
+furnishing: "Elpis Stone Pillar"
+tags: [garden, housing, outdoor]
+status: stable

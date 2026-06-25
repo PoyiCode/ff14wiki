@@ -1,0 +1,6 @@
+id: coldbare-tree
+category: garden
+type: yard_object
+furnishing: "Coldbare Tree"
+tags: [garden, housing, outdoor]
+status: stable

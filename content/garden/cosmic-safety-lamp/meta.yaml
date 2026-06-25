@@ -1,0 +1,6 @@
+id: cosmic-safety-lamp
+category: garden
+type: yard_object
+furnishing: "Cosmic Safety Lamp"
+tags: [garden, housing, outdoor]
+status: stable

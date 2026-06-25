@@ -1,0 +1,6 @@
+id: cragsoul-lamp
+category: garden
+type: yard_object
+furnishing: "Cragsoul Lamp"
+tags: [garden, housing, outdoor]
+status: stable

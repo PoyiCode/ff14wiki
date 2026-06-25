@@ -1,0 +1,6 @@
+id: crofter-s-wain
+category: garden
+type: yard_object
+furnishing: "Crofter's Wain"
+tags: [garden, housing, outdoor]
+status: stable

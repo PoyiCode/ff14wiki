@@ -210,6 +210,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The furnishings residents use to decorate their homes, so the bot can talk about its own home, interior decor and collections.',
     },
   },
+  {
+    key: 'garden',
+    label: { 'zh-TW': '庭園造景', 'zh-CN': '庭园造景', ja: 'エクステリア', en: 'Garden' },
+    description: {
+      'zh-TW': '居民布置房屋外觀與庭院用的戶外造景與庭具，讓 bot 能聊自家庭園、描述屋外風景。',
+      'zh-CN': '居民布置房屋外观与庭院用的户外造景与庭具，让 bot 能聊自家庭园、描述屋外风景。',
+      ja: '住民が家の外観や庭を飾るエクステリア・庭具。botが自宅の庭を語り、屋外の景観を描けるように。',
+      en: 'The outdoor furnishings residents use to decorate their home exteriors and gardens, so the bot can talk about its own garden and yard.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

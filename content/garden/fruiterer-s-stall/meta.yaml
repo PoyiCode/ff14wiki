@@ -1,0 +1,6 @@
+id: fruiterer-s-stall
+category: garden
+type: yard_object
+furnishing: "Fruiterer's Stall"
+tags: [garden, housing, outdoor]
+status: stable

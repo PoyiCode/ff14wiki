@@ -1,0 +1,6 @@
+id: water-lilies
+category: garden
+type: yard_object
+furnishing: "Water Lilies"
+tags: [garden, housing, outdoor]
+status: stable

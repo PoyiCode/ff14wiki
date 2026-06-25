@@ -1,0 +1,6 @@
+id: hunter-s-camp-chair
+category: garden
+type: yard_object
+furnishing: "Hunter's Camp Chair"
+tags: [garden, housing, outdoor]
+status: stable

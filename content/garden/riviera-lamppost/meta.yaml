@@ -1,0 +1,6 @@
+id: riviera-lamppost
+category: garden
+type: yard_object
+furnishing: "Riviera Lamppost"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: cannonballs
+category: garden
+type: yard_object
+furnishing: "Cannonballs"
+tags: [garden, housing, outdoor]
+status: stable

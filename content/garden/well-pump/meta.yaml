@@ -1,0 +1,6 @@
+id: well-pump
+category: garden
+type: yard_object
+furnishing: "Well Pump"
+tags: [garden, housing, outdoor]
+status: stable

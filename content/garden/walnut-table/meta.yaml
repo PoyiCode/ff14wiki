@@ -1,0 +1,6 @@
+id: walnut-table
+category: garden
+type: yard_object
+furnishing: "Walnut Table"
+tags: [garden, housing, outdoor]
+status: stable

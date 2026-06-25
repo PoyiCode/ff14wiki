@@ -1,0 +1,6 @@
+id: pumpkin-candlestand
+category: garden
+type: yard_object
+furnishing: "Pumpkin Candlestand"
+tags: [garden, housing, outdoor]
+status: stable

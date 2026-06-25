@@ -1,0 +1,6 @@
+id: butcher-s-stall
+category: garden
+type: yard_object
+furnishing: "Butcher's Stall"
+tags: [garden, housing, outdoor]
+status: stable

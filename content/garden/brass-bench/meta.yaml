@@ -1,0 +1,6 @@
+id: brass-bench
+category: garden
+type: yard_object
+furnishing: "Brass Bench"
+tags: [garden, housing, outdoor]
+status: stable

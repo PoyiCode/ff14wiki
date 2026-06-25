@@ -1,0 +1,6 @@
+id: rounded-shrub
+category: garden
+type: yard_object
+furnishing: "Rounded Shrub"
+tags: [garden, housing, outdoor]
+status: stable

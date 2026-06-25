@@ -1,0 +1,6 @@
+id: round-garden-patch
+category: garden
+type: yard_object
+furnishing: "Round Garden Patch"
+tags: [garden, housing, outdoor]
+status: stable

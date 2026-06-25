@@ -1,0 +1,6 @@
+id: namazu-effigy
+category: garden
+type: yard_object
+furnishing: "Namazu Effigy"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: oasis-lamppost
+category: garden
+type: yard_object
+furnishing: "Oasis Lamppost"
+tags: [garden, housing, outdoor]
+status: stable

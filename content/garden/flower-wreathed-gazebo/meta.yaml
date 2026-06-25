@@ -1,0 +1,6 @@
+id: flower-wreathed-gazebo
+category: garden
+type: yard_object
+furnishing: "Flower-wreathed Gazebo"
+tags: [garden, housing, outdoor]
+status: stable

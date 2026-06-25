@@ -1,0 +1,6 @@
+id: far-eastern-lamppost
+category: garden
+type: yard_object
+furnishing: "Far Eastern Lamppost"
+tags: [garden, housing, outdoor]
+status: stable

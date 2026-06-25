@@ -1,0 +1,6 @@
+id: fruitful-fountain
+category: garden
+type: yard_object
+furnishing: "Fruitful Fountain"
+tags: [garden, housing, outdoor]
+status: stable

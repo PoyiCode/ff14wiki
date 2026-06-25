@@ -1,0 +1,6 @@
+id: jeweler-s-stall
+category: garden
+type: yard_object
+furnishing: "Jeweler's Stall"
+tags: [garden, housing, outdoor]
+status: stable

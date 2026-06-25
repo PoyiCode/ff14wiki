@@ -1,0 +1,6 @@
+id: kobold-furnace
+category: garden
+type: yard_object
+furnishing: "Kobold Furnace"
+tags: [garden, housing, outdoor]
+status: stable

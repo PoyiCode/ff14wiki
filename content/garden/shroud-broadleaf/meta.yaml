@@ -1,0 +1,6 @@
+id: shroud-broadleaf
+category: garden
+type: yard_object
+furnishing: "Shroud Broadleaf"
+tags: [garden, housing, outdoor]
+status: stable

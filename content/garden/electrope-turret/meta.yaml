@@ -1,0 +1,6 @@
+id: electrope-turret
+category: garden
+type: yard_object
+furnishing: "Electrope Turret"
+tags: [garden, housing, outdoor]
+status: stable

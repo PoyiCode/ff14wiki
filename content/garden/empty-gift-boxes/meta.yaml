@@ -1,0 +1,6 @@
+id: empty-gift-boxes
+category: garden
+type: yard_object
+furnishing: "Empty Gift Boxes"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: garden-mood-lighting
+category: garden
+type: yard_object
+furnishing: "Garden Mood Lighting"
+tags: [garden, housing, outdoor]
+status: stable

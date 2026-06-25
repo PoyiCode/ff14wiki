@@ -1,0 +1,6 @@
+id: damaged-ishgardian-wall
+category: garden
+type: yard_object
+furnishing: "Damaged Ishgardian Wall"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: cosmic-antenna
+category: garden
+type: yard_object
+furnishing: "Cosmic Antenna"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: blooming-garden-table
+category: garden
+type: yard_object
+furnishing: "Blooming Garden Table"
+tags: [garden, housing, outdoor]
+status: stable

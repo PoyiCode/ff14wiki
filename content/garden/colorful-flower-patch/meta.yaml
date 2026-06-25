@@ -1,0 +1,6 @@
+id: colorful-flower-patch
+category: garden
+type: yard_object
+furnishing: "Colorful Flower Patch"
+tags: [garden, housing, outdoor]
+status: stable

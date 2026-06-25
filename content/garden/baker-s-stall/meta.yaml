@@ -1,0 +1,6 @@
+id: baker-s-stall
+category: garden
+type: yard_object
+furnishing: "Baker's Stall"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: stepladder
+category: garden
+type: yard_object
+furnishing: "Stepladder"
+tags: [garden, housing, outdoor]
+status: stable

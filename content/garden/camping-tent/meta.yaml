@@ -1,0 +1,6 @@
+id: camping-tent
+category: garden
+type: yard_object
+furnishing: "Camping Tent"
+tags: [garden, housing, outdoor]
+status: stable

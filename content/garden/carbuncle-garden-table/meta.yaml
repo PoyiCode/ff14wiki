@@ -1,0 +1,6 @@
+id: carbuncle-garden-table
+category: garden
+type: yard_object
+furnishing: "Carbuncle Garden Table"
+tags: [garden, housing, outdoor]
+status: stable

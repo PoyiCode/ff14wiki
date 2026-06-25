@@ -1,0 +1,6 @@
+id: sephirot-root
+category: garden
+type: yard_object
+furnishing: "Sephirot Root"
+tags: [garden, housing, outdoor]
+status: stable

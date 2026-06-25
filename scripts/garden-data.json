@@ -1,0 +1,6002 @@
+[
+ {
+  "slug": "moogle-letter-box",
+  "en": "Moogle Letter Box",
+  "n": {
+   "en": "Moogle Letter Box",
+   "zh-CN": "莫古信箱",
+   "zh-TW": "莫古信箱",
+   "ja": "モグレターポスト"
+  },
+  "desc": {
+   "en": "The moogle delivery service at your own front gate!",
+   "zh-CN": "用来收发莫古邮件的信箱。",
+   "zh-TW": "用來收發莫古郵件的信箱。",
+   "ja": "モグレターを受け取ったり送ったりできるポスト"
+  }
+ },
+ {
+  "slug": "shroud-broadleaf",
+  "en": "Shroud Broadleaf",
+  "n": {
+   "en": "Shroud Broadleaf",
+   "zh-CN": "黑衣阔叶树",
+   "zh-TW": "黑衣闊葉樹",
+   "ja": "シュラウド・ブロードリーフ"
+  },
+  "desc": {
+   "en": "A broadleaf tree native to the Black Shroud.",
+   "zh-CN": "原产于提诺尔卡地区的阔叶树，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "原產於提諾爾卡地區的闊葉樹，經過修剪後很適合裝飾在庭院中。",
+   "ja": "ティノルカ地方に自生する樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "island-palm",
+  "en": "Island Palm",
+  "n": {
+   "en": "Island Palm",
+   "zh-CN": "海岛棕榈树",
+   "zh-TW": "海島棕櫚樹",
+   "ja": "ラノシアン・アイランドパーム"
+  },
+  "desc": {
+   "en": "An island palm native to Vylbrand.",
+   "zh-CN": "原产于拉诺西亚地区的棕榈树，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "原產於拉諾西亞地區的棕櫚樹，經過修剪後很適合裝飾在庭院中。",
+   "ja": "ラノシア地方に自生する樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "desert-ironwood",
+  "en": "Desert Ironwood",
+  "n": {
+   "en": "Desert Ironwood",
+   "zh-CN": "沙漠铁木树",
+   "zh-TW": "沙漠鐵木樹",
+   "ja": "ザナラーン・アイアンウッド"
+  },
+  "desc": {
+   "en": "An ironwood tree native to Thanalan.",
+   "zh-CN": "原产于萨纳兰地区的铁木树，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "原產於薩納蘭地區的鐵木樹，經過修剪後很適合裝飾在庭院中。",
+   "ja": "ザナラーン地方に自生する樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "unbreakable-rock",
+  "en": "Unbreakable Rock",
+  "n": {
+   "en": "Unbreakable Rock",
+   "zh-CN": "十分坚硬的庭院石",
+   "zh-TW": "十分堅硬的庭院石",
+   "ja": "叩き割れぬ庭石"
+  },
+  "desc": {
+   "en": "An uncommonly sturdy rock sourced from La Noscea. You break it, you buy it.",
+   "zh-CN": "用于装饰庭院的岩石，原产于拉诺西亚。",
+   "zh-TW": "用於裝飾庭院的岩石，原產於拉諾西亞。",
+   "ja": "造園に適したラノシア産の岩"
+  }
+ },
+ {
+  "slug": "mossy-rock",
+  "en": "Mossy Rock",
+  "n": {
+   "en": "Mossy Rock",
+   "zh-CN": "布满苔藓的庭院石",
+   "zh-TW": "佈滿苔蘚的庭院石",
+   "ja": "苔むした庭石"
+  },
+  "desc": {
+   "en": "A rock of the unrolling persuasion, sourced from the Black Shroud.",
+   "zh-CN": "用于装饰庭院的岩石，原产于提诺尔卡。",
+   "zh-TW": "用於裝飾庭院的岩石，原產於提諾爾卡。",
+   "ja": "造園に適したティノルカ産の岩"
+  }
+ },
+ {
+  "slug": "campfire",
+  "en": "Campfire",
+  "n": {
+   "en": "Campfire",
+   "zh-CN": "篝火炉",
+   "zh-TW": "篝火爐",
+   "ja": "冒険者の焚火炉"
+  },
+  "desc": {
+   "en": "Share scary stories with your comrades over this authentic campfire.",
+   "zh-CN": "用来生篝火的石炉。",
+   "zh-TW": "用來生篝火的石爐。",
+   "ja": "焚き火を熾すための石組み"
+  }
+ },
+ {
+  "slug": "linen-parasol",
+  "en": "Linen Parasol",
+  "n": {
+   "en": "Linen Parasol",
+   "zh-CN": "亚麻阳伞",
+   "zh-TW": "亞麻陽傘",
+   "ja": "ガーデンパラソル"
+  },
+  "desc": {
+   "en": "Keep the scorching sun at bay with this vast linen parasol.",
+   "zh-CN": "利用亚麻布制作的大型阳伞。",
+   "zh-TW": "利用亞麻布製作的大型陽傘。",
+   "ja": "亜麻布を張った日除けの庭傘"
+  }
+ },
+ {
+  "slug": "lotus-parasol",
+  "en": "Lotus Parasol",
+  "n": {
+   "en": "Lotus Parasol",
+   "zh-CN": "莲叶阳伞",
+   "zh-TW": "蓮葉陽傘",
+   "ja": "ロータスパラソル"
+  },
+  "desc": {
+   "en": "Part plant. Part ornament. All parasol.",
+   "zh-CN": "利用巨大的莲叶制作的大型阳伞。",
+   "zh-TW": "利用巨大的蓮葉製作的大型陽傘。",
+   "ja": "巨大なハスの葉を用いた日除けの庭傘"
+  }
+ },
+ {
+  "slug": "walnut-table",
+  "en": "Walnut Table",
+  "n": {
+   "en": "Walnut Table",
+   "zh-CN": "胡桃木庭院桌",
+   "zh-TW": "胡桃木庭院桌",
+   "ja": "ガーデンテーブル"
+  },
+  "desc": {
+   "en": "A round outdoor table crafted from walnut.",
+   "zh-CN": "圆形的庭院桌，使用胡桃木制作。",
+   "zh-TW": "圓形的庭院桌，使用胡桃木製作。",
+   "ja": "円形のウォルナット製テーブル"
+  }
+ },
+ {
+  "slug": "mythril-table",
+  "en": "Mythril Table",
+  "n": {
+   "en": "Mythril Table",
+   "zh-CN": "秘银庭院桌",
+   "zh-TW": "祕銀庭院桌",
+   "ja": "ミスリルガーデンテーブル"
+  },
+  "desc": {
+   "en": "A garden table boasting a mythril-reinforced surface.",
+   "zh-CN": "椭圆形的庭院桌，在橡木的基础上用秘银加固。",
+   "zh-TW": "橢圓形的庭院桌，在橡木的基礎上用祕銀加固。",
+   "ja": "金属板で補強した楕円形のオーク製テーブル"
+  }
+ },
+ {
+  "slug": "brass-bench",
+  "en": "Brass Bench",
+  "n": {
+   "en": "Brass Bench",
+   "zh-CN": "黄铜庭院长椅",
+   "zh-TW": "黃銅庭院長椅",
+   "ja": "ブラスガーデンベンチ"
+  },
+  "desc": {
+   "en": "A two-seater garden bench crafted from brass.",
+   "zh-CN": "简单的双人长椅，使用黄铜制作。",
+   "zh-TW": "簡單的雙人長椅，使用黃銅製作。",
+   "ja": "黄銅製のシンプルなベンチ"
+  }
+ },
+ {
+  "slug": "oaken-bench",
+  "en": "Oaken Bench",
+  "n": {
+   "en": "Oaken Bench",
+   "zh-CN": "橡木庭院长椅",
+   "zh-TW": "橡木庭院長椅",
+   "ja": "オークガーデンベンチ"
+  },
+  "desc": {
+   "en": "A two-seater garden bench crafted from oak.",
+   "zh-CN": "简单的双人长椅，使用橡木制作。",
+   "zh-TW": "簡單的雙人長椅，使用橡木製作。",
+   "ja": "オーク材でできたシンプルなベンチ"
+  }
+ },
+ {
+  "slug": "half-barrel-planter",
+  "en": "Half Barrel Planter",
+  "n": {
+   "en": "Half Barrel Planter",
+   "zh-CN": "半高盆栽",
+   "zh-TW": "半高盆栽",
+   "ja": "ハーフバレルプランター"
+  },
+  "desc": {
+   "en": "A barrel planter crafted from walnut.",
+   "zh-CN": "使用胡桃木制作长方形盆栽。",
+   "zh-TW": "使用胡桃木製作長方形盆栽。",
+   "ja": "ウォルナット材でできた長方形の植木鉢"
+  }
+ },
+ {
+  "slug": "low-barrel-planter",
+  "en": "Low Barrel Planter",
+  "n": {
+   "en": "Low Barrel Planter",
+   "zh-CN": "低矮盆栽",
+   "zh-TW": "低矮盆栽",
+   "ja": "ロウバレルプランター"
+  },
+  "desc": {
+   "en": "A barrel planter crafted from elm.",
+   "zh-CN": "使用榆木制作的圆形盆栽。",
+   "zh-TW": "使用榆木製作的圓形盆栽。",
+   "ja": "エルム材でできた円形の植木鉢"
+  }
+ },
+ {
+  "slug": "riviera-lamppost",
+  "en": "Riviera Lamppost",
+  "n": {
+   "en": "Riviera Lamppost",
+   "zh-CN": "海滨路灯",
+   "zh-TW": "海濱路燈",
+   "ja": "ラノシアン・ランプポスト"
+  },
+  "desc": {
+   "en": "A lamppost of steel such as one might see lining a Lominsan street.",
+   "zh-CN": "拉诺西亚样式的路灯。",
+   "zh-TW": "拉諾西亞樣式的路燈。",
+   "ja": "ラノシア様式の街灯"
+  }
+ },
+ {
+  "slug": "crofter-s-wain",
+  "en": "Crofter's Wain",
+  "n": {
+   "en": "Crofter's Wain",
+   "zh-CN": "农用货车",
+   "zh-TW": "農用貨車",
+   "ja": "農夫の荷車"
+  },
+  "desc": {
+   "en": "A trusty four-wheeled wain crafted from ash, worn from generations of use. Legend goes that its former owner died pulling it through the snow-blasted mountain paths of Coerthas.",
+   "zh-CN": "使用梣木制作的农用货车。",
+   "zh-TW": "使用梣木製作的農用貨車。",
+   "ja": "アッシュ材でできた荷車"
+  }
+ },
+ {
+  "slug": "stump-stool",
+  "en": "Stump Stool",
+  "n": {
+   "en": "Stump Stool",
+   "zh-CN": "树桩凳",
+   "zh-TW": "樹樁凳",
+   "ja": "切り株の腰掛け"
+  },
+  "desc": {
+   "en": "Simplicity never goes out of style.",
+   "zh-CN": "用树桩加工制作出来的凳子。",
+   "zh-TW": "用樹樁加工製作出來的凳子。",
+   "ja": "切り株を加工した椅子"
+  }
+ },
+ {
+  "slug": "firewood",
+  "en": "Firewood",
+  "n": {
+   "en": "Firewood",
+   "zh-CN": "木柴",
+   "zh-TW": "木柴",
+   "ja": "切り出された薪"
+  },
+  "desc": {
+   "en": "Nothing exudes bucolic charm like a stack of firewood.",
+   "zh-CN": "梣木劈出的木柴，可以用来生火。",
+   "zh-TW": "梣木劈出的木柴，可以用來生火。",
+   "ja": "燃料用に切りそろえられたアッシュ材"
+  }
+ },
+ {
+  "slug": "sylphic-lamp-tree",
+  "en": "Sylphic Lamp Tree",
+  "n": {
+   "en": "Sylphic Lamp Tree",
+   "zh-CN": "妖精灯树",
+   "zh-TW": "妖精燈樹",
+   "ja": "シルフランプツリー"
+  },
+  "desc": {
+   "en": "Any sylph would feel at home beneath the gentle glow of this lamp tree.",
+   "zh-CN": "妖精族样式的大型室外灯。",
+   "zh-TW": "妖精族樣式的大型室外燈。",
+   "ja": "シルフ様式の大型屋外灯"
+  }
+ },
+ {
+  "slug": "sylphic-lamppost",
+  "en": "Sylphic Lamppost",
+  "n": {
+   "en": "Sylphic Lamppost",
+   "zh-CN": "妖精灯柱",
+   "zh-TW": "妖精燈柱",
+   "ja": "シルフランプポスト"
+  },
+  "desc": {
+   "en": "A quaint lamppost inspired by sylphic colors and curves.",
+   "zh-CN": "妖精族样式的小型室外灯。",
+   "zh-TW": "妖精族樣式的小型室外燈。",
+   "ja": "シルフ様式の小型屋外灯"
+  }
+ },
+ {
+  "slug": "cragsoul-lamp",
+  "en": "Cragsoul Lamp",
+  "n": {
+   "en": "Cragsoul Lamp",
+   "zh-CN": "泰坦灯笼",
+   "zh-TW": "泰坦燈籠",
+   "ja": "タイタンの灯篭"
+  },
+  "desc": {
+   "en": "An imposing garden lamp made using fragments of the primal Titan.",
+   "zh-CN": "利用泰坦之岩制作的庭院灯。",
+   "zh-TW": "利用泰坦之巖製作的庭院燈。",
+   "ja": "タイタンの岩塊を用いた庭園灯"
+  }
+ },
+ {
+  "slug": "titanic-cragsoul-lamp",
+  "en": "Titanic Cragsoul Lamp",
+  "n": {
+   "en": "Titanic Cragsoul Lamp",
+   "zh-CN": "土神灯笼",
+   "zh-TW": "土神燈籠",
+   "ja": "岩神タイタンの灯篭"
+  },
+  "desc": {
+   "en": "An imposing garden lamp made using fragments of the primal Titan—now with more glow!",
+   "zh-CN": "利用泰坦魔岩制作的庭院灯。",
+   "zh-TW": "利用泰坦魔巖製作的庭院燈。",
+   "ja": "岩神タイタンの岩塊を用いた庭園灯"
+  }
+ },
+ {
+  "slug": "wavesoul-fount",
+  "en": "Wavesoul Fount",
+  "n": {
+   "en": "Wavesoul Fount",
+   "zh-CN": "利维亚桑喷泉",
+   "zh-TW": "利維亞桑噴泉",
+   "ja": "リヴァイアサンの噴水"
+  },
+  "desc": {
+   "en": "An ornamental fountain made using the barb of the primal Leviathan.",
+   "zh-CN": "利用利维亚桑之棘制作的喷泉。",
+   "zh-TW": "利用利維亞桑之棘製作的噴泉。",
+   "ja": "リヴァイアサンの棘を用いた噴水"
+  }
+ },
+ {
+  "slug": "tidal-wavesoul-fount",
+  "en": "Tidal Wavesoul Fount",
+  "n": {
+   "en": "Tidal Wavesoul Fount",
+   "zh-CN": "水神喷泉",
+   "zh-TW": "水神噴泉",
+   "ja": "水神リヴァイアサンの噴水"
+  },
+  "desc": {
+   "en": "An ornamental fountain made using the barb of the primal Leviathan—now with more glow!",
+   "zh-CN": "利用利维亚桑魔棘制作的喷泉。",
+   "zh-TW": "利用利維亞桑魔棘製作的噴泉。",
+   "ja": "水神リヴァイアサンの棘を用いた魔力溢れる噴水"
+  }
+ },
+ {
+  "slug": "dark-divinity-falleth",
+  "en": "Dark Divinity Falleth",
+  "n": {
+   "en": "Dark Divinity Falleth",
+   "zh-CN": "斗神讨伐纪念碑",
+   "zh-TW": "鬥神討伐紀念碑",
+   "ja": "オーディン戦勝記念碑"
+  },
+  "desc": {
+   "en": "A monument commemorating the fall of Odin, made using the elder primal's mantle. Also serves to ward off evil.",
+   "zh-CN": "利用奥丁披风制作的屠神纪念碑。",
+   "zh-TW": "利用奧丁披風製作的屠神紀念碑。",
+   "ja": "オーディンの被布を用いた魔除けのオブジェ"
+  }
+ },
+ {
+  "slug": "savage-arc-of-triumph",
+  "en": "Savage Arc of Triumph",
+  "n": {
+   "en": "Savage Arc of Triumph",
+   "zh-CN": "次元刀凯旋门",
+   "zh-TW": "次元刀凱旋門",
+   "ja": "次元刀の凱旋門"
+  },
+  "desc": {
+   "en": "A memorial gate made using the fell blade of Phlegethon.",
+   "zh-CN": "利用提坦次元刀的碎片制作的凯旋门。",
+   "zh-TW": "利用提坦次元刀的碎片製作的凱旋門。",
+   "ja": "ティターンの次元刀を用いたゲート状のオブジェ"
+  }
+ },
+ {
+  "slug": "blue-coral-formation",
+  "en": "Blue Coral Formation",
+  "n": {
+   "en": "Blue Coral Formation",
+   "zh-CN": "溶洞蓝珊瑚",
+   "zh-TW": "溶洞藍珊瑚",
+   "ja": "浸食洞の青珊瑚"
+  },
+  "desc": {
+   "en": "A luminescent blue coral found within the Sastasha Seagrot.",
+   "zh-CN": "沙斯塔夏溶洞中生长的蓝色珊瑚。",
+   "zh-TW": "沙斯塔夏溶洞中生長的藍色珊瑚。",
+   "ja": "サスタシャ浸食洞にある樹木状に成長した珊瑚"
+  }
+ },
+ {
+  "slug": "bertha-cannon",
+  "en": "Bertha Cannon",
+  "n": {
+   "en": "Bertha Cannon",
+   "zh-CN": "四管对龙加农炮",
+   "zh-TW": "四管對龍加農炮",
+   "ja": "四連装対竜カノン砲"
+  },
+  "desc": {
+   "en": "A quad-barrel cannon engineered for counter-dragon warfare. As seen at the Stone Vigil.",
+   "zh-CN": "设置在石卫塔上的大炮。",
+   "zh-TW": "設置在石衛塔上的大炮。",
+   "ja": "ストーンヴィジルに設置されていた砲台"
+  }
+ },
+ {
+  "slug": "cannonballs",
+  "en": "Cannonballs",
+  "n": {
+   "en": "Cannonballs",
+   "zh-CN": "对龙炮弹箱",
+   "zh-TW": "對龍炮彈箱",
+   "ja": "対竜砲弾箱"
+  },
+  "desc": {
+   "en": "Cannonballs for use with the Bertha counter-dragon cannon. As seen at the Stone Vigil.",
+   "zh-CN": "设置在石卫塔上的炮弹箱。",
+   "zh-TW": "設置在石衛塔上的炮彈箱。",
+   "ja": "ストーンヴィジルに設置されていた砲弾箱"
+  }
+ },
+ {
+  "slug": "stone-vigil-beacon",
+  "en": "Stone Vigil Beacon",
+  "n": {
+   "en": "Stone Vigil Beacon",
+   "zh-CN": "对龙城塞烽火笼",
+   "zh-TW": "對龍城塞烽火籠",
+   "ja": "対竜要塞のかがり"
+  },
+  "desc": {
+   "en": "A watch beacon used by the knights of Ishgard. As seen at the Stone Vigil.",
+   "zh-CN": "设置在石卫塔上的烽火笼。",
+   "zh-TW": "設置在石衛塔上的烽火籠。",
+   "ja": "ストーンヴィジルに設置されていた篝火"
+  }
+ },
+ {
+  "slug": "bloodblossoms",
+  "en": "Bloodblossoms",
+  "n": {
+   "en": "Bloodblossoms",
+   "zh-CN": "黄金谷鲜血草",
+   "zh-TW": "黃金谷鮮血草",
+   "ja": "オーラムヴェイルの鮮血草"
+  },
+  "desc": {
+   "en": "A flowering ground cover plant that thrives in the suffocating confines of the Aurum Vale.",
+   "zh-CN": "生长在黄金谷的花草，经过修剪之后比较适合庭院观赏了。",
+   "zh-TW": "生長在黃金谷的花草，經過修剪之後比較適合庭院觀賞了。",
+   "ja": "オーラムヴェイルに自生する花を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "death-s-fingers",
+  "en": "Death's Fingers",
+  "n": {
+   "en": "Death's Fingers",
+   "zh-CN": "黄金谷白骨树",
+   "zh-TW": "黃金谷白骨樹",
+   "ja": "オーラムヴェイルの白骨樹"
+  },
+  "desc": {
+   "en": "A pale white tree that thrives in the suffocating confines of the Aurum Vale.",
+   "zh-CN": "生长在黄金谷的树木，经过修剪之后比较适合庭院观赏了。",
+   "zh-TW": "生長在黃金谷的樹木，經過修剪之後比較適合庭院觀賞了。",
+   "ja": "オーラムヴェイルに自生する樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "turnkey-s-cups",
+  "en": "Turnkey's Cups",
+  "n": {
+   "en": "Turnkey's Cups",
+   "zh-CN": "千狱看守草",
+   "zh-TW": "千獄看守草",
+   "ja": "千獄の看守草"
+  },
+  "desc": {
+   "en": "A carnivorous cup-shaped plant often found growing in clusters, taken from the Thousand Maws of Toto–Rak.",
+   "zh-CN": "托托·拉克千狱中生长的食虫植物，经过修剪之后比较适合庭院观赏了。",
+   "zh-TW": "託託·拉克千獄中生長的食蟲植物，經過修剪之後比較適合庭院觀賞了。",
+   "ja": "トトラクの千獄に自生する食虫植物を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "pyrepods",
+  "en": "Pyrepods",
+  "n": {
+   "en": "Pyrepods",
+   "zh-CN": "千狱火葬花",
+   "zh-TW": "千獄火葬花",
+   "ja": "千獄の火葬花"
+  },
+  "desc": {
+   "en": "A brightly hued plant shaped like spiked bulbs, taken from the Thousand Maws of Toto–Rak.",
+   "zh-CN": "托托·拉克千狱中生长的食虫植物，经过修剪之后比较适合庭院观赏了。",
+   "zh-TW": "託託·拉克千獄中生長的食蟲植物，經過修剪之後比較適合庭院觀賞了。",
+   "ja": "トトラクの千獄に自生する食虫植物を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "ghostmaws",
+  "en": "Ghostmaws",
+  "n": {
+   "en": "Ghostmaws",
+   "zh-CN": "千狱亡者草",
+   "zh-TW": "千獄亡者草",
+   "ja": "千獄の亡者草"
+  },
+  "desc": {
+   "en": "A carnivorous plant featuring elongated purple leaves that terminate in a trap, taken from the Thousand Maws of Toto–Rak.",
+   "zh-CN": "托托·拉克千狱中生长的食虫植物，经过修剪之后比较适合庭院观赏了。",
+   "zh-TW": "託託·拉克千獄中生長的食蟲植物，經過修剪之後比較適合庭院觀賞了。",
+   "ja": "トトラクの千獄に自生する食虫植物を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "amdapori-beacon",
+  "en": "Amdapori Beacon",
+  "n": {
+   "en": "Amdapori Beacon",
+   "zh-CN": "古堡火笼",
+   "zh-TW": "古堡火籠",
+   "ja": "古城のかがり"
+  },
+  "desc": {
+   "en": "A watch beacon crafted in the ancient Amdapori style. As seen within Amdapor Keep.",
+   "zh-CN": "设置在无限城古堡中的火笼。",
+   "zh-TW": "設置在無限城古堡中的火籠。",
+   "ja": "古城アムダプールに設置されていた篝火"
+  }
+ },
+ {
+  "slug": "miniature-aetheryte",
+  "en": "Miniature Aetheryte",
+  "n": {
+   "en": "Miniature Aetheryte",
+   "zh-CN": "私用以太之光",
+   "zh-TW": "私用以太之光",
+   "ja": "プライベート・エーテライト"
+  },
+  "desc": {
+   "en": "Anywhere that's anywhere in Eorzea has an aetheryte. Your estate is no exception.",
+   "zh-CN": "设置在庭院内的小型以太之光。",
+   "zh-TW": "設置在庭院內的小型以太之光。",
+   "ja": "ガーデンに設置できる小型のエーテライト"
+  }
+ },
+ {
+  "slug": "amalj-aa-supply-carriage",
+  "en": "Amalj'aa Supply Carriage",
+  "n": {
+   "en": "Amalj'aa Supply Carriage",
+   "zh-CN": "蜥蜴人军装甲运输车",
+   "zh-TW": "蜥蜴人軍裝甲運輸車",
+   "ja": "アマルジャ軍装甲輸送車"
+  },
+  "desc": {
+   "en": "A heavily armored carriage used by the Amalj'aa to transport supplies.",
+   "zh-CN": "蜥蜴人族的装甲运输车。",
+   "zh-TW": "蜥蜴人族的裝甲運輸車。",
+   "ja": "アマルジャ族の装甲輸送車"
+  }
+ },
+ {
+  "slug": "amalj-aa-pavis-shield",
+  "en": "Amalj'aa Pavis Shield",
+  "n": {
+   "en": "Amalj'aa Pavis Shield",
+   "zh-CN": "蜥蜴人军大盾",
+   "zh-TW": "蜥蜴人軍大盾",
+   "ja": "アマルジャ軍式矢盾"
+  },
+  "desc": {
+   "en": "A pavis shield of iron used by the Amalj'aa to fortify their strongholds.",
+   "zh-CN": "蜥蜴人族的据点防卫用大型护盾。",
+   "zh-TW": "蜥蜴人族的據點防衛用大型護盾。",
+   "ja": "アマルジャ族の拠点防衛用の壁"
+  }
+ },
+ {
+  "slug": "regal-letter-box",
+  "en": "Regal Letter Box",
+  "n": {
+   "en": "Regal Letter Box",
+   "zh-CN": "贤王信箱",
+   "zh-TW": "賢王信箱",
+   "ja": "モグル・モグポスト"
+  },
+  "desc": {
+   "en": "Does everything the moogle letter box does, but with more majesty!",
+   "zh-CN": "用来收发莫古邮件的信箱。给人一种王权的感觉。",
+   "zh-TW": "用來收發莫古郵件的信箱。給人一種王權的感覺。",
+   "ja": "モグレターを受け取ったり送ったりできる高貴なるポスト"
+  }
+ },
+ {
+  "slug": "carbuncle-garden-table",
+  "en": "Carbuncle Garden Table",
+  "n": {
+   "en": "Carbuncle Garden Table",
+   "zh-CN": "宝石兽庭院桌",
+   "zh-TW": "寶石獸庭院桌",
+   "ja": "カーバンクルガーデンテーブル"
+  },
+  "desc": {
+   "en": "A fluffy and faithful garden table designed in a Carbuncle motif.",
+   "zh-CN": "带有宝石兽图案的庭院桌。",
+   "zh-TW": "帶有寶石獸圖案的庭院桌。",
+   "ja": "カーバンクルの意匠を施したテーブル"
+  }
+ },
+ {
+  "slug": "carbuncle-garden-bench",
+  "en": "Carbuncle Garden Bench",
+  "n": {
+   "en": "Carbuncle Garden Bench",
+   "zh-CN": "宝石兽庭院长椅",
+   "zh-TW": "寶石獸庭院長椅",
+   "ja": "カーバンクルガーデンベンチ"
+  },
+  "desc": {
+   "en": "A fluffy and faithful garden bench designed in a Carbuncle motif.",
+   "zh-CN": "带有宝石兽图案的庭院长椅。",
+   "zh-TW": "帶有寶石獸圖案的庭院長椅。",
+   "ja": "カーバンクルの意匠を施したベンチ"
+  }
+ },
+ {
+  "slug": "riviera-striking-dummy",
+  "en": "Riviera Striking Dummy",
+  "n": {
+   "en": "Riviera Striking Dummy",
+   "zh-CN": "碧海木人",
+   "zh-TW": "碧海木人",
+   "ja": "ラノシアンダミー"
+  },
+  "desc": {
+   "en": "A striking dummy designed in the riviera fashion.",
+   "zh-CN": "拉诺西亚样式的训练用木头人。",
+   "zh-TW": "拉諾西亞樣式的訓練用木頭人。",
+   "ja": "ラノシア様式の訓練用木人"
+  }
+ },
+ {
+  "slug": "oasis-striking-dummy",
+  "en": "Oasis Striking Dummy",
+  "n": {
+   "en": "Oasis Striking Dummy",
+   "zh-CN": "黄沙木人",
+   "zh-TW": "黃沙木人",
+   "ja": "ザナラーンダミー"
+  },
+  "desc": {
+   "en": "A striking dummy designed in the oasis fashion.",
+   "zh-CN": "萨纳兰样式的训练用木头人。",
+   "zh-TW": "薩納蘭樣式的訓練用木頭人。",
+   "ja": "ザナラーン様式の訓練用木人"
+  }
+ },
+ {
+  "slug": "glade-striking-dummy",
+  "en": "Glade Striking Dummy",
+  "n": {
+   "en": "Glade Striking Dummy",
+   "zh-CN": "密林木人",
+   "zh-TW": "密林木人",
+   "ja": "シュラウドダミー"
+  },
+  "desc": {
+   "en": "A striking dummy designed in the glade fashion.",
+   "zh-CN": "黑衣森林样式的训练用木头人。",
+   "zh-TW": "黑衣森林樣式的訓練用木頭人。",
+   "ja": "黒衣森様式の訓練用木人"
+  }
+ },
+ {
+  "slug": "alps-striking-dummy",
+  "en": "Alps Striking Dummy",
+  "n": {
+   "en": "Alps Striking Dummy",
+   "zh-CN": "高山木人",
+   "zh-TW": "高山木人",
+   "ja": "クルザスダミー"
+  },
+  "desc": {
+   "en": "A striking dummy designed in the alps fashion.",
+   "zh-CN": "库尔札斯样式的训练用木头人。",
+   "zh-TW": "庫爾札斯樣式的訓練用木頭人。",
+   "ja": "クルザス様式の訓練用木人"
+  }
+ },
+ {
+  "slug": "sahagin-living-lamp",
+  "en": "Sahagin Living Lamp",
+  "n": {
+   "en": "Sahagin Living Lamp",
+   "zh-CN": "鱼人风烛台",
+   "zh-TW": "魚人風燭臺",
+   "ja": "サハギン風の燭台"
+  },
+  "desc": {
+   "en": "Any Sahagin would feel at home by the gentle glow of this living lamp.",
+   "zh-CN": "鱼人族样式的室外灯。",
+   "zh-TW": "魚人族樣式的室外燈。",
+   "ja": "サハギン様式の外灯"
+  }
+ },
+ {
+  "slug": "sahagin-hanging-larder",
+  "en": "Sahagin Hanging Larder",
+  "n": {
+   "en": "Sahagin Hanging Larder",
+   "zh-CN": "鱼人风食台",
+   "zh-TW": "魚人風食臺",
+   "ja": "サハギン風の食台"
+  },
+  "desc": {
+   "en": "The Sahagin typically hang their foodstuff on this treelike coral formation, the better to prevent its being swept away by the sea.",
+   "zh-CN": "鱼人族样式的食物存放台，将食物挂起来可以避免被海流冲走。",
+   "zh-TW": "魚人族樣式的食物存放臺，將食物掛起來可以避免被海流沖走。",
+   "ja": "サハギン様式の食台。海流で流されないよう食材をつり下げる"
+  }
+ },
+ {
+  "slug": "ixali-shelter",
+  "en": "Ixali Shelter",
+  "n": {
+   "en": "Ixali Shelter",
+   "zh-CN": "鸟人庇护所",
+   "zh-TW": "鳥人庇護所",
+   "ja": "イクサルシェルター"
+  },
+  "desc": {
+   "en": "A small and cozy shelter of Ixali design.",
+   "zh-CN": "鸟人族样式的小屋。",
+   "zh-TW": "鳥人族樣式的小屋。",
+   "ja": "イクサル様式の小屋"
+  }
+ },
+ {
+  "slug": "ixali-banner",
+  "en": "Ixali Banner",
+  "n": {
+   "en": "Ixali Banner",
+   "zh-CN": "鸟人战旗",
+   "zh-TW": "鳥人戰旗",
+   "ja": "イクサルバナー"
+  },
+  "desc": {
+   "en": "The mere sight of this banner instills any Ixal with courage.",
+   "zh-CN": "鸟人族样式的战旗。",
+   "zh-TW": "鳥人族樣式的戰旗。",
+   "ja": "イクサル族の戦旗"
+  }
+ },
+ {
+  "slug": "automaton-digger",
+  "en": "Automaton Digger",
+  "n": {
+   "en": "Automaton Digger",
+   "zh-CN": "地灵挖掘机",
+   "zh-TW": "地靈挖掘機",
+   "ja": "コボルド式掘削機"
+  },
+  "desc": {
+   "en": "An ingenious mining automaton created by the kobolds.",
+   "zh-CN": "地灵族样式的自动挖掘机。",
+   "zh-TW": "地靈族樣式的自動挖掘機。",
+   "ja": "コボルド様式の自動採掘機"
+  }
+ },
+ {
+  "slug": "kobold-furnace",
+  "en": "Kobold Furnace",
+  "n": {
+   "en": "Kobold Furnace",
+   "zh-CN": "地灵熔炉",
+   "zh-TW": "地靈熔爐",
+   "ja": "コボルドファーナス"
+  },
+  "desc": {
+   "en": "A furnace made by the kobolds for alchemical purposes.",
+   "zh-CN": "地灵族样式的大型冶炼炉。",
+   "zh-TW": "地靈族樣式的大型冶煉爐。",
+   "ja": "コボルド様式の大型錬金窯"
+  }
+ },
+ {
+  "slug": "round-garden-patch",
+  "en": "Round Garden Patch",
+  "n": {
+   "en": "Round Garden Patch",
+   "zh-CN": "圆形园圃",
+   "zh-TW": "圓形園圃",
+   "ja": "ラウンドガーデンパッチ"
+  },
+  "desc": {
+   "en": "A garden patch with room for four beds.",
+   "zh-CN": "圆形的园圃，可以种植各种作物。",
+   "zh-TW": "圓形的園圃，可以種植各種作物。",
+   "ja": "円形の畑"
+  }
+ },
+ {
+  "slug": "oblong-garden-patch",
+  "en": "Oblong Garden Patch",
+  "n": {
+   "en": "Oblong Garden Patch",
+   "zh-CN": "方形园圃",
+   "zh-TW": "方形園圃",
+   "ja": "スクエアガーデンパッチ"
+  },
+  "desc": {
+   "en": "A garden patch with room for six beds.",
+   "zh-CN": "方形的园圃，可以种植各种作物。",
+   "zh-TW": "方形的園圃，可以種植各種作物。",
+   "ja": "方形の畑"
+  }
+ },
+ {
+  "slug": "deluxe-garden-patch",
+  "en": "Deluxe Garden Patch",
+  "n": {
+   "en": "Deluxe Garden Patch",
+   "zh-CN": "高级园圃",
+   "zh-TW": "高級園圃",
+   "ja": "デラックスガーデンパッチ"
+  },
+  "desc": {
+   "en": "A garden patch with room for eight beds. Comes complete with its own scarecrow.",
+   "zh-CN": "带有稻草人的园圃，可以种植各种作物。",
+   "zh-TW": "帶有稻草人的園圃，可以種植各種作物。",
+   "ja": "カカシ付きの方形の畑"
+  }
+ },
+ {
+  "slug": "chocobo-stable",
+  "en": "Chocobo Stable",
+  "n": {
+   "en": "Chocobo Stable",
+   "zh-CN": "陆行鸟房",
+   "zh-TW": "陸行鳥房",
+   "ja": "チョコボ厩舎"
+  },
+  "desc": {
+   "en": "A simple stable large enough for keeping and raising as many chocobos as you can imagine (if 512 is the maximum number you can imagine).",
+   "zh-CN": "能够饲养陆行鸟的小屋。",
+   "zh-TW": "能夠飼養陸行鳥的小屋。",
+   "ja": "チョコボを育成するための小屋"
+  }
+ },
+ {
+  "slug": "moonfire-lantern",
+  "en": "Moonfire Lantern",
+  "n": {
+   "en": "Moonfire Lantern",
+   "zh-CN": "红莲灯笼",
+   "zh-TW": "紅蓮燈籠",
+   "ja": "紅蓮の提灯"
+  },
+  "desc": {
+   "en": "An outdoor lantern traditionally placed outside one's home for the duration of the Moonfire Faire.",
+   "zh-CN": "红莲节时期用来装饰的室外灯笼。",
+   "zh-TW": "紅蓮節時期用來裝飾的室外燈籠。",
+   "ja": "紅蓮祭の飾り付けに用いられる屋外灯"
+  }
+ },
+ {
+  "slug": "ornamental-bamboo",
+  "en": "Ornamental Bamboo",
+  "n": {
+   "en": "Ornamental Bamboo",
+   "zh-CN": "东方的许愿竹",
+   "zh-TW": "東方的許願竹",
+   "ja": "東方の笹飾り"
+  },
+  "desc": {
+   "en": "People hailing from the Far East claim that wishes written on small slips of parchment and tied to the bamboo will come true. (Magical wish parchment sold separately.)",
+   "zh-CN": "东方风格的装饰品，在小纸条上写下心中的愿望，并挂到竹子上，以祈盼愿望成真。",
+   "zh-TW": "東方風格的裝飾品，在小紙條上寫下心中的願望，並掛到竹子上，以祈盼願望成真。",
+   "ja": "願い事を書いた短冊を吊す、東方風の笹飾り"
+  }
+ },
+ {
+  "slug": "rounded-shrub",
+  "en": "Rounded Shrub",
+  "n": {
+   "en": "Rounded Shrub",
+   "zh-CN": "球形灌木",
+   "zh-TW": "球形灌木",
+   "ja": "玉刈生垣"
+  },
+  "desc": {
+   "en": "This leafy shrub has been expertly pruned and trimmed into a perfect sphere.",
+   "zh-CN": "修剪成球形的灌木，圆嘟嘟的。",
+   "zh-TW": "修剪成球形的灌木，圓嘟嘟的。",
+   "ja": "球形に刈り込んだ植栽"
+  }
+ },
+ {
+  "slug": "lattice-planter",
+  "en": "Lattice Planter",
+  "n": {
+   "en": "Lattice Planter",
+   "zh-CN": "格子盆栽",
+   "zh-TW": "格子盆栽",
+   "ja": "ラティスプランター"
+  },
+  "desc": {
+   "en": "A wooden garden partition outfitted with planter pots.",
+   "zh-CN": "木制的格子架，可以在不同的位置摆放不同的植物。",
+   "zh-TW": "木製的格子架，可以在不同的位置擺放不同的植物。",
+   "ja": "植木鉢付きの庭用仕切り板"
+  }
+ },
+ {
+  "slug": "water-lilies",
+  "en": "Water Lilies",
+  "n": {
+   "en": "Water Lilies",
+   "zh-CN": "睡莲水盆",
+   "zh-TW": "睡蓮水盆",
+   "ja": "睡蓮の水鉢"
+  },
+  "desc": {
+   "en": "A ceramic pot filled with crystal-clear water and several water lilies.",
+   "zh-CN": "清澈的水面上漂浮着几朵睡莲，美不胜收。",
+   "zh-TW": "清澈的水面上漂浮着幾朵睡蓮，美不勝收。",
+   "ja": "睡蓮を浮かべた水鉢"
+  }
+ },
+ {
+  "slug": "garden-pond",
+  "en": "Garden Pond",
+  "n": {
+   "en": "Garden Pond",
+   "zh-CN": "庭院水塘",
+   "zh-TW": "庭院水塘",
+   "ja": "ガーデンポンド"
+  },
+  "desc": {
+   "en": "A decorative outdoor pond encircled by smooth stones.",
+   "zh-CN": "一个小池塘，周围堆满了岩石。",
+   "zh-TW": "一個小池塘，周圍堆滿了岩石。",
+   "ja": "石組の庭池"
+  }
+ },
+ {
+  "slug": "cast-iron-cookpot",
+  "en": "Cast-iron Cookpot",
+  "n": {
+   "en": "Cast-iron Cookpot",
+   "zh-CN": "吊锅",
+   "zh-TW": "吊鍋",
+   "ja": "クッキングポット"
+  },
+  "desc": {
+   "en": "A blackened pot perfect for hanging over a cookfire.",
+   "zh-CN": "吊在空中的锅子，正好可以用篝火来烹饪。",
+   "zh-TW": "吊在空中的鍋子，正好可以用篝火來烹飪。",
+   "ja": "たき火で調理するための鍋"
+  }
+ },
+ {
+  "slug": "stepladder",
+  "en": "Stepladder",
+  "n": {
+   "en": "Stepladder",
+   "zh-CN": "活梯",
+   "zh-TW": "活梯",
+   "ja": "ステップラダー"
+  },
+  "desc": {
+   "en": "Because sometimes there are things even a Roegadyn cannot reach.",
+   "zh-CN": "有些地方甚至一个成年鲁加人都够不到……",
+   "zh-TW": "有些地方甚至一個成年魯加人都夠不到……",
+   "ja": "階段状の足場が付いた作業台"
+  }
+ },
+ {
+  "slug": "straight-stepping-stones",
+  "en": "Straight Stepping Stones",
+  "n": {
+   "en": "Straight Stepping Stones",
+   "zh-CN": "直线踏脚石",
+   "zh-TW": "直線踏腳石",
+   "ja": "ステップストーン"
+  },
+  "desc": {
+   "en": "Several flat smoothed stones arranged in a straight line.",
+   "zh-CN": "排成直线的踏脚石。",
+   "zh-TW": "排成直線的踏腳石。",
+   "ja": "直線状に配置された飛び石"
+  }
+ },
+ {
+  "slug": "curved-stepping-stones",
+  "en": "Curved Stepping Stones",
+  "n": {
+   "en": "Curved Stepping Stones",
+   "zh-CN": "弧形踏脚石",
+   "zh-TW": "弧形踏腳石",
+   "ja": "カーブ・ステップストーン"
+  },
+  "desc": {
+   "en": "Several flat smoothed stones arranged in a curving pattern.",
+   "zh-CN": "排成弧线的踏脚石。",
+   "zh-TW": "排成弧線的踏腳石。",
+   "ja": "曲線状に配置された飛び石"
+  }
+ },
+ {
+  "slug": "straight-stepping-stumps",
+  "en": "Straight Stepping Stumps",
+  "n": {
+   "en": "Straight Stepping Stumps",
+   "zh-CN": "直线踏脚木",
+   "zh-TW": "直線踏腳木",
+   "ja": "ステップウッド"
+  },
+  "desc": {
+   "en": "Several thinly cut cross sections of a massive tree trunk arranged to form a straight path.",
+   "zh-CN": "排成直线的踏脚木。",
+   "zh-TW": "排成直線的踏腳木。",
+   "ja": "直線状に配置された足場材"
+  }
+ },
+ {
+  "slug": "curved-stepping-stumps",
+  "en": "Curved Stepping Stumps",
+  "n": {
+   "en": "Curved Stepping Stumps",
+   "zh-CN": "弧形踏脚木",
+   "zh-TW": "弧形踏腳木",
+   "ja": "カーブ・ステップウッド"
+  },
+  "desc": {
+   "en": "Several thinly cut cross sections of a massive tree trunk arranged to form a curved path.",
+   "zh-CN": "排成弧线的踏脚木。",
+   "zh-TW": "排成弧線的踏腳木。",
+   "ja": "曲線状に配置された足場材"
+  }
+ },
+ {
+  "slug": "planter-box",
+  "en": "Planter Box",
+  "n": {
+   "en": "Planter Box",
+   "zh-CN": "花坛",
+   "zh-TW": "花壇",
+   "ja": "ボックスプランター"
+  },
+  "desc": {
+   "en": "A rectangular wooden box filled with blooming wildflowers.",
+   "zh-CN": "木制的花坛，里面开满了鲜花。",
+   "zh-TW": "木製的花壇，裏面開滿了鮮花。",
+   "ja": "箱形の木製植木鉢"
+  }
+ },
+ {
+  "slug": "wooden-bucket",
+  "en": "Wooden Bucket",
+  "n": {
+   "en": "Wooden Bucket",
+   "zh-CN": "西瓜水盆",
+   "zh-TW": "西瓜水盆",
+   "ja": "西瓜の水桶"
+  },
+  "desc": {
+   "en": "A wooden bucket filled with crystal-clear water. Families in the Far East use these receptacles to chill fruit during the hot summer moons.",
+   "zh-CN": "炎热的夏天，将西瓜放到水中降温是最好的保存方式。",
+   "zh-TW": "炎熱的夏天，將西瓜放到水中降溫是最好的保存方式。",
+   "ja": "東方の果物を冷やすための木桶"
+  }
+ },
+ {
+  "slug": "large-planter-box",
+  "en": "Large Planter Box",
+  "n": {
+   "en": "Large Planter Box",
+   "zh-CN": "大型花坛",
+   "zh-TW": "大型花壇",
+   "ja": "ラージボックスプランター"
+  },
+  "desc": {
+   "en": "A deep rectangular box for planting flowers or vegetables.",
+   "zh-CN": "更大的花坛能够种下更多的植物。",
+   "zh-TW": "更大的花壇能夠種下更多的植物。",
+   "ja": "深い箱形の植木鉢"
+  }
+ },
+ {
+  "slug": "riviera-path-light",
+  "en": "Riviera Path Light",
+  "n": {
+   "en": "Riviera Path Light",
+   "zh-CN": "海滨矮灯",
+   "zh-TW": "海濱矮燈",
+   "ja": "ラノシアン・フットランプ"
+  },
+  "desc": {
+   "en": "A small crystal-powered lantern designed in the riviera style used outdoors to light walkways.",
+   "zh-CN": "拉诺西亚样式的矮灯，可以照亮脚下的路。",
+   "zh-TW": "拉諾西亞樣式的矮燈，可以照亮腳下的路。",
+   "ja": "ラノシア様式の足元照明"
+  }
+ },
+ {
+  "slug": "glade-path-light",
+  "en": "Glade Path Light",
+  "n": {
+   "en": "Glade Path Light",
+   "zh-CN": "林间矮灯",
+   "zh-TW": "林間矮燈",
+   "ja": "シュラウド・フットランプ"
+  },
+  "desc": {
+   "en": "A small crystal-powered lantern designed in the glade style used outdoors to light walkways.",
+   "zh-CN": "黑衣森林样式的矮灯，可以照亮脚下的路。",
+   "zh-TW": "黑衣森林樣式的矮燈，可以照亮腳下的路。",
+   "ja": "黒衣森様式の足元照明"
+  }
+ },
+ {
+  "slug": "oasis-path-light",
+  "en": "Oasis Path Light",
+  "n": {
+   "en": "Oasis Path Light",
+   "zh-CN": "绿洲矮灯",
+   "zh-TW": "綠洲矮燈",
+   "ja": "ザナラーン・フットランプ"
+  },
+  "desc": {
+   "en": "A small crystal-powered lantern designed in the oasis style used outdoors to light walkways.",
+   "zh-CN": "萨纳兰样式的矮灯，可以照亮脚下的路。",
+   "zh-TW": "薩納蘭樣式的矮燈，可以照亮腳下的路。",
+   "ja": "ザナラーン様式の足元照明"
+  }
+ },
+ {
+  "slug": "glade-lamppost",
+  "en": "Glade Lamppost",
+  "n": {
+   "en": "Glade Lamppost",
+   "zh-CN": "林间路灯",
+   "zh-TW": "林間路燈",
+   "ja": "シュラウド・ランプポスト"
+  },
+  "desc": {
+   "en": "A lamppost of steel such as one might see lining a Gridanian street.",
+   "zh-CN": "黑衣森林样式的路灯。",
+   "zh-TW": "黑衣森林樣式的路燈。",
+   "ja": "黒衣森様式の街灯"
+  }
+ },
+ {
+  "slug": "oasis-lamppost",
+  "en": "Oasis Lamppost",
+  "n": {
+   "en": "Oasis Lamppost",
+   "zh-CN": "绿洲路灯",
+   "zh-TW": "綠洲路燈",
+   "ja": "ザナラーン・ランプポスト"
+  },
+  "desc": {
+   "en": "A lamppost of steel such as one might see lining an Ul'dahn street.",
+   "zh-CN": "萨纳兰样式的路灯。",
+   "zh-TW": "薩納蘭樣式的路燈。",
+   "ja": "ザナラーン様式の街灯"
+  }
+ },
+ {
+  "slug": "pumpkin-candlestand",
+  "en": "Pumpkin Candlestand",
+  "n": {
+   "en": "Pumpkin Candlestand",
+   "zh-CN": "南瓜烛台",
+   "zh-TW": "南瓜燭臺",
+   "ja": "パンプキンキャンドルスタンド"
+  },
+  "desc": {
+   "en": "A decorated lamppost displayed during All Saints' Wake.",
+   "zh-CN": "守护天节时期用来装饰的蜡烛台架。",
+   "zh-TW": "守護天節時期用來裝飾的蠟燭臺架。",
+   "ja": "守護天節の飾り付けに用いられる燭台"
+  }
+ },
+ {
+  "slug": "star-topped-starlight-sentinel",
+  "en": "Star-topped Starlight Sentinel",
+  "n": {
+   "en": "Star-topped Starlight Sentinel",
+   "zh-CN": "明星星芒树",
+   "zh-TW": "明星星芒樹",
+   "ja": "スタートップ・スターライトツリー"
+  },
+  "desc": {
+   "en": "A potted fir, decorated with a star-shaped ornament at its apex.",
+   "zh-CN": "顶端放有明星装饰的盆栽树。",
+   "zh-TW": "頂端放有明星裝飾的盆栽樹。",
+   "ja": "星形の飾りを戴く星芒祭用の植木鉢"
+  }
+ },
+ {
+  "slug": "moon-topped-starlight-sentinel",
+  "en": "Moon-topped Starlight Sentinel",
+  "n": {
+   "en": "Moon-topped Starlight Sentinel",
+   "zh-CN": "弯月星芒树",
+   "zh-TW": "彎月星芒樹",
+   "ja": "クレセントトップ・スターライトツリー"
+  },
+  "desc": {
+   "en": "A potted fir, decorated with a crescent moon-shaped ornament at its apex.",
+   "zh-CN": "顶端放有弯月装饰的盆栽树。",
+   "zh-TW": "頂端放有彎月裝飾的盆栽樹。",
+   "ja": "三日月形の飾りを戴く星芒祭用の植木鉢"
+  }
+ },
+ {
+  "slug": "sun-topped-starlight-sentinel",
+  "en": "Sun-topped Starlight Sentinel",
+  "n": {
+   "en": "Sun-topped Starlight Sentinel",
+   "zh-CN": "旭日星芒树",
+   "zh-TW": "旭日星芒樹",
+   "ja": "サントップ・スターライトツリー"
+  },
+  "desc": {
+   "en": "A potted fir, decorated with a sun-shaped ornament at its apex.",
+   "zh-CN": "顶端放有旭日装饰的盆栽树。",
+   "zh-TW": "頂端放有旭日裝飾的盆栽樹。",
+   "ja": "太陽形の飾りを戴く星芒祭用の植木鉢"
+  }
+ },
+ {
+  "slug": "snowman",
+  "en": "Snowman",
+  "n": {
+   "en": "Snowman",
+   "zh-CN": "雪人",
+   "zh-TW": "雪人",
+   "ja": "スノーマン"
+  },
+  "desc": {
+   "en": "Garlean scholars have conducted extensive studies on the subject of why Eorzean snowmen are constructed of only two balls of snow rather than three—the number of choice throughout Ilsabard. The prevailing theory is that extensive studies should not have been conducted on said subject.",
+   "zh-CN": "一部分加雷马学者专门研究艾欧泽亚的雪人研究了很长时间，他们想查明为什么这个地区的雪人是由两个雪球组成的，而不是像北洲的习惯一样用三个雪球组成。不过更多的人认为这群蠢货就不应该搞这个研究。",
+   "zh-TW": "一部分加雷馬學者專門研究艾歐澤亞的雪人研究了很長時間，他們想查明爲什麼這個地區的雪人是由兩個雪球組成的，而不是像北洲的習慣一樣用三個雪球組成。不過更多的人認爲這羣蠢貨就不應該搞這個研究。",
+   "ja": "星芒祭の時期に作る雪だるま"
+  }
+ },
+ {
+  "slug": "empty-gift-boxes",
+  "en": "Empty Gift Boxes",
+  "n": {
+   "en": "Empty Gift Boxes",
+   "zh-CN": "空的星芒礼箱",
+   "zh-TW": "空的星芒禮箱",
+   "ja": "スターライト・ギフトボックス"
+  },
+  "desc": {
+   "en": "A box without a gift is like a bird without a song.",
+   "zh-CN": "空空的礼箱，就像技力不足的战士一样没人喜欢。",
+   "zh-TW": "空空的禮箱，就像技力不足的戰士一樣沒人喜歡。",
+   "ja": "星芒祭の贈り物を入れるための空き箱"
+  }
+ },
+ {
+  "slug": "kadomatsu",
+  "en": "Kadomatsu",
+  "n": {
+   "en": "Kadomatsu",
+   "zh-CN": "门松",
+   "zh-TW": "門松",
+   "ja": "門松"
+  },
+  "desc": {
+   "en": "A mini-tower of sliced bamboo and pine branches—the kadomatsu is a Far Eastern oddity traditionally displayed at homes and in temples for the duration of Heavensturn.",
+   "zh-CN": "东方风格的竹松装饰，据说有着迎神入门的效果。",
+   "zh-TW": "東方風格的竹松裝飾，據說有着迎神入門的效果。",
+   "ja": "降神祭に欠かせない東方風の松飾り"
+  }
+ },
+ {
+  "slug": "expansion-of-duties-permit",
+  "en": "Expansion of Duties Permit",
+  "n": {
+   "en": "Expansion of Duties Permit",
+   "zh-CN": "雇员营业证书",
+   "zh-TW": "僱員營業證書",
+   "ja": "営業証書:リテイナー"
+  },
+  "desc": {
+   "en": "An amendment to existing retainer employment contracts allowing for dispatchment on privately owned properties.",
+   "zh-CN": "雇员在住宅区庭院内的营业许可证。",
+   "zh-TW": "僱員在住宅區庭院內的營業許可證。",
+   "ja": "冒険者居住区内の庭先でリテイナーによる営業を許可する証書"
+  }
+ },
+ {
+  "slug": "dried-well",
+  "en": "Dried Well",
+  "n": {
+   "en": "Dried Well",
+   "zh-CN": "枯井",
+   "zh-TW": "枯井",
+   "ja": "シュラウド・オールドウェル"
+  },
+  "desc": {
+   "en": "Have you dreamed of owning your very own well, but are plagued by one or more of the following psychological ailments: acrophobia, claustrophobia, aquaphobia, bathophobia, or cleithrophobia? Well fear no longer. This quality stone well, manufactured in Eorzea with 100% Eorzean materials, requires no hole to be dug, no ground to be sanctified, and no chain letters to be passed along to your dearest enemies.",
+   "zh-CN": "黑衣森林样式的水井，可惜现在已经完全没有水了。",
+   "zh-TW": "黑衣森林樣式的水井，可惜現在已經完全沒有水了。",
+   "ja": "黒衣森様式の古井戸。残念ながら水は出ない"
+  }
+ },
+ {
+  "slug": "oriental-striking-dummy",
+  "en": "Oriental Striking Dummy",
+  "n": {
+   "en": "Oriental Striking Dummy",
+   "zh-CN": "东方木人",
+   "zh-TW": "東方木人",
+   "ja": "オリエンタルダミー"
+  },
+  "desc": {
+   "en": "A striking dummy designed in the Doman fashion.",
+   "zh-CN": "多玛样式的训练用木头人。",
+   "zh-TW": "多瑪樣式的訓練用木頭人。",
+   "ja": "ドマ様式の訓練用木人"
+  }
+ },
+ {
+  "slug": "eastern-cherry-tree",
+  "en": "Eastern Cherry Tree",
+  "n": {
+   "en": "Eastern Cherry Tree",
+   "zh-CN": "东方樱花树",
+   "zh-TW": "東方櫻花樹",
+   "ja": "イースタン・チェリーツリー"
+  },
+  "desc": {
+   "en": "A variety of cherry tree from the Far East modified through generations of grafting and crossbreeding to bloom perpetually.",
+   "zh-CN": "东方传来的树木，能够开出粉红色的花朵，随风飘落的花瓣十分有意境，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "東方傳來的樹木，能夠開出粉紅色的花朵，隨風飄落的花瓣十分有意境，經過修剪後很適合裝飾在庭院中。",
+   "ja": "薄桃色の花を咲かせる東方の樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "crimson-felt-mat",
+  "en": "Crimson Felt Mat",
+  "n": {
+   "en": "Crimson Felt Mat",
+   "zh-CN": "鲜红纤维毯",
+   "zh-TW": "鮮紅纖維毯",
+   "ja": "クリムゾン・フェルトマット"
+  },
+  "desc": {
+   "en": "A square sheet of crimson-colored felt upon which dolls are displayed for Little Ladies' Day.",
+   "zh-CN": "在女儿节时使用的毯子，同时还附带一把遮阳伞。",
+   "zh-TW": "在女兒節時使用的毯子，同時還附帶一把遮陽傘。",
+   "ja": "プリンセスデーで用いられる不織布製の敷物。日傘付き"
+  }
+ },
+ {
+  "slug": "flame-of-passion",
+  "en": "Flame of Passion",
+  "n": {
+   "en": "Flame of Passion",
+   "zh-CN": "激情之火",
+   "zh-TW": "激情之火",
+   "ja": "パッションフレイム"
+  },
+  "desc": {
+   "en": "Outdoor lighting certain to heat up any relationship.",
+   "zh-CN": "室外用的照明器具，爱意的火焰激情四射。",
+   "zh-TW": "室外用的照明器具，愛意的火焰激情四射。",
+   "ja": "愛の炎が燃え上がる屋外用の照明器具"
+  }
+ },
+ {
+  "slug": "wild-banana-tree",
+  "en": "Wild Banana Tree",
+  "n": {
+   "en": "Wild Banana Tree",
+   "zh-CN": "野香蕉树",
+   "zh-TW": "野香蕉樹",
+   "ja": "ワイルドバナナツリー"
+  },
+  "desc": {
+   "en": "A green, leafy tree transplanted from an island in the Cieldalaes. The word “banana” is actually a bastardization of “pamama,” the term used in the fruit's native habitat.",
+   "zh-CN": "产自谢尔达莱群岛的香蕉树，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "產自謝爾達萊羣島的香蕉樹，經過修剪後很適合裝飾在庭院中。",
+   "ja": "シェルダレー諸島に自生するバナナの木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "personal-astroscope",
+  "en": "Personal Astroscope",
+  "n": {
+   "en": "Personal Astroscope",
+   "zh-CN": "个人天文仪",
+   "zh-TW": "個人天文儀",
+   "ja": "パーソナル・アストロスコープ"
+  },
+  "desc": {
+   "en": "A miniature astroscope used by aspiring astrologians to peer into the farthest reaches of the firmament.",
+   "zh-CN": "在室外观测天体运行的仪器，经过防水处理，即使下雨也不怕。",
+   "zh-TW": "在室外觀測天體運行的儀器，經過防水處理，即使下雨也不怕。",
+   "ja": "防水加工を施した、屋外用の天体観測機材"
+  }
+ },
+ {
+  "slug": "riviera-garden-table-set",
+  "en": "Riviera Garden Table Set",
+  "n": {
+   "en": "Riviera Garden Table Set",
+   "zh-CN": "海滨庭院桌组合",
+   "zh-TW": "海濱庭院桌組合",
+   "ja": "ラノシアン・ガーデンテーブルセット"
+  },
+  "desc": {
+   "en": "A round outdoor table and matching chairs designed in the riviera fashion.",
+   "zh-CN": "拉诺西亚样式的室外圆桌，还附带几个小凳子。",
+   "zh-TW": "拉諾西亞樣式的室外圓桌，還附帶幾個小凳子。",
+   "ja": "ラノシア様式の屋外用円卓と腰掛けのセット"
+  }
+ },
+ {
+  "slug": "dodo-s-nest",
+  "en": "Dodo's Nest",
+  "n": {
+   "en": "Dodo's Nest",
+   "zh-CN": "渡渡鸟巢",
+   "zh-TW": "渡渡鳥巢",
+   "ja": "ドードーネスト"
+  },
+  "desc": {
+   "en": "Though their beady eyes and awkward walk give them an air of unintelligence, dodos are actually quite clever creatures. A mother dodo will, when creating a nest, first dry grass in the sun for several days before adding it to the pile, so as to prevent the growth of molds harmful to her offspring.",
+   "zh-CN": "渡渡鸟为了孵卵而搭建的巢。",
+   "zh-TW": "渡渡鳥爲了孵卵而搭建的巢。",
+   "ja": "ドードーが卵を孵すための巣"
+  }
+ },
+ {
+  "slug": "retainer-cartonnier",
+  "en": "Retainer Cartonnier",
+  "n": {
+   "en": "Retainer Cartonnier",
+   "zh-CN": "雇员文件柜",
+   "zh-TW": "僱員文件櫃",
+   "ja": "リテイナーカルトニエ"
+  },
+  "desc": {
+   "en": "A wooden receptacle for use by retainers to store goods entrusted for sale while protecting them from the elements.",
+   "zh-CN": "供雇员在室外使用的文件柜。",
+   "zh-TW": "供僱員在室外使用的文件櫃。",
+   "ja": "リテイナー向けの屋外用収納箪笥"
+  }
+ },
+ {
+  "slug": "retainer-counter",
+  "en": "Retainer Counter",
+  "n": {
+   "en": "Retainer Counter",
+   "zh-CN": "雇员柜台",
+   "zh-TW": "僱員櫃檯",
+   "ja": "リテイナーカウンター"
+  },
+  "desc": {
+   "en": "A wooden counter for use by retainers.",
+   "zh-CN": "供雇员在室外使用的柜台。",
+   "zh-TW": "供僱員在室外使用的櫃檯。",
+   "ja": "リテイナー向け屋外用対面テーブル"
+  }
+ },
+ {
+  "slug": "expanse-fountain",
+  "en": "Expanse Fountain",
+  "n": {
+   "en": "Expanse Fountain",
+   "zh-CN": "俾斯麦灵泉",
+   "zh-TW": "俾斯麥靈泉",
+   "ja": "ビスマルクの霊泉"
+  },
+  "desc": {
+   "en": "An outdoor fountain created from the baleen of Bismarck, Lord of the Mists.",
+   "zh-CN": "利用俾斯麦之角制作的人工喷泉。",
+   "zh-TW": "利用俾斯麥之角製作的人工噴泉。",
+   "ja": "ビスマルクの角を用いた人工泉"
+  }
+ },
+ {
+  "slug": "boundless-expanse-fountain",
+  "en": "Boundless Expanse Fountain",
+  "n": {
+   "en": "Boundless Expanse Fountain",
+   "zh-CN": "云神灵泉",
+   "zh-TW": "雲神靈泉",
+   "ja": "雲神ビスマルクの霊泉"
+  },
+  "desc": {
+   "en": "An outdoor fountain practically pulsing with magicks created from the baleen of Bismarck, Lord of the Mists.",
+   "zh-CN": "利用俾斯麦魔角制作的人工喷泉。",
+   "zh-TW": "利用俾斯麥魔角製作的人工噴泉。",
+   "ja": "雲神ビスマルクの角を用いた魔力溢れる人工泉"
+  }
+ },
+ {
+  "slug": "topiary-moogle",
+  "en": "Topiary Moogle",
+  "n": {
+   "en": "Topiary Moogle",
+   "zh-CN": "莫古力绿雕",
+   "zh-TW": "莫古力綠雕",
+   "ja": "モーグリトピアリー"
+  },
+  "desc": {
+   "en": "A specially bred shrub pruned to the shape of a merry moogle.",
+   "zh-CN": "修剪成莫古力造型的灌木。",
+   "zh-TW": "修剪成莫古力造型的灌木。",
+   "ja": "モーグリの形に刈り込んだ植え込み"
+  }
+ },
+ {
+  "slug": "standing-signboard",
+  "en": "Standing Signboard",
+  "n": {
+   "en": "Standing Signboard",
+   "zh-CN": "看板",
+   "zh-TW": "看板",
+   "ja": "スタンディングサインボード"
+  },
+  "desc": {
+   "en": "A V-shaped sign used by shop owners to inform passersby of items on sale within.",
+   "zh-CN": "看板上写满了店铺的最新情报。",
+   "zh-TW": "看板上寫滿了店鋪的最新情報。",
+   "ja": "店舗情報を掲示するための立て看板"
+  }
+ },
+ {
+  "slug": "laundry-pole",
+  "en": "Laundry Pole",
+  "n": {
+   "en": "Laundry Pole",
+   "zh-CN": "晒衣杆",
+   "zh-TW": "曬衣杆",
+   "ja": "ハンギングドライヤー"
+  },
+  "desc": {
+   "en": "A long pole upon which wet laundry is hung to dry in the sun. Take care when drying smallclothes, for the realm is rife with codpiece thieves.",
+   "zh-CN": "艾欧泽亚的英雄也是要自己洗衣服的。",
+   "zh-TW": "艾歐澤亞的英雄也是要自己洗衣服的。",
+   "ja": "洗濯物を干すためのロープを張った柱"
+  }
+ },
+ {
+  "slug": "lupin-plot",
+  "en": "Lupin Plot",
+  "n": {
+   "en": "Lupin Plot",
+   "zh-CN": "鲁冰花丛",
+   "zh-TW": "魯冰花叢",
+   "ja": "ルピナスガーデン"
+  },
+  "desc": {
+   "en": "Each plant will produce a “stalk” of violet flowers more than a fulm tall.",
+   "zh-CN": "使庭院看起来生机勃勃。",
+   "zh-TW": "使庭院看起來生機勃勃。",
+   "ja": "造園用のルピナスの群生"
+  }
+ },
+ {
+  "slug": "explorer-s-campfire",
+  "en": "Explorer's Campfire",
+  "n": {
+   "en": "Explorer's Campfire",
+   "zh-CN": "探险家篝火",
+   "zh-TW": "探險家篝火",
+   "ja": "探検家の焚火炉"
+  },
+  "desc": {
+   "en": "All the essential culinary tools—camp stove, iron pot, and stump settle—for dining on the wild side.",
+   "zh-CN": "包含篝火炉、锅和圆木墩子。",
+   "zh-TW": "包含篝火爐、鍋和圓木墩子。",
+   "ja": "焚火炉に調理用の鍋と切り株椅子を加えた一式"
+  }
+ },
+ {
+  "slug": "old-world-striking-dummy",
+  "en": "Old World Striking Dummy",
+  "n": {
+   "en": "Old World Striking Dummy",
+   "zh-CN": "萨雷安木人",
+   "zh-TW": "薩雷安木人",
+   "ja": "シャーレアンダミー"
+  },
+  "desc": {
+   "en": "A striking dummy designed in the Sharlayan fashion.",
+   "zh-CN": "萨雷安样式的训练用木头人。",
+   "zh-TW": "薩雷安樣式的訓練用木頭人。",
+   "ja": "シャーレアン様式の訓練用木人"
+  }
+ },
+ {
+  "slug": "sunflower-plot",
+  "en": "Sunflower Plot",
+  "n": {
+   "en": "Sunflower Plot",
+   "zh-CN": "向日葵花丛",
+   "zh-TW": "向日葵花叢",
+   "ja": "サンフラワーガーデン"
+  },
+  "desc": {
+   "en": "The stalks of these bright-yellow flowers have been known to grow to heights of two or three yalms.",
+   "zh-CN": "使庭院看起来生机勃勃。",
+   "zh-TW": "使庭院看起來生機勃勃。",
+   "ja": "造園用のヒマワリの群生"
+  }
+ },
+ {
+  "slug": "topiary-chocobo",
+  "en": "Topiary Chocobo",
+  "n": {
+   "en": "Topiary Chocobo",
+   "zh-CN": "陆行鸟绿雕",
+   "zh-TW": "陸行鳥綠雕",
+   "ja": "チョコボトピアリー"
+  },
+  "desc": {
+   "en": "A specially bred shrub pruned to the shape of a chipper chocobo.",
+   "zh-CN": "修剪成陆行鸟造型的灌木。",
+   "zh-TW": "修剪成陸行鳥造型的灌木。",
+   "ja": "チョコボの形に刈り込んだ植え込み"
+  }
+ },
+ {
+  "slug": "ultimate-kettle",
+  "en": "Ultimate Kettle",
+  "n": {
+   "en": "Ultimate Kettle",
+   "zh-CN": "究极水壶",
+   "zh-TW": "究極水壺",
+   "ja": "アルティメットケトル"
+  },
+  "desc": {
+   "en": "Unlike other kettles of legend, it cannot turn water to ale, nor is it bottomless. But it can boil water for tea in a count of sixty.",
+   "zh-CN": "一流工匠打造出的究极水壶。",
+   "zh-TW": "一流工匠打造出的究極水壺。",
+   "ja": "一流の職人が鍛え上げた究極のヤカン"
+  }
+ },
+ {
+  "slug": "ultimate-kettle-zenith",
+  "en": "Ultimate Kettle Zenith",
+  "n": {
+   "en": "Ultimate Kettle Zenith",
+   "zh-CN": "究极水壶·天极",
+   "zh-TW": "究極水壺·天極",
+   "ja": "アルティメットケトル:ゼニス"
+  },
+  "desc": {
+   "en": "It can boil water for a quality blend of tea in a count of thirty. And it glows with a strange light. Everyone knows that strangely glowing objects are likely made of legends.",
+   "zh-CN": "一流工匠打造出的散发光芒的究极水壶。",
+   "zh-TW": "一流工匠打造出的散發光芒的究極水壺。",
+   "ja": "一流の職人が鍛え上げた輝きを帯びた究極のヤカン"
+  }
+ },
+ {
+  "slug": "ultimate-kettle-nexus",
+  "en": "Ultimate Kettle Nexus",
+  "n": {
+   "en": "Ultimate Kettle Nexus",
+   "zh-CN": "究极水壶·镇魂",
+   "zh-TW": "究極水壺·鎮魂",
+   "ja": "アルティメットケトル:ネクサス"
+  },
+  "desc": {
+   "en": "A true kettle of legend that shines with such brilliance that it is said even gods would beg for a sip of its contents. It can boil water for a premium blend of tea in a count of five.",
+   "zh-CN": "一流工匠打造出的散发耀眼光芒的究极水壶。",
+   "zh-TW": "一流工匠打造出的散發耀眼光芒的究極水壺。",
+   "ja": "一流の職人が鍛え上げた眩い輝きを放つ究極のヤカン"
+  }
+ },
+ {
+  "slug": "sephirot-root",
+  "en": "Sephirot Root",
+  "n": {
+   "en": "Sephirot Root",
+   "zh-CN": "萨菲洛特之根",
+   "zh-TW": "薩菲洛特之根",
+   "ja": "セフィロトの根"
+  },
+  "desc": {
+   "en": "A masterful objet d'art created using the sap of the Fiend.",
+   "zh-CN": "利用萨菲洛特树液块制作的庭具。",
+   "zh-TW": "利用薩菲洛特樹液塊製作的庭具。",
+   "ja": "セフィロトの樹液塊を用いたオブジェ"
+  }
+ },
+ {
+  "slug": "sephirot-tree",
+  "en": "Sephirot Tree",
+  "n": {
+   "en": "Sephirot Tree",
+   "zh-CN": "魔神之树",
+   "zh-TW": "魔神之樹",
+   "ja": "セフィロトの樹"
+  },
+  "desc": {
+   "en": "An imposing objet d'art of a sacred tree.",
+   "zh-CN": "利用萨菲洛特魔液块制作的庭具。",
+   "zh-TW": "利用薩菲洛特魔液塊製作的庭具。",
+   "ja": "魔神セフィロトの樹液塊を用いたオブジェ"
+  }
+ },
+ {
+  "slug": "oriental-grass-plot",
+  "en": "Oriental Grass Plot",
+  "n": {
+   "en": "Oriental Grass Plot",
+   "zh-CN": "多玛芒草",
+   "zh-TW": "多瑪芒草",
+   "ja": "ドマグラスガーデン"
+  },
+  "desc": {
+   "en": "A tall variety of wild grass with stalks that end in large silver tufts of wispy flowers.",
+   "zh-CN": "使庭院看起来生机勃勃。",
+   "zh-TW": "使庭院看起來生機勃勃。",
+   "ja": "造園用のススキの群生"
+  }
+ },
+ {
+  "slug": "dravanian-down-tree",
+  "en": "Dravanian Down Tree",
+  "n": {
+   "en": "Dravanian Down Tree",
+   "zh-CN": "龙堡绒树",
+   "zh-TW": "龍堡絨樹",
+   "ja": "ドラヴァニアン・ダウンツリー"
+  },
+  "desc": {
+   "en": "A unique species of flora found only growing in the Sea of Clouds. As its seeds do not take in soil from the lower realm, the trees must be planted and raised on sky islets before being transplanted.",
+   "zh-CN": "生长在翻云雾海的树木，经过修剪之后比较适合庭院观赏了。",
+   "zh-TW": "生長在翻雲霧海的樹木，經過修剪之後比較適合庭院觀賞了。",
+   "ja": "ドラヴァニア雲海に自生する樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "cold-knight-s-cookfire",
+  "en": "Cold Knight's Cookfire",
+  "n": {
+   "en": "Cold Knight's Cookfire",
+   "zh-CN": "骑兵火炉",
+   "zh-TW": "騎兵火爐",
+   "ja": "騎兵の焚火炉"
+  },
+  "desc": {
+   "en": "A warm fire and a place to rest one's weary legs—two things every Ishgardian knight looks forward to after a long cold day of duty.",
+   "zh-CN": "包含库尔札斯样式的火炉和长椅子。",
+   "zh-TW": "包含庫爾札斯樣式的火爐和長椅子。",
+   "ja": "クルザス様式の焚火炉に長椅子を加えた一式"
+  }
+ },
+ {
+  "slug": "oriental-snowcave",
+  "en": "Oriental Snowcave",
+  "n": {
+   "en": "Oriental Snowcave",
+   "zh-CN": "多玛风格雪屋",
+   "zh-TW": "多瑪風格雪屋",
+   "ja": "ドマ風かまくら"
+  },
+  "desc": {
+   "en": "A tightly packed pile of snow hollowed out and formed into a tiny dwelling. A thin coating of eternal ice ensures the snowcave will never melt.",
+   "zh-CN": "多玛传统的用雪所制成的小屋。由于永久冰晶的效果而不会融化。",
+   "zh-TW": "多瑪傳統的用雪所製成的小屋。由於永久冰晶的效果而不會融化。",
+   "ja": "ドマ伝統の雪で作った小さな家。永久氷晶の作用で溶けることがない"
+  }
+ },
+ {
+  "slug": "dinosaur-skull",
+  "en": "Dinosaur Skull",
+  "n": {
+   "en": "Dinosaur Skull",
+   "zh-CN": "古代野兽的头骨标本",
+   "zh-TW": "古代野獸的頭骨標本",
+   "ja": "古代獣の頭骨標本"
+  },
+  "desc": {
+   "en": "The crown of an ancient beast. While one may find it comical to stick his or her head in its mouth, collectors warn that its teeth are still razor-sharp and there have been unfortunate accidents.",
+   "zh-CN": "古代野兽暴龙的头骨标本。",
+   "zh-TW": "古代野獸暴龍的頭骨標本。",
+   "ja": "古代獣ティラノサウルスの頭骨標本"
+  }
+ },
+ {
+  "slug": "dinosaur-skeleton",
+  "en": "Dinosaur Skeleton",
+  "n": {
+   "en": "Dinosaur Skeleton",
+   "zh-CN": "古代野兽的骨骼标本",
+   "zh-TW": "古代野獸的骨骼標本",
+   "ja": "古代獣の骨格標本"
+  },
+  "desc": {
+   "en": "The torso and legs of an ancient beast. Scholars are unsure why its modern cousins still have short arms, but they argue they must be of some merit in their hunting habits.",
+   "zh-CN": "古代野兽暴龙的骨骼标本。",
+   "zh-TW": "古代野獸暴龍的骨骼標本。",
+   "ja": "古代獣ティラノサウルスの骨格標本"
+  }
+ },
+ {
+  "slug": "dinosaur-tailbone",
+  "en": "Dinosaur Tailbone",
+  "n": {
+   "en": "Dinosaur Tailbone",
+   "zh-CN": "古代野兽的尾骨标本",
+   "zh-TW": "古代野獸的尾骨標本",
+   "ja": "古代獣の尾骨標本"
+  },
+  "desc": {
+   "en": "The tail of an ancient beast. Some believe that when struck with a mallet, the hollowed tailbones emit pleasant-sounding notes.",
+   "zh-CN": "古代野兽暴龙的尾骨标本。",
+   "zh-TW": "古代野獸暴龍的尾骨標本。",
+   "ja": "古代獣ティラノサウルスの尾骨標本"
+  }
+ },
+ {
+  "slug": "topiary-sabotender",
+  "en": "Topiary Sabotender",
+  "n": {
+   "en": "Topiary Sabotender",
+   "zh-CN": "仙人刺绿雕",
+   "zh-TW": "仙人刺綠雕",
+   "ja": "サボテンダートピアリー"
+  },
+  "desc": {
+   "en": "A specially bred shrub pruned to the shape of a scampering sabotender.",
+   "zh-CN": "修剪成仙人刺造型的灌木。",
+   "zh-TW": "修剪成仙人刺造型的灌木。",
+   "ja": "サボテンダーの形に刈り込んだ植え込み"
+  }
+ },
+ {
+  "slug": "archon-egg-tower",
+  "en": "Archon Egg Tower",
+  "n": {
+   "en": "Archon Egg Tower",
+   "zh-CN": "预言蛋巨塔",
+   "zh-TW": "預言蛋巨塔",
+   "ja": "アルコンエッグタワー"
+  },
+  "desc": {
+   "en": "A Hatching–tide decoration with tiers of Archon eggs tirelessly hand-painted by the youngest of the Dreamers.",
+   "zh-CN": "由彩蛋装饰成的巨塔。",
+   "zh-TW": "由彩蛋裝飾成的巨塔。",
+   "ja": "エッグハントを彩る飾りタマゴのタワー"
+  }
+ },
+ {
+  "slug": "dandelion-plot",
+  "en": "Dandelion Plot",
+  "n": {
+   "en": "Dandelion Plot",
+   "zh-CN": "蒲公英花丛",
+   "zh-TW": "蒲公英花叢",
+   "ja": "ダンデライオンガーデン"
+  },
+  "desc": {
+   "en": "A tiny field of cheery dandelions that begs to be frolicked in.",
+   "zh-CN": "使庭院看起来生机勃勃。",
+   "zh-TW": "使庭院看起來生機勃勃。",
+   "ja": "造園用のたんぽぽの群生"
+  }
+ },
+ {
+  "slug": "living-arch",
+  "en": "Living Arch",
+  "n": {
+   "en": "Living Arch",
+   "zh-CN": "绿荫拱桥",
+   "zh-TW": "綠蔭拱橋",
+   "ja": "グリーンアーチ"
+  },
+  "desc": {
+   "en": "An aging stone bridge covered in ivy and moss. Perfect for the romantic rendezvous.",
+   "zh-CN": "由野草点缀的拱桥。",
+   "zh-TW": "由野草點綴的拱橋。",
+   "ja": "野草で彩られたアーチ"
+  }
+ },
+ {
+  "slug": "shishi-odoshi",
+  "en": "Shishi-odoshi",
+  "n": {
+   "en": "Shishi-odoshi",
+   "zh-CN": "添水",
+   "zh-TW": "添水",
+   "ja": "鹿威し"
+  },
+  "desc": {
+   "en": "A fountain from the Far East originally used to scare away creatures and neighbors come to nibble on garden patches.",
+   "zh-CN": "用流水的力量使竹筒敲响石头，发出清脆的声音。",
+   "zh-TW": "用流水的力量使竹筒敲響石頭，發出清脆的聲音。",
+   "ja": "水の力で音を奏でる竹製の鳴子"
+  }
+ },
+ {
+  "slug": "faust-striking-dummy",
+  "en": "Faust Striking Dummy",
+  "n": {
+   "en": "Faust Striking Dummy",
+   "zh-CN": "浮士德木人",
+   "zh-TW": "浮士德木人",
+   "ja": "ファウストダミー"
+  },
+  "desc": {
+   "en": "A striking dummy created by the Illuminati to train their ranks for combat.",
+   "zh-CN": "模仿机工兵浮士德制作的训练用木头人。",
+   "zh-TW": "模仿機工兵浮士德製作的訓練用木頭人。",
+   "ja": "機工兵ファウストを模した訓練用木人"
+  }
+ },
+ {
+  "slug": "gnathic-lamp-tree",
+  "en": "Gnathic Lamp Tree",
+  "n": {
+   "en": "Gnathic Lamp Tree",
+   "zh-CN": "骨颌灯树",
+   "zh-TW": "骨頜燈樹",
+   "ja": "グナースランプツリー"
+  },
+  "desc": {
+   "en": "Any Gnath would click contently beneath the gentle glow of this lamp tree.",
+   "zh-CN": "骨颌族样式大型室外灯。",
+   "zh-TW": "骨頜族樣式大型室外燈。",
+   "ja": "グナース様式の大型屋外灯"
+  }
+ },
+ {
+  "slug": "beach-chair",
+  "en": "Beach Chair",
+  "n": {
+   "en": "Beach Chair",
+   "zh-CN": "沙滩椅",
+   "zh-TW": "沙灘椅",
+   "ja": "ビーチチェア"
+  },
+  "desc": {
+   "en": "A brightly striped lounging space for beachgoers, elevated to keep sand from finding its way into trunks.",
+   "zh-CN": "附带遮阳伞的躺椅，浓浓的海滩度假风。",
+   "zh-TW": "附帶遮陽傘的躺椅，濃濃的海灘度假風。",
+   "ja": "ビーチで用いられる日傘つきの寝椅子"
+  }
+ },
+ {
+  "slug": "morning-glory-plot",
+  "en": "Morning Glory Plot",
+  "n": {
+   "en": "Morning Glory Plot",
+   "zh-CN": "牵牛花丛",
+   "zh-TW": "牽牛花叢",
+   "ja": "モーニンググローリーガーデン"
+  },
+  "desc": {
+   "en": "Brilliant purple flowers that will follow the sun as it makes its journey across the morning sky.",
+   "zh-CN": "使庭院看起来生机勃勃。",
+   "zh-TW": "使庭院看起來生機勃勃。",
+   "ja": "造園用の朝顔の群生"
+  }
+ },
+ {
+  "slug": "large-garden-pond",
+  "en": "Large Garden Pond",
+  "n": {
+   "en": "Large Garden Pond",
+   "zh-CN": "大型庭院水塘",
+   "zh-TW": "大型庭院水塘",
+   "ja": "ラージガーデンポンド"
+  },
+  "desc": {
+   "en": "A large decorative outdoor pond encircled by mossy stones.",
+   "zh-CN": "一个大池塘，周围堆满了岩石。",
+   "zh-TW": "一個大池塘，周圍堆滿了岩石。",
+   "ja": "石組の大型庭池"
+  }
+ },
+ {
+  "slug": "oriental-wood-bridge",
+  "en": "Oriental Wood Bridge",
+  "n": {
+   "en": "Oriental Wood Bridge",
+   "zh-CN": "东方木桥",
+   "zh-TW": "東方木橋",
+   "ja": "オリエンタルウッドブリッジ"
+  },
+  "desc": {
+   "en": "An arched bridge colored brilliant vermilion using traditional Far Eastern lacquering techniques.",
+   "zh-CN": "多玛样式的木桥，可以装饰在庭院中。",
+   "zh-TW": "多瑪樣式的木橋，可以裝飾在庭院中。",
+   "ja": "ドマ様式の庭園用木橋"
+  }
+ },
+ {
+  "slug": "oriental-deck",
+  "en": "Oriental Deck",
+  "n": {
+   "en": "Oriental Deck",
+   "zh-CN": "东方廊椅",
+   "zh-TW": "東方廊椅",
+   "ja": "オリエンタルベランダ"
+  },
+  "desc": {
+   "en": "A roofed, wooden deck with a Far Eastern aesthetic. Perfect for stoically fanning yourself on humid summer days.",
+   "zh-CN": "多玛样式的长椅，可以装饰在庭院中。",
+   "zh-TW": "多瑪樣式的長椅，可以裝飾在庭院中。",
+   "ja": "ドマ様式の庭園用長椅子"
+  }
+ },
+ {
+  "slug": "pumpkin-carriage",
+  "en": "Pumpkin Carriage",
+  "n": {
+   "en": "Pumpkin Carriage",
+   "zh-CN": "南瓜马车",
+   "zh-TW": "南瓜馬車",
+   "ja": "パンプキンキャリッジ"
+  },
+  "desc": {
+   "en": "Someday your prince (or princess) will come. Probably not in this, though.",
+   "zh-CN": "以巨大南瓜为原型制作出来的马车。",
+   "zh-TW": "以巨大南瓜爲原型製作出來的馬車。",
+   "ja": "巨大なカボチャを模した馬車"
+  }
+ },
+ {
+  "slug": "firefly-lamp",
+  "en": "Firefly Lamp",
+  "n": {
+   "en": "Firefly Lamp",
+   "zh-CN": "萤笼",
+   "zh-TW": "螢籠",
+   "ja": "蛍籠"
+  },
+  "desc": {
+   "en": "A wooden cage weaved in a Far Eastern style. The fireflies within provide very little light, but are pleasing to gaze upon.",
+   "zh-CN": "装有原产自东方的萤火虫的笼子。",
+   "zh-TW": "裝有原產自東方的螢火蟲的籠子。",
+   "ja": "東方原産のホタルを封じこめた虫籠"
+  }
+ },
+ {
+  "slug": "rising-pillar",
+  "en": "Rising Pillar",
+  "n": {
+   "en": "Rising Pillar",
+   "zh-CN": "新生立柱",
+   "zh-TW": "新生立柱",
+   "ja": "ライジングピラー"
+  },
+  "desc": {
+   "en": "A festive pillar designed to decorate residences for the Rising.",
+   "zh-CN": "用来装饰新生庆典的纪念柱。",
+   "zh-TW": "用來裝飾新生慶典的紀念柱。",
+   "ja": "新生祭を彩るための飾り柱"
+  }
+ },
+ {
+  "slug": "riviera-chocobo-stable",
+  "en": "Riviera Chocobo Stable",
+  "n": {
+   "en": "Riviera Chocobo Stable",
+   "zh-CN": "海滨陆行鸟房",
+   "zh-TW": "海濱陸行鳥房",
+   "ja": "ラノシアン・チョコボステーブル"
+  },
+  "desc": {
+   "en": "A simple stable designed in the La Noscean riviera style.",
+   "zh-CN": "能够饲养陆行鸟的拉诺西亚样式小屋。",
+   "zh-TW": "能夠飼養陸行鳥的拉諾西亞樣式小屋。",
+   "ja": "チョコボを育成するためのラノシア様式の小屋"
+  }
+ },
+ {
+  "slug": "glade-chocobo-stable",
+  "en": "Glade Chocobo Stable",
+  "n": {
+   "en": "Glade Chocobo Stable",
+   "zh-CN": "林间陆行鸟房",
+   "zh-TW": "林間陸行鳥房",
+   "ja": "シュラウド・チョコボステーブル"
+  },
+  "desc": {
+   "en": "A simple stable designed in the Gridanian glade style.",
+   "zh-CN": "能够饲养陆行鸟的黑衣森林样式小屋。",
+   "zh-TW": "能夠飼養陸行鳥的黑衣森林樣式小屋。",
+   "ja": "チョコボを育成するための黒衣森様式の小屋"
+  }
+ },
+ {
+  "slug": "oasis-chocobo-stable",
+  "en": "Oasis Chocobo Stable",
+  "n": {
+   "en": "Oasis Chocobo Stable",
+   "zh-CN": "绿洲陆行鸟房",
+   "zh-TW": "綠洲陸行鳥房",
+   "ja": "ザナラーン・チョコボステーブル"
+  },
+  "desc": {
+   "en": "A simple stable designed in the Ul'dahn oasis style.",
+   "zh-CN": "能够饲养陆行鸟的萨纳兰样式小屋。",
+   "zh-TW": "能夠飼養陸行鳥的薩納蘭樣式小屋。",
+   "ja": "チョコボを育成するためのザナラーン様式の小屋"
+  }
+ },
+ {
+  "slug": "autumnal-maple-tree",
+  "en": "Autumnal Maple Tree",
+  "n": {
+   "en": "Autumnal Maple Tree",
+   "zh-CN": "秋意枫树",
+   "zh-TW": "秋意楓樹",
+   "ja": "オータムナル・メープルツリー"
+  },
+  "desc": {
+   "en": "A young maple tree transplanted at the moment its leaves began turning red, and magicked so that it might remain in this state for all eternity (or until the spell weakens).",
+   "zh-CN": "将落叶期的枫树进行修剪，红色的枫叶随风飘落，装饰在庭院中十分有意境。",
+   "zh-TW": "將落葉期的楓樹進行修剪，紅色的楓葉隨風飄落，裝飾在庭院中十分有意境。",
+   "ja": "落葉期のカエデの樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "autumnal-ginkgo-tree",
+  "en": "Autumnal Ginkgo Tree",
+  "n": {
+   "en": "Autumnal Ginkgo Tree",
+   "zh-CN": "秋意银杏树",
+   "zh-TW": "秋意銀杏樹",
+   "ja": "オータムナル・ギンキョウツリー"
+  },
+  "desc": {
+   "en": "A young ginkgo tree transplanted at the moment its leaves began turning yellow, and magicked so that it might remain in this state for all eternity (or until the spell weakens).",
+   "zh-CN": "将落叶期的银杏树进行修剪，金黄色的银杏叶随风飘落，装饰在庭院中十分有意境。",
+   "zh-TW": "將落葉期的銀杏樹進行修剪，金黃色的銀杏葉隨風飄落，裝飾在庭院中十分有意境。",
+   "ja": "落葉期のイチョウの樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "maple-leaf-pile",
+  "en": "Maple Leaf Pile",
+  "n": {
+   "en": "Maple Leaf Pile",
+   "zh-CN": "秋意枫叶堆",
+   "zh-TW": "秋意楓葉堆",
+   "ja": "オータムナル・メープルリーフドリフト"
+  },
+  "desc": {
+   "en": "This near-perfect pile of meticulously gathered maple leaves simply begs passersby to throw all self-restraint to the wind and take the plunge.",
+   "zh-CN": "枫树的落叶飘落形成的落叶堆。",
+   "zh-TW": "楓樹的落葉飄落形成的落葉堆。",
+   "ja": "カエデの落ち葉の吹き溜まり"
+  }
+ },
+ {
+  "slug": "ginkgo-leaf-pile",
+  "en": "Ginkgo Leaf Pile",
+  "n": {
+   "en": "Ginkgo Leaf Pile",
+   "zh-CN": "秋意银杏叶堆",
+   "zh-TW": "秋意銀杏葉堆",
+   "ja": "オータムナル・ギンキョウリーフドリフト"
+  },
+  "desc": {
+   "en": "This near-perfect pile of meticulously gathered ginkgo leaves simply begs passersby to throw all self-restraint to the wind and take the plunge.",
+   "zh-CN": "银杏树的落叶飘落形成的落叶堆。",
+   "zh-TW": "銀杏樹的落葉飄落形成的落葉堆。",
+   "ja": "イチョウの落ち葉の吹き溜まり"
+  }
+ },
+ {
+  "slug": "snow-drift",
+  "en": "Snow Drift",
+  "n": {
+   "en": "Snow Drift",
+   "zh-CN": "雪堆",
+   "zh-TW": "雪堆",
+   "ja": "スノードリフト"
+  },
+  "desc": {
+   "en": "A giant pile of pristine white snow. Yellow coloring optional.",
+   "zh-CN": "白雪飘落形成的雪堆。",
+   "zh-TW": "白雪飄落形成的雪堆。",
+   "ja": "真っ白な雪の吹き溜まり"
+  }
+ },
+ {
+  "slug": "firecrest-trophy",
+  "en": "Firecrest Trophy",
+  "n": {
+   "en": "Firecrest Trophy",
+   "zh-CN": "烈火饰章奖杯",
+   "zh-TW": "烈火飾章獎盃",
+   "ja": "ファイアクレスト・トロフィー"
+  },
+  "desc": {
+   "en": "A stunning trophy crafted from an item believed to contain the soul of a legendary dragon.",
+   "zh-CN": "究极的财宝，真正勇者的证明。红色的宝石中封印着传说中的龙的灵魂。",
+   "zh-TW": "究極的財寶，真正勇者的證明。紅色的寶石中封印着傳說中的龍的靈魂。",
+   "ja": "究極の財宝。真の勇者の証。伝説の竜の魂を封じた紅い宝石"
+  }
+ },
+ {
+  "slug": "glass-pumpkin-trophy",
+  "en": "Glass Pumpkin Trophy",
+  "n": {
+   "en": "Glass Pumpkin Trophy",
+   "zh-CN": "玻璃南瓜奖杯",
+   "zh-TW": "玻璃南瓜獎盃",
+   "ja": "ガラスのカボチャ・トロフィー"
+  },
+  "desc": {
+   "en": "A stunning trophy crafted using a flawless crystal pumpkin believed to be imbued with arcane magicks.",
+   "zh-CN": "用带有魔力的水晶玻璃打磨成的南瓜形宝物。",
+   "zh-TW": "用帶有魔力的水晶玻璃打磨成的南瓜形寶物。",
+   "ja": "クリスタル製のカボチャ。魔水晶から削り出されたタリスマン"
+  }
+ },
+ {
+  "slug": "deluxe-pumpkin-candlestand",
+  "en": "Deluxe Pumpkin Candlestand",
+  "n": {
+   "en": "Deluxe Pumpkin Candlestand",
+   "zh-CN": "特制南瓜烛台",
+   "zh-TW": "特製南瓜燭臺",
+   "ja": "パンプキンキャンドルスタンドEX"
+  },
+  "desc": {
+   "en": "A decorated lamppost displayed during All Saints' Wake. Decidedly better than last year's candlestand in ways far too numerous to list here.",
+   "zh-CN": "守护天节时期用来装饰的蜡烛台架。",
+   "zh-TW": "守護天節時期用來裝飾的蠟燭臺架。",
+   "ja": "守護天節の飾り付けに用いられる燭台"
+  }
+ },
+ {
+  "slug": "jumbo-star-topped-starlight-sentinel",
+  "en": "Jumbo Star-topped Starlight Sentinel",
+  "n": {
+   "en": "Jumbo Star-topped Starlight Sentinel",
+   "zh-CN": "特制明星星芒树",
+   "zh-TW": "特製明星星芒樹",
+   "ja": "スタートップ・スターライトツリーEX"
+  },
+  "desc": {
+   "en": "A potted fir, decorated with a star-shaped ornament at its apex. The difference in size with a normal star-topped Starlight sentinel is indiscernible to all but the most observant.",
+   "zh-CN": "顶端放有明星装饰的盆栽树。",
+   "zh-TW": "頂端放有明星裝飾的盆栽樹。",
+   "ja": "星形の飾りを戴く星芒祭用の植木鉢"
+  }
+ },
+ {
+  "slug": "jumbo-moon-topped-starlight-sentinel",
+  "en": "Jumbo Moon-topped Starlight Sentinel",
+  "n": {
+   "en": "Jumbo Moon-topped Starlight Sentinel",
+   "zh-CN": "特制弯月星芒树",
+   "zh-TW": "特製彎月星芒樹",
+   "ja": "クレセントトップ・スターライトツリーEX"
+  },
+  "desc": {
+   "en": "A potted fir, decorated with a crescent moon-shaped ornament at its apex. The difference in size with a normal moon-topped Starlight sentinel is indiscernible to all but the most observant.",
+   "zh-CN": "顶端放有弯月装饰的盆栽树。",
+   "zh-TW": "頂端放有彎月裝飾的盆栽樹。",
+   "ja": "三日月形の飾りを戴く星芒祭用の植木鉢"
+  }
+ },
+ {
+  "slug": "jumbo-sun-topped-starlight-sentinel",
+  "en": "Jumbo Sun-topped Starlight Sentinel",
+  "n": {
+   "en": "Jumbo Sun-topped Starlight Sentinel",
+   "zh-CN": "特制旭日星芒树",
+   "zh-TW": "特製旭日星芒樹",
+   "ja": "サントップ・スターライトツリーEX"
+  },
+  "desc": {
+   "en": "A potted fir, decorated with a sun-shaped ornament at its apex. The difference in size with a normal sun-topped Starlight sentinel is indiscernible to all but the most observant.",
+   "zh-CN": "顶端放有旭日装饰的盆栽树。",
+   "zh-TW": "頂端放有旭日裝飾的盆栽樹。",
+   "ja": "太陽形の飾りを戴く星芒祭用の植木鉢"
+  }
+ },
+ {
+  "slug": "jumbo-snowman",
+  "en": "Jumbo Snowman",
+  "n": {
+   "en": "Jumbo Snowman",
+   "zh-CN": "特制雪人",
+   "zh-TW": "特製雪人",
+   "ja": "スノーマンEX"
+  },
+  "desc": {
+   "en": "Garlean scholars have conducted extensive studies on the subject of why Eorzean snowmen are constructed of only two balls of snow rather than three—the number of choice throughout Ilsabard. The prevailing theory is that extensive studies should not have been conducted on said subject. The difference in size with a normal snowman is indiscernible to all but the most observant.",
+   "zh-CN": "一部分加雷马学者专门研究艾欧泽亚的雪人研究了很长时间，他们想查明为什么这个地区的雪人是由两个雪球组成的，而不是像北洲的习惯一样用三个雪球组成。不过更多的人认为这群蠢货就不应该搞这个研究。",
+   "zh-TW": "一部分加雷馬學者專門研究艾歐澤亞的雪人研究了很長時間，他們想查明爲什麼這個地區的雪人是由兩個雪球組成的，而不是像北洲的習慣一樣用三個雪球組成。不過更多的人認爲這羣蠢貨就不應該搞這個研究。",
+   "ja": "星芒祭の時期に作る雪だるま"
+  }
+ },
+ {
+  "slug": "empty-present-boxes",
+  "en": "Empty Present Boxes",
+  "n": {
+   "en": "Empty Present Boxes",
+   "zh-CN": "空的特制星芒礼箱",
+   "zh-TW": "空的特製星芒禮箱",
+   "ja": "スターライト・ギフトボックスEX"
+  },
+  "desc": {
+   "en": "A box without a present is like a box without a gift is like a bird without a song.",
+   "zh-CN": "空空的礼箱，就像不唱歌的诗人一样没人喜欢。",
+   "zh-TW": "空空的禮箱，就像不唱歌的詩人一樣沒人喜歡。",
+   "ja": "星芒祭の贈り物を入れるための空き箱"
+  }
+ },
+ {
+  "slug": "jumbo-kadomatsu",
+  "en": "Jumbo Kadomatsu",
+  "n": {
+   "en": "Jumbo Kadomatsu",
+   "zh-CN": "特制门松",
+   "zh-TW": "特製門松",
+   "ja": "門松EX"
+  },
+  "desc": {
+   "en": "A mini-tower of sliced bamboo and pine branches—the kadomatsu is a Far Eastern oddity traditionally displayed at homes and in temples for the duration of Heavensturn. The difference in size with a normal kadomatsu is indiscernible to all but the most observant.",
+   "zh-CN": "东方风格的竹松装饰，据说有着迎神入门的效果。",
+   "zh-TW": "東方風格的竹松裝飾，據說有着迎神入門的效果。",
+   "ja": "降神祭に欠かせない東方風の松飾り"
+  }
+ },
+ {
+  "slug": "deluxe-moonfire-lantern",
+  "en": "Deluxe Moonfire Lantern",
+  "n": {
+   "en": "Deluxe Moonfire Lantern",
+   "zh-CN": "特制红莲灯笼",
+   "zh-TW": "特製紅蓮燈籠",
+   "ja": "紅蓮の提灯EX"
+  },
+  "desc": {
+   "en": "An outdoor lantern traditionally placed outside one's home for the duration of the Moonfire Faire. Completely different than last year's lantern, we promise.",
+   "zh-CN": "红莲节时期用来装饰的室外灯笼。",
+   "zh-TW": "紅蓮節時期用來裝飾的室外燈籠。",
+   "ja": "紅蓮祭の飾り付けに用いられる屋外灯"
+  }
+ },
+ {
+  "slug": "deluxe-ornamental-bamboo",
+  "en": "Deluxe Ornamental Bamboo",
+  "n": {
+   "en": "Deluxe Ornamental Bamboo",
+   "zh-CN": "特制东方的许愿竹",
+   "zh-TW": "特製東方的許願竹",
+   "ja": "東方の笹飾りEX"
+  },
+  "desc": {
+   "en": "People hailing from the Far East claim that wishes written on small slips of parchment and tied to the bamboo will come true. (Magical wish parchment sold separately.) Completely different than last year's bamboo, we promise.",
+   "zh-CN": "东方风格的装饰品，在小纸条上写下心中的愿望，并挂到竹子上，以祈盼愿望成真。",
+   "zh-TW": "東方風格的裝飾品，在小紙條上寫下心中的願望，並掛到竹子上，以祈盼願望成真。",
+   "ja": "願い事を書いた短冊を吊す、東方風の笹飾り"
+  }
+ },
+ {
+  "slug": "deluxe-wooden-bucket",
+  "en": "Deluxe Wooden Bucket",
+  "n": {
+   "en": "Deluxe Wooden Bucket",
+   "zh-CN": "特制西瓜水盆",
+   "zh-TW": "特製西瓜水盆",
+   "ja": "西瓜の水桶EX"
+  },
+  "desc": {
+   "en": "A wooden bucket filled with crystal-clear water. Families in the Far East use these receptacles to chill fruit during the hot summer moons. Completely different than last year's bucket, we promise.",
+   "zh-CN": "炎热的夏天，将西瓜放到水中降温是最好的保存方式。",
+   "zh-TW": "炎熱的夏天，將西瓜放到水中降溫是最好的保存方式。",
+   "ja": "東方の果物を冷やすための木桶"
+  }
+ },
+ {
+  "slug": "eastern-cherry-petal-pile",
+  "en": "Eastern Cherry Petal Pile",
+  "n": {
+   "en": "Eastern Cherry Petal Pile",
+   "zh-CN": "东方落樱",
+   "zh-TW": "東方落櫻",
+   "ja": "イースタン・チェリーペタルドリフト"
+  },
+  "desc": {
+   "en": "There is nothing quite as ephemeral as a single pink cherry petal dancing in the wind as it makes its long descent from tree to earth, just as there is nothing quite as exhilarating as jumping in a drift of tens of thousands of said petals.",
+   "zh-CN": "樱花的花瓣飘落形成的花瓣堆。",
+   "zh-TW": "櫻花的花瓣飄落形成的花瓣堆。",
+   "ja": "桜の花びらの吹き溜まり"
+  }
+ },
+ {
+  "slug": "topiary-paissa",
+  "en": "Topiary Paissa",
+  "n": {
+   "en": "Topiary Paissa",
+   "zh-CN": "猴面雀绿雕",
+   "zh-TW": "猴面雀綠雕",
+   "ja": "パイッサトピアリー"
+  },
+  "desc": {
+   "en": "An evergreen shrub, tightly cropped to resemble an adorable paissa.",
+   "zh-CN": "修剪成猴面雀造型的灌木。",
+   "zh-TW": "修剪成猴面雀造型的灌木。",
+   "ja": "パイッサの形に刈り込んだ植え込み"
+  }
+ },
+ {
+  "slug": "moongrass-plot",
+  "en": "Moongrass Plot",
+  "n": {
+   "en": "Moongrass Plot",
+   "zh-CN": "月光草盆栽",
+   "zh-TW": "月光草盆栽",
+   "ja": "ムーングラスガーデン"
+  },
+  "desc": {
+   "en": "A sweet-smelling plant with delicate flowers that blossom only when kissed by the light of the moon.",
+   "zh-CN": "使庭院看起来生机勃勃。",
+   "zh-TW": "使庭院看起來生機勃勃。",
+   "ja": "造園用のゲッコウソウの群生"
+  }
+ },
+ {
+  "slug": "authentic-flame-of-passion",
+  "en": "Authentic Flame of Passion",
+  "n": {
+   "en": "Authentic Flame of Passion",
+   "zh-CN": "特制激情之火",
+   "zh-TW": "特製激情之火",
+   "ja": "パッションフレイムEX"
+  },
+  "desc": {
+   "en": "Authentic outdoor lighting certain to heat up any relationship.",
+   "zh-CN": "室外用的照明器具，爱意的火焰激情四射。",
+   "zh-TW": "室外用的照明器具，愛意的火焰激情四射。",
+   "ja": "愛の炎が燃え上がる屋外用の照明器具"
+  }
+ },
+ {
+  "slug": "authentic-eastern-cherry-tree",
+  "en": "Authentic Eastern Cherry Tree",
+  "n": {
+   "en": "Authentic Eastern Cherry Tree",
+   "zh-CN": "特制东方樱花树",
+   "zh-TW": "特製東方櫻花樹",
+   "ja": "イースタン・チェリーツリーEX"
+  },
+  "desc": {
+   "en": "An authentic cherry tree from the Far East modified through generations of grafting and crossbreeding to bloom perpetually.",
+   "zh-CN": "东方传来的树木，能够开出粉红色的花朵，随风飘落的花瓣十分有意境，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "東方傳來的樹木，能夠開出粉紅色的花朵，隨風飄落的花瓣十分有意境，經過修剪後很適合裝飾在庭院中。",
+   "ja": "薄桃色の花を咲かせる東方の樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "authentic-felt-mat",
+  "en": "Authentic Felt Mat",
+  "n": {
+   "en": "Authentic Felt Mat",
+   "zh-CN": "特制鲜红纤维毯",
+   "zh-TW": "特製鮮紅纖維毯",
+   "ja": "クリムゾン・フェルトマットEX"
+  },
+  "desc": {
+   "en": "A square sheet of authentic crimson-colored felt upon which dolls are displayed for Little Ladies' Day.",
+   "zh-CN": "在女儿节时使用的毯子，同时还附带一把遮阳伞。",
+   "zh-TW": "在女兒節時使用的毯子，同時還附帶一把遮陽傘。",
+   "ja": "プリンセスデーで用いられる不織布製の敷物。日傘付き"
+  }
+ },
+ {
+  "slug": "authentic-archon-egg-tower",
+  "en": "Authentic Archon Egg Tower",
+  "n": {
+   "en": "Authentic Archon Egg Tower",
+   "zh-CN": "特制预言蛋巨塔",
+   "zh-TW": "特製預言蛋巨塔",
+   "ja": "アルコンエッグタワーEX"
+  },
+  "desc": {
+   "en": "An authentic Hatching–tide decoration with tiers of Archon eggs tirelessly hand-painted by the youngest of the Dreamers.",
+   "zh-CN": "由彩蛋装饰成的巨塔。",
+   "zh-TW": "由彩蛋裝飾成的巨塔。",
+   "ja": "エッグハントを彩る飾りタマゴのタワー"
+  }
+ },
+ {
+  "slug": "oriental-chocobo-stable",
+  "en": "Oriental Chocobo Stable",
+  "n": {
+   "en": "Oriental Chocobo Stable",
+   "zh-CN": "东洋陆行鸟房",
+   "zh-TW": "東洋陸行鳥房",
+   "ja": "オリエンタル・チョコボステーブル"
+  },
+  "desc": {
+   "en": "A simple stable designed to resemble those used in the Far East to stable horses.",
+   "zh-CN": "能够饲养陆行鸟的东方样式小屋。",
+   "zh-TW": "能夠飼養陸行鳥的東方樣式小屋。",
+   "ja": "チョコボを育成するための東方様式の小屋"
+  }
+ },
+ {
+  "slug": "eastern-pine",
+  "en": "Eastern Pine",
+  "n": {
+   "en": "Eastern Pine",
+   "zh-CN": "东方松树",
+   "zh-TW": "東方松樹",
+   "ja": "イースタン・パインツリー"
+  },
+  "desc": {
+   "en": "A surprisingly old pine tree, meticulously trimmed for years by trained botanists to remain relatively small, yet maintain the air of a lofty sentinel.",
+   "zh-CN": "原产于东方的松树，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "原產於東方的松樹，經過修剪後很適合裝飾在庭院中。",
+   "ja": "風情ある東方の樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "eastern-teahouse-bench",
+  "en": "Eastern Teahouse Bench",
+  "n": {
+   "en": "Eastern Teahouse Bench",
+   "zh-CN": "东方茶屋长椅",
+   "zh-TW": "東方茶屋長椅",
+   "ja": "東方風茶屋床机"
+  },
+  "desc": {
+   "en": "A wooden folding bench and accompanying papercraft umbrella similar to those found at Hingan teahouses.",
+   "zh-CN": "效仿东方制作的茶屋长椅和伞。",
+   "zh-TW": "效仿東方製作的茶屋長椅和傘。",
+   "ja": "東方の茶屋を模した床机と傘のセット"
+  }
+ },
+ {
+  "slug": "topiary-carbuncle",
+  "en": "Topiary Carbuncle",
+  "n": {
+   "en": "Topiary Carbuncle",
+   "zh-CN": "宝石兽绿雕",
+   "zh-TW": "寶石獸綠雕",
+   "ja": "カーバンクルトピアリー"
+  },
+  "desc": {
+   "en": "A specially bred shrub pruned to the shape of a curious Carbuncle.",
+   "zh-CN": "修剪成宝石兽造型的灌木。",
+   "zh-TW": "修剪成寶石獸造型的灌木。",
+   "ja": "カーバンクルの形に刈り込んだ植え込み"
+  }
+ },
+ {
+  "slug": "moai-statue",
+  "en": "Moai Statue",
+  "n": {
+   "en": "Moai Statue",
+   "zh-CN": "莫艾石像",
+   "zh-TW": "莫艾石像",
+   "ja": "モアイ像"
+  },
+  "desc": {
+   "en": "A giant stone head carved to resemble drawings found in an unknown sailor's diary that one day washed up on the eastern shores of Othard.",
+   "zh-CN": "神秘的石像，用它可以把家门装饰成迷宫入口。",
+   "zh-TW": "神祕的石像，用它可以把家門裝飾成迷宮入口。",
+   "ja": "謎めいたモアイ像。ダンジョンの入口ではない"
+  }
+ },
+ {
+  "slug": "dataqi-standard",
+  "en": "Dataqi Standard",
+  "n": {
+   "en": "Dataqi Standard",
+   "zh-CN": "答塔克部旗帜",
+   "zh-TW": "答塔克部旗幟",
+   "ja": "ダタク族の旗"
+  },
+  "desc": {
+   "en": "A brightly dyed banner bearing the ancestral mark of the Dataq tribe.",
+   "zh-CN": "印有答塔克部标志的旗帜。",
+   "zh-TW": "印有答塔克部標誌的旗幟。",
+   "ja": "ダタク族の印が入った旗"
+  }
+ },
+ {
+  "slug": "gyr-abanian-striking-dummy",
+  "en": "Gyr Abanian Striking Dummy",
+  "n": {
+   "en": "Gyr Abanian Striking Dummy",
+   "zh-CN": "基拉巴尼亚木人",
+   "zh-TW": "基拉巴尼亞木人",
+   "ja": "ギラバニアンダミー"
+  },
+  "desc": {
+   "en": "A striking dummy designed in the Gyr Abanian fashion.",
+   "zh-CN": "基拉巴尼亚样式的训练用木头人。",
+   "zh-TW": "基拉巴尼亞樣式的訓練用木頭人。",
+   "ja": "ギラバニア様式の訓練用木人"
+  }
+ },
+ {
+  "slug": "limited-edition-firefly-lamp",
+  "en": "Limited Edition Firefly Lamp",
+  "n": {
+   "en": "Limited Edition Firefly Lamp",
+   "zh-CN": "特制萤笼",
+   "zh-TW": "特製螢籠",
+   "ja": "蛍籠EX"
+  },
+  "desc": {
+   "en": "A wooden cage weaved in a Far Eastern style. The fireflies within provide very little light, but are pleasing to gaze upon. Available for a short time only!",
+   "zh-CN": "装有原产自东方的萤火虫的笼子。",
+   "zh-TW": "裝有原產自東方的螢火蟲的籠子。",
+   "ja": "東方原産のホタルを封じこめた虫籠"
+  }
+ },
+ {
+  "slug": "limited-edition-rising-pillar",
+  "en": "Limited Edition Rising Pillar",
+  "n": {
+   "en": "Limited Edition Rising Pillar",
+   "zh-CN": "特制新生立柱",
+   "zh-TW": "特製新生立柱",
+   "ja": "ライジングピラーEX"
+  },
+  "desc": {
+   "en": "A festive pillar designed to decorate residences for the Rising. Available for a short time only!",
+   "zh-CN": "用来装饰新生庆典的纪念柱。",
+   "zh-TW": "用來裝飾新生慶典的紀念柱。",
+   "ja": "新生祭を彩るための飾り柱"
+  }
+ },
+ {
+  "slug": "far-eastern-willow",
+  "en": "Far Eastern Willow",
+  "n": {
+   "en": "Far Eastern Willow",
+   "zh-CN": "东方垂柳",
+   "zh-TW": "東方垂柳",
+   "ja": "東方柳"
+  },
+  "desc": {
+   "en": "A cutting from a Far Eastern willow. For display in gardens.",
+   "zh-CN": "原产于东方的垂叶柳树，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "原產於東方的垂葉柳樹，經過修剪後很適合裝飾在庭院中。",
+   "ja": "しだれた葉を持つ東方の樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "toro-lantern",
+  "en": "Toro Lantern",
+  "n": {
+   "en": "Toro Lantern",
+   "zh-CN": "灯笼",
+   "zh-TW": "燈籠",
+   "ja": "灯篭"
+  },
+  "desc": {
+   "en": "Wood lanterns such as the toro are commonplace in gardens across the island nation of Hingashi.",
+   "zh-CN": "充满东方情调的室外用照明器具。",
+   "zh-TW": "充滿東方情調的室外用照明器具。",
+   "ja": "東方風の屋外用の照明器具"
+  }
+ },
+ {
+  "slug": "handmade-snow-drift",
+  "en": "Handmade Snow Drift",
+  "n": {
+   "en": "Handmade Snow Drift",
+   "zh-CN": "特制雪堆",
+   "zh-TW": "特製雪堆",
+   "ja": "スノードリフトEX"
+  },
+  "desc": {
+   "en": "A giant pile of pristine white snow. Crafted by hand, unlike last year's drifts.",
+   "zh-CN": "白雪飘落形成的雪堆。",
+   "zh-TW": "白雪飄落形成的雪堆。",
+   "ja": "真っ白な雪の吹き溜まり"
+  }
+ },
+ {
+  "slug": "rose-wagon",
+  "en": "Rose Wagon",
+  "n": {
+   "en": "Rose Wagon",
+   "zh-CN": "玫瑰花手推车",
+   "zh-TW": "玫瑰花手推車",
+   "ja": "ローズフラワーワゴン"
+  },
+  "desc": {
+   "en": "A pushcart filled with thousands upon thousands of fragrant roses (give or take a few thousand).",
+   "zh-CN": "满载着玫瑰花的手推车。",
+   "zh-TW": "滿載着玫瑰花的手推車。",
+   "ja": "バラの花で満たされた手押し車"
+  }
+ },
+ {
+  "slug": "corner-hedge-partition",
+  "en": "Corner Hedge Partition",
+  "n": {
+   "en": "Corner Hedge Partition",
+   "zh-CN": "转角树篱隔离墙",
+   "zh-TW": "轉角樹籬隔離牆",
+   "ja": "コーナーヘッジパーティション"
+  },
+  "desc": {
+   "en": "A low-growing hedge, expertly pruned and trimmed into the shape of an L.",
+   "zh-CN": "直角形状的灌木树篱。",
+   "zh-TW": "直角形狀的灌木樹籬。",
+   "ja": "L字型の生垣"
+  }
+ },
+ {
+  "slug": "bamboo-copse",
+  "en": "Bamboo Copse",
+  "n": {
+   "en": "Bamboo Copse",
+   "zh-CN": "竹林",
+   "zh-TW": "竹林",
+   "ja": "竹林"
+  },
+  "desc": {
+   "en": "A controlled cluster of bamboo cut from a Yanxian forest for display in private gardens.",
+   "zh-CN": "原产于延夏的翠竹，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "原產於延夏的翠竹，經過修剪後很適合裝飾在庭院中。",
+   "ja": "ヤンサに自生する竹を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "hingan-hot-spring",
+  "en": "Hingan Hot Spring",
+  "n": {
+   "en": "Hingan Hot Spring",
+   "zh-CN": "东洋温泉",
+   "zh-TW": "東洋溫泉",
+   "ja": "白銀温泉"
+  },
+  "desc": {
+   "en": "Scalding water tapped from the very bowels of the land, and collected in a quaint rock pool certain to draw the envy of neighbors.",
+   "zh-CN": "东方样式的豪华温泉。",
+   "zh-TW": "東方樣式的豪華溫泉。",
+   "ja": "東方様式の豪華な温泉"
+  }
+ },
+ {
+  "slug": "authentic-eastern-cherry-petal-pile",
+  "en": "Authentic Eastern Cherry Petal Pile",
+  "n": {
+   "en": "Authentic Eastern Cherry Petal Pile",
+   "zh-CN": "特制东方落樱",
+   "zh-TW": "特製東方落櫻",
+   "ja": "イースタン・チェリーペタルドリフトEX"
+  },
+  "desc": {
+   "en": "There is nothing quite as ephemeral as a single pink cherry petal dancing in the wind as it makes its long descent from tree to earth, just as there is nothing quite as exhilarating as jumping in an authentic reproduction of a drift of tens of thousands of said petals.",
+   "zh-CN": "樱花的花瓣飘落形成的花瓣堆。",
+   "zh-TW": "櫻花的花瓣飄落形成的花瓣堆。",
+   "ja": "桜の花びらの吹き溜まり"
+  }
+ },
+ {
+  "slug": "authentic-rose-wagon",
+  "en": "Authentic Rose Wagon",
+  "n": {
+   "en": "Authentic Rose Wagon",
+   "zh-CN": "特制玫瑰花手推车",
+   "zh-TW": "特製玫瑰花手推車",
+   "ja": "ローズフラワーワゴンEX"
+  },
+  "desc": {
+   "en": "An authentic reproduction of a pushcart filled with thousands upon thousands of fragrant roses (give or take a few thousand).",
+   "zh-CN": "满载着玫瑰花的手推车。",
+   "zh-TW": "滿載着玫瑰花的手推車。",
+   "ja": "バラの花で満たされた手押し車"
+  }
+ },
+ {
+  "slug": "hedge-partition",
+  "en": "Hedge Partition",
+  "n": {
+   "en": "Hedge Partition",
+   "zh-CN": "树篱隔离墙",
+   "zh-TW": "樹籬隔離牆",
+   "ja": "ヘッジパーティション"
+  },
+  "desc": {
+   "en": "A low-growing hedge, oft used to create natural barriers around homes.",
+   "zh-CN": "直线形的灌木树篱。",
+   "zh-TW": "直線形的灌木樹籬。",
+   "ja": "直線型の生垣"
+  }
+ },
+ {
+  "slug": "dodo-message-book-stand",
+  "en": "Dodo Message Book Stand",
+  "n": {
+   "en": "Dodo Message Book Stand",
+   "zh-CN": "渡渡鸟登记台",
+   "zh-TW": "渡渡鳥登記臺",
+   "ja": "ドードー・メッセージブックスタンド"
+  },
+  "desc": {
+   "en": "A message book stand designed in the likeness of a dodo. Not likely to regurgitate on whatever you place upon it.",
+   "zh-CN": "做成渡渡鸟形状的登记台。",
+   "zh-TW": "做成渡渡鳥形狀的登記臺。",
+   "ja": "ドードーを象った屋外用の記帳台"
+  }
+ },
+ {
+  "slug": "odder-otter-bench",
+  "en": "Odder Otter Bench",
+  "n": {
+   "en": "Odder Otter Bench",
+   "zh-CN": "獭獭长椅",
+   "zh-TW": "獺獺長椅",
+   "ja": "ウソウソベンチ"
+  },
+  "desc": {
+   "en": "A bench with an odder otter motif.",
+   "zh-CN": "带有獭獭图案的长椅。",
+   "zh-TW": "帶有獺獺圖案的長椅。",
+   "ja": "ウソウソの意匠を施したベンチ"
+  }
+ },
+ {
+  "slug": "picnic-set",
+  "en": "Picnic Set",
+  "n": {
+   "en": "Picnic Set",
+   "zh-CN": "野餐套装",
+   "zh-TW": "野餐套裝",
+   "ja": "ピクニックセット"
+  },
+  "desc": {
+   "en": "A picnic basket packed with a sumptuous feast. Quilted blanket included. Antling repellent not.",
+   "zh-CN": "野餐用的筐子和餐布。",
+   "zh-TW": "野餐用的筐子和餐布。",
+   "ja": "ピクニック用のシートとバスケット"
+  }
+ },
+ {
+  "slug": "miniature-heaven-on-high",
+  "en": "Miniature Heaven-on-High",
+  "n": {
+   "en": "Miniature Heaven-on-High",
+   "zh-CN": "天之御柱模型",
+   "zh-TW": "天之御柱模型",
+   "ja": "ミニチュア・アメノミハシラ"
+  },
+  "desc": {
+   "en": "Relive the adventure that you have relived over and over again...over again!",
+   "zh-CN": "天之御柱的模型。",
+   "zh-TW": "天之御柱的模型。",
+   "ja": "アメノミハシラの模型"
+  }
+ },
+ {
+  "slug": "odder-otter-andon-lamp",
+  "en": "Odder Otter Andon Lamp",
+  "n": {
+   "en": "Odder Otter Andon Lamp",
+   "zh-CN": "獭獭行灯",
+   "zh-TW": "獺獺行燈",
+   "ja": "ウソウソ行燈"
+  },
+  "desc": {
+   "en": "An outdoor lamp with an odder otter motif.",
+   "zh-CN": "做成獭獭形状的室外行灯。",
+   "zh-TW": "做成獺獺形狀的室外行燈。",
+   "ja": "ウソウソを象った屋外灯"
+  }
+ },
+ {
+  "slug": "bbq-spit",
+  "en": "BBQ Spit",
+  "n": {
+   "en": "BBQ Spit",
+   "zh-CN": "烤肉组合",
+   "zh-TW": "烤肉組合",
+   "ja": "肉焼きセット"
+  },
+  "desc": {
+   "en": "Just what you need to cook meat. A must-have item for any hungry hunter. Of monsters. A monster hunter, you might even say.",
+   "zh-CN": "能将生肉烤成熟肉的怪物猎人必备道具。",
+   "zh-TW": "能將生肉烤成熟肉的怪物獵人必備道具。",
+   "ja": "生肉を焼き、食用肉にすることができるハンターの必需品"
+  }
+ },
+ {
+  "slug": "namazu-effigy",
+  "en": "Namazu Effigy",
+  "n": {
+   "en": "Namazu Effigy",
+   "zh-CN": "鲶鱼精雕像",
+   "zh-TW": "鯰魚精雕像",
+   "ja": "ナマズオねぶた"
+  },
+  "desc": {
+   "en": "A towering and distinctly peculiar Namazu sculpture.",
+   "zh-CN": "鲶鱼精形状的奇特雕像。",
+   "zh-TW": "鯰魚精形狀的奇特雕像。",
+   "ja": "ナマズオを象った妖しげなねぶた"
+  }
+ },
+ {
+  "slug": "birdbath",
+  "en": "Birdbath",
+  "n": {
+   "en": "Birdbath",
+   "zh-CN": "小鸟浴池",
+   "zh-TW": "小鳥浴池",
+   "ja": "バードバス"
+  },
+  "desc": {
+   "en": "An elegant two-tiered water feature. Perhaps doubting that potential purchasers would be patient enough to wait for real ones to appear, the sculptor helpfully attached model birds as well.",
+   "zh-CN": "放在庭院内招引小鸟的喷水。",
+   "zh-TW": "放在庭院內招引小鳥的噴水。",
+   "ja": "鳥を招くための庭置き水盤"
+  }
+ },
+ {
+  "slug": "garden-gravel",
+  "en": "Garden Gravel",
+  "n": {
+   "en": "Garden Gravel",
+   "zh-CN": "园艺砂砾",
+   "zh-TW": "園藝砂礫",
+   "ja": "ガーデニンググラベル"
+  },
+  "desc": {
+   "en": "Myriad tiny rocks that await your landscaping pleasure.",
+   "zh-CN": "用于园艺的砂砾。",
+   "zh-TW": "用於園藝的砂礫。",
+   "ja": "ガーデニング用の砂利"
+  }
+ },
+ {
+  "slug": "brick-garden-circle",
+  "en": "Brick Garden Circle",
+  "n": {
+   "en": "Brick Garden Circle",
+   "zh-CN": "庭园砖地",
+   "zh-TW": "庭園磚地",
+   "ja": "ラウンドブリック"
+  },
+  "desc": {
+   "en": "All these squares make a circle.",
+   "zh-CN": "圆形的砖地板。",
+   "zh-TW": "圓形的磚地板。",
+   "ja": "円形のレンガ床"
+  }
+ },
+ {
+  "slug": "simple-treehouse",
+  "en": "Simple Treehouse",
+  "n": {
+   "en": "Simple Treehouse",
+   "zh-CN": "简易树屋",
+   "zh-TW": "簡易樹屋",
+   "ja": "シンプルツリーハウス"
+  },
+  "desc": {
+   "en": "No girls allowed. And while we're at it—no boys, either.",
+   "zh-CN": "建在树木上的平台。",
+   "zh-TW": "建在樹木上的平臺。",
+   "ja": "デッキが設けられた樹木"
+  }
+ },
+ {
+  "slug": "botanist-s-garden",
+  "en": "Botanist's Garden",
+  "n": {
+   "en": "Botanist's Garden",
+   "zh-CN": "园艺工的菜园",
+   "zh-TW": "園藝工的菜園",
+   "ja": "園芸師の菜園"
+  },
+  "desc": {
+   "en": "A vegetable patch so lovingly tended that it could only have been cultivated by an expert.",
+   "zh-CN": "园艺工辛辛苦苦培育的菜园。",
+   "zh-TW": "園藝工辛辛苦苦培育的菜園。",
+   "ja": "園芸師が大切に育てた菜園"
+  }
+ },
+ {
+  "slug": "big-one-festival-float",
+  "en": "Big One Festival Float",
+  "n": {
+   "en": "Big One Festival Float",
+   "zh-CN": "大鲶山车",
+   "zh-TW": "大鯰山車",
+   "ja": "大鯰山車"
+  },
+  "desc": {
+   "en": "Though this towering vehicle is meant for use in parades celebrating the Big One, a modern Namazu, rather than said venerable ancestor, is depicted atop it. Is this a means of increasing its appeal among the common Namazu, or simply the result of Gyoshin's brethren refusing to allow him to melt down any more koban to make large golden fish statues? Those who do not purchase *A Meditation on the Metaphysics of Merrymaking* may never know.",
+   "zh-CN": "豪华的鲶鱼精族山车。",
+   "zh-TW": "豪華的鯰魚精族山車。",
+   "ja": "あっぱれなナマズオ族の山車"
+  }
+ },
+ {
+  "slug": "fallen-tree",
+  "en": "Fallen Tree",
+  "n": {
+   "en": "Fallen Tree",
+   "zh-CN": "倒树",
+   "zh-TW": "倒樹",
+   "ja": "フォーレンツリー"
+  },
+  "desc": {
+   "en": "The perfect yard ornament for those who wish to issue a reminder to passersby that they too shall someday fall and be reclaimed by the earth.",
+   "zh-CN": "使人感到岁月变迁的倒木。",
+   "zh-TW": "使人感到歲月變遷的倒木。",
+   "ja": "月日の移ろいを感じさせる倒木"
+  }
+ },
+ {
+  "slug": "crystarium-striking-dummy",
+  "en": "Crystarium Striking Dummy",
+  "n": {
+   "en": "Crystarium Striking Dummy",
+   "zh-CN": "水晶都木人",
+   "zh-TW": "水晶都木人",
+   "ja": "クリスタリウムダミー"
+  },
+  "desc": {
+   "en": "A striking dummy designed in the Crystarium fashion.",
+   "zh-CN": "水晶都样式的训练用木人。",
+   "zh-TW": "水晶都樣式的訓練用木人。",
+   "ja": "クリスタリウム様式の訓練用木人"
+  }
+ },
+ {
+  "slug": "firebloom",
+  "en": "Firebloom",
+  "n": {
+   "en": "Firebloom",
+   "zh-CN": "灯火草",
+   "zh-TW": "燈火草",
+   "ja": "灯火草"
+  },
+  "desc": {
+   "en": "A delicate plant that casts a gentle glow upon its surrounds.",
+   "zh-CN": "具有发光性质的植物。",
+   "zh-TW": "具有發光性質的植物。",
+   "ja": "発光する性質を持つ植物"
+  }
+ },
+ {
+  "slug": "seastone-brazier",
+  "en": "Seastone Brazier",
+  "n": {
+   "en": "Seastone Brazier",
+   "zh-CN": "海石火盆",
+   "zh-TW": "海石火盆",
+   "ja": "シーストーンブレイザー"
+  },
+  "desc": {
+   "en": "A naturally luminous stone from the deep, mounted on a brazier in the Ondo fashion.",
+   "zh-CN": "用产自海底的燐光石制作的烛台。",
+   "zh-TW": "用產自海底的燐光石製作的燭臺。",
+   "ja": "海底で産する燐光石を用いた燭台"
+  }
+ },
+ {
+  "slug": "portable-pool",
+  "en": "Portable Pool",
+  "n": {
+   "en": "Portable Pool",
+   "zh-CN": "携带型泳池",
+   "zh-TW": "攜帶型泳池",
+   "ja": "ポータブルプール"
+  },
+  "desc": {
+   "en": "A peculiar rubber enclosure that can be filled with water for purposes of mild entertainment.",
+   "zh-CN": "适合即兴游玩的携带式泳池。",
+   "zh-TW": "適合即興遊玩的攜帶式泳池。",
+   "ja": "楽しいひと時に最適な携帯式プール"
+  }
+ },
+ {
+  "slug": "wind-chime-stand",
+  "en": "Wind Chime Stand",
+  "n": {
+   "en": "Wind Chime Stand",
+   "zh-CN": "卖风铃的摊位",
+   "zh-TW": "賣風鈴的攤位",
+   "ja": "風鈴売りの屋台"
+  },
+  "desc": {
+   "en": "Nothing says “summer” like the dissonant tinkling of half a dozen wind chimes at once.",
+   "zh-CN": "专卖烘托红莲节气氛的风铃的摊位。",
+   "zh-TW": "專賣烘托紅蓮節氣氛的風鈴的攤位。",
+   "ja": "紅蓮祭を彩る風鈴売りの屋台"
+  }
+ },
+ {
+  "slug": "vegetable-garden",
+  "en": "Vegetable Garden",
+  "n": {
+   "en": "Vegetable Garden",
+   "zh-CN": "蔬菜园",
+   "zh-TW": "蔬菜園",
+   "ja": "ベジタブルガーデン"
+  },
+  "desc": {
+   "en": "An enormous patch of soil for growing vegetables, complete with a selection of verdant crops.",
+   "zh-CN": "用于点缀庭院的蔬菜园。",
+   "zh-TW": "用於點綴庭院的蔬菜園。",
+   "ja": "造園用の野菜畑"
+  }
+ },
+ {
+  "slug": "cedar-tree",
+  "en": "Cedar Tree",
+  "n": {
+   "en": "Cedar Tree",
+   "zh-CN": "雪松树",
+   "zh-TW": "雪松樹",
+   "ja": "シーダーツリー"
+  },
+  "desc": {
+   "en": "A towering cedar tree that retains its vibrant green throughout the year.",
+   "zh-CN": "用于点缀庭院的雪松树。",
+   "zh-TW": "用於點綴庭院的雪松樹。",
+   "ja": "造園用に栽培された杉の木"
+  }
+ },
+ {
+  "slug": "armorer-s-stall",
+  "en": "Armorer's Stall",
+  "n": {
+   "en": "Armorer's Stall",
+   "zh-CN": "防具摊",
+   "zh-TW": "防具攤",
+   "ja": "防具商の露店"
+  },
+  "desc": {
+   "en": "Place this stall in your garden to play at armorer whenever the mood takes you.",
+   "zh-CN": "能够让人体验防具商心情的摊铺。",
+   "zh-TW": "能夠讓人體驗防具商心情的攤鋪。",
+   "ja": "防具商の気分が味わえる露店"
+  }
+ },
+ {
+  "slug": "weaponsmith-s-stall",
+  "en": "Weaponsmith's Stall",
+  "n": {
+   "en": "Weaponsmith's Stall",
+   "zh-CN": "武器摊",
+   "zh-TW": "武器攤",
+   "ja": "武器商の露店"
+  },
+  "desc": {
+   "en": "Place this stall in your garden to play at weaponsmith whenever the mood takes you.",
+   "zh-CN": "能够让人体验武器商心情的摊铺。",
+   "zh-TW": "能夠讓人體驗武器商心情的攤鋪。",
+   "ja": "武器商の気分が味わえる露店"
+  }
+ },
+ {
+  "slug": "jeweler-s-stall",
+  "en": "Jeweler's Stall",
+  "n": {
+   "en": "Jeweler's Stall",
+   "zh-CN": "珠宝摊",
+   "zh-TW": "珠寶攤",
+   "ja": "宝飾商の露店"
+  },
+  "desc": {
+   "en": "Place this stall in your garden to play at jeweler whenever the mood takes you.",
+   "zh-CN": "能够让人体验珠宝商心情的摊铺。",
+   "zh-TW": "能夠讓人體驗珠寶商心情的攤鋪。",
+   "ja": "宝飾商の気分が味わえる露店"
+  }
+ },
+ {
+  "slug": "florist-s-stall",
+  "en": "Florist's Stall",
+  "n": {
+   "en": "Florist's Stall",
+   "zh-CN": "鲜花摊",
+   "zh-TW": "鮮花攤",
+   "ja": "生花商の露店"
+  },
+  "desc": {
+   "en": "Place this stall in your garden to play at florist whenever the mood takes you.",
+   "zh-CN": "能够让人体验鲜花商心情的摊铺。",
+   "zh-TW": "能夠讓人體驗鮮花商心情的攤鋪。",
+   "ja": "生花商の気分が味わえる露店"
+  }
+ },
+ {
+  "slug": "baker-s-stall",
+  "en": "Baker's Stall",
+  "n": {
+   "en": "Baker's Stall",
+   "zh-CN": "面包摊",
+   "zh-TW": "麪包攤",
+   "ja": "パン職人の露店"
+  },
+  "desc": {
+   "en": "Place this stall in your garden to play at baker whenever the mood takes you.",
+   "zh-CN": "能够让人体验面包师心情的摊铺。",
+   "zh-TW": "能夠讓人體驗麪包師心情的攤鋪。",
+   "ja": "パン職人の気分が味わえる露店"
+  }
+ },
+ {
+  "slug": "fruiterer-s-stall",
+  "en": "Fruiterer's Stall",
+  "n": {
+   "en": "Fruiterer's Stall",
+   "zh-CN": "水果摊",
+   "zh-TW": "水果攤",
+   "ja": "果物商の露店"
+  },
+  "desc": {
+   "en": "Place this stall in your garden to play at fruiterer whenever the mood takes you.",
+   "zh-CN": "能够让人体验水果商心情的摊铺。",
+   "zh-TW": "能夠讓人體驗水果商心情的攤鋪。",
+   "ja": "果物商の気分が味わえる露店"
+  }
+ },
+ {
+  "slug": "greengrocer-s-stall",
+  "en": "Greengrocer's Stall",
+  "n": {
+   "en": "Greengrocer's Stall",
+   "zh-CN": "蔬菜摊",
+   "zh-TW": "蔬菜攤",
+   "ja": "青果商の露店"
+  },
+  "desc": {
+   "en": "Place this stall in your garden to play at greengrocer whenever the mood takes you.",
+   "zh-CN": "能够让人体验蔬菜商心情的摊铺。",
+   "zh-TW": "能夠讓人體驗蔬菜商心情的攤鋪。",
+   "ja": "青果商の気分が味わえる露店"
+  }
+ },
+ {
+  "slug": "bookseller-s-stall",
+  "en": "Bookseller's Stall",
+  "n": {
+   "en": "Bookseller's Stall",
+   "zh-CN": "书摊",
+   "zh-TW": "書攤",
+   "ja": "書物商の露店"
+  },
+  "desc": {
+   "en": "Place this stall in your garden to play at bookseller whenever the mood takes you.",
+   "zh-CN": "能够让人体验书商心情的摊铺。",
+   "zh-TW": "能夠讓人體驗書商心情的攤鋪。",
+   "ja": "書物商の気分が味わえる露店"
+  }
+ },
+ {
+  "slug": "enchanter-s-stall",
+  "en": "Enchanter's Stall",
+  "n": {
+   "en": "Enchanter's Stall",
+   "zh-CN": "道具摊",
+   "zh-TW": "道具攤",
+   "ja": "道具商の露店"
+  },
+  "desc": {
+   "en": "Place this stall in your garden to play at enchanter whenever the mood takes you.",
+   "zh-CN": "能够让人体验道具商心情的摊铺。",
+   "zh-TW": "能夠讓人體驗道具商心情的攤鋪。",
+   "ja": "道具商の気分が味わえる露店"
+  }
+ },
+ {
+  "slug": "butcher-s-stall",
+  "en": "Butcher's Stall",
+  "n": {
+   "en": "Butcher's Stall",
+   "zh-CN": "精肉摊",
+   "zh-TW": "精肉攤",
+   "ja": "精肉商の露店"
+  },
+  "desc": {
+   "en": "Place this stall in your garden to play at butcher whenever the mood takes you.",
+   "zh-CN": "能够让人体验精肉商心情的摊铺。",
+   "zh-TW": "能夠讓人體驗精肉商心情的攤鋪。",
+   "ja": "精肉商の気分が味わえる露店"
+  }
+ },
+ {
+  "slug": "wooden-deck",
+  "en": "Wooden Deck",
+  "n": {
+   "en": "Wooden Deck",
+   "zh-CN": "木制平台",
+   "zh-TW": "木製平臺",
+   "ja": "ウッドデッキ"
+  },
+  "desc": {
+   "en": "A large, rectangular section of wooden decking, complete with low fences, flower baskets, and a table laid with tea for two.",
+   "zh-CN": "朴素的木制组合平台。",
+   "zh-TW": "樸素的木製組合平臺。",
+   "ja": "素朴な木組みのデッキ"
+  }
+ },
+ {
+  "slug": "dohn-trellis",
+  "en": "Dohn Trellis",
+  "n": {
+   "en": "Dohn Trellis",
+   "zh-CN": "禁园花架",
+   "zh-TW": "禁園花架",
+   "ja": "ドォーヌ・トレリス"
+  },
+  "desc": {
+   "en": "Make even the fae jealous with this trellis, designed to evoke the verdant splendor of Dohn Mheg.",
+   "zh-CN": "多恩美格禁园风格的花架。",
+   "zh-TW": "多恩美格禁園風格的花架。",
+   "ja": "ドォーヌ・メグ風のトレリス"
+  }
+ },
+ {
+  "slug": "lakeland-elf-tree",
+  "en": "Lakeland Elf Tree",
+  "n": {
+   "en": "Lakeland Elf Tree",
+   "zh-CN": "雷克兰德妖精树",
+   "zh-TW": "雷克蘭德妖精樹",
+   "ja": "レイクランド・エルヴンツリー"
+  },
+  "desc": {
+   "en": "Elf trees are in such high demand that some are grown for the express purpose of being cut down and sold.",
+   "zh-CN": "原产于雷克兰德地区的妖精树，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "原產於雷克蘭德地區的妖精樹，經過修剪後很適合裝飾在庭院中。",
+   "ja": "レイクランドに自生する樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "lakeland-flower-garden",
+  "en": "Lakeland Flower Garden",
+  "n": {
+   "en": "Lakeland Flower Garden",
+   "zh-CN": "雷克兰德花丛",
+   "zh-TW": "雷克蘭德花叢",
+   "ja": "レイクランド・フラワーガーデン"
+  },
+  "desc": {
+   "en": "Lakeland's most arresting flowers right in your own home.",
+   "zh-CN": "用于点缀庭院的雷克兰德花草。",
+   "zh-TW": "用於點綴庭院的雷克蘭德花草。",
+   "ja": "造園用のレイクランド野草の群生"
+  }
+ },
+ {
+  "slug": "brick-garden-wall",
+  "en": "Brick Garden Wall",
+  "n": {
+   "en": "Brick Garden Wall",
+   "zh-CN": "花园砖墙",
+   "zh-TW": "花園磚牆",
+   "ja": "ガーデン・ブリックパーティション"
+  },
+  "desc": {
+   "en": "A portion of brick wall that would complement nearly any garden, be it full of flowers or full of more subdued plant life.",
+   "zh-CN": "盛开着五颜六色美丽花朵的砖墙。",
+   "zh-TW": "盛開着五顏六色美麗花朵的磚牆。",
+   "ja": "色彩豊かな花が咲くレンガ調の間仕切り板"
+  }
+ },
+ {
+  "slug": "nomad-s-tent",
+  "en": "Nomad's Tent",
+  "n": {
+   "en": "Nomad's Tent",
+   "zh-CN": "游牧民的帐篷",
+   "zh-TW": "游牧民的帳篷",
+   "ja": "遊牧民の天幕"
+  },
+  "desc": {
+   "en": "A little piece of the Azim Steppe, created by trade-minded Xaela using traditional methods and materials.",
+   "zh-CN": "太阳神草原的游牧民惯用的传统帐篷。",
+   "zh-TW": "太陽神草原的游牧民慣用的傳統帳篷。",
+   "ja": "アジムステップの遊牧民に伝わる伝統的な天幕"
+  }
+ },
+ {
+  "slug": "red-brick-kitchen",
+  "en": "Red Brick Kitchen",
+  "n": {
+   "en": "Red Brick Kitchen",
+   "zh-CN": "户外红砖厨房",
+   "zh-TW": "戶外紅磚廚房",
+   "ja": "レッドブリックキッチン"
+  },
+  "desc": {
+   "en": "This rustic outdoor cooking facility is more than capable of keeping any amount of garden party guests well fed.",
+   "zh-CN": "用红砖搭建的户外厨房。",
+   "zh-TW": "用紅磚搭建的戶外廚房。",
+   "ja": "赤レンガで組まれた屋外用キッチン"
+  }
+ },
+ {
+  "slug": "wooden-footbridge",
+  "en": "Wooden Footbridge",
+  "n": {
+   "en": "Wooden Footbridge",
+   "zh-CN": "木制步行桥",
+   "zh-TW": "木製步行橋",
+   "ja": "ウッドフットブリッジ"
+  },
+  "desc": {
+   "en": "For those who find walking on the ground simply too pedestrian.",
+   "zh-CN": "用于保护地面不被踩踏的木制台子。",
+   "zh-TW": "用於保護地面不被踩踏的木製臺子。",
+   "ja": "地面を踏み荒らさないための木製の足場"
+  }
+ },
+ {
+  "slug": "gulg-planter",
+  "en": "Gulg Planter",
+  "n": {
+   "en": "Gulg Planter",
+   "zh-CN": "格鲁格盆栽",
+   "zh-TW": "格魯格盆栽",
+   "ja": "グルグプランター"
+  },
+  "desc": {
+   "en": "An alpine shrub from the heights of Kholusia.",
+   "zh-CN": "伪造天界样式的盆栽。",
+   "zh-TW": "僞造天界樣式的盆栽。",
+   "ja": "偽装天界風の鉢植え"
+  }
+ },
+ {
+  "slug": "oriental-wooden-deck",
+  "en": "Oriental Wooden Deck",
+  "n": {
+   "en": "Oriental Wooden Deck",
+   "zh-CN": "东方木制平台",
+   "zh-TW": "東方木製平臺",
+   "ja": "オリエンタルウッドデッキ"
+  },
+  "desc": {
+   "en": "A slatted deck in the Far Eastern fashion, perfect for quiet contemplation or loud consumption of dango.",
+   "zh-CN": "东方样式的木制组合平台。",
+   "zh-TW": "東方樣式的木製組合平臺。",
+   "ja": "東方風の木組みの濡れ縁"
+  }
+ },
+ {
+  "slug": "water-bomb-stand",
+  "en": "Water Bomb Stand",
+  "n": {
+   "en": "Water Bomb Stand",
+   "zh-CN": "卖水球的摊位",
+   "zh-TW": "賣水球的攤位",
+   "ja": "水風船売りの屋台"
+  },
+  "desc": {
+   "en": "Bring home this hallmark of the Moonfire Faire and pelt passersby with aquatic surprises from the comfort of your very own front garden!",
+   "zh-CN": "专卖烘托红莲节气氛的水球的摊位。",
+   "zh-TW": "專賣烘托紅蓮節氣氛的水球的攤位。",
+   "ja": "紅蓮祭を彩る水風船売りの屋台"
+  }
+ },
+ {
+  "slug": "authentic-portable-pool",
+  "en": "Authentic Portable Pool",
+  "n": {
+   "en": "Authentic Portable Pool",
+   "zh-CN": "特制携带型泳池",
+   "zh-TW": "特製攜帶型泳池",
+   "ja": "ポータブルプールEX"
+  },
+  "desc": {
+   "en": "A peculiar rubber enclosure that can be filled with water for purposes of mild entertainment. Maintains an authentic “new rubber” smell many moons after the initial purchase.",
+   "zh-CN": "适合即兴游玩的携带式泳池。",
+   "zh-TW": "適合即興遊玩的攜帶式泳池。",
+   "ja": "楽しいひと時に最適な携帯式プール"
+  }
+ },
+ {
+  "slug": "authentic-wind-chime-stand",
+  "en": "Authentic Wind Chime Stand",
+  "n": {
+   "en": "Authentic Wind Chime Stand",
+   "zh-CN": "卖风铃的特制摊位",
+   "zh-TW": "賣風鈴的特製攤位",
+   "ja": "風鈴売りの屋台EX"
+  },
+  "desc": {
+   "en": "Nothing says “summer” like the dissonant tinkling of half a dozen wind chimes at once. Those in doubt of its authenticity will be pleased to discover that the chimes do in fact ring in response to wafts of air, and are not mechanically controlled, unlike more complex but far less charming devices such as orchestrions.",
+   "zh-CN": "专卖烘托红莲节气氛的风铃的摊位。",
+   "zh-TW": "專賣烘托紅蓮節氣氛的風鈴的攤位。",
+   "ja": "紅蓮祭を彩る風鈴売りの屋台"
+  }
+ },
+ {
+  "slug": "authentic-pumpkin-carriage",
+  "en": "Authentic Pumpkin Carriage",
+  "n": {
+   "en": "Authentic Pumpkin Carriage",
+   "zh-CN": "特制南瓜马车",
+   "zh-TW": "特製南瓜馬車",
+   "ja": "パンプキンキャリッジEX"
+  },
+  "desc": {
+   "en": "Someday your prince (or princess) will come. Probably not in this, though. The smell, however, is said to authentically resemble that of real pumpkins, though this is seldom considered a priority by potential passengers.",
+   "zh-CN": "以巨大南瓜为原型制作出来的马车。",
+   "zh-TW": "以巨大南瓜爲原型製作出來的馬車。",
+   "ja": "巨大なカボチャを模した馬車"
+  }
+ },
+ {
+  "slug": "toymaker-s-show-window",
+  "en": "Toymaker's Show Window",
+  "n": {
+   "en": "Toymaker's Show Window",
+   "zh-CN": "玩偶展示窗",
+   "zh-TW": "玩偶展示窗",
+   "ja": "ぬいぐるみショーウィンドウ"
+  },
+  "desc": {
+   "en": "A perfect demonstration of one's toy-making abilities, or perhaps “toy-buying” abilities.",
+   "zh-CN": "用来展示玩偶的展示窗。",
+   "zh-TW": "用來展示玩偶的展示窗。",
+   "ja": "中にぬいぐるみを飾ったショーウィンドウ"
+  }
+ },
+ {
+  "slug": "designer-s-show-window",
+  "en": "Designer's Show Window",
+  "n": {
+   "en": "Designer's Show Window",
+   "zh-CN": "服装展示窗",
+   "zh-TW": "服裝展示窗",
+   "ja": "アパレルショーウィンドウ"
+  },
+  "desc": {
+   "en": "Placing anything in a glass display case has the effect of making it appear expensive and luxurious, which many designers rely on to justify their ludicrously high prices.",
+   "zh-CN": "用来展示服装的展示窗。",
+   "zh-TW": "用來展示服裝的展示窗。",
+   "ja": "中に洋服を飾ったショーウィンドウ"
+  }
+ },
+ {
+  "slug": "smith-s-show-window",
+  "en": "Smith's Show Window",
+  "n": {
+   "en": "Smith's Show Window",
+   "zh-CN": "武器展示窗",
+   "zh-TW": "武器展示窗",
+   "ja": "アーマリーショーウィンドウ"
+  },
+  "desc": {
+   "en": "In case of emergency, smash glass and commence hacking and slashing.",
+   "zh-CN": "用来展示武器的展示窗。",
+   "zh-TW": "用來展示武器的展示窗。",
+   "ja": "中に武具を飾ったショーウィンドウ"
+  }
+ },
+ {
+  "slug": "artist-s-show-window",
+  "en": "Artist's Show Window",
+  "n": {
+   "en": "Artist's Show Window",
+   "zh-CN": "画作展示窗",
+   "zh-TW": "畫作展示窗",
+   "ja": "ペインティングショーウィンドウ"
+  },
+  "desc": {
+   "en": "Though it is customary to charge for admission to art exhibitions, passersby can experience these works of fine art for free.",
+   "zh-CN": "用来展示画作的展示窗。",
+   "zh-TW": "用來展示畫作的展示窗。",
+   "ja": "中に絵画を飾ったショーウィンドウ"
+  }
+ },
+ {
+  "slug": "baker-s-show-window",
+  "en": "Baker's Show Window",
+  "n": {
+   "en": "Baker's Show Window",
+   "zh-CN": "烘焙展示窗",
+   "zh-TW": "烘焙展示窗",
+   "ja": "ペストリーショーウィンドウ"
+  },
+  "desc": {
+   "en": "When the sunlight hits the glass at the right angle, it has the effect of keeping the bread inside warm.",
+   "zh-CN": "用来展示面包的展示窗。",
+   "zh-TW": "用來展示麪包的展示窗。",
+   "ja": "中にパンを飾ったショーウィンドウ"
+  }
+ },
+ {
+  "slug": "snow-dusted-tree",
+  "en": "Snow-dusted Tree",
+  "n": {
+   "en": "Snow-dusted Tree",
+   "zh-CN": "白雪覆盖的树",
+   "zh-TW": "白雪覆蓋的樹",
+   "ja": "スノウダステッドツリー"
+  },
+  "desc": {
+   "en": "Few realize the “snow” that rests on the boughs is in fact cake icing.",
+   "zh-CN": "树枝上积满了白雪的树。",
+   "zh-TW": "樹枝上積滿了白雪的樹。",
+   "ja": "雪の積もったもみの木"
+  }
+ },
+ {
+  "slug": "parkside-tree",
+  "en": "Parkside Tree",
+  "n": {
+   "en": "Parkside Tree",
+   "zh-CN": "景观树",
+   "zh-TW": "景觀樹",
+   "ja": "パークサイドツリー"
+  },
+  "desc": {
+   "en": "The parkside quality of this tree does depend rather heavily on its vicinity to a park.",
+   "zh-CN": "用红砖围起来的街边树。",
+   "zh-TW": "用紅磚圍起來的街邊樹。",
+   "ja": "レンガ枠で囲われた街路樹"
+  }
+ },
+ {
+  "slug": "brick-paving",
+  "en": "Brick Paving",
+  "n": {
+   "en": "Brick Paving",
+   "zh-CN": "方形砖地",
+   "zh-TW": "方形磚地",
+   "ja": "スクウェアペイヴド・ブリック"
+  },
+  "desc": {
+   "en": "All these squares make a square.",
+   "zh-CN": "铺成四边形的红砖地面。",
+   "zh-TW": "鋪成四邊形的紅磚地面。",
+   "ja": "四角形に敷かれたレンガ床"
+  }
+ },
+ {
+  "slug": "la-noscean-grape-pergola",
+  "en": "La Noscean Grape Pergola",
+  "n": {
+   "en": "La Noscean Grape Pergola",
+   "zh-CN": "海滨葡萄藤架",
+   "zh-TW": "海濱葡萄藤架",
+   "ja": "ラノシアン・グレープパーゴラ"
+  },
+  "desc": {
+   "en": "This wooden frame gives grape vines the means to climb to greater heights, in a quite literal sense.",
+   "zh-CN": "培育着低地葡萄的藤架。",
+   "zh-TW": "培育着低地葡萄的藤架。",
+   "ja": "ローランドグレープの生い茂ったパーゴラ"
+  }
+ },
+ {
+  "slug": "fruitful-fountain",
+  "en": "Fruitful Fountain",
+  "n": {
+   "en": "Fruitful Fountain",
+   "zh-CN": "植树喷泉",
+   "zh-TW": "植樹噴泉",
+   "ja": "プランターファウンテン"
+  },
+  "desc": {
+   "en": "Where most fountains would produce an upward-pointing spray of water, this one includes what experts call an “arboreal protrusion.”",
+   "zh-CN": "中心部分种着小树的喷泉。",
+   "zh-TW": "中心部分種着小樹的噴泉。",
+   "ja": "中心に小ぶりの木が植樹された噴水"
+  }
+ },
+ {
+  "slug": "plot-of-hydrangeas",
+  "en": "Plot of Hydrangeas",
+  "n": {
+   "en": "Plot of Hydrangeas",
+   "zh-CN": "绣球花丛",
+   "zh-TW": "繡球花叢",
+   "ja": "ハイドレインジャガーデン"
+  },
+  "desc": {
+   "en": "Lush hydrangea bushes with flowers blooming in all their vibrant glory.",
+   "zh-CN": "用于点缀庭院的绣球花花丛。",
+   "zh-TW": "用於點綴庭院的繡球花花叢。",
+   "ja": "造園用のハイドレインジャの群生"
+  }
+ },
+ {
+  "slug": "glade-gazebo",
+  "en": "Glade Gazebo",
+  "n": {
+   "en": "Glade Gazebo",
+   "zh-CN": "林间凉亭",
+   "zh-TW": "林間涼亭",
+   "ja": "シュラウド・ガゼボ"
+  },
+  "desc": {
+   "en": "A gazebo designed in the glade fashion.",
+   "zh-CN": "黑衣森林样式的凉亭。",
+   "zh-TW": "黑衣森林樣式的涼亭。",
+   "ja": "黒衣森様式の東屋"
+  }
+ },
+ {
+  "slug": "garden-tool-shelf",
+  "en": "Garden Tool Shelf",
+  "n": {
+   "en": "Garden Tool Shelf",
+   "zh-CN": "庭园工具架",
+   "zh-TW": "庭園工具架",
+   "ja": "ガーデンツールシェルフ"
+  },
+  "desc": {
+   "en": "A wooden shelf used for storing gardening implements.",
+   "zh-CN": "摆放着打理庭园工具的木制架子。",
+   "zh-TW": "擺放着打理庭園工具的木製架子。",
+   "ja": "庭の手入れに用いる道具が収納された木製棚"
+  }
+ },
+ {
+  "slug": "eastern-wisteria",
+  "en": "Eastern Wisteria",
+  "n": {
+   "en": "Eastern Wisteria",
+   "zh-CN": "东方紫藤树",
+   "zh-TW": "東方紫藤樹",
+   "ja": "イースタン・ウィステリアツリー"
+  },
+  "desc": {
+   "en": "A tree native to the Far East that produces hanging clusters of light-purple flowers, pruned to fit in a garden.",
+   "zh-CN": "绽放着紫色花朵的东方树木，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "綻放着紫色花朵的東方樹木，經過修剪後很適合裝飾在庭院中。",
+   "ja": "薄紫色の花を咲かせる東方の樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "moonfire-mask-stall",
+  "en": "Moonfire Mask Stall",
+  "n": {
+   "en": "Moonfire Mask Stall",
+   "zh-CN": "卖面具的摊位",
+   "zh-TW": "賣面具的攤位",
+   "ja": "お面売りの屋台"
+  },
+  "desc": {
+   "en": "A stall with an assortment of colorful masks on display, as seen during the Moonfire Faire festivities.",
+   "zh-CN": "充满红莲节气氛的卖面具的摊位。",
+   "zh-TW": "充滿紅蓮節氣氛的賣面具的攤位。",
+   "ja": "紅蓮祭を彩るお面売りの屋台"
+  }
+ },
+ {
+  "slug": "forging-bench",
+  "en": "Forging Bench",
+  "n": {
+   "en": "Forging Bench",
+   "zh-CN": "锻冶工作台",
+   "zh-TW": "鍛冶工作臺",
+   "ja": "フォージワークベンチ"
+  },
+  "desc": {
+   "en": "An outdoor furnishing perfect for those who prefer to do their smithing out in the open. After all, attempting to do so in an enclosed space does come with the rather bothersome side effects brought on by smoke inhalation.",
+   "zh-CN": "锻冶工房的工作台。",
+   "zh-TW": "鍛冶工房的工作臺。",
+   "ja": "鍛冶場の作業台"
+  }
+ },
+ {
+  "slug": "garden-anvil",
+  "en": "Garden Anvil",
+  "n": {
+   "en": "Garden Anvil",
+   "zh-CN": "庭院铁砧",
+   "zh-TW": "庭院鐵砧",
+   "ja": "ガーデンアンビル"
+  },
+  "desc": {
+   "en": "Best placed outdoors, as it tends to leave rather an undesirable impression on all but the most durable of floors.",
+   "zh-CN": "用来加工金属的铁砧。",
+   "zh-TW": "用來加工金屬的鐵砧。",
+   "ja": "金属を加工するための金床"
+  }
+ },
+ {
+  "slug": "materiel-table",
+  "en": "Materiel Table",
+  "n": {
+   "en": "Materiel Table",
+   "zh-CN": "室外武具桌",
+   "zh-TW": "室外武具桌",
+   "ja": "アウトポストテーブル"
+  },
+  "desc": {
+   "en": "An outdoor furnishing including an assortment of arms and armor. Ideal for those situations where one finds oneself uttering, “Choose your weapon,” to an unruly houseguest.",
+   "zh-CN": "摆放着训练用武器及防具的桌子。",
+   "zh-TW": "擺放着訓練用武器及防具的桌子。",
+   "ja": "訓練用の武器防具が置かれたテーブル"
+  }
+ },
+ {
+  "slug": "f-te-party-balloons",
+  "en": "Fête Party Balloons",
+  "n": {
+   "en": "Fête Party Balloons",
+   "zh-CN": "庆典派对气球",
+   "zh-TW": "慶典派對氣球",
+   "ja": "フェトゥ・パーティーバルーン"
+  },
+  "desc": {
+   "en": "Seen adorning the Firmament during the Skyrise Celebration, this colorful bunch of balloons is guaranteed to fill the air with festive cheer.",
+   "zh-CN": "装点天穹同庆的彩色气球装饰。",
+   "zh-TW": "裝點天穹同慶的彩色氣球裝飾。",
+   "ja": "蒼天街復興祝祭を彩る色とりどりの風船飾り"
+  }
+ },
+ {
+  "slug": "f-te-skyrise-balloon",
+  "en": "Fête Skyrise Balloon",
+  "n": {
+   "en": "Fête Skyrise Balloon",
+   "zh-CN": "庆典天蓝气球",
+   "zh-TW": "慶典天藍氣球",
+   "ja": "フェトゥ・スカイライズバルーン"
+  },
+  "desc": {
+   "en": "Seen adorning the Firmament during the Skyrise Celebration, this oversized balloon set upon an elegant mount brings a touch of sophistication to any festive occasion.",
+   "zh-CN": "装点天穹同庆的天蓝色气球装饰。",
+   "zh-TW": "裝點天穹同慶的天藍色氣球裝飾。",
+   "ja": "蒼天街復興祝祭を彩る蒼天のような風船飾り"
+  }
+ },
+ {
+  "slug": "authentic-water-bomb-stand",
+  "en": "Authentic Water Bomb Stand",
+  "n": {
+   "en": "Authentic Water Bomb Stand",
+   "zh-CN": "卖水球的特制摊位",
+   "zh-TW": "賣水球的特製攤位",
+   "ja": "水風船売りの屋台EX"
+  },
+  "desc": {
+   "en": "Bring home this hallmark of the Moonfire Faire and pelt passersby with aquatic surprises from the comfort of your very own front garden! The exasperation experienced by your victims is especially authentic.",
+   "zh-CN": "专卖烘托红莲节气氛的水球的摊位。",
+   "zh-TW": "專賣烘托紅蓮節氣氛的水球的攤位。",
+   "ja": "紅蓮祭を彩る水風船売りの屋台"
+  }
+ },
+ {
+  "slug": "il-mheg-garden-fountain",
+  "en": "Il Mheg Garden Fountain",
+  "n": {
+   "en": "Il Mheg Garden Fountain",
+   "zh-CN": "伊尔美格花园喷泉",
+   "zh-TW": "伊爾美格花園噴泉",
+   "ja": "イル・メグ・ガーデンファウンテン"
+  },
+  "desc": {
+   "en": "A petit water feature inspired by the land of the pixies.",
+   "zh-CN": "伊尔美格风格的小型喷泉。",
+   "zh-TW": "伊爾美格風格的小型噴泉。",
+   "ja": "イル・メグ風に飾られた小型噴水"
+  }
+ },
+ {
+  "slug": "hanging-bench",
+  "en": "Hanging Bench",
+  "n": {
+   "en": "Hanging Bench",
+   "zh-CN": "秋千椅",
+   "zh-TW": "鞦韆椅",
+   "ja": "ハングドベンチ"
+  },
+  "desc": {
+   "en": "A seat strung from a sturdy branch and securely fastened so to assuage any safety concerns.",
+   "zh-CN": "悬挂在树枝上的秋千椅，出于安全考虑固定了座椅。",
+   "zh-TW": "懸掛在樹枝上的鞦韆椅，出於安全考慮固定了座椅。",
+   "ja": "吊り下げられたベンチ。安全面を考慮し固定されている"
+  }
+ },
+ {
+  "slug": "coldbare-tree",
+  "en": "Coldbare Tree",
+  "n": {
+   "en": "Coldbare Tree",
+   "zh-CN": "冬季休眠树",
+   "zh-TW": "冬季休眠樹",
+   "ja": "ウィンターツリー"
+  },
+  "desc": {
+   "en": "A plant bereft of its foliage and thus ill-fit to fend off the elements.",
+   "zh-CN": "叶子全部凋落的庭院树木，正在焦急地等待着季节的循环。",
+   "zh-TW": "葉子全部凋落的庭院樹木，正在焦急地等待着季節的循環。",
+   "ja": "葉が枯れ落ちた庭木。季節の巡りを待ちわびている"
+  }
+ },
+ {
+  "slug": "poroggo-lawn-ornament",
+  "en": "Poroggo Lawn Ornament",
+  "n": {
+   "en": "Poroggo Lawn Ornament",
+   "zh-CN": "庭院智蛙摆饰",
+   "zh-TW": "庭院智蛙擺飾",
+   "ja": "ポロッゴ・フィギュリン"
+  },
+  "desc": {
+   "en": "An adorable little waterwheel adorned with an even cuter amphibian familiar.",
+   "zh-CN": "配有智蛙塑像的讨人喜爱的水车。",
+   "zh-TW": "配有智蛙塑像的討人喜愛的水車。",
+   "ja": "ポロッゴの小像をあしらった可愛らしい水車"
+  }
+ },
+ {
+  "slug": "miniature-antique-clock-tower",
+  "en": "Miniature Antique Clock Tower",
+  "n": {
+   "en": "Miniature Antique Clock Tower",
+   "zh-CN": "小型古董时钟塔",
+   "zh-TW": "小型古董時鐘塔",
+   "ja": "アンティーク・リトルクロックタワー"
+  },
+  "desc": {
+   "en": "An outdoor clock that will always tell you the time—so long as you keep it wound.",
+   "zh-CN": "发条驱动的小型室外时钟塔。",
+   "zh-TW": "發條驅動的小型室外時鐘塔。",
+   "ja": "からくり仕掛けの小さな屋外時計台"
+  }
+ },
+ {
+  "slug": "shirogane-pinwheel",
+  "en": "Shirogane Pinwheel",
+  "n": {
+   "en": "Shirogane Pinwheel",
+   "zh-CN": "白银风车",
+   "zh-TW": "白銀風車",
+   "ja": "白銀風車"
+  },
+  "desc": {
+   "en": "A tiny spinning toy that is quite popular among Hingan children.",
+   "zh-CN": "深受远东之国的孩子们喜爱的小风车。",
+   "zh-TW": "深受遠東之國的孩子們喜愛的小風車。",
+   "ja": "ひんがしの国の子どもたちに人気の小さな風車"
+  }
+ },
+ {
+  "slug": "highland-chocobo-stable",
+  "en": "Highland Chocobo Stable",
+  "n": {
+   "en": "Highland Chocobo Stable",
+   "zh-CN": "雪峰陆行鸟房",
+   "zh-TW": "雪峯陸行鳥房",
+   "ja": "クルザン・チョコボステーブル"
+  },
+  "desc": {
+   "en": "A simple stable designed in the Coerthan highland style.",
+   "zh-CN": "能够饲养陆行鸟的库尔札斯样式小屋。",
+   "zh-TW": "能夠飼養陸行鳥的庫爾札斯樣式小屋。",
+   "ja": "チョコボを育成するためのクルザス様式の小屋"
+  }
+ },
+ {
+  "slug": "thavnairian-striking-dummy",
+  "en": "Thavnairian Striking Dummy",
+  "n": {
+   "en": "Thavnairian Striking Dummy",
+   "zh-CN": "萨维奈木人",
+   "zh-TW": "薩維奈木人",
+   "ja": "サベネアンダミー"
+  },
+  "desc": {
+   "en": "A striking dummy designed in the Thavnairian fashion.",
+   "zh-CN": "萨维奈样式的训练用木头人。",
+   "zh-TW": "薩維奈樣式的訓練用木頭人。",
+   "ja": "サベネア様式の訓練用木人"
+  }
+ },
+ {
+  "slug": "garlean-containers",
+  "en": "Garlean Containers",
+  "n": {
+   "en": "Garlean Containers",
+   "zh-CN": "加雷马货箱",
+   "zh-TW": "加雷馬貨箱",
+   "ja": "ガレアンコンテナ"
+  },
+  "desc": {
+   "en": "Give your home all the warmth and comfort of a Garlean military installation with this assortment of delightful metallic crates.",
+   "zh-CN": "十分坚固的加雷马帝国样式运输货箱。",
+   "zh-TW": "十分堅固的加雷馬帝國樣式運輸貨箱。",
+   "ja": "ガレマール帝国様式の頑丈な輸送用コンテナ"
+  }
+ },
+ {
+  "slug": "sharlayan-lamppost",
+  "en": "Sharlayan Lamppost",
+  "n": {
+   "en": "Sharlayan Lamppost",
+   "zh-CN": "北洋路灯",
+   "zh-TW": "北洋路燈",
+   "ja": "シャーレアン・ランプポスト"
+  },
+  "desc": {
+   "en": "Hast thou ever licked a lamppost in winter?",
+   "zh-CN": "旧萨雷安样式的路灯。使用了萨雷安技术，温度越低灯杆尝起来就越甜。",
+   "zh-TW": "舊薩雷安樣式的路燈。使用了薩雷安技術，溫度越低燈杆嚐起來就越甜。",
+   "ja": "オールド・シャーレアン様式の街灯"
+  }
+ },
+ {
+  "slug": "thavnairian-dhow",
+  "en": "Thavnairian Dhow",
+  "n": {
+   "en": "Thavnairian Dhow",
+   "zh-CN": "萨维奈帆船",
+   "zh-TW": "薩維奈帆船",
+   "ja": "サベネアンダウ"
+  },
+  "desc": {
+   "en": "Nothing impresses the neighbors quite like a massive boat on one's lawn.",
+   "zh-CN": "萨维奈渔民和商人使用的传统样式小型帆船。",
+   "zh-TW": "薩維奈漁民和商人使用的傳統樣式小型帆船。",
+   "ja": "サベネア島の漁民や商人が用いる伝統的な小型帆船"
+  }
+ },
+ {
+  "slug": "haunted-pumpkin-set",
+  "en": "Haunted Pumpkin Set",
+  "n": {
+   "en": "Haunted Pumpkin Set",
+   "zh-CN": "南瓜鬼魂组合",
+   "zh-TW": "南瓜鬼魂組合",
+   "ja": "ゴースト＆パンプキンセット"
+  },
+  "desc": {
+   "en": "Quite why ghosts would wish to haunt an assortment of prize gourds is anyone's guess. Perhaps they are the vengeful spirits of runners-up in a vegetable-growing contest?",
+   "zh-CN": "用来装饰守护天节的南瓜和鬼怪庭院装饰。",
+   "zh-TW": "用來裝飾守護天節的南瓜和鬼怪庭院裝飾。",
+   "ja": "守護天節を彩るカボチャとお化けの庭飾り"
+  }
+ },
+ {
+  "slug": "deluxe-snow-dusted-tree",
+  "en": "Deluxe Snow-dusted Tree",
+  "n": {
+   "en": "Deluxe Snow-dusted Tree",
+   "zh-CN": "特制白雪覆盖的树",
+   "zh-TW": "特製白雪覆蓋的樹",
+   "ja": "スノウダステッドツリーEX"
+  },
+  "desc": {
+   "en": "Few realize the “snow” that rests on the boughs is in fact cake icing.",
+   "zh-CN": "树枝上积满了白雪的树。",
+   "zh-TW": "樹枝上積滿了白雪的樹。",
+   "ja": "雪の積もったもみの木"
+  }
+ },
+ {
+  "slug": "alpine-open-air-bath",
+  "en": "Alpine Open-air Bath",
+  "n": {
+   "en": "Alpine Open-air Bath",
+   "zh-CN": "伊修加德浴室",
+   "zh-TW": "伊修加德浴室",
+   "ja": "イシュガルディアン・バスハウス"
+  },
+  "desc": {
+   "en": "A luxurious, outdoor bath designed in the alpine fashion.",
+   "zh-CN": "伊修加德样式的豪华露天泡澡池。",
+   "zh-TW": "伊修加德樣式的豪華露天泡澡池。",
+   "ja": "イシュガルド様式の豪奢な露天風呂"
+  }
+ },
+ {
+  "slug": "ivy-covered-bridge",
+  "en": "Ivy-covered Bridge",
+  "n": {
+   "en": "Ivy-covered Bridge",
+   "zh-CN": "常春藤白拱桥",
+   "zh-TW": "常春藤白拱橋",
+   "ja": "アイビー・ホワイトブリッジ"
+  },
+  "desc": {
+   "en": "A stone bridge tastefully hemmed with tendrils of creeping ivy.",
+   "zh-CN": "装饰有常春藤的白色庭院石桥。",
+   "zh-TW": "裝飾有常春藤的白色庭院石橋。",
+   "ja": "ツタがあしらわれた白い庭園用石橋"
+  }
+ },
+ {
+  "slug": "snowy-red-brick-bench",
+  "en": "Snowy Red Brick Bench",
+  "n": {
+   "en": "Snowy Red Brick Bench",
+   "zh-CN": "户外红砖积雪长椅",
+   "zh-TW": "戶外紅磚積雪長椅",
+   "ja": "レッドブリック・スノーベンチ"
+  },
+  "desc": {
+   "en": "Someone might have sat here, alone in the snow, thinking of warmer days since passed...",
+   "zh-CN": "用红砖搭建的长椅，表面覆盖着积雪。",
+   "zh-TW": "用紅磚搭建的長椅，表面覆蓋着積雪。",
+   "ja": "雪が積もった赤レンガのベンチ"
+  }
+ },
+ {
+  "slug": "raised-wooden-deck",
+  "en": "Raised Wooden Deck",
+  "n": {
+   "en": "Raised Wooden Deck",
+   "zh-CN": "高架木制平台",
+   "zh-TW": "高架木製平臺",
+   "ja": "レイズド・ウッドデッキ"
+  },
+  "desc": {
+   "en": "An elevated platform designed for access by only those who dare to hop, skip, or jump.",
+   "zh-CN": "高架木制平台，可以用来当作跳台。",
+   "zh-TW": "高架木製平臺，可以用來當作跳臺。",
+   "ja": "跳んで遊べる丸太とハイデッキ一式"
+  }
+ },
+ {
+  "slug": "garden-gate",
+  "en": "Garden Gate",
+  "n": {
+   "en": "Garden Gate",
+   "zh-CN": "花园大门",
+   "zh-TW": "花園大門",
+   "ja": "ガーデンゲート"
+  },
+  "desc": {
+   "en": "Curious what lies beyond the garden wall? The garden gate is here to help.",
+   "zh-CN": "安装有铁制门扉的花园大门。",
+   "zh-TW": "安裝有鐵製門扉的花園大門。",
+   "ja": "鉄製の扉を備えるゲート状のオブジェ"
+  }
+ },
+ {
+  "slug": "planter-set",
+  "en": "Planter Set",
+  "n": {
+   "en": "Planter Set",
+   "zh-CN": "植物套装",
+   "zh-TW": "植物套裝",
+   "ja": "プランターセット"
+  },
+  "desc": {
+   "en": "A vibrant arrangement of plant life bursting from a cluster of sturdy planters.",
+   "zh-CN": "色彩斑斓的花朵草木组成的花盆植物组合套装。",
+   "zh-TW": "色彩斑斕的花朵草木組成的花盆植物組合套裝。",
+   "ja": "色とりどりの草花が植えられた植木鉢のセット"
+  }
+ },
+ {
+  "slug": "sweet-lawn-ornaments",
+  "en": "Sweet Lawn Ornaments",
+  "n": {
+   "en": "Sweet Lawn Ornaments",
+   "zh-CN": "陶瓷糖果丛林",
+   "zh-TW": "陶瓷糖果叢林",
+   "ja": "キャンディ・フィギュリン"
+  },
+  "desc": {
+   "en": "Giant, lifelike lawn ornaments that look tasty enough to lick. (Be advised that this item is for decorative purposes only and should not be licked or otherwise consumed under any circumstances.)",
+   "zh-CN": "以棒棒糖为主要灵感的大型庭院饰品。",
+   "zh-TW": "以棒棒糖爲主要靈感的大型庭院飾品。",
+   "ja": "棒付きキャンディをモチーフにしたオブジェ"
+  }
+ },
+ {
+  "slug": "damaged-ishgardian-wall",
+  "en": "Damaged Ishgardian Wall",
+  "n": {
+   "en": "Damaged Ishgardian Wall",
+   "zh-CN": "伊修加德废墟外墙",
+   "zh-TW": "伊修加德廢墟外牆",
+   "ja": "イシュガルディアン・ブロークンウォール"
+  },
+  "desc": {
+   "en": "A damaged wall preserved for posterity during the Ishgardian Restoration.",
+   "zh-CN": "在天穹街重建过程中被移除的破损石墙。",
+   "zh-TW": "在天穹街重建過程中被移除的破損石牆。",
+   "ja": "蒼天街の復興作業で取り除かれた、破壊された石壁"
+  }
+ },
+ {
+  "slug": "ishgardian-lamppost",
+  "en": "Ishgardian Lamppost",
+  "n": {
+   "en": "Ishgardian Lamppost",
+   "zh-CN": "雪峰路灯",
+   "zh-TW": "雪峯路燈",
+   "ja": "イシュガルディアン・ランプポスト"
+  },
+  "desc": {
+   "en": "A lamppost of steel such as one might see lining an Ishgardian street. Authentically frigid!",
+   "zh-CN": "伊修加德样式的路灯，出身温暖地区的人偶尔会因为它伤到舌头。",
+   "zh-TW": "伊修加德樣式的路燈，出身溫暖地區的人偶爾會因爲它傷到舌頭。",
+   "ja": "イシュガルド様式の街灯"
+  }
+ },
+ {
+  "slug": "summer-bonfire",
+  "en": "Summer Bonfire",
+  "n": {
+   "en": "Summer Bonfire",
+   "zh-CN": "夏日篝火",
+   "zh-TW": "夏日篝火",
+   "ja": "サマー・ボーンファイア"
+  },
+  "desc": {
+   "en": "A roaring bonfire perfect for activities such as celebrating the Moonfire Faire and establishing a solid alibi.",
+   "zh-CN": "为了享受红莲节而制作的篝火。",
+   "zh-TW": "爲了享受紅蓮節而製作的篝火。",
+   "ja": "紅蓮祭を楽しむために作られたキャンプファイアセット"
+  }
+ },
+ {
+  "slug": "authentic-moonfire-mask-stall",
+  "en": "Authentic Moonfire Mask Stall",
+  "n": {
+   "en": "Authentic Moonfire Mask Stall",
+   "zh-CN": "特制卖面具的摊位",
+   "zh-TW": "特製賣面具的攤位",
+   "ja": "お面売りの屋台EX"
+  },
+  "desc": {
+   "en": "A stall with an assortment of colorful masks on display, as seen during the Moonfire Faire festivities. While a simple novelty item at first glance, each mask has, in truth, been expertly crafted by the hands of a master.",
+   "zh-CN": "充满红莲节气氛的卖面具的摊位。",
+   "zh-TW": "充滿紅蓮節氣氛的賣面具的攤位。",
+   "ja": "紅蓮祭を彩るお面売りの屋台"
+  }
+ },
+ {
+  "slug": "camping-tent",
+  "en": "Camping Tent",
+  "n": {
+   "en": "Camping Tent",
+   "zh-CN": "露营帐篷",
+   "zh-TW": "露營帳篷",
+   "ja": "キャンピングテント"
+  },
+  "desc": {
+   "en": "Camp out under the stars in the privacy of your own backyard.",
+   "zh-CN": "一座简易帐篷，让你尽享户外活动的乐趣。",
+   "zh-TW": "一座簡易帳篷，讓你盡享戶外活動的樂趣。",
+   "ja": "アウトドアを楽しむための簡易設営テント"
+  }
+ },
+ {
+  "slug": "damaged-highland-turret",
+  "en": "Damaged Highland Turret",
+  "n": {
+   "en": "Damaged Highland Turret",
+   "zh-CN": "雪峰瞭望塔遗迹",
+   "zh-TW": "雪峯瞭望塔遺蹟",
+   "ja": "クルザン・ブロークンタレット"
+  },
+  "desc": {
+   "en": "The ruined shell of a watchtower, transported stone by stone from the wilds of Coerthas.",
+   "zh-CN": "一座腐朽不堪的瞭望塔，专程从库尔札斯的旷野上移建至此。",
+   "zh-TW": "一座腐朽不堪的瞭望塔，專程從庫爾札斯的曠野上移建至此。",
+   "ja": "クルザスの荒野より移築された、朽ちた物見塔"
+  }
+ },
+ {
+  "slug": "shoveled-snow",
+  "en": "Shoveled Snow",
+  "n": {
+   "en": "Shoveled Snow",
+   "zh-CN": "堆雪包",
+   "zh-TW": "堆雪包",
+   "ja": "スタックスノウ"
+  },
+  "desc": {
+   "en": "A never-melting pile of pristine white snow. Snow shovels included.",
+   "zh-CN": "将雪铲起来堆积在一起形成的小型雪包。",
+   "zh-TW": "將雪鏟起來堆積在一起形成的小型雪包。",
+   "ja": "雪かきで集められた雪の山"
+  }
+ },
+ {
+  "slug": "blooming-garden-table",
+  "en": "Blooming Garden Table",
+  "n": {
+   "en": "Blooming Garden Table",
+   "zh-CN": "绽放庭院桌",
+   "zh-TW": "綻放庭院桌",
+   "ja": "ブルーミングガーデンテーブル"
+  },
+  "desc": {
+   "en": "Bask in the beauty of spring year-round with this quaint outdoor table.",
+   "zh-CN": "正中点缀着盛放花朵的庭院桌。",
+   "zh-TW": "正中點綴着盛放花朵的庭院桌。",
+   "ja": "中心に花々をあしらったガーデンテーブル"
+  }
+ },
+ {
+  "slug": "bamboo-fence",
+  "en": "Bamboo Fence",
+  "n": {
+   "en": "Bamboo Fence",
+   "zh-CN": "竹制篱笆墙",
+   "zh-TW": "竹製籬笆牆",
+   "ja": "竹垣"
+  },
+  "desc": {
+   "en": "A garden partition evoking a distinctly Far Eastern aesthetic.",
+   "zh-CN": "东方风格的竹制庭院隔离板。",
+   "zh-TW": "東方風格的竹製庭院隔離板。",
+   "ja": "東方風の竹を用いた庭仕切り板"
+  }
+ },
+ {
+  "slug": "camping-furniture",
+  "en": "Camping Furniture",
+  "n": {
+   "en": "Camping Furniture",
+   "zh-CN": "野营套装",
+   "zh-TW": "野營套裝",
+   "ja": "キャンピングセット"
+  },
+  "desc": {
+   "en": "A set of outdoor furniture constructed of weather-resistant materials.",
+   "zh-CN": "一套简易桌椅，让你尽享户外活动的乐趣。",
+   "zh-TW": "一套簡易桌椅，讓你盡享戶外活動的樂趣。",
+   "ja": "アウトドアを楽しむための簡易的な椅子と机のセット"
+  }
+ },
+ {
+  "slug": "illuminated-tree",
+  "en": "Illuminated Tree",
+  "n": {
+   "en": "Illuminated Tree",
+   "zh-CN": "幻光枯树",
+   "zh-TW": "幻光枯樹",
+   "ja": "イルミネーテッドツリー"
+  },
+  "desc": {
+   "en": "A tree adorned with decorative lights in honor of the Starlight Celebration. Popular with the neighborhood children (and the children at heart).",
+   "zh-CN": "用星芒节彩灯装饰一新的枯树。",
+   "zh-TW": "用星芒節彩燈裝飾一新的枯樹。",
+   "ja": "星芒祭を彩る電飾付きの木"
+  }
+ },
+ {
+  "slug": "far-eastern-well",
+  "en": "Far Eastern Well",
+  "n": {
+   "en": "Far Eastern Well",
+   "zh-CN": "东方水井",
+   "zh-TW": "東方水井",
+   "ja": "東方井戸"
+  },
+  "desc": {
+   "en": "A well of wood and stone that wouldn't look out of place in some remote Far Eastern settlement.",
+   "zh-CN": "东方风格的水井。",
+   "zh-TW": "東方風格的水井。",
+   "ja": "東方風の井戸"
+  }
+ },
+ {
+  "slug": "far-eastern-lamppost",
+  "en": "Far Eastern Lamppost",
+  "n": {
+   "en": "Far Eastern Lamppost",
+   "zh-CN": "东方路灯",
+   "zh-TW": "東方路燈",
+   "ja": "東方街灯"
+  },
+  "desc": {
+   "en": "A tile-roofed lamppost such as one might find on the streets of Kugane.",
+   "zh-CN": "东方风格的路灯。",
+   "zh-TW": "東方風格的路燈。",
+   "ja": "東方風の街灯"
+  }
+ },
+ {
+  "slug": "elpis-stone-pillar",
+  "en": "Elpis Stone Pillar",
+  "n": {
+   "en": "Elpis Stone Pillar",
+   "zh-CN": "厄尔庇斯石制立柱",
+   "zh-TW": "厄爾庇斯石制立柱",
+   "ja": "エルピス・ストーンピラー"
+  },
+  "desc": {
+   "en": "Crowned with lush greenery, this pillar puts one in mind of ancient gardens.",
+   "zh-CN": "厄尔庇斯风格的美丽石柱，在芳草和鲜花的装饰之下美得恰到好处。",
+   "zh-TW": "厄爾庇斯風格的美麗石柱，在芳草和鮮花的裝飾之下美得恰到好處。",
+   "ja": "草花があしらわれたエルピス風の石柱"
+  }
+ },
+ {
+  "slug": "chocobo-stable-essentials",
+  "en": "Chocobo Stable Essentials",
+  "n": {
+   "en": "Chocobo Stable Essentials",
+   "zh-CN": "陆行鸟饲养用具",
+   "zh-TW": "陸行鳥飼養用具",
+   "ja": "チョコボ飼育用具"
+  },
+  "desc": {
+   "en": "Everything a budding breeder needs to raise strong, healthy chocobos.",
+   "zh-CN": "饲养陆行鸟所需的农作物及道具套装。",
+   "zh-TW": "飼養陸行鳥所需的農作物及道具套裝。",
+   "ja": "チョコボを育てるのに必要な作物と道具のセット"
+  }
+ },
+ {
+  "slug": "authentic-haunted-pumpkin-set",
+  "en": "Authentic Haunted Pumpkin Set",
+  "n": {
+   "en": "Authentic Haunted Pumpkin Set",
+   "zh-CN": "特制南瓜鬼魂组合",
+   "zh-TW": "特製南瓜鬼魂組合",
+   "ja": "ゴースト＆パンプキンセットEX"
+  },
+  "desc": {
+   "en": "Quite why ghosts would wish to haunt an assortment of authentic prize gourds is anyone's guess. Perhaps they are the vengeful spirits of runners-up in a vegetable-growing contest?",
+   "zh-CN": "用来装饰守护天节的南瓜和鬼怪庭院装饰。",
+   "zh-TW": "用來裝飾守護天節的南瓜和鬼怪庭院裝飾。",
+   "ja": "守護天節を彩るカボチャとお化けの庭飾り"
+  }
+ },
+ {
+  "slug": "low-garden-hedge",
+  "en": "Low Garden Hedge",
+  "n": {
+   "en": "Low Garden Hedge",
+   "zh-CN": "树篱隔离矮墙",
+   "zh-TW": "樹籬隔離矮牆",
+   "ja": "ロウヘッジパーティション"
+  },
+  "desc": {
+   "en": "A stand of shrubbery cut to optimal height for confounding local Lalafells.",
+   "zh-CN": "修剪到大约一个拉拉菲尔族那么高的灌木树篱。",
+   "zh-TW": "修剪到大約一個拉拉菲爾族那麼高的灌木樹籬。",
+   "ja": "ララフェル族の背丈程度で刈り込まれた、低めの生垣"
+  }
+ },
+ {
+  "slug": "orthos-display-stand",
+  "en": "Orthos Display Stand",
+  "n": {
+   "en": "Orthos Display Stand",
+   "zh-CN": "正统优雷卡展示台",
+   "zh-TW": "正統優雷卡展示臺",
+   "ja": "オルト・エウレカディスプレイ"
+  },
+  "desc": {
+   "en": "An Allagan hologram which depicts a legendary weapon.",
+   "zh-CN": "亚拉戈式编程展示台，其中悬浮着对外展示的是传说中的武器。",
+   "zh-TW": "亞拉戈式編程展示臺，其中懸浮着對外展示的是傳說中的武器。",
+   "ja": "伝説の武具が浮かび上がる、アラグ式のホログラム表示ディスプレイ"
+  }
+ },
+ {
+  "slug": "smaller-water-otter-fountain",
+  "en": "Smaller Water Otter Fountain",
+  "n": {
+   "en": "Smaller Water Otter Fountain",
+   "zh-CN": "家用獭獭喷泉",
+   "zh-TW": "家用獺獺噴泉",
+   "ja": "家庭用ウソウソの泉"
+  },
+  "desc": {
+   "en": "A water otter fountain that is smaller and somehow odder than the water otter fountain found in island sanctuaries.",
+   "zh-CN": "无人岛地标獭獭喷泉经过重新设计后制作的家用庭具，完美保留了所有的美好特征。",
+   "zh-TW": "無人島地標獺獺噴泉經過重新設計後製作的家用庭具，完美保留了所有的美好特徵。",
+   "ja": "無人島のランドマーク「ウソウソの泉」を再設計し、愛嬌そのまま家庭用庭具として製作したもの"
+  }
+ },
+ {
+  "slug": "hannish-lamppost",
+  "en": "Hannish Lamppost",
+  "n": {
+   "en": "Hannish Lamppost",
+   "zh-CN": "多彩灯柱",
+   "zh-TW": "多彩燈柱",
+   "ja": "ラザハン・ランプポスト"
+  },
+  "desc": {
+   "en": "A lamppost of steel such as one might see lining a Hannish street.",
+   "zh-CN": "拉札罕样式的路灯。",
+   "zh-TW": "拉札罕樣式的路燈。",
+   "ja": "ラザハン様式の街灯"
+  }
+ },
+ {
+  "slug": "simple-fountain",
+  "en": "Simple Fountain",
+  "n": {
+   "en": "Simple Fountain",
+   "zh-CN": "简易喷泉",
+   "zh-TW": "簡易噴泉",
+   "ja": "シンプルファウンテン"
+  },
+  "desc": {
+   "en": "A basic stone contraption from which water pours forth. May the sound of its splashing soothe unsettled souls.",
+   "zh-CN": "从墙面上喷出水柱的简单喷泉。",
+   "zh-TW": "從牆面上噴出水柱的簡單噴泉。",
+   "ja": "壁から水が流れ出るシンプルな噴水"
+  }
+ },
+ {
+  "slug": "jinrikisha",
+  "en": "Jinrikisha",
+  "n": {
+   "en": "Jinrikisha",
+   "zh-CN": "东方人力车",
+   "zh-TW": "東方人力車",
+   "ja": "東方人力車"
+  },
+  "desc": {
+   "en": "A Far Eastern cab designed to be manpowered, not bird-powered—and *definitely* not Namazu-powered.",
+   "zh-CN": "由东方传来的风格现代的人力车。",
+   "zh-TW": "由東方傳來的風格現代的人力車。",
+   "ja": "東方由来のモダンな人力車"
+  }
+ },
+ {
+  "slug": "lemonade-stand",
+  "en": "Lemonade Stand",
+  "n": {
+   "en": "Lemonade Stand",
+   "zh-CN": "卖柠檬水的摊位",
+   "zh-TW": "賣檸檬水的攤位",
+   "ja": "レモネードの屋台"
+  },
+  "desc": {
+   "en": "When life gives you lemons, create a lemonade empire from but a humble stall like this one.",
+   "zh-CN": "榨取新鲜柠檬制作柠檬水售卖的摊位。",
+   "zh-TW": "榨取新鮮檸檬製作檸檬水售賣的攤位。",
+   "ja": "新鮮なレモンを搾るレモネードの屋台"
+  }
+ },
+ {
+  "slug": "dorpokkur-kiln",
+  "en": "Dorpokkur Kiln",
+  "n": {
+   "en": "Dorpokkur Kiln",
+   "zh-CN": "焦化叶小妖石窑",
+   "zh-TW": "焦化葉小妖石窯",
+   "ja": "ドロポックル・ストーンキルン"
+  },
+  "desc": {
+   "en": "A charming woodstove topped with a decorative dorpokkur, incidentally colored a striking shade of “burnt.”",
+   "zh-CN": "以叶小妖为原型建造的石窑，被炭火烤成了焦黄的颜色。",
+   "zh-TW": "以葉小妖爲原型建造的石窯，被炭火烤成了焦黃的顏色。",
+   "ja": "ドロポックルを象った石窯。こんがりした色合い"
+  }
+ },
+ {
+  "slug": "stone-garden-wall",
+  "en": "Stone Garden Wall",
+  "n": {
+   "en": "Stone Garden Wall",
+   "zh-CN": "石制花园围墙",
+   "zh-TW": "石制花園圍牆",
+   "ja": "ストーンガーデンウォール"
+  },
+  "desc": {
+   "en": "Someone painstakingly fitted these stones into a rustic wall for your garden. You didn't, but somebody did.",
+   "zh-CN": "用石块堆积起来的矮墙。",
+   "zh-TW": "用石塊堆積起來的矮牆。",
+   "ja": "石を積んで作った垣根"
+  }
+ },
+ {
+  "slug": "colorful-flower-patch",
+  "en": "Colorful Flower Patch",
+  "n": {
+   "en": "Colorful Flower Patch",
+   "zh-CN": "五彩缤纷的花丛",
+   "zh-TW": "五彩繽紛的花叢",
+   "ja": "カラフルフラワーパッチ"
+  },
+  "desc": {
+   "en": "A burst of blossoms that will bring a smile to any face.",
+   "zh-CN": "生有一丛鲜艳花朵的花坛。",
+   "zh-TW": "生有一叢鮮豔花朵的花壇。",
+   "ja": "鮮やかな花々が群生した花壇"
+  }
+ },
+ {
+  "slug": "island-garden-fence",
+  "en": "Island Garden Fence",
+  "n": {
+   "en": "Island Garden Fence",
+   "zh-CN": "海岛庭园围栏",
+   "zh-TW": "海島庭園圍欄",
+   "ja": "アイルガーデンフェンス"
+  },
+  "desc": {
+   "en": "A rudimentary wooden fence, designed to complement the simple lifestyle of the Cieldalaes.",
+   "zh-CN": "与谢尔达莱群岛的景观相称的朴素木制栅栏。",
+   "zh-TW": "與謝爾達萊羣島的景觀相稱的樸素木製柵欄。",
+   "ja": "シェルダレー諸島の景観にマッチする簡素な木製の柵"
+  }
+ },
+ {
+  "slug": "island-parasol-table",
+  "en": "Island Parasol Table",
+  "n": {
+   "en": "Island Parasol Table",
+   "zh-CN": "海岛阳伞桌",
+   "zh-TW": "海島陽傘桌",
+   "ja": "アイルパラソルテーブル"
+  },
+  "desc": {
+   "en": "An understated outside table, designed to complement the simple lifestyle of the Cieldalaes.",
+   "zh-CN": "与谢尔达莱群岛的景观相称的阳伞桌。",
+   "zh-TW": "與謝爾達萊羣島的景觀相稱的陽傘桌。",
+   "ja": "シェルダレー諸島の景観にマッチする日傘付きのテーブル"
+  }
+ },
+ {
+  "slug": "island-wooden-chair",
+  "en": "Island Wooden Chair",
+  "n": {
+   "en": "Island Wooden Chair",
+   "zh-CN": "海岛庭园木椅",
+   "zh-TW": "海島庭園木椅",
+   "ja": "アイルガーデンチェア"
+  },
+  "desc": {
+   "en": "A modest wooden chair, designed to complement the simple lifestyle of the Cieldalaes.",
+   "zh-CN": "与谢尔达莱群岛的景观相称的朴素椅子。",
+   "zh-TW": "與謝爾達萊羣島的景觀相稱的樸素椅子。",
+   "ja": "シェルダレー諸島の景観にマッチする簡素な椅子"
+  }
+ },
+ {
+  "slug": "railway-sleepers",
+  "en": "Railway Sleepers",
+  "n": {
+   "en": "Railway Sleepers",
+   "zh-CN": "铁路枕木",
+   "zh-TW": "鐵路枕木",
+   "ja": "レールスリーパー・ステップウッド"
+  },
+  "desc": {
+   "en": "A rustic ground covering made from repurposed railway sleepers.",
+   "zh-CN": "将铁轨的枕木重新利用制作的踏脚木。",
+   "zh-TW": "將鐵軌的枕木重新利用製作的踏腳木。",
+   "ja": "鉄道の枕木を再利用した足場材"
+  }
+ },
+ {
+  "slug": "garden-creek",
+  "en": "Garden Creek",
+  "n": {
+   "en": "Garden Creek",
+   "zh-CN": "庭院小溪",
+   "zh-TW": "庭院小溪",
+   "ja": "ガーデンクリーク"
+  },
+  "desc": {
+   "en": "Complete with running water, this soothing stonebound creek is the perfect place to dip your toes on a hot summer's day.",
+   "zh-CN": "由岩石搭建的庭院小河。",
+   "zh-TW": "由岩石搭建的庭院小河。",
+   "ja": "石組の庭園用の小川"
+  }
+ },
+ {
+  "slug": "mushroom-medley-lamp",
+  "en": "Mushroom Medley Lamp",
+  "n": {
+   "en": "Mushroom Medley Lamp",
+   "zh-CN": "分层台阶式蘑菇灯",
+   "zh-TW": "分層臺階式蘑菇燈",
+   "ja": "ティアード・マッシュルームランプ"
+  },
+  "desc": {
+   "en": "Illuminate your garden with this three-tiered collection of fungal furniture.",
+   "zh-CN": "按照阶梯状由大到小排列的蘑菇形照明器具。",
+   "zh-TW": "按照階梯狀由大到小排列的蘑菇形照明器具。",
+   "ja": "ステップ状に配置された大小のキノコ形照明器具"
+  }
+ },
+ {
+  "slug": "illuminated-topiary-chocobo",
+  "en": "Illuminated Topiary Chocobo",
+  "n": {
+   "en": "Illuminated Topiary Chocobo",
+   "zh-CN": "陆行鸟照明灌木",
+   "zh-TW": "陸行鳥照明灌木",
+   "ja": "イルミネーテッド・チョコボトピアリー"
+  },
+  "desc": {
+   "en": "Trimmed into the shape of a sitting chocobo, this shrubbery is liberally strung with glowing adornments in the style of the Starlight Celebration.",
+   "zh-CN": "修剪成陆行鸟形状的灌木，搭配了点缀星芒节用的灯饰。",
+   "zh-TW": "修剪成陸行鳥形狀的灌木，搭配了點綴星芒節用的燈飾。",
+   "ja": "チョコボの形に刈り込んだ植え込み。星芒祭を彩る電飾付き"
+  }
+ },
+ {
+  "slug": "country-swing-seat",
+  "en": "Country Swing Seat",
+  "n": {
+   "en": "Country Swing Seat",
+   "zh-CN": "乡村秋千双人长椅",
+   "zh-TW": "鄉村鞦韆雙人長椅",
+   "ja": "カントリー・ヤードスイング"
+  },
+  "desc": {
+   "en": "Escape the midday sun beneath the roof of this charming wooden swing seat.",
+   "zh-CN": "附带顶棚的吊挂式长椅。",
+   "zh-TW": "附帶頂棚的吊掛式長椅。",
+   "ja": "吊るし構造で作られた屋根付きのベンチ"
+  }
+ },
+ {
+  "slug": "ornate-fountain",
+  "en": "Ornate Fountain",
+  "n": {
+   "en": "Ornate Fountain",
+   "zh-CN": "装饰喷泉",
+   "zh-TW": "裝飾噴泉",
+   "ja": "オーナメンテッドファウンテン"
+  },
+  "desc": {
+   "en": "Decorated with delicate designs and crystal panels, this water feature gushes elegance.",
+   "zh-CN": "从墙上涌出涓涓流水的喷泉，带着一种别样的优雅。",
+   "zh-TW": "從牆上湧出涓涓流水的噴泉，帶着一種別樣的優雅。",
+   "ja": "優雅な雰囲気を漂わせる、壁から水が湧き出る噴水"
+  }
+ },
+ {
+  "slug": "smashed-flower-pot",
+  "en": "Smashed Flower Pot",
+  "n": {
+   "en": "Smashed Flower Pot",
+   "zh-CN": "破损花钵",
+   "zh-TW": "破損花鉢",
+   "ja": "ブロークンフラワーポット"
+  },
+  "desc": {
+   "en": "Let the resilience of the flowers which persevere in the soil of this damaged pot serve as a reminder that hope springs eternal.",
+   "zh-CN": "破损了的花钵，泥土和植株散落一地。",
+   "zh-TW": "破損了的花鉢，泥土和植株散落一地。",
+   "ja": "割れて中身がこぼれ出た鉢植え"
+  }
+ },
+ {
+  "slug": "well-pump",
+  "en": "Well Pump",
+  "n": {
+   "en": "Well Pump",
+   "zh-CN": "井泵",
+   "zh-TW": "井泵",
+   "ja": "ウォーターウェルポンプ"
+  },
+  "desc": {
+   "en": "This working well pump provides a reliable—and apparently endless—source of clean water.",
+   "zh-CN": "用来汲取地下水的朴素水泵。",
+   "zh-TW": "用來汲取地下水的樸素水泵。",
+   "ja": "地下水を汲み上げるためのシンプルなポンプ"
+  }
+ },
+ {
+  "slug": "ivy-canopied-deck",
+  "en": "Ivy-canopied Deck",
+  "n": {
+   "en": "Ivy-canopied Deck",
+   "zh-CN": "常青藤遮阳棚木制平台",
+   "zh-TW": "常青藤遮陽棚木製平臺",
+   "ja": "アイビーオーニング・ウッドデッキ"
+  },
+  "desc": {
+   "en": "The ivy strung atop this wooden deck throws the seating area below into an idyllic dappled shade.",
+   "zh-CN": "带有遮阳藤蔓的木制平台。",
+   "zh-TW": "帶有遮陽藤蔓的木製平臺。",
+   "ja": "蔦の日除けをあしらったウッドデッキ"
+  }
+ },
+ {
+  "slug": "komainu-statue",
+  "en": "Komainu Statue",
+  "n": {
+   "en": "Komainu Statue",
+   "zh-CN": "狛犬石像",
+   "zh-TW": "狛犬石像",
+   "ja": "狛犬石像"
+  },
+  "desc": {
+   "en": "Ward off malevolent spirits with this dignified statue.",
+   "zh-CN": "以狛犬为原型制作的石雕，狛犬在东方传说中是守护神域的幻兽。",
+   "zh-TW": "以狛犬爲原型製作的石雕，狛犬在東方傳說中是守護神域的幻獸。",
+   "ja": "東方に伝わる、神域を守護する幻獣を模した石像"
+  }
+ },
+ {
+  "slug": "stone-toro-lantern",
+  "en": "Stone Toro Lantern",
+  "n": {
+   "en": "Stone Toro Lantern",
+   "zh-CN": "石灯笼",
+   "zh-TW": "石燈籠",
+   "ja": "石灯篭"
+  },
+  "desc": {
+   "en": "A moss-covered stone lantern constructed in the Far Eastern style. Its base is attached to a thick stone slab for support.",
+   "zh-CN": "以东方风格的室外照明灯具为原型制作的石制庭具。不需支撑辅助即可固定。",
+   "zh-TW": "以東方風格的室外照明燈具爲原型製作的石制庭具。不需支撐輔助即可固定。",
+   "ja": "東方風の屋外用照明器具を模した、石組みの庭具。基礎がしっかりした自立タイプ"
+  }
+ },
+ {
+  "slug": "planted-toro-lantern",
+  "en": "Planted Toro Lantern",
+  "n": {
+   "en": "Planted Toro Lantern",
+   "zh-CN": "基桩石灯笼",
+   "zh-TW": "基樁石燈籠",
+   "ja": "活込石灯篭"
+  },
+  "desc": {
+   "en": "A moss-covered stone lantern constructed in the Far Eastern style and driven directly into the earth, the better to blend in with natural surrounds.",
+   "zh-CN": "以东方风格的室外照明灯具为原型制作的石制庭具。为了保证灯笼不会移动，建造时需要在地面埋入一种被称为“竿”的桩固定。",
+   "zh-TW": "以東方風格的室外照明燈具爲原型製作的石制庭具。爲了保證燈籠不會移動，建造時需要在地面埋入一種被稱爲“竿”的樁固定。",
+   "ja": "東方風の屋外用照明器具を模した、石組みの庭具。竿と呼ばれる支柱を地面に埋め込んで固定するタイプ"
+  }
+ },
+ {
+  "slug": "authentic-summer-bonfire",
+  "en": "Authentic Summer Bonfire",
+  "n": {
+   "en": "Authentic Summer Bonfire",
+   "zh-CN": "特制夏日篝火",
+   "zh-TW": "特製夏日篝火",
+   "ja": "サマー・ボーンファイアEX"
+  },
+  "desc": {
+   "en": "An authentic roaring bonfire perfect for activities such as celebrating the Moonfire Faire and establishing a solid alibi.",
+   "zh-CN": "为了享受红莲节而制作的篝火。",
+   "zh-TW": "爲了享受紅蓮節而製作的篝火。",
+   "ja": "紅蓮祭を楽しむために作られたキャンプファイアセット"
+  }
+ },
+ {
+  "slug": "il-mheg-arbor",
+  "en": "Il Mheg Arbor",
+  "n": {
+   "en": "Il Mheg Arbor",
+   "zh-CN": "伊尔美格花架",
+   "zh-TW": "伊爾美格花架",
+   "ja": "イル・メグ・アーバー"
+  },
+  "desc": {
+   "en": "The vibrant flowers of this elegant garden decoration put one in mind of the faeries' colorful homeland. Pixies thankfully not included.",
+   "zh-CN": "美得让人想起妖灵乡的优雅庭院装饰。",
+   "zh-TW": "美得讓人想起妖靈鄉的優雅庭院裝飾。",
+   "ja": "妖精郷を思わせる、優美な庭園装飾"
+  }
+ },
+ {
+  "slug": "mobile-garden-stairs",
+  "en": "Mobile Garden Stairs",
+  "n": {
+   "en": "Mobile Garden Stairs",
+   "zh-CN": "可移动式庭院斜梯",
+   "zh-TW": "可移動式庭院斜梯",
+   "ja": "モバイル・ガーデンステップ"
+  },
+  "desc": {
+   "en": "The portability and convenience of this full flight of stairs ultimately render the age-old argument of “ladder versus stepladder” moot.",
+   "zh-CN": "室外作业用的移动式斜梯。",
+   "zh-TW": "室外作業用的移動式斜梯。",
+   "ja": "屋外作業用の移動式階段"
+  }
+ },
+ {
+  "slug": "flower-wreathed-gazebo",
+  "en": "Flower-wreathed Gazebo",
+  "n": {
+   "en": "Flower-wreathed Gazebo",
+   "zh-CN": "花亭",
+   "zh-TW": "花亭",
+   "ja": "フラワーリーズド・ガゼボ"
+  },
+  "desc": {
+   "en": "A charming and romantic pavilion for all those without allergies.",
+   "zh-CN": "装饰着鲜花的凉亭。",
+   "zh-TW": "裝飾着鮮花的涼亭。",
+   "ja": "花を飾り付けられた東屋"
+  }
+ },
+ {
+  "slug": "alzadaal-s-garden-lamp",
+  "en": "Alzadaal's Garden Lamp",
+  "n": {
+   "en": "Alzadaal's Garden Lamp",
+   "zh-CN": "阿尔扎达尔园艺灯",
+   "zh-TW": "阿爾扎達爾園藝燈",
+   "ja": "アルザダール・ガーデンランプ"
+  },
+  "desc": {
+   "en": "An outdoor lighting fixture of the same ancient Hannish design encountered in the remnants above Alzadaal's Legacy.",
+   "zh-CN": "阿尔扎达尔海底遗迹群发现的拉札罕传统风格的照明灯具。",
+   "zh-TW": "阿爾扎達爾海底遺蹟羣發現的拉札罕傳統風格的照明燈具。",
+   "ja": "アルザダール海底遺跡で発見された、古ラザハン様式の照明器具"
+  }
+ },
+ {
+  "slug": "elpis-garden-fountain",
+  "en": "Elpis Garden Fountain",
+  "n": {
+   "en": "Elpis Garden Fountain",
+   "zh-CN": "厄尔庇斯庭院喷泉",
+   "zh-TW": "厄爾庇斯庭院噴泉",
+   "ja": "エルピス・ガーデンファウンテン"
+  },
+  "desc": {
+   "en": "A serene decoration fashioned after those thought to exist in ancient times.",
+   "zh-CN": "厄尔庇斯样式的喷泉。",
+   "zh-TW": "厄爾庇斯樣式的噴泉。",
+   "ja": "エルピス様式の噴水"
+  }
+ },
+ {
+  "slug": "wildflower-bed",
+  "en": "Wildflower Bed",
+  "n": {
+   "en": "Wildflower Bed",
+   "zh-CN": "野草草丛",
+   "zh-TW": "野草草叢",
+   "ja": "ワイルドグラスガーデン"
+  },
+  "desc": {
+   "en": "A vibrant patch of various wild-growing flora.",
+   "zh-CN": "造园用的各种野草形成的草丛。",
+   "zh-TW": "造園用的各種野草形成的草叢。",
+   "ja": "造園用の各種野草の群生"
+  }
+ },
+ {
+  "slug": "imitation-magitek-repair-station-wall-unit",
+  "en": "Imitation Magitek Repair Station (Wall Unit)",
+  "n": {
+   "en": "Imitation Magitek Repair Station (Wall Unit)",
+   "zh-CN": "仿制魔导维修站墙",
+   "zh-TW": "仿製魔導維修站牆",
+   "ja": "イミテーション・マジテックハンガー"
+  },
+  "desc": {
+   "en": "Appearing as though it came straight from a Garlean castrum, one would be forgiven for attempting to maintain magitek armor with this repair station.",
+   "zh-CN": "再现了魔导装甲仓库中的各种维护器械。",
+   "zh-TW": "再現了魔導裝甲倉庫中的各種維護器械。",
+   "ja": "魔導アーマー格納庫の整備機器類を再現した構造物"
+  }
+ },
+ {
+  "slug": "labyrinthos-grape-lamppost",
+  "en": "Labyrinthos Grape Lamppost",
+  "n": {
+   "en": "Labyrinthos Grape Lamppost",
+   "zh-CN": "迷津葡萄路灯",
+   "zh-TW": "迷津葡萄路燈",
+   "ja": "ラヴィリンソス・グレープランプポスト"
+  },
+  "desc": {
+   "en": "Seeking to make grapes more transportable, a researcher at Meryall Agronomics is rumored to have produced a variety that grew in blocky clusters. Although complaints that they looked unappetizing led to a new strain with rounder edges, the original was regarded fondly by some, and so it was immortalized in the form of this lamppost.",
+   "zh-CN": "仿照梅丽奥尔实验农场栽培过的葡萄而制成的彩色玻璃街灯，独特的外形给冒险者一种似曾相识的感觉。",
+   "zh-TW": "仿照梅麗奧爾實驗農場栽培過的葡萄而製成的彩色玻璃街燈，獨特的外形給冒險者一種似曾相識的感覺。",
+   "ja": "メリオール実験農場でかつて栽培されていた、独特な形状のブドウを象ったステンドグラス街灯"
+  }
+ },
+ {
+  "slug": "hingan-rock-garden",
+  "en": "Hingan Rock Garden",
+  "n": {
+   "en": "Hingan Rock Garden",
+   "zh-CN": "东方枯山水庭",
+   "zh-TW": "東方枯山水庭",
+   "ja": "東方枯山水庭"
+  },
+  "desc": {
+   "en": "Designed to resemble a Far Eastern landscape, this carefully studied arrangement of sand, stone, and flora seems to invite quiet contemplation.",
+   "zh-CN": "利用岩石和砂砾表现山水景色的东方风格庭园。",
+   "zh-TW": "利用岩石和砂礫表現山水景色的東方風格庭園。",
+   "ja": "岩と砂を用いて山水の景色を表現した、東方風の庭園"
+  }
+ },
+ {
+  "slug": "sharlayan-reflecting-pool",
+  "en": "Sharlayan Reflecting Pool",
+  "n": {
+   "en": "Sharlayan Reflecting Pool",
+   "zh-CN": "萨雷安反射水池",
+   "zh-TW": "薩雷安反射水池",
+   "ja": "シャーレアン・リフレクティングプール"
+  },
+  "desc": {
+   "en": "A shallow decorative pool constructed in accordance with Sharlayan sensibilities.",
+   "zh-CN": "萨雷安样式的景观浅水池。",
+   "zh-TW": "薩雷安樣式的景觀淺水池。",
+   "ja": "シャーレアン様式で設計された、修景用の浅い水盤"
+  }
+ },
+ {
+  "slug": "authentic-illuminated-tree",
+  "en": "Authentic Illuminated Tree",
+  "n": {
+   "en": "Authentic Illuminated Tree",
+   "zh-CN": "特制幻光枯树",
+   "zh-TW": "特製幻光枯樹",
+   "ja": "イルミネーテッドツリーEX"
+  },
+  "desc": {
+   "en": "A tree adorned with authentic decorative lights in honor of the Starlight Celebration. Popular with the neighborhood children (and the children at heart).",
+   "zh-CN": "用星芒节彩灯装饰一新的枯树。",
+   "zh-TW": "用星芒節彩燈裝飾一新的枯樹。",
+   "ja": "星芒祭を彩る電飾付きの木"
+  }
+ },
+ {
+  "slug": "minute-mindflayer-sprinkler",
+  "en": "Minute Mindflayer Sprinkler",
+  "n": {
+   "en": "Minute Mindflayer Sprinkler",
+   "zh-CN": "夺心小魔庭院喷水器",
+   "zh-TW": "奪心小魔庭院噴水器",
+   "ja": "カインドフレア・ガーデンスプリンクラー"
+  },
+  "desc": {
+   "en": "Rest assured that this inanimate baby monster will spray you with water instead of the blood of its enemies.",
+   "zh-CN": "模仿某种妖异幼体制作的喷水器。",
+   "zh-TW": "模仿某種妖異幼體制作的噴水器。",
+   "ja": "とある妖異の幼生体を模した散水器"
+  }
+ },
+ {
+  "slug": "senor-sabotender-chronometer",
+  "en": "Senor Sabotender Chronometer",
+  "n": {
+   "en": "Senor Sabotender Chronometer",
+   "zh-CN": "仙人刺先生时钟",
+   "zh-TW": "仙人刺先生時鐘",
+   "ja": "セニョール・サボテンダー・クロノメーター"
+  },
+  "desc": {
+   "en": "The ruthless progression of time cannot be altered—but its cruel effects on one's countenance can be mollified somewhat by the charms of Senor Sabotender.",
+   "zh-CN": "由仙人刺先生负责报时的室外时钟。",
+   "zh-TW": "由仙人刺先生負責報時的室外時鐘。",
+   "ja": "セニョール・サボテンダーが時を知らせる屋外時計"
+  }
+ },
+ {
+  "slug": "imitation-magitek-repair-station-floor-unit",
+  "en": "Imitation Magitek Repair Station (Floor Unit)",
+  "n": {
+   "en": "Imitation Magitek Repair Station (Floor Unit)",
+   "zh-CN": "仿制魔导维修站地台",
+   "zh-TW": "仿製魔導維修站地臺",
+   "ja": "イミテーション・マジテックベース"
+  },
+  "desc": {
+   "en": "Appearing as though it came straight from a Garlean castrum, one would be forgiven for attempting to maintain magitek armor with this repair station.",
+   "zh-CN": "再现了魔导装甲仓库中的带有运送功能的地台。",
+   "zh-TW": "再現了魔導裝甲倉庫中的帶有運送功能的地臺。",
+   "ja": "魔導アーマー格納庫の床部分を再現した構造物"
+  }
+ },
+ {
+  "slug": "south-seas-coelacanth-display",
+  "en": "South Seas Coelacanth Display",
+  "n": {
+   "en": "South Seas Coelacanth Display",
+   "zh-CN": "贡贝萨鱼吊架",
+   "zh-TW": "貢貝薩魚吊架",
+   "ja": "ハングド・ゴンベッサ"
+  },
+  "desc": {
+   "en": "Proudly boast of this beautiful fish to your closest friends, or whomever else will forgive you for forcing them to admire a hanging fish.",
+   "zh-CN": "悬吊着刚出水的贡贝萨鱼的吊架。",
+   "zh-TW": "懸吊着剛出水的貢貝薩魚的吊架。",
+   "ja": "釣り上げられ、吊り下げられたゴンベッサ"
+  }
+ },
+ {
+  "slug": "sagely-sparrow-statue",
+  "en": "Sagely Sparrow Statue",
+  "n": {
+   "en": "Sagely Sparrow Statue",
+   "zh-CN": "文鸟雕像",
+   "zh-TW": "文鳥雕像",
+   "ja": "文鳥の彫像"
+  },
+  "desc": {
+   "en": "This replica of the avian figures enshrined on Aloalo Island is rather reminiscent of someone you know...",
+   "zh-CN": "阿罗阿罗岛供奉的文鸟神像的复制品。",
+   "zh-TW": "阿羅阿羅島供奉的文鳥神像的複製品。",
+   "ja": "アロアロ島で祀られていた文鳥の神像の複製"
+  }
+ },
+ {
+  "slug": "aloalo-island-palm",
+  "en": "Aloalo Island Palm",
+  "n": {
+   "en": "Aloalo Island Palm",
+   "zh-CN": "阿罗阿罗海岛棕榈树",
+   "zh-TW": "阿羅阿羅海島棕櫚樹",
+   "ja": "アロアロ・アイランドパーム"
+  },
+  "desc": {
+   "en": "This tree was imported from the balmy climes of Aloalo Island to brighten your abode with tropical whimsy. Pay no heed to the leaves it drops in homesickness.",
+   "zh-CN": "将阿罗阿罗岛产的树木截断后制作的造园用景观。",
+   "zh-TW": "將阿羅阿羅島產的樹木截斷後製作的造園用景觀。",
+   "ja": "アロアロ島に自生する樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "aloalo-roselle-hedge",
+  "en": "Aloalo Roselle Hedge",
+  "n": {
+   "en": "Aloalo Roselle Hedge",
+   "zh-CN": "阿罗阿罗洛济葵花丛",
+   "zh-TW": "阿羅阿羅洛濟葵花叢",
+   "ja": "アロアロ・ローゼルヘッジ"
+  },
+  "desc": {
+   "en": "Beautiful blooms of the south sea isles curated into a garden-friendly shrubbery.",
+   "zh-CN": "将原产于南洋群岛的阿罗阿罗洛济葵裁剪后制作成的造园用花丛。",
+   "zh-TW": "將原產於南洋羣島的阿羅阿羅洛濟葵裁剪後製作成的造園用花叢。",
+   "ja": "南洋諸島原産のローゼルを植栽として造園用に刈り込んだもの"
+  }
+ },
+ {
+  "slug": "everkeep-striking-dummy",
+  "en": "Everkeep Striking Dummy",
+  "n": {
+   "en": "Everkeep Striking Dummy",
+   "zh-CN": "永护塔木人",
+   "zh-TW": "永護塔木人",
+   "ja": "エバーキープダミー"
+  },
+  "desc": {
+   "en": "A striking dummy designed in the Everkeep fashion.",
+   "zh-CN": "永护塔样式的训练用木头人。",
+   "zh-TW": "永護塔樣式的訓練用木頭人。",
+   "ja": "エバーキープ様式の訓練用木人"
+  }
+ },
+ {
+  "slug": "stargazing-deck",
+  "en": "Stargazing Deck",
+  "n": {
+   "en": "Stargazing Deck",
+   "zh-CN": "观星平台",
+   "zh-TW": "觀星平臺",
+   "ja": "スターゲイジング・デッキ"
+  },
+  "desc": {
+   "en": "Replete with seating, this elevated wooden platform affords an unparalleled view of the firmament. For the astrologer who prizes comfort as much as the pursuit of heavenly knowledge.",
+   "zh-CN": "附有望远镜的观星台，可以一边放松一边享受星体观测。",
+   "zh-TW": "附有望遠鏡的觀星臺，可以一邊放鬆一邊享受星體觀測。",
+   "ja": "リラックスして天体観測を楽しむことができる、望遠鏡を備えた星見台"
+  }
+ },
+ {
+  "slug": "wooden-garden-gate",
+  "en": "Wooden Garden Gate",
+  "n": {
+   "en": "Wooden Garden Gate",
+   "zh-CN": "木制庭院门",
+   "zh-TW": "木製庭院門",
+   "ja": "ウッドガーデンゲート"
+  },
+  "desc": {
+   "en": "A perfectly plain wooden gate that provides passage to your property.",
+   "zh-CN": "附有朴素木制门的门型装饰物。",
+   "zh-TW": "附有樸素木製門的門型裝飾物。",
+   "ja": "木製の素朴な扉が付いた、ゲート型のオブジェ"
+  }
+ },
+ {
+  "slug": "yak-t-el-scale-tree",
+  "en": "Yak T'el Scale Tree",
+  "n": {
+   "en": "Yak T'el Scale Tree",
+   "zh-CN": "亚克特尔光鳞树",
+   "zh-TW": "亞克特爾光鱗樹",
+   "ja": "ヤクテル・スケールツリー"
+  },
+  "desc": {
+   "en": "The leaf tips of this scaly shrub emit the same otherworldly glow that pervades the depths of Yak T'el.",
+   "zh-CN": "分布于亚克特尔树海，有着鳞状发光叶片的植物。",
+   "zh-TW": "分佈於亞克特爾樹海，有着鱗狀發光葉片的植物。",
+   "ja": "ヤクテル樹海に分布する、鱗状の光る葉を持つ植物"
+  }
+ },
+ {
+  "slug": "neo-kingdom-lamppost",
+  "en": "Neo Kingdom Lamppost",
+  "n": {
+   "en": "Neo Kingdom Lamppost",
+   "zh-CN": "新生王国灯柱",
+   "zh-TW": "新生王國燈柱",
+   "ja": "ネオキングダム・ランプポスト"
+  },
+  "desc": {
+   "en": "This streetlamp seems to flicker with the wistful air of days gone by.",
+   "zh-CN": "发出温暖明亮的光芒，静静地伫立在昔日记忆中城市里的灯柱。",
+   "zh-TW": "發出溫暖明亮的光芒，靜靜地佇立在昔日記憶中城市裏的燈柱。",
+   "ja": "在りし日の記憶で築かれた街に佇む、あたたかな明かりのランプポスト"
+  }
+ },
+ {
+  "slug": "cactus-patch",
+  "en": "Cactus Patch",
+  "n": {
+   "en": "Cactus Patch",
+   "zh-CN": "特制仙人掌花园",
+   "zh-TW": "特製仙人掌花園",
+   "ja": "カクタスガーデンEX"
+  },
+  "desc": {
+   "en": "Rest assured, these spiky succulents will stay right where you plant them. Don't worry about how many needles they have.",
+   "zh-CN": "用于点缀庭院的仙人掌丛。",
+   "zh-TW": "用於點綴庭院的仙人掌叢。",
+   "ja": "造園用に栽培されたサボテンの群生"
+  }
+ },
+ {
+  "slug": "garden-palm-tree",
+  "en": "Garden Palm Tree",
+  "n": {
+   "en": "Garden Palm Tree",
+   "zh-CN": "特制园艺棕榈树",
+   "zh-TW": "特製園藝棕櫚樹",
+   "ja": "ガーデン・パームツリーEX"
+  },
+  "desc": {
+   "en": "Add a tropical touch to your backyard with these leafy fronds.",
+   "zh-CN": "用于点缀庭院的椰子树。",
+   "zh-TW": "用於點綴庭院的椰子樹。",
+   "ja": "造園用に栽培されたヤシの木"
+  }
+ },
+ {
+  "slug": "far-eastern-gazebo",
+  "en": "Far Eastern Gazebo",
+  "n": {
+   "en": "Far Eastern Gazebo",
+   "zh-CN": "东方东屋",
+   "zh-TW": "東方東屋",
+   "ja": "東方東屋"
+  },
+  "desc": {
+   "en": "A gazebo designed in the Far Eastern fashion.",
+   "zh-CN": "东方风格的朴素小屋。",
+   "zh-TW": "東方風格的樸素小屋。",
+   "ja": "東方風の簡素な建屋"
+  }
+ },
+ {
+  "slug": "square-stepping-stones",
+  "en": "Square Stepping Stones",
+  "n": {
+   "en": "Square Stepping Stones",
+   "zh-CN": "方形踏脚石",
+   "zh-TW": "方形踏腳石",
+   "ja": "スクエアステップストーン"
+  },
+  "desc": {
+   "en": "Square stones of varying sizes, carefully placed so as to avoid crushing the flowers.",
+   "zh-CN": "大大小小的方形石材组成的踏脚石。",
+   "zh-TW": "大大小小的方形石材組成的踏腳石。",
+   "ja": "大小の方形石材を組み合わせた飛び石"
+  }
+ },
+ {
+  "slug": "electrope-turret",
+  "en": "Electrope Turret",
+  "n": {
+   "en": "Electrope Turret",
+   "zh-CN": "雷转质炮塔",
+   "zh-TW": "雷轉質炮塔",
+   "ja": "エレクトロープ・タレット"
+  },
+  "desc": {
+   "en": "As formidable as it looks, it's merely a lawn decoration—but your neighbors don't need to know that.",
+   "zh-CN": "以雷转质固定炮台为原型制作的庭具，没有射击功能。",
+   "zh-TW": "以雷轉質固定炮臺爲原型製作的庭具，沒有射擊功能。",
+   "ja": "エレクトロープ製固定砲台を模した庭具。発射はできない"
+  }
+ },
+ {
+  "slug": "lesser-pillar-of-tural",
+  "en": "Lesser Pillar of Tural",
+  "n": {
+   "en": "Lesser Pillar of Tural",
+   "zh-CN": "图拉尔的小蛇的罐子？",
+   "zh-TW": "圖拉爾的小蛇的罐子？",
+   "ja": "トラルの小蛇の壺？"
+  },
+  "desc": {
+   "en": "Recovered from Xak Turali ruins, this statue depicts an urn containing a serpentine entity of diminutive size.",
+   "zh-CN": "在图拉尔遗迹发现的雕像，看起来像是一只挤在罐子里的小蛇。",
+   "zh-TW": "在圖拉爾遺蹟發現的雕像，看起來像是一隻擠在罐子裏的小蛇。",
+   "ja": "トラルの遺構で発見された、小蛇が詰まった像のような何か"
+  }
+ },
+ {
+  "slug": "ihuykatumu-flower-plot",
+  "en": "Ihuykatumu Flower Plot",
+  "n": {
+   "en": "Ihuykatumu Flower Plot",
+   "zh-CN": "生息花丛",
+   "zh-TW": "生息花叢",
+   "ja": "イフイカ・フラワーガーデン"
+  },
+  "desc": {
+   "en": "You don't know the name of these grotto flowers, but looking at them makes you feel a bit drowsie.",
+   "zh-CN": "生长在生息河岸周边的无名花丛。",
+   "zh-TW": "生長在生息河岸周邊的無名花叢。",
+   "ja": "イフイカ・トゥムの岸辺に咲く名もなき花の群生"
+  }
+ },
+ {
+  "slug": "zormor-stone-lantern",
+  "en": "Zormor Stone Lantern",
+  "n": {
+   "en": "Zormor Stone Lantern",
+   "zh-CN": "佐莫石灯笼",
+   "zh-TW": "佐莫石燈籠",
+   "ja": "ゾーモー・ストーンランタン"
+  },
+  "desc": {
+   "en": "Since olden times, this lantern has illuminated the rocky mountain path at the Summit of Zor—but no more.",
+   "zh-CN": "设置于沃刻佐莫山山路上的古老石灯笼。",
+   "zh-TW": "設置於沃刻佐莫山山路上的古老石燈籠。",
+   "ja": "ウォーコー・ゾーモーの山道に設置されていた古い石灯籠"
+  }
+ },
+ {
+  "slug": "ja-ja-gural-tree",
+  "en": "Ja Ja Gural Tree",
+  "n": {
+   "en": "Ja Ja Gural Tree",
+   "zh-CN": "加加财富树",
+   "zh-TW": "加加財富樹",
+   "ja": "ジャジャグラル・ツリー"
+  },
+  "desc": {
+   "en": "Originating in the depths of Cenote Ja Ja Gural, this luminescent tree lights up your lawn quite vividly.",
+   "zh-CN": "移植来点缀庭院的散发着微光的树，原本生长在加加财富天坑深处。",
+   "zh-TW": "移植來點綴庭院的散發着微光的樹，原本生長在加加財富天坑深處。",
+   "ja": "造園用に移植した、セノーテ・ジャジャグラル深部に自生していた淡く発光する樹木"
+  }
+ },
+ {
+  "slug": "authentic-illuminated-topiary-chocobo",
+  "en": "Authentic Illuminated Topiary Chocobo",
+  "n": {
+   "en": "Authentic Illuminated Topiary Chocobo",
+   "zh-CN": "特制陆行鸟照明灌木",
+   "zh-TW": "特製陸行鳥照明灌木",
+   "ja": "イルミネーテッド・チョコボトピアリーEX"
+  },
+  "desc": {
+   "en": "Trimmed into the shape of a sitting chocobo, this shrubbery is liberally strung with glowing adornments in the style of the Starlight Celebration. This holiday season, give the gift of authenticity.",
+   "zh-CN": "修剪成陆行鸟形状的灌木，搭配了点缀星芒节用的灯饰。",
+   "zh-TW": "修剪成陸行鳥形狀的灌木，搭配了點綴星芒節用的燈飾。",
+   "ja": "チョコボの形に刈り込んだ植え込み。星芒祭を彩る電飾付き"
+  }
+ },
+ {
+  "slug": "la-noscean-orange-tree",
+  "en": "La Noscean Orange Tree",
+  "n": {
+   "en": "La Noscean Orange Tree",
+   "zh-CN": "拉诺西亚香橙树",
+   "zh-TW": "拉諾西亞香橙樹",
+   "ja": "ラノシアン・オレンジツリー"
+  },
+  "desc": {
+   "en": "This tree has been tastefully pruned for ornamental use—but there is naught stopping a theoretical homeowner from eating oranges until they pass out.",
+   "zh-CN": "原产于拉诺西亚的香橙树，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "原產於拉諾西亞的香橙樹，經過修剪後很適合裝飾在庭院中。",
+   "ja": "ラノシアで栽培されているオレンジの木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "imitation-battlefield",
+  "en": "Imitation Battlefield",
+  "n": {
+   "en": "Imitation Battlefield",
+   "zh-CN": "仿制战场",
+   "zh-TW": "仿製戰場",
+   "ja": "イミテーション・バトルフィールド"
+  },
+  "desc": {
+   "en": "Rusted weapons and torn banners stud a patch of scorched earth in this lifelike replica of a grim battlefield.",
+   "zh-CN": "仿照刀折矢尽的古战场制作的户外装饰物。",
+   "zh-TW": "仿照刀折矢盡的古戰場製作的戶外裝飾物。",
+   "ja": "刀折れ矢尽きた古戦場の雰囲気を再現した屋外用のセット"
+  }
+ },
+ {
+  "slug": "frosted-topiary",
+  "en": "Frosted Topiary",
+  "n": {
+   "en": "Frosted Topiary",
+   "zh-CN": "覆雪绿雕",
+   "zh-TW": "覆雪綠雕",
+   "ja": "スノートピアリー"
+  },
+  "desc": {
+   "en": "A closely cropped shrub topped with a thick layer of snow.",
+   "zh-CN": "被积雪覆盖的造型灌木。",
+   "zh-TW": "被積雪覆蓋的造型灌木。",
+   "ja": "雪が積もった植え込み"
+  }
+ },
+ {
+  "slug": "frozen-garden-pond",
+  "en": "Frozen Garden Pond",
+  "n": {
+   "en": "Frozen Garden Pond",
+   "zh-CN": "霜冻庭院水池",
+   "zh-TW": "霜凍庭院水池",
+   "ja": "フローズン・ガーデンポンド"
+  },
+  "desc": {
+   "en": "The waters of this snow-dusted pond are frozen still as the depths of winter.",
+   "zh-CN": "结冻后，周边石块覆满了积雪的庭院池塘。",
+   "zh-TW": "結凍後，周邊石塊覆滿了積雪的庭院池塘。",
+   "ja": "凍りつき、縁石に雪が積もった庭池"
+  }
+ },
+ {
+  "slug": "yok-huy-lantern",
+  "en": "Yok Huy Lantern",
+  "n": {
+   "en": "Yok Huy Lantern",
+   "zh-CN": "尤卡巨人石灯笼",
+   "zh-TW": "尤卡巨人石燈籠",
+   "ja": "ヨカフイ・ストーンランタン"
+  },
+  "desc": {
+   "en": "A solemn stone lantern similar to those found flanking the steps of the Breathless Altar at Zirgorteh the Open-armed.",
+   "zh-CN": "设置在通往雪棱拜坛的路边的石制灯笼。",
+   "zh-TW": "設置在通往雪棱拜壇的路邊的石制燈籠。",
+   "ja": "ジィゴーテー拝壇の参道に設置されていた石灯籠"
+  }
+ },
+ {
+  "slug": "outdoor-hunter-s-grill",
+  "en": "Outdoor Hunter's Grill",
+  "n": {
+   "en": "Outdoor Hunter's Grill",
+   "zh-CN": "户外用便携营火炉",
+   "zh-TW": "戶外用便攜營火爐",
+   "ja": "アウトドア・ハンターストーブ"
+  },
+  "desc": {
+   "en": "A portable grill used by hunters to cook raw meat and other ingredients.",
+   "zh-CN": "每个猎人都会随身携带的烤肉用的便携火炉。",
+   "zh-TW": "每個獵人都會隨身攜帶的烤肉用的便攜火爐。",
+   "ja": "ハンター必携の、肉焼き用の携帯焚き火台"
+  }
+ },
+ {
+  "slug": "makeshift-camp",
+  "en": "Makeshift Camp",
+  "n": {
+   "en": "Makeshift Camp",
+   "zh-CN": "临时营地",
+   "zh-TW": "臨時營地",
+   "ja": "一時キャンプ"
+  },
+  "desc": {
+   "en": "A hastily assembled camp for the hunter who cares little and less for comfort.",
+   "zh-CN": "狩猎中临时休息用的简易露营工具。",
+   "zh-TW": "狩獵中臨時休息用的簡易露營工具。",
+   "ja": "狩猟中の小休止に用いられる、簡素な宿泊用具"
+  }
+ },
+ {
+  "slug": "pop-up-camp",
+  "en": "Pop-up Camp",
+  "n": {
+   "en": "Pop-up Camp",
+   "zh-CN": "简易营地",
+   "zh-TW": "簡易營地",
+   "ja": "簡易キャンプ"
+  },
+  "desc": {
+   "en": "A pop-up facility used by hunters on the go to quickly change equipment.",
+   "zh-CN": "狩猎途中建立据点时用的组装型简易居住设施。",
+   "zh-TW": "狩獵途中建立據點時用的組裝型簡易居住設施。",
+   "ja": "狩猟の拠点として用いられる、組み立て式の簡易住居"
+  }
+ },
+ {
+  "slug": "palanx-striking-dummy",
+  "en": "Palanx Striking Dummy",
+  "n": {
+   "en": "Palanx Striking Dummy",
+   "zh-CN": "噔噔咚挑衅大盾木人",
+   "zh-TW": "噔噔咚挑釁大盾木人",
+   "ja": "でんでん挑発の盾・ダミー"
+  },
+  "desc": {
+   "en": "A striking dummy designed to resemble a stalwart Felyne friend.",
+   "zh-CN": "以随从艾露猫的盾为原型的训练用木头人。",
+   "zh-TW": "以隨從艾露貓的盾爲原型的訓練用木頭人。",
+   "ja": "オトモアイルーの盾を模した訓練用木人"
+  }
+ },
+ {
+  "slug": "traverse-clocktower",
+  "en": "Traverse Clocktower",
+  "n": {
+   "en": "Traverse Clocktower",
+   "zh-CN": "交错路座钟",
+   "zh-TW": "交錯路座鐘",
+   "ja": "トラバース・クロックタワー"
+  },
+  "desc": {
+   "en": "Crafted to resemble the clocktower awaiting adventurers who tread the furthest reaches of Pilgrim's Traverse, this timepiece makes an imposing, somewhat hypnotic addition to any garden.",
+   "zh-CN": "以设置在朝圣交错路最深处的座钟为原型制作的庭具。",
+   "zh-TW": "以設置在朝聖交錯路最深處的座鐘爲原型製作的庭具。",
+   "ja": "ピルグリム・トラバース最深部に備えられていた壁時計を模した庭具"
+  }
+ },
+ {
+  "slug": "traverse-tree",
+  "en": "Traverse Tree",
+  "n": {
+   "en": "Traverse Tree",
+   "zh-CN": "交错树",
+   "zh-TW": "交錯樹",
+   "ja": "トラバース・ツリー"
+  },
+  "desc": {
+   "en": "Native to the environs of Pilgrim's Traverse, this bulbous arboreal bloom casts an otherworldly glow.",
+   "zh-CN": "移植来点缀庭院的散发着微光的树，原本生长在朝圣交错路途中。",
+   "zh-TW": "移植來點綴庭院的散發着微光的樹，原本生長在朝聖交錯路途中。",
+   "ja": "造園用に移植した、ピルグリム・トラバース道中に自生していた淡く発光する樹木"
+  }
+ },
+ {
+  "slug": "docking-station-cover",
+  "en": "Docking Station Cover",
+  "n": {
+   "en": "Docking Station Cover",
+   "zh-CN": "宇宙站点顶棚",
+   "zh-TW": "宇宙站點頂棚",
+   "ja": "コスモステーションルーフ"
+  },
+  "desc": {
+   "en": "A freestanding roof to shelter one's rover from natural hazards.",
+   "zh-CN": "宇宙探索策划部开发的机械车辆用的顶棚。",
+   "zh-TW": "宇宙探索策劃部開發的機械車輛用的頂棚。",
+   "ja": "コスモエクスプローラー計画機構が開発した、カーポート用の屋根"
+  }
+ },
+ {
+  "slug": "cosmic-circumferbench",
+  "en": "Cosmic Circumferbench",
+  "n": {
+   "en": "Cosmic Circumferbench",
+   "zh-CN": "宇宙环形座椅",
+   "zh-TW": "宇宙環形座椅",
+   "ja": "コスモラウンドベンチ"
+  },
+  "desc": {
+   "en": "A marvel of space-saving public infrastructure, this lamppost incorporates 360-degree seating area.",
+   "zh-CN": "宇宙探索策划部开发的与路灯配合使用的环形座椅。",
+   "zh-TW": "宇宙探索策劃部開發的與路燈配合使用的環形座椅。",
+   "ja": "コスモエクスプローラー計画機構が開発した、街灯と一体型の円形ベンチ"
+  }
+ },
+ {
+  "slug": "weeping-cherry-tree",
+  "en": "Weeping Cherry Tree",
+  "n": {
+   "en": "Weeping Cherry Tree",
+   "zh-CN": "垂枝樱花树",
+   "zh-TW": "垂枝櫻花樹",
+   "ja": "ウィーピング・チェリーツリー"
+  },
+  "desc": {
+   "en": "A variety of cherry tree from the Far East selectively bred to produce supple, blossom-laden branches that stoop toward the ground.",
+   "zh-CN": "东方传来的一种树木，枝条柔软，前端重量增加后就会下垂，能够开出粉红色的花朵，经过修剪后很适合装饰在庭院中。",
+   "zh-TW": "東方傳來的一種樹木，枝條柔軟，前端重量增加後就會下垂，能夠開出粉紅色的花朵，經過修剪後很適合裝飾在庭院中。",
+   "ja": "薄桃色の花を咲かせる東方の樹木を造園用に切り出したもの。枝が柔らかく、重みで垂れるのが特徴の品種"
+  }
+ },
+ {
+  "slug": "hunter-s-camp-chair",
+  "en": "Hunter's Camp Chair",
+  "n": {
+   "en": "Hunter's Camp Chair",
+   "zh-CN": "猎人营地椅",
+   "zh-TW": "獵人營地椅",
+   "ja": "ハンターキャンプチェア"
+  },
+  "desc": {
+   "en": "A foldable seat employed by many a hunter in the field, and only in the field.",
+   "zh-CN": "每个猎人都会随身携带的朴素折叠椅。",
+   "zh-TW": "每個獵人都會隨身攜帶的樸素摺疊椅。",
+   "ja": "ハンター必携の、簡素な折り畳み椅子"
+  }
+ },
+ {
+  "slug": "authentic-senor-sabotender-chronometer",
+  "en": "Authentic Senor Sabotender Chronometer",
+  "n": {
+   "en": "Authentic Senor Sabotender Chronometer",
+   "zh-CN": "特制仙人刺先生时钟",
+   "zh-TW": "特製仙人刺先生時鐘",
+   "ja": "セニョール・サボテンダー・クロノメーターEX"
+  },
+  "desc": {
+   "en": "The ruthless progression of time cannot be altered—but its cruel effects on one's countenance can be mollified somewhat by the authentic charms of Senor Sabotender.",
+   "zh-CN": "由仙人刺先生负责报时的室外时钟。",
+   "zh-TW": "由仙人刺先生負責報時的室外時鐘。",
+   "ja": "セニョール・サボテンダーが時を知らせる屋外時計"
+  }
+ },
+ {
+  "slug": "east-end-tree",
+  "en": "East End Tree",
+  "n": {
+   "en": "East End Tree",
+   "zh-CN": "东境园艺树",
+   "zh-TW": "東境園藝樹",
+   "ja": "イーストエンド・ツリー"
+  },
+  "desc": {
+   "en": "This specimen transplanted from a disputed forest lends a touch of ennui to any lawn.",
+   "zh-CN": "落叶期之前从东境混交林采伐来的园艺树。",
+   "zh-TW": "落葉期之前從東境混交林採伐來的園藝樹。",
+   "ja": "落葉前のイーストエンド混交林の樹木を造園用に切り出したもの"
+  }
+ },
+ {
+  "slug": "gardener-s-gate",
+  "en": "Gardener's Gate",
+  "n": {
+   "en": "Gardener's Gate",
+   "zh-CN": "花店花园大门",
+   "zh-TW": "花店花園大門",
+   "ja": "フローリスト・ガーデンゲート"
+  },
+  "desc": {
+   "en": "Four out of five gardeners agree that this gate is, in design and practicality, perfect for any garden. (The fifth gardener was gardening during the vote.)",
+   "zh-CN": "安装有植物纹样门扉的花园大门。",
+   "zh-TW": "安裝有植物紋樣門扉的花園大門。",
+   "ja": "植物を模した扉が付いた、ゲート型のオブジェ"
+  }
+ },
+ {
+  "slug": "hewn-stone-circle",
+  "en": "Hewn Stone Circle",
+  "n": {
+   "en": "Hewn Stone Circle",
+   "zh-CN": "砖石圈",
+   "zh-TW": "磚石圈",
+   "ja": "ブリックサークル"
+  },
+  "desc": {
+   "en": "Rocks carefully placed for purposes of aesthetics, social gatherings, or potentially arcane rituals.",
+   "zh-CN": "围成了一个同心圆的砖踏脚。",
+   "zh-TW": "圍成了一個同心圓的磚踏腳。",
+   "ja": "同心円状に散らして配置されたレンガ床"
+  }
+ },
+ {
+  "slug": "hedge-trimmed-flower-bed",
+  "en": "Hedge-trimmed Flower Bed",
+  "n": {
+   "en": "Hedge-trimmed Flower Bed",
+   "zh-CN": "四分树篱",
+   "zh-TW": "四分樹籬",
+   "ja": "クアドラント・ヘッジ"
+  },
+  "desc": {
+   "en": "A circular hedge tenderly blossoming and primly kept.",
+   "zh-CN": "四分之一圆的开花树篱。",
+   "zh-TW": "四分之一圓的開花樹籬。",
+   "ja": "花咲く四分円状の生け垣"
+  }
+ },
+ {
+  "slug": "chocobo-chick-fountain",
+  "en": "Chocobo Chick Fountain",
+  "n": {
+   "en": "Chocobo Chick Fountain",
+   "zh-CN": "巧儿陆行鸟喷泉",
+   "zh-TW": "巧兒陸行鳥噴泉",
+   "ja": "チョコチョコボ・ファウンテン"
+  },
+  "desc": {
+   "en": "Darling yellow birds float whimsically in this tiered fountain, providing decoration for the garden and succor for the soul.",
+   "zh-CN": "再现了巧儿陆行鸟们玩闹场景的喷泉。",
+   "zh-TW": "再現了巧兒陸行鳥們玩鬧場景的噴泉。",
+   "ja": "チョコチョコボたちが楽しげに遊ぶ様を再現した噴水"
+  }
+ },
+ {
+  "slug": "occult-epitaph",
+  "en": "Occult Epitaph",
+  "n": {
+   "en": "Occult Epitaph",
+   "zh-CN": "魔石碑",
+   "zh-TW": "魔石碑",
+   "ja": "マギ・エピタフ"
+  },
+  "desc": {
+   "en": "A replica of a sizable stone engraved with esoteric carvings found on the Occult Crescent.",
+   "zh-CN": "记载了未解读文字的巨大石碑的复制品。",
+   "zh-TW": "記載了未解讀文字的巨大石碑的複製品。",
+   "ja": "未解読の文字が記された巨大な石碑の複製品"
+  }
+ },
+ {
+  "slug": "stellar-lamppost",
+  "en": "Stellar Lamppost",
+  "n": {
+   "en": "Stellar Lamppost",
+   "zh-CN": "宇宙路灯",
+   "zh-TW": "宇宙路燈",
+   "ja": "コスモランプポスト"
+  },
+  "desc": {
+   "en": "Though this piece of illuminating infrastructure has been specially designed to function in the icy vacuum of space, it is still not rated for licking.",
+   "zh-CN": "宇宙探索策划部开发的可以应付宇宙严苛环境的路灯。",
+   "zh-TW": "宇宙探索策劃部開發的可以應付宇宙嚴苛環境的路燈。",
+   "ja": "コスモエクスプローラー計画機構が開発した、過酷な環境でも安定して動作する街灯"
+  }
+ },
+ {
+  "slug": "cosmic-safety-lamp",
+  "en": "Cosmic Safety Lamp",
+  "n": {
+   "en": "Cosmic Safety Lamp",
+   "zh-CN": "宇宙指示灯",
+   "zh-TW": "宇宙指示燈",
+   "ja": "コスモガイドランプ"
+  },
+  "desc": {
+   "en": "Developed by the Cosmic Exploration Initiative, this lamp remains functional in even the most unstable of environs.",
+   "zh-CN": "宇宙探索策划部开发的指示灯，即使在极端环境中也能稳定运行。",
+   "zh-TW": "宇宙探索策劃部開發的指示燈，即使在極端環境中也能穩定運行。",
+   "ja": "コスモエクスプローラー計画機構が開発した、過酷な環境でも安定して動作する誘導灯"
+  }
+ },
+ {
+  "slug": "cosmic-antenna",
+  "en": "Cosmic Antenna",
+  "n": {
+   "en": "Cosmic Antenna",
+   "zh-CN": "宇宙天线",
+   "zh-TW": "宇宙天線",
+   "ja": "コスモアンテナ"
+  },
+  "desc": {
+   "en": "Developed by the Cosmic Exploration Initiative, this antenna emits a strong and stable signal without interruption.",
+   "zh-CN": "宇宙探索策划部开发的特殊装置，用于高效收发雷波。",
+   "zh-TW": "宇宙探索策劃部開發的特殊裝置，用於高效收發雷波。",
+   "ja": "コスモエクスプローラー計画機構が開発した、効率的に雷波を送受信するための装置"
+  }
+ },
+ {
+  "slug": "shady-cosmoshelter",
+  "en": "Shady Cosmoshelter",
+  "n": {
+   "en": "Shady Cosmoshelter",
+   "zh-CN": "宇宙遮阳棚",
+   "zh-TW": "宇宙遮陽棚",
+   "ja": "コスモシェード"
+  },
+  "desc": {
+   "en": "Developed by the Cosmic Exploration Initiative, this roofed structure protects against falling objects as well as harmful rays of light.",
+   "zh-CN": "宇宙探索策划部开发的道路遮蔽物，用于躲避来自天空的飞行物和有害光线。",
+   "zh-TW": "宇宙探索策劃部開發的道路遮蔽物，用於躲避來自天空的飛行物和有害光線。",
+   "ja": "コスモエクスプローラー計画機構が開発した、頭上からの飛来物や有害な光線を防ぐための覆道"
+  }
+ },
+ {
+  "slug": "lawn-mograft",
+  "en": "Lawn Mograft",
+  "n": {
+   "en": "Lawn Mograft",
+   "zh-CN": "莫古力充气床",
+   "zh-TW": "莫古力充氣牀",
+   "ja": "モーグリ・バルーンボート"
+  },
+  "desc": {
+   "en": "Made to float carefree upon the water, this inflatable moogle serves equally well as whimsical garden seating.",
+   "zh-CN": "水上器材，可以漂在水面上，做成了莫古力的样子。",
+   "zh-TW": "水上器材，可以漂在水面上，做成了莫古力的樣子。",
+   "ja": "モーグリ型の水上浮き具"
+  }
+ },
+ {
+  "slug": "lawn-chocobo-raft",
+  "en": "Lawn Chocobo Raft",
+  "n": {
+   "en": "Lawn Chocobo Raft",
+   "zh-CN": "陆行鸟充气床",
+   "zh-TW": "陸行鳥充氣牀",
+   "ja": "チョコボ・バルーンボート"
+  },
+  "desc": {
+   "en": "Made to float carefree upon the water, this inflatable chocobo serves equally well as whimsical garden seating.",
+   "zh-CN": "水上器材，可以漂在水面上，做成了陆行鸟的样子。",
+   "zh-TW": "水上器材，可以漂在水面上，做成了陸行鳥的樣子。",
+   "ja": "チョコボ型の水上浮き具"
+  }
+ },
+ {
+  "slug": "lawn-bomb-raft",
+  "en": "Lawn Bomb Raft",
+  "n": {
+   "en": "Lawn Bomb Raft",
+   "zh-CN": "爆弹怪充气床",
+   "zh-TW": "爆彈怪充氣牀",
+   "ja": "ボム・バルーンボート"
+  },
+  "desc": {
+   "en": "Made to float carefree upon the water, this inflatable bomb serves equally well as whimsical garden seating.",
+   "zh-CN": "水上器材，可以漂在水面上，做成了爆弹怪的样子。",
+   "zh-TW": "水上器材，可以漂在水面上，做成了爆彈怪的樣子。",
+   "ja": "ボム型の水上浮き具"
+  }
+ },
+ {
+  "slug": "corvosi-crystal",
+  "en": "Corvosi Crystal",
+  "n": {
+   "en": "Corvosi Crystal",
+   "zh-CN": "天方水晶",
+   "zh-TW": "天方水晶",
+   "ja": "コルヴォシ・クリスタル"
+  },
+  "desc": {
+   "en": "A crystal so royally purple, no sumptuous mansion of untold riches would truly be complete without one. Preferably two.",
+   "zh-CN": "科尔沃样式的大型水晶摆件。",
+   "zh-TW": "科爾沃樣式的大型水晶擺件。",
+   "ja": "コルヴォ様式の大型クリスタルのオブジェ"
+  }
+ },
+ {
+  "slug": "mhachi-lamppost",
+  "en": "Mhachi Lamppost",
+  "n": {
+   "en": "Mhachi Lamppost",
+   "zh-CN": "玛哈路灯",
+   "zh-TW": "瑪哈路燈",
+   "ja": "マハ・ランプポスト"
+  },
+  "desc": {
+   "en": "This ornate, somewhat somber lamppost appears to be of ancient Mhachi design.",
+   "zh-CN": "被认为是魔法城邦玛哈样式的路灯。",
+   "zh-TW": "被認爲是魔法城邦瑪哈樣式的路燈。",
+   "ja": "魔法都市マハ様式と思われる街灯"
+  }
+ },
+ {
+  "slug": "garden-mood-lighting",
+  "en": "Garden Mood Lighting",
+  "n": {
+   "en": "Garden Mood Lighting",
+   "zh-CN": "花园装饰彩灯",
+   "zh-TW": "花園裝飾彩燈",
+   "ja": "ガーデン・パーティライト"
+  },
+  "desc": {
+   "en": "Perfect for setting a festive mood far past the point when everyone should have gone home.",
+   "zh-CN": "庆祝节日用的小型照明灯具，可以挂在两根立柱之间。",
+   "zh-TW": "慶祝節日用的小型照明燈具，可以掛在兩根立柱之間。",
+   "ja": "祝祭などで用いられる、柱の間に連ねた小さな飾り照明"
+  }
+ },
+ {
+  "slug": "semicircular-outdoor-stage",
+  "en": "Semicircular Outdoor Stage",
+  "n": {
+   "en": "Semicircular Outdoor Stage",
+   "zh-CN": "半圆花园舞台",
+   "zh-TW": "半圓花園舞臺",
+   "ja": "セミサークル・ガーデンステージ"
+  },
+  "desc": {
+   "en": "For thespians whose brilliance cannot be bound by the stifling walls of a theater.",
+   "zh-CN": "半圆形的室外舞台。",
+   "zh-TW": "半圓形的室外舞臺。",
+   "ja": "半円形の屋外用舞台"
+  }
+ },
+ {
+  "slug": "auxesian-waygate",
+  "en": "Auxesian Waygate",
+  "n": {
+   "en": "Auxesian Waygate",
+   "zh-CN": "奥克塞西亚高速路门",
+   "zh-TW": "奧克塞西亞高速路門",
+   "ja": "アウクセシア・ハイウェイゲート"
+  },
+  "desc": {
+   "en": "Crafted by an artisan of the Cosmic Exploration Initiative to resemble the gallant gantries of Auxesia.",
+   "zh-CN": "奥克塞西亚文明在道路上设置的多功能大门，由宇宙探索计划的技术人员仿制重现。",
+   "zh-TW": "奧克塞西亞文明在道路上設置的多功能大門，由宇宙探索計劃的技術人員仿製重現。",
+   "ja": "コスモエクスプローラー計画機構の技術者によって再現された、惑星アウクセシア文明が道路に設置していた多機能ゲート"
+  }
+ },
+ {
+  "slug": "auxesian-waylight",
+  "en": "Auxesian Waylight",
+  "n": {
+   "en": "Auxesian Waylight",
+   "zh-CN": "奥克塞西亚高速路灯",
+   "zh-TW": "奧克塞西亞高速路燈",
+   "ja": "アウクセシア・ハイウェイライト"
+  },
+  "desc": {
+   "en": "Crafted by an artisan of the Cosmic Exploration Initiative to resemble the roadside illuminations of Auxesia.",
+   "zh-CN": "奥克塞西亚文明为引导车辆在道路上设置的灯具，由宇宙探索计划的技术人员仿制重现。",
+   "zh-TW": "奧克塞西亞文明爲引導車輛在道路上設置的燈具，由宇宙探索計劃的技術人員仿製重現。",
+   "ja": "コスモエクスプローラー計画機構の技術者によって再現された、惑星アウクセシア文明が道路に設置していた車両誘導灯"
+  }
+ }
+]

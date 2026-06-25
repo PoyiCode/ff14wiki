@@ -1,0 +1,6 @@
+id: gardener-s-gate
+category: garden
+type: yard_object
+furnishing: "Gardener's Gate"
+tags: [garden, housing, outdoor]
+status: stable

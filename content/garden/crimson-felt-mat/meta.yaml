@@ -1,0 +1,6 @@
+id: crimson-felt-mat
+category: garden
+type: yard_object
+furnishing: "Crimson Felt Mat"
+tags: [garden, housing, outdoor]
+status: stable

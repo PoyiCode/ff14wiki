@@ -1,0 +1,6 @@
+id: birdbath
+category: garden
+type: yard_object
+furnishing: "Birdbath"
+tags: [garden, housing, outdoor]
+status: stable

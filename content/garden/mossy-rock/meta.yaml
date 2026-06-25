@@ -1,0 +1,6 @@
+id: mossy-rock
+category: garden
+type: yard_object
+furnishing: "Mossy Rock"
+tags: [garden, housing, outdoor]
+status: stable

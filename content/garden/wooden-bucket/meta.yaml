@@ -1,0 +1,6 @@
+id: wooden-bucket
+category: garden
+type: yard_object
+furnishing: "Wooden Bucket"
+tags: [garden, housing, outdoor]
+status: stable

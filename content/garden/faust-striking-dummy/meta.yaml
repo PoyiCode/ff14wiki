@@ -1,0 +1,6 @@
+id: faust-striking-dummy
+category: garden
+type: yard_object
+furnishing: "Faust Striking Dummy"
+tags: [garden, housing, outdoor]
+status: stable

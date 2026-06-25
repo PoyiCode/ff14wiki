@@ -1,0 +1,6 @@
+id: large-planter-box
+category: garden
+type: yard_object
+furnishing: "Large Planter Box"
+tags: [garden, housing, outdoor]
+status: stable

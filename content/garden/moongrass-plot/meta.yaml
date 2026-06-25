@@ -1,0 +1,6 @@
+id: moongrass-plot
+category: garden
+type: yard_object
+furnishing: "Moongrass Plot"
+tags: [garden, housing, outdoor]
+status: stable

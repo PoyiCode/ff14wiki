@@ -1,0 +1,6 @@
+id: wildflower-bed
+category: garden
+type: yard_object
+furnishing: "Wildflower Bed"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: explorer-s-campfire
+category: garden
+type: yard_object
+furnishing: "Explorer's Campfire"
+tags: [garden, housing, outdoor]
+status: stable

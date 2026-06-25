@@ -1,0 +1,6 @@
+id: dataqi-standard
+category: garden
+type: yard_object
+furnishing: "Dataqi Standard"
+tags: [garden, housing, outdoor]
+status: stable

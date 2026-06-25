@@ -1,0 +1,6 @@
+id: wild-banana-tree
+category: garden
+type: yard_object
+furnishing: "Wild Banana Tree"
+tags: [garden, housing, outdoor]
+status: stable

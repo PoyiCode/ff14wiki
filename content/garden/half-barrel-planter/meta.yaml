@@ -1,0 +1,6 @@
+id: half-barrel-planter
+category: garden
+type: yard_object
+furnishing: "Half Barrel Planter"
+tags: [garden, housing, outdoor]
+status: stable

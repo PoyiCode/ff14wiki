@@ -1,0 +1,6 @@
+id: toro-lantern
+category: garden
+type: yard_object
+furnishing: "Toro Lantern"
+tags: [garden, housing, outdoor]
+status: stable

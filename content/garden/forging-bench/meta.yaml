@@ -1,0 +1,6 @@
+id: forging-bench
+category: garden
+type: yard_object
+furnishing: "Forging Bench"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: island-parasol-table
+category: garden
+type: yard_object
+furnishing: "Island Parasol Table"
+tags: [garden, housing, outdoor]
+status: stable

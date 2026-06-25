@@ -1,0 +1,6 @@
+id: stone-garden-wall
+category: garden
+type: yard_object
+furnishing: "Stone Garden Wall"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: seastone-brazier
+category: garden
+type: yard_object
+furnishing: "Seastone Brazier"
+tags: [garden, housing, outdoor]
+status: stable

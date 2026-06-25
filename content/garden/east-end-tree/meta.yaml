@@ -1,0 +1,6 @@
+id: east-end-tree
+category: garden
+type: yard_object
+furnishing: "East End Tree"
+tags: [garden, housing, outdoor]
+status: stable

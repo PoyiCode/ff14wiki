@@ -1,0 +1,6 @@
+id: auxesian-waygate
+category: garden
+type: yard_object
+furnishing: "Auxesian Waygate"
+tags: [garden, housing, outdoor]
+status: stable

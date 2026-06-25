@@ -1,0 +1,6 @@
+id: campfire
+category: garden
+type: yard_object
+furnishing: "Campfire"
+tags: [garden, housing, outdoor]
+status: stable

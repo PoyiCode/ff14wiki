@@ -1,0 +1,6 @@
+id: dandelion-plot
+category: garden
+type: yard_object
+furnishing: "Dandelion Plot"
+tags: [garden, housing, outdoor]
+status: stable

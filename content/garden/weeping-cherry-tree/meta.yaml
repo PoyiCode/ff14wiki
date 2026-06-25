@@ -1,0 +1,6 @@
+id: weeping-cherry-tree
+category: garden
+type: yard_object
+furnishing: "Weeping Cherry Tree"
+tags: [garden, housing, outdoor]
+status: stable

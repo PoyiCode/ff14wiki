@@ -1,0 +1,6 @@
+id: oaken-bench
+category: garden
+type: yard_object
+furnishing: "Oaken Bench"
+tags: [garden, housing, outdoor]
+status: stable

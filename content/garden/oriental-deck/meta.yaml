@@ -1,0 +1,6 @@
+id: oriental-deck
+category: garden
+type: yard_object
+furnishing: "Oriental Deck"
+tags: [garden, housing, outdoor]
+status: stable

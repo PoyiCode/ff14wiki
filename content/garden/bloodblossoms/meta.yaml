@@ -1,0 +1,6 @@
+id: bloodblossoms
+category: garden
+type: yard_object
+furnishing: "Bloodblossoms"
+tags: [garden, housing, outdoor]
+status: stable

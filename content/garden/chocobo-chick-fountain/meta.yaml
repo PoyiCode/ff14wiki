@@ -1,0 +1,6 @@
+id: chocobo-chick-fountain
+category: garden
+type: yard_object
+furnishing: "Chocobo Chick Fountain"
+tags: [garden, housing, outdoor]
+status: stable

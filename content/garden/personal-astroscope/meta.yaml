@@ -1,0 +1,6 @@
+id: personal-astroscope
+category: garden
+type: yard_object
+furnishing: "Personal Astroscope"
+tags: [garden, housing, outdoor]
+status: stable

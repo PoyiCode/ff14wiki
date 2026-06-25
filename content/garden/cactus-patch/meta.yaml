@@ -1,0 +1,6 @@
+id: cactus-patch
+category: garden
+type: yard_object
+furnishing: "Cactus Patch"
+tags: [garden, housing, outdoor]
+status: stable

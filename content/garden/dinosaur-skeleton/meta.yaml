@@ -1,0 +1,6 @@
+id: dinosaur-skeleton
+category: garden
+type: yard_object
+furnishing: "Dinosaur Skeleton"
+tags: [garden, housing, outdoor]
+status: stable

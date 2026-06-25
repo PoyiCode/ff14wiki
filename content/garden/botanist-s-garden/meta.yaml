@@ -1,0 +1,6 @@
+id: botanist-s-garden
+category: garden
+type: yard_object
+furnishing: "Botanist's Garden"
+tags: [garden, housing, outdoor]
+status: stable

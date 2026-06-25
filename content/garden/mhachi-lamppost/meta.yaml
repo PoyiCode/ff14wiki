@@ -1,0 +1,6 @@
+id: mhachi-lamppost
+category: garden
+type: yard_object
+furnishing: "Mhachi Lamppost"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: simple-fountain
+category: garden
+type: yard_object
+furnishing: "Simple Fountain"
+tags: [garden, housing, outdoor]
+status: stable

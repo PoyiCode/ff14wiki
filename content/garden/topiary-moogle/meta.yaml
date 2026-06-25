@@ -1,0 +1,6 @@
+id: topiary-moogle
+category: garden
+type: yard_object
+furnishing: "Topiary Moogle"
+tags: [garden, housing, outdoor]
+status: stable

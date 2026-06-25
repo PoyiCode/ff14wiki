@@ -1,0 +1,6 @@
+id: traverse-clocktower
+category: garden
+type: yard_object
+furnishing: "Traverse Clocktower"
+tags: [garden, housing, outdoor]
+status: stable

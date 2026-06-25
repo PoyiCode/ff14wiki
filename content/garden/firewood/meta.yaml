@@ -1,0 +1,6 @@
+id: firewood
+category: garden
+type: yard_object
+furnishing: "Firewood"
+tags: [garden, housing, outdoor]
+status: stable

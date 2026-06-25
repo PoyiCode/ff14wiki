@@ -1,0 +1,6 @@
+id: low-barrel-planter
+category: garden
+type: yard_object
+furnishing: "Low Barrel Planter"
+tags: [garden, housing, outdoor]
+status: stable

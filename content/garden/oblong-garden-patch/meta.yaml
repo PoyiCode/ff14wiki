@@ -1,0 +1,6 @@
+id: oblong-garden-patch
+category: garden
+type: yard_object
+furnishing: "Oblong Garden Patch"
+tags: [garden, housing, outdoor]
+status: stable

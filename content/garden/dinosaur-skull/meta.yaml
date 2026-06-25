@@ -1,0 +1,6 @@
+id: dinosaur-skull
+category: garden
+type: yard_object
+furnishing: "Dinosaur Skull"
+tags: [garden, housing, outdoor]
+status: stable

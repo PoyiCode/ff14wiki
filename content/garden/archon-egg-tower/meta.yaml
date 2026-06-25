@@ -1,0 +1,6 @@
+id: archon-egg-tower
+category: garden
+type: yard_object
+furnishing: "Archon Egg Tower"
+tags: [garden, housing, outdoor]
+status: stable

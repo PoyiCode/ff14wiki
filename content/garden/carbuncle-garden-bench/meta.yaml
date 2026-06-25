@@ -1,0 +1,6 @@
+id: carbuncle-garden-bench
+category: garden
+type: yard_object
+furnishing: "Carbuncle Garden Bench"
+tags: [garden, housing, outdoor]
+status: stable

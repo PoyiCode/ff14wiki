@@ -1,0 +1,6 @@
+id: kadomatsu
+category: garden
+type: yard_object
+furnishing: "Kadomatsu"
+tags: [garden, housing, outdoor]
+status: stable

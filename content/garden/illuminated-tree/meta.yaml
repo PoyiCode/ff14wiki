@@ -1,0 +1,6 @@
+id: illuminated-tree
+category: garden
+type: yard_object
+furnishing: "Illuminated Tree"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: sagely-sparrow-statue
+category: garden
+type: yard_object
+furnishing: "Sagely Sparrow Statue"
+tags: [garden, housing, outdoor]
+status: stable

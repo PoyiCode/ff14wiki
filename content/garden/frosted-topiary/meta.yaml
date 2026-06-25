@@ -1,0 +1,6 @@
+id: frosted-topiary
+category: garden
+type: yard_object
+furnishing: "Frosted Topiary"
+tags: [garden, housing, outdoor]
+status: stable

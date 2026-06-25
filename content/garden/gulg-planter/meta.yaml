@@ -1,0 +1,6 @@
+id: gulg-planter
+category: garden
+type: yard_object
+furnishing: "Gulg Planter"
+tags: [garden, housing, outdoor]
+status: stable

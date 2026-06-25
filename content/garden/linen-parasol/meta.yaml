@@ -1,0 +1,6 @@
+id: linen-parasol
+category: garden
+type: yard_object
+furnishing: "Linen Parasol"
+tags: [garden, housing, outdoor]
+status: stable

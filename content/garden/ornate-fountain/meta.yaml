@@ -1,0 +1,6 @@
+id: ornate-fountain
+category: garden
+type: yard_object
+furnishing: "Ornate Fountain"
+tags: [garden, housing, outdoor]
+status: stable

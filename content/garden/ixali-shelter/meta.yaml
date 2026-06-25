@@ -1,0 +1,6 @@
+id: ixali-shelter
+category: garden
+type: yard_object
+furnishing: "Ixali Shelter"
+tags: [garden, housing, outdoor]
+status: stable

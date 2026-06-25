@@ -1,0 +1,6 @@
+id: docking-station-cover
+category: garden
+type: yard_object
+furnishing: "Docking Station Cover"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: sylphic-lamppost
+category: garden
+type: yard_object
+furnishing: "Sylphic Lamppost"
+tags: [garden, housing, outdoor]
+status: stable

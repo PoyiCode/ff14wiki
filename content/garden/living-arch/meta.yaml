@@ -1,0 +1,6 @@
+id: living-arch
+category: garden
+type: yard_object
+furnishing: "Living Arch"
+tags: [garden, housing, outdoor]
+status: stable

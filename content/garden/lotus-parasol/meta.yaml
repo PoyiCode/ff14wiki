@@ -1,0 +1,6 @@
+id: lotus-parasol
+category: garden
+type: yard_object
+furnishing: "Lotus Parasol"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: vegetable-garden
+category: garden
+type: yard_object
+furnishing: "Vegetable Garden"
+tags: [garden, housing, outdoor]
+status: stable

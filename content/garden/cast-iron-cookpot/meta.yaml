@@ -1,0 +1,6 @@
+id: cast-iron-cookpot
+category: garden
+type: yard_object
+furnishing: "Cast-iron Cookpot"
+tags: [garden, housing, outdoor]
+status: stable

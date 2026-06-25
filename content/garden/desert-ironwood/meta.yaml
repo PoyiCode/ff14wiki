@@ -1,0 +1,6 @@
+id: desert-ironwood
+category: garden
+type: yard_object
+furnishing: "Desert Ironwood"
+tags: [garden, housing, outdoor]
+status: stable

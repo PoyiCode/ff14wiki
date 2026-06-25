@@ -1,0 +1,6 @@
+id: deluxe-wooden-bucket
+category: garden
+type: yard_object
+furnishing: "Deluxe Wooden Bucket"
+tags: [garden, housing, outdoor]
+status: stable

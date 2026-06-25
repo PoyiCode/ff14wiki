@@ -1,0 +1,6 @@
+id: brick-garden-circle
+category: garden
+type: yard_object
+furnishing: "Brick Garden Circle"
+tags: [garden, housing, outdoor]
+status: stable

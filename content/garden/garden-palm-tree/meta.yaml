@@ -1,0 +1,6 @@
+id: garden-palm-tree
+category: garden
+type: yard_object
+furnishing: "Garden Palm Tree"
+tags: [garden, housing, outdoor]
+status: stable

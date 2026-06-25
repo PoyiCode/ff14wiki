@@ -1,0 +1,6 @@
+id: empty-present-boxes
+category: garden
+type: yard_object
+furnishing: "Empty Present Boxes"
+tags: [garden, housing, outdoor]
+status: stable

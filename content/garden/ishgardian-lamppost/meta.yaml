@@ -1,0 +1,6 @@
+id: ishgardian-lamppost
+category: garden
+type: yard_object
+furnishing: "Ishgardian Lamppost"
+tags: [garden, housing, outdoor]
+status: stable

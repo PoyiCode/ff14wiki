@@ -1,0 +1,6 @@
+id: retainer-cartonnier
+category: garden
+type: yard_object
+furnishing: "Retainer Cartonnier"
+tags: [garden, housing, outdoor]
+status: stable

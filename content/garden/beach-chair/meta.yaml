@@ -1,0 +1,6 @@
+id: beach-chair
+category: garden
+type: yard_object
+furnishing: "Beach Chair"
+tags: [garden, housing, outdoor]
+status: stable

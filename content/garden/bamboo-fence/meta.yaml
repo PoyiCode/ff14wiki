@@ -1,0 +1,6 @@
+id: bamboo-fence
+category: garden
+type: yard_object
+furnishing: "Bamboo Fence"
+tags: [garden, housing, outdoor]
+status: stable

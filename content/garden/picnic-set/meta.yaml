@@ -1,0 +1,6 @@
+id: picnic-set
+category: garden
+type: yard_object
+furnishing: "Picnic Set"
+tags: [garden, housing, outdoor]
+status: stable

@@ -1,0 +1,6 @@
+id: moonfire-lantern
+category: garden
+type: yard_object
+furnishing: "Moonfire Lantern"
+tags: [garden, housing, outdoor]
+status: stable
