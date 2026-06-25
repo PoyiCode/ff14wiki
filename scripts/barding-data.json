@@ -1,0 +1,1072 @@
+[
+ {
+  "slug": "leather-saddle",
+  "en": "Leather Saddle",
+  "n": {
+   "en": "Leather Saddle",
+   "zh-CN": "皮革陆行鸟鞍",
+   "zh-TW": "皮革陸行鳥鞍",
+   "ja": "レザーサドル"
+  }
+ },
+ {
+  "slug": "lominsan-saddle",
+  "en": "Lominsan Saddle",
+  "n": {
+   "en": "Lominsan Saddle",
+   "zh-CN": "碧海陆行鸟鞍",
+   "zh-TW": "碧海陸行鳥鞍",
+   "ja": "ロミンサン・サドル"
+  }
+ },
+ {
+  "slug": "lominsan-half-barding",
+  "en": "Lominsan Half Barding",
+  "n": {
+   "en": "Lominsan Half Barding",
+   "zh-CN": "碧海陆行鸟半装甲",
+   "zh-TW": "碧海陸行鳥半裝甲",
+   "ja": "ロミンサン・ハーフバード"
+  }
+ },
+ {
+  "slug": "lominsan-barding",
+  "en": "Lominsan Barding",
+  "n": {
+   "en": "Lominsan Barding",
+   "zh-CN": "碧海陆行鸟装甲",
+   "zh-TW": "碧海陸行鳥裝甲",
+   "ja": "ロミンサン・バード"
+  }
+ },
+ {
+  "slug": "lominsan-crested-barding",
+  "en": "Lominsan Crested Barding",
+  "n": {
+   "en": "Lominsan Crested Barding",
+   "zh-CN": "碧海陆行鸟武装甲",
+   "zh-TW": "碧海陸行鳥武裝甲",
+   "ja": "ロミンサン・クレステッドバード"
+  }
+ },
+ {
+  "slug": "gridanian-saddle",
+  "en": "Gridanian Saddle",
+  "n": {
+   "en": "Gridanian Saddle",
+   "zh-CN": "密林陆行鸟鞍",
+   "zh-TW": "密林陸行鳥鞍",
+   "ja": "グリダニアン・サドル"
+  }
+ },
+ {
+  "slug": "gridanian-half-barding",
+  "en": "Gridanian Half Barding",
+  "n": {
+   "en": "Gridanian Half Barding",
+   "zh-CN": "密林陆行鸟半装甲",
+   "zh-TW": "密林陸行鳥半裝甲",
+   "ja": "グリダニアン・ハーフバード"
+  }
+ },
+ {
+  "slug": "gridanian-barding",
+  "en": "Gridanian Barding",
+  "n": {
+   "en": "Gridanian Barding",
+   "zh-CN": "密林陆行鸟装甲",
+   "zh-TW": "密林陸行鳥裝甲",
+   "ja": "グリダニアン・バード"
+  }
+ },
+ {
+  "slug": "gridanian-crested-barding",
+  "en": "Gridanian Crested Barding",
+  "n": {
+   "en": "Gridanian Crested Barding",
+   "zh-CN": "密林陆行鸟武装甲",
+   "zh-TW": "密林陸行鳥武裝甲",
+   "ja": "グリダニアン・クレステッドバード"
+  }
+ },
+ {
+  "slug": "ul-dahn-saddle",
+  "en": "Ul'dahn Saddle",
+  "n": {
+   "en": "Ul'dahn Saddle",
+   "zh-CN": "黄沙陆行鸟鞍",
+   "zh-TW": "黃沙陸行鳥鞍",
+   "ja": "ウルダハン・サドル"
+  }
+ },
+ {
+  "slug": "ul-dahn-half-barding",
+  "en": "Ul'dahn Half Barding",
+  "n": {
+   "en": "Ul'dahn Half Barding",
+   "zh-CN": "黄沙陆行鸟半装甲",
+   "zh-TW": "黃沙陸行鳥半裝甲",
+   "ja": "ウルダハン・ハーフバード"
+  }
+ },
+ {
+  "slug": "ul-dahn-barding",
+  "en": "Ul'dahn Barding",
+  "n": {
+   "en": "Ul'dahn Barding",
+   "zh-CN": "黄沙陆行鸟装甲",
+   "zh-TW": "黃沙陸行鳥裝甲",
+   "ja": "ウルダハン・バード"
+  }
+ },
+ {
+  "slug": "ul-dahn-crested-barding",
+  "en": "Ul'dahn Crested Barding",
+  "n": {
+   "en": "Ul'dahn Crested Barding",
+   "zh-CN": "黄沙陆行鸟武装甲",
+   "zh-TW": "黃沙陸行鳥武裝甲",
+   "ja": "ウルダハン・クレステッドバード"
+  }
+ },
+ {
+  "slug": "paladin-barding",
+  "en": "Paladin Barding",
+  "n": {
+   "en": "Paladin Barding",
+   "zh-CN": "陆行鸟骑士装甲",
+   "zh-TW": "陸行鳥騎士裝甲",
+   "ja": "パラディン・バード"
+  }
+ },
+ {
+  "slug": "dragoon-barding",
+  "en": "Dragoon Barding",
+  "n": {
+   "en": "Dragoon Barding",
+   "zh-CN": "陆行鸟龙骑士装甲",
+   "zh-TW": "陸行鳥龍騎士裝甲",
+   "ja": "ドラグーン・バード"
+  }
+ },
+ {
+  "slug": "white-mage-barding",
+  "en": "White Mage Barding",
+  "n": {
+   "en": "White Mage Barding",
+   "zh-CN": "陆行鸟白魔装甲",
+   "zh-TW": "陸行鳥白魔裝甲",
+   "ja": "ホワイトメイジ・バード"
+  }
+ },
+ {
+  "slug": "sleipnir-barding",
+  "en": "Sleipnir Barding",
+  "n": {
+   "en": "Sleipnir Barding",
+   "zh-CN": "斯莱普尼尔装甲",
+   "zh-TW": "斯萊普尼爾裝甲",
+   "ja": "スレイプニル・バード"
+  }
+ },
+ {
+  "slug": "behemoth-barding",
+  "en": "Behemoth Barding",
+  "n": {
+   "en": "Behemoth Barding",
+   "zh-CN": "贝希摩斯装甲",
+   "zh-TW": "貝希摩斯裝甲",
+   "ja": "ベヒーモス・バード"
+  }
+ },
+ {
+  "slug": "flyer-shaffron",
+  "en": "Flyer Shaffron",
+  "n": {
+   "en": "Flyer Shaffron",
+   "zh-CN": "航空兜帽",
+   "zh-TW": "航空兜帽",
+   "ja": "フライヤー・バード"
+  }
+ },
+ {
+  "slug": "black-mage-barding",
+  "en": "Black Mage Barding",
+  "n": {
+   "en": "Black Mage Barding",
+   "zh-CN": "陆行鸟黑魔装甲",
+   "zh-TW": "陸行鳥黑魔裝甲",
+   "ja": "ブラックメイジ・バード"
+  }
+ },
+ {
+  "slug": "sovereign-barding",
+  "en": "Sovereign Barding",
+  "n": {
+   "en": "Sovereign Barding",
+   "zh-CN": "陆行鸟王装甲",
+   "zh-TW": "陸行鳥王裝甲",
+   "ja": "チョコキング・バード"
+  }
+ },
+ {
+  "slug": "starlight-barding",
+  "en": "Starlight Barding",
+  "n": {
+   "en": "Starlight Barding",
+   "zh-CN": "星芒装甲",
+   "zh-TW": "星芒裝甲",
+   "ja": "スターライト・バード"
+  }
+ },
+ {
+  "slug": "tidal-barding",
+  "en": "Tidal Barding",
+  "n": {
+   "en": "Tidal Barding",
+   "zh-CN": "利维亚桑装甲",
+   "zh-TW": "利維亞桑裝甲",
+   "ja": "リヴァイアサン・バード"
+  }
+ },
+ {
+  "slug": "barding-of-light",
+  "en": "Barding of Light",
+  "n": {
+   "en": "Barding of Light",
+   "zh-CN": "光之鸟甲",
+   "zh-TW": "光之鳥甲",
+   "ja": "バード・オブ・ライト"
+  }
+ },
+ {
+  "slug": "egg-barding",
+  "en": "Egg Barding",
+  "n": {
+   "en": "Egg Barding",
+   "zh-CN": "猎蛋装甲",
+   "zh-TW": "獵蛋裝甲",
+   "ja": "エッガー・バード"
+  }
+ },
+ {
+  "slug": "levin-barding",
+  "en": "Levin Barding",
+  "n": {
+   "en": "Levin Barding",
+   "zh-CN": "拉姆装甲",
+   "zh-TW": "拉姆裝甲",
+   "ja": "ラムウ・バード"
+  }
+ },
+ {
+  "slug": "plumed-barding",
+  "en": "Plumed Barding",
+  "n": {
+   "en": "Plumed Barding",
+   "zh-CN": "羽饰装甲",
+   "zh-TW": "羽飾裝甲",
+   "ja": "プルームド・バード"
+  }
+ },
+ {
+  "slug": "eerie-barding",
+  "en": "Eerie Barding",
+  "n": {
+   "en": "Eerie Barding",
+   "zh-CN": "怪诞装甲",
+   "zh-TW": "怪誕裝甲",
+   "ja": "イアリ・バード"
+  }
+ },
+ {
+  "slug": "ice-barding",
+  "en": "Ice Barding",
+  "n": {
+   "en": "Ice Barding",
+   "zh-CN": "希瓦装甲",
+   "zh-TW": "希瓦裝甲",
+   "ja": "シヴァ・バード"
+  }
+ },
+ {
+  "slug": "gambler-barding",
+  "en": "Gambler Barding",
+  "n": {
+   "en": "Gambler Barding",
+   "zh-CN": "胜负师装甲",
+   "zh-TW": "勝負師裝甲",
+   "ja": "ギャンブラー・バード"
+  }
+ },
+ {
+  "slug": "paramour-barding",
+  "en": "Paramour Barding",
+  "n": {
+   "en": "Paramour Barding",
+   "zh-CN": "情人装甲",
+   "zh-TW": "情人裝甲",
+   "ja": "パラムール・バード"
+  }
+ },
+ {
+  "slug": "ishgardian-half-barding",
+  "en": "Ishgardian Half Barding",
+  "n": {
+   "en": "Ishgardian Half Barding",
+   "zh-CN": "崇山陆行鸟半装甲",
+   "zh-TW": "崇山陸行鳥半裝甲",
+   "ja": "イシュガルディアン・ハーフバード"
+  }
+ },
+ {
+  "slug": "ishgardian-barding",
+  "en": "Ishgardian Barding",
+  "n": {
+   "en": "Ishgardian Barding",
+   "zh-CN": "崇山陆行鸟装甲",
+   "zh-TW": "崇山陸行鳥裝甲",
+   "ja": "イシュガルディアン・バード"
+  }
+ },
+ {
+  "slug": "expanse-barding",
+  "en": "Expanse Barding",
+  "n": {
+   "en": "Expanse Barding",
+   "zh-CN": "俾斯麦装甲",
+   "zh-TW": "俾斯麥裝甲",
+   "ja": "ビスマルク・バード"
+  }
+ },
+ {
+  "slug": "hive-barding",
+  "en": "Hive Barding",
+  "n": {
+   "en": "Hive Barding",
+   "zh-CN": "罗波那装甲",
+   "zh-TW": "羅波那裝甲",
+   "ja": "ラーヴァナ・バード"
+  }
+ },
+ {
+  "slug": "noble-barding",
+  "en": "Noble Barding",
+  "n": {
+   "en": "Noble Barding",
+   "zh-CN": "贵族装甲",
+   "zh-TW": "貴族裝甲",
+   "ja": "ノーブル・バード"
+  }
+ },
+ {
+  "slug": "orthodox-barding",
+  "en": "Orthodox Barding",
+  "n": {
+   "en": "Orthodox Barding",
+   "zh-CN": "正教装甲",
+   "zh-TW": "正教裝甲",
+   "ja": "オーソドックスバード"
+  }
+ },
+ {
+  "slug": "highland-barding",
+  "en": "Highland Barding",
+  "n": {
+   "en": "Highland Barding",
+   "zh-CN": "高地装甲",
+   "zh-TW": "高地裝甲",
+   "ja": "ハイランド・バード"
+  }
+ },
+ {
+  "slug": "wild-rose-barding",
+  "en": "Wild Rose Barding",
+  "n": {
+   "en": "Wild Rose Barding",
+   "zh-CN": "野玫瑰装甲",
+   "zh-TW": "野玫瑰裝甲",
+   "ja": "ワイルドローズバード"
+  }
+ },
+ {
+  "slug": "round-table-barding",
+  "en": "Round Table Barding",
+  "n": {
+   "en": "Round Table Barding",
+   "zh-CN": "圆桌装甲",
+   "zh-TW": "圓桌裝甲",
+   "ja": "バード・オブ・ラウンド"
+  }
+ },
+ {
+  "slug": "sephirotic-barding",
+  "en": "Sephirotic Barding",
+  "n": {
+   "en": "Sephirotic Barding",
+   "zh-CN": "萨菲洛特装甲",
+   "zh-TW": "薩菲洛特裝甲",
+   "ja": "セフィロト・バード"
+  }
+ },
+ {
+  "slug": "egg-hunter-barding",
+  "en": "Egg Hunter Barding",
+  "n": {
+   "en": "Egg Hunter Barding",
+   "zh-CN": "猎蛋人装甲",
+   "zh-TW": "獵蛋人裝甲",
+   "ja": "エッグハンター・バード"
+  }
+ },
+ {
+  "slug": "far-eastern-barding",
+  "en": "Far Eastern Barding",
+  "n": {
+   "en": "Far Eastern Barding",
+   "zh-CN": "东方装甲",
+   "zh-TW": "東方裝甲",
+   "ja": "ファーイースト・バード"
+  }
+ },
+ {
+  "slug": "race-barding",
+  "en": "Race Barding",
+  "n": {
+   "en": "Race Barding",
+   "zh-CN": "竞赛装甲",
+   "zh-TW": "競賽裝甲",
+   "ja": "レーシング・バード"
+  }
+ },
+ {
+  "slug": "horde-barding",
+  "en": "Horde Barding",
+  "n": {
+   "en": "Horde Barding",
+   "zh-CN": "邪龙装甲",
+   "zh-TW": "邪龍裝甲",
+   "ja": "ニーズヘッグ・バード"
+  }
+ },
+ {
+  "slug": "butlery-barding",
+  "en": "Butlery Barding",
+  "n": {
+   "en": "Butlery Barding",
+   "zh-CN": "管家装甲",
+   "zh-TW": "管家裝甲",
+   "ja": "バトラー・バード"
+  }
+ },
+ {
+  "slug": "sophic-barding",
+  "en": "Sophic Barding",
+  "n": {
+   "en": "Sophic Barding",
+   "zh-CN": "索菲娅装甲",
+   "zh-TW": "索菲婭裝甲",
+   "ja": "ソフィア・バード"
+  }
+ },
+ {
+  "slug": "abigail-barding",
+  "en": "Abigail Barding",
+  "n": {
+   "en": "Abigail Barding",
+   "zh-CN": "女仆装甲",
+   "zh-TW": "女僕裝甲",
+   "ja": "メイド・バード"
+  }
+ },
+ {
+  "slug": "mandervillian-barding",
+  "en": "Mandervillian Barding",
+  "n": {
+   "en": "Mandervillian Barding",
+   "zh-CN": "曼德维尔女仆装甲",
+   "zh-TW": "曼德維爾女僕裝甲",
+   "ja": "マンダヴィルメイド・バード"
+  }
+ },
+ {
+  "slug": "angelic-barding",
+  "en": "Angelic Barding",
+  "n": {
+   "en": "Angelic Barding",
+   "zh-CN": "天使装甲",
+   "zh-TW": "天使裝甲",
+   "ja": "エンジェル・バード"
+  }
+ },
+ {
+  "slug": "demonic-barding",
+  "en": "Demonic Barding",
+  "n": {
+   "en": "Demonic Barding",
+   "zh-CN": "恶魔装甲",
+   "zh-TW": "惡魔裝甲",
+   "ja": "デモン・バード"
+  }
+ },
+ {
+  "slug": "zurvanite-barding",
+  "en": "Zurvanite Barding",
+  "n": {
+   "en": "Zurvanite Barding",
+   "zh-CN": "祖尔宛装甲",
+   "zh-TW": "祖爾宛裝甲",
+   "ja": "ズルワーン・バード"
+  }
+ },
+ {
+  "slug": "reveler-s-barding",
+  "en": "Reveler's Barding",
+  "n": {
+   "en": "Reveler's Barding",
+   "zh-CN": "须佐之男装甲",
+   "zh-TW": "須佐之男裝甲",
+   "ja": "スサノオ・バード"
+  }
+ },
+ {
+  "slug": "ala-mhigan-barding",
+  "en": "Ala Mhigan Barding",
+  "n": {
+   "en": "Ala Mhigan Barding",
+   "zh-CN": "峻岭陆行鸟装甲",
+   "zh-TW": "峻嶺陸行鳥裝甲",
+   "ja": "アラミガン・バード"
+  }
+ },
+ {
+  "slug": "blissful-barding",
+  "en": "Blissful Barding",
+  "n": {
+   "en": "Blissful Barding",
+   "zh-CN": "吉祥天女装甲",
+   "zh-TW": "吉祥天女裝甲",
+   "ja": "ラクシュミ・バード"
+  }
+ },
+ {
+  "slug": "hingan-barding",
+  "en": "Hingan Barding",
+  "n": {
+   "en": "Hingan Barding",
+   "zh-CN": "远东装甲",
+   "zh-TW": "遠東裝甲",
+   "ja": "イースタン・バード"
+  }
+ },
+ {
+  "slug": "oriental-barding",
+  "en": "Oriental Barding",
+  "n": {
+   "en": "Oriental Barding",
+   "zh-CN": "东洋装甲",
+   "zh-TW": "東洋裝甲",
+   "ja": "オリエンタル・バード"
+  }
+ },
+ {
+  "slug": "nezha-barding",
+  "en": "Nezha Barding",
+  "n": {
+   "en": "Nezha Barding",
+   "zh-CN": "哪吒装甲",
+   "zh-TW": "哪吒裝甲",
+   "ja": "ナタ・バード"
+  }
+ },
+ {
+  "slug": "shinryu-barding",
+  "en": "Shinryu Barding",
+  "n": {
+   "en": "Shinryu Barding",
+   "zh-CN": "神龙装甲",
+   "zh-TW": "神龍裝甲",
+   "ja": "シンリュウ・バード"
+  }
+ },
+ {
+  "slug": "ixion-barding",
+  "en": "Ixion Barding",
+  "n": {
+   "en": "Ixion Barding",
+   "zh-CN": "伊克西翁装甲",
+   "zh-TW": "伊克西翁裝甲",
+   "ja": "イクシオン・バード"
+  }
+ },
+ {
+  "slug": "red-mage-barding",
+  "en": "Red Mage Barding",
+  "n": {
+   "en": "Red Mage Barding",
+   "zh-CN": "赤红装甲",
+   "zh-TW": "赤紅裝甲",
+   "ja": "レッド・バード"
+  }
+ },
+ {
+  "slug": "byakko-barding",
+  "en": "Byakko Barding",
+  "n": {
+   "en": "Byakko Barding",
+   "zh-CN": "白虎装甲",
+   "zh-TW": "白虎裝甲",
+   "ja": "ビャッコ・バード"
+  }
+ },
+ {
+  "slug": "chocobo-raincoat",
+  "en": "Chocobo Raincoat",
+  "n": {
+   "en": "Chocobo Raincoat",
+   "zh-CN": "防雨装甲",
+   "zh-TW": "防雨裝甲",
+   "ja": "レインコート・バード"
+  }
+ },
+ {
+  "slug": "lunar-barding",
+  "en": "Lunar Barding",
+  "n": {
+   "en": "Lunar Barding",
+   "zh-CN": "月读装甲",
+   "zh-TW": "月讀裝甲",
+   "ja": "ツクヨミ・バード"
+  }
+ },
+ {
+  "slug": "suzaku-barding",
+  "en": "Suzaku Barding",
+  "n": {
+   "en": "Suzaku Barding",
+   "zh-CN": "朱雀装甲",
+   "zh-TW": "朱雀裝甲",
+   "ja": "スザク・バード"
+  }
+ },
+ {
+  "slug": "samurai-barding",
+  "en": "Samurai Barding",
+  "n": {
+   "en": "Samurai Barding",
+   "zh-CN": "武士装甲",
+   "zh-TW": "武士裝甲",
+   "ja": "サムライ・バード"
+  }
+ },
+ {
+  "slug": "seiryu-barding",
+  "en": "Seiryu Barding",
+  "n": {
+   "en": "Seiryu Barding",
+   "zh-CN": "青龙装甲",
+   "zh-TW": "青龍裝甲",
+   "ja": "セイリュウ・バード"
+  }
+ },
+ {
+  "slug": "yojimbo-barding",
+  "en": "Yojimbo Barding",
+  "n": {
+   "en": "Yojimbo Barding",
+   "zh-CN": "保镖装甲",
+   "zh-TW": "保鏢裝甲",
+   "ja": "ヨウジンボウ・バード"
+  }
+ },
+ {
+  "slug": "titania-barding",
+  "en": "Titania Barding",
+  "n": {
+   "en": "Titania Barding",
+   "zh-CN": "缇坦妮雅装甲",
+   "zh-TW": "緹坦妮雅裝甲",
+   "ja": "ティターニア・バード"
+  }
+ },
+ {
+  "slug": "innocence-barding",
+  "en": "Innocence Barding",
+  "n": {
+   "en": "Innocence Barding",
+   "zh-CN": "无瑕灵君装甲",
+   "zh-TW": "無瑕靈君裝甲",
+   "ja": "イノセンス・バード"
+  }
+ },
+ {
+  "slug": "dancer-barding",
+  "en": "Dancer Barding",
+  "n": {
+   "en": "Dancer Barding",
+   "zh-CN": "舞者装甲",
+   "zh-TW": "舞者裝甲",
+   "ja": "ダンサー・バード"
+  }
+ },
+ {
+  "slug": "deepshadow-barding",
+  "en": "Deepshadow Barding",
+  "n": {
+   "en": "Deepshadow Barding",
+   "zh-CN": "影渊装甲",
+   "zh-TW": "影淵裝甲",
+   "ja": "ディープシャドウ・バード"
+  }
+ },
+ {
+  "slug": "hades-barding",
+  "en": "Hades Barding",
+  "n": {
+   "en": "Hades Barding",
+   "zh-CN": "哈迪斯装甲",
+   "zh-TW": "哈迪斯裝甲",
+   "ja": "ハーデス・バード"
+  }
+ },
+ {
+  "slug": "saintly-barding",
+  "en": "Saintly Barding",
+  "n": {
+   "en": "Saintly Barding",
+   "zh-CN": "圣人装甲",
+   "zh-TW": "聖人裝甲",
+   "ja": "セイント・バード"
+  }
+ },
+ {
+  "slug": "ruby-barding",
+  "en": "Ruby Barding",
+  "n": {
+   "en": "Ruby Barding",
+   "zh-CN": "红宝石神兵装甲",
+   "zh-TW": "紅寶石神兵裝甲",
+   "ja": "ルビーウェポン・バード"
+  }
+ },
+ {
+  "slug": "machinist-barding",
+  "en": "Machinist Barding",
+  "n": {
+   "en": "Machinist Barding",
+   "zh-CN": "机工士装甲",
+   "zh-TW": "機工士裝甲",
+   "ja": "マシニスト・バード"
+  }
+ },
+ {
+  "slug": "true-barding-of-light",
+  "en": "True Barding of Light",
+  "n": {
+   "en": "True Barding of Light",
+   "zh-CN": "真·光之鸟甲",
+   "zh-TW": "真·光之鳥甲",
+   "ja": "トゥルーバード・オブ・ライト"
+  }
+ },
+ {
+  "slug": "emerald-barding",
+  "en": "Emerald Barding",
+  "n": {
+   "en": "Emerald Barding",
+   "zh-CN": "绿宝石神兵装甲",
+   "zh-TW": "綠寶石神兵裝甲",
+   "ja": "エメラルド・バード"
+  }
+ },
+ {
+  "slug": "queen-s-guard-barding",
+  "en": "Queen's Guard Barding",
+  "n": {
+   "en": "Queen's Guard Barding",
+   "zh-CN": "天佑装甲",
+   "zh-TW": "天佑裝甲",
+   "ja": "セイブ・ザ・バード"
+  }
+ },
+ {
+  "slug": "bozjan-barding",
+  "en": "Bozjan Barding",
+  "n": {
+   "en": "Bozjan Barding",
+   "zh-CN": "博兹雅装甲",
+   "zh-TW": "博茲雅裝甲",
+   "ja": "ボズヤン・バード"
+  }
+ },
+ {
+  "slug": "diamond-barding",
+  "en": "Diamond Barding",
+  "n": {
+   "en": "Diamond Barding",
+   "zh-CN": "钻石神兵装甲",
+   "zh-TW": "鑽石神兵裝甲",
+   "ja": "ダイヤモンド・バード"
+  }
+ },
+ {
+  "slug": "barding-of-eternal-darkness",
+  "en": "Barding of Eternal Darkness",
+  "n": {
+   "en": "Barding of Eternal Darkness",
+   "zh-CN": "永暗装甲",
+   "zh-TW": "永暗裝甲",
+   "ja": "エターナルダークネス・バード"
+  }
+ },
+ {
+  "slug": "barding-of-divine-light",
+  "en": "Barding of Divine Light",
+  "n": {
+   "en": "Barding of Divine Light",
+   "zh-CN": "圣光装甲",
+   "zh-TW": "聖光裝甲",
+   "ja": "ディヴァインライト・バード"
+  }
+ },
+ {
+  "slug": "postmoogle-barding",
+  "en": "Postmoogle Barding",
+  "n": {
+   "en": "Postmoogle Barding",
+   "zh-CN": "邮差装甲",
+   "zh-TW": "郵差裝甲",
+   "ja": "ポストマン・バード"
+  }
+ },
+ {
+  "slug": "thavnairian-barding",
+  "en": "Thavnairian Barding",
+  "n": {
+   "en": "Thavnairian Barding",
+   "zh-CN": "萨维奈装甲",
+   "zh-TW": "薩維奈裝甲",
+   "ja": "サベネアン・バード"
+  }
+ },
+ {
+  "slug": "bluefeather-barding",
+  "en": "Bluefeather Barding",
+  "n": {
+   "en": "Bluefeather Barding",
+   "zh-CN": "蓝羽装甲",
+   "zh-TW": "藍羽裝甲",
+   "ja": "ブルーフェザード・バード"
+  }
+ },
+ {
+  "slug": "wolf-barding",
+  "en": "Wolf Barding",
+  "n": {
+   "en": "Wolf Barding",
+   "zh-CN": "饿狼装甲",
+   "zh-TW": "餓狼裝甲",
+   "ja": "ウルフ・バード"
+  }
+ },
+ {
+  "slug": "windswept-barding",
+  "en": "Windswept Barding",
+  "n": {
+   "en": "Windswept Barding",
+   "zh-CN": "煞风装甲",
+   "zh-TW": "煞風裝甲",
+   "ja": "バルバリシア・バード"
+  }
+ },
+ {
+  "slug": "isle-pioneer-s-barding",
+  "en": "Isle Pioneer's Barding",
+  "n": {
+   "en": "Isle Pioneer's Barding",
+   "zh-CN": "海岛开拓者装甲",
+   "zh-TW": "海島開拓者裝甲",
+   "ja": "アイルパイオニア・バード"
+  }
+ },
+ {
+  "slug": "flamecloaked-barding",
+  "en": "Flamecloaked Barding",
+  "n": {
+   "en": "Flamecloaked Barding",
+   "zh-CN": "炀火装甲",
+   "zh-TW": "煬火裝甲",
+   "ja": "ルビカンテ・バード"
+  }
+ },
+ {
+  "slug": "allagan-barding",
+  "en": "Allagan Barding",
+  "n": {
+   "en": "Allagan Barding",
+   "zh-CN": "亚拉戈装甲",
+   "zh-TW": "亞拉戈裝甲",
+   "ja": "アラガン・バード"
+  }
+ },
+ {
+  "slug": "voidcast-barding",
+  "en": "Voidcast Barding",
+  "n": {
+   "en": "Voidcast Barding",
+   "zh-CN": "高贝扎装甲",
+   "zh-TW": "高貝扎裝甲",
+   "ja": "ゴルベーザ・バード"
+  }
+ },
+ {
+  "slug": "felicitous-barding",
+  "en": "Felicitous Barding",
+  "n": {
+   "en": "Felicitous Barding",
+   "zh-CN": "猫耳装甲",
+   "zh-TW": "貓耳裝甲",
+   "ja": "ねこみみ・バード"
+  }
+ },
+ {
+  "slug": "abyssal-barding",
+  "en": "Abyssal Barding",
+  "n": {
+   "en": "Abyssal Barding",
+   "zh-CN": "泽罗姆斯装甲",
+   "zh-TW": "澤羅姆斯裝甲",
+   "ja": "ゼロムス・バード"
+  }
+ },
+ {
+  "slug": "wayfarer-s-barding",
+  "en": "Wayfarer's Barding",
+  "n": {
+   "en": "Wayfarer's Barding",
+   "zh-CN": "旅行者装甲",
+   "zh-TW": "旅行者裝甲",
+   "ja": "ウェイファーラー・バード"
+  }
+ },
+ {
+  "slug": "turali-barding",
+  "en": "Turali Barding",
+  "n": {
+   "en": "Turali Barding",
+   "zh-CN": "图拉尔冒险装甲",
+   "zh-TW": "圖拉爾冒險裝甲",
+   "ja": "トラルアドベンチャラー・バード"
+  }
+ },
+ {
+  "slug": "skyruin-barding",
+  "en": "Skyruin Barding",
+  "n": {
+   "en": "Skyruin Barding",
+   "zh-CN": "艳翼蛇鸟装甲",
+   "zh-TW": "豔翼蛇鳥裝甲",
+   "ja": "ヴァリガルマンダ・バード"
+  }
+ },
+ {
+  "slug": "electrope-barding",
+  "en": "Electrope Barding",
+  "n": {
+   "en": "Electrope Barding",
+   "zh-CN": "雷转质装甲",
+   "zh-TW": "雷轉質裝甲",
+   "ja": "エレクトロープ・バード"
+  }
+ },
+ {
+  "slug": "wild-ride-barding",
+  "en": "Wild Ride Barding",
+  "n": {
+   "en": "Wild Ride Barding",
+   "zh-CN": "野地装甲",
+   "zh-TW": "野地裝甲",
+   "ja": "ワイルドランド・バード"
+  }
+ },
+ {
+  "slug": "eternal-barding",
+  "en": "Eternal Barding",
+  "n": {
+   "en": "Eternal Barding",
+   "zh-CN": "永恒装甲",
+   "zh-TW": "永恆裝甲",
+   "ja": "エターナル・バード"
+  }
+ },
+ {
+  "slug": "starlight-stalls-barding",
+  "en": "Starlight Stalls Barding",
+  "n": {
+   "en": "Starlight Stalls Barding",
+   "zh-CN": "星芒市场装甲",
+   "zh-TW": "星芒市場裝甲",
+   "ja": "スターライトストール・バード"
+  }
+ },
+ {
+  "slug": "queen-s-knight-barding",
+  "en": "Queen's Knight Barding",
+  "n": {
+   "en": "Queen's Knight Barding",
+   "zh-CN": "女王骑士装甲",
+   "zh-TW": "女王騎士裝甲",
+   "ja": "クイーンズナイト・バード"
+  }
+ },
+ {
+  "slug": "barding-of-the-dead",
+  "en": "Barding of the Dead",
+  "n": {
+   "en": "Barding of the Dead",
+   "zh-CN": "死暗装甲",
+   "zh-TW": "死暗裝甲",
+   "ja": "ネクロン・バード"
+  }
+ },
+ {
+  "slug": "pilgrim-s-barding",
+  "en": "Pilgrim's Barding",
+  "n": {
+   "en": "Pilgrim's Barding",
+   "zh-CN": "朝圣装甲",
+   "zh-TW": "朝聖裝甲",
+   "ja": "ピルグリム・バード"
+  }
+ },
+ {
+  "slug": "runaway-barding",
+  "en": "Runaway Barding",
+  "n": {
+   "en": "Runaway Barding",
+   "zh-CN": "狂奔装甲",
+   "zh-TW": "狂奔裝甲",
+   "ja": "グラシャラボラス・バード"
+  }
+ },
+ {
+  "slug": "cosmic-barding",
+  "en": "Cosmic Barding",
+  "n": {
+   "en": "Cosmic Barding",
+   "zh-CN": "宇宙探索装甲",
+   "zh-TW": "宇宙探索裝甲",
+   "ja": "コスモエクスプローラー・バード"
+  }
+ },
+ {
+  "slug": "barding-of-naught",
+  "en": "Barding of Naught",
+  "n": {
+   "en": "Barding of Naught",
+   "zh-CN": "虚王装甲",
+   "zh-TW": "虛王裝甲",
+   "ja": "ニヒリティ・バード"
+  }
+ }
+]

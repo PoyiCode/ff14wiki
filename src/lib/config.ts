@@ -270,6 +270,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The instruments residents can play in Performance mode, so the bot can busk, jam and chat about making music.',
     },
   },
+  {
+    key: 'barding',
+    label: { 'zh-TW': '陸行鳥馬具', 'zh-CN': '陆行鸟马具', ja: 'バルディング', en: 'Barding' },
+    description: {
+      'zh-TW': '為自己的陸行鳥夥伴穿戴的鞍具與裝甲，讓 bot 能聊愛駒的打扮與裝飾。',
+      'zh-CN': '为自己的陆行鸟伙伴穿戴的鞍具与装甲，让 bot 能聊爱驹的打扮与装饰。',
+      ja: '相棒のチョコボに着せる鞍やバルディング。botが愛鳥の装いを語れるように。',
+      en: 'The saddles and barding residents dress their chocobo companion in, so the bot can chat about decking out its trusty bird.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

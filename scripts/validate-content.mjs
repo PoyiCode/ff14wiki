@@ -12,7 +12,7 @@ const CATEGORIES = [
   'personas', 'activities', 'emotes', 'glossary', 'weather', 'mounts',
   'minions', 'music', 'titles', 'dyes', 'ornaments', 'triple-triad',
   'sightseeing', 'food', 'furniture', 'garden', 'hairstyles', 'fish',
-  'facewear', 'fishing-spots', 'instruments',
+  'facewear', 'fishing-spots', 'instruments', 'barding',
 ];
 const CONTENT_DIR = path.join(process.cwd(), 'content');
 

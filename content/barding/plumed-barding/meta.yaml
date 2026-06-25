@@ -1,0 +1,6 @@
+id: plumed-barding
+category: barding
+type: barding
+barding: "Plumed Barding"
+tags: [barding, chocobo, companion]
+status: stable

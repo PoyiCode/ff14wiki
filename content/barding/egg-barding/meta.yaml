@@ -1,0 +1,6 @@
+id: egg-barding
+category: barding
+type: barding
+barding: "Egg Barding"
+tags: [barding, chocobo, companion]
+status: stable

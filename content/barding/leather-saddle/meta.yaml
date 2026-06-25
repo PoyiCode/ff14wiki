@@ -1,0 +1,6 @@
+id: leather-saddle
+category: barding
+type: barding
+barding: "Leather Saddle"
+tags: [barding, chocobo, companion]
+status: stable
