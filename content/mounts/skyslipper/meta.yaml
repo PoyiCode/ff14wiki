@@ -1,0 +1,6 @@
+id: skyslipper
+category: mounts
+type: mount
+mount: "skyslipper"
+tags: [mount, travel]
+status: stable

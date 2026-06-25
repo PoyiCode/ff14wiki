@@ -1,0 +1,6 @@
+id: pack-faehound
+category: mounts
+type: mount
+mount: "pack faehound"
+tags: [mount, travel]
+status: stable

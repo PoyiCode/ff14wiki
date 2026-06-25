@@ -1,0 +1,6 @@
+id: disembodied-head
+category: mounts
+type: mount
+mount: "disembodied head"
+tags: [mount, travel]
+status: stable

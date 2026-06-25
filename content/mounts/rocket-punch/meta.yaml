@@ -1,0 +1,6 @@
+id: rocket-punch
+category: mounts
+type: mount
+mount: "rocket punch"
+tags: [mount, travel]
+status: stable

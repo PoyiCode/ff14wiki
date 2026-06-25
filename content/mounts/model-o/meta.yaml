@@ -1,0 +1,6 @@
+id: model-o
+category: mounts
+type: mount
+mount: "Model O"
+tags: [mount, travel]
+status: stable

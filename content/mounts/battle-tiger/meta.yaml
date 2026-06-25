@@ -1,0 +1,6 @@
+id: battle-tiger
+category: mounts
+type: mount
+mount: "battle tiger"
+tags: [mount, travel]
+status: stable

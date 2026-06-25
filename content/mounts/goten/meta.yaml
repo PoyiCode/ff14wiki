@@ -1,0 +1,6 @@
+id: goten
+category: mounts
+type: mount
+mount: "Goten"
+tags: [mount, travel]
+status: stable

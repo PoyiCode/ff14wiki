@@ -1,0 +1,6 @@
+id: menoetius
+category: mounts
+type: mount
+mount: "Menoetius"
+tags: [mount, travel]
+status: stable

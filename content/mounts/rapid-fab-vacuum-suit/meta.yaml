@@ -1,0 +1,6 @@
+id: rapid-fab-vacuum-suit
+category: mounts
+type: mount
+mount: "rapid-fab vacuum suit"
+tags: [mount, travel]
+status: stable

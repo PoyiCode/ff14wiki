@@ -1,0 +1,6 @@
+id: morbol
+category: mounts
+type: mount
+mount: "morbol"
+tags: [mount, travel]
+status: stable

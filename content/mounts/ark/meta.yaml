@@ -1,0 +1,6 @@
+id: ark
+category: mounts
+type: mount
+mount: "Ark"
+tags: [mount, travel]
+status: stable

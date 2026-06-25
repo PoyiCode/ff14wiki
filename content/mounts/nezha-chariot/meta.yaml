@@ -1,0 +1,6 @@
+id: nezha-chariot
+category: mounts
+type: mount
+mount: "Nezha chariot"
+tags: [mount, travel]
+status: stable

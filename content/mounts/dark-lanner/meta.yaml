@@ -1,0 +1,6 @@
+id: dark-lanner
+category: mounts
+type: mount
+mount: "dark lanner"
+tags: [mount, travel]
+status: stable

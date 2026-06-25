@@ -1,0 +1,6 @@
+id: brachiosaur
+category: mounts
+type: mount
+mount: "brachiosaur"
+tags: [mount, travel]
+status: stable

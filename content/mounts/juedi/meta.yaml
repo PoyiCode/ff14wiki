@@ -1,0 +1,6 @@
+id: juedi
+category: mounts
+type: mount
+mount: "Juedi"
+tags: [mount, travel]
+status: stable

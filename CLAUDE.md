@@ -61,6 +61,7 @@ npm run lint       # next lint
 - `scripts/gen-races.mjs` ← `scripts/race-data.json`（種族與部族）
 - `scripts/gen-weather.mjs` ← `scripts/weather-data.json`（天氣）
 - `scripts/gen-beasttribes.mjs` ← `scripts/beasttribe-data.json`（蠻族／友好部族）
+- `scripts/gen-mounts.mjs` ← `scripts/mount-data.json`（坐騎）
 
 ### 資料來源（皆取自 GitHub raw，本環境可直接 `curl`）
 

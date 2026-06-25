@@ -1,0 +1,6 @@
+id: barreltender
+category: mounts
+type: mount
+mount: "barreltender"
+tags: [mount, travel]
+status: stable

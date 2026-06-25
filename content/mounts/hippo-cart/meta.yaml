@@ -1,0 +1,6 @@
+id: hippo-cart
+category: mounts
+type: mount
+mount: "hippo cart"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: war-tiger
+category: mounts
+type: mount
+mount: "war tiger"
+tags: [mount, travel]
+status: stable

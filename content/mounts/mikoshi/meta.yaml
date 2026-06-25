@@ -1,0 +1,6 @@
+id: mikoshi
+category: mounts
+type: mount
+mount: "mikoshi"
+tags: [mount, travel]
+status: stable

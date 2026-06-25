@@ -1,0 +1,6 @@
+id: deinonychus
+category: mounts
+type: mount
+mount: "deinonychus"
+tags: [mount, travel]
+status: stable

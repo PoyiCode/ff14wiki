@@ -1,0 +1,6 @@
+id: red-baron
+category: mounts
+type: mount
+mount: "Red Baron"
+tags: [mount, travel]
+status: stable

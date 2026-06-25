@@ -1,0 +1,6 @@
+id: victor
+category: mounts
+type: mount
+mount: "Victor"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: spectral-statice
+category: mounts
+type: mount
+mount: "spectral Statice"
+tags: [mount, travel]
+status: stable

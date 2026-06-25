@@ -1,0 +1,6 @@
+id: alert-red-warp-loader
+category: mounts
+type: mount
+mount: "alert red warp loader"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: blackjack
+category: mounts
+type: mount
+mount: "Blackjack"
+tags: [mount, travel]
+status: stable

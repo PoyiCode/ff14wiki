@@ -1,0 +1,6 @@
+id: legacy-chocobo
+category: mounts
+type: mount
+mount: "legacy chocobo"
+tags: [mount, travel]
+status: stable

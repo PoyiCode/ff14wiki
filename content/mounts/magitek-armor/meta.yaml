@@ -1,0 +1,6 @@
+id: magitek-armor
+category: mounts
+type: mount
+mount: "magitek armor"
+tags: [mount, travel]
+status: stable

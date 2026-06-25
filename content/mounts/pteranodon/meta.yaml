@@ -1,0 +1,6 @@
+id: pteranodon
+category: mounts
+type: mount
+mount: "pteranodon"
+tags: [mount, travel]
+status: stable

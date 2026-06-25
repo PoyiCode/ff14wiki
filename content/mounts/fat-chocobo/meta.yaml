@@ -1,0 +1,6 @@
+id: fat-chocobo
+category: mounts
+type: mount
+mount: "fat chocobo"
+tags: [mount, travel]
+status: stable

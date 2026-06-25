@@ -1,0 +1,6 @@
+id: moon-hopper
+category: mounts
+type: mount
+mount: "moon-hopper"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: vacuum-suit
+category: mounts
+type: mount
+mount: "vacuum suit"
+tags: [mount, travel]
+status: stable

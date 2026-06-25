@@ -1,0 +1,6 @@
+id: island-alligator
+category: mounts
+type: mount
+mount: "island alligator"
+tags: [mount, travel]
+status: stable

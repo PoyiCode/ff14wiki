@@ -1,0 +1,6 @@
+id: behemoth
+category: mounts
+type: mount
+mount: "behemoth"
+tags: [mount, travel]
+status: stable

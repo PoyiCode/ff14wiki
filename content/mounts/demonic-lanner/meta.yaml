@@ -1,0 +1,6 @@
+id: demonic-lanner
+category: mounts
+type: mount
+mount: "Demonic lanner"
+tags: [mount, travel]
+status: stable

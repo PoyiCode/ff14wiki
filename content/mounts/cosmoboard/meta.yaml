@@ -1,0 +1,6 @@
+id: cosmoboard
+category: mounts
+type: mount
+mount: "cosmoboard"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: magicked-card
+category: mounts
+type: mount
+mount: "magicked card"
+tags: [mount, travel]
+status: stable

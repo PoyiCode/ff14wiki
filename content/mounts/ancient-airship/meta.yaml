@@ -1,0 +1,6 @@
+id: ancient-airship
+category: mounts
+type: mount
+mount: "ancient airship"
+tags: [mount, travel]
+status: stable

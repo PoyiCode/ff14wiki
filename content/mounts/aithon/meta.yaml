@@ -1,0 +1,6 @@
+id: aithon
+category: mounts
+type: mount
+mount: "Aithon"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: wyvern
+category: mounts
+type: mount
+mount: "wyvern"
+tags: [mount, travel]
+status: stable

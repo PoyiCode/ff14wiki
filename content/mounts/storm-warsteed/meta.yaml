@@ -1,0 +1,6 @@
+id: storm-warsteed
+category: mounts
+type: mount
+mount: "storm warsteed"
+tags: [mount, travel]
+status: stable

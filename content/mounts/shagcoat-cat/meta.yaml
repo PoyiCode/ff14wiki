@@ -1,0 +1,6 @@
+id: shagcoat-cat
+category: mounts
+type: mount
+mount: "shagcoat cat"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: dodo
+category: mounts
+type: mount
+mount: "dodo"
+tags: [mount, travel]
+status: stable

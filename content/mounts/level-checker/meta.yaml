@@ -1,0 +1,6 @@
+id: level-checker
+category: mounts
+type: mount
+mount: "level checker"
+tags: [mount, travel]
+status: stable

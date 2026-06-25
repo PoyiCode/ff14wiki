@@ -1,0 +1,6 @@
+id: orthos-craklaw
+category: mounts
+type: mount
+mount: "Orthos craklaw"
+tags: [mount, travel]
+status: stable

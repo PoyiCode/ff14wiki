@@ -1,0 +1,6 @@
+id: ramuh
+category: mounts
+type: mount
+mount: "Ramuh"
+tags: [mount, travel]
+status: stable

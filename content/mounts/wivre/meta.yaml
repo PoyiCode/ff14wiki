@@ -1,0 +1,6 @@
+id: wivre
+category: mounts
+type: mount
+mount: "wivre"
+tags: [mount, travel]
+status: stable

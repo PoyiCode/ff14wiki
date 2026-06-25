@@ -1,0 +1,6 @@
+id: demon-haul
+category: mounts
+type: mount
+mount: "demon haul"
+tags: [mount, travel]
+status: stable

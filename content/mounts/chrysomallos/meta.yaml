@@ -1,0 +1,6 @@
+id: chrysomallos
+category: mounts
+type: mount
+mount: "Chrysomallos"
+tags: [mount, travel]
+status: stable

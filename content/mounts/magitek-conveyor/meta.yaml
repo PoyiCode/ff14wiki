@@ -1,0 +1,6 @@
+id: magitek-conveyor
+category: mounts
+type: mount
+mount: "magitek conveyor"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: prototype-roader
+category: mounts
+type: mount
+mount: "prototype roader"
+tags: [mount, travel]
+status: stable

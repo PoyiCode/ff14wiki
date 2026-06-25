@@ -1,0 +1,6 @@
+id: black-pegasus
+category: mounts
+type: mount
+mount: "black pegasus"
+tags: [mount, travel]
+status: stable

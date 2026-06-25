@@ -1,0 +1,6 @@
+id: rolling-tankard
+category: mounts
+type: mount
+mount: "Rolling Tankard"
+tags: [mount, travel]
+status: stable

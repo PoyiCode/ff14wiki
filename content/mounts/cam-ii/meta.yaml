@@ -1,0 +1,6 @@
+id: cam-ii
+category: mounts
+type: mount
+mount: "CAM-II"
+tags: [mount, travel]
+status: stable

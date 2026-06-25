@@ -1,0 +1,6 @@
+id: manacutter
+category: mounts
+type: mount
+mount: "manacutter"
+tags: [mount, travel]
+status: stable

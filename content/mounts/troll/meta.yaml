@@ -1,0 +1,6 @@
+id: troll
+category: mounts
+type: mount
+mount: "troll"
+tags: [mount, travel]
+status: stable

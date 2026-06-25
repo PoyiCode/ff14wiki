@@ -1,0 +1,6 @@
+id: automatoise
+category: mounts
+type: mount
+mount: "automatoise"
+tags: [mount, travel]
+status: stable

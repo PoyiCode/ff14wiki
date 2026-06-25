@@ -1,0 +1,6 @@
+id: marid
+category: mounts
+type: mount
+mount: "marid"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: magitek-sky-armor
+category: mounts
+type: mount
+mount: "magitek sky armor"
+tags: [mount, travel]
+status: stable

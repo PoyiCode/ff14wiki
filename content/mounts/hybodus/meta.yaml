@@ -1,0 +1,6 @@
+id: hybodus
+category: mounts
+type: mount
+mount: "hybodus"
+tags: [mount, travel]
+status: stable

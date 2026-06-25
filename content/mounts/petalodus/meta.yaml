@@ -1,0 +1,6 @@
+id: petalodus
+category: mounts
+type: mount
+mount: "petalodus"
+tags: [mount, travel]
+status: stable

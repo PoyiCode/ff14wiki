@@ -1,0 +1,6 @@
+id: pegasus
+category: mounts
+type: mount
+mount: "pegasus"
+tags: [mount, travel]
+status: stable

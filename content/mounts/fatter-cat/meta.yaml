@@ -1,0 +1,6 @@
+id: fatter-cat
+category: mounts
+type: mount
+mount: "fatter cat"
+tags: [mount, travel]
+status: stable

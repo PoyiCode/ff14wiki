@@ -1,0 +1,6 @@
+id: magitek-slasher
+category: mounts
+type: mount
+mount: "magitek slasher"
+tags: [mount, travel]
+status: stable

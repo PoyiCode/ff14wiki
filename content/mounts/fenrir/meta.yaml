@@ -1,0 +1,6 @@
+id: fenrir
+category: mounts
+type: mount
+mount: "Fenrir"
+tags: [mount, travel]
+status: stable

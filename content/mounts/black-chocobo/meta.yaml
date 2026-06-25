@@ -1,0 +1,6 @@
+id: black-chocobo
+category: mounts
+type: mount
+mount: "black chocobo"
+tags: [mount, travel]
+status: stable

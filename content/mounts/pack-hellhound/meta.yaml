@@ -1,0 +1,6 @@
+id: pack-hellhound
+category: mounts
+type: mount
+mount: "pack hellhound"
+tags: [mount, travel]
+status: stable

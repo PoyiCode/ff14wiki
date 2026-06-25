@@ -1,0 +1,6 @@
+id: quaqua
+category: mounts
+type: mount
+mount: "quaqua"
+tags: [mount, travel]
+status: stable

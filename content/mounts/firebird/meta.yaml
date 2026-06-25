@@ -1,0 +1,6 @@
+id: firebird
+category: mounts
+type: mount
+mount: "Firebird"
+tags: [mount, travel]
+status: stable

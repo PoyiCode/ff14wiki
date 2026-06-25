@@ -1,0 +1,6 @@
+id: construct-vi-s
+category: mounts
+type: mount
+mount: "Construct VI-S"
+tags: [mount, travel]
+status: stable

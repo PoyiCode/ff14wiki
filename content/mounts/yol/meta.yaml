@@ -1,0 +1,6 @@
+id: yol
+category: mounts
+type: mount
+mount: "yol"
+tags: [mount, travel]
+status: stable

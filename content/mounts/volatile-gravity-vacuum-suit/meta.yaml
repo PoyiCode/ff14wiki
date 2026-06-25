@@ -1,0 +1,6 @@
+id: volatile-gravity-vacuum-suit
+category: mounts
+type: mount
+mount: "volatile gravity vacuum suit"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: chocobo-carriage
+category: mounts
+type: mount
+mount: "chocobo carriage"
+tags: [mount, travel]
+status: stable

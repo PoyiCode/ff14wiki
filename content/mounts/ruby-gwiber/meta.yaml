@@ -1,0 +1,6 @@
+id: ruby-gwiber
+category: mounts
+type: mount
+mount: "ruby gwiber"
+tags: [mount, travel]
+status: stable

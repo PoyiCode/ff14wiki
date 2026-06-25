@@ -1,0 +1,6 @@
+id: bennu
+category: mounts
+type: mount
+mount: "bennu"
+tags: [mount, travel]
+status: stable

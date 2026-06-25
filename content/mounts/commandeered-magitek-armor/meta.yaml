@@ -1,0 +1,6 @@
+id: commandeered-magitek-armor
+category: mounts
+type: mount
+mount: "commandeered magitek armor"
+tags: [mount, travel]
+status: stable

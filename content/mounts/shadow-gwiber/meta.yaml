@@ -1,0 +1,6 @@
+id: shadow-gwiber
+category: mounts
+type: mount
+mount: "shadow gwiber"
+tags: [mount, travel]
+status: stable

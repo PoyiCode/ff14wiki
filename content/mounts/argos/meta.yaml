@@ -1,0 +1,6 @@
+id: argos
+category: mounts
+type: mount
+mount: "Argos"
+tags: [mount, travel]
+status: stable

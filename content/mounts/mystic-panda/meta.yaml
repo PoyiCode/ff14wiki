@@ -1,0 +1,6 @@
+id: mystic-panda
+category: mounts
+type: mount
+mount: "mystic panda"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: twintania
+category: mounts
+type: mount
+mount: "Twintania"
+tags: [mount, travel]
+status: stable

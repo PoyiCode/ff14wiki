@@ -1,0 +1,6 @@
+id: syldra
+category: mounts
+type: mount
+mount: "Syldra"
+tags: [mount, travel]
+status: stable

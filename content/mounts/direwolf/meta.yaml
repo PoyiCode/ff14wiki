@@ -1,0 +1,6 @@
+id: direwolf
+category: mounts
+type: mount
+mount: "direwolf"
+tags: [mount, travel]
+status: stable

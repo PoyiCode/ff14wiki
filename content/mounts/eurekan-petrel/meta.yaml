@@ -1,0 +1,6 @@
+id: eurekan-petrel
+category: mounts
+type: mount
+mount: "Eurekan petrel"
+tags: [mount, travel]
+status: stable

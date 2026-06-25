@@ -1,0 +1,6 @@
+id: battle-panther
+category: mounts
+type: mount
+mount: "battle panther"
+tags: [mount, travel]
+status: stable

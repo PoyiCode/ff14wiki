@@ -1,0 +1,6 @@
+id: flying-chair
+category: mounts
+type: mount
+mount: "flying chair"
+tags: [mount, travel]
+status: stable

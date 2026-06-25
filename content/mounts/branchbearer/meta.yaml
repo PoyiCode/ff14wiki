@@ -1,0 +1,6 @@
+id: branchbearer
+category: mounts
+type: mount
+mount: "branchbearer"
+tags: [mount, travel]
+status: stable

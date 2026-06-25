@@ -1,0 +1,6 @@
+id: cavalry-drake
+category: mounts
+type: mount
+mount: "cavalry drake"
+tags: [mount, travel]
+status: stable

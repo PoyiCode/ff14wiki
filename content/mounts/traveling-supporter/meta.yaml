@@ -1,0 +1,6 @@
+id: traveling-supporter
+category: mounts
+type: mount
+mount: "traveling supporter"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: snowman
+category: mounts
+type: mount
+mount: "snowman"
+tags: [mount, travel]
+status: stable

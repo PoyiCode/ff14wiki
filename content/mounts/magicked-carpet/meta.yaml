@@ -1,0 +1,6 @@
+id: magicked-carpet
+category: mounts
+type: mount
+mount: "magicked carpet"
+tags: [mount, travel]
+status: stable

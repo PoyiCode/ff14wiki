@@ -1,0 +1,6 @@
+id: crescent-moon
+category: mounts
+type: mount
+mount: "crescent moon"
+tags: [mount, travel]
+status: stable

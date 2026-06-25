@@ -1,0 +1,6 @@
+id: gullfaxi
+category: mounts
+type: mount
+mount: "Gullfaxi"
+tags: [mount, travel]
+status: stable

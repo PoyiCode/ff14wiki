@@ -1,0 +1,6 @@
+id: managarm
+category: mounts
+type: mount
+mount: "managarm"
+tags: [mount, travel]
+status: stable

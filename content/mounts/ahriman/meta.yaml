@@ -1,0 +1,6 @@
+id: ahriman
+category: mounts
+type: mount
+mount: "ahriman"
+tags: [mount, travel]
+status: stable

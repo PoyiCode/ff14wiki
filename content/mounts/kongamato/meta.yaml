@@ -1,0 +1,6 @@
+id: kongamato
+category: mounts
+type: mount
+mount: "kongamato"
+tags: [mount, travel]
+status: stable

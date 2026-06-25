@@ -1,0 +1,6 @@
+id: cloud-mallow
+category: mounts
+type: mount
+mount: "cloud mallow"
+tags: [mount, travel]
+status: stable

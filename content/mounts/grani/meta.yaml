@@ -1,0 +1,6 @@
+id: grani
+category: mounts
+type: mount
+mount: "Grani"
+tags: [mount, travel]
+status: stable

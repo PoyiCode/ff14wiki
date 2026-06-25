@@ -1,0 +1,6 @@
+id: cpd-i
+category: mounts
+type: mount
+mount: "CPD-I"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: kirin
+category: mounts
+type: mount
+mount: "Kirin"
+tags: [mount, travel]
+status: stable

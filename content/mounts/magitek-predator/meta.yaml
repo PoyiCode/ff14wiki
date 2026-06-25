@@ -1,0 +1,6 @@
+id: magitek-predator
+category: mounts
+type: mount
+mount: "magitek predator"
+tags: [mount, travel]
+status: stable

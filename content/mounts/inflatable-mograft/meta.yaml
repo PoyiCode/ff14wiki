@@ -1,0 +1,6 @@
+id: inflatable-mograft
+category: mounts
+type: mount
+mount: "inflatable mograft"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: battle-bear
+category: mounts
+type: mount
+mount: "battle bear"
+tags: [mount, travel]
+status: stable

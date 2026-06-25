@@ -1,0 +1,6 @@
+id: snowstreamer
+category: mounts
+type: mount
+mount: "snowstreamer"
+tags: [mount, travel]
+status: stable

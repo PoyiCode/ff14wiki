@@ -1,0 +1,6 @@
+id: gobwalker
+category: mounts
+type: mount
+mount: "gobwalker"
+tags: [mount, travel]
+status: stable

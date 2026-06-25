@@ -1,0 +1,6 @@
+id: witchs-broom
+category: mounts
+type: mount
+mount: "witch's broom"
+tags: [mount, travel]
+status: stable

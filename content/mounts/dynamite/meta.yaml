@@ -1,0 +1,6 @@
+id: dynamite
+category: mounts
+type: mount
+mount: "dynamite"
+tags: [mount, travel]
+status: stable

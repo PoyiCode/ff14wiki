@@ -1,0 +1,6 @@
+id: sleipnir
+category: mounts
+type: mount
+mount: "Sleipnir"
+tags: [mount, travel]
+status: stable

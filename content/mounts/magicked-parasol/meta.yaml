@@ -1,0 +1,6 @@
+id: magicked-parasol
+category: mounts
+type: mount
+mount: "magicked parasol"
+tags: [mount, travel]
+status: stable

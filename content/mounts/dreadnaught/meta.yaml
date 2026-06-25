@@ -1,0 +1,6 @@
+id: dreadnaught
+category: mounts
+type: mount
+mount: "dreadnaught"
+tags: [mount, travel]
+status: stable

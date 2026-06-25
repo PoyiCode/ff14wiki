@@ -1,0 +1,6 @@
+id: epimetheus
+category: mounts
+type: mount
+mount: "Epimetheus"
+tags: [mount, travel]
+status: stable

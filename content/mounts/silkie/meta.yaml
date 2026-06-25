@@ -1,0 +1,6 @@
+id: silkie
+category: mounts
+type: mount
+mount: "silkie"
+tags: [mount, travel]
+status: stable

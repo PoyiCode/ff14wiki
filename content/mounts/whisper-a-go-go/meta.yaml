@@ -1,0 +1,6 @@
+id: whisper-a-go-go
+category: mounts
+type: mount
+mount: "Whisper A-go-go"
+tags: [mount, travel]
+status: stable

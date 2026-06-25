@@ -1,0 +1,6 @@
+id: indigo-whale
+category: mounts
+type: mount
+mount: "Indigo whale"
+tags: [mount, travel]
+status: stable

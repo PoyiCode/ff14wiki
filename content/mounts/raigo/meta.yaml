@@ -1,0 +1,6 @@
+id: raigo
+category: mounts
+type: mount
+mount: "Raigo"
+tags: [mount, travel]
+status: stable

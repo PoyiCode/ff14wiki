@@ -1,0 +1,6 @@
+id: griffin
+category: mounts
+type: mount
+mount: "griffin"
+tags: [mount, travel]
+status: stable

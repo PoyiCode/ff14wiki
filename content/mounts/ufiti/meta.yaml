@@ -1,0 +1,6 @@
+id: ufiti
+category: mounts
+type: mount
+mount: "ufiti"
+tags: [mount, travel]
+status: stable

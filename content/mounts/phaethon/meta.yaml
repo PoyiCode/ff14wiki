@@ -1,0 +1,6 @@
+id: phaethon
+category: mounts
+type: mount
+mount: "Phaethon"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: ginga
+category: mounts
+type: mount
+mount: "Ginga"
+tags: [mount, travel]
+status: stable

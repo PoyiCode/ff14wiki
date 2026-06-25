@@ -1,0 +1,6 @@
+id: aeturna
+category: mounts
+type: mount
+mount: "aeturna"
+tags: [mount, travel]
+status: stable

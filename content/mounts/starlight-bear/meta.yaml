@@ -1,0 +1,6 @@
+id: starlight-bear
+category: mounts
+type: mount
+mount: "Starlight bear"
+tags: [mount, travel]
+status: stable

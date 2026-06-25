@@ -1,0 +1,6 @@
+id: eden
+category: mounts
+type: mount
+mount: "Eden"
+tags: [mount, travel]
+status: stable

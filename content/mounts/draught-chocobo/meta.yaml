@@ -1,0 +1,6 @@
+id: draught-chocobo
+category: mounts
+type: mount
+mount: "draught chocobo"
+tags: [mount, travel]
+status: stable

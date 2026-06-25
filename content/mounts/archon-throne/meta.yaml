@@ -1,0 +1,6 @@
+id: archon-throne
+category: mounts
+type: mount
+mount: "Archon throne"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: spriggan-stonecarrier
+category: mounts
+type: mount
+mount: "spriggan stonecarrier"
+tags: [mount, travel]
+status: stable

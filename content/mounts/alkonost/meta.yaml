@@ -1,0 +1,6 @@
+id: alkonost
+category: mounts
+type: mount
+mount: "alkonost"
+tags: [mount, travel]
+status: stable

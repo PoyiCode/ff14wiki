@@ -1,0 +1,6 @@
+id: markab
+category: mounts
+type: mount
+mount: "Markab"
+tags: [mount, travel]
+status: stable

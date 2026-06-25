@@ -1,0 +1,6 @@
+id: tyrannosaur
+category: mounts
+type: mount
+mount: "tyrannosaur"
+tags: [mount, travel]
+status: stable

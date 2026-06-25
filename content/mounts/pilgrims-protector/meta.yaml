@@ -1,0 +1,6 @@
+id: pilgrims-protector
+category: mounts
+type: mount
+mount: "pilgrim's protector"
+tags: [mount, travel]
+status: stable

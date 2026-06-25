@@ -1,0 +1,6 @@
+id: wings-of-death
+category: mounts
+type: mount
+mount: "wings of death"
+tags: [mount, travel]
+status: stable

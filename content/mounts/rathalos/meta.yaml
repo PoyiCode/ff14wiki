@@ -1,0 +1,6 @@
+id: rathalos
+category: mounts
+type: mount
+mount: "Rathalos"
+tags: [mount, travel]
+status: stable

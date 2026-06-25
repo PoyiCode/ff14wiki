@@ -1,0 +1,6 @@
+id: incitatus
+category: mounts
+type: mount
+mount: "Incitatus"
+tags: [mount, travel]
+status: stable

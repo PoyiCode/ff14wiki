@@ -1,0 +1,6 @@
+id: vinegaroon
+category: mounts
+type: mount
+mount: "vinegaroon"
+tags: [mount, travel]
+status: stable

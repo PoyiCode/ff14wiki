@@ -1,0 +1,6 @@
+id: adamantoise
+category: mounts
+type: mount
+mount: "adamantoise"
+tags: [mount, travel]
+status: stable

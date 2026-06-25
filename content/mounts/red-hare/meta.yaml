@@ -1,0 +1,6 @@
+id: red-hare
+category: mounts
+type: mount
+mount: "Red Hare"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: excavating-vacuum-suit
+category: mounts
+type: mount
+mount: "excavating vacuum suit"
+tags: [mount, travel]
+status: stable

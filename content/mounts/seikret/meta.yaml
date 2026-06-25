@@ -1,0 +1,6 @@
+id: seikret
+category: mounts
+type: mount
+mount: "Seikret"
+tags: [mount, travel]
+status: stable

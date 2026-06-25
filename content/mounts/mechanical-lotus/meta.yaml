@@ -1,0 +1,6 @@
+id: mechanical-lotus
+category: mounts
+type: mount
+mount: "mechanical lotus"
+tags: [mount, travel]
+status: stable

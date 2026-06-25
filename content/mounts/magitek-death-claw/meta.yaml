@@ -1,0 +1,6 @@
+id: magitek-death-claw
+category: mounts
+type: mount
+mount: "magitek death claw"
+tags: [mount, travel]
+status: stable

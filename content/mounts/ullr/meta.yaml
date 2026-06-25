@@ -1,0 +1,6 @@
+id: ullr
+category: mounts
+type: mount
+mount: "Ullr"
+tags: [mount, travel]
+status: stable

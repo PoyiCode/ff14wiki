@@ -1,0 +1,6 @@
+id: prototype-conveyor
+category: mounts
+type: mount
+mount: "prototype conveyor"
+tags: [mount, travel]
+status: stable

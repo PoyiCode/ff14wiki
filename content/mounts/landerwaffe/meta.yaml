@@ -1,0 +1,6 @@
+id: landerwaffe
+category: mounts
+type: mount
+mount: "Landerwaffe"
+tags: [mount, travel]
+status: stable

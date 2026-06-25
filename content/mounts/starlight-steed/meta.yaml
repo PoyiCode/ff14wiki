@@ -1,0 +1,6 @@
+id: starlight-steed
+category: mounts
+type: mount
+mount: "Starlight steed"
+tags: [mount, travel]
+status: stable

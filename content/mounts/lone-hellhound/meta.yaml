@@ -1,0 +1,6 @@
+id: lone-hellhound
+category: mounts
+type: mount
+mount: "lone hellhound"
+tags: [mount, travel]
+status: stable

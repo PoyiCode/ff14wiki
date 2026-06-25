@@ -1,0 +1,6 @@
+id: triceratops
+category: mounts
+type: mount
+mount: "triceratops"
+tags: [mount, travel]
+status: stable

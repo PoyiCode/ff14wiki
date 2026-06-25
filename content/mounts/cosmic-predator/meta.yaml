@@ -1,0 +1,6 @@
+id: cosmic-predator
+category: mounts
+type: mount
+mount: "cosmic predator"
+tags: [mount, travel]
+status: stable

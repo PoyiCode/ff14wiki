@@ -1,0 +1,6 @@
+id: war-panther
+category: mounts
+type: mount
+mount: "war panther"
+tags: [mount, travel]
+status: stable

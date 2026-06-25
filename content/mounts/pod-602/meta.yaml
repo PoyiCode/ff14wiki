@@ -1,0 +1,6 @@
+id: pod-602
+category: mounts
+type: mount
+mount: "pod 602"
+tags: [mount, travel]
+status: stable

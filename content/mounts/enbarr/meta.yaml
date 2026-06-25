@@ -1,0 +1,6 @@
+id: enbarr
+category: mounts
+type: mount
+mount: "Enbarr"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: ironfrog-mover
+category: mounts
+type: mount
+mount: "ironfrog mover"
+tags: [mount, travel]
+status: stable

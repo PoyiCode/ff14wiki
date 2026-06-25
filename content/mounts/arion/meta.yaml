@@ -1,0 +1,6 @@
+id: arion
+category: mounts
+type: mount
+mount: "Arion"
+tags: [mount, travel]
+status: stable

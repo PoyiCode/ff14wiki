@@ -1,0 +1,6 @@
+id: construct-vii
+category: mounts
+type: mount
+mount: "Construct VII"
+tags: [mount, travel]
+status: stable

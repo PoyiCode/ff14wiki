@@ -1,0 +1,6 @@
+id: sunspun-cumulus
+category: mounts
+type: mount
+mount: "sunspun cumulus"
+tags: [mount, travel]
+status: stable

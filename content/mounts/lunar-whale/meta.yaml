@@ -1,0 +1,6 @@
+id: lunar-whale
+category: mounts
+type: mount
+mount: "Lunar Whale"
+tags: [mount, travel]
+status: stable

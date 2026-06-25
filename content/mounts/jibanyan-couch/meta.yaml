@@ -1,0 +1,6 @@
+id: jibanyan-couch
+category: mounts
+type: mount
+mount: "Jibanyan couch"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: round-lanner
+category: mounts
+type: mount
+mount: "round lanner"
+tags: [mount, travel]
+status: stable

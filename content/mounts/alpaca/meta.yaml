@@ -1,0 +1,6 @@
+id: alpaca
+category: mounts
+type: mount
+mount: "alpaca"
+tags: [mount, travel]
+status: stable

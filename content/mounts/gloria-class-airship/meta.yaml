@@ -1,0 +1,6 @@
+id: gloria-class-airship
+category: mounts
+type: mount
+mount: "Gloria-class airship"
+tags: [mount, travel]
+status: stable

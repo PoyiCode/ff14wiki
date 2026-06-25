@@ -1,0 +1,6 @@
+id: unicorn
+category: mounts
+type: mount
+mount: "unicorn"
+tags: [mount, travel]
+status: stable

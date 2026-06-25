@@ -1,0 +1,6 @@
+id: island-buffalo
+category: mounts
+type: mount
+mount: "island buffalo"
+tags: [mount, travel]
+status: stable

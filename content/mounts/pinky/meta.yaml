@@ -1,0 +1,6 @@
+id: pinky
+category: mounts
+type: mount
+mount: "Pinky"
+tags: [mount, travel]
+status: stable

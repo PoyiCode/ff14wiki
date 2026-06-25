@@ -1,0 +1,6 @@
+id: monowheel-s1
+category: mounts
+type: mount
+mount: "monowheel S1"
+tags: [mount, travel]
+status: stable

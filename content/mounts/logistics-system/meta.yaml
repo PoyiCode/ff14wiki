@@ -1,0 +1,6 @@
+id: logistics-system
+category: mounts
+type: mount
+mount: "logistics system"
+tags: [mount, travel]
+status: stable

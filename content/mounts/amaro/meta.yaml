@@ -1,0 +1,6 @@
+id: amaro
+category: mounts
+type: mount
+mount: "amaro"
+tags: [mount, travel]
+status: stable

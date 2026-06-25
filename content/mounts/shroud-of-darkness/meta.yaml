@@ -1,0 +1,6 @@
+id: shroud-of-darkness
+category: mounts
+type: mount
+mount: "shroud of Darkness"
+tags: [mount, travel]
+status: stable

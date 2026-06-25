@@ -1,0 +1,6 @@
+id: cerberus
+category: mounts
+type: mount
+mount: "Cerberus"
+tags: [mount, travel]
+status: stable

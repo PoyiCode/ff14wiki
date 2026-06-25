@@ -1,0 +1,6 @@
+id: serpent-warsteed
+category: mounts
+type: mount
+mount: "serpent warsteed"
+tags: [mount, travel]
+status: stable

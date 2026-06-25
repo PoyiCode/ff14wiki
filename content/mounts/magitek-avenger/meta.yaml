@@ -1,0 +1,6 @@
+id: magitek-avenger
+category: mounts
+type: mount
+mount: "magitek avenger"
+tags: [mount, travel]
+status: stable

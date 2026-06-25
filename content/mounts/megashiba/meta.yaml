@@ -1,0 +1,6 @@
+id: megashiba
+category: mounts
+type: mount
+mount: "megashiba"
+tags: [mount, travel]
+status: stable

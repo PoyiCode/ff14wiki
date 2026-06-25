@@ -1,0 +1,6 @@
+id: coeurl
+category: mounts
+type: mount
+mount: "coeurl"
+tags: [mount, travel]
+status: stable

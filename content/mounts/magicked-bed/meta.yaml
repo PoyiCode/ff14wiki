@@ -1,0 +1,6 @@
+id: magicked-bed
+category: mounts
+type: mount
+mount: "magicked bed"
+tags: [mount, travel]
+status: stable

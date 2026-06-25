@@ -1,0 +1,6 @@
+id: typhon
+category: mounts
+type: mount
+mount: "Typhon"
+tags: [mount, travel]
+status: stable

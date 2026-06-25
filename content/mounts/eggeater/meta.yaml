@@ -1,0 +1,6 @@
+id: eggeater
+category: mounts
+type: mount
+mount: "eggeater"
+tags: [mount, travel]
+status: stable

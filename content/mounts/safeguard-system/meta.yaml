@@ -1,0 +1,6 @@
+id: safeguard-system
+category: mounts
+type: mount
+mount: "safeguard system"
+tags: [mount, travel]
+status: stable

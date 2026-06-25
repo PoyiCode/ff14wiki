@@ -1,0 +1,6 @@
+id: cavalry-elbst
+category: mounts
+type: mount
+mount: "cavalry elbst"
+tags: [mount, travel]
+status: stable

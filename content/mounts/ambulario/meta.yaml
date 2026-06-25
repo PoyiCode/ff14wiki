@@ -1,0 +1,6 @@
+id: ambulario
+category: mounts
+type: mount
+mount: "Ambulario"
+tags: [mount, travel]
+status: stable

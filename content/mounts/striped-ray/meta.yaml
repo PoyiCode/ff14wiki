@@ -1,0 +1,6 @@
+id: striped-ray
+category: mounts
+type: mount
+mount: "striped ray"
+tags: [mount, travel]
+status: stable

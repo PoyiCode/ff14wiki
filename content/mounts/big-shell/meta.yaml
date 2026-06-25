@@ -1,0 +1,6 @@
+id: big-shell
+category: mounts
+type: mount
+mount: "big shell"
+tags: [mount, travel]
+status: stable

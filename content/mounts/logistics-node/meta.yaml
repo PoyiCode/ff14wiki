@@ -1,0 +1,6 @@
+id: logistics-node
+category: mounts
+type: mount
+mount: "logistics node"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: parade-chocobo
+category: mounts
+type: mount
+mount: "parade chocobo"
+tags: [mount, travel]
+status: stable

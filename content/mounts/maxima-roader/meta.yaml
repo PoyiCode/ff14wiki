@@ -1,0 +1,6 @@
+id: maxima-roader
+category: mounts
+type: mount
+mount: "maxima roader"
+tags: [mount, travel]
+status: stable

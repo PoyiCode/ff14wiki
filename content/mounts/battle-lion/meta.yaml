@@ -1,0 +1,6 @@
+id: battle-lion
+category: mounts
+type: mount
+mount: "battle lion"
+tags: [mount, travel]
+status: stable

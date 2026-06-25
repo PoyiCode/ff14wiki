@@ -1,0 +1,6 @@
+id: wanyudo
+category: mounts
+type: mount
+mount: "wanyudo"
+tags: [mount, travel]
+status: stable

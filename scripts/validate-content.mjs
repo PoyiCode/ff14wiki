@@ -9,7 +9,7 @@ import yaml from 'js-yaml';
 const LOCALES = ['zh-TW', 'zh-CN', 'ja', 'en'];
 const CATEGORIES = [
   'world', 'locations', 'lore', 'culture',
-  'personas', 'activities', 'emotes', 'glossary', 'weather',
+  'personas', 'activities', 'emotes', 'glossary', 'weather', 'mounts',
 ];
 const CONTENT_DIR = path.join(process.cwd(), 'content');
 

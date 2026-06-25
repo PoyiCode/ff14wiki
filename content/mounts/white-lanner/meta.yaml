@@ -1,0 +1,6 @@
+id: white-lanner
+category: mounts
+type: mount
+mount: "white lanner"
+tags: [mount, travel]
+status: stable

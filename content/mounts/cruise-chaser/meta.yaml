@@ -1,0 +1,6 @@
+id: cruise-chaser
+category: mounts
+type: mount
+mount: "Cruise Chaser"
+tags: [mount, travel]
+status: stable

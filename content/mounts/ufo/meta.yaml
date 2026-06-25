@@ -1,0 +1,6 @@
+id: ufo
+category: mounts
+type: mount
+mount: "UFO"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: sophic-lanner
+category: mounts
+type: mount
+mount: "Sophic lanner"
+tags: [mount, travel]
+status: stable

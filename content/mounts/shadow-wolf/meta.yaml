@@ -1,0 +1,6 @@
+id: shadow-wolf
+category: mounts
+type: mount
+mount: "shadow wolf"
+tags: [mount, travel]
+status: stable

@@ -110,6 +110,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The weathers of Eorzea, so the bot can describe its surroundings and chat about the weather.',
     },
   },
+  {
+    key: 'mounts',
+    label: { 'zh-TW': '坐騎', 'zh-CN': '坐骑', ja: 'マウント', en: 'Mounts' },
+    description: {
+      'zh-TW': '居民代步、旅遊用的坐騎，也是玩家常炫耀、可閒聊的話題。',
+      'zh-CN': '居民代步、旅游用的坐骑，也是玩家常炫耀、可闲聊的话题。',
+      ja: '住民の移動や旅に使う乗り物（マウント）。プレイヤーが見せ合う話題にも。',
+      en: 'Mounts residents ride to get around — also a favourite thing for players to show off and chat about.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

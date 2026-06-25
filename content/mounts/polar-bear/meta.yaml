@@ -1,0 +1,6 @@
+id: polar-bear
+category: mounts
+type: mount
+mount: "polar bear"
+tags: [mount, travel]
+status: stable

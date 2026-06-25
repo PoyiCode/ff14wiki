@@ -1,0 +1,6 @@
+id: warlion
+category: mounts
+type: mount
+mount: "warlion"
+tags: [mount, travel]
+status: stable

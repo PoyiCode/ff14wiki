@@ -1,0 +1,6 @@
+id: torgal
+category: mounts
+type: mount
+mount: "Torgal"
+tags: [mount, travel]
+status: stable

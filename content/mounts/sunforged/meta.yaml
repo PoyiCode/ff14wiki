@@ -1,0 +1,6 @@
+id: sunforged
+category: mounts
+type: mount
+mount: "sunforged"
+tags: [mount, travel]
+status: stable

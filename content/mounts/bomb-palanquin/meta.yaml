@@ -1,0 +1,6 @@
+id: bomb-palanquin
+category: mounts
+type: mount
+mount: "bomb palanquin"
+tags: [mount, travel]
+status: stable

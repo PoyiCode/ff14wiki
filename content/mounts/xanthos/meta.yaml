@@ -1,0 +1,6 @@
+id: xanthos
+category: mounts
+type: mount
+mount: "Xanthos"
+tags: [mount, travel]
+status: stable

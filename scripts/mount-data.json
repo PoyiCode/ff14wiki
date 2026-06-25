@@ -1,0 +1,3582 @@
+[
+ {
+  "slug": "adamantoise",
+  "en": "adamantoise",
+  "n": {
+   "en": "adamantoise",
+   "zh-CN": "精金龟",
+   "ja": "アダマンタス",
+   "zh-TW": "精金龜"
+  }
+ },
+ {
+  "slug": "aerodynamics-system",
+  "en": "aerodynamics system",
+  "n": {
+   "en": "aerodynamics system",
+   "zh-CN": "浮空系统",
+   "ja": "浮行システム",
+   "zh-TW": "浮空系統"
+  }
+ },
+ {
+  "slug": "aeturna",
+  "en": "aeturna",
+  "n": {
+   "en": "aeturna",
+   "zh-CN": "永恒",
+   "ja": "アエテルナエ",
+   "zh-TW": "永恆"
+  }
+ },
+ {
+  "slug": "ahriman",
+  "en": "ahriman",
+  "n": {
+   "en": "ahriman",
+   "zh-CN": "冥鬼之眼",
+   "ja": "アーリマン",
+   "zh-TW": "冥鬼之眼"
+  }
+ },
+ {
+  "slug": "air-force",
+  "en": "Air Force",
+  "n": {
+   "en": "Air Force",
+   "zh-CN": "空军装甲",
+   "ja": "エアフォース",
+   "zh-TW": "空軍裝甲"
+  }
+ },
+ {
+  "slug": "air-wheeler-a9",
+  "en": "air-wheeler A9",
+  "n": {
+   "en": "air-wheeler A9",
+   "zh-CN": "飞梭A9",
+   "ja": "エアスピナーA9",
+   "zh-TW": "飛梭A9"
+  }
+ },
+ {
+  "slug": "air-wheeler-c9",
+  "en": "air-wheeler C9",
+  "n": {
+   "en": "air-wheeler C9",
+   "zh-CN": "飞梭C9",
+   "ja": "エアスピナーC9",
+   "zh-TW": "飛梭C9"
+  }
+ },
+ {
+  "slug": "aithon",
+  "en": "Aithon",
+  "n": {
+   "en": "Aithon",
+   "zh-CN": "火妖马埃驮恩",
+   "ja": "アイトーン",
+   "zh-TW": "火妖馬埃馱恩"
+  }
+ },
+ {
+  "slug": "al-iklil",
+  "en": "Al-iklil",
+  "n": {
+   "en": "Al-iklil",
+   "zh-CN": "王冠号",
+   "ja": "イクリール",
+   "zh-TW": "王冠號"
+  }
+ },
+ {
+  "slug": "albino-karakul",
+  "en": "albino karakul",
+  "n": {
+   "en": "albino karakul",
+   "zh-CN": "白化黑羊",
+   "ja": "アルビノカラクール",
+   "zh-TW": "白化黑羊"
+  }
+ },
+ {
+  "slug": "alert-red-warp-loader",
+  "en": "alert red warp loader",
+  "n": {
+   "en": "alert red warp loader",
+   "zh-CN": "红色轮式工程车",
+   "ja": "レッドホイールローダー",
+   "zh-TW": "紅色輪式工程車"
+  }
+ },
+ {
+  "slug": "alexandrian-axe-beak",
+  "en": "Alexandrian axe beak",
+  "n": {
+   "en": "Alexandrian axe beak",
+   "zh-CN": "斧喙魔鸟",
+   "ja": "アックスビーク",
+   "zh-TW": "斧喙魔鳥"
+  }
+ },
+ {
+  "slug": "alkonost",
+  "en": "alkonost",
+  "n": {
+   "en": "alkonost",
+   "zh-CN": "阿尔科诺斯特",
+   "ja": "アルコノスト",
+   "zh-TW": "阿爾科諾斯特"
+  }
+ },
+ {
+  "slug": "alpaca",
+  "en": "alpaca",
+  "n": {
+   "en": "alpaca",
+   "zh-CN": "羊驼",
+   "ja": "アルパカ",
+   "zh-TW": "羊駝"
+  }
+ },
+ {
+  "slug": "alsvid",
+  "en": "Alsvid",
+  "n": {
+   "en": "Alsvid",
+   "zh-CN": "阿尔斯维兹",
+   "ja": "アルスヴィズ",
+   "zh-TW": "阿爾斯維茲"
+  }
+ },
+ {
+  "slug": "alte-roite",
+  "en": "Alte Roite",
+  "n": {
+   "en": "Alte Roite",
+   "zh-CN": "老者",
+   "ja": "アルテ・ロイテ",
+   "zh-TW": "老者"
+  }
+ },
+ {
+  "slug": "amaro",
+  "en": "amaro",
+  "n": {
+   "en": "amaro",
+   "zh-CN": "阿马罗",
+   "ja": "アマロ",
+   "zh-TW": "阿馬羅"
+  }
+ },
+ {
+  "slug": "amber-draught-chocobo",
+  "en": "amber draught chocobo",
+  "n": {
+   "en": "amber draught chocobo",
+   "zh-CN": "红大陆行鸟",
+   "ja": "赤グランチョコボ",
+   "zh-TW": "紅大陸行鳥"
+  }
+ },
+ {
+  "slug": "ambulario",
+  "en": "Ambulario",
+  "n": {
+   "en": "Ambulario",
+   "zh-CN": "南瓜行者",
+   "ja": "パンプキンウォーカー",
+   "zh-TW": "南瓜行者"
+  }
+ },
+ {
+  "slug": "ancient-airship",
+  "en": "ancient airship",
+  "n": {
+   "en": "ancient airship",
+   "zh-CN": "古代魔法船",
+   "ja": "古式魔道船",
+   "zh-TW": "古代魔法船"
+  }
+ },
+ {
+  "slug": "anden-iii",
+  "en": "Anden III",
+  "n": {
+   "en": "Anden III",
+   "zh-CN": "安登三世",
+   "ja": "アンデンIII世",
+   "zh-TW": "安登三世"
+  }
+ },
+ {
+  "slug": "antelope-doe",
+  "en": "antelope doe",
+  "n": {
+   "en": "antelope doe",
+   "zh-CN": "雌羚羊",
+   "ja": "アンテロープ・ドゥ",
+   "zh-TW": "雌羚羊"
+  }
+ },
+ {
+  "slug": "antelope-stag",
+  "en": "antelope stag",
+  "n": {
+   "en": "antelope stag",
+   "zh-CN": "雄羚羊",
+   "ja": "アンテロープ・スタッグ",
+   "zh-TW": "雄羚羊"
+  }
+ },
+ {
+  "slug": "apocryphal-bahamut",
+  "en": "apocryphal Bahamut",
+  "n": {
+   "en": "apocryphal Bahamut",
+   "zh-CN": "巴哈姆特·幽愿",
+   "ja": "バハムート・アポクリファ",
+   "zh-TW": "巴哈姆特·幽願"
+  }
+ },
+ {
+  "slug": "aquamarine-carbuncle",
+  "en": "Aquamarine Carbuncle",
+  "n": {
+   "en": "Aquamarine Carbuncle",
+   "zh-CN": "海蓝宝石兽",
+   "ja": "カーバンクル・アクアマリン",
+   "zh-TW": "海藍寶石獸"
+  }
+ },
+ {
+  "slug": "archon-throne",
+  "en": "Archon throne",
+  "n": {
+   "en": "Archon throne",
+   "zh-CN": "贤者座椅",
+   "ja": "アルコンズ・チェアー",
+   "zh-TW": "賢者座椅"
+  }
+ },
+ {
+  "slug": "argos",
+  "en": "Argos",
+  "n": {
+   "en": "Argos",
+   "zh-CN": "阿尔戈斯",
+   "ja": "アルゴス",
+   "zh-TW": "阿爾戈斯"
+  }
+ },
+ {
+  "slug": "arion",
+  "en": "Arion",
+  "n": {
+   "en": "Arion",
+   "zh-CN": "阿里翁",
+   "ja": "アレイオン",
+   "zh-TW": "阿里翁"
+  }
+ },
+ {
+  "slug": "ark",
+  "en": "Ark",
+  "n": {
+   "en": "Ark",
+   "zh-CN": "方舟",
+   "ja": "アーク",
+   "zh-TW": "方舟"
+  }
+ },
+ {
+  "slug": "arrhidaeus",
+  "en": "Arrhidaeus",
+  "n": {
+   "en": "Arrhidaeus",
+   "zh-CN": "阿里达乌斯",
+   "ja": "アリダイオス",
+   "zh-TW": "阿里達烏斯"
+  }
+ },
+ {
+  "slug": "astrope",
+  "en": "Astrope",
+  "n": {
+   "en": "Astrope",
+   "zh-CN": "天阳马阿斯特洛珀",
+   "ja": "アストロペ",
+   "zh-TW": "天陽馬阿斯特洛珀"
+  }
+ },
+ {
+  "slug": "auspicious-kamuy",
+  "en": "auspicious kamuy",
+  "n": {
+   "en": "auspicious kamuy",
+   "zh-CN": "白帝神威",
+   "ja": "白のカムイ",
+   "zh-TW": "白帝神威"
+  }
+ },
+ {
+  "slug": "automatoise",
+  "en": "automatoise",
+  "n": {
+   "en": "automatoise",
+   "zh-CN": "半机器龟",
+   "ja": "トータスボーグ",
+   "zh-TW": "半機器龜"
+  }
+ },
+ {
+  "slug": "barreltender",
+  "en": "barreltender",
+  "n": {
+   "en": "barreltender",
+   "zh-CN": "酒桶刺",
+   "ja": "バレルテンダー",
+   "zh-TW": "酒桶刺"
+  }
+ },
+ {
+  "slug": "battle-bear",
+  "en": "battle bear",
+  "n": {
+   "en": "battle bear",
+   "zh-CN": "斗熊",
+   "ja": "バトルベアー",
+   "zh-TW": "鬥熊"
+  }
+ },
+ {
+  "slug": "battle-lion",
+  "en": "battle lion",
+  "n": {
+   "en": "battle lion",
+   "zh-CN": "斗狮",
+   "ja": "バトルライオン",
+   "zh-TW": "鬥獅"
+  }
+ },
+ {
+  "slug": "battle-panther",
+  "en": "battle panther",
+  "n": {
+   "en": "battle panther",
+   "zh-CN": "斗豹",
+   "ja": "バトルパンサー",
+   "zh-TW": "鬥豹"
+  }
+ },
+ {
+  "slug": "battle-tiger",
+  "en": "battle tiger",
+  "n": {
+   "en": "battle tiger",
+   "zh-CN": "斗虎",
+   "ja": "バトルタイガー",
+   "zh-TW": "鬥虎"
+  }
+ },
+ {
+  "slug": "behemoth",
+  "en": "behemoth",
+  "n": {
+   "en": "behemoth",
+   "zh-CN": "贝希摩斯",
+   "ja": "ベヒーモス",
+   "zh-TW": "貝希摩斯"
+  }
+ },
+ {
+  "slug": "bennu",
+  "en": "bennu",
+  "n": {
+   "en": "bennu",
+   "zh-CN": "贝努鸟",
+   "ja": "ベンヌ",
+   "zh-TW": "貝努鳥"
+  }
+ },
+ {
+  "slug": "big-shell",
+  "en": "big shell",
+  "n": {
+   "en": "big shell",
+   "zh-CN": "大壳蟹",
+   "ja": "ビッグシェル",
+   "zh-TW": "大殼蟹"
+  }
+ },
+ {
+  "slug": "black-chocobo",
+  "en": "black chocobo",
+  "n": {
+   "en": "black chocobo",
+   "zh-CN": "黑陆行鸟",
+   "ja": "黒チョコボ",
+   "zh-TW": "黑陸行鳥"
+  }
+ },
+ {
+  "slug": "black-pegasus",
+  "en": "black pegasus",
+  "n": {
+   "en": "black pegasus",
+   "zh-CN": "黑天马",
+   "ja": "ブラックペガサス",
+   "zh-TW": "黑天馬"
+  }
+ },
+ {
+  "slug": "blackjack",
+  "en": "Blackjack",
+  "n": {
+   "en": "Blackjack",
+   "zh-CN": "黑杰克号",
+   "ja": "ブラックジャック号",
+   "zh-TW": "黑傑克號"
+  }
+ },
+ {
+  "slug": "blissful-kamuy",
+  "en": "blissful kamuy",
+  "n": {
+   "en": "blissful kamuy",
+   "zh-CN": "极乐神威",
+   "ja": "美のカムイ",
+   "zh-TW": "極樂神威"
+  }
+ },
+ {
+  "slug": "bluefeather-lynx",
+  "en": "bluefeather lynx",
+  "n": {
+   "en": "bluefeather lynx",
+   "zh-CN": "蓝羽猞猁",
+   "ja": "ブルーフェザー・リンクス",
+   "zh-TW": "藍羽猞猁"
+  }
+ },
+ {
+  "slug": "bomb-palanquin",
+  "en": "bomb palanquin",
+  "n": {
+   "en": "bomb palanquin",
+   "zh-CN": "爆弹吊椅",
+   "ja": "ボムバルーン",
+   "zh-TW": "爆彈吊椅"
+  }
+ },
+ {
+  "slug": "boreas",
+  "en": "Boreas",
+  "n": {
+   "en": "Boreas",
+   "zh-CN": "冰妖马玻瑞阿斯",
+   "ja": "ボレアス",
+   "zh-TW": "冰妖馬玻瑞阿斯"
+  }
+ },
+ {
+  "slug": "brachiosaur",
+  "en": "brachiosaur",
+  "n": {
+   "en": "brachiosaur",
+   "zh-CN": "腕龙",
+   "ja": "ブラキオレイドス",
+   "zh-TW": "腕龍"
+  }
+ },
+ {
+  "slug": "branchbearer",
+  "en": "branchbearer",
+  "n": {
+   "en": "branchbearer",
+   "zh-CN": "拟鸟枝",
+   "ja": "ブランチベアラー",
+   "zh-TW": "擬鳥枝"
+  }
+ },
+ {
+  "slug": "broken-heart-left",
+  "en": "broken heart (left)",
+  "n": {
+   "en": "broken heart (left)",
+   "zh-CN": "飞天半心椅（左）",
+   "ja": "フライング・レフトハート",
+   "zh-TW": "飛天半心椅（左）"
+  }
+ },
+ {
+  "slug": "broken-heart-right",
+  "en": "broken heart (right)",
+  "n": {
+   "en": "broken heart (right)",
+   "zh-CN": "飞天半心椅（右）",
+   "ja": "フライング・ライトハート",
+   "zh-TW": "飛天半心椅（右）"
+  }
+ },
+ {
+  "slug": "burabura-chochin",
+  "en": "burabura chochin",
+  "n": {
+   "en": "burabura chochin",
+   "zh-CN": "荡悠悠",
+   "ja": "ブラブラ",
+   "zh-TW": "盪悠悠"
+  }
+ },
+ {
+  "slug": "calydontis",
+  "en": "Calydontis",
+  "n": {
+   "en": "Calydontis",
+   "zh-CN": "卡吕冬堤斯",
+   "ja": "カリュドンティス",
+   "zh-TW": "卡呂冬堤斯"
+  }
+ },
+ {
+  "slug": "cam-i",
+  "en": "CAM-I",
+  "n": {
+   "en": "CAM-I",
+   "zh-CN": "CAM-I",
+   "ja": "CAM-I",
+   "zh-TW": "CAM-I"
+  }
+ },
+ {
+  "slug": "cam-ii",
+  "en": "CAM-II",
+  "n": {
+   "en": "CAM-II",
+   "zh-CN": "CAM-II",
+   "ja": "CAM-II",
+   "zh-TW": "CAM-II"
+  }
+ },
+ {
+  "slug": "carbide-grey-warp-loader",
+  "en": "carbide grey warp loader",
+  "n": {
+   "en": "carbide grey warp loader",
+   "zh-CN": "灰色轮式工程车",
+   "ja": "グレーホイールローダー",
+   "zh-TW": "灰色輪式工程車"
+  }
+ },
+ {
+  "slug": "cavalry-drake",
+  "en": "cavalry drake",
+  "n": {
+   "en": "cavalry drake",
+   "zh-CN": "兵队火蛟",
+   "ja": "キャバルリー・ドレイク",
+   "zh-TW": "兵隊火蛟"
+  }
+ },
+ {
+  "slug": "cavalry-elbst",
+  "en": "cavalry elbst",
+  "n": {
+   "en": "cavalry elbst",
+   "zh-CN": "兵队水龙蜥",
+   "ja": "キャバルリー・エルブスト",
+   "zh-TW": "兵隊水龍蜥"
+  }
+ },
+ {
+  "slug": "centurio-tiger",
+  "en": "Centurio tiger",
+  "n": {
+   "en": "Centurio tiger",
+   "zh-CN": "兵团虎",
+   "ja": "セントリオタイガー",
+   "zh-TW": "兵團虎"
+  }
+ },
+ {
+  "slug": "cerberus",
+  "en": "Cerberus",
+  "n": {
+   "en": "Cerberus",
+   "zh-CN": "刻耳柏洛斯",
+   "ja": "ケルベロス",
+   "zh-TW": "刻耳柏洛斯"
+  }
+ },
+ {
+  "slug": "ceremony-chocobo",
+  "en": "ceremony chocobo",
+  "n": {
+   "en": "ceremony chocobo",
+   "zh-CN": "典礼陆行鸟",
+   "ja": "エターナルチョコボ",
+   "zh-TW": "典禮陸行鳥"
+  }
+ },
+ {
+  "slug": "chandelier-of-first-light",
+  "en": "chandelier of First Light",
+  "n": {
+   "en": "chandelier of First Light",
+   "zh-CN": "光耀吊灯",
+   "ja": "ファーストライト・シャンデリア",
+   "zh-TW": "光耀吊燈"
+  }
+ },
+ {
+  "slug": "chl-p-0005",
+  "en": "CHL P-0005",
+  "n": {
+   "en": "CHL P-0005",
+   "zh-CN": "CHL P-0005",
+   "ja": "CHL P-0005",
+   "zh-TW": "CHL P-0005"
+  }
+ },
+ {
+  "slug": "chl-p-0006",
+  "en": "CHL P-0006",
+  "n": {
+   "en": "CHL P-0006",
+   "zh-CN": "CHL P-0006",
+   "ja": "CHL P-0006",
+   "zh-TW": "CHL P-0006"
+  }
+ },
+ {
+  "slug": "chl-p-0006b",
+  "en": "CHL P-0006B",
+  "n": {
+   "en": "CHL P-0006B",
+   "zh-CN": "CHL P-0006B",
+   "ja": "CHL P-0006B",
+   "zh-TW": "CHL P-0006B"
+  }
+ },
+ {
+  "slug": "chl-w-0001",
+  "en": "CHL W-0001",
+  "n": {
+   "en": "CHL W-0001",
+   "zh-CN": "CHL W-0001",
+   "ja": "CHL W-0001",
+   "zh-TW": "CHL W-0001"
+  }
+ },
+ {
+  "slug": "chl-w-0002",
+  "en": "CHL W-0002",
+  "n": {
+   "en": "CHL W-0002",
+   "zh-CN": "CHL W-0002",
+   "ja": "CHL W-0002",
+   "zh-TW": "CHL W-0002"
+  }
+ },
+ {
+  "slug": "chocobo-carriage",
+  "en": "chocobo carriage",
+  "n": {
+   "en": "chocobo carriage",
+   "zh-CN": "陆行鸟篷车",
+   "ja": "チョコボキャリッジ",
+   "zh-TW": "陸行鳥篷車"
+  }
+ },
+ {
+  "slug": "chocorpokkur",
+  "en": "chocorpokkur",
+  "n": {
+   "en": "chocorpokkur",
+   "zh-CN": "巧克力小妖",
+   "ja": "チョコロポックル",
+   "zh-TW": "巧克力小妖"
+  }
+ },
+ {
+  "slug": "chrysomallos",
+  "en": "Chrysomallos",
+  "n": {
+   "en": "Chrysomallos",
+   "zh-CN": "克律索马罗斯",
+   "ja": "クリュソマロス",
+   "zh-TW": "克律索馬羅斯"
+  }
+ },
+ {
+  "slug": "circus-ahriman",
+  "en": "Circus ahriman",
+  "n": {
+   "en": "Circus ahriman",
+   "zh-CN": "大陆之眼",
+   "ja": "コンチネンタル・アーリマン",
+   "zh-TW": "大陸之眼"
+  }
+ },
+ {
+  "slug": "citrine-carbuncle",
+  "en": "Citrine Carbuncle",
+  "n": {
+   "en": "Citrine Carbuncle",
+   "zh-CN": "黄水晶宝石兽",
+   "ja": "カーバンクル・シトリン",
+   "zh-TW": "黃水晶寶石獸"
+  }
+ },
+ {
+  "slug": "cloud-mallow",
+  "en": "cloud mallow",
+  "n": {
+   "en": "cloud mallow",
+   "zh-CN": "孢云棉花糖",
+   "ja": "クラウドマロウ",
+   "zh-TW": "孢雲棉花糖"
+  }
+ },
+ {
+  "slug": "coeurl",
+  "en": "coeurl",
+  "n": {
+   "en": "coeurl",
+   "zh-CN": "长须豹",
+   "ja": "クァール",
+   "zh-TW": "長鬚豹"
+  }
+ },
+ {
+  "slug": "commandeered-magitek-armor",
+  "en": "commandeered magitek armor",
+  "n": {
+   "en": "commandeered magitek armor",
+   "zh-CN": "捕获的魔导装甲",
+   "ja": "鹵獲魔導アーマー",
+   "zh-TW": "捕獲的魔導裝甲"
+  }
+ },
+ {
+  "slug": "company-chocobo",
+  "en": "company chocobo",
+  "n": {
+   "en": "company chocobo",
+   "zh-CN": "专属陆行鸟",
+   "ja": "マイチョコボ",
+   "zh-TW": "專屬陸行鳥"
+  }
+ },
+ {
+  "slug": "construct-14",
+  "en": "Construct 14",
+  "n": {
+   "en": "Construct 14",
+   "zh-CN": "劳动十四号",
+   "ja": "労働十四号",
+   "zh-TW": "勞動十四號"
+  }
+ },
+ {
+  "slug": "construct-vi-s",
+  "en": "Construct VI-S",
+  "n": {
+   "en": "Construct VI-S",
+   "zh-CN": "建筑06S号",
+   "ja": "コンストラクト06S",
+   "zh-TW": "建築06S號"
+  }
+ },
+ {
+  "slug": "construct-vii",
+  "en": "Construct VII",
+  "n": {
+   "en": "Construct VII",
+   "zh-CN": "建筑7号",
+   "ja": "コンストラクト07",
+   "zh-TW": "建築7號"
+  }
+ },
+ {
+  "slug": "cosmic-armored-weapon",
+  "en": "cosmic armored weapon",
+  "n": {
+   "en": "cosmic armored weapon",
+   "zh-CN": "宇宙武装重甲",
+   "ja": "コスモ・アームドウェポン",
+   "zh-TW": "宇宙武裝重甲"
+  }
+ },
+ {
+  "slug": "cosmic-armored-weapon-beta",
+  "en": "cosmic armored weapon beta",
+  "n": {
+   "en": "cosmic armored weapon beta",
+   "zh-CN": "改良型宇宙武装重甲",
+   "ja": "コスモ・アームドウェポン改",
+   "zh-TW": "改良型宇宙武裝重甲"
+  }
+ },
+ {
+  "slug": "cosmic-countenance",
+  "en": "cosmic countenance",
+  "n": {
+   "en": "cosmic countenance",
+   "zh-CN": "宇宙面像",
+   "ja": "コスモフェイス",
+   "zh-TW": "宇宙面像"
+  }
+ },
+ {
+  "slug": "cosmic-predator",
+  "en": "cosmic predator",
+  "n": {
+   "en": "cosmic predator",
+   "zh-CN": "宇宙魔导猎手",
+   "ja": "コスモ・プレデター",
+   "zh-TW": "宇宙魔導獵手"
+  }
+ },
+ {
+  "slug": "cosmoboard",
+  "en": "cosmoboard",
+  "n": {
+   "en": "cosmoboard",
+   "zh-CN": "宇宙滑板",
+   "ja": "コスモボード",
+   "zh-TW": "宇宙滑板"
+  }
+ },
+ {
+  "slug": "cpd-i",
+  "en": "CPD-I",
+  "n": {
+   "en": "CPD-I",
+   "zh-CN": "CPD-I",
+   "ja": "CPD-I",
+   "zh-TW": "CPD-I"
+  }
+ },
+ {
+  "slug": "crescent-moon",
+  "en": "crescent moon",
+  "n": {
+   "en": "crescent moon",
+   "zh-CN": "弦月",
+   "ja": "クレセントムーン",
+   "zh-TW": "弦月"
+  }
+ },
+ {
+  "slug": "cruise-chaser",
+  "en": "Cruise Chaser",
+  "n": {
+   "en": "Cruise Chaser",
+   "zh-CN": "巡航驱逐者",
+   "ja": "クルーズチェイサー",
+   "zh-TW": "巡航驅逐者"
+  }
+ },
+ {
+  "slug": "dais-of-darkness",
+  "en": "dais of Darkness",
+  "n": {
+   "en": "dais of Darkness",
+   "zh-CN": "暗黑领域",
+   "ja": "暗黒領域",
+   "zh-TW": "暗黑領域"
+  }
+ },
+ {
+  "slug": "dark-lanner",
+  "en": "dark lanner",
+  "n": {
+   "en": "dark lanner",
+   "zh-CN": "暗黑猎鹰",
+   "ja": "ダークラナー",
+   "zh-TW": "暗黑獵鷹"
+  }
+ },
+ {
+  "slug": "deinonychus",
+  "en": "deinonychus",
+  "n": {
+   "en": "deinonychus",
+   "zh-CN": "恐爪龙",
+   "ja": "ディノニクス",
+   "zh-TW": "恐爪龍"
+  }
+ },
+ {
+  "slug": "demi-ozma",
+  "en": "Demi-Ozma",
+  "n": {
+   "en": "Demi-Ozma",
+   "zh-CN": "半灵奥兹玛",
+   "ja": "デミオズマ",
+   "zh-TW": "半靈奧茲瑪"
+  }
+ },
+ {
+  "slug": "demi-phoinix",
+  "en": "Demi-Phoinix",
+  "n": {
+   "en": "Demi-Phoinix",
+   "zh-CN": "亚灵菲尼克司",
+   "ja": "デミフェネクス",
+   "zh-TW": "亞靈菲尼克司"
+  }
+ },
+ {
+  "slug": "demon-haul",
+  "en": "demon haul",
+  "n": {
+   "en": "demon haul",
+   "zh-CN": "恶魔板",
+   "ja": "デモンズ・タブレット",
+   "zh-TW": "惡魔板"
+  }
+ },
+ {
+  "slug": "demonic-lanner",
+  "en": "Demonic lanner",
+  "n": {
+   "en": "Demonic lanner",
+   "zh-CN": "厉鬼猎鹰",
+   "ja": "デモンラナー",
+   "zh-TW": "厲鬼獵鷹"
+  }
+ },
+ {
+  "slug": "dhalmel",
+  "en": "dhalmel",
+  "n": {
+   "en": "dhalmel",
+   "zh-CN": "长颈驼",
+   "ja": "ダルメル",
+   "zh-TW": "長頸駝"
+  }
+ },
+ {
+  "slug": "diamond-gwiber",
+  "en": "diamond gwiber",
+  "n": {
+   "en": "diamond gwiber",
+   "zh-CN": "钻石玲龙",
+   "ja": "ダイヤグイベル",
+   "zh-TW": "鑽石玲龍"
+  }
+ },
+ {
+  "slug": "direwolf",
+  "en": "direwolf",
+  "n": {
+   "en": "direwolf",
+   "zh-CN": "恐狼",
+   "ja": "ダイアウルフ",
+   "zh-TW": "恐狼"
+  }
+ },
+ {
+  "slug": "disembodied-head",
+  "en": "disembodied head",
+  "n": {
+   "en": "disembodied head",
+   "zh-CN": "颅浮巨像",
+   "ja": "ヘッドマウント",
+   "zh-TW": "顱浮巨像"
+  }
+ },
+ {
+  "slug": "dodo",
+  "en": "dodo",
+  "n": {
+   "en": "dodo",
+   "zh-CN": "渡渡鸟",
+   "ja": "ドードー",
+   "zh-TW": "渡渡鳥"
+  }
+ },
+ {
+  "slug": "draught-chocobo",
+  "en": "draught chocobo",
+  "n": {
+   "en": "draught chocobo",
+   "zh-CN": "大陆行鸟",
+   "ja": "グランチョコボ",
+   "zh-TW": "大陸行鳥"
+  }
+ },
+ {
+  "slug": "dreadnaught",
+  "en": "dreadnaught",
+  "n": {
+   "en": "dreadnaught",
+   "zh-CN": "恐慌装甲",
+   "ja": "ドレッドノート",
+   "zh-TW": "恐慌裝甲"
+  }
+ },
+ {
+  "slug": "dynamite",
+  "en": "dynamite",
+  "n": {
+   "en": "dynamite",
+   "zh-CN": "炸药怪",
+   "ja": "ダイナマイト",
+   "zh-TW": "炸藥怪"
+  }
+ },
+ {
+  "slug": "eden",
+  "en": "Eden",
+  "n": {
+   "en": "Eden",
+   "zh-CN": "伊甸",
+   "ja": "エデン",
+   "zh-TW": "伊甸"
+  }
+ },
+ {
+  "slug": "eggeater",
+  "en": "eggeater",
+  "n": {
+   "en": "eggeater",
+   "zh-CN": "食蛋兽",
+   "ja": "エッグイーター",
+   "zh-TW": "食蛋獸"
+  }
+ },
+ {
+  "slug": "eggshilaration-system",
+  "en": "eggshilaration system",
+  "n": {
+   "en": "eggshilaration system",
+   "zh-CN": "彩蛋系统",
+   "ja": "エッグシステム",
+   "zh-TW": "彩蛋系統"
+  }
+ },
+ {
+  "slug": "ehll-tou",
+  "en": "Ehll Tou",
+  "n": {
+   "en": "Ehll Tou",
+   "zh-CN": "艾尔·图",
+   "ja": "エル・トゥ",
+   "zh-TW": "艾爾·圖"
+  }
+ },
+ {
+  "slug": "eldthurs",
+  "en": "Eldthurs",
+  "n": {
+   "en": "Eldthurs",
+   "zh-CN": "火巨人",
+   "ja": "エルドスルス",
+   "zh-TW": "火巨人"
+  }
+ },
+ {
+  "slug": "emerald-gwiber",
+  "en": "emerald gwiber",
+  "n": {
+   "en": "emerald gwiber",
+   "zh-CN": "绿宝石玲龙",
+   "ja": "エメラルドグイベル",
+   "zh-TW": "綠寶石玲龍"
+  }
+ },
+ {
+  "slug": "enbarr",
+  "en": "Enbarr",
+  "n": {
+   "en": "Enbarr",
+   "zh-CN": "水妖马艾恩巴尔",
+   "ja": "エンバール",
+   "zh-TW": "水妖馬艾恩巴爾"
+  }
+ },
+ {
+  "slug": "epimetheus",
+  "en": "Epimetheus",
+  "n": {
+   "en": "Epimetheus",
+   "zh-CN": "厄毗米修斯",
+   "ja": "エピメテウス",
+   "zh-TW": "厄毗米修斯"
+  }
+ },
+ {
+  "slug": "euphonious-kamuy",
+  "en": "euphonious kamuy",
+  "n": {
+   "en": "euphonious kamuy",
+   "zh-CN": "朱焰神威",
+   "ja": "朱のカムイ",
+   "zh-TW": "朱焰神威"
+  }
+ },
+ {
+  "slug": "eurekan-petrel",
+  "en": "Eurekan petrel",
+  "n": {
+   "en": "Eurekan petrel",
+   "zh-CN": "优雷卡盐蓝燕",
+   "ja": "エウレカスワロー",
+   "zh-TW": "優雷卡鹽藍燕"
+  }
+ },
+ {
+  "slug": "excavating-vacuum-suit",
+  "en": "excavating vacuum suit",
+  "n": {
+   "en": "excavating vacuum suit",
+   "zh-CN": "挖掘型强力机兵",
+   "ja": "掘採型パワーローダー",
+   "zh-TW": "挖掘型強力機兵"
+  }
+ },
+ {
+  "slug": "fae-gwiber",
+  "en": "fae gwiber",
+  "n": {
+   "en": "fae gwiber",
+   "zh-CN": "仙子玲龙",
+   "ja": "ピクシーグイベル",
+   "zh-TW": "仙子玲龍"
+  }
+ },
+ {
+  "slug": "falcon",
+  "en": "Falcon",
+  "n": {
+   "en": "Falcon",
+   "zh-CN": "飞隼号",
+   "ja": "ファルコン号",
+   "zh-TW": "飛隼號"
+  }
+ },
+ {
+  "slug": "fat-black-chocobo",
+  "en": "fat black chocobo",
+  "n": {
+   "en": "fat black chocobo",
+   "zh-CN": "黑色胖陆行鸟",
+   "ja": "でぶ黒チョコボ",
+   "zh-TW": "黑色胖陸行鳥"
+  }
+ },
+ {
+  "slug": "fat-chocobo",
+  "en": "fat chocobo",
+  "n": {
+   "en": "fat chocobo",
+   "zh-CN": "胖陆行鸟",
+   "ja": "でぶチョコボ",
+   "zh-TW": "胖陸行鳥"
+  }
+ },
+ {
+  "slug": "fat-moogle",
+  "en": "fat moogle",
+  "n": {
+   "en": "fat moogle",
+   "zh-CN": "胖莫古力",
+   "ja": "でぶモーグリ",
+   "zh-TW": "胖莫古力"
+  }
+ },
+ {
+  "slug": "fatter-cat",
+  "en": "fatter cat",
+  "n": {
+   "en": "fatter cat",
+   "zh-CN": "猫大胖",
+   "ja": "ビッグ・ファットキャット",
+   "zh-TW": "貓大胖"
+  }
+ },
+ {
+  "slug": "felyne-support-team-cart",
+  "en": "Felyne support team cart",
+  "n": {
+   "en": "Felyne support team cart",
+   "zh-CN": "猫车",
+   "ja": "ネコ荷車",
+   "zh-TW": "貓車"
+  }
+ },
+ {
+  "slug": "fenrir",
+  "en": "Fenrir",
+  "n": {
+   "en": "Fenrir",
+   "zh-CN": "芬里尔",
+   "ja": "フェンリル",
+   "zh-TW": "芬里爾"
+  }
+ },
+ {
+  "slug": "firebird",
+  "en": "Firebird",
+  "n": {
+   "en": "Firebird",
+   "zh-CN": "凤凰",
+   "ja": "鳳凰",
+   "zh-TW": "鳳凰"
+  }
+ },
+ {
+  "slug": "flame-warsteed",
+  "en": "flame warsteed",
+  "n": {
+   "en": "flame warsteed",
+   "zh-CN": "恒辉战马",
+   "ja": "ウルダハン・スティード",
+   "zh-TW": "恆輝戰馬"
+  }
+ },
+ {
+  "slug": "flying-chair",
+  "en": "flying chair",
+  "n": {
+   "en": "flying chair",
+   "zh-CN": "飞行座椅",
+   "ja": "フライング・チェアー",
+   "zh-TW": "飛行座椅"
+  }
+ },
+ {
+  "slug": "flying-cumulus",
+  "en": "flying cumulus",
+  "n": {
+   "en": "flying cumulus",
+   "zh-CN": "筋斗云",
+   "ja": "筋斗雲",
+   "zh-TW": "筋斗雲"
+  }
+ },
+ {
+  "slug": "forgiven-mimicry",
+  "en": "forgiven mimicry",
+  "n": {
+   "en": "forgiven mimicry",
+   "zh-CN": "得到宽恕的拟态",
+   "ja": "フォーギヴン・ミミクリー",
+   "zh-TW": "得到寬恕的擬態"
+  }
+ },
+ {
+  "slug": "forgiven-reticence",
+  "en": "forgiven reticence",
+  "n": {
+   "en": "forgiven reticence",
+   "zh-CN": "得到宽恕的沉默",
+   "ja": "フォーギヴン・レティセンス",
+   "zh-TW": "得到寬恕的沉默"
+  }
+ },
+ {
+  "slug": "fylgja",
+  "en": "Fylgja",
+  "n": {
+   "en": "Fylgja",
+   "zh-CN": "菲尔亚",
+   "ja": "フィルギャ",
+   "zh-TW": "菲爾亞"
+  }
+ },
+ {
+  "slug": "gabriel",
+  "en": "Gabriel α",
+  "n": {
+   "en": "Gabriel α",
+   "zh-CN": "加百列α",
+   "ja": "ガブリエルα",
+   "zh-TW": "加百列α"
+  }
+ },
+ {
+  "slug": "gabriel-mark-iii",
+  "en": "Gabriel Mark III",
+  "n": {
+   "en": "Gabriel Mark III",
+   "zh-CN": "加百列III号机",
+   "ja": "ガブリエルIII号機",
+   "zh-TW": "加百列III號機"
+  }
+ },
+ {
+  "slug": "garlond-gl-ii",
+  "en": "Garlond GL-II",
+  "n": {
+   "en": "Garlond GL-II",
+   "zh-CN": "加隆德GL-II",
+   "ja": "ガーロンドGL-II",
+   "zh-TW": "加隆德GL-II"
+  }
+ },
+ {
+  "slug": "garlond-gl-iit",
+  "en": "Garlond GL-IIT",
+  "n": {
+   "en": "Garlond GL-IIT",
+   "zh-CN": "加隆德GL-IIT",
+   "ja": "ガーロンドGL-IIT",
+   "zh-TW": "加隆德GL-IIT"
+  }
+ },
+ {
+  "slug": "garlond-gl-is",
+  "en": "Garlond GL-IS",
+  "n": {
+   "en": "Garlond GL-IS",
+   "zh-CN": "加隆德GL-IS",
+   "ja": "ガーロンドGL-IS",
+   "zh-TW": "加隆德GL-IS"
+  }
+ },
+ {
+  "slug": "genie-of-the-lamp",
+  "en": "genie of the lamp",
+  "n": {
+   "en": "genie of the lamp",
+   "zh-CN": "神灯灵",
+   "ja": "ランプの精",
+   "zh-TW": "神燈靈"
+  }
+ },
+ {
+  "slug": "gilded-magitek-armor",
+  "en": "gilded magitek armor",
+  "n": {
+   "en": "gilded magitek armor",
+   "zh-CN": "魔导装甲丙型",
+   "ja": "C式魔導アーマー",
+   "zh-TW": "魔導裝甲丙型"
+  }
+ },
+ {
+  "slug": "gilded-mikoshi",
+  "en": "gilded mikoshi",
+  "n": {
+   "en": "gilded mikoshi",
+   "zh-CN": "巨鲶鱼金轿",
+   "ja": "オオナマキン御輿",
+   "zh-TW": "巨鯰魚金轎"
+  }
+ },
+ {
+  "slug": "ginga",
+  "en": "Ginga",
+  "n": {
+   "en": "Ginga",
+   "zh-CN": "银牙",
+   "ja": "銀牙",
+   "zh-TW": "銀牙"
+  }
+ },
+ {
+  "slug": "gloria-class-airship",
+  "en": "Gloria-class airship",
+  "n": {
+   "en": "Gloria-class airship",
+   "zh-CN": "荣耀号",
+   "ja": "グローリア号",
+   "zh-TW": "榮耀號"
+  }
+ },
+ {
+  "slug": "gobwalker",
+  "en": "gobwalker",
+  "n": {
+   "en": "gobwalker",
+   "zh-CN": "哥布林战车",
+   "ja": "ゴブリウォーカー",
+   "zh-TW": "哥布林戰車"
+  }
+ },
+ {
+  "slug": "goobbue",
+  "en": "goobbue",
+  "n": {
+   "en": "goobbue",
+   "zh-CN": "古菩猩猩",
+   "ja": "グゥーブー",
+   "zh-TW": "古菩猩猩"
+  }
+ },
+ {
+  "slug": "goten",
+  "en": "Goten",
+  "n": {
+   "en": "Goten",
+   "zh-CN": "轰天",
+   "ja": "轟天",
+   "zh-TW": "轟天"
+  }
+ },
+ {
+  "slug": "grani",
+  "en": "Grani",
+  "n": {
+   "en": "Grani",
+   "zh-CN": "格拉尼",
+   "ja": "グラニ",
+   "zh-TW": "格拉尼"
+  }
+ },
+ {
+  "slug": "great-vessel-of-ronka",
+  "en": "Great Vessel of Ronka",
+  "n": {
+   "en": "Great Vessel of Ronka",
+   "zh-CN": "水蛇大人的罐子",
+   "ja": "水蛇様の壺",
+   "zh-TW": "水蛇大人的罐子"
+  }
+ },
+ {
+  "slug": "griffin",
+  "en": "griffin",
+  "n": {
+   "en": "griffin",
+   "zh-CN": "狮鹫",
+   "ja": "グリフィン",
+   "zh-TW": "獅鷲"
+  }
+ },
+ {
+  "slug": "gullfaxi",
+  "en": "Gullfaxi",
+  "n": {
+   "en": "Gullfaxi",
+   "zh-CN": "土妖马古尔法克西",
+   "ja": "グルファクシ",
+   "zh-TW": "土妖馬古爾法克西"
+  }
+ },
+ {
+  "slug": "gwiber-of-light",
+  "en": "gwiber of light",
+  "n": {
+   "en": "gwiber of light",
+   "zh-CN": "光之玲龙",
+   "ja": "グイベル・オブ・ライト",
+   "zh-TW": "光之玲龍"
+  }
+ },
+ {
+  "slug": "hallowed-kamuy",
+  "en": "hallowed kamuy",
+  "n": {
+   "en": "hallowed kamuy",
+   "zh-CN": "青君神威",
+   "ja": "青のカムイ",
+   "zh-TW": "青君神威"
+  }
+ },
+ {
+  "slug": "hardy-daytona",
+  "en": "Hardy-Daytona",
+  "n": {
+   "en": "Hardy-Daytona",
+   "zh-CN": "哈迪·戴托纳",
+   "ja": "ハーディ＝デイトナ",
+   "zh-TW": "哈迪·戴託納"
+  }
+ },
+ {
+  "slug": "high-mobility-vacuum-suit",
+  "en": "high mobility vacuum suit",
+  "n": {
+   "en": "high mobility vacuum suit",
+   "zh-CN": "高机动型强力机兵",
+   "ja": "高機動型パワーローダー",
+   "zh-TW": "高機動型強力機兵"
+  }
+ },
+ {
+  "slug": "hippo-cart",
+  "en": "hippo cart",
+  "n": {
+   "en": "hippo cart",
+   "zh-CN": "河马车",
+   "ja": "ヒッポカート",
+   "zh-TW": "河馬車"
+  }
+ },
+ {
+  "slug": "his-royal-headness-on-parade",
+  "en": "His Royal Headness on Parade",
+  "n": {
+   "en": "His Royal Headness on Parade",
+   "zh-CN": "进击的好脑袋",
+   "ja": "ライド・ザ・ナイスヘッド",
+   "zh-TW": "進擊的好腦袋"
+  }
+ },
+ {
+  "slug": "hovering-hot-pot",
+  "en": "hovering hot pot",
+  "n": {
+   "en": "hovering hot pot",
+   "zh-CN": "风火锅",
+   "ja": "風火鍋",
+   "zh-TW": "風火鍋"
+  }
+ },
+ {
+  "slug": "hybodus",
+  "en": "hybodus",
+  "n": {
+   "en": "hybodus",
+   "zh-CN": "弓鲛",
+   "ja": "ヒボドゥス",
+   "zh-TW": "弓鮫"
+  }
+ },
+ {
+  "slug": "incitatus",
+  "en": "Incitatus",
+  "n": {
+   "en": "Incitatus",
+   "zh-CN": "英西塔土斯",
+   "ja": "インキタトゥス",
+   "zh-TW": "英西塔土斯"
+  }
+ },
+ {
+  "slug": "indigo-whale",
+  "en": "Indigo whale",
+  "n": {
+   "en": "Indigo whale",
+   "zh-CN": "须鲸",
+   "ja": "ホエール",
+   "zh-TW": "鬚鯨"
+  }
+ },
+ {
+  "slug": "inflatable-mograft",
+  "en": "inflatable mograft",
+  "n": {
+   "en": "inflatable mograft",
+   "zh-CN": "莫古力充气浮床",
+   "ja": "モーグリフロート",
+   "zh-TW": "莫古力充氣浮牀"
+  }
+ },
+ {
+  "slug": "innocent-gwiber",
+  "en": "innocent gwiber",
+  "n": {
+   "en": "innocent gwiber",
+   "zh-CN": "无瑕玲龙",
+   "ja": "イノセントグイベル",
+   "zh-TW": "無瑕玲龍"
+  }
+ },
+ {
+  "slug": "interstellar-dhalmel",
+  "en": "interstellar dhalmel",
+  "n": {
+   "en": "interstellar dhalmel",
+   "zh-CN": "宇宙长颈驼",
+   "ja": "スペースダルメル",
+   "zh-TW": "宇宙長頸駝"
+  }
+ },
+ {
+  "slug": "interstellar-leafkin",
+  "en": "interstellar leafkin",
+  "n": {
+   "en": "interstellar leafkin",
+   "zh-CN": "太空小叶灵",
+   "ja": "スペースリフキン",
+   "zh-TW": "太空小葉靈"
+  }
+ },
+ {
+  "slug": "ironfrog-mover",
+  "en": "ironfrog mover",
+  "n": {
+   "en": "ironfrog mover",
+   "zh-CN": "青蛙号M",
+   "ja": "フロッガーM",
+   "zh-TW": "青蛙號M"
+  }
+ },
+ {
+  "slug": "island-adenium",
+  "en": "island adenium",
+  "n": {
+   "en": "island adenium",
+   "zh-CN": "海岛沙漠玫瑰",
+   "ja": "アイル・アデニウム",
+   "zh-TW": "海島沙漠玫瑰"
+  }
+ },
+ {
+  "slug": "island-alligator",
+  "en": "island alligator",
+  "n": {
+   "en": "island alligator",
+   "zh-CN": "海岛短吻鳄",
+   "ja": "アイランド・アリゲーター",
+   "zh-TW": "海島短吻鱷"
+  }
+ },
+ {
+  "slug": "island-buffalo",
+  "en": "island buffalo",
+  "n": {
+   "en": "island buffalo",
+   "zh-CN": "海岛水牛",
+   "ja": "アイル・バッファロー",
+   "zh-TW": "海島水牛"
+  }
+ },
+ {
+  "slug": "island-eggplant-knight",
+  "en": "island Eggplant Knight",
+  "n": {
+   "en": "island Eggplant Knight",
+   "zh-CN": "海岛茄子骑士",
+   "ja": "アイル・エッグナイト",
+   "zh-TW": "海島茄子騎士"
+  }
+ },
+ {
+  "slug": "island-garlic-jester",
+  "en": "island Garlic Jester",
+  "n": {
+   "en": "island Garlic Jester",
+   "zh-CN": "海岛蒜头明星",
+   "ja": "アイル・ガーリックスター",
+   "zh-TW": "海島蒜頭明星"
+  }
+ },
+ {
+  "slug": "island-mandragora",
+  "en": "island mandragora",
+  "n": {
+   "en": "island mandragora",
+   "zh-CN": "海岛蔓德拉",
+   "ja": "アイル・マンドラゴラ",
+   "zh-TW": "海島蔓德拉"
+  }
+ },
+ {
+  "slug": "island-mandragora-queen",
+  "en": "island Mandragora Queen",
+  "n": {
+   "en": "island Mandragora Queen",
+   "zh-CN": "海岛蔓德拉王后",
+   "ja": "アイル・マンドラクイーン",
+   "zh-TW": "海島蔓德拉王后"
+  }
+ },
+ {
+  "slug": "island-onion-prince",
+  "en": "island Onion Prince",
+  "n": {
+   "en": "island Onion Prince",
+   "zh-CN": "海岛洋葱王子",
+   "ja": "アイル・オニオンプリンス",
+   "zh-TW": "海島洋蔥王子"
+  }
+ },
+ {
+  "slug": "island-peerifool",
+  "en": "island Peerifool",
+  "n": {
+   "en": "island Peerifool",
+   "zh-CN": "海岛皮里福尔",
+   "ja": "アイル・ピーリフール",
+   "zh-TW": "海島皮裏福爾"
+  }
+ },
+ {
+  "slug": "island-tomato-king",
+  "en": "island Tomato King",
+  "n": {
+   "en": "island Tomato King",
+   "zh-CN": "海岛番茄国王",
+   "ja": "アイル・キングトマト",
+   "zh-TW": "海島番茄國王"
+  }
+ },
+ {
+  "slug": "ixion",
+  "en": "Ixion",
+  "n": {
+   "en": "Ixion",
+   "zh-CN": "伊克西翁",
+   "ja": "イクシオン",
+   "zh-TW": "伊克西翁"
+  }
+ },
+ {
+  "slug": "jibanyan-couch",
+  "en": "Jibanyan couch",
+  "n": {
+   "en": "Jibanyan couch",
+   "zh-CN": "地缚猫沙发",
+   "ja": "ジバニャンソファ",
+   "zh-TW": "地縛貓沙發"
+  }
+ },
+ {
+  "slug": "juedi",
+  "en": "Juedi",
+  "n": {
+   "en": "Juedi",
+   "zh-CN": "绝地",
+   "ja": "絶地",
+   "zh-TW": "絕地"
+  }
+ },
+ {
+  "slug": "kamuy-of-the-nine-tails",
+  "en": "kamuy of the Nine Tails",
+  "n": {
+   "en": "kamuy of the Nine Tails",
+   "zh-CN": "九尾神威",
+   "ja": "九尾のカムイ",
+   "zh-TW": "九尾神威"
+  }
+ },
+ {
+  "slug": "kingly-peacock",
+  "en": "kingly peacock",
+  "n": {
+   "en": "kingly peacock",
+   "zh-CN": "王孔雀",
+   "ja": "王孔雀",
+   "zh-TW": "王孔雀"
+  }
+ },
+ {
+  "slug": "kirin",
+  "en": "Kirin",
+  "n": {
+   "en": "Kirin",
+   "zh-CN": "麒麟",
+   "ja": "麒麟",
+   "zh-TW": "麒麟"
+  }
+ },
+ {
+  "slug": "kongamato",
+  "en": "kongamato",
+  "n": {
+   "en": "kongamato",
+   "zh-CN": "恐甲蚂蜓",
+   "ja": "コンガマトー",
+   "zh-TW": "恐甲螞蜓"
+  }
+ },
+ {
+  "slug": "korpokkur-kolossus",
+  "en": "korpokkur kolossus",
+  "n": {
+   "en": "korpokkur kolossus",
+   "zh-CN": "叶大妖",
+   "ja": "ハコボックル",
+   "zh-TW": "葉大妖"
+  }
+ },
+ {
+  "slug": "landerwaffe",
+  "en": "Landerwaffe",
+  "n": {
+   "en": "Landerwaffe",
+   "zh-CN": "黑钢机龙连达巴非",
+   "ja": "レンダーバッフェ",
+   "zh-TW": "黑鋼機龍連達巴非"
+  }
+ },
+ {
+  "slug": "laurel-goobbue",
+  "en": "laurel goobbue",
+  "n": {
+   "en": "laurel goobbue",
+   "zh-CN": "月桂冠古菩猩猩",
+   "ja": "ローレル・グゥーブー",
+   "zh-TW": "月桂冠古菩猩猩"
+  }
+ },
+ {
+  "slug": "legacy-chocobo",
+  "en": "legacy chocobo",
+  "n": {
+   "en": "legacy chocobo",
+   "zh-CN": "遗产陆行鸟",
+   "ja": "レガシーチョコボ",
+   "zh-TW": "遺產陸行鳥"
+  }
+ },
+ {
+  "slug": "legendary-kamuy",
+  "en": "legendary kamuy",
+  "n": {
+   "en": "legendary kamuy",
+   "zh-CN": "梦幻神威",
+   "ja": "龍のカムイ",
+   "zh-TW": "夢幻神威"
+  }
+ },
+ {
+  "slug": "level-checker",
+  "en": "level checker",
+  "n": {
+   "en": "level checker",
+   "zh-CN": "等级检测仪",
+   "ja": "レベルチェッカー",
+   "zh-TW": "等級檢測儀"
+  }
+ },
+ {
+  "slug": "logistics-node",
+  "en": "logistics node",
+  "n": {
+   "en": "logistics node",
+   "zh-CN": "输送系统",
+   "ja": "輸送システム",
+   "zh-TW": "輸送系統"
+  }
+ },
+ {
+  "slug": "logistics-system",
+  "en": "logistics system",
+  "n": {
+   "en": "logistics system",
+   "zh-CN": "骑乘系统",
+   "ja": "騎乗システム",
+   "zh-TW": "騎乘系統"
+  }
+ },
+ {
+  "slug": "lone-faehound",
+  "en": "lone faehound",
+  "n": {
+   "en": "lone faehound",
+   "zh-CN": "孤傲妖精犬",
+   "ja": "ローン・フェイハウンド",
+   "zh-TW": "孤傲妖精犬"
+  }
+ },
+ {
+  "slug": "lone-hellhound",
+  "en": "lone hellhound",
+  "n": {
+   "en": "lone hellhound",
+   "zh-CN": "孤傲地狱犬",
+   "ja": "ローン・ヘルハウンド",
+   "zh-TW": "孤傲地獄犬"
+  }
+ },
+ {
+  "slug": "lowrider-t1rant",
+  "en": "Lowrider T1RANT",
+  "n": {
+   "en": "Lowrider T1RANT",
+   "zh-CN": "跳跳车T1",
+   "ja": "ローライダーT1",
+   "zh-TW": "跳跳車T1"
+  }
+ },
+ {
+  "slug": "lunar-kamuy",
+  "en": "lunar kamuy",
+  "n": {
+   "en": "lunar kamuy",
+   "zh-CN": "幽夜神威",
+   "ja": "夜のカムイ",
+   "zh-TW": "幽夜神威"
+  }
+ },
+ {
+  "slug": "lunar-whale",
+  "en": "Lunar Whale",
+  "n": {
+   "en": "Lunar Whale",
+   "zh-CN": "真月魔导鲸",
+   "ja": "ルナホエール",
+   "zh-TW": "真月魔導鯨"
+  }
+ },
+ {
+  "slug": "lynx-of-abyssal-grief",
+  "en": "lynx of abyssal grief",
+  "n": {
+   "en": "lynx of abyssal grief",
+   "zh-CN": "深渊猞猁",
+   "ja": "リンクス・オブ・アビス",
+   "zh-TW": "深淵猞猁"
+  }
+ },
+ {
+  "slug": "lynx-of-divine-light",
+  "en": "lynx of divine light",
+  "n": {
+   "en": "lynx of divine light",
+   "zh-CN": "圣光猞猁",
+   "ja": "ディヴァインライト・リンクス",
+   "zh-TW": "聖光猞猁"
+  }
+ },
+ {
+  "slug": "lynx-of-eternal-darkness",
+  "en": "lynx of eternal darkness",
+  "n": {
+   "en": "lynx of eternal darkness",
+   "zh-CN": "永暗猞猁",
+   "ja": "エターナルダークネス・リンクス",
+   "zh-TW": "永暗猞猁"
+  }
+ },
+ {
+  "slug": "lynx-of-fallen-shadow",
+  "en": "lynx of fallen shadow",
+  "n": {
+   "en": "lynx of fallen shadow",
+   "zh-CN": "暗影猞猁",
+   "ja": "リンクス・オブ・ダークネス",
+   "zh-TW": "暗影猞猁"
+  }
+ },
+ {
+  "slug": "lynx-of-imperious-wind",
+  "en": "lynx of imperious wind",
+  "n": {
+   "en": "lynx of imperious wind",
+   "zh-CN": "煞风猞猁",
+   "ja": "リンクス・オブ・ウィンド",
+   "zh-TW": "煞風猞猁"
+  }
+ },
+ {
+  "slug": "lynx-of-righteous-fire",
+  "en": "lynx of righteous fire",
+  "n": {
+   "en": "lynx of righteous fire",
+   "zh-CN": "炀火猞猁",
+   "ja": "リンクス・オブ・ファイア",
+   "zh-TW": "煬火猞猁"
+  }
+ },
+ {
+  "slug": "magicked-bed",
+  "en": "magicked bed",
+  "n": {
+   "en": "magicked bed",
+   "zh-CN": "魔法飞床",
+   "ja": "マジックベッド",
+   "zh-TW": "魔法飛牀"
+  }
+ },
+ {
+  "slug": "magicked-card",
+  "en": "magicked card",
+  "n": {
+   "en": "magicked card",
+   "zh-CN": "魔法幻卡",
+   "ja": "マジックカード",
+   "zh-TW": "魔法幻卡"
+  }
+ },
+ {
+  "slug": "magicked-carpet",
+  "en": "magicked carpet",
+  "n": {
+   "en": "magicked carpet",
+   "zh-CN": "魔法飞毯",
+   "ja": "マジックカーペット",
+   "zh-TW": "魔法飛毯"
+  }
+ },
+ {
+  "slug": "magicked-childrens-bed",
+  "en": "magicked children's bed",
+  "n": {
+   "en": "magicked children's bed",
+   "zh-CN": "魔法儿童床",
+   "ja": "マジックキッズベッド",
+   "zh-TW": "魔法兒童牀"
+  }
+ },
+ {
+  "slug": "magicked-parasol",
+  "en": "magicked parasol",
+  "n": {
+   "en": "magicked parasol",
+   "zh-CN": "魔法阳伞",
+   "ja": "マジックパラソル",
+   "zh-TW": "魔法陽傘"
+  }
+ },
+ {
+  "slug": "magicked-umbrella",
+  "en": "magicked umbrella",
+  "n": {
+   "en": "magicked umbrella",
+   "zh-CN": "魔法雨伞",
+   "ja": "マジックアンブレラ",
+   "zh-TW": "魔法雨傘"
+  }
+ },
+ {
+  "slug": "magitek-armor",
+  "en": "magitek armor",
+  "n": {
+   "en": "magitek armor",
+   "zh-CN": "魔导装甲",
+   "ja": "魔導アーマー",
+   "zh-TW": "魔導裝甲"
+  }
+ },
+ {
+  "slug": "magitek-avenger",
+  "en": "magitek avenger",
+  "n": {
+   "en": "magitek avenger",
+   "zh-CN": "魔导复仇者骑乘型",
+   "ja": "魔導アヴェンジャー騎乗型",
+   "zh-TW": "魔導復仇者騎乘型"
+  }
+ },
+ {
+  "slug": "magitek-avenger-a1",
+  "en": "magitek avenger A1",
+  "n": {
+   "en": "magitek avenger A1",
+   "zh-CN": "魔导复仇者寒冷地区特制型",
+   "ja": "魔導アヴェンジャー寒冷地仕様",
+   "zh-TW": "魔導復仇者寒冷地區特製型"
+  }
+ },
+ {
+  "slug": "magitek-avenger-g1",
+  "en": "magitek avenger G1",
+  "n": {
+   "en": "magitek avenger G1",
+   "zh-CN": "魔导复仇者金色涂装特制型",
+   "ja": "魔導アヴェンジャー黄金像仕様",
+   "zh-TW": "魔導復仇者金色塗裝特製型"
+  }
+ },
+ {
+  "slug": "magitek-conveyor",
+  "en": "magitek conveyor",
+  "n": {
+   "en": "magitek conveyor",
+   "zh-CN": "魔导运输器",
+   "ja": "魔導キャリアー",
+   "zh-TW": "魔導運輸器"
+  }
+ },
+ {
+  "slug": "magitek-death-claw",
+  "en": "magitek death claw",
+  "n": {
+   "en": "magitek death claw",
+   "zh-CN": "拘束型魔导死亡爪",
+   "ja": "魔導デスクロー拘束型",
+   "zh-TW": "拘束型魔導死亡爪"
+  }
+ },
+ {
+  "slug": "magitek-hyperconveyor",
+  "en": "magitek hyperconveyor",
+  "n": {
+   "en": "magitek hyperconveyor",
+   "zh-CN": "改良型魔导运输器",
+   "ja": "魔導キャリアー改",
+   "zh-TW": "改良型魔導運輸器"
+  }
+ },
+ {
+  "slug": "magitek-predator",
+  "en": "magitek predator",
+  "n": {
+   "en": "magitek predator",
+   "zh-CN": "魔导猎手",
+   "ja": "魔導プレデター",
+   "zh-TW": "魔導獵手"
+  }
+ },
+ {
+  "slug": "magitek-sky-armor",
+  "en": "magitek sky armor",
+  "n": {
+   "en": "magitek sky armor",
+   "zh-CN": "魔导浮空装甲",
+   "ja": "魔導スカイアーマー",
+   "zh-TW": "魔導浮空裝甲"
+  }
+ },
+ {
+  "slug": "magitek-slasher",
+  "en": "magitek slasher",
+  "n": {
+   "en": "magitek slasher",
+   "zh-CN": "魔导螳螂",
+   "ja": "魔導スラッシャー",
+   "zh-TW": "魔導螳螂"
+  }
+ },
+ {
+  "slug": "magna-roader",
+  "en": "magna roader",
+  "n": {
+   "en": "magna roader",
+   "zh-CN": "魔导机车大魔",
+   "ja": "魔導マグナローダー",
+   "zh-TW": "魔導機車大魔"
+  }
+ },
+ {
+  "slug": "manacutter",
+  "en": "manacutter",
+  "n": {
+   "en": "manacutter",
+   "zh-CN": "破魔艇",
+   "ja": "マナカッター",
+   "zh-TW": "破魔艇"
+  }
+ },
+ {
+  "slug": "managarm",
+  "en": "managarm",
+  "n": {
+   "en": "managarm",
+   "zh-CN": "逐月幻狼玛纳加尔姆",
+   "ja": "マーナガルム",
+   "zh-TW": "逐月幻狼瑪納加爾姆"
+  }
+ },
+ {
+  "slug": "marid",
+  "en": "marid",
+  "n": {
+   "en": "marid",
+   "zh-CN": "魔象",
+   "ja": "マーリド",
+   "zh-TW": "魔象"
+  }
+ },
+ {
+  "slug": "markab",
+  "en": "Markab",
+  "n": {
+   "en": "Markab",
+   "zh-CN": "雷妖马玛卡布",
+   "ja": "マルカブ",
+   "zh-TW": "雷妖馬瑪卡布"
+  }
+ },
+ {
+  "slug": "maxima-roader",
+  "en": "maxima roader",
+  "n": {
+   "en": "maxima roader",
+   "zh-CN": "改良型魔导机车大魔",
+   "ja": "魔導マグナローダー改",
+   "zh-TW": "改良型魔導機車大魔"
+  }
+ },
+ {
+  "slug": "mechanical-lotus",
+  "en": "mechanical lotus",
+  "n": {
+   "en": "mechanical lotus",
+   "zh-CN": "机巧莲座",
+   "ja": "絡繰蓮華",
+   "zh-TW": "機巧蓮座"
+  }
+ },
+ {
+  "slug": "megaloambystoma",
+  "en": "megaloambystoma",
+  "n": {
+   "en": "megaloambystoma",
+   "zh-CN": "巨型钝口螈",
+   "ja": "メガロアンビストマ",
+   "zh-TW": "巨型鈍口螈"
+  }
+ },
+ {
+  "slug": "megalotragus",
+  "en": "megalotragus",
+  "n": {
+   "en": "megalotragus",
+   "zh-CN": "硕山羊",
+   "ja": "メガロトラグス",
+   "zh-TW": "碩山羊"
+  }
+ },
+ {
+  "slug": "megashiba",
+  "en": "megashiba",
+  "n": {
+   "en": "megashiba",
+   "zh-CN": "大大柴",
+   "ja": "大柴犬",
+   "zh-TW": "大大柴"
+  }
+ },
+ {
+  "slug": "mehwapyarra",
+  "en": "mehwapyarra",
+  "n": {
+   "en": "mehwapyarra",
+   "zh-CN": "美花帕拉",
+   "ja": "メワピャラ",
+   "zh-TW": "美花帕拉"
+  }
+ },
+ {
+  "slug": "menoetius",
+  "en": "Menoetius",
+  "n": {
+   "en": "Menoetius",
+   "zh-CN": "墨诺提俄斯",
+   "ja": "メノイティオス",
+   "zh-TW": "墨諾提俄斯"
+  }
+ },
+ {
+  "slug": "midgardsormr",
+  "en": "Midgardsormr",
+  "n": {
+   "en": "Midgardsormr",
+   "zh-CN": "尘世幻龙",
+   "ja": "ミドガルズオルム",
+   "zh-TW": "塵世幻龍"
+  }
+ },
+ {
+  "slug": "mikoshi",
+  "en": "mikoshi",
+  "n": {
+   "en": "mikoshi",
+   "zh-CN": "巨鲶鱼神轿",
+   "ja": "オオナマズ御輿",
+   "zh-TW": "巨鯰魚神轎"
+  }
+ },
+ {
+  "slug": "miw-miisv",
+  "en": "Miw Miisv",
+  "n": {
+   "en": "Miw Miisv",
+   "zh-CN": "缪·缪咻",
+   "ja": "ミゥ・ミーシュ",
+   "zh-TW": "繆·繆咻"
+  }
+ },
+ {
+  "slug": "model-o",
+  "en": "Model O",
+  "n": {
+   "en": "Model O",
+   "zh-CN": "欧米茄",
+   "ja": "オメガ",
+   "zh-TW": "歐米茄"
+  }
+ },
+ {
+  "slug": "monowheel-s1",
+  "en": "monowheel S1",
+  "n": {
+   "en": "monowheel S1",
+   "zh-CN": "独轮车S1",
+   "ja": "モノホイールS1",
+   "zh-TW": "獨輪車S1"
+  }
+ },
+ {
+  "slug": "moon-hopper",
+  "en": "moon-hopper",
+  "n": {
+   "en": "moon-hopper",
+   "zh-CN": "月面跃动机",
+   "ja": "ムーンホッパー",
+   "zh-TW": "月面躍動機"
+  }
+ },
+ {
+  "slug": "morbol",
+  "en": "morbol",
+  "n": {
+   "en": "morbol",
+   "zh-CN": "魔界花",
+   "ja": "モルボル",
+   "zh-TW": "魔界花"
+  }
+ },
+ {
+  "slug": "mountain-zu",
+  "en": "mountain zu",
+  "n": {
+   "en": "mountain zu",
+   "zh-CN": "浪祖",
+   "ja": "マウンテンズー",
+   "zh-TW": "浪祖"
+  }
+ },
+ {
+  "slug": "mystic-panda",
+  "en": "mystic panda",
+  "n": {
+   "en": "mystic panda",
+   "zh-CN": "仙术熊猫",
+   "ja": "仙術熊猫",
+   "zh-TW": "仙術熊貓"
+  }
+ },
+ {
+  "slug": "nezha-chariot",
+  "en": "Nezha chariot",
+  "n": {
+   "en": "Nezha chariot",
+   "zh-CN": "风火轮",
+   "ja": "風火二輪",
+   "zh-TW": "風火輪"
+  }
+ },
+ {
+  "slug": "nightmare",
+  "en": "nightmare",
+  "n": {
+   "en": "nightmare",
+   "zh-CN": "梦魇",
+   "ja": "ナイトメア",
+   "zh-TW": "夢魘"
+  }
+ },
+ {
+  "slug": "oppressor",
+  "en": "oppressor",
+  "n": {
+   "en": "oppressor",
+   "zh-CN": "压迫者",
+   "ja": "オプレッサー",
+   "zh-TW": "壓迫者"
+  }
+ },
+ {
+  "slug": "original-fat-chocobo",
+  "en": "original fat chocobo",
+  "n": {
+   "en": "original fat chocobo",
+   "zh-CN": "初代胖陆行鸟",
+   "ja": "初代でぶチョコボ",
+   "zh-TW": "初代胖陸行鳥"
+  }
+ },
+ {
+  "slug": "ornamental-shrublet",
+  "en": "ornamental shrublet",
+  "n": {
+   "en": "ornamental shrublet",
+   "zh-CN": "花人",
+   "ja": "花人",
+   "zh-TW": "花人"
+  }
+ },
+ {
+  "slug": "orthos-craklaw",
+  "en": "Orthos craklaw",
+  "n": {
+   "en": "Orthos craklaw",
+   "zh-CN": "正统裂钳蟹",
+   "ja": "オルト・クラックロー",
+   "zh-TW": "正統裂鉗蟹"
+  }
+ },
+ {
+  "slug": "outrunner",
+  "en": "outrunner",
+  "n": {
+   "en": "outrunner",
+   "zh-CN": "外勤机",
+   "ja": "アウトランナー",
+   "zh-TW": "外勤機"
+  }
+ },
+ {
+  "slug": "pack-faehound",
+  "en": "pack faehound",
+  "n": {
+   "en": "pack faehound",
+   "zh-CN": "首领妖精犬",
+   "ja": "パック・フェイハウンド",
+   "zh-TW": "首領妖精犬"
+  }
+ },
+ {
+  "slug": "pack-hellhound",
+  "en": "pack hellhound",
+  "n": {
+   "en": "pack hellhound",
+   "zh-CN": "首领地狱犬",
+   "ja": "パック・ヘルハウンド",
+   "zh-TW": "首領地獄犬"
+  }
+ },
+ {
+  "slug": "papa-paissa",
+  "en": "Papa Paissa",
+  "n": {
+   "en": "Papa Paissa",
+   "zh-CN": "猴面爸爸",
+   "ja": "パパ・パイッサ",
+   "zh-TW": "猴面爸爸"
+  }
+ },
+ {
+  "slug": "parade-chocobo",
+  "en": "parade chocobo",
+  "n": {
+   "en": "parade chocobo",
+   "zh-CN": "游行陆行鸟",
+   "ja": "パレードチョコボ",
+   "zh-TW": "遊行陸行鳥"
+  }
+ },
+ {
+  "slug": "peatie",
+  "en": "Peatie",
+  "n": {
+   "en": "Peatie",
+   "zh-CN": "皮蒂",
+   "ja": "ピティー",
+   "zh-TW": "皮蒂"
+  }
+ },
+ {
+  "slug": "pegasus",
+  "en": "pegasus",
+  "n": {
+   "en": "pegasus",
+   "zh-CN": "天马",
+   "ja": "ペガサス",
+   "zh-TW": "天馬"
+  }
+ },
+ {
+  "slug": "petalodus",
+  "en": "petalodus",
+  "n": {
+   "en": "petalodus",
+   "zh-CN": "瓣齿鲨",
+   "ja": "ペタロドゥス",
+   "zh-TW": "瓣齒鯊"
+  }
+ },
+ {
+  "slug": "phaethon",
+  "en": "Phaethon",
+  "n": {
+   "en": "Phaethon",
+   "zh-CN": "法厄同",
+   "ja": "ファエトン",
+   "zh-TW": "法厄同"
+  }
+ },
+ {
+  "slug": "pilgrims-protector",
+  "en": "pilgrim's protector",
+  "n": {
+   "en": "pilgrim's protector",
+   "zh-CN": "朝圣护卫兽",
+   "ja": "ピルグリム・プロテクター",
+   "zh-TW": "朝聖護衛獸"
+  }
+ },
+ {
+  "slug": "pinky",
+  "en": "Pinky",
+  "n": {
+   "en": "Pinky",
+   "zh-CN": "粉红",
+   "ja": "ピンキー",
+   "zh-TW": "粉紅"
+  }
+ },
+ {
+  "slug": "pod-602",
+  "en": "pod 602",
+  "n": {
+   "en": "pod 602",
+   "zh-CN": "辅助机602",
+   "ja": "ポッド602",
+   "zh-TW": "輔助機602"
+  }
+ },
+ {
+  "slug": "polar-bear",
+  "en": "polar bear",
+  "n": {
+   "en": "polar bear",
+   "zh-CN": "极地熊",
+   "ja": "ポーラーベアー",
+   "zh-TW": "極地熊"
+  }
+ },
+ {
+  "slug": "portly-porxie",
+  "en": "portly porxie",
+  "n": {
+   "en": "portly porxie",
+   "zh-CN": "猪大仙",
+   "ja": "ファットポークシー",
+   "zh-TW": "豬大仙"
+  }
+ },
+ {
+  "slug": "porxie-king",
+  "en": "porxie king",
+  "n": {
+   "en": "porxie king",
+   "zh-CN": "仙子猪大王",
+   "ja": "キングポークシー",
+   "zh-TW": "仙子豬大王"
+  }
+ },
+ {
+  "slug": "prototype-conveyor",
+  "en": "prototype conveyor",
+  "n": {
+   "en": "prototype conveyor",
+   "zh-CN": "原型运输器",
+   "ja": "プロトキャリアー",
+   "zh-TW": "原型運輸器"
+  }
+ },
+ {
+  "slug": "prototype-roader",
+  "en": "prototype roader",
+  "n": {
+   "en": "prototype roader",
+   "zh-CN": "原型魔导机车大魔",
+   "ja": "プロトマグナローダー",
+   "zh-TW": "原型魔導機車大魔"
+  }
+ },
+ {
+  "slug": "pteranodon",
+  "en": "pteranodon",
+  "n": {
+   "en": "pteranodon",
+   "zh-CN": "无齿翼龙",
+   "ja": "プテラノドン",
+   "zh-TW": "無齒翼龍"
+  }
+ },
+ {
+  "slug": "punutiy",
+  "en": "punutiy",
+  "n": {
+   "en": "punutiy",
+   "zh-CN": "海牛",
+   "ja": "プヌティー",
+   "zh-TW": "海牛"
+  }
+ },
+ {
+  "slug": "qeziigural",
+  "en": "qeziigural",
+  "n": {
+   "en": "qeziigural",
+   "zh-CN": "凯吉古拉",
+   "ja": "ケジグラー",
+   "zh-TW": "凱吉古拉"
+  }
+ },
+ {
+  "slug": "quaqua",
+  "en": "quaqua",
+  "n": {
+   "en": "quaqua",
+   "zh-CN": "库阿库阿",
+   "ja": "クアクア",
+   "zh-TW": "庫阿庫阿"
+  }
+ },
+ {
+  "slug": "raigo",
+  "en": "Raigo",
+  "n": {
+   "en": "Raigo",
+   "zh-CN": "雷刚",
+   "ja": "雷剛",
+   "zh-TW": "雷剛"
+  }
+ },
+ {
+  "slug": "ramuh",
+  "en": "Ramuh",
+  "n": {
+   "en": "Ramuh",
+   "zh-CN": "拉姆",
+   "ja": "ラムウ",
+   "zh-TW": "拉姆"
+  }
+ },
+ {
+  "slug": "rapid-fab-vacuum-suit",
+  "en": "rapid-fab vacuum suit",
+  "n": {
+   "en": "rapid-fab vacuum suit",
+   "zh-CN": "量产型强力机兵",
+   "ja": "量産型パワーローダー",
+   "zh-TW": "量產型強力機兵"
+  }
+ },
+ {
+  "slug": "rathalos",
+  "en": "Rathalos",
+  "n": {
+   "en": "Rathalos",
+   "zh-CN": "火龙",
+   "ja": "リオレウス",
+   "zh-TW": "火龍"
+  }
+ },
+ {
+  "slug": "red-baron",
+  "en": "Red Baron",
+  "n": {
+   "en": "Red Baron",
+   "zh-CN": "尼禄专用魔导装甲",
+   "ja": "ネロ専用魔導アーマー",
+   "zh-TW": "尼祿專用魔導裝甲"
+  }
+ },
+ {
+  "slug": "red-hare",
+  "en": "Red Hare",
+  "n": {
+   "en": "Red Hare",
+   "zh-CN": "赤兔马",
+   "ja": "赤兎馬",
+   "zh-TW": "赤兔馬"
+  }
+ },
+ {
+  "slug": "regalia-type-g",
+  "en": "Regalia Type-G",
+  "n": {
+   "en": "Regalia Type-G",
+   "zh-CN": "雷迦利亚G型",
+   "ja": "レガリア TYPE-G",
+   "zh-TW": "雷迦利亞G型"
+  }
+ },
+ {
+  "slug": "resplendent-vessel-of-ronka",
+  "en": "Resplendent Vessel of Ronka",
+  "n": {
+   "en": "Resplendent Vessel of Ronka",
+   "zh-CN": "金蛇大人的罐子",
+   "ja": "金蛇様の壺",
+   "zh-TW": "金蛇大人的罐子"
+  }
+ },
+ {
+  "slug": "reveling-kamuy",
+  "en": "reveling kamuy",
+  "n": {
+   "en": "reveling kamuy",
+   "zh-CN": "狂欢神威",
+   "ja": "豪のカムイ",
+   "zh-TW": "狂歡神威"
+  }
+ },
+ {
+  "slug": "rhiyes",
+  "en": "Rhiyes",
+  "n": {
+   "en": "Rhiyes",
+   "zh-CN": "糖豆犀牛",
+   "ja": "ライエス",
+   "zh-TW": "糖豆犀牛"
+  }
+ },
+ {
+  "slug": "rising-phoenix",
+  "en": "Rising Phoenix",
+  "n": {
+   "en": "Rising Phoenix",
+   "zh-CN": "新生不死鸟",
+   "ja": "リボーン・フェニックス",
+   "zh-TW": "新生不死鳥"
+  }
+ },
+ {
+  "slug": "rocket-punch",
+  "en": "rocket punch",
+  "n": {
+   "en": "rocket punch",
+   "zh-CN": "火箭飞拳",
+   "ja": "ロケットパンチ",
+   "zh-TW": "火箭飛拳"
+  }
+ },
+ {
+  "slug": "rolling-tankard",
+  "en": "Rolling Tankard",
+  "n": {
+   "en": "Rolling Tankard",
+   "zh-CN": "矮人战车",
+   "ja": "ドワーフ戦車",
+   "zh-TW": "矮人戰車"
+  }
+ },
+ {
+  "slug": "rose-lanner",
+  "en": "rose lanner",
+  "n": {
+   "en": "rose lanner",
+   "zh-CN": "怒武猎鹰",
+   "ja": "ラースラナー",
+   "zh-TW": "怒武獵鷹"
+  }
+ },
+ {
+  "slug": "round-lanner",
+  "en": "round lanner",
+  "n": {
+   "en": "round lanner",
+   "zh-CN": "圆桌猎鹰",
+   "ja": "ラナー・オブ・ラウンド",
+   "zh-TW": "圓桌獵鷹"
+  }
+ },
+ {
+  "slug": "royal-magicked-carpet",
+  "en": "royal magicked carpet",
+  "n": {
+   "en": "royal magicked carpet",
+   "zh-CN": "贵族魔法飞毯",
+   "ja": "ノーブル・マジックカーペット",
+   "zh-TW": "貴族魔法飛毯"
+  }
+ },
+ {
+  "slug": "rroneek",
+  "en": "rroneek",
+  "n": {
+   "en": "rroneek",
+   "zh-CN": "犎牛",
+   "ja": "ロネーク",
+   "zh-TW": "犎牛"
+  }
+ },
+ {
+  "slug": "rubellite-carbuncle",
+  "en": "Rubellite Carbuncle",
+  "n": {
+   "en": "Rubellite Carbuncle",
+   "zh-CN": "红电气宝石兽",
+   "ja": "カーバンクル・ルベライト",
+   "zh-TW": "紅電氣寶石獸"
+  }
+ },
+ {
+  "slug": "ruby-gwiber",
+  "en": "ruby gwiber",
+  "n": {
+   "en": "ruby gwiber",
+   "zh-CN": "红宝石玲龙",
+   "ja": "ルビーグイベル",
+   "zh-TW": "紅寶石玲龍"
+  }
+ },
+ {
+  "slug": "sabotender-de-la-luna",
+  "en": "sabotender de la luna",
+  "n": {
+   "en": "sabotender de la luna",
+   "zh-CN": "月光仙人刺",
+   "ja": "サボテンダー・デラ・ルナ",
+   "zh-TW": "月光仙人刺"
+  }
+ },
+ {
+  "slug": "sabotender-emperador",
+  "en": "Sabotender Emperador",
+  "n": {
+   "en": "Sabotender Emperador",
+   "zh-CN": "帝王仙人刺",
+   "ja": "サボテンダー・エンペラドール",
+   "zh-TW": "帝王仙人刺"
+  }
+ },
+ {
+  "slug": "safeguard-system",
+  "en": "safeguard system",
+  "n": {
+   "en": "safeguard system",
+   "zh-CN": "护送系统",
+   "ja": "護送システム",
+   "zh-TW": "護送系統"
+  }
+ },
+ {
+  "slug": "sanuwa",
+  "en": "sanuwa",
+  "n": {
+   "en": "sanuwa",
+   "zh-CN": "腾云蛇",
+   "ja": "サヌワ",
+   "zh-TW": "騰雲蛇"
+  }
+ },
+ {
+  "slug": "sds-fenrir",
+  "en": "SDS Fenrir",
+  "n": {
+   "en": "SDS Fenrir",
+   "zh-CN": "SDS芬里尔",
+   "ja": "SDSフェンリル",
+   "zh-TW": "SDS芬里爾"
+  }
+ },
+ {
+  "slug": "seikret",
+  "en": "Seikret",
+  "n": {
+   "en": "Seikret",
+   "zh-CN": "鹭鹰龙",
+   "ja": "セクレト",
+   "zh-TW": "鷺鷹龍"
+  }
+ },
+ {
+  "slug": "serpent-warsteed",
+  "en": "serpent warsteed",
+  "n": {
+   "en": "serpent warsteed",
+   "zh-CN": "双蛇战马",
+   "ja": "グリダニアン・スティード",
+   "zh-TW": "雙蛇戰馬"
+  }
+ },
+ {
+  "slug": "set-of-ceruleum-balloons",
+  "en": "set of ceruleum balloons",
+  "n": {
+   "en": "set of ceruleum balloons",
+   "zh-CN": "青磷气球",
+   "ja": "セルリウム・バルーン",
+   "zh-TW": "青磷氣球"
+  }
+ },
+ {
+  "slug": "shadow-gwiber",
+  "en": "shadow gwiber",
+  "n": {
+   "en": "shadow gwiber",
+   "zh-CN": "暗影玲龙",
+   "ja": "シャドウグイベル",
+   "zh-TW": "暗影玲龍"
+  }
+ },
+ {
+  "slug": "shadow-wolf",
+  "en": "shadow wolf",
+  "n": {
+   "en": "shadow wolf",
+   "zh-CN": "影狼",
+   "ja": "影の狼",
+   "zh-TW": "影狼"
+  }
+ },
+ {
+  "slug": "shagcoat-cat",
+  "en": "shagcoat cat",
+  "n": {
+   "en": "shagcoat cat",
+   "zh-CN": "长绒猫",
+   "ja": "シャギーキャット",
+   "zh-TW": "長絨貓"
+  }
+ },
+ {
+  "slug": "shishioji",
+  "en": "Shishioji",
+  "n": {
+   "en": "Shishioji",
+   "zh-CN": "狮子王子",
+   "ja": "獅子王子",
+   "zh-TW": "獅子王子"
+  }
+ },
+ {
+  "slug": "shroud-of-darkness",
+  "en": "shroud of Darkness",
+  "n": {
+   "en": "shroud of Darkness",
+   "zh-CN": "暗黑羽衣",
+   "ja": "暗闇の羽衣",
+   "zh-TW": "暗黑羽衣"
+  }
+ },
+ {
+  "slug": "sildihn-throne",
+  "en": "Sil'dihn throne",
+  "n": {
+   "en": "Sil'dihn throne",
+   "zh-CN": "希拉狄哈王座",
+   "ja": "シラディン・スローン",
+   "zh-TW": "希拉狄哈王座"
+  }
+ },
+ {
+  "slug": "silkie",
+  "en": "silkie",
+  "n": {
+   "en": "silkie",
+   "zh-CN": "羽衣精",
+   "ja": "シルキー",
+   "zh-TW": "羽衣精"
+  }
+ },
+ {
+  "slug": "skyslipper",
+  "en": "skyslipper",
+  "n": {
+   "en": "skyslipper",
+   "zh-CN": "气垫船",
+   "ja": "ホバー船",
+   "zh-TW": "氣墊船"
+  }
+ },
+ {
+  "slug": "sleipnir",
+  "en": "Sleipnir",
+  "n": {
+   "en": "Sleipnir",
+   "zh-CN": "斯莱普尼尔",
+   "ja": "スレイプニル",
+   "zh-TW": "斯萊普尼爾"
+  }
+ },
+ {
+  "slug": "snowman",
+  "en": "snowman",
+  "n": {
+   "en": "snowman",
+   "zh-CN": "雪人",
+   "ja": "スノーマン",
+   "zh-TW": "雪人"
+  }
+ },
+ {
+  "slug": "snowstreamer",
+  "en": "snowstreamer",
+  "n": {
+   "en": "snowstreamer",
+   "zh-CN": "陪伴雪人",
+   "ja": "スノウストリーマー",
+   "zh-TW": "陪伴雪人"
+  }
+ },
+ {
+  "slug": "sophic-lanner",
+  "en": "Sophic lanner",
+  "n": {
+   "en": "Sophic lanner",
+   "zh-CN": "睿智猎鹰",
+   "ja": "ゴッデスラナー",
+   "zh-TW": "睿智獵鷹"
+  }
+ },
+ {
+  "slug": "spectral-statice",
+  "en": "spectral Statice",
+  "n": {
+   "en": "spectral Statice",
+   "zh-CN": "斯塔缇丝幻影",
+   "ja": "スターチス・ミラージュ",
+   "zh-TW": "斯塔緹絲幻影"
+  }
+ },
+ {
+  "slug": "spriggan-stonecarrier",
+  "en": "spriggan stonecarrier",
+  "n": {
+   "en": "spriggan stonecarrier",
+   "zh-CN": "搬运魔石精",
+   "ja": "スプリガン・キャリアー",
+   "zh-TW": "搬運魔石精"
+  }
+ },
+ {
+  "slug": "starlight-bear",
+  "en": "Starlight bear",
+  "n": {
+   "en": "Starlight bear",
+   "zh-CN": "星芒熊",
+   "ja": "スターライト・ベアー",
+   "zh-TW": "星芒熊"
+  }
+ },
+ {
+  "slug": "starlight-steed",
+  "en": "Starlight steed",
+  "n": {
+   "en": "Starlight steed",
+   "zh-CN": "幻象闪电",
+   "ja": "ミラージュ・ブリッツェン",
+   "zh-TW": "幻象閃電"
+  }
+ },
+ {
+  "slug": "storm-warsteed",
+  "en": "storm warsteed",
+  "n": {
+   "en": "storm warsteed",
+   "zh-CN": "黑涡战马",
+   "ja": "ロミンサン・スティード",
+   "zh-TW": "黑渦戰馬"
+  }
+ },
+ {
+  "slug": "striped-ray",
+  "en": "striped ray",
+  "n": {
+   "en": "striped ray",
+   "zh-CN": "斑鳐",
+   "ja": "シマエイ",
+   "zh-TW": "斑鰩"
+  }
+ },
+ {
+  "slug": "sunforged",
+  "en": "sunforged",
+  "n": {
+   "en": "sunforged",
+   "zh-CN": "炎灵兽",
+   "ja": "炎霊獣",
+   "zh-TW": "炎靈獸"
+  }
+ },
+ {
+  "slug": "sunspun-cumulus",
+  "en": "sunspun cumulus",
+  "n": {
+   "en": "sunspun cumulus",
+   "zh-CN": "金斗云",
+   "ja": "金斗雲",
+   "zh-TW": "金斗雲"
+  }
+ },
+ {
+  "slug": "syldra",
+  "en": "Syldra",
+  "n": {
+   "en": "Syldra",
+   "zh-CN": "希尔德拉",
+   "ja": "シルドラ",
+   "zh-TW": "希爾德拉"
+  }
+ },
+ {
+  "slug": "torgal",
+  "en": "Torgal",
+  "n": {
+   "en": "Torgal",
+   "zh-CN": "托加尔",
+   "ja": "トルガル",
+   "zh-TW": "託加爾"
+  }
+ },
+ {
+  "slug": "traveling-supporter",
+  "en": "traveling supporter",
+  "n": {
+   "en": "traveling supporter",
+   "zh-CN": "旅行协助机",
+   "ja": "トラベリングサポーター",
+   "zh-TW": "旅行協助機"
+  }
+ },
+ {
+  "slug": "triceratops",
+  "en": "triceratops",
+  "n": {
+   "en": "triceratops",
+   "zh-CN": "三角龙",
+   "ja": "トリケラトプス",
+   "zh-TW": "三角龍"
+  }
+ },
+ {
+  "slug": "troll",
+  "en": "troll",
+  "n": {
+   "en": "troll",
+   "zh-CN": "巨魔",
+   "ja": "トロル",
+   "zh-TW": "巨魔"
+  }
+ },
+ {
+  "slug": "true-griffin",
+  "en": "true griffin",
+  "n": {
+   "en": "true griffin",
+   "zh-CN": "真狮鹫",
+   "ja": "トゥルーグリフィン",
+   "zh-TW": "真獅鷲"
+  }
+ },
+ {
+  "slug": "turali-snowman",
+  "en": "Turali snowman",
+  "n": {
+   "en": "Turali snowman",
+   "zh-CN": "图拉尔雪人",
+   "ja": "トラル・スノーマン",
+   "zh-TW": "圖拉爾雪人"
+  }
+ },
+ {
+  "slug": "twintania",
+  "en": "Twintania",
+  "n": {
+   "en": "Twintania",
+   "zh-CN": "双塔尼亚",
+   "ja": "ツインタニア",
+   "zh-TW": "雙塔尼亞"
+  }
+ },
+ {
+  "slug": "tyaitya",
+  "en": "ty'aitya",
+  "n": {
+   "en": "ty'aitya",
+   "zh-CN": "小鸣鼠",
+   "ja": "チャイチャ",
+   "zh-TW": "小鳴鼠"
+  }
+ },
+ {
+  "slug": "typhon",
+  "en": "Typhon",
+  "n": {
+   "en": "Typhon",
+   "zh-CN": "提丰老师",
+   "ja": "テュポーン先生",
+   "zh-TW": "提豐老師"
+  }
+ },
+ {
+  "slug": "tyrannosaur",
+  "en": "tyrannosaur",
+  "n": {
+   "en": "tyrannosaur",
+   "zh-CN": "暴龙",
+   "ja": "ティラノサウルス",
+   "zh-TW": "暴龍"
+  }
+ },
+ {
+  "slug": "ufiti",
+  "en": "ufiti",
+  "n": {
+   "en": "ufiti",
+   "zh-CN": "巫菲提",
+   "ja": "ウフィティ",
+   "zh-TW": "巫菲提"
+  }
+ },
+ {
+  "slug": "ufo",
+  "en": "UFO",
+  "n": {
+   "en": "UFO",
+   "zh-CN": "不明飞行物体？",
+   "ja": "UFO？",
+   "zh-TW": "不明飛行物體？"
+  }
+ },
+ {
+  "slug": "ullr",
+  "en": "Ullr",
+  "n": {
+   "en": "Ullr",
+   "zh-CN": "乌勒尔",
+   "ja": "ウッル",
+   "zh-TW": "烏勒爾"
+  }
+ },
+ {
+  "slug": "unicorn",
+  "en": "unicorn",
+  "n": {
+   "en": "unicorn",
+   "zh-CN": "独角兽",
+   "ja": "ユニコーン",
+   "zh-TW": "獨角獸"
+  }
+ },
+ {
+  "slug": "uolon",
+  "en": "uolon",
+  "n": {
+   "en": "uolon",
+   "zh-CN": "呜噜怪",
+   "ja": "ウォロン",
+   "zh-TW": "嗚嚕怪"
+  }
+ },
+ {
+  "slug": "vacuum-suit",
+  "en": "vacuum suit",
+  "n": {
+   "en": "vacuum suit",
+   "zh-CN": "强力机兵",
+   "ja": "パワーローダー",
+   "zh-TW": "強力機兵"
+  }
+ },
+ {
+  "slug": "venturous-kamuy",
+  "en": "venturous kamuy",
+  "n": {
+   "en": "venturous kamuy",
+   "zh-CN": "商贾神威",
+   "ja": "商のカムイ",
+   "zh-TW": "商賈神威"
+  }
+ },
+ {
+  "slug": "victor",
+  "en": "Victor",
+  "n": {
+   "en": "Victor",
+   "zh-CN": "优胜犬",
+   "ja": "ヴィクトル",
+   "zh-TW": "優勝犬"
+  }
+ },
+ {
+  "slug": "vinegaroon",
+  "en": "vinegaroon",
+  "n": {
+   "en": "vinegaroon",
+   "zh-CN": "醋蝎龙",
+   "ja": "ビネガロン",
+   "zh-TW": "醋蠍龍"
+  }
+ },
+ {
+  "slug": "volatile-gravity-vacuum-suit",
+  "en": "volatile gravity vacuum suit",
+  "n": {
+   "en": "volatile gravity vacuum suit",
+   "zh-CN": "特定地区专用型强力机兵",
+   "ja": "局地用パワーローダー",
+   "zh-TW": "特定地區專用型強力機兵"
+  }
+ },
+ {
+  "slug": "vurgar-the-loyal",
+  "en": "Vurgar the Loyal",
+  "n": {
+   "en": "Vurgar the Loyal",
+   "zh-CN": "伍伽岩兵",
+   "ja": "岩兵ヴーガー",
+   "zh-TW": "伍伽巖兵"
+  }
+ },
+ {
+  "slug": "wanyudo",
+  "en": "wanyudo",
+  "n": {
+   "en": "wanyudo",
+   "zh-CN": "轮入道",
+   "ja": "ワニュウドウ",
+   "zh-TW": "輪入道"
+  }
+ },
+ {
+  "slug": "war-panther",
+  "en": "war panther",
+  "n": {
+   "en": "war panther",
+   "zh-CN": "战豹",
+   "ja": "ウォーパンサー",
+   "zh-TW": "戰豹"
+  }
+ },
+ {
+  "slug": "war-tiger",
+  "en": "war tiger",
+  "n": {
+   "en": "war tiger",
+   "zh-CN": "战虎",
+   "ja": "ウォータイガー",
+   "zh-TW": "戰虎"
+  }
+ },
+ {
+  "slug": "warbear",
+  "en": "warbear",
+  "n": {
+   "en": "warbear",
+   "zh-CN": "战熊",
+   "ja": "ウォーベアー",
+   "zh-TW": "戰熊"
+  }
+ },
+ {
+  "slug": "warlion",
+  "en": "warlion",
+  "n": {
+   "en": "warlion",
+   "zh-CN": "战狮",
+   "ja": "ウォーライオン",
+   "zh-TW": "戰獅"
+  }
+ },
+ {
+  "slug": "warp-loader",
+  "en": "warp loader",
+  "n": {
+   "en": "warp loader",
+   "zh-CN": "轮式工程车",
+   "ja": "ホイールローダー",
+   "zh-TW": "輪式工程車"
+  }
+ },
+ {
+  "slug": "warring-lanner",
+  "en": "warring lanner",
+  "n": {
+   "en": "warring lanner",
+   "zh-CN": "战争猎鹰",
+   "ja": "ウォーリングラナー",
+   "zh-TW": "戰爭獵鷹"
+  }
+ },
+ {
+  "slug": "whisper-a-go-go",
+  "en": "Whisper A-go-go",
+  "n": {
+   "en": "Whisper A-go-go",
+   "zh-CN": "维斯帕前进号",
+   "ja": "ウィスパー号改",
+   "zh-TW": "維斯帕前進號"
+  }
+ },
+ {
+  "slug": "whisper-go",
+  "en": "Whisper-go",
+  "n": {
+   "en": "Whisper-go",
+   "zh-CN": "维斯帕号",
+   "ja": "ウィスパー号",
+   "zh-TW": "維斯帕號"
+  }
+ },
+ {
+  "slug": "white-devil",
+  "en": "White Devil",
+  "n": {
+   "en": "White Devil",
+   "zh-CN": "莉维亚专用魔导装甲",
+   "ja": "リウィア専用魔導アーマー",
+   "zh-TW": "莉維亞專用魔導裝甲"
+  }
+ },
+ {
+  "slug": "white-lanner",
+  "en": "white lanner",
+  "n": {
+   "en": "white lanner",
+   "zh-CN": "白云猎鹰",
+   "ja": "ホワイトラナー",
+   "zh-TW": "白雲獵鷹"
+  }
+ },
+ {
+  "slug": "wings-of-death",
+  "en": "wings of death",
+  "n": {
+   "en": "wings of death",
+   "zh-CN": "死暗之翼",
+   "ja": "ウィング・オブ・デス",
+   "zh-TW": "死暗之翼"
+  }
+ },
+ {
+  "slug": "wings-of-eternity",
+  "en": "wings of eternity",
+  "n": {
+   "en": "wings of eternity",
+   "zh-CN": "永恒之翼",
+   "ja": "ウィング・オブ・エターナル",
+   "zh-TW": "永恆之翼"
+  }
+ },
+ {
+  "slug": "wings-of-legacy",
+  "en": "wings of legacy",
+  "n": {
+   "en": "wings of legacy",
+   "zh-CN": "遗辉之翼",
+   "ja": "ウィング・オブ・レガシー",
+   "zh-TW": "遺輝之翼"
+  }
+ },
+ {
+  "slug": "wings-of-mist",
+  "en": "wings of mist",
+  "n": {
+   "en": "wings of mist",
+   "zh-CN": "浓雾之翼",
+   "ja": "ウィング・オブ・ミスト",
+   "zh-TW": "濃霧之翼"
+  }
+ },
+ {
+  "slug": "wings-of-nihility",
+  "en": "wings of nihility",
+  "n": {
+   "en": "wings of nihility",
+   "zh-CN": "虚王之翼",
+   "ja": "ウィング・オブ・ニヒリティ",
+   "zh-TW": "虛王之翼"
+  }
+ },
+ {
+  "slug": "wings-of-resolve",
+  "en": "wings of resolve",
+  "n": {
+   "en": "wings of resolve",
+   "zh-CN": "奇迹之翼",
+   "ja": "ウィング・オブ・リゾルヴ",
+   "zh-TW": "奇蹟之翼"
+  }
+ },
+ {
+  "slug": "wings-of-ruin",
+  "en": "wings of ruin",
+  "n": {
+   "en": "wings of ruin",
+   "zh-CN": "天灾之翼",
+   "ja": "ウィング・オブ・ディザスター",
+   "zh-TW": "天災之翼"
+  }
+ },
+ {
+  "slug": "wings-of-the-knighthood",
+  "en": "wings of the knighthood",
+  "n": {
+   "en": "wings of the knighthood",
+   "zh-CN": "骑士之翼",
+   "ja": "ウィング・オブ・ナイトフッド",
+   "zh-TW": "騎士之翼"
+  }
+ },
+ {
+  "slug": "witchs-broom",
+  "en": "witch's broom",
+  "n": {
+   "en": "witch's broom",
+   "zh-CN": "魔女扫帚",
+   "ja": "ウィッチズブルーム",
+   "zh-TW": "魔女掃帚"
+  }
+ },
+ {
+  "slug": "wivre",
+  "en": "wivre",
+  "n": {
+   "en": "wivre",
+   "zh-CN": "犀蜴",
+   "ja": "ウィヴル",
+   "zh-TW": "犀蜴"
+  }
+ },
+ {
+  "slug": "wondrous-lanner",
+  "en": "wondrous lanner",
+  "n": {
+   "en": "wondrous lanner",
+   "zh-CN": "幻奇猎鹰",
+   "ja": "ワンダラスラナー",
+   "zh-TW": "幻奇獵鷹"
+  }
+ },
+ {
+  "slug": "wyvern",
+  "en": "wyvern",
+  "n": {
+   "en": "wyvern",
+   "zh-CN": "双足飞龙",
+   "ja": "ワイバーン",
+   "zh-TW": "雙足飛龍"
+  }
+ },
+ {
+  "slug": "xanthos",
+  "en": "Xanthos",
+  "n": {
+   "en": "Xanthos",
+   "zh-CN": "风妖马刻桑图司",
+   "ja": "クサントス",
+   "zh-TW": "風妖馬刻桑圖司"
+  }
+ },
+ {
+  "slug": "xenoscaping-vacuum-suit",
+  "en": "xenoscaping vacuum suit",
+  "n": {
+   "en": "xenoscaping vacuum suit",
+   "zh-CN": "喷洒型强力机兵",
+   "ja": "散布型パワーローダー",
+   "zh-TW": "噴灑型強力機兵"
+  }
+ },
+ {
+  "slug": "yan",
+  "en": "yan",
+  "n": {
+   "en": "yan",
+   "zh-CN": "羊",
+   "ja": "ヤーン",
+   "zh-TW": "羊"
+  }
+ },
+ {
+  "slug": "yol",
+  "en": "yol",
+  "n": {
+   "en": "yol",
+   "zh-CN": "胡鹰",
+   "ja": "ヨル",
+   "zh-TW": "胡鷹"
+  }
+ },
+ {
+  "slug": "zu",
+  "en": "zu",
+  "n": {
+   "en": "zu",
+   "zh-CN": "祖",
+   "ja": "ズー",
+   "zh-TW": "祖"
+  }
+ }
+]

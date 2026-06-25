@@ -1,0 +1,6 @@
+id: ceremony-chocobo
+category: mounts
+type: mount
+mount: "ceremony chocobo"
+tags: [mount, travel]
+status: stable

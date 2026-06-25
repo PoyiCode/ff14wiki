@@ -1,0 +1,6 @@
+id: company-chocobo
+category: mounts
+type: mount
+mount: "company chocobo"
+tags: [mount, travel]
+status: stable

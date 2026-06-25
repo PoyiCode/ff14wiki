@@ -1,0 +1,6 @@
+id: flame-warsteed
+category: mounts
+type: mount
+mount: "flame warsteed"
+tags: [mount, travel]
+status: stable

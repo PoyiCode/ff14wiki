@@ -1,0 +1,6 @@
+id: astrope
+category: mounts
+type: mount
+mount: "Astrope"
+tags: [mount, travel]
+status: stable

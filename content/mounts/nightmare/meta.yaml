@@ -1,0 +1,6 @@
+id: nightmare
+category: mounts
+type: mount
+mount: "nightmare"
+tags: [mount, travel]
+status: stable

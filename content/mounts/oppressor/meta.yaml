@@ -1,0 +1,6 @@
+id: oppressor
+category: mounts
+type: mount
+mount: "oppressor"
+tags: [mount, travel]
+status: stable

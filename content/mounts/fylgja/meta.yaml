@@ -1,0 +1,6 @@
+id: fylgja
+category: mounts
+type: mount
+mount: "Fylgja"
+tags: [mount, travel]
+status: stable

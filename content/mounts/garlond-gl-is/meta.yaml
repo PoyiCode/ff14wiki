@@ -1,0 +1,6 @@
+id: garlond-gl-is
+category: mounts
+type: mount
+mount: "Garlond GL-IS"
+tags: [mount, travel]
+status: stable

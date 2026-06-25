@@ -1,0 +1,6 @@
+id: fat-moogle
+category: mounts
+type: mount
+mount: "fat moogle"
+tags: [mount, travel]
+status: stable

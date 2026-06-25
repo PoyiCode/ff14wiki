@@ -1,0 +1,6 @@
+id: white-devil
+category: mounts
+type: mount
+mount: "White Devil"
+tags: [mount, travel]
+status: stable

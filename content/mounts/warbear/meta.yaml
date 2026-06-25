@@ -1,0 +1,6 @@
+id: warbear
+category: mounts
+type: mount
+mount: "warbear"
+tags: [mount, travel]
+status: stable

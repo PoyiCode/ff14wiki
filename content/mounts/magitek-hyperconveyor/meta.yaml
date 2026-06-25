@@ -1,0 +1,6 @@
+id: magitek-hyperconveyor
+category: mounts
+type: mount
+mount: "magitek hyperconveyor"
+tags: [mount, travel]
+status: stable

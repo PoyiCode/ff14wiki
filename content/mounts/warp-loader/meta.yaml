@@ -1,0 +1,6 @@
+id: warp-loader
+category: mounts
+type: mount
+mount: "warp loader"
+tags: [mount, travel]
+status: stable

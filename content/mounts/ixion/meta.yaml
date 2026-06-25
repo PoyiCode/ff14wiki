@@ -1,0 +1,6 @@
+id: ixion
+category: mounts
+type: mount
+mount: "Ixion"
+tags: [mount, travel]
+status: stable

@@ -1,0 +1,6 @@
+id: magicked-umbrella
+category: mounts
+type: mount
+mount: "magicked umbrella"
+tags: [mount, travel]
+status: stable
