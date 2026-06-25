@@ -1,0 +1,6 @@
+id: greener-gleaner
+category: minions
+type: minion
+minion: "greener gleaner"
+tags: [minion, companion]
+status: stable

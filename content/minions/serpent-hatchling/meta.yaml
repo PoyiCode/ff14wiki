@@ -1,0 +1,6 @@
+id: serpent-hatchling
+category: minions
+type: minion
+minion: "serpent hatchling"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: buffalo-calf
+category: minions
+type: minion
+minion: "buffalo calf"
+tags: [minion, companion]
+status: stable

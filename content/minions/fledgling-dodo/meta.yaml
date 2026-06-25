@@ -1,0 +1,6 @@
+id: fledgling-dodo
+category: minions
+type: minion
+minion: "fledgling dodo"
+tags: [minion, companion]
+status: stable

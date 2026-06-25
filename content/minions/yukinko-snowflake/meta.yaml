@@ -1,0 +1,6 @@
+id: yukinko-snowflake
+category: minions
+type: minion
+minion: "yukinko snowflake"
+tags: [minion, companion]
+status: stable

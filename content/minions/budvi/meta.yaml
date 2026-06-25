@@ -1,0 +1,6 @@
+id: budvi
+category: minions
+type: minion
+minion: "budvi"
+tags: [minion, companion]
+status: stable

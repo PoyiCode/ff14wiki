@@ -1,0 +1,6 @@
+id: black-kitten
+category: minions
+type: minion
+minion: "Black Kitten"
+tags: [minion, companion]
+status: stable

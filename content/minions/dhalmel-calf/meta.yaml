@@ -1,0 +1,6 @@
+id: dhalmel-calf
+category: minions
+type: minion
+minion: "dhalmel calf"
+tags: [minion, companion]
+status: stable

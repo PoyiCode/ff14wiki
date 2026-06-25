@@ -1,0 +1,6 @@
+id: mameshiba
+category: minions
+type: minion
+minion: "mameshiba"
+tags: [minion, companion]
+status: stable

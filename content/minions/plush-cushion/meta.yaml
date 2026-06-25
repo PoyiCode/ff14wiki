@@ -1,0 +1,6 @@
+id: plush-cushion
+category: minions
+type: minion
+minion: "plush cushion"
+tags: [minion, companion]
+status: stable

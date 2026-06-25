@@ -1,0 +1,6 @@
+id: angel-of-mercy
+category: minions
+type: minion
+minion: "angel of mercy"
+tags: [minion, companion]
+status: stable

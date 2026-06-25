@@ -1,0 +1,6 @@
+id: hydaelyn-idol
+category: minions
+type: minion
+minion: "Hydaelyn idol"
+tags: [minion, companion]
+status: stable

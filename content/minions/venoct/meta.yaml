@@ -1,0 +1,6 @@
+id: venoct
+category: minions
+type: minion
+minion: "Venoct"
+tags: [minion, companion]
+status: stable

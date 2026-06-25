@@ -1,0 +1,6 @@
+id: dwarf-rabbit
+category: minions
+type: minion
+minion: "dwarf rabbit"
+tags: [minion, companion]
+status: stable

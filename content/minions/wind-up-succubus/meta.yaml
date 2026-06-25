@@ -1,0 +1,6 @@
+id: wind-up-succubus
+category: minions
+type: minion
+minion: "wind-up succubus"
+tags: [minion, companion]
+status: stable

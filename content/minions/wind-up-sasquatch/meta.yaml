@@ -1,0 +1,6 @@
+id: wind-up-sasquatch
+category: minions
+type: minion
+minion: "wind-up sasquatch"
+tags: [minion, companion]
+status: stable

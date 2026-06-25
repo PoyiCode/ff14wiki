@@ -1,0 +1,6 @@
+id: protonaught
+category: minions
+type: minion
+minion: "protonaught"
+tags: [minion, companion]
+status: stable

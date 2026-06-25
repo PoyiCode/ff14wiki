@@ -1,0 +1,6 @@
+id: clockwork-oppressor
+category: minions
+type: minion
+minion: "clockwork oppressor"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: wayward-hatchling
+category: minions
+type: minion
+minion: "wayward hatchling"
+tags: [minion, companion]
+status: stable

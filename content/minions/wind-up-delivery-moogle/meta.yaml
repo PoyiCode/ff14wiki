@@ -1,0 +1,6 @@
+id: wind-up-delivery-moogle
+category: minions
+type: minion
+minion: "wind-up delivery moogle"
+tags: [minion, companion]
+status: stable

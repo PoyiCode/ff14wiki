@@ -1,0 +1,6 @@
+id: piggy
+category: minions
+type: minion
+minion: "Piggy"
+tags: [minion, companion]
+status: stable

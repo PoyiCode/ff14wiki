@@ -1,0 +1,6 @@
+id: capybara-pup
+category: minions
+type: minion
+minion: "capybara pup"
+tags: [minion, companion]
+status: stable

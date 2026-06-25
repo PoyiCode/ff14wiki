@@ -1,0 +1,6 @@
+id: amaro-hatchling
+category: minions
+type: minion
+minion: "amaro hatchling"
+tags: [minion, companion]
+status: stable

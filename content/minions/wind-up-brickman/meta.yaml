@@ -1,0 +1,6 @@
+id: wind-up-brickman
+category: minions
+type: minion
+minion: "wind-up brickman"
+tags: [minion, companion]
+status: stable

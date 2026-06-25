@@ -1,0 +1,6 @@
+id: whisper
+category: minions
+type: minion
+minion: "Whisper"
+tags: [minion, companion]
+status: stable

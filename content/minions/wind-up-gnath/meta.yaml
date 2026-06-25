@@ -1,0 +1,6 @@
+id: wind-up-gnath
+category: minions
+type: minion
+minion: "wind-up Gnath"
+tags: [minion, companion]
+status: stable

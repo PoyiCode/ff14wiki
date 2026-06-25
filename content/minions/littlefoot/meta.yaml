@@ -1,0 +1,6 @@
+id: littlefoot
+category: minions
+type: minion
+minion: "Littlefoot"
+tags: [minion, companion]
+status: stable

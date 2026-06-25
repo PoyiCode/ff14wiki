@@ -1,0 +1,6 @@
+id: wind-up-airship
+category: minions
+type: minion
+minion: "wind-up airship"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: syldrion-class-insubmersible
+category: minions
+type: minion
+minion: "Syldrion-class insubmersible"
+tags: [minion, companion]
+status: stable

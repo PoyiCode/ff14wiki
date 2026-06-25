@@ -1,0 +1,6 @@
+id: magic-bucket
+category: minions
+type: minion
+minion: "magic bucket"
+tags: [minion, companion]
+status: stable

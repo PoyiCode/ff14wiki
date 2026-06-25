@@ -1,0 +1,6 @@
+id: wind-up-weapon
+category: minions
+type: minion
+minion: "wind-up weapon"
+tags: [minion, companion]
+status: stable

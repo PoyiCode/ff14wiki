@@ -1,0 +1,6 @@
+id: mossasaurus
+category: minions
+type: minion
+minion: "mossasaurus"
+tags: [minion, companion]
+status: stable

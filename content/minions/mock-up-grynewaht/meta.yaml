@@ -1,0 +1,6 @@
+id: mock-up-grynewaht
+category: minions
+type: minion
+minion: "mock-up Grynewaht"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: motley-egg
+category: minions
+type: minion
+minion: "motley egg"
+tags: [minion, companion]
+status: stable

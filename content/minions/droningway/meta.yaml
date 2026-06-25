@@ -1,0 +1,6 @@
+id: droningway
+category: minions
+type: minion
+minion: "Droningway"
+tags: [minion, companion]
+status: stable

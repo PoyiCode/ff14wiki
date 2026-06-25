@@ -1,0 +1,6 @@
+id: gestahl
+category: minions
+type: minion
+minion: "Gestahl"
+tags: [minion, companion]
+status: stable

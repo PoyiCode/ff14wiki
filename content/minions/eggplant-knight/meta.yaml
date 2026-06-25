@@ -1,0 +1,6 @@
+id: eggplant-knight
+category: minions
+type: minion
+minion: "Eggplant Knight"
+tags: [minion, companion]
+status: stable

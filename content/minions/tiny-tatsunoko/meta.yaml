@@ -1,0 +1,6 @@
+id: tiny-tatsunoko
+category: minions
+type: minion
+minion: "tiny tatsunoko"
+tags: [minion, companion]
+status: stable

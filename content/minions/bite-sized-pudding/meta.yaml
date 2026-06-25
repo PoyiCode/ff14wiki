@@ -1,0 +1,6 @@
+id: bite-sized-pudding
+category: minions
+type: minion
+minion: "bite-sized pudding"
+tags: [minion, companion]
+status: stable

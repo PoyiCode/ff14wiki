@@ -1,0 +1,6 @@
+id: chewy
+category: minions
+type: minion
+minion: "Chewy"
+tags: [minion, companion]
+status: stable

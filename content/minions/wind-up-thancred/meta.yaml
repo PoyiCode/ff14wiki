@@ -1,0 +1,6 @@
+id: wind-up-thancred
+category: minions
+type: minion
+minion: "wind-up Thancred"
+tags: [minion, companion]
+status: stable

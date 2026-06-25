@@ -1,0 +1,6 @@
+id: wind-up-leader
+category: minions
+type: minion
+minion: "wind-up leader"
+tags: [minion, companion]
+status: stable

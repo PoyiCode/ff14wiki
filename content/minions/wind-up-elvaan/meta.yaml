@@ -1,0 +1,6 @@
+id: wind-up-elvaan
+category: minions
+type: minion
+minion: "wind-up Elvaan"
+tags: [minion, companion]
+status: stable

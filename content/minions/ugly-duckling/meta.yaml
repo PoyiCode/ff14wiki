@@ -1,0 +1,6 @@
+id: ugly-duckling
+category: minions
+type: minion
+minion: "ugly duckling"
+tags: [minion, companion]
+status: stable

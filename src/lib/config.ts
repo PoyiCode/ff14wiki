@@ -120,6 +120,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'Mounts residents ride to get around — also a favourite thing for players to show off and chat about.',
     },
   },
+  {
+    key: 'minions',
+    label: { 'zh-TW': '寵物', 'zh-CN': '宠物', ja: 'ミニオン', en: 'Minions' },
+    description: {
+      'zh-TW': '跟在居民身邊的小寵物（ミニオン），點綴日常、也是玩家收藏炫耀與閒聊的話題。',
+      'zh-CN': '跟在居民身边的小宠物（ミニオン），点缀日常、也是玩家收藏炫耀与闲聊的话题。',
+      ja: '住民の傍らに連れ歩く小さなミニオン。日常を彩り、プレイヤーが集めて見せ合う話題にも。',
+      en: 'The little minions that follow a resident around — companions that brighten daily life and a favourite thing for players to collect and chat about.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);

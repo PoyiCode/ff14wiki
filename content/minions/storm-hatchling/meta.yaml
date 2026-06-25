@@ -1,0 +1,6 @@
+id: storm-hatchling
+category: minions
+type: minion
+minion: "storm hatchling"
+tags: [minion, companion]
+status: stable

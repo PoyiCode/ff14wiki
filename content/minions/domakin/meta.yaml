@@ -1,0 +1,6 @@
+id: domakin
+category: minions
+type: minion
+minion: "domakin"
+tags: [minion, companion]
+status: stable

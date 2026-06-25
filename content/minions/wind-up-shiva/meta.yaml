@@ -1,0 +1,6 @@
+id: wind-up-shiva
+category: minions
+type: minion
+minion: "wind-up Shiva"
+tags: [minion, companion]
+status: stable

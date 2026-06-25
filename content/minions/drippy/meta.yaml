@@ -1,0 +1,6 @@
+id: drippy
+category: minions
+type: minion
+minion: "Drippy"
+tags: [minion, companion]
+status: stable

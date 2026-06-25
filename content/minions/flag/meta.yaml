@@ -1,0 +1,6 @@
+id: flag
+category: minions
+type: minion
+minion: "Flag"
+tags: [minion, companion]
+status: stable

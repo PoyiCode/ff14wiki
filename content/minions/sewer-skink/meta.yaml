@@ -1,0 +1,6 @@
+id: sewer-skink
+category: minions
+type: minion
+minion: "sewer skink"
+tags: [minion, companion]
+status: stable

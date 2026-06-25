@@ -1,0 +1,6 @@
+id: magitek-helldiver-f1
+category: minions
+type: minion
+minion: "magitek helldiver F1"
+tags: [minion, companion]
+status: stable

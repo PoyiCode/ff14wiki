@@ -1,0 +1,6 @@
+id: quetzal
+category: minions
+type: minion
+minion: "quetzal"
+tags: [minion, companion]
+status: stable

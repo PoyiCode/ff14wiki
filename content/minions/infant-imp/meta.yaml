@@ -1,0 +1,6 @@
+id: infant-imp
+category: minions
+type: minion
+minion: "infant imp"
+tags: [minion, companion]
+status: stable

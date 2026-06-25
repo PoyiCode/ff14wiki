@@ -1,0 +1,6 @@
+id: wind-up-ramza
+category: minions
+type: minion
+minion: "wind-up Ramza"
+tags: [minion, companion]
+status: stable

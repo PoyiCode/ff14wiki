@@ -1,0 +1,6 @@
+id: suzusaurus
+category: minions
+type: minion
+minion: "suzusaurus"
+tags: [minion, companion]
+status: stable

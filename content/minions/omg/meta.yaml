@@ -1,0 +1,6 @@
+id: omg
+category: minions
+type: minion
+minion: "OMG"
+tags: [minion, companion]
+status: stable

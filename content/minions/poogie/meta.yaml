@@ -1,0 +1,6 @@
+id: poogie
+category: minions
+type: minion
+minion: "Poogie"
+tags: [minion, companion]
+status: stable

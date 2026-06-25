@@ -1,0 +1,6 @@
+id: vigorwasp
+category: minions
+type: minion
+minion: "Vigorwasp"
+tags: [minion, companion]
+status: stable

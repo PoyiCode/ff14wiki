@@ -1,0 +1,6 @@
+id: miniature-white-knight
+category: minions
+type: minion
+minion: "miniature white knight"
+tags: [minion, companion]
+status: stable

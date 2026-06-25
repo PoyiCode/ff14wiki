@@ -1,0 +1,6 @@
+id: chameleon
+category: minions
+type: minion
+minion: "chameleon"
+tags: [minion, companion]
+status: stable

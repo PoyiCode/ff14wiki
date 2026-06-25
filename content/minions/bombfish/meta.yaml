@@ -1,0 +1,6 @@
+id: bombfish
+category: minions
+type: minion
+minion: "bombfish"
+tags: [minion, companion]
+status: stable

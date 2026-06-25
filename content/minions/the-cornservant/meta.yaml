@@ -1,0 +1,6 @@
+id: the-cornservant
+category: minions
+type: minion
+minion: "the Cornservant"
+tags: [minion, companion]
+status: stable

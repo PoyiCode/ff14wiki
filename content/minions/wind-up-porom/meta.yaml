@@ -1,0 +1,6 @@
+id: wind-up-porom
+category: minions
+type: minion
+minion: "wind-up Porom"
+tags: [minion, companion]
+status: stable

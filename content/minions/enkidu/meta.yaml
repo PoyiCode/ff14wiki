@@ -1,0 +1,6 @@
+id: enkidu
+category: minions
+type: minion
+minion: "Enkidu"
+tags: [minion, companion]
+status: stable

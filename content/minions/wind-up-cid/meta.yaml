@@ -1,0 +1,6 @@
+id: wind-up-cid
+category: minions
+type: minion
+minion: "wind-up Cid"
+tags: [minion, companion]
+status: stable

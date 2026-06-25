@@ -1,0 +1,6 @@
+id: scarlet-peacock
+category: minions
+type: minion
+minion: "scarlet peacock"
+tags: [minion, companion]
+status: stable

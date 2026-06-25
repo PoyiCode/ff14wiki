@@ -1,0 +1,6 @@
+id: unlucky-rabbit
+category: minions
+type: minion
+minion: "unlucky rabbit"
+tags: [minion, companion]
+status: stable

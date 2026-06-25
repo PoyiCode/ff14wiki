@@ -1,0 +1,6 @@
+id: baby-behemoth
+category: minions
+type: minion
+minion: "baby behemoth"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: bridesmoogle
+category: minions
+type: minion
+minion: "bridesmoogle"
+tags: [minion, companion]
+status: stable

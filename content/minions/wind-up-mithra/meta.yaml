@@ -1,0 +1,6 @@
+id: wind-up-mithra
+category: minions
+type: minion
+minion: "wind-up Mithra"
+tags: [minion, companion]
+status: stable

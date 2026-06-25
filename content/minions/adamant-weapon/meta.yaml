@@ -1,0 +1,6 @@
+id: adamant-weapon
+category: minions
+type: minion
+minion: "Adamant Weapon"
+tags: [minion, companion]
+status: stable

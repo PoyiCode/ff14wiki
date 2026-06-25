@@ -1,0 +1,6 @@
+id: giant-beaver
+category: minions
+type: minion
+minion: "giant beaver"
+tags: [minion, companion]
+status: stable

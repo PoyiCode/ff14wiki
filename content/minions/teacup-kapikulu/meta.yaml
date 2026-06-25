@@ -1,0 +1,6 @@
+id: teacup-kapikulu
+category: minions
+type: minion
+minion: "teacup Kapikulu"
+tags: [minion, companion]
+status: stable

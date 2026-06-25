@@ -1,0 +1,6 @@
+id: coblyn-larva
+category: minions
+type: minion
+minion: "coblyn larva"
+tags: [minion, companion]
+status: stable

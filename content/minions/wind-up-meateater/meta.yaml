@@ -1,0 +1,6 @@
+id: wind-up-meateater
+category: minions
+type: minion
+minion: "wind-up meateater"
+tags: [minion, companion]
+status: stable

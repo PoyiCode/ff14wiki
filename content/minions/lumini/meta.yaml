@@ -1,0 +1,6 @@
+id: lumini
+category: minions
+type: minion
+minion: "lumini"
+tags: [minion, companion]
+status: stable

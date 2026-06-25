@@ -1,0 +1,6 @@
+id: hippo-calf
+category: minions
+type: minion
+minion: "hippo calf"
+tags: [minion, companion]
+status: stable

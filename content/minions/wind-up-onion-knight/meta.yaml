@@ -1,0 +1,6 @@
+id: wind-up-onion-knight
+category: minions
+type: minion
+minion: "wind-up onion knight"
+tags: [minion, companion]
+status: stable

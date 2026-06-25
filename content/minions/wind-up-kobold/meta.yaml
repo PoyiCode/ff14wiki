@@ -1,0 +1,6 @@
+id: wind-up-kobold
+category: minions
+type: minion
+minion: "wind-up kobold"
+tags: [minion, companion]
+status: stable

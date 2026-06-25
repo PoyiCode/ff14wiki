@@ -1,0 +1,6 @@
+id: bacon-bits
+category: minions
+type: minion
+minion: "bacon bits"
+tags: [minion, companion]
+status: stable

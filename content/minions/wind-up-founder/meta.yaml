@@ -1,0 +1,6 @@
+id: wind-up-founder
+category: minions
+type: minion
+minion: "wind-up founder"
+tags: [minion, companion]
+status: stable

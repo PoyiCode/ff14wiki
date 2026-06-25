@@ -1,0 +1,6 @@
+id: seitei
+category: minions
+type: minion
+minion: "Seitei"
+tags: [minion, companion]
+status: stable

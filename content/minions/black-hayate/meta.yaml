@@ -1,0 +1,6 @@
+id: black-hayate
+category: minions
+type: minion
+minion: "black hayate"
+tags: [minion, companion]
+status: stable

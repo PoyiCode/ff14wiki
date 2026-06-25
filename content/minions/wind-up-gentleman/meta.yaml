@@ -1,0 +1,6 @@
+id: wind-up-gentleman
+category: minions
+type: minion
+minion: "wind-up gentleman"
+tags: [minion, companion]
+status: stable

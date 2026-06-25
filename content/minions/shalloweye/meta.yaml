@@ -1,0 +1,6 @@
+id: shalloweye
+category: minions
+type: minion
+minion: "shalloweye"
+tags: [minion, companion]
+status: stable

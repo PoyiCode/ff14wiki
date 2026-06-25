@@ -1,0 +1,6 @@
+id: wind-up-moogle
+category: minions
+type: minion
+minion: "wind-up moogle"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: manjimutt
+category: minions
+type: minion
+minion: "Manjimutt"
+tags: [minion, companion]
+status: stable

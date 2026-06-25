@@ -1,0 +1,6 @@
+id: benben-stone
+category: minions
+type: minion
+minion: "Benben stone"
+tags: [minion, companion]
+status: stable

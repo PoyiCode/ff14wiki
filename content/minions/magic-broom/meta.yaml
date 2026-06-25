@@ -1,0 +1,6 @@
+id: magic-broom
+category: minions
+type: minion
+minion: "magic broom"
+tags: [minion, companion]
+status: stable

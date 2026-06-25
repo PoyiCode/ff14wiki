@@ -1,0 +1,6 @@
+id: meerkat
+category: minions
+type: minion
+minion: "meerkat"
+tags: [minion, companion]
+status: stable

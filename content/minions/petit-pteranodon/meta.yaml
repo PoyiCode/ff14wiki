@@ -1,0 +1,6 @@
+id: petit-pteranodon
+category: minions
+type: minion
+minion: "petit pteranodon"
+tags: [minion, companion]
+status: stable

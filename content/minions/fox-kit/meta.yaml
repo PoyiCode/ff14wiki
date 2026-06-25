@@ -1,0 +1,6 @@
+id: fox-kit
+category: minions
+type: minion
+minion: "fox kit"
+tags: [minion, companion]
+status: stable

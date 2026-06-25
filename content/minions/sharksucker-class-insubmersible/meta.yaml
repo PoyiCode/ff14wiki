@@ -1,0 +1,6 @@
+id: sharksucker-class-insubmersible
+category: minions
+type: minion
+minion: "sharksucker-class insubmersible"
+tags: [minion, companion]
+status: stable

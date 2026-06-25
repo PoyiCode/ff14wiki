@@ -1,0 +1,6 @@
+id: clockwork-crimson-chaser
+category: minions
+type: minion
+minion: "clockwork crimson chaser"
+tags: [minion, companion]
+status: stable

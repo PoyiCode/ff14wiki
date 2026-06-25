@@ -1,0 +1,6 @@
+id: kyubi
+category: minions
+type: minion
+minion: "Kyubi"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: lord-enma
+category: minions
+type: minion
+minion: "Lord Enma"
+tags: [minion, companion]
+status: stable

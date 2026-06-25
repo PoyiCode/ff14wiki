@@ -1,0 +1,6 @@
+id: wind-up-garuda
+category: minions
+type: minion
+minion: "wind-up Garuda"
+tags: [minion, companion]
+status: stable

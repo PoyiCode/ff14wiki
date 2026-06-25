@@ -1,0 +1,6 @@
+id: wind-up-fourchenault
+category: minions
+type: minion
+minion: "wind-up Fourchenault"
+tags: [minion, companion]
+status: stable

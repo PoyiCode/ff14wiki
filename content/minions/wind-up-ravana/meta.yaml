@@ -1,0 +1,6 @@
+id: wind-up-ravana
+category: minions
+type: minion
+minion: "wind-up Ravana"
+tags: [minion, companion]
+status: stable

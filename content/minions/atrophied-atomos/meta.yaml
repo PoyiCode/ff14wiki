@@ -1,0 +1,6 @@
+id: atrophied-atomos
+category: minions
+type: minion
+minion: "atrophied Atomos"
+tags: [minion, companion]
+status: stable

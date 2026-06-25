@@ -1,0 +1,6 @@
+id: dust-bunny
+category: minions
+type: minion
+minion: "dust bunny"
+tags: [minion, companion]
+status: stable

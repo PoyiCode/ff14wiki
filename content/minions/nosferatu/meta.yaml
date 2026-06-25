@@ -1,0 +1,6 @@
+id: nosferatu
+category: minions
+type: minion
+minion: "nosferatu"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: findingway
+category: minions
+type: minion
+minion: "Findingway"
+tags: [minion, companion]
+status: stable

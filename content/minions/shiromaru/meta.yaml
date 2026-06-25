@@ -1,0 +1,6 @@
+id: shiromaru
+category: minions
+type: minion
+minion: "Shiromaru"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: gaelikitten
+category: minions
+type: minion
+minion: "gaelikitten"
+tags: [minion, companion]
+status: stable

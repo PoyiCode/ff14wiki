@@ -1,0 +1,6 @@
+id: wisp-of-darkness
+category: minions
+type: minion
+minion: "wisp of Darkness"
+tags: [minion, companion]
+status: stable

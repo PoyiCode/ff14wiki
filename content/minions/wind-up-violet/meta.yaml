@@ -1,0 +1,6 @@
+id: wind-up-violet
+category: minions
+type: minion
+minion: "wind-up Violet"
+tags: [minion, companion]
+status: stable

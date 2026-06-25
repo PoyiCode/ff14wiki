@@ -1,0 +1,6 @@
+id: aurelia-polyp
+category: minions
+type: minion
+minion: "aurelia polyp"
+tags: [minion, companion]
+status: stable

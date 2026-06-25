@@ -1,0 +1,6 @@
+id: wind-up-bismarck
+category: minions
+type: minion
+minion: "wind-up Bismarck"
+tags: [minion, companion]
+status: stable

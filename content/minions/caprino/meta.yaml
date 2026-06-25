@@ -1,0 +1,6 @@
+id: caprino
+category: minions
+type: minion
+minion: "caprino"
+tags: [minion, companion]
+status: stable

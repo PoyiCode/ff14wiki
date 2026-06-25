@@ -1,0 +1,6 @@
+id: smallshell
+category: minions
+type: minion
+minion: "smallshell"
+tags: [minion, companion]
+status: stable

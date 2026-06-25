@@ -1,0 +1,6 @@
+id: ironfrog-ambler
+category: minions
+type: minion
+minion: "ironfrog ambler"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: boon-baboon
+category: minions
+type: minion
+minion: "boon baboon"
+tags: [minion, companion]
+status: stable

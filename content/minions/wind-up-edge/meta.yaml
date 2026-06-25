@@ -1,0 +1,6 @@
+id: wind-up-edge
+category: minions
+type: minion
+minion: "wind-up Edge"
+tags: [minion, companion]
+status: stable

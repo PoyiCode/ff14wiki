@@ -1,0 +1,6 @@
+id: little-yin
+category: minions
+type: minion
+minion: "Little Yin"
+tags: [minion, companion]
+status: stable

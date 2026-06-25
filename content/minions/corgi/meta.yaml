@@ -1,0 +1,6 @@
+id: corgi
+category: minions
+type: minion
+minion: "corgi"
+tags: [minion, companion]
+status: stable

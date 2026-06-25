@@ -1,0 +1,6 @@
+id: wind-up-pixie
+category: minions
+type: minion
+minion: "wind-up pixie"
+tags: [minion, companion]
+status: stable

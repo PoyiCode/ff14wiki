@@ -1,0 +1,6 @@
+id: wind-up-athena
+category: minions
+type: minion
+minion: "wind-up Athena"
+tags: [minion, companion]
+status: stable

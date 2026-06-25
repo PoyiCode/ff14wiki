@@ -1,0 +1,6 @@
+id: bullpup
+category: minions
+type: minion
+minion: "bullpup"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: tengu-doll
+category: minions
+type: minion
+minion: "tengu doll"
+tags: [minion, companion]
+status: stable

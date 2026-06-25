@@ -1,0 +1,6 @@
+id: little-leafman
+category: minions
+type: minion
+minion: "little leafman"
+tags: [minion, companion]
+status: stable

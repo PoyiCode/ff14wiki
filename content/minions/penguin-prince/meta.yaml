@@ -1,0 +1,6 @@
+id: penguin-prince
+category: minions
+type: minion
+minion: "penguin prince"
+tags: [minion, companion]
+status: stable

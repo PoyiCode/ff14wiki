@@ -1,0 +1,6 @@
+id: kidragora
+category: minions
+type: minion
+minion: "kidragora"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: nutkin
+category: minions
+type: minion
+minion: "nutkin"
+tags: [minion, companion]
+status: stable

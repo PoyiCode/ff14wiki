@@ -1,0 +1,6 @@
+id: demon-brick
+category: minions
+type: minion
+minion: "demon brick"
+tags: [minion, companion]
+status: stable

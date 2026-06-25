@@ -1,0 +1,6 @@
+id: royal-lunatender
+category: minions
+type: minion
+minion: "royal lunatender"
+tags: [minion, companion]
+status: stable

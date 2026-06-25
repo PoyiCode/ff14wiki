@@ -1,0 +1,6 @@
+id: wind-up-titan
+category: minions
+type: minion
+minion: "wind-up Titan"
+tags: [minion, companion]
+status: stable

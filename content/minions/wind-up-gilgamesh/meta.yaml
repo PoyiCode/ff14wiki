@@ -1,0 +1,6 @@
+id: wind-up-gilgamesh
+category: minions
+type: minion
+minion: "wind-up Gilgamesh"
+tags: [minion, companion]
+status: stable

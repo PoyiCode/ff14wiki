@@ -1,0 +1,6 @@
+id: mammet-001
+category: minions
+type: minion
+minion: "mammet #001"
+tags: [minion, companion]
+status: stable

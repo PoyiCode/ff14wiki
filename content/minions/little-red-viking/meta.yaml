@@ -1,0 +1,6 @@
+id: little-red-viking
+category: minions
+type: minion
+minion: "little red viking"
+tags: [minion, companion]
+status: stable

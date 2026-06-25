@@ -1,0 +1,6 @@
+id: brave-new-urianger
+category: minions
+type: minion
+minion: "brave new Urianger"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: faustlet
+category: minions
+type: minion
+minion: "faustlet"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: morpho
+category: minions
+type: minion
+minion: "morpho"
+tags: [minion, companion]
+status: stable

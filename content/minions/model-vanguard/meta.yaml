@@ -1,0 +1,6 @@
+id: model-vanguard
+category: minions
+type: minion
+minion: "model vanguard"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: wind-up-alpha
+category: minions
+type: minion
+minion: "wind-up Alpha"
+tags: [minion, companion]
+status: stable

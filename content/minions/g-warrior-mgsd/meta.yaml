@@ -1,0 +1,6 @@
+id: g-warrior-mgsd
+category: minions
+type: minion
+minion: "G-Warrior MGSD"
+tags: [minion, companion]
+status: stable

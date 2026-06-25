@@ -1,0 +1,6 @@
+id: uma-no-unicolt
+category: minions
+type: minion
+minion: "uma-no-unicolt"
+tags: [minion, companion]
+status: stable

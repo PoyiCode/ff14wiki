@@ -1,0 +1,6 @@
+id: beady-eye
+category: minions
+type: minion
+minion: "beady eye"
+tags: [minion, companion]
+status: stable

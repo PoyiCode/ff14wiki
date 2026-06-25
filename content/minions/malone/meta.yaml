@@ -1,0 +1,6 @@
+id: malone
+category: minions
+type: minion
+minion: "Malone"
+tags: [minion, companion]
+status: stable

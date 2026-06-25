@@ -1,0 +1,6 @@
+id: sunray-ray
+category: minions
+type: minion
+minion: "sunray ray"
+tags: [minion, companion]
+status: stable

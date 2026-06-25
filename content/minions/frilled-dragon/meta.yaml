@@ -1,0 +1,6 @@
+id: frilled-dragon
+category: minions
+type: minion
+minion: "frilled dragon"
+tags: [minion, companion]
+status: stable

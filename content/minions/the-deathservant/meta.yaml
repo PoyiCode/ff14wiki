@@ -1,0 +1,6 @@
+id: the-deathservant
+category: minions
+type: minion
+minion: "the Deathservant"
+tags: [minion, companion]
+status: stable

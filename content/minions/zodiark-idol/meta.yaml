@@ -1,0 +1,6 @@
+id: zodiark-idol
+category: minions
+type: minion
+minion: "Zodiark idol"
+tags: [minion, companion]
+status: stable

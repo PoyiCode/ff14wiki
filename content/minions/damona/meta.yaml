@@ -1,0 +1,6 @@
+id: damona
+category: minions
+type: minion
+minion: "Damona"
+tags: [minion, companion]
+status: stable

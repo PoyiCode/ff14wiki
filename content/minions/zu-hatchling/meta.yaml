@@ -1,0 +1,6 @@
+id: zu-hatchling
+category: minions
+type: minion
+minion: "zu hatchling"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: magitek-predator-f1
+category: minions
+type: minion
+minion: "magitek predator F1"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: wind-up-oschon
+category: minions
+type: minion
+minion: "wind-up Oschon"
+tags: [minion, companion]
+status: stable

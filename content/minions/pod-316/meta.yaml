@@ -1,0 +1,6 @@
+id: pod-316
+category: minions
+type: minion
+minion: "pod 316"
+tags: [minion, companion]
+status: stable

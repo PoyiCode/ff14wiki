@@ -1,0 +1,6 @@
+id: eden-minor
+category: minions
+type: minion
+minion: "Eden Minor"
+tags: [minion, companion]
+status: stable

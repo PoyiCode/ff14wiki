@@ -1,0 +1,6 @@
+id: wind-up-dalamud
+category: minions
+type: minion
+minion: "wind-up Dalamud"
+tags: [minion, companion]
+status: stable

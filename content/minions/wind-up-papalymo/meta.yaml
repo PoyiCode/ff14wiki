@@ -1,0 +1,6 @@
+id: wind-up-papalymo
+category: minions
+type: minion
+minion: "wind-up Papalymo"
+tags: [minion, companion]
+status: stable

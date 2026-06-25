@@ -1,0 +1,6 @@
+id: wind-up-kangaroo
+category: minions
+type: minion
+minion: "wind-up kangaroo"
+tags: [minion, companion]
+status: stable

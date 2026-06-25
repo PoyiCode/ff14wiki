@@ -1,0 +1,6 @@
+id: hedgehoglet
+category: minions
+type: minion
+minion: "hedgehoglet"
+tags: [minion, companion]
+status: stable

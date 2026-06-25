@@ -1,0 +1,6 @@
+id: construct-8
+category: minions
+type: minion
+minion: "Construct 8"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: komainu
+category: minions
+type: minion
+minion: "komainu"
+tags: [minion, companion]
+status: stable

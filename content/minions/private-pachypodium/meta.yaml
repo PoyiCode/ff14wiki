@@ -1,0 +1,6 @@
+id: private-pachypodium
+category: minions
+type: minion
+minion: "private pachypodium"
+tags: [minion, companion]
+status: stable

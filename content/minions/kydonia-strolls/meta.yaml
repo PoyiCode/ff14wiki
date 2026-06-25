@@ -1,0 +1,6 @@
+id: kydonia-strolls
+category: minions
+type: minion
+minion: "Kydonia Strolls"
+tags: [minion, companion]
+status: stable

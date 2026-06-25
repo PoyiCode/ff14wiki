@@ -1,0 +1,6 @@
+id: wind-up-pupu
+category: minions
+type: minion
+minion: "wind-up PuPu"
+tags: [minion, companion]
+status: stable

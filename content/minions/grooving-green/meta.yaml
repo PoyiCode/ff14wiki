@@ -1,0 +1,6 @@
+id: grooving-green
+category: minions
+type: minion
+minion: "Grooving Green"
+tags: [minion, companion]
+status: stable

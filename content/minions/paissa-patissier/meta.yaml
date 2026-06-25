@@ -1,0 +1,6 @@
+id: paissa-patissier
+category: minions
+type: minion
+minion: "paissa patissier"
+tags: [minion, companion]
+status: stable

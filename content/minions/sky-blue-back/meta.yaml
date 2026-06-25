@@ -1,0 +1,6 @@
+id: sky-blue-back
+category: minions
+type: minion
+minion: "sky blue back"
+tags: [minion, companion]
+status: stable

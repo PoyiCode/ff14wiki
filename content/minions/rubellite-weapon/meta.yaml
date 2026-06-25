@@ -1,0 +1,6 @@
+id: rubellite-weapon
+category: minions
+type: minion
+minion: "Rubellite Weapon"
+tags: [minion, companion]
+status: stable

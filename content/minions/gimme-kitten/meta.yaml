@@ -1,0 +1,6 @@
+id: gimme-kitten
+category: minions
+type: minion
+minion: "gimme kitten"
+tags: [minion, companion]
+status: stable

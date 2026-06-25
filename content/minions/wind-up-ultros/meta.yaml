@@ -1,0 +1,6 @@
+id: wind-up-ultros
+category: minions
+type: minion
+minion: "wind-up Ultros"
+tags: [minion, companion]
+status: stable

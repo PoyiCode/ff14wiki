@@ -1,0 +1,6 @@
+id: nagxian-cat
+category: minions
+type: minion
+minion: "Nagxian cat"
+tags: [minion, companion]
+status: stable

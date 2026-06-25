@@ -1,0 +1,6 @@
+id: mystic-weapon
+category: minions
+type: minion
+minion: "mystic weapon"
+tags: [minion, companion]
+status: stable

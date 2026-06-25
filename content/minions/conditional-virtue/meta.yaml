@@ -1,0 +1,6 @@
+id: conditional-virtue
+category: minions
+type: minion
+minion: "Conditional Virtue"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: tender-lamb
+category: minions
+type: minion
+minion: "tender lamb"
+tags: [minion, companion]
+status: stable

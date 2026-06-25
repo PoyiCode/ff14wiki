@@ -1,0 +1,6 @@
+id: tiny-bulb
+category: minions
+type: minion
+minion: "tiny bulb"
+tags: [minion, companion]
+status: stable

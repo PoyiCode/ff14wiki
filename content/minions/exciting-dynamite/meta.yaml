@@ -1,0 +1,6 @@
+id: exciting-dynamite
+category: minions
+type: minion
+minion: "exciting dynamite"
+tags: [minion, companion]
+status: stable

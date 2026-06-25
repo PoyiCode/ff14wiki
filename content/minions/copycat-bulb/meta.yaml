@@ -1,0 +1,6 @@
+id: copycat-bulb
+category: minions
+type: minion
+minion: "copycat bulb"
+tags: [minion, companion]
+status: stable

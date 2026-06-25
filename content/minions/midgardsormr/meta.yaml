@@ -1,0 +1,6 @@
+id: midgardsormr
+category: minions
+type: minion
+minion: "Midgardsormr"
+tags: [minion, companion]
+status: stable

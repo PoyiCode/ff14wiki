@@ -1,0 +1,6 @@
+id: minion-of-light-4
+category: minions
+type: minion
+minion: "Minion of Light"
+tags: [minion, companion]
+status: stable

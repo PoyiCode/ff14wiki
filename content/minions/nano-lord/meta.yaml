@@ -1,0 +1,6 @@
+id: nano-lord
+category: minions
+type: minion
+minion: "Nano Lord"
+tags: [minion, companion]
+status: stable

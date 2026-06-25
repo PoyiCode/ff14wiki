@@ -1,0 +1,6 @@
+id: puffin
+category: minions
+type: minion
+minion: "puffin"
+tags: [minion, companion]
+status: stable

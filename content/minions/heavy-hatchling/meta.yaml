@@ -1,0 +1,6 @@
+id: heavy-hatchling
+category: minions
+type: minion
+minion: "heavy hatchling"
+tags: [minion, companion]
+status: stable

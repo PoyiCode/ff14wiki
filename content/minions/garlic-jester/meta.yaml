@@ -1,0 +1,6 @@
+id: garlic-jester
+category: minions
+type: minion
+minion: "Garlic Jester"
+tags: [minion, companion]
+status: stable

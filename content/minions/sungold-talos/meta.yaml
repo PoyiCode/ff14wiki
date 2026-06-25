@@ -1,0 +1,6 @@
+id: sungold-talos
+category: minions
+type: minion
+minion: "sungold Talos"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: deimos
+category: minions
+type: minion
+minion: "Deimos"
+tags: [minion, companion]
+status: stable

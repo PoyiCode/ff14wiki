@@ -1,0 +1,6 @@
+id: senorita-sabotender
+category: minions
+type: minion
+minion: "Senorita Sabotender"
+tags: [minion, companion]
+status: stable

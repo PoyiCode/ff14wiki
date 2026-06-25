@@ -1,0 +1,6 @@
+id: naiad
+category: minions
+type: minion
+minion: "Naiad"
+tags: [minion, companion]
+status: stable

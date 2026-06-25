@@ -1,0 +1,6 @@
+id: musical-paca
+category: minions
+type: minion
+minion: "musical paca"
+tags: [minion, companion]
+status: stable

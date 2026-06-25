@@ -1,0 +1,6 @@
+id: noko
+category: minions
+type: minion
+minion: "Noko"
+tags: [minion, companion]
+status: stable

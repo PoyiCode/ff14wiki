@@ -1,0 +1,6 @@
+id: wind-up-sylph
+category: minions
+type: minion
+minion: "wind-up sylph"
+tags: [minion, companion]
+status: stable

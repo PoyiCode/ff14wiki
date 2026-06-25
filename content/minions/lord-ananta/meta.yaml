@@ -1,0 +1,6 @@
+id: lord-ananta
+category: minions
+type: minion
+minion: "Lord Ananta"
+tags: [minion, companion]
+status: stable

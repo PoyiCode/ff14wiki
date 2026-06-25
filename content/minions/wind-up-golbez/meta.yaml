@@ -1,0 +1,6 @@
+id: wind-up-golbez
+category: minions
+type: minion
+minion: "wind-up Golbez"
+tags: [minion, companion]
+status: stable

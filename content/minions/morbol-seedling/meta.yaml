@@ -1,0 +1,6 @@
+id: morbol-seedling
+category: minions
+type: minion
+minion: "morbol seedling"
+tags: [minion, companion]
+status: stable

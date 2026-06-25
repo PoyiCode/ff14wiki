@@ -1,0 +1,6 @@
+id: peridot-carbuncle
+category: minions
+type: minion
+minion: "Peridot Carbuncle"
+tags: [minion, companion]
+status: stable

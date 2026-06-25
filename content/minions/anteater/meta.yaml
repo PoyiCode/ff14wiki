@@ -1,0 +1,6 @@
+id: anteater
+category: minions
+type: minion
+minion: "anteater"
+tags: [minion, companion]
+status: stable

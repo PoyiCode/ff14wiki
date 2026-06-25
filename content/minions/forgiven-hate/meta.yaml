@@ -1,0 +1,6 @@
+id: forgiven-hate
+category: minions
+type: minion
+minion: "forgiven hate"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: shogunyan
+category: minions
+type: minion
+minion: "Shogunyan"
+tags: [minion, companion]
+status: stable

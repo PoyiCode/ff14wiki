@@ -1,0 +1,6 @@
+id: hellpup
+category: minions
+type: minion
+minion: "hellpup"
+tags: [minion, companion]
+status: stable

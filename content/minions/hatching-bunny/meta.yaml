@@ -1,0 +1,6 @@
+id: hatching-bunny
+category: minions
+type: minion
+minion: "hatching bunny"
+tags: [minion, companion]
+status: stable

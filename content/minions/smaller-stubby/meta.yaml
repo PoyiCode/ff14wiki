@@ -1,0 +1,6 @@
+id: smaller-stubby
+category: minions
+type: minion
+minion: "smaller stubby"
+tags: [minion, companion]
+status: stable

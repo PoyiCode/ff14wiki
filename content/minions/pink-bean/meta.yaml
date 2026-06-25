@@ -1,0 +1,6 @@
+id: pink-bean
+category: minions
+type: minion
+minion: "pink Bean"
+tags: [minion, companion]
+status: stable

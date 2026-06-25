@@ -1,0 +1,6 @@
+id: wind-up-sadu
+category: minions
+type: minion
+minion: "wind-up Sadu"
+tags: [minion, companion]
+status: stable

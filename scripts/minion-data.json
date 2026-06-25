@@ -1,0 +1,5812 @@
+[
+ {
+  "slug": "cherry-bomb",
+  "en": "cherry bomb",
+  "n": {
+   "en": "cherry bomb",
+   "zh-CN": "爆弹仔",
+   "ja": "タイニーボム",
+   "zh-TW": "爆彈仔"
+  }
+ },
+ {
+  "slug": "mammet-001",
+  "en": "mammet #001",
+  "n": {
+   "en": "mammet #001",
+   "zh-CN": "自走人偶001号",
+   "ja": "マメット001",
+   "zh-TW": "自走人偶001號"
+  }
+ },
+ {
+  "slug": "wayward-hatchling",
+  "en": "wayward hatchling",
+  "n": {
+   "en": "wayward hatchling",
+   "zh-CN": "巧儿陆行鸟",
+   "ja": "チョコチョコボ",
+   "zh-TW": "巧兒陸行鳥"
+  }
+ },
+ {
+  "slug": "cait-sith-doll",
+  "en": "Cait Sith doll",
+  "n": {
+   "en": "Cait Sith doll",
+   "zh-CN": "凯特西娃娃",
+   "ja": "マメット・ケットシー",
+   "zh-TW": "凱特西娃娃"
+  }
+ },
+ {
+  "slug": "baby-behemoth",
+  "en": "baby behemoth",
+  "n": {
+   "en": "baby behemoth",
+   "zh-CN": "贝希摩斯宝宝",
+   "ja": "ベビーモス",
+   "zh-TW": "貝希摩斯寶寶"
+  }
+ },
+ {
+  "slug": "mammet-003l",
+  "en": "mammet #003L",
+  "n": {
+   "en": "mammet #003L",
+   "zh-CN": "碧海人偶003号",
+   "ja": "マメット003L",
+   "zh-TW": "碧海人偶003號"
+  }
+ },
+ {
+  "slug": "mammet-003g",
+  "en": "mammet #003G",
+  "n": {
+   "en": "mammet #003G",
+   "zh-CN": "密林人偶003号",
+   "ja": "マメット003G",
+   "zh-TW": "密林人偶003號"
+  }
+ },
+ {
+  "slug": "mammet-003u",
+  "en": "mammet #003U",
+  "n": {
+   "en": "mammet #003U",
+   "zh-CN": "黄沙人偶003号",
+   "ja": "マメット003U",
+   "zh-TW": "黃沙人偶003號"
+  }
+ },
+ {
+  "slug": "storm-hatchling",
+  "en": "storm hatchling",
+  "n": {
+   "en": "storm hatchling",
+   "zh-CN": "黑涡团巧儿陆行鸟",
+   "ja": "黒渦のチョコチョコボ",
+   "zh-TW": "黑渦團巧兒陸行鳥"
+  }
+ },
+ {
+  "slug": "serpent-hatchling",
+  "en": "serpent hatchling",
+  "n": {
+   "en": "serpent hatchling",
+   "zh-CN": "双蛇党巧儿陆行鸟",
+   "ja": "双蛇のチョコチョコボ",
+   "zh-TW": "雙蛇黨巧兒陸行鳥"
+  }
+ },
+ {
+  "slug": "flame-hatchling",
+  "en": "flame hatchling",
+  "n": {
+   "en": "flame hatchling",
+   "zh-CN": "恒辉队巧儿陆行鸟",
+   "ja": "不滅のチョコチョコボ",
+   "zh-TW": "恆輝隊巧兒陸行鳥"
+  }
+ },
+ {
+  "slug": "morbol-seedling",
+  "en": "morbol seedling",
+  "n": {
+   "en": "morbol seedling",
+   "zh-CN": "魔界花骨朵",
+   "ja": "モルボルバルブ",
+   "zh-TW": "魔界花骨朵"
+  }
+ },
+ {
+  "slug": "tiny-rat",
+  "en": "tiny rat",
+  "n": {
+   "en": "tiny rat",
+   "zh-CN": "小松鼠",
+   "ja": "タイニースクウィレル",
+   "zh-TW": "小松鼠"
+  }
+ },
+ {
+  "slug": "baby-bun",
+  "en": "baby bun",
+  "n": {
+   "en": "baby bun",
+   "zh-CN": "魔菇宝",
+   "ja": "ベイビーファンガー",
+   "zh-TW": "魔菇寶"
+  }
+ },
+ {
+  "slug": "chigoe-larva",
+  "en": "chigoe larva",
+  "n": {
+   "en": "chigoe larva",
+   "zh-CN": "沙蚤虫虫",
+   "ja": "チゴーラーヴァ",
+   "zh-TW": "沙蚤蟲蟲"
+  }
+ },
+ {
+  "slug": "bluebird",
+  "en": "bluebird",
+  "n": {
+   "en": "bluebird",
+   "zh-CN": "青鸟",
+   "ja": "ブルーバード",
+   "zh-TW": "青鳥"
+  }
+ },
+ {
+  "slug": "wide-eyed-fawn",
+  "en": "wide-eyed fawn",
+  "n": {
+   "en": "wide-eyed fawn",
+   "zh-CN": "幼羚羊",
+   "ja": "アンテロープ・フォーン",
+   "zh-TW": "幼羚羊"
+  }
+ },
+ {
+  "slug": "infant-imp",
+  "en": "infant imp",
+  "n": {
+   "en": "infant imp",
+   "zh-CN": "小小魔精",
+   "ja": "ベイビーインプ",
+   "zh-TW": "小小魔精"
+  }
+ },
+ {
+  "slug": "coeurl-kitten",
+  "en": "coeurl kitten",
+  "n": {
+   "en": "coeurl kitten",
+   "zh-CN": "长须小豹",
+   "ja": "タイニークァール",
+   "zh-TW": "長鬚小豹"
+  }
+ },
+ {
+  "slug": "black-coeurl",
+  "en": "black coeurl",
+  "n": {
+   "en": "black coeurl",
+   "zh-CN": "长须小黑豹",
+   "ja": "ブラッククァール",
+   "zh-TW": "長鬚小黑豹"
+  }
+ },
+ {
+  "slug": "wind-up-gentleman",
+  "en": "wind-up gentleman",
+  "n": {
+   "en": "wind-up gentleman",
+   "zh-CN": "非正宗调查员",
+   "ja": "マメット・ヒルディ",
+   "zh-TW": "非正宗調查員"
+  }
+ },
+ {
+  "slug": "gravel-golem",
+  "en": "gravel golem",
+  "n": {
+   "en": "gravel golem",
+   "zh-CN": "砂砾小像兵",
+   "ja": "グラベルゴーレム",
+   "zh-TW": "砂礫小像兵"
+  }
+ },
+ {
+  "slug": "wind-up-tonberry",
+  "en": "wind-up tonberry",
+  "n": {
+   "en": "wind-up tonberry",
+   "zh-CN": "冬贝利玩偶",
+   "ja": "マメット・トンベリ",
+   "zh-TW": "冬貝利玩偶"
+  }
+ },
+ {
+  "slug": "tiny-tortoise",
+  "en": "tiny tortoise",
+  "n": {
+   "en": "tiny tortoise",
+   "zh-CN": "精金幼龟",
+   "ja": "タイニーアダマンタス",
+   "zh-TW": "精金幼龜"
+  }
+ },
+ {
+  "slug": "baby-raptor",
+  "en": "baby raptor",
+  "n": {
+   "en": "baby raptor",
+   "zh-CN": "盗龙小宝",
+   "ja": "ベイビーラプトル",
+   "zh-TW": "盜龍小寶"
+  }
+ },
+ {
+  "slug": "baby-bat",
+  "en": "baby bat",
+  "n": {
+   "en": "baby bat",
+   "zh-CN": "小蝙蝠",
+   "ja": "ベイビーバット",
+   "zh-TW": "小蝙蝠"
+  }
+ },
+ {
+  "slug": "tiny-bulb",
+  "en": "tiny bulb",
+  "n": {
+   "en": "tiny bulb",
+   "zh-CN": "树苗精",
+   "ja": "タイニーバルブ",
+   "zh-TW": "樹苗精"
+  }
+ },
+ {
+  "slug": "dust-bunny",
+  "en": "dust bunny",
+  "n": {
+   "en": "dust bunny",
+   "zh-CN": "灰尘兔",
+   "ja": "ダストバニー",
+   "zh-TW": "灰塵兔"
+  }
+ },
+ {
+  "slug": "wind-up-dullahan",
+  "en": "wind-up dullahan",
+  "n": {
+   "en": "wind-up dullahan",
+   "zh-CN": "无头骑士模型",
+   "ja": "マメット・デュラハン",
+   "zh-TW": "無頭騎士模型"
+  }
+ },
+ {
+  "slug": "gigantpole",
+  "en": "gigantpole",
+  "n": {
+   "en": "gigantpole",
+   "zh-CN": "巨蝌蚪",
+   "ja": "ギガンジャクシ",
+   "zh-TW": "巨蝌蚪"
+  }
+ },
+ {
+  "slug": "pudgy-puk",
+  "en": "pudgy puk",
+  "n": {
+   "en": "pudgy puk",
+   "zh-CN": "胖墩跳蜥",
+   "ja": "パジープーク",
+   "zh-TW": "胖墩跳蜥"
+  }
+ },
+ {
+  "slug": "buffalo-calf",
+  "en": "buffalo calf",
+  "n": {
+   "en": "buffalo calf",
+   "zh-CN": "小牛犊",
+   "ja": "バッファロー・カフ",
+   "zh-TW": "小牛犢"
+  }
+ },
+ {
+  "slug": "cactuar-cutting",
+  "en": "cactuar cutting",
+  "n": {
+   "en": "cactuar cutting",
+   "zh-CN": "幼小仙人掌",
+   "ja": "ミニテンダー",
+   "zh-TW": "幼小仙人掌"
+  }
+ },
+ {
+  "slug": "smallshell",
+  "en": "smallshell",
+  "n": {
+   "en": "smallshell",
+   "zh-CN": "小壳蟹",
+   "ja": "スモールシェル",
+   "zh-TW": "小殼蟹"
+  }
+ },
+ {
+  "slug": "wolf-pup",
+  "en": "wolf pup",
+  "n": {
+   "en": "wolf pup",
+   "zh-CN": "小狼",
+   "ja": "ウルフ・パップ",
+   "zh-TW": "小狼"
+  }
+ },
+ {
+  "slug": "beady-eye",
+  "en": "beady eye",
+  "n": {
+   "en": "beady eye",
+   "zh-CN": "小亮眼",
+   "ja": "タイニーアイ",
+   "zh-TW": "小亮眼"
+  }
+ },
+ {
+  "slug": "fledgling-dodo",
+  "en": "fledgling dodo",
+  "n": {
+   "en": "fledgling dodo",
+   "zh-CN": "渡渡鸟雏",
+   "ja": "タイニードードー",
+   "zh-TW": "渡渡鳥雛"
+  }
+ },
+ {
+  "slug": "coblyn-larva",
+  "en": "coblyn larva",
+  "n": {
+   "en": "coblyn larva",
+   "zh-CN": "矿爬虫虫",
+   "ja": "コブランラーヴァ",
+   "zh-TW": "礦爬蟲蟲"
+  }
+ },
+ {
+  "slug": "wind-up-aldgoat",
+  "en": "wind-up aldgoat",
+  "n": {
+   "en": "wind-up aldgoat",
+   "zh-CN": "小山羊玩偶",
+   "ja": "マメット・ゴート",
+   "zh-TW": "小山羊玩偶"
+  }
+ },
+ {
+  "slug": "fledgling-apkallu",
+  "en": "fledgling apkallu",
+  "n": {
+   "en": "fledgling apkallu",
+   "zh-CN": "幼碧企鹅",
+   "ja": "タイニーアプカル",
+   "zh-TW": "幼碧企鵝"
+  }
+ },
+ {
+  "slug": "goobbue-sproutling",
+  "en": "goobbue sproutling",
+  "n": {
+   "en": "goobbue sproutling",
+   "zh-CN": "发芽小猩猩",
+   "ja": "グゥーブー・スプラウト",
+   "zh-TW": "發芽小猩猩"
+  }
+ },
+ {
+  "slug": "bite-sized-pudding",
+  "en": "bite-sized pudding",
+  "n": {
+   "en": "bite-sized pudding",
+   "zh-CN": "一口小果冻",
+   "ja": "ミニプリン",
+   "zh-TW": "一口小果凍"
+  }
+ },
+ {
+  "slug": "model-vanguard",
+  "en": "model vanguard",
+  "n": {
+   "en": "model vanguard",
+   "zh-CN": "魔导先锋追踪型",
+   "ja": "魔導ヴァンガード追従型",
+   "zh-TW": "魔導先鋒追蹤型"
+  }
+ },
+ {
+  "slug": "demon-brick",
+  "en": "demon brick",
+  "n": {
+   "en": "demon brick",
+   "zh-CN": "恶魔砖块",
+   "ja": "デモンズブロック",
+   "zh-TW": "惡魔磚塊"
+  }
+ },
+ {
+  "slug": "mini-mole",
+  "en": "mini mole",
+  "n": {
+   "en": "mini mole",
+   "zh-CN": "大头小鼹鼠",
+   "ja": "ミニモール",
+   "zh-TW": "大頭小鼴鼠"
+  }
+ },
+ {
+  "slug": "tender-lamb",
+  "en": "tender lamb",
+  "n": {
+   "en": "tender lamb",
+   "zh-CN": "睡羊羊",
+   "ja": "タイニーラム",
+   "zh-TW": "睡羊羊"
+  }
+ },
+ {
+  "slug": "slime-puddle",
+  "en": "slime puddle",
+  "n": {
+   "en": "slime puddle",
+   "zh-CN": "粘液胶",
+   "ja": "ミニスライム",
+   "zh-TW": "粘液膠"
+  }
+ },
+ {
+  "slug": "kidragora",
+  "en": "kidragora",
+  "n": {
+   "en": "kidragora",
+   "zh-CN": "小小蔓德拉",
+   "ja": "ミニマンドラゴラ",
+   "zh-TW": "小小蔓德拉"
+  }
+ },
+ {
+  "slug": "wind-up-goblin",
+  "en": "wind-up goblin",
+  "n": {
+   "en": "wind-up goblin",
+   "zh-CN": "哥布林玩偶",
+   "ja": "マメット・ゴブリン",
+   "zh-TW": "哥布林玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-sylph",
+  "en": "wind-up sylph",
+  "n": {
+   "en": "wind-up sylph",
+   "zh-CN": "妖精娃娃",
+   "ja": "マメット・シルフ",
+   "zh-TW": "妖精娃娃"
+  }
+ },
+ {
+  "slug": "wind-up-cursor",
+  "en": "wind-up cursor",
+  "n": {
+   "en": "wind-up cursor",
+   "zh-CN": "手指光标",
+   "ja": "マメット・カーソル",
+   "zh-TW": "手指光標"
+  }
+ },
+ {
+  "slug": "wind-up-airship",
+  "en": "wind-up airship",
+  "n": {
+   "en": "wind-up airship",
+   "zh-CN": "无敌号模型",
+   "ja": "マメット・インビンシブル",
+   "zh-TW": "無敵號模型"
+  }
+ },
+ {
+  "slug": "wind-up-qiqirn",
+  "en": "wind-up Qiqirn",
+  "n": {
+   "en": "wind-up Qiqirn",
+   "zh-CN": "卢恩人玩偶",
+   "ja": "マメット・キキルン",
+   "zh-TW": "盧恩人玩偶"
+  }
+ },
+ {
+  "slug": "black-chocobo-chick",
+  "en": "black chocobo chick",
+  "n": {
+   "en": "black chocobo chick",
+   "zh-CN": "巧儿黑陆行鸟",
+   "ja": "黒チョコチョコボ",
+   "zh-TW": "巧兒黑陸行鳥"
+  }
+ },
+ {
+  "slug": "wind-up-dalamud",
+  "en": "wind-up Dalamud",
+  "n": {
+   "en": "wind-up Dalamud",
+   "zh-CN": "发条卫月",
+   "ja": "マメット・ダラガブ",
+   "zh-TW": "發條衛月"
+  }
+ },
+ {
+  "slug": "minute-mindflayer",
+  "en": "minute mindflayer",
+  "n": {
+   "en": "minute mindflayer",
+   "zh-CN": "夺心小魔",
+   "ja": "カインドフレア",
+   "zh-TW": "奪心小魔"
+  }
+ },
+ {
+  "slug": "tight-beaked-parrot",
+  "en": "tight-beaked parrot",
+  "n": {
+   "en": "tight-beaked parrot",
+   "zh-CN": "不说话的蜂鸟",
+   "ja": "アントーキング・コリブリ",
+   "zh-TW": "不說話的蜂鳥"
+  }
+ },
+ {
+  "slug": "wind-up-amalj-aa",
+  "en": "wind-up Amalj'aa",
+  "n": {
+   "en": "wind-up Amalj'aa",
+   "zh-CN": "蜥蜴人玩偶",
+   "ja": "マメット・アマルジャ",
+   "zh-TW": "蜥蜴人玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-ixal",
+  "en": "wind-up Ixal",
+  "n": {
+   "en": "wind-up Ixal",
+   "zh-CN": "鸟人玩偶",
+   "ja": "マメット・イクサル",
+   "zh-TW": "鳥人玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-kobold",
+  "en": "wind-up kobold",
+  "n": {
+   "en": "wind-up kobold",
+   "zh-CN": "地灵娃娃",
+   "ja": "マメット・コボルド",
+   "zh-TW": "地靈娃娃"
+  }
+ },
+ {
+  "slug": "wind-up-sahagin",
+  "en": "wind-up Sahagin",
+  "n": {
+   "en": "wind-up Sahagin",
+   "zh-CN": "鱼人玩偶",
+   "ja": "マメット・サハギン",
+   "zh-TW": "魚人玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-brickman",
+  "en": "wind-up brickman",
+  "n": {
+   "en": "wind-up brickman",
+   "zh-CN": "巨像丙",
+   "ja": "ゴレムス",
+   "zh-TW": "巨像丙"
+  }
+ },
+ {
+  "slug": "wind-up-shantotto",
+  "en": "wind-up Shantotto",
+  "n": {
+   "en": "wind-up Shantotto",
+   "zh-CN": "香托托人偶",
+   "ja": "マメット・シャントット",
+   "zh-TW": "香託託人偶"
+  }
+ },
+ {
+  "slug": "wind-up-edvya",
+  "en": "wind-up Edvya",
+  "n": {
+   "en": "wind-up Edvya",
+   "zh-CN": "艾德薇雅人偶",
+   "ja": "マメット・エドヴィア",
+   "zh-TW": "艾德薇雅人偶"
+  }
+ },
+ {
+  "slug": "wind-up-sun",
+  "en": "wind-up sun",
+  "n": {
+   "en": "wind-up sun",
+   "zh-CN": "发条太阳",
+   "ja": "クロックワークサン",
+   "zh-TW": "發條太陽"
+  }
+ },
+ {
+  "slug": "plush-cushion",
+  "en": "plush cushion",
+  "n": {
+   "en": "plush cushion",
+   "zh-CN": "软软垫子",
+   "ja": "ふかふかクッション",
+   "zh-TW": "軟軟墊子"
+  }
+ },
+ {
+  "slug": "minion-of-light",
+  "en": "Minion of Light",
+  "n": {
+   "en": "Minion of Light",
+   "zh-CN": "光之战偶",
+   "ja": "マメット・オブ・ライト",
+   "zh-TW": "光之戰偶"
+  }
+ },
+ {
+  "slug": "minion-of-light-2",
+  "en": "Minion of Light",
+  "n": {
+   "en": "Minion of Light",
+   "zh-CN": "光之战偶",
+   "ja": "マメット・オブ・ライト",
+   "zh-TW": "光之戰偶"
+  }
+ },
+ {
+  "slug": "minion-of-light-3",
+  "en": "Minion of Light",
+  "n": {
+   "en": "Minion of Light",
+   "zh-CN": "光之战偶",
+   "ja": "マメット・オブ・ライト",
+   "zh-TW": "光之戰偶"
+  }
+ },
+ {
+  "slug": "minion-of-light-4",
+  "en": "Minion of Light",
+  "n": {
+   "en": "Minion of Light",
+   "zh-CN": "光之战偶",
+   "ja": "マメット・オブ・ライト",
+   "zh-TW": "光之戰偶"
+  }
+ },
+ {
+  "slug": "wind-up-leader",
+  "en": "wind-up leader",
+  "n": {
+   "en": "wind-up leader",
+   "zh-CN": "袖珍领袖",
+   "ja": "マメット・リーダー",
+   "zh-TW": "袖珍領袖"
+  }
+ },
+ {
+  "slug": "wind-up-merlwyb",
+  "en": "wind-up Merlwyb",
+  "n": {
+   "en": "wind-up Merlwyb",
+   "zh-CN": "袖珍梅尔维布",
+   "ja": "マメット・メルウィブ",
+   "zh-TW": "袖珍梅爾維布"
+  }
+ },
+ {
+  "slug": "wind-up-kan-e",
+  "en": "wind-up Kan-E",
+  "n": {
+   "en": "wind-up Kan-E",
+   "zh-CN": "袖珍嘉恩·艾",
+   "ja": "マメット・カヌ・エ",
+   "zh-TW": "袖珍嘉恩·艾"
+  }
+ },
+ {
+  "slug": "wind-up-raubahn",
+  "en": "wind-up Raubahn",
+  "n": {
+   "en": "wind-up Raubahn",
+   "zh-CN": "袖珍劳班",
+   "ja": "マメット・ラウバーン",
+   "zh-TW": "袖珍勞班"
+  }
+ },
+ {
+  "slug": "princely-hatchling",
+  "en": "princely hatchling",
+  "n": {
+   "en": "princely hatchling",
+   "zh-CN": "巧儿陆行鸟王子",
+   "ja": "チョコチョコボ・プリンス",
+   "zh-TW": "巧兒陸行鳥王子"
+  }
+ },
+ {
+  "slug": "wind-up-odin",
+  "en": "wind-up Odin",
+  "n": {
+   "en": "wind-up Odin",
+   "zh-CN": "奥丁战偶",
+   "ja": "マメット・オーディン",
+   "zh-TW": "奧丁戰偶"
+  }
+ },
+ {
+  "slug": "wind-up-warrior-of-light",
+  "en": "wind-up Warrior of Light",
+  "n": {
+   "en": "wind-up Warrior of Light",
+   "zh-CN": "光之战士",
+   "ja": "ウォーリア・オブ・ライト",
+   "zh-TW": "光之戰士"
+  }
+ },
+ {
+  "slug": "wind-up-bahamut",
+  "en": "wind-up Bahamut",
+  "n": {
+   "en": "wind-up Bahamut",
+   "zh-CN": "发条巴哈姆特",
+   "ja": "マメット・バハムート",
+   "zh-TW": "發條巴哈姆特"
+  }
+ },
+ {
+  "slug": "wind-up-moogle",
+  "en": "wind-up moogle",
+  "n": {
+   "en": "wind-up moogle",
+   "zh-CN": "莫古力娃娃",
+   "ja": "マメット・モーグリ",
+   "zh-TW": "莫古力娃娃"
+  }
+ },
+ {
+  "slug": "baby-opo-opo",
+  "en": "baby opo-opo",
+  "n": {
+   "en": "baby opo-opo",
+   "zh-CN": "奥猴宝宝",
+   "ja": "ベイビーオポオポ",
+   "zh-TW": "奧猴寶寶"
+  }
+ },
+ {
+  "slug": "magic-broom",
+  "en": "magic broom",
+  "n": {
+   "en": "magic broom",
+   "zh-CN": "魔法扫帚",
+   "ja": "マメット・ブルーム",
+   "zh-TW": "魔法掃帚"
+  }
+ },
+ {
+  "slug": "wind-up-succubus",
+  "en": "wind-up succubus",
+  "n": {
+   "en": "wind-up succubus",
+   "zh-CN": "梦魔娃娃",
+   "ja": "マメット・サキュバス",
+   "zh-TW": "夢魔娃娃"
+  }
+ },
+ {
+  "slug": "zu-hatchling",
+  "en": "zu hatchling",
+  "n": {
+   "en": "zu hatchling",
+   "zh-CN": "雏鸟祖",
+   "ja": "ズー・ハッチリング",
+   "zh-TW": "雛鳥祖"
+  }
+ },
+ {
+  "slug": "wind-up-nanamo",
+  "en": "wind-up Nanamo",
+  "n": {
+   "en": "wind-up Nanamo",
+   "zh-CN": "迷你娜娜莫",
+   "ja": "マメット・ナナモ",
+   "zh-TW": "迷你娜娜莫"
+  }
+ },
+ {
+  "slug": "wind-up-gilgamesh",
+  "en": "wind-up Gilgamesh",
+  "n": {
+   "en": "wind-up Gilgamesh",
+   "zh-CN": "小小吉尔伽美什",
+   "ja": "マメット・ギルガメッシュ",
+   "zh-TW": "小小吉爾伽美什"
+  }
+ },
+ {
+  "slug": "onion-prince",
+  "en": "Onion Prince",
+  "n": {
+   "en": "Onion Prince",
+   "zh-CN": "洋葱王子",
+   "ja": "オニオンプリンス",
+   "zh-TW": "洋蔥王子"
+  }
+ },
+ {
+  "slug": "eggplant-knight",
+  "en": "Eggplant Knight",
+  "n": {
+   "en": "Eggplant Knight",
+   "zh-CN": "茄子骑士",
+   "ja": "エッグナイト",
+   "zh-TW": "茄子騎士"
+  }
+ },
+ {
+  "slug": "garlic-jester",
+  "en": "Garlic Jester",
+  "n": {
+   "en": "Garlic Jester",
+   "zh-CN": "蒜头明星",
+   "ja": "ガーリックスター",
+   "zh-TW": "蒜頭明星"
+  }
+ },
+ {
+  "slug": "tomato-king",
+  "en": "Tomato King",
+  "n": {
+   "en": "Tomato King",
+   "zh-CN": "番茄国王",
+   "ja": "キングトマト",
+   "zh-TW": "番茄國王"
+  }
+ },
+ {
+  "slug": "mandragora-queen",
+  "en": "Mandragora Queen",
+  "n": {
+   "en": "Mandragora Queen",
+   "zh-CN": "蔓德拉王后",
+   "ja": "マンドラクイーン",
+   "zh-TW": "蔓德拉王后"
+  }
+ },
+ {
+  "slug": "wind-up-y-shtola",
+  "en": "wind-up Y'shtola",
+  "n": {
+   "en": "wind-up Y'shtola",
+   "zh-CN": "迷你雅·修特拉",
+   "ja": "マメット・ヤ・シュトラ",
+   "zh-TW": "迷你雅·修特拉"
+  }
+ },
+ {
+  "slug": "wind-up-onion-knight",
+  "en": "wind-up onion knight",
+  "n": {
+   "en": "wind-up onion knight",
+   "zh-CN": "洋葱小骑士",
+   "ja": "マメット・オニオン",
+   "zh-TW": "洋蔥小騎士"
+  }
+ },
+ {
+  "slug": "treasure-box",
+  "en": "treasure box",
+  "n": {
+   "en": "treasure box",
+   "zh-CN": "宝宝箱",
+   "ja": "トレジャーボックス",
+   "zh-TW": "寶寶箱"
+  }
+ },
+ {
+  "slug": "tiny-tapir",
+  "en": "tiny tapir",
+  "n": {
+   "en": "tiny tapir",
+   "zh-CN": "小梦貘",
+   "ja": "タイニーバク",
+   "zh-TW": "小夢貘"
+  }
+ },
+ {
+  "slug": "nana-bear",
+  "en": "Nana bear",
+  "n": {
+   "en": "Nana bear",
+   "zh-CN": "娜娜珂小熊",
+   "ja": "ナナッコ・ベアー",
+   "zh-TW": "娜娜珂小熊"
+  }
+ },
+ {
+  "slug": "miniature-minecart",
+  "en": "miniature minecart",
+  "n": {
+   "en": "miniature minecart",
+   "zh-CN": "发条矿车",
+   "ja": "クロックワークトロッコ",
+   "zh-TW": "發條礦車"
+  }
+ },
+ {
+  "slug": "nutkin",
+  "en": "nutkin",
+  "n": {
+   "en": "nutkin",
+   "zh-CN": "食果花鼠",
+   "ja": "ナッツイーター",
+   "zh-TW": "食果花鼠"
+  }
+ },
+ {
+  "slug": "wind-up-minfilia",
+  "en": "wind-up Minfilia",
+  "n": {
+   "en": "wind-up Minfilia",
+   "zh-CN": "迷你敏菲利亚",
+   "ja": "マメット・ミンフィリア",
+   "zh-TW": "迷你敏菲利亞"
+  }
+ },
+ {
+  "slug": "wind-up-thancred",
+  "en": "wind-up Thancred",
+  "n": {
+   "en": "wind-up Thancred",
+   "zh-CN": "迷你桑克瑞德",
+   "ja": "マメット・サンクレッド",
+   "zh-TW": "迷你桑克瑞德"
+  }
+ },
+ {
+  "slug": "model-magitek-bit",
+  "en": "model magitek bit",
+  "n": {
+   "en": "model magitek bit",
+   "zh-CN": "自律型魔导浮游炮",
+   "ja": "魔導ビット自律型",
+   "zh-TW": "自律型魔導浮游炮"
+  }
+ },
+ {
+  "slug": "puff-of-darkness",
+  "en": "puff of Darkness",
+  "n": {
+   "en": "puff of Darkness",
+   "zh-CN": "暗淡之云",
+   "ja": "薄闇の雲",
+   "zh-TW": "暗淡之雲"
+  }
+ },
+ {
+  "slug": "naughty-nanka",
+  "en": "naughty nanka",
+  "n": {
+   "en": "naughty nanka",
+   "zh-CN": "淘气南加",
+   "ja": "タイニーナンカ",
+   "zh-TW": "淘氣南加"
+  }
+ },
+ {
+  "slug": "panda-cub",
+  "en": "panda cub",
+  "n": {
+   "en": "panda cub",
+   "zh-CN": "熊猫宝宝",
+   "ja": "マメット・パンダ",
+   "zh-TW": "熊貓寶寶"
+  }
+ },
+ {
+  "slug": "wind-up-ultros",
+  "en": "wind-up Ultros",
+  "n": {
+   "en": "wind-up Ultros",
+   "zh-CN": "迷你奥尔特罗斯",
+   "ja": "マメット・オルトロス",
+   "zh-TW": "迷你奧爾特羅斯"
+  }
+ },
+ {
+  "slug": "hoary-the-snowman",
+  "en": "Hoary the Snowman",
+  "n": {
+   "en": "Hoary the Snowman",
+   "zh-CN": "雪孩子",
+   "ja": "マメット・スノーマン",
+   "zh-TW": "雪孩子"
+  }
+ },
+ {
+  "slug": "heavy-hatchling",
+  "en": "heavy hatchling",
+  "n": {
+   "en": "heavy hatchling",
+   "zh-CN": "胖儿陆行鸟",
+   "ja": "ポチャチョコボ",
+   "zh-TW": "胖兒陸行鳥"
+  }
+ },
+ {
+  "slug": "wind-up-yda",
+  "en": "wind-up Yda",
+  "n": {
+   "en": "wind-up Yda",
+   "zh-CN": "迷你伊达",
+   "ja": "マメット・イダ",
+   "zh-TW": "迷你伊達"
+  }
+ },
+ {
+  "slug": "wind-up-papalymo",
+  "en": "wind-up Papalymo",
+  "n": {
+   "en": "wind-up Papalymo",
+   "zh-CN": "迷你帕帕力莫",
+   "ja": "マメット・パパリモ",
+   "zh-TW": "迷你帕帕力莫"
+  }
+ },
+ {
+  "slug": "wind-up-urianger",
+  "en": "wind-up Urianger",
+  "n": {
+   "en": "wind-up Urianger",
+   "zh-CN": "迷你于里昂热",
+   "ja": "マメット・ウリエンジェ",
+   "zh-TW": "迷你於里昂熱"
+  }
+ },
+ {
+  "slug": "fat-cat",
+  "en": "fat cat",
+  "n": {
+   "en": "fat cat",
+   "zh-CN": "猫小胖",
+   "ja": "ファットキャット",
+   "zh-TW": "貓小胖"
+  }
+ },
+ {
+  "slug": "littlefoot",
+  "en": "Littlefoot",
+  "n": {
+   "en": "Littlefoot",
+   "zh-CN": "小脚雪人",
+   "ja": "リトルフット",
+   "zh-TW": "小腳雪人"
+  }
+ },
+ {
+  "slug": "mummy-s-little-mummy",
+  "en": "mummy's little mummy",
+  "n": {
+   "en": "mummy's little mummy",
+   "zh-CN": "小木乃伊",
+   "ja": "リトルマミー",
+   "zh-TW": "小木乃伊"
+  }
+ },
+ {
+  "slug": "model-enterprise",
+  "en": "model Enterprise",
+  "n": {
+   "en": "model Enterprise",
+   "zh-CN": "企业号模型",
+   "ja": "マメット・エンタープライズ",
+   "zh-TW": "企業號模型"
+  }
+ },
+ {
+  "slug": "wind-up-delivery-moogle",
+  "en": "wind-up delivery moogle",
+  "n": {
+   "en": "wind-up delivery moogle",
+   "zh-CN": "邮差莫古力娃娃",
+   "ja": "マメット・レターモーグリ",
+   "zh-TW": "郵差莫古力娃娃"
+  }
+ },
+ {
+  "slug": "assassin-fry",
+  "en": "assassin fry",
+  "n": {
+   "en": "assassin fry",
+   "zh-CN": "暗斗鱼苗",
+   "ja": "アサシンフライ",
+   "zh-TW": "暗鬥魚苗"
+  }
+ },
+ {
+  "slug": "demon-box",
+  "en": "demon box",
+  "n": {
+   "en": "demon box",
+   "zh-CN": "祝福礼盒",
+   "ja": "プレゼンター",
+   "zh-TW": "祝福禮盒"
+  }
+ },
+ {
+  "slug": "water-imp",
+  "en": "water imp",
+  "n": {
+   "en": "water imp",
+   "zh-CN": "河童童",
+   "ja": "カッパッパ",
+   "zh-TW": "河童童"
+  }
+ },
+ {
+  "slug": "wind-up-louisoix",
+  "en": "wind-up Louisoix",
+  "n": {
+   "en": "wind-up Louisoix",
+   "zh-CN": "迷你路易索瓦",
+   "ja": "マメット・ルイゾワ",
+   "zh-TW": "迷你路易索瓦"
+  }
+ },
+ {
+  "slug": "midgardsormr",
+  "en": "Midgardsormr",
+  "n": {
+   "en": "Midgardsormr",
+   "zh-CN": "尘世幻龙",
+   "ja": "ミドガルズオルム",
+   "zh-TW": "塵世幻龍"
+  }
+ },
+ {
+  "slug": "doman-magpie",
+  "en": "Doman magpie",
+  "n": {
+   "en": "Doman magpie",
+   "zh-CN": "喜鹊儿",
+   "ja": "ピカピカ",
+   "zh-TW": "喜鵲兒"
+  }
+ },
+ {
+  "slug": "enkidu",
+  "en": "Enkidu",
+  "n": {
+   "en": "Enkidu",
+   "zh-CN": "恩奇都",
+   "ja": "エンキドゥ",
+   "zh-TW": "恩奇都"
+  }
+ },
+ {
+  "slug": "wind-up-violet",
+  "en": "wind-up Violet",
+  "n": {
+   "en": "wind-up Violet",
+   "zh-CN": "紫妖精娃娃",
+   "ja": "マメット・バイオレット",
+   "zh-TW": "紫妖精娃娃"
+  }
+ },
+ {
+  "slug": "wind-up-founder",
+  "en": "wind-up founder",
+  "n": {
+   "en": "wind-up founder",
+   "zh-CN": "开创者人偶",
+   "ja": "マメット・ファウンダー",
+   "zh-TW": "開創者人偶"
+  }
+ },
+ {
+  "slug": "wind-up-dezul-qualan",
+  "en": "wind-up Dezul Qualan",
+  "n": {
+   "en": "wind-up Dezul Qualan",
+   "zh-CN": "小小迪兹尔",
+   "ja": "マメット・デズル",
+   "zh-TW": "小小迪茲爾"
+  }
+ },
+ {
+  "slug": "wind-up-kobolder",
+  "en": "wind-up kobolder",
+  "n": {
+   "en": "wind-up kobolder",
+   "zh-CN": "地灵2号娃娃",
+   "ja": "マメット・コボルド2号",
+   "zh-TW": "地靈2號娃娃"
+  }
+ },
+ {
+  "slug": "wind-up-sea-devil",
+  "en": "wind-up Sea Devil",
+  "n": {
+   "en": "wind-up Sea Devil",
+   "zh-CN": "迷你海魔",
+   "ja": "マメット・シーデビル",
+   "zh-TW": "迷你海魔"
+  }
+ },
+ {
+  "slug": "chocobo-chick-courier",
+  "en": "chocobo chick courier",
+  "n": {
+   "en": "chocobo chick courier",
+   "zh-CN": "黑巧儿信差",
+   "ja": "黒チョコチョコボ・フライヤー",
+   "zh-TW": "黑巧兒信差"
+  }
+ },
+ {
+  "slug": "wind-up-kain",
+  "en": "wind-up Kain",
+  "n": {
+   "en": "wind-up Kain",
+   "zh-CN": "迷你凯因",
+   "ja": "マメット・カイン",
+   "zh-TW": "迷你凱因"
+  }
+ },
+ {
+  "slug": "wind-up-alphinaud",
+  "en": "wind-up Alphinaud",
+  "n": {
+   "en": "wind-up Alphinaud",
+   "zh-CN": "迷你阿尔菲诺",
+   "ja": "マメット・アルフィノ",
+   "zh-TW": "迷你阿爾菲諾"
+  }
+ },
+ {
+  "slug": "wind-up-alisaie",
+  "en": "wind-up Alisaie",
+  "n": {
+   "en": "wind-up Alisaie",
+   "zh-CN": "迷你阿莉塞",
+   "ja": "マメット・アリゼー",
+   "zh-TW": "迷你阿莉塞"
+  }
+ },
+ {
+  "slug": "wind-up-tataru",
+  "en": "wind-up Tataru",
+  "n": {
+   "en": "wind-up Tataru",
+   "zh-CN": "迷你塔塔露",
+   "ja": "マメット・タタル",
+   "zh-TW": "迷你塔塔露"
+  }
+ },
+ {
+  "slug": "wind-up-cid",
+  "en": "wind-up Cid",
+  "n": {
+   "en": "wind-up Cid",
+   "zh-CN": "迷你西德",
+   "ja": "マメット・シド",
+   "zh-TW": "迷你西德"
+  }
+ },
+ {
+  "slug": "unicolt",
+  "en": "unicolt",
+  "n": {
+   "en": "unicolt",
+   "zh-CN": "独角幼兽",
+   "ja": "ユニコルト",
+   "zh-TW": "獨角幼獸"
+  }
+ },
+ {
+  "slug": "wind-up-gundu-warrior",
+  "en": "wind-up Gundu warrior",
+  "n": {
+   "en": "wind-up Gundu warrior",
+   "zh-CN": "衮杜玩偶",
+   "ja": "マメット・グンド",
+   "zh-TW": "袞杜玩偶"
+  }
+ },
+ {
+  "slug": "atrophied-atomos",
+  "en": "atrophied Atomos",
+  "n": {
+   "en": "atrophied Atomos",
+   "zh-CN": "小小阿托莫斯",
+   "ja": "ミニマムアトモス",
+   "zh-TW": "小小阿託莫斯"
+  }
+ },
+ {
+  "slug": "owlet",
+  "en": "owlet",
+  "n": {
+   "en": "owlet",
+   "zh-CN": "猫头小鹰",
+   "ja": "オウレット",
+   "zh-TW": "貓頭小鷹"
+  }
+ },
+ {
+  "slug": "ugly-duckling",
+  "en": "ugly duckling",
+  "n": {
+   "en": "ugly duckling",
+   "zh-CN": "丑小鸭",
+   "ja": "アグリー・ダックリング",
+   "zh-TW": "醜小鴨"
+  }
+ },
+ {
+  "slug": "gaelikitten",
+  "en": "gaelikitten",
+  "n": {
+   "en": "gaelikitten",
+   "zh-CN": "风筝小猫",
+   "ja": "ゲイラキトン",
+   "zh-TW": "風箏小貓"
+  }
+ },
+ {
+  "slug": "clockwork-barrow",
+  "en": "clockwork barrow",
+  "n": {
+   "en": "clockwork barrow",
+   "zh-CN": "发条推车",
+   "ja": "クロックワークカート",
+   "zh-TW": "發條推車"
+  }
+ },
+ {
+  "slug": "lesser-panda",
+  "en": "lesser panda",
+  "n": {
+   "en": "lesser panda",
+   "zh-CN": "小熊猫",
+   "ja": "レッサーパンダ",
+   "zh-TW": "小熊貓"
+  }
+ },
+ {
+  "slug": "page-63",
+  "en": "page 63",
+  "n": {
+   "en": "page 63",
+   "zh-CN": "63页",
+   "ja": "63ページ",
+   "zh-TW": "63頁"
+  }
+ },
+ {
+  "slug": "iron-dwarf",
+  "en": "iron dwarf",
+  "n": {
+   "en": "iron dwarf",
+   "zh-CN": "铁小人",
+   "ja": "鉄小人",
+   "zh-TW": "鐵小人"
+  }
+ },
+ {
+  "slug": "griffin-hatchling",
+  "en": "griffin hatchling",
+  "n": {
+   "en": "griffin hatchling",
+   "zh-CN": "狮鹫宝宝",
+   "ja": "グリフィン・ハッチリング",
+   "zh-TW": "獅鷲寶寶"
+  }
+ },
+ {
+  "slug": "wind-up-iceheart",
+  "en": "wind-up Iceheart",
+  "n": {
+   "en": "wind-up Iceheart",
+   "zh-CN": "迷你冰之巫女",
+   "ja": "マメット・イゼル",
+   "zh-TW": "迷你冰之巫女"
+  }
+ },
+ {
+  "slug": "gestahl",
+  "en": "Gestahl",
+  "n": {
+   "en": "Gestahl",
+   "zh-CN": "格斯塔拉",
+   "ja": "ガストラ",
+   "zh-TW": "格斯塔拉"
+  }
+ },
+ {
+  "slug": "steam-powered-gobwalker-g-vii",
+  "en": "steam-powered gobwalker G-VII",
+  "n": {
+   "en": "steam-powered gobwalker G-VII",
+   "zh-CN": "7号蒸汽小战车",
+   "ja": "VII号スチームウォーカー",
+   "zh-TW": "7號蒸汽小戰車"
+  }
+ },
+ {
+  "slug": "behemoth-heir",
+  "en": "behemoth heir",
+  "n": {
+   "en": "behemoth heir",
+   "zh-CN": "皇家贝希摩斯宝宝",
+   "ja": "ロイヤルベビーモス",
+   "zh-TW": "皇家貝希摩斯寶寶"
+  }
+ },
+ {
+  "slug": "accompaniment-node",
+  "en": "accompaniment node",
+  "n": {
+   "en": "accompaniment node",
+   "zh-CN": "追踪系统",
+   "ja": "追従システム",
+   "zh-TW": "追蹤系統"
+  }
+ },
+ {
+  "slug": "wind-up-yugiri",
+  "en": "wind-up Yugiri",
+  "n": {
+   "en": "wind-up Yugiri",
+   "zh-CN": "迷你夕雾",
+   "ja": "マメット・ユウギリ",
+   "zh-TW": "迷你夕霧"
+  }
+ },
+ {
+  "slug": "peridot-carbuncle",
+  "en": "Peridot Carbuncle",
+  "n": {
+   "en": "Peridot Carbuncle",
+   "zh-CN": "橄榄宝石兽",
+   "ja": "カーバンクル・ペリドット",
+   "zh-TW": "橄欖寶石獸"
+  }
+ },
+ {
+  "slug": "heliodor-carbuncle",
+  "en": "Heliodor Carbuncle",
+  "n": {
+   "en": "Heliodor Carbuncle",
+   "zh-CN": "金绿宝石兽",
+   "ja": "カーバンクル・ヘリオドール",
+   "zh-TW": "金綠寶石獸"
+  }
+ },
+ {
+  "slug": "gold-rush-minecart",
+  "en": "gold rush minecart",
+  "n": {
+   "en": "gold rush minecart",
+   "zh-CN": "淘金热",
+   "ja": "ゴールドラッシュ",
+   "zh-TW": "淘金熱"
+  }
+ },
+ {
+  "slug": "set-of-primogs",
+  "en": "set of Primogs",
+  "n": {
+   "en": "set of Primogs",
+   "zh-CN": "萌神乐团",
+   "ja": "ザ・プライモグズ",
+   "zh-TW": "萌神樂團"
+  }
+ },
+ {
+  "slug": "wind-up-gnath",
+  "en": "wind-up Gnath",
+  "n": {
+   "en": "wind-up Gnath",
+   "zh-CN": "骨颌玩偶",
+   "ja": "マメット・グナース",
+   "zh-TW": "骨頜玩偶"
+  }
+ },
+ {
+  "slug": "paissa-brat",
+  "en": "paissa brat",
+  "n": {
+   "en": "paissa brat",
+   "zh-CN": "猴面雀儿",
+   "ja": "パイッサ・ブラット",
+   "zh-TW": "猴面雀兒"
+  }
+ },
+ {
+  "slug": "wind-up-illuminatus",
+  "en": "wind-up Illuminatus",
+  "n": {
+   "en": "wind-up Illuminatus",
+   "zh-CN": "青蓝小手",
+   "ja": "マメット・ブルーハンド",
+   "zh-TW": "青藍小手"
+  }
+ },
+ {
+  "slug": "pumpkin-butler",
+  "en": "Pumpkin Butler",
+  "n": {
+   "en": "Pumpkin Butler",
+   "zh-CN": "南瓜管家",
+   "ja": "パンプキンバトラー",
+   "zh-TW": "南瓜管家"
+  }
+ },
+ {
+  "slug": "wind-up-echidna",
+  "en": "wind-up Echidna",
+  "n": {
+   "en": "wind-up Echidna",
+   "zh-CN": "小小艾奇德娜",
+   "ja": "マメット・エキドナ",
+   "zh-TW": "小小艾奇德娜"
+  }
+ },
+ {
+  "slug": "wind-up-relm",
+  "en": "wind-up Relm",
+  "n": {
+   "en": "wind-up Relm",
+   "zh-CN": "迷你瑞姆",
+   "ja": "マメット・リルム",
+   "zh-TW": "迷你瑞姆"
+  }
+ },
+ {
+  "slug": "hunting-hawk",
+  "en": "hunting hawk",
+  "n": {
+   "en": "hunting hawk",
+   "zh-CN": "猎鹰",
+   "ja": "ハンティング・ホーク",
+   "zh-TW": "獵鷹"
+  }
+ },
+ {
+  "slug": "shalloweye",
+  "en": "shalloweye",
+  "n": {
+   "en": "shalloweye",
+   "zh-CN": "浅瞳",
+   "ja": "シャローアイ",
+   "zh-TW": "淺瞳"
+  }
+ },
+ {
+  "slug": "penguin-prince",
+  "en": "penguin prince",
+  "n": {
+   "en": "penguin prince",
+   "zh-CN": "企鹅王子",
+   "ja": "プリンスペンギン",
+   "zh-TW": "企鵝王子"
+  }
+ },
+ {
+  "slug": "clockwork-twintania",
+  "en": "clockwork Twintania",
+  "n": {
+   "en": "clockwork Twintania",
+   "zh-CN": "发条双塔尼亚",
+   "ja": "マメット・ツインタニア",
+   "zh-TW": "發條雙塔尼亞"
+  }
+ },
+ {
+  "slug": "korpokkur-kid",
+  "en": "korpokkur kid",
+  "n": {
+   "en": "korpokkur kid",
+   "zh-CN": "叶小妖妖",
+   "ja": "コロコロポックル",
+   "zh-TW": "葉小妖妖"
+  }
+ },
+ {
+  "slug": "wind-up-firion",
+  "en": "wind-up Firion",
+  "n": {
+   "en": "wind-up Firion",
+   "zh-CN": "迷你弗利奥尼尔",
+   "ja": "マメット・フリオニール",
+   "zh-TW": "迷你弗利奧尼爾"
+  }
+ },
+ {
+  "slug": "wind-up-ifrit",
+  "en": "wind-up Ifrit",
+  "n": {
+   "en": "wind-up Ifrit",
+   "zh-CN": "伊弗利特之形",
+   "ja": "マメット・イフリート",
+   "zh-TW": "伊弗利特之形"
+  }
+ },
+ {
+  "slug": "wind-up-garuda",
+  "en": "wind-up Garuda",
+  "n": {
+   "en": "wind-up Garuda",
+   "zh-CN": "迦楼罗之形",
+   "ja": "マメット・ガルーダ",
+   "zh-TW": "迦樓羅之形"
+  }
+ },
+ {
+  "slug": "wind-up-titan",
+  "en": "wind-up Titan",
+  "n": {
+   "en": "wind-up Titan",
+   "zh-CN": "泰坦之形",
+   "ja": "マメット・タイタン",
+   "zh-TW": "泰坦之形"
+  }
+ },
+ {
+  "slug": "wind-up-leviathan",
+  "en": "wind-up Leviathan",
+  "n": {
+   "en": "wind-up Leviathan",
+   "zh-CN": "利维亚桑之形",
+   "ja": "マメット・リヴァイアサン",
+   "zh-TW": "利維亞桑之形"
+  }
+ },
+ {
+  "slug": "wind-up-zundu-warrior",
+  "en": "wind-up Zundu warrior",
+  "n": {
+   "en": "wind-up Zundu warrior",
+   "zh-CN": "尊杜玩偶",
+   "ja": "マメット・ズンド",
+   "zh-TW": "尊杜玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-haurchefant",
+  "en": "wind-up Haurchefant",
+  "n": {
+   "en": "wind-up Haurchefant",
+   "zh-CN": "迷你奥尔什方",
+   "ja": "マメット・オルシュファン",
+   "zh-TW": "迷你奧爾什方"
+  }
+ },
+ {
+  "slug": "wind-up-nero-tol-scaeva",
+  "en": "wind-up Nero tol Scaeva",
+  "n": {
+   "en": "wind-up Nero tol Scaeva",
+   "zh-CN": "迷你尼禄",
+   "ja": "マメット・ネロ",
+   "zh-TW": "迷你尼祿"
+  }
+ },
+ {
+  "slug": "wind-up-vath",
+  "en": "wind-up Vath",
+  "n": {
+   "en": "wind-up Vath",
+   "zh-CN": "自由脑玩偶",
+   "ja": "マメット・ヴァス",
+   "zh-TW": "自由腦玩偶"
+  }
+ },
+ {
+  "slug": "faustlet",
+  "en": "faustlet",
+  "n": {
+   "en": "faustlet",
+   "zh-CN": "迷你浮士德",
+   "ja": "ミニファウスト",
+   "zh-TW": "迷你浮士德"
+  }
+ },
+ {
+  "slug": "dress-up-y-shtola",
+  "en": "dress-up Y'shtola",
+  "n": {
+   "en": "dress-up Y'shtola",
+   "zh-CN": "新型迷你雅·修特拉",
+   "ja": "ニュー・ヤ・シュトラ",
+   "zh-TW": "新型迷你雅·修特拉"
+  }
+ },
+ {
+  "slug": "calca",
+  "en": "Calca",
+  "n": {
+   "en": "Calca",
+   "zh-CN": "卡尔克",
+   "ja": "カルコ",
+   "zh-TW": "卡爾克"
+  }
+ },
+ {
+  "slug": "brina",
+  "en": "Brina",
+  "n": {
+   "en": "Brina",
+   "zh-CN": "布莉娜",
+   "ja": "ブリーナ",
+   "zh-TW": "布莉娜"
+  }
+ },
+ {
+  "slug": "morpho",
+  "en": "morpho",
+  "n": {
+   "en": "morpho",
+   "zh-CN": "蓝闪蝶",
+   "ja": "モルフォ",
+   "zh-TW": "藍閃蝶"
+  }
+ },
+ {
+  "slug": "poro-roggo",
+  "en": "Poro Roggo",
+  "n": {
+   "en": "Poro Roggo",
+   "zh-CN": "波罗·罗格",
+   "ja": "ポロ・ロッゴ",
+   "zh-TW": "波羅·羅格"
+  }
+ },
+ {
+  "slug": "spoony-bard",
+  "en": "spoony bard",
+  "n": {
+   "en": "spoony bard",
+   "zh-CN": "迷你吉尔伯特",
+   "ja": "マメット・ギルバート",
+   "zh-TW": "迷你吉爾伯特"
+  }
+ },
+ {
+  "slug": "fenrir-pup",
+  "en": "Fenrir pup",
+  "n": {
+   "en": "Fenrir pup",
+   "zh-CN": "芬里尔幼崽",
+   "ja": "フェンリル・パップ",
+   "zh-TW": "芬里爾幼崽"
+  }
+ },
+ {
+  "slug": "wind-up-dragonet",
+  "en": "wind-up dragonet",
+  "n": {
+   "en": "wind-up dragonet",
+   "zh-CN": "幼龙玩偶",
+   "ja": "マメット・ドラゴネット",
+   "zh-TW": "幼龍玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-ramuh",
+  "en": "wind-up Ramuh",
+  "n": {
+   "en": "wind-up Ramuh",
+   "zh-CN": "拉姆之形",
+   "ja": "マメット・ラムウ",
+   "zh-TW": "拉姆之形"
+  }
+ },
+ {
+  "slug": "wind-up-shiva",
+  "en": "wind-up Shiva",
+  "n": {
+   "en": "wind-up Shiva",
+   "zh-CN": "希瓦之形",
+   "ja": "マメット・シヴァ",
+   "zh-TW": "希瓦之形"
+  }
+ },
+ {
+  "slug": "piggy",
+  "en": "Piggy",
+  "n": {
+   "en": "Piggy",
+   "zh-CN": "波奇",
+   "ja": "ポーキー",
+   "zh-TW": "波奇"
+  }
+ },
+ {
+  "slug": "magic-bucket",
+  "en": "magic bucket",
+  "n": {
+   "en": "magic bucket",
+   "zh-CN": "魔法水桶",
+   "ja": "マジックバケツ",
+   "zh-TW": "魔法水桶"
+  }
+ },
+ {
+  "slug": "calamari",
+  "en": "calamari",
+  "n": {
+   "en": "calamari",
+   "zh-CN": "触手",
+   "ja": "ゲソ",
+   "zh-TW": "觸手"
+  }
+ },
+ {
+  "slug": "baby-brachiosaur",
+  "en": "baby brachiosaur",
+  "n": {
+   "en": "baby brachiosaur",
+   "zh-CN": "腕龙玩偶",
+   "ja": "マメット・ブラキオ",
+   "zh-TW": "腕龍玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-cheerleader",
+  "en": "wind-up cheerleader",
+  "n": {
+   "en": "wind-up cheerleader",
+   "zh-CN": "拉拉队小姑娘",
+   "ja": "マメット・チアガール",
+   "zh-TW": "拉拉隊小姑娘"
+  }
+ },
+ {
+  "slug": "wind-up-krile",
+  "en": "wind-up Krile",
+  "n": {
+   "en": "wind-up Krile",
+   "zh-CN": "迷你可露儿",
+   "ja": "マメット・クルル",
+   "zh-TW": "迷你可露兒"
+  }
+ },
+ {
+  "slug": "wind-up-aymeric",
+  "en": "wind-up Aymeric",
+  "n": {
+   "en": "wind-up Aymeric",
+   "zh-CN": "迷你艾默里克",
+   "ja": "マメット・アイメリク",
+   "zh-TW": "迷你艾默裏克"
+  }
+ },
+ {
+  "slug": "pegasus-colt",
+  "en": "pegasus colt",
+  "n": {
+   "en": "pegasus colt",
+   "zh-CN": "天马幼兽",
+   "ja": "ペガサスコルト",
+   "zh-TW": "天馬幼獸"
+  }
+ },
+ {
+  "slug": "wind-up-calofisteri",
+  "en": "wind-up Calofisteri",
+  "n": {
+   "en": "wind-up Calofisteri",
+   "zh-CN": "卡洛菲斯提莉玩偶",
+   "ja": "マメット・カロフィステリ",
+   "zh-TW": "卡洛菲斯提莉玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-sasquatch",
+  "en": "wind-up sasquatch",
+  "n": {
+   "en": "wind-up sasquatch",
+   "zh-CN": "大脚小猿",
+   "ja": "マメット・サスカッチ",
+   "zh-TW": "大腳小猿"
+  }
+ },
+ {
+  "slug": "dwarf-rabbit",
+  "en": "dwarf rabbit",
+  "n": {
+   "en": "dwarf rabbit",
+   "zh-CN": "小矮兔",
+   "ja": "ドワーフラビット",
+   "zh-TW": "小矮兔"
+  }
+ },
+ {
+  "slug": "hecteye",
+  "en": "hecteye",
+  "n": {
+   "en": "hecteye",
+   "zh-CN": "百目",
+   "ja": "ヘクトアイ",
+   "zh-TW": "百目"
+  }
+ },
+ {
+  "slug": "taoist-moogle",
+  "en": "Taoist moogle",
+  "n": {
+   "en": "Taoist moogle",
+   "zh-CN": "道士莫古力娃娃",
+   "ja": "道士モーグリ",
+   "zh-TW": "道士莫古力娃娃"
+  }
+ },
+ {
+  "slug": "jibanyan",
+  "en": "Jibanyan",
+  "n": {
+   "en": "Jibanyan",
+   "zh-CN": "地缚猫",
+   "ja": "ジバニャン",
+   "zh-TW": "地縛貓"
+  }
+ },
+ {
+  "slug": "komasan",
+  "en": "Komasan",
+  "n": {
+   "en": "Komasan",
+   "zh-CN": "小狛",
+   "ja": "コマさん",
+   "zh-TW": "小狛"
+  }
+ },
+ {
+  "slug": "whisper",
+  "en": "Whisper",
+  "n": {
+   "en": "Whisper",
+   "zh-CN": "维斯帕",
+   "ja": "ウィスパー",
+   "zh-TW": "維斯帕"
+  }
+ },
+ {
+  "slug": "blizzaria",
+  "en": "Blizzaria",
+  "n": {
+   "en": "Blizzaria",
+   "zh-CN": "吹雪公主",
+   "ja": "ふぶき姫",
+   "zh-TW": "吹雪公主"
+  }
+ },
+ {
+  "slug": "kyubi",
+  "en": "Kyubi",
+  "n": {
+   "en": "Kyubi",
+   "zh-CN": "九尾",
+   "ja": "キュウビ",
+   "zh-TW": "九尾"
+  }
+ },
+ {
+  "slug": "komajiro",
+  "en": "Komajiro",
+  "n": {
+   "en": "Komajiro",
+   "zh-CN": "狛次郎",
+   "ja": "コマじろう",
+   "zh-TW": "狛次郎"
+  }
+ },
+ {
+  "slug": "manjimutt",
+  "en": "Manjimutt",
+  "n": {
+   "en": "Manjimutt",
+   "zh-CN": "人面犬",
+   "ja": "じんめん犬",
+   "zh-TW": "人面犬"
+  }
+ },
+ {
+  "slug": "noko",
+  "en": "Noko",
+  "n": {
+   "en": "Noko",
+   "zh-CN": "野槌蛇",
+   "ja": "ツチノコ",
+   "zh-TW": "野槌蛇"
+  }
+ },
+ {
+  "slug": "venoct",
+  "en": "Venoct",
+  "n": {
+   "en": "Venoct",
+   "zh-CN": "大蛇",
+   "ja": "オロチ",
+   "zh-TW": "大蛇"
+  }
+ },
+ {
+  "slug": "shogunyan",
+  "en": "Shogunyan",
+  "n": {
+   "en": "Shogunyan",
+   "zh-CN": "武士猫",
+   "ja": "ブシニャン",
+   "zh-TW": "武士貓"
+  }
+ },
+ {
+  "slug": "hovernyan",
+  "en": "Hovernyan",
+  "n": {
+   "en": "Hovernyan",
+   "zh-CN": "浮游猫",
+   "ja": "フユニャン",
+   "zh-TW": "浮游貓"
+  }
+ },
+ {
+  "slug": "robonyan-f-type",
+  "en": "Robonyan F-type",
+  "n": {
+   "en": "Robonyan F-type",
+   "zh-CN": "机器猫F型",
+   "ja": "ロボニャンＦ型",
+   "zh-TW": "機器貓F型"
+  }
+ },
+ {
+  "slug": "usapyon",
+  "en": "USApyon",
+  "n": {
+   "en": "USApyon",
+   "zh-CN": "USA蹦",
+   "ja": "ＵＳＡピョン",
+   "zh-TW": "USA蹦"
+  }
+ },
+ {
+  "slug": "namingway",
+  "en": "Namingway",
+  "n": {
+   "en": "Namingway",
+   "zh-CN": "迷你命名威",
+   "ja": "ネミングウェイ",
+   "zh-TW": "迷你命名威"
+  }
+ },
+ {
+  "slug": "toy-alexander",
+  "en": "toy Alexander",
+  "n": {
+   "en": "toy Alexander",
+   "zh-CN": "迷你亚历山大",
+   "ja": "ミニアレキサンダー",
+   "zh-TW": "迷你亞歷山大"
+  }
+ },
+ {
+  "slug": "shaggy-shoat",
+  "en": "shaggy shoat",
+  "n": {
+   "en": "shaggy shoat",
+   "zh-CN": "疣猪小子",
+   "ja": "うり坊",
+   "zh-TW": "疣豬小子"
+  }
+ },
+ {
+  "slug": "dress-up-thancred",
+  "en": "dress-up Thancred",
+  "n": {
+   "en": "dress-up Thancred",
+   "zh-CN": "新型迷你桑克瑞德",
+   "ja": "ニュー・サンクレッド",
+   "zh-TW": "新型迷你桑克瑞德"
+  }
+ },
+ {
+  "slug": "dress-up-alisaie",
+  "en": "dress-up Alisaie",
+  "n": {
+   "en": "dress-up Alisaie",
+   "zh-CN": "新型迷你阿莉塞",
+   "ja": "ニュー・アリゼー",
+   "zh-TW": "新型迷你阿莉塞"
+  }
+ },
+ {
+  "slug": "wind-up-edda",
+  "en": "wind-up Edda",
+  "n": {
+   "en": "wind-up Edda",
+   "zh-CN": "迷你艾达",
+   "ja": "マメット・エッダ",
+   "zh-TW": "迷你艾達"
+  }
+ },
+ {
+  "slug": "wind-up-yuna",
+  "en": "wind-up Yuna",
+  "n": {
+   "en": "wind-up Yuna",
+   "zh-CN": "迷你尤娜",
+   "ja": "マメット・ユウナ",
+   "zh-TW": "迷你尤娜"
+  }
+ },
+ {
+  "slug": "wind-up-rikku",
+  "en": "wind-up Rikku",
+  "n": {
+   "en": "wind-up Rikku",
+   "zh-CN": "迷你琉克",
+   "ja": "マメット・リュック",
+   "zh-TW": "迷你琉克"
+  }
+ },
+ {
+  "slug": "wind-up-lulu",
+  "en": "wind-up Lulu",
+  "n": {
+   "en": "wind-up Lulu",
+   "zh-CN": "迷你露露",
+   "ja": "マメット・ルールー",
+   "zh-TW": "迷你露露"
+  }
+ },
+ {
+  "slug": "wind-up-moenbryda",
+  "en": "wind-up Moenbryda",
+  "n": {
+   "en": "wind-up Moenbryda",
+   "zh-CN": "迷你穆恩布瑞达",
+   "ja": "マメット・ムーンブリダ",
+   "zh-TW": "迷你穆恩布瑞達"
+  }
+ },
+ {
+  "slug": "continental-eye",
+  "en": "Continental eye",
+  "n": {
+   "en": "Continental eye",
+   "zh-CN": "大陆小眼",
+   "ja": "コンチネンタルアイ",
+   "zh-TW": "大陸小眼"
+  }
+ },
+ {
+  "slug": "bullpup",
+  "en": "bullpup",
+  "n": {
+   "en": "bullpup",
+   "zh-CN": "斗牛小犬",
+   "ja": "ブルパピー",
+   "zh-TW": "鬥牛小犬"
+  }
+ },
+ {
+  "slug": "angel-of-mercy",
+  "en": "angel of mercy",
+  "n": {
+   "en": "angel of mercy",
+   "zh-CN": "复活小天使",
+   "ja": "レイズエンジェル",
+   "zh-TW": "復活小天使"
+  }
+ },
+ {
+  "slug": "wind-up-estinien",
+  "en": "wind-up Estinien",
+  "n": {
+   "en": "wind-up Estinien",
+   "zh-CN": "迷你埃斯蒂尼安",
+   "ja": "マメット・エスティニアン",
+   "zh-TW": "迷你埃斯蒂尼安"
+  }
+ },
+ {
+  "slug": "wind-up-hraesvelgr",
+  "en": "wind-up Hraesvelgr",
+  "n": {
+   "en": "wind-up Hraesvelgr",
+   "zh-CN": "迷你赫拉斯瓦尔格",
+   "ja": "マメット・フレースヴェルグ",
+   "zh-TW": "迷你赫拉斯瓦爾格"
+  }
+ },
+ {
+  "slug": "gigi",
+  "en": "Gigi",
+  "n": {
+   "en": "Gigi",
+   "zh-CN": "吉吉",
+   "ja": "ギギ",
+   "zh-TW": "吉吉"
+  }
+ },
+ {
+  "slug": "anima",
+  "en": "anima",
+  "n": {
+   "en": "anima",
+   "zh-CN": "人造元灵",
+   "ja": "人造精霊",
+   "zh-TW": "人造元靈"
+  }
+ },
+ {
+  "slug": "wind-up-scathach",
+  "en": "wind-up Scathach",
+  "n": {
+   "en": "wind-up Scathach",
+   "zh-CN": "迷你斯卡哈",
+   "ja": "マメット・スカアハ",
+   "zh-TW": "迷你斯卡哈"
+  }
+ },
+ {
+  "slug": "wind-up-nidhogg",
+  "en": "wind-up Nidhogg",
+  "n": {
+   "en": "wind-up Nidhogg",
+   "zh-CN": "迷你尼德霍格",
+   "ja": "マメット・ニーズヘッグ",
+   "zh-TW": "迷你尼德霍格"
+  }
+ },
+ {
+  "slug": "hellpup",
+  "en": "hellpup",
+  "n": {
+   "en": "hellpup",
+   "zh-CN": "地狱小犬",
+   "ja": "ヘルパピー",
+   "zh-TW": "地獄小犬"
+  }
+ },
+ {
+  "slug": "wind-up-ohl-deeh",
+  "en": "wind-up Ohl Deeh",
+  "n": {
+   "en": "wind-up Ohl Deeh",
+   "zh-CN": "迷你奥尔·迪",
+   "ja": "マメット・オル・ディー",
+   "zh-TW": "迷你奧爾·迪"
+  }
+ },
+ {
+  "slug": "wind-up-moon",
+  "en": "wind-up moon",
+  "n": {
+   "en": "wind-up moon",
+   "zh-CN": "发条月亮",
+   "ja": "クロックワークムーン",
+   "zh-TW": "發條月亮"
+  }
+ },
+ {
+  "slug": "castaway-chocobo-chick",
+  "en": "castaway chocobo chick",
+  "n": {
+   "en": "castaway chocobo chick",
+   "zh-CN": "巧儿海陆行鸟",
+   "ja": "海チョコチョコボ",
+   "zh-TW": "巧兒海陸行鳥"
+  }
+ },
+ {
+  "slug": "wind-up-bartz",
+  "en": "wind-up Bartz",
+  "n": {
+   "en": "wind-up Bartz",
+   "zh-CN": "迷你巴兹",
+   "ja": "マメット・バッツ",
+   "zh-TW": "迷你巴茲"
+  }
+ },
+ {
+  "slug": "wind-up-red-mage",
+  "en": "wind-up red mage",
+  "n": {
+   "en": "wind-up red mage",
+   "zh-CN": "迷你赤魔法师",
+   "ja": "マメット・レッドメイジ",
+   "zh-TW": "迷你赤魔法師"
+  }
+ },
+ {
+  "slug": "faepup",
+  "en": "faepup",
+  "n": {
+   "en": "faepup",
+   "zh-CN": "妖精小犬",
+   "ja": "フェイパピー",
+   "zh-TW": "妖精小犬"
+  }
+ },
+ {
+  "slug": "odder-otter",
+  "en": "odder otter",
+  "n": {
+   "en": "odder otter",
+   "zh-CN": "獭獭",
+   "ja": "ウソウソ",
+   "zh-TW": "獺獺"
+  }
+ },
+ {
+  "slug": "fox-kit",
+  "en": "fox kit",
+  "n": {
+   "en": "fox kit",
+   "zh-CN": "小妖狐",
+   "ja": "豆妖狐",
+   "zh-TW": "小妖狐"
+  }
+ },
+ {
+  "slug": "tora-jiro",
+  "en": "Tora-jiro",
+  "n": {
+   "en": "Tora-jiro",
+   "zh-CN": "虎斑次郎",
+   "ja": "トラジロウ",
+   "zh-TW": "虎斑次郎"
+  }
+ },
+ {
+  "slug": "tiny-tatsunoko",
+  "en": "tiny tatsunoko",
+  "n": {
+   "en": "tiny tatsunoko",
+   "zh-CN": "龙之孙",
+   "ja": "タツマゴ",
+   "zh-TW": "龍之孫"
+  }
+ },
+ {
+  "slug": "bombfish",
+  "en": "bombfish",
+  "n": {
+   "en": "bombfish",
+   "zh-CN": "刺球球",
+   "ja": "ハリセンボム",
+   "zh-TW": "刺球球"
+  }
+ },
+ {
+  "slug": "bom-boko",
+  "en": "Bom Boko",
+  "n": {
+   "en": "Bom Boko",
+   "zh-CN": "分福",
+   "ja": "ブンブク",
+   "zh-TW": "分福"
+  }
+ },
+ {
+  "slug": "road-sparrow",
+  "en": "road sparrow",
+  "n": {
+   "en": "road sparrow",
+   "zh-CN": "旅雀儿",
+   "ja": "タビスズメ",
+   "zh-TW": "旅雀兒"
+  }
+ },
+ {
+  "slug": "wind-up-lyse",
+  "en": "wind-up Lyse",
+  "n": {
+   "en": "wind-up Lyse",
+   "zh-CN": "迷你莉瑟",
+   "ja": "マメット・リセ",
+   "zh-TW": "迷你莉瑟"
+  }
+ },
+ {
+  "slug": "dress-up-yugiri",
+  "en": "dress-up Yugiri",
+  "n": {
+   "en": "dress-up Yugiri",
+   "zh-CN": "新型迷你夕雾",
+   "ja": "ニュー・ユウギリ",
+   "zh-TW": "新型迷你夕霧"
+  }
+ },
+ {
+  "slug": "wind-up-gosetsu",
+  "en": "wind-up Gosetsu",
+  "n": {
+   "en": "wind-up Gosetsu",
+   "zh-CN": "迷你豪雪",
+   "ja": "マメット・ゴウセツ",
+   "zh-TW": "迷你豪雪"
+  }
+ },
+ {
+  "slug": "wind-up-yotsuyu",
+  "en": "wind-up Yotsuyu",
+  "n": {
+   "en": "wind-up Yotsuyu",
+   "zh-CN": "迷你夜露",
+   "ja": "マメット・ヨツユ",
+   "zh-TW": "迷你夜露"
+  }
+ },
+ {
+  "slug": "mock-up-grynewaht",
+  "en": "mock-up Grynewaht",
+  "n": {
+   "en": "mock-up Grynewaht",
+   "zh-CN": "迷你格林瓦特",
+   "ja": "マメット・グリーンワート",
+   "zh-TW": "迷你格林瓦特"
+  }
+ },
+ {
+  "slug": "wind-up-namazu",
+  "en": "wind-up Namazu",
+  "n": {
+   "en": "wind-up Namazu",
+   "zh-CN": "迷你鲶鱼精",
+   "ja": "マメット・ナマズオ",
+   "zh-TW": "迷你鯰魚精"
+  }
+ },
+ {
+  "slug": "ivon-coeurlfist-doll",
+  "en": "Ivon Coeurlfist doll",
+  "n": {
+   "en": "Ivon Coeurlfist doll",
+   "zh-CN": "伊沃恩玩偶",
+   "ja": "イヴォン人形",
+   "zh-TW": "伊沃恩玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-chimera",
+  "en": "wind-up chimera",
+  "n": {
+   "en": "wind-up chimera",
+   "zh-CN": "迷你奇美拉",
+   "ja": "マメットキメラ",
+   "zh-TW": "迷你奇美拉"
+  }
+ },
+ {
+  "slug": "wind-up-meateater",
+  "en": "wind-up meateater",
+  "n": {
+   "en": "wind-up meateater",
+   "zh-CN": "迷你食肉者",
+   "ja": "マメット・ミートイーター",
+   "zh-TW": "迷你食肉者"
+  }
+ },
+ {
+  "slug": "magitek-avenger-f1",
+  "en": "magitek avenger F1",
+  "n": {
+   "en": "magitek avenger F1",
+   "zh-CN": "魔导复仇者追踪型",
+   "ja": "魔導アヴェンジャー追従型",
+   "zh-TW": "魔導復仇者追蹤型"
+  }
+ },
+ {
+  "slug": "ghido",
+  "en": "Ghido",
+  "n": {
+   "en": "Ghido",
+   "zh-CN": "吉多",
+   "ja": "ギード",
+   "zh-TW": "吉多"
+  }
+ },
+ {
+  "slug": "wind-up-exdeath",
+  "en": "wind-up Exdeath",
+  "n": {
+   "en": "wind-up Exdeath",
+   "zh-CN": "迷你艾克斯迪司",
+   "ja": "マメット・エクスデス",
+   "zh-TW": "迷你艾克斯迪司"
+  }
+ },
+ {
+  "slug": "wind-up-khloe",
+  "en": "wind-up Khloe",
+  "n": {
+   "en": "wind-up Khloe",
+   "zh-CN": "迷你库洛",
+   "ja": "マメット・クロ",
+   "zh-TW": "迷你庫洛"
+  }
+ },
+ {
+  "slug": "wind-up-susano",
+  "en": "wind-up Susano",
+  "n": {
+   "en": "wind-up Susano",
+   "zh-CN": "须佐之男之形",
+   "ja": "マメット・スサノオ",
+   "zh-TW": "須佐之男之形"
+  }
+ },
+ {
+  "slug": "wind-up-lakshmi",
+  "en": "wind-up Lakshmi",
+  "n": {
+   "en": "wind-up Lakshmi",
+   "zh-CN": "吉祥天女之形",
+   "ja": "マメット・ラクシュミ",
+   "zh-TW": "吉祥天女之形"
+  }
+ },
+ {
+  "slug": "wind-up-bismarck",
+  "en": "wind-up Bismarck",
+  "n": {
+   "en": "wind-up Bismarck",
+   "zh-CN": "俾斯麦之形",
+   "ja": "マメット・ビスマルク",
+   "zh-TW": "俾斯麥之形"
+  }
+ },
+ {
+  "slug": "wind-up-hien",
+  "en": "wind-up Hien",
+  "n": {
+   "en": "wind-up Hien",
+   "zh-CN": "迷你飞燕",
+   "ja": "マメット・ヒエン",
+   "zh-TW": "迷你飛燕"
+  }
+ },
+ {
+  "slug": "wind-up-ravana",
+  "en": "wind-up Ravana",
+  "n": {
+   "en": "wind-up Ravana",
+   "zh-CN": "罗波那之形",
+   "ja": "マメット・ラーヴァナ",
+   "zh-TW": "羅波那之形"
+  }
+ },
+ {
+  "slug": "wind-up-kojin",
+  "en": "wind-up Kojin",
+  "n": {
+   "en": "wind-up Kojin",
+   "zh-CN": "甲人玩偶",
+   "ja": "マメット・コウジン",
+   "zh-TW": "甲人玩偶"
+  }
+ },
+ {
+  "slug": "mameshiba",
+  "en": "mameshiba",
+  "n": {
+   "en": "mameshiba",
+   "zh-CN": "豆豆柴",
+   "ja": "豆柴",
+   "zh-TW": "豆豆柴"
+  }
+ },
+ {
+  "slug": "tengu-doll",
+  "en": "tengu doll",
+  "n": {
+   "en": "tengu doll",
+   "zh-CN": "天狗玩偶",
+   "ja": "天狗人形",
+   "zh-TW": "天狗玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-matanga",
+  "en": "wind-up Matanga",
+  "n": {
+   "en": "wind-up Matanga",
+   "zh-CN": "象魔人偶",
+   "ja": "マメット・マタンガ",
+   "zh-TW": "象魔人偶"
+  }
+ },
+ {
+  "slug": "wind-up-ramza",
+  "en": "wind-up Ramza",
+  "n": {
+   "en": "wind-up Ramza",
+   "zh-CN": "迷你拉姆萨",
+   "ja": "マメット・ラムザ",
+   "zh-TW": "迷你拉姆薩"
+  }
+ },
+ {
+  "slug": "koala-joey",
+  "en": "koala joey",
+  "n": {
+   "en": "koala joey",
+   "zh-CN": "小树袋熊",
+   "ja": "子コアラ",
+   "zh-TW": "小樹袋熊"
+  }
+ },
+ {
+  "slug": "salt-pepper-seal",
+  "en": "salt & pepper seal",
+  "n": {
+   "en": "salt & pepper seal",
+   "zh-CN": "椒盐海豹",
+   "ja": "ゴマ塩アザラシ",
+   "zh-TW": "椒鹽海豹"
+  }
+ },
+ {
+  "slug": "axolotl-eft",
+  "en": "axolotl eft",
+  "n": {
+   "en": "axolotl eft",
+   "zh-CN": "六角小螈螈",
+   "ja": "ウーパールーパー",
+   "zh-TW": "六角小螈螈"
+  }
+ },
+ {
+  "slug": "wind-up-ixion",
+  "en": "wind-up Ixion",
+  "n": {
+   "en": "wind-up Ixion",
+   "zh-CN": "伊克西翁玩偶",
+   "ja": "マメット・イクシオン",
+   "zh-TW": "伊克西翁玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-shinryu",
+  "en": "wind-up Shinryu",
+  "n": {
+   "en": "wind-up Shinryu",
+   "zh-CN": "神龙玩偶",
+   "ja": "マメット・神龍",
+   "zh-TW": "神龍玩偶"
+  }
+ },
+ {
+  "slug": "dress-up-raubahn",
+  "en": "dress-up Raubahn",
+  "n": {
+   "en": "dress-up Raubahn",
+   "zh-CN": "新型迷你劳班",
+   "ja": "ニュー・ラウバーン",
+   "zh-TW": "新型迷你勞班"
+  }
+ },
+ {
+  "slug": "wind-up-ananta",
+  "en": "wind-up Ananta",
+  "n": {
+   "en": "wind-up Ananta",
+   "zh-CN": "阿难陀玩偶",
+   "ja": "マメット・アナンタ",
+   "zh-TW": "阿難陀玩偶"
+  }
+ },
+ {
+  "slug": "private-moai",
+  "en": "private moai",
+  "n": {
+   "en": "private moai",
+   "zh-CN": "迷你莫艾石像",
+   "ja": "ミニモアイ",
+   "zh-TW": "迷你莫艾石像"
+  }
+ },
+ {
+  "slug": "white-whittret",
+  "en": "white whittret",
+  "n": {
+   "en": "white whittret",
+   "zh-CN": "白鼬",
+   "ja": "シロイタチ",
+   "zh-TW": "白鼬"
+  }
+ },
+ {
+  "slug": "motley-egg",
+  "en": "motley egg",
+  "n": {
+   "en": "motley egg",
+   "zh-CN": "小丑预言蛋",
+   "ja": "ジョーカーエッグ",
+   "zh-TW": "小丑預言蛋"
+  }
+ },
+ {
+  "slug": "wind-up-kefka",
+  "en": "wind-up Kefka",
+  "n": {
+   "en": "wind-up Kefka",
+   "zh-CN": "迷你凯夫卡",
+   "ja": "マメット・ケフカ",
+   "zh-TW": "迷你凱夫卡"
+  }
+ },
+ {
+  "slug": "wind-up-magnai",
+  "en": "wind-up Magnai",
+  "n": {
+   "en": "wind-up Magnai",
+   "zh-CN": "迷你玛格奈",
+   "ja": "マメット・マグナイ",
+   "zh-TW": "迷你瑪格奈"
+  }
+ },
+ {
+  "slug": "aurelia-polyp",
+  "en": "aurelia polyp",
+  "n": {
+   "en": "aurelia polyp",
+   "zh-CN": "舞海月",
+   "ja": "舞海月",
+   "zh-TW": "舞海月"
+  }
+ },
+ {
+  "slug": "byakko-cub",
+  "en": "Byakko cub",
+  "n": {
+   "en": "Byakko cub",
+   "zh-CN": "白小虎",
+   "ja": "白小虎",
+   "zh-TW": "白小虎"
+  }
+ },
+ {
+  "slug": "wind-up-fafnir",
+  "en": "wind-up Fafnir",
+  "n": {
+   "en": "wind-up Fafnir",
+   "zh-CN": "迷你法夫纳",
+   "ja": "マメット・ファヴニル",
+   "zh-TW": "迷你法夫納"
+  }
+ },
+ {
+  "slug": "wind-up-mithra",
+  "en": "wind-up Mithra",
+  "n": {
+   "en": "wind-up Mithra",
+   "zh-CN": "米斯拉人偶",
+   "ja": "マメット・ミスラ",
+   "zh-TW": "米斯拉人偶"
+  }
+ },
+ {
+  "slug": "the-prince-of-anemos",
+  "en": "the Prince of Anemos",
+  "n": {
+   "en": "the Prince of Anemos",
+   "zh-CN": "常风王子",
+   "ja": "プリンス・オブ・アネモス",
+   "zh-TW": "常風王子"
+  }
+ },
+ {
+  "slug": "komainu",
+  "en": "komainu",
+  "n": {
+   "en": "komainu",
+   "zh-CN": "狛犬",
+   "ja": "狛犬",
+   "zh-TW": "狛犬"
+  }
+ },
+ {
+  "slug": "the-gold-whisker",
+  "en": "the Gold Whisker",
+  "n": {
+   "en": "the Gold Whisker",
+   "zh-CN": "金鲶",
+   "ja": "ナマキン",
+   "zh-TW": "金鯰"
+  }
+ },
+ {
+  "slug": "monkey-king",
+  "en": "monkey king",
+  "n": {
+   "en": "monkey king",
+   "zh-CN": "齐天小圣",
+   "ja": "セイテンショウセイ",
+   "zh-TW": "齊天小聖"
+  }
+ },
+ {
+  "slug": "clockwork-lantern",
+  "en": "clockwork lantern",
+  "n": {
+   "en": "clockwork lantern",
+   "zh-CN": "发条提灯",
+   "ja": "クロックワークランタン",
+   "zh-TW": "發條提燈"
+  }
+ },
+ {
+  "slug": "frilled-dragon",
+  "en": "frilled dragon",
+  "n": {
+   "en": "frilled dragon",
+   "zh-CN": "伞蜥",
+   "ja": "クラミドサウルス",
+   "zh-TW": "傘蜥"
+  }
+ },
+ {
+  "slug": "wind-up-cirina",
+  "en": "wind-up Cirina",
+  "n": {
+   "en": "wind-up Cirina",
+   "zh-CN": "迷你其日娜",
+   "ja": "マメット・シリナ",
+   "zh-TW": "迷你其日娜"
+  }
+ },
+ {
+  "slug": "wind-up-sadu",
+  "en": "wind-up Sadu",
+  "n": {
+   "en": "wind-up Sadu",
+   "zh-CN": "迷你纱都",
+   "ja": "マメット・サドゥ",
+   "zh-TW": "迷你紗都"
+  }
+ },
+ {
+  "slug": "copycat-bulb",
+  "en": "copycat bulb",
+  "n": {
+   "en": "copycat bulb",
+   "zh-CN": "凯西幼苗",
+   "ja": "キャシーバルブ",
+   "zh-TW": "凱西幼苗"
+  }
+ },
+ {
+  "slug": "wind-up-tarutaru",
+  "en": "wind-up Tarutaru",
+  "n": {
+   "en": "wind-up Tarutaru",
+   "zh-CN": "塔鲁塔鲁人偶",
+   "ja": "マメット・タルタル",
+   "zh-TW": "塔魯塔魯人偶"
+  }
+ },
+ {
+  "slug": "wind-up-tsukuyomi",
+  "en": "wind-up Tsukuyomi",
+  "n": {
+   "en": "wind-up Tsukuyomi",
+   "zh-CN": "月读之形",
+   "ja": "マメット・ツクヨミ",
+   "zh-TW": "月讀之形"
+  }
+ },
+ {
+  "slug": "wind-up-zhloe",
+  "en": "wind-up Zhloe",
+  "n": {
+   "en": "wind-up Zhloe",
+   "zh-CN": "迷你熙洛",
+   "ja": "マメット・シロ",
+   "zh-TW": "迷你熙洛"
+  }
+ },
+ {
+  "slug": "construct-8",
+  "en": "Construct 8",
+  "n": {
+   "en": "Construct 8",
+   "zh-CN": "劳动八号",
+   "ja": "労働八号",
+   "zh-TW": "勞動八號"
+  }
+ },
+ {
+  "slug": "palico",
+  "en": "Palico",
+  "n": {
+   "en": "Palico",
+   "zh-CN": "艾露猫",
+   "ja": "アイルー",
+   "zh-TW": "艾露貓"
+  }
+ },
+ {
+  "slug": "poogie",
+  "en": "Poogie",
+  "n": {
+   "en": "Poogie",
+   "zh-CN": "噗吱猪",
+   "ja": "プーギー",
+   "zh-TW": "噗吱豬"
+  }
+ },
+ {
+  "slug": "attendee-777",
+  "en": "attendee #777",
+  "n": {
+   "en": "attendee #777",
+   "zh-CN": "祭礼鲶鱼精",
+   "ja": "祭ナマズオ",
+   "zh-TW": "祭禮鯰魚精"
+  }
+ },
+ {
+  "slug": "scarlet-peacock",
+  "en": "scarlet peacock",
+  "n": {
+   "en": "scarlet peacock",
+   "zh-CN": "朱孔雀",
+   "ja": "朱孔雀",
+   "zh-TW": "朱孔雀"
+  }
+ },
+ {
+  "slug": "wind-up-alpha",
+  "en": "wind-up Alpha",
+  "n": {
+   "en": "wind-up Alpha",
+   "zh-CN": "迷你阿尔法",
+   "ja": "マメット・アルファ",
+   "zh-TW": "迷你阿爾法"
+  }
+ },
+ {
+  "slug": "omg",
+  "en": "OMG",
+  "n": {
+   "en": "OMG",
+   "zh-CN": "迷你欧米茄",
+   "ja": "プチオメガ",
+   "zh-TW": "迷你歐米茄"
+  }
+ },
+ {
+  "slug": "wind-up-g-raha-tia",
+  "en": "wind-up G'raha Tia",
+  "n": {
+   "en": "wind-up G'raha Tia",
+   "zh-CN": "迷你古·拉哈",
+   "ja": "マメット・グ・ラハ",
+   "zh-TW": "迷你古·拉哈"
+  }
+ },
+ {
+  "slug": "little-yin",
+  "en": "Little Yin",
+  "n": {
+   "en": "Little Yin",
+   "zh-CN": "阴小幽",
+   "ja": "陰気なゴースト人形",
+   "zh-TW": "陰小幽"
+  }
+ },
+ {
+  "slug": "little-yang",
+  "en": "Little Yang",
+  "n": {
+   "en": "Little Yang",
+   "zh-CN": "阳小灵",
+   "ja": "陽気なゴースト人形",
+   "zh-TW": "陽小靈"
+  }
+ },
+ {
+  "slug": "wind-up-cloud",
+  "en": "wind-up Cloud",
+  "n": {
+   "en": "wind-up Cloud",
+   "zh-CN": "迷你克劳德",
+   "ja": "マメット・クラウド",
+   "zh-TW": "迷你克勞德"
+  }
+ },
+ {
+  "slug": "wind-up-aerith",
+  "en": "wind-up Aerith",
+  "n": {
+   "en": "wind-up Aerith",
+   "zh-CN": "迷你爱丽丝",
+   "ja": "マメット・エアリス",
+   "zh-TW": "迷你愛麗絲"
+  }
+ },
+ {
+  "slug": "wind-up-tifa",
+  "en": "wind-up Tifa",
+  "n": {
+   "en": "wind-up Tifa",
+   "zh-CN": "迷你蒂法",
+   "ja": "マメット・ティファ",
+   "zh-TW": "迷你蒂法"
+  }
+ },
+ {
+  "slug": "mudpie",
+  "en": "mudpie",
+  "n": {
+   "en": "mudpie",
+   "zh-CN": "泥小点",
+   "ja": "ドロップチ",
+   "zh-TW": "泥小點"
+  }
+ },
+ {
+  "slug": "bridesmoogle",
+  "en": "bridesmoogle",
+  "n": {
+   "en": "bridesmoogle",
+   "zh-CN": "花篮莫古力",
+   "ja": "ブーケモーグリ",
+   "zh-TW": "花籃莫古力"
+  }
+ },
+ {
+  "slug": "wind-up-elvaan",
+  "en": "wind-up Elvaan",
+  "n": {
+   "en": "wind-up Elvaan",
+   "zh-CN": "艾尔凡人偶",
+   "ja": "マメット・エルヴァーン",
+   "zh-TW": "艾爾凡人偶"
+  }
+ },
+ {
+  "slug": "dhalmel-calf",
+  "en": "dhalmel calf",
+  "n": {
+   "en": "dhalmel calf",
+   "zh-CN": "小长颈驼",
+   "ja": "ダルメル・カフ",
+   "zh-TW": "小長頸駝"
+  }
+ },
+ {
+  "slug": "capybara-pup",
+  "en": "capybara pup",
+  "n": {
+   "en": "capybara pup",
+   "zh-CN": "水豚幼崽",
+   "ja": "カピバラ・パップ",
+   "zh-TW": "水豚幼崽"
+  }
+ },
+ {
+  "slug": "baby-gremlin",
+  "en": "baby gremlin",
+  "n": {
+   "en": "baby gremlin",
+   "zh-CN": "格雷姆林宝宝",
+   "ja": "ベイビーグレムリン",
+   "zh-TW": "格雷姆林寶寶"
+  }
+ },
+ {
+  "slug": "conditional-virtue",
+  "en": "Conditional Virtue",
+  "n": {
+   "en": "Conditional Virtue",
+   "zh-CN": "有限的美德",
+   "ja": "プチヴァーチュー",
+   "zh-TW": "有限的美德"
+  }
+ },
+ {
+  "slug": "yukinko-snowflake",
+  "en": "yukinko snowflake",
+  "n": {
+   "en": "yukinko snowflake",
+   "zh-CN": "小雪童子",
+   "ja": "コユキンコ",
+   "zh-TW": "小雪童子"
+  }
+ },
+ {
+  "slug": "dress-up-tataru",
+  "en": "dress-up Tataru",
+  "n": {
+   "en": "dress-up Tataru",
+   "zh-CN": "新型迷你塔塔露",
+   "ja": "ニュー・タタル",
+   "zh-TW": "新型迷你塔塔露"
+  }
+ },
+ {
+  "slug": "wind-up-weapon",
+  "en": "wind-up weapon",
+  "n": {
+   "en": "wind-up weapon",
+   "zh-CN": "迷你武装重甲",
+   "ja": "アームドミニオン",
+   "zh-TW": "迷你武裝重甲"
+  }
+ },
+ {
+  "slug": "wind-up-qalyana",
+  "en": "wind-up Qalyana",
+  "n": {
+   "en": "wind-up Qalyana",
+   "zh-CN": "伽黎亚玩偶",
+   "ja": "マメット・カリヤナ",
+   "zh-TW": "伽黎亞玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-redback",
+  "en": "wind-up Redback",
+  "n": {
+   "en": "wind-up Redback",
+   "zh-CN": "红甲玩偶",
+   "ja": "マメット・ベニコウラ",
+   "zh-TW": "紅甲玩偶"
+  }
+ },
+ {
+  "slug": "minitek-conveyor",
+  "en": "minitek conveyor",
+  "n": {
+   "en": "minitek conveyor",
+   "zh-CN": "玩偶运输机",
+   "ja": "マメット・キャリアー",
+   "zh-TW": "玩偶運輸機"
+  }
+ },
+ {
+  "slug": "wind-up-fran",
+  "en": "wind-up Fran",
+  "n": {
+   "en": "wind-up Fran",
+   "zh-CN": "迷你芙兰",
+   "ja": "マメット・フラン",
+   "zh-TW": "迷你芙蘭"
+  }
+ },
+ {
+  "slug": "wind-up-nu-mou",
+  "en": "wind-up Nu Mou",
+  "n": {
+   "en": "wind-up Nu Mou",
+   "zh-CN": "恩莫族人偶",
+   "ja": "マメット・ン・モゥ",
+   "zh-TW": "恩莫族人偶"
+  }
+ },
+ {
+  "slug": "seitei",
+  "en": "Seitei",
+  "n": {
+   "en": "Seitei",
+   "zh-CN": "青帝",
+   "ja": "青帝",
+   "zh-TW": "青帝"
+  }
+ },
+ {
+  "slug": "zephyrous-zabuton",
+  "en": "zephyrous zabuton",
+  "n": {
+   "en": "zephyrous zabuton",
+   "zh-CN": "绵绵坐垫",
+   "ja": "ふかふか座布団",
+   "zh-TW": "綿綿坐墊"
+  }
+ },
+ {
+  "slug": "abroader-otter",
+  "en": "abroader otter",
+  "n": {
+   "en": "abroader otter",
+   "zh-CN": "南方度假獭獭",
+   "ja": "アロハウソウソ",
+   "zh-TW": "南方度假獺獺"
+  }
+ },
+ {
+  "slug": "hedgehoglet",
+  "en": "hedgehoglet",
+  "n": {
+   "en": "hedgehoglet",
+   "zh-CN": "小刺猬",
+   "ja": "ヘッジホッグ",
+   "zh-TW": "小刺蝟"
+  }
+ },
+ {
+  "slug": "brave-new-y-shtola",
+  "en": "brave new Y'shtola",
+  "n": {
+   "en": "brave new Y'shtola",
+   "zh-CN": "迷你第一世界雅·修特拉",
+   "ja": "ファースト・ヤ・シュトラ",
+   "zh-TW": "迷你第一世界雅·修特拉"
+  }
+ },
+ {
+  "slug": "wind-up-ryne",
+  "en": "wind-up Ryne",
+  "n": {
+   "en": "wind-up Ryne",
+   "zh-CN": "迷你琳",
+   "ja": "マメット・リーン",
+   "zh-TW": "迷你琳"
+  }
+ },
+ {
+  "slug": "black-hayate",
+  "en": "black hayate",
+  "n": {
+   "en": "black hayate",
+   "zh-CN": "黑豆柴",
+   "ja": "黒柴",
+   "zh-TW": "黑豆柴"
+  }
+ },
+ {
+  "slug": "chameleon",
+  "en": "chameleon",
+  "n": {
+   "en": "chameleon",
+   "zh-CN": "变色龙",
+   "ja": "カメレオン",
+   "zh-TW": "變色龍"
+  }
+ },
+ {
+  "slug": "wind-up-fuath",
+  "en": "wind-up Fuath",
+  "n": {
+   "en": "wind-up Fuath",
+   "zh-CN": "水妖人偶",
+   "ja": "マメット・フーア",
+   "zh-TW": "水妖人偶"
+  }
+ },
+ {
+  "slug": "armadillo-bowler",
+  "en": "armadillo bowler",
+  "n": {
+   "en": "armadillo bowler",
+   "zh-CN": "小犰狳",
+   "ja": "アルマジロ・ボーラー",
+   "zh-TW": "小犰狳"
+  }
+ },
+ {
+  "slug": "the-great-serpent-of-ronka",
+  "en": "the Great Serpent of Ronka",
+  "n": {
+   "en": "the Great Serpent of Ronka",
+   "zh-CN": "隆卡的水蛇？",
+   "ja": "ロンカの水蛇？",
+   "zh-TW": "隆卡的水蛇？"
+  }
+ },
+ {
+  "slug": "micro-gigantender",
+  "en": "micro gigantender",
+  "n": {
+   "en": "micro gigantender",
+   "zh-CN": "迷你巨人掌",
+   "ja": "ミニギガテンダー",
+   "zh-TW": "迷你巨人掌"
+  }
+ },
+ {
+  "slug": "clionid-larva",
+  "en": "clionid larva",
+  "n": {
+   "en": "clionid larva",
+   "zh-CN": "小小冰海天使",
+   "ja": "クリオニッド・ラーヴァ",
+   "zh-TW": "小小冰海天使"
+  }
+ },
+ {
+  "slug": "bitty-duckbill",
+  "en": "bitty duckbill",
+  "n": {
+   "en": "bitty duckbill",
+   "zh-CN": "小鸭嘴兽",
+   "ja": "タイニーダックビル",
+   "zh-TW": "小鴨嘴獸"
+  }
+ },
+ {
+  "slug": "eden-minor",
+  "en": "Eden Minor",
+  "n": {
+   "en": "Eden Minor",
+   "zh-CN": "迷你伊甸",
+   "ja": "ミニエデン",
+   "zh-TW": "迷你伊甸"
+  }
+ },
+ {
+  "slug": "giant-beaver",
+  "en": "giant beaver",
+  "n": {
+   "en": "giant beaver",
+   "zh-CN": "大河狸",
+   "ja": "ジャイアントビーバー",
+   "zh-TW": "大河狸"
+  }
+ },
+ {
+  "slug": "wind-up-suzaku",
+  "en": "wind-up Suzaku",
+  "n": {
+   "en": "wind-up Suzaku",
+   "zh-CN": "朱雀机关人偶",
+   "ja": "からくり朱雀",
+   "zh-TW": "朱雀機關人偶"
+  }
+ },
+ {
+  "slug": "wind-up-omega-m",
+  "en": "wind-up Omega-M",
+  "n": {
+   "en": "wind-up Omega-M",
+   "zh-CN": "迷你欧米茄M",
+   "ja": "マメット・オメガM",
+   "zh-TW": "迷你歐米茄M"
+  }
+ },
+ {
+  "slug": "wind-up-omega-f",
+  "en": "wind-up Omega-F",
+  "n": {
+   "en": "wind-up Omega-F",
+   "zh-CN": "迷你欧米茄F",
+   "ja": "マメット・オメガF",
+   "zh-TW": "迷你歐米茄F"
+  }
+ },
+ {
+  "slug": "tinker-s-bell",
+  "en": "tinker's bell",
+  "n": {
+   "en": "tinker's bell",
+   "zh-CN": "叮叮摇铃",
+   "ja": "ティンカーベル",
+   "zh-TW": "叮叮搖鈴"
+  }
+ },
+ {
+  "slug": "tiny-echevore",
+  "en": "tiny echevore",
+  "n": {
+   "en": "tiny echevore",
+   "zh-CN": "石莲小猬",
+   "ja": "タイニーエケボア",
+   "zh-TW": "石蓮小蝟"
+  }
+ },
+ {
+  "slug": "sharksucker-class-insubmersible",
+  "en": "sharksucker-class insubmersible",
+  "n": {
+   "en": "sharksucker-class insubmersible",
+   "zh-CN": "鮣鱼级潜水艇",
+   "ja": "コバンザメ級潜水艦",
+   "zh-TW": "鮣魚級潛水艇"
+  }
+ },
+ {
+  "slug": "shoebill",
+  "en": "shoebill",
+  "n": {
+   "en": "shoebill",
+   "zh-CN": "鲸头鹳",
+   "ja": "ハシビロコウ",
+   "zh-TW": "鯨頭鸛"
+  }
+ },
+ {
+  "slug": "butterfly-effect",
+  "en": "butterfly effect",
+  "n": {
+   "en": "butterfly effect",
+   "zh-CN": "蝴蝶效应",
+   "ja": "バタフライエフェクト",
+   "zh-TW": "蝴蝶效應"
+  }
+ },
+ {
+  "slug": "ironfrog-ambler",
+  "en": "ironfrog ambler",
+  "n": {
+   "en": "ironfrog ambler",
+   "zh-CN": "青蛙号A",
+   "ja": "フロッガーA",
+   "zh-TW": "青蛙號A"
+  }
+ },
+ {
+  "slug": "forgiven-hate",
+  "en": "forgiven hate",
+  "n": {
+   "en": "forgiven hate",
+   "zh-CN": "得到宽恕的仇恨",
+   "ja": "フォーギヴン・ヘイト",
+   "zh-TW": "得到寬恕的仇恨"
+  }
+ },
+ {
+  "slug": "bacon-bits",
+  "en": "bacon bits",
+  "n": {
+   "en": "bacon bits",
+   "zh-CN": "猪小仙",
+   "ja": "ポークシー・ビッツ",
+   "zh-TW": "豬小仙"
+  }
+ },
+ {
+  "slug": "wind-up-pixie",
+  "en": "wind-up pixie",
+  "n": {
+   "en": "wind-up pixie",
+   "zh-CN": "仙子人偶",
+   "ja": "マメット・ピクシー",
+   "zh-TW": "仙子人偶"
+  }
+ },
+ {
+  "slug": "mystic-weapon",
+  "en": "mystic weapon",
+  "n": {
+   "en": "mystic weapon",
+   "zh-CN": "神秘兵装",
+   "ja": "ミスティックウェポン",
+   "zh-TW": "神祕兵裝"
+  }
+ },
+ {
+  "slug": "meerkat",
+  "en": "meerkat",
+  "n": {
+   "en": "meerkat",
+   "zh-CN": "狐獴",
+   "ja": "ミーアキャット",
+   "zh-TW": "狐獴"
+  }
+ },
+ {
+  "slug": "miniature-white-knight",
+  "en": "miniature white knight",
+  "n": {
+   "en": "miniature white knight",
+   "zh-CN": "白小骑士",
+   "ja": "ホワイト・ミニナイト",
+   "zh-TW": "白小騎士"
+  }
+ },
+ {
+  "slug": "cute-justice",
+  "en": "Cute Justice",
+  "n": {
+   "en": "Cute Justice",
+   "zh-CN": "极合金正义号",
+   "ja": "極合金ジャスティス",
+   "zh-TW": "極合金正義號"
+  }
+ },
+ {
+  "slug": "domakin",
+  "en": "domakin",
+  "n": {
+   "en": "domakin",
+   "zh-CN": "多玛金鱼儿",
+   "ja": "ドマキン",
+   "zh-TW": "多瑪金魚兒"
+  }
+ },
+ {
+  "slug": "dress-up-estinien",
+  "en": "dress-up Estinien",
+  "n": {
+   "en": "dress-up Estinien",
+   "zh-CN": "新型迷你埃斯蒂尼安",
+   "ja": "ニュー・エスティニアン",
+   "zh-TW": "新型迷你埃斯蒂尼安"
+  }
+ },
+ {
+  "slug": "little-leannan",
+  "en": "little leannan",
+  "n": {
+   "en": "little leannan",
+   "zh-CN": "小凉南希",
+   "ja": "プチリャナンシー",
+   "zh-TW": "小涼南希"
+  }
+ },
+ {
+  "slug": "wind-up-hobgoblin",
+  "en": "wind-up hobgoblin",
+  "n": {
+   "en": "wind-up hobgoblin",
+   "zh-CN": "大哥布林人偶",
+   "ja": "マメット・ホブゴブリン",
+   "zh-TW": "大哥布林人偶"
+  }
+ },
+ {
+  "slug": "cerberpup",
+  "en": "Cerberpup",
+  "n": {
+   "en": "Cerberpup",
+   "zh-CN": "小刻耳柏洛斯",
+   "ja": "ケルベロス・パピー",
+   "zh-TW": "小刻耳柏洛斯"
+  }
+ },
+ {
+  "slug": "pod-054",
+  "en": "pod 054",
+  "n": {
+   "en": "pod 054",
+   "zh-CN": "辅助机054",
+   "ja": "ポッド054",
+   "zh-TW": "輔助機054"
+  }
+ },
+ {
+  "slug": "pod-316",
+  "en": "pod 316",
+  "n": {
+   "en": "pod 316",
+   "zh-CN": "辅助机316",
+   "ja": "ポッド316",
+   "zh-TW": "輔助機316"
+  }
+ },
+ {
+  "slug": "sungold-talos",
+  "en": "sungold Talos",
+  "n": {
+   "en": "sungold Talos",
+   "zh-CN": "黄金塔罗斯",
+   "ja": "ゴールドタロース",
+   "zh-TW": "黃金塔羅斯"
+  }
+ },
+ {
+  "slug": "malone",
+  "en": "Malone",
+  "n": {
+   "en": "Malone",
+   "zh-CN": "马小龙",
+   "ja": "マローン",
+   "zh-TW": "馬小龍"
+  }
+ },
+ {
+  "slug": "little-leafman",
+  "en": "little leafman",
+  "n": {
+   "en": "little leafman",
+   "zh-CN": "草小人",
+   "ja": "草こびと",
+   "zh-TW": "草小人"
+  }
+ },
+ {
+  "slug": "the-behelmeted-serpent-of-ronka",
+  "en": "the Behelmeted Serpent of Ronka",
+  "n": {
+   "en": "the Behelmeted Serpent of Ronka",
+   "zh-CN": "霍啪栌的水蛇？",
+   "ja": "ホパルの水蛇？",
+   "zh-TW": "霍啪櫨的水蛇？"
+  }
+ },
+ {
+  "slug": "the-behatted-serpent-of-ronka",
+  "en": "the Behatted Serpent of Ronka",
+  "n": {
+   "en": "the Behatted Serpent of Ronka",
+   "zh-CN": "奇塔利的水蛇？",
+   "ja": "キタリの水蛇？",
+   "zh-TW": "奇塔利的水蛇？"
+  }
+ },
+ {
+  "slug": "silver-dasher",
+  "en": "silver dasher",
+  "n": {
+   "en": "silver dasher",
+   "zh-CN": "银山雀儿",
+   "ja": "シマエナガ",
+   "zh-TW": "銀山雀兒"
+  }
+ },
+ {
+  "slug": "paissa-patissier",
+  "en": "paissa patissier",
+  "n": {
+   "en": "paissa patissier",
+   "zh-CN": "烹调猴面雀儿",
+   "ja": "パイッサ・クリナリアン",
+   "zh-TW": "烹調猴面雀兒"
+  }
+ },
+ {
+  "slug": "paissa-threadpuller",
+  "en": "paissa threadpuller",
+  "n": {
+   "en": "paissa threadpuller",
+   "zh-CN": "衣匠猴面雀儿",
+   "ja": "パイッサ・ウィーバー",
+   "zh-TW": "衣匠猴面雀兒"
+  }
+ },
+ {
+  "slug": "ancient-one",
+  "en": "ancient one",
+  "n": {
+   "en": "ancient one",
+   "zh-CN": "小小古代人",
+   "ja": "古代人形",
+   "zh-TW": "小小古代人"
+  }
+ },
+ {
+  "slug": "the-major-general",
+  "en": "the Major-General",
+  "n": {
+   "en": "the Major-General",
+   "zh-CN": "鲨鱼指挥官",
+   "ja": "コマンダー・シャーク",
+   "zh-TW": "鯊魚指揮官"
+  }
+ },
+ {
+  "slug": "wind-up-dulia-chai",
+  "en": "wind-up Dulia-Chai",
+  "n": {
+   "en": "wind-up Dulia-Chai",
+   "zh-CN": "迷你杜丽雅",
+   "ja": "マメット・ドゥリア",
+   "zh-TW": "迷你杜麗雅"
+  }
+ },
+ {
+  "slug": "amaro-hatchling",
+  "en": "amaro hatchling",
+  "n": {
+   "en": "amaro hatchling",
+   "zh-CN": "阿马罗宝宝",
+   "ja": "アマロ・ハッチリング",
+   "zh-TW": "阿馬羅寶寶"
+  }
+ },
+ {
+  "slug": "laladile",
+  "en": "Laladile",
+  "n": {
+   "en": "Laladile",
+   "zh-CN": "拉拉鳄",
+   "ja": "ララダイル",
+   "zh-TW": "拉拉鱷"
+  }
+ },
+ {
+  "slug": "unlucky-rabbit",
+  "en": "unlucky rabbit",
+  "n": {
+   "en": "unlucky rabbit",
+   "zh-CN": "不幸小兔",
+   "ja": "アンラッキーラビット",
+   "zh-TW": "不幸小兔"
+  }
+ },
+ {
+  "slug": "lalinator-5-h0",
+  "en": "Lalinator 5.H0",
+  "n": {
+   "en": "Lalinator 5.H0",
+   "zh-CN": "啦哩吼矮人",
+   "ja": "ラリホードワーフ",
+   "zh-TW": "啦哩吼矮人"
+  }
+ },
+ {
+  "slug": "wind-up-mystel",
+  "en": "wind-up Mystel",
+  "n": {
+   "en": "wind-up Mystel",
+   "zh-CN": "猫秘玩偶",
+   "ja": "マメット・ミステル",
+   "zh-TW": "貓祕玩偶"
+  }
+ },
+ {
+  "slug": "wind-up-ardbert",
+  "en": "wind-up Ardbert",
+  "n": {
+   "en": "wind-up Ardbert",
+   "zh-CN": "迷你阿尔博特",
+   "ja": "マメット・アルバート",
+   "zh-TW": "迷你阿爾博特"
+  }
+ },
+ {
+  "slug": "magitek-helldiver-f1",
+  "en": "magitek helldiver F1",
+  "n": {
+   "en": "magitek helldiver F1",
+   "zh-CN": "魔导地狱潜者追踪型",
+   "ja": "魔導ヘルダイバー追従型",
+   "zh-TW": "魔導地獄潛者追蹤型"
+  }
+ },
+ {
+  "slug": "weatherproof-gaelicat",
+  "en": "weatherproof gaelicat",
+  "n": {
+   "en": "weatherproof gaelicat",
+   "zh-CN": "肥肥风筝猫",
+   "ja": "もちもちゲイラキャット",
+   "zh-TW": "肥肥風箏貓"
+  }
+ },
+ {
+  "slug": "ephemeral-necromancer",
+  "en": "ephemeral necromancer",
+  "n": {
+   "en": "ephemeral necromancer",
+   "zh-CN": "幻影亡灵法师",
+   "ja": "幻影のネクロマンサー",
+   "zh-TW": "幻影亡靈法師"
+  }
+ },
+ {
+  "slug": "allagan-melon",
+  "en": "Allagan melon",
+  "n": {
+   "en": "Allagan melon",
+   "zh-CN": "亚拉戈西瓜",
+   "ja": "アラガンメロン",
+   "zh-TW": "亞拉戈西瓜"
+  }
+ },
+ {
+  "slug": "sand-fox",
+  "en": "sand fox",
+  "n": {
+   "en": "sand fox",
+   "zh-CN": "沙狐",
+   "ja": "サンドフォックス",
+   "zh-TW": "沙狐"
+  }
+ },
+ {
+  "slug": "petit-pteranodon",
+  "en": "petit pteranodon",
+  "n": {
+   "en": "petit pteranodon",
+   "zh-CN": "无齿翼龙幼崽",
+   "ja": "プチラノドン",
+   "zh-TW": "無齒翼龍幼崽"
+  }
+ },
+ {
+  "slug": "d-insleif-f1",
+  "en": "Dáinsleif F1",
+  "n": {
+   "en": "Dáinsleif F1",
+   "zh-CN": "达因斯莱瓦追踪型",
+   "ja": "ダーインスレイヴ追従型",
+   "zh-TW": "達因斯萊瓦追蹤型"
+  }
+ },
+ {
+  "slug": "lord-enma",
+  "en": "Lord Enma",
+  "n": {
+   "en": "Lord Enma",
+   "zh-CN": "阎魔",
+   "ja": "エンマ",
+   "zh-TW": "閻魔"
+  }
+ },
+ {
+  "slug": "lord-ananta",
+  "en": "Lord Ananta",
+  "n": {
+   "en": "Lord Ananta",
+   "zh-CN": "蛇王凯拉",
+   "ja": "蛇王カイラ",
+   "zh-TW": "蛇王凱拉"
+  }
+ },
+ {
+  "slug": "zazel",
+  "en": "Zazel",
+  "n": {
+   "en": "Zazel",
+   "zh-CN": "滑头鬼",
+   "ja": "ぬらりひょん",
+   "zh-TW": "滑頭鬼"
+  }
+ },
+ {
+  "slug": "damona",
+  "en": "Damona",
+  "n": {
+   "en": "Damona",
+   "zh-CN": "百鬼公主",
+   "ja": "百鬼姫",
+   "zh-TW": "百鬼公主"
+  }
+ },
+ {
+  "slug": "2b-automaton",
+  "en": "2B automaton",
+  "n": {
+   "en": "2B automaton",
+   "zh-CN": "自走人偶2B",
+   "ja": "オートマトン２Ｂ",
+   "zh-TW": "自走人偶2B"
+  }
+ },
+ {
+  "slug": "2p-automaton",
+  "en": "2P automaton",
+  "n": {
+   "en": "2P automaton",
+   "zh-CN": "自走人偶2P",
+   "ja": "オートマトン２Ｐ",
+   "zh-TW": "自走人偶2P"
+  }
+ },
+ {
+  "slug": "much-coveted-mora",
+  "en": "much-coveted Mora",
+  "n": {
+   "en": "much-coveted Mora",
+   "zh-CN": "莫莫拉·莫拉！！！",
+   "ja": "モモラ・モラ！！！",
+   "zh-TW": "莫莫拉·莫拉！！！"
+  }
+ },
+ {
+  "slug": "syldrion-class-insubmersible",
+  "en": "Syldrion-class insubmersible",
+  "n": {
+   "en": "Syldrion-class insubmersible",
+   "zh-CN": "希尔德拉级潜水艇P型",
+   "ja": "シルドラ級潜水艦P型",
+   "zh-TW": "希爾德拉級潛水艇P型"
+  }
+ },
+ {
+  "slug": "wind-up-gaia",
+  "en": "wind-up Gaia",
+  "n": {
+   "en": "wind-up Gaia",
+   "zh-CN": "迷你盖娅",
+   "ja": "マメット・ガイア",
+   "zh-TW": "迷你蓋婭"
+  }
+ },
+ {
+  "slug": "wind-up-palom",
+  "en": "wind-up Palom",
+  "n": {
+   "en": "wind-up Palom",
+   "zh-CN": "迷你帕罗姆",
+   "ja": "マメット・パロム",
+   "zh-TW": "迷你帕羅姆"
+  }
+ },
+ {
+  "slug": "wind-up-porom",
+  "en": "wind-up Porom",
+  "n": {
+   "en": "wind-up Porom",
+   "zh-CN": "迷你普罗姆",
+   "ja": "マメット・ポロム",
+   "zh-TW": "迷你普羅姆"
+  }
+ },
+ {
+  "slug": "wind-up-edge",
+  "en": "wind-up Edge",
+  "n": {
+   "en": "wind-up Edge",
+   "zh-CN": "迷你艾吉",
+   "ja": "マメット・エッジ",
+   "zh-TW": "迷你艾吉"
+  }
+ },
+ {
+  "slug": "wind-up-rydia",
+  "en": "wind-up Rydia",
+  "n": {
+   "en": "wind-up Rydia",
+   "zh-CN": "迷你莉迪亚",
+   "ja": "マメット・リディア",
+   "zh-TW": "迷你莉迪亞"
+  }
+ },
+ {
+  "slug": "wind-up-rosa",
+  "en": "wind-up Rosa",
+  "n": {
+   "en": "wind-up Rosa",
+   "zh-CN": "迷你罗莎",
+   "ja": "マメット・ローザ",
+   "zh-TW": "迷你羅莎"
+  }
+ },
+ {
+  "slug": "save-the-princess",
+  "en": "Save the Princess",
+  "n": {
+   "en": "Save the Princess",
+   "zh-CN": "天佑公主",
+   "ja": "セイブ・ザ・プリンセス",
+   "zh-TW": "天佑公主"
+  }
+ },
+ {
+  "slug": "drippy",
+  "en": "Drippy",
+  "n": {
+   "en": "Drippy",
+   "zh-CN": "水小滴",
+   "ja": "ドリッピー",
+   "zh-TW": "水小滴"
+  }
+ },
+ {
+  "slug": "trike",
+  "en": "Trike",
+  "n": {
+   "en": "Trike",
+   "zh-CN": "三角龙龙",
+   "ja": "トライク",
+   "zh-TW": "三角龍龍"
+  }
+ },
+ {
+  "slug": "golden-beaver",
+  "en": "golden beaver",
+  "n": {
+   "en": "golden beaver",
+   "zh-CN": "黄金大河狸",
+   "ja": "ゴールデンビーバー",
+   "zh-TW": "黃金大河狸"
+  }
+ },
+ {
+  "slug": "gull",
+  "en": "gull",
+  "n": {
+   "en": "gull",
+   "zh-CN": "海小鸥",
+   "ja": "ガル",
+   "zh-TW": "海小鷗"
+  }
+ },
+ {
+  "slug": "anteater",
+  "en": "anteater",
+  "n": {
+   "en": "anteater",
+   "zh-CN": "小小食蚁兽",
+   "ja": "アントイーター",
+   "zh-TW": "小小食蟻獸"
+  }
+ },
+ {
+  "slug": "dolphin-calf",
+  "en": "dolphin calf",
+  "n": {
+   "en": "dolphin calf",
+   "zh-CN": "聪慧小海豚",
+   "ja": "ドルフィン・カフ",
+   "zh-TW": "聰慧小海豚"
+  }
+ },
+ {
+  "slug": "magitek-predator-f1",
+  "en": "magitek predator F1",
+  "n": {
+   "en": "magitek predator F1",
+   "zh-CN": "魔导猎手追踪型",
+   "ja": "魔導プレデター追従型",
+   "zh-TW": "魔導獵手追蹤型"
+  }
+ },
+ {
+  "slug": "senorita-sabotender",
+  "en": "Senorita Sabotender",
+  "n": {
+   "en": "Senorita Sabotender",
+   "zh-CN": "仙人刺女士",
+   "ja": "セニョリータ・サボテンダー",
+   "zh-TW": "仙人刺女士"
+  }
+ },
+ {
+  "slug": "benben-stone",
+  "en": "Benben stone",
+  "n": {
+   "en": "Benben stone",
+   "zh-CN": "本本石",
+   "ja": "ベンベン",
+   "zh-TW": "本本石"
+  }
+ },
+ {
+  "slug": "wanderer-s-campfire",
+  "en": "wanderer's campfire",
+  "n": {
+   "en": "wanderer's campfire",
+   "zh-CN": "浪人的篝火",
+   "ja": "放浪者の焚き火",
+   "zh-TW": "浪人的篝火"
+  }
+ },
+ {
+  "slug": "smaller-stubby",
+  "en": "smaller stubby",
+  "n": {
+   "en": "smaller stubby",
+   "zh-CN": "机械生物",
+   "ja": "機械生命体",
+   "zh-TW": "機械生物"
+  }
+ },
+ {
+  "slug": "wind-up-lyna",
+  "en": "wind-up Lyna",
+  "n": {
+   "en": "wind-up Lyna",
+   "zh-CN": "迷你莱楠",
+   "ja": "マメット・ライナ",
+   "zh-TW": "迷你萊楠"
+  }
+ },
+ {
+  "slug": "wind-up-runar",
+  "en": "wind-up Runar",
+  "n": {
+   "en": "wind-up Runar",
+   "zh-CN": "迷你鲁纳尔",
+   "ja": "マメット・ルナル",
+   "zh-TW": "迷你魯納爾"
+  }
+ },
+ {
+  "slug": "wind-up-gunnhildr",
+  "en": "wind-up Gunnhildr",
+  "n": {
+   "en": "wind-up Gunnhildr",
+   "zh-CN": "迷你贡希尔德",
+   "ja": "マメット・グンヒルド",
+   "zh-TW": "迷你貢希爾德"
+  }
+ },
+ {
+  "slug": "9s-automaton",
+  "en": "9S automaton",
+  "n": {
+   "en": "9S automaton",
+   "zh-CN": "自走人偶9S",
+   "ja": "オートマトン９Ｓ",
+   "zh-TW": "自走人偶9S"
+  }
+ },
+ {
+  "slug": "wind-up-rudy",
+  "en": "wind-up Rudy",
+  "n": {
+   "en": "wind-up Rudy",
+   "zh-CN": "鲁迪玩偶",
+   "ja": "マメット・ルディ",
+   "zh-TW": "魯迪玩偶"
+  }
+ },
+ {
+  "slug": "squirrel-emperor",
+  "en": "squirrel emperor",
+  "n": {
+   "en": "squirrel emperor",
+   "zh-CN": "幻栗斋",
+   "ja": "幻栗斎",
+   "zh-TW": "幻栗齋"
+  }
+ },
+ {
+  "slug": "flag",
+  "en": "Flag",
+  "n": {
+   "en": "Flag",
+   "zh-CN": "小旗",
+   "ja": "フラッグ",
+   "zh-TW": "小旗"
+  }
+ },
+ {
+  "slug": "wee-ea",
+  "en": "wee Ea",
+  "n": {
+   "en": "wee Ea",
+   "zh-CN": "小异亚",
+   "ja": "プチイーア",
+   "zh-TW": "小異亞"
+  }
+ },
+ {
+  "slug": "wind-up-magus-sisters",
+  "en": "wind-up Magus Sisters",
+  "n": {
+   "en": "wind-up Magus Sisters",
+   "zh-CN": "梅加斯三姐妹之形",
+   "ja": "マメット・メーガス",
+   "zh-TW": "梅加斯三姐妹之形"
+  }
+ },
+ {
+  "slug": "optimus-omicron",
+  "en": "optimus Omicron",
+  "n": {
+   "en": "optimus Omicron",
+   "zh-CN": "集成奥密克戎",
+   "ja": "オプティマス・オミクロン",
+   "zh-TW": "集成奧密克戎"
+  }
+ },
+ {
+  "slug": "wind-up-anima",
+  "en": "wind-up Anima",
+  "n": {
+   "en": "wind-up Anima",
+   "zh-CN": "阿尼玛之形",
+   "ja": "マメット・アニマ",
+   "zh-TW": "阿尼瑪之形"
+  }
+ },
+ {
+  "slug": "starbird",
+  "en": "starbird",
+  "n": {
+   "en": "starbird",
+   "zh-CN": "游星鸟",
+   "ja": "スターバード",
+   "zh-TW": "遊星鳥"
+  }
+ },
+ {
+  "slug": "nagxian-cat",
+  "en": "Nagxian cat",
+  "n": {
+   "en": "Nagxian cat",
+   "zh-CN": "纳夏猫",
+   "ja": "ナグサキャット",
+   "zh-TW": "納夏貓"
+  }
+ },
+ {
+  "slug": "brave-new-urianger",
+  "en": "brave new Urianger",
+  "n": {
+   "en": "brave new Urianger",
+   "zh-CN": "新型迷你于里昂热",
+   "ja": "ニュー・ウリエンジェ",
+   "zh-TW": "新型迷你於里昂熱"
+  }
+ },
+ {
+  "slug": "wind-up-vrtra",
+  "en": "wind-up Vrtra",
+  "n": {
+   "en": "wind-up Vrtra",
+   "zh-CN": "迷你弗栗多",
+   "ja": "マメット・ヴリトラ",
+   "zh-TW": "迷你弗栗多"
+  }
+ },
+ {
+  "slug": "hippo-calf",
+  "en": "hippo calf",
+  "n": {
+   "en": "hippo calf",
+   "zh-CN": "河马幼崽",
+   "ja": "ヒッポカフ",
+   "zh-TW": "河馬幼崽"
+  }
+ },
+ {
+  "slug": "crabe-de-la-crabe",
+  "en": "crabe de la crabe",
+  "n": {
+   "en": "crabe de la crabe",
+   "zh-CN": "蟹蟹",
+   "ja": "カニカニ",
+   "zh-TW": "蟹蟹"
+  }
+ },
+ {
+  "slug": "prince-lunatender",
+  "en": "Prince Lunatender",
+  "n": {
+   "en": "Prince Lunatender",
+   "zh-CN": "月面仙人刺王子",
+   "ja": "ルナテンダー・プリンス",
+   "zh-TW": "月面仙人刺王子"
+  }
+ },
+ {
+  "slug": "tiny-troll",
+  "en": "tiny troll",
+  "n": {
+   "en": "tiny troll",
+   "zh-CN": "小巨魔",
+   "ja": "リトルトロル",
+   "zh-TW": "小巨魔"
+  }
+ },
+ {
+  "slug": "caduceus",
+  "en": "Caduceus",
+  "n": {
+   "en": "Caduceus",
+   "zh-CN": "神杖小蛇",
+   "ja": "カドゥケウス",
+   "zh-TW": "神杖小蛇"
+  }
+ },
+ {
+  "slug": "adventure-basket",
+  "en": "adventure basket",
+  "n": {
+   "en": "adventure basket",
+   "zh-CN": "冒险者野餐篮",
+   "ja": "アドベンチャーバスケット",
+   "zh-TW": "冒險者野餐籃"
+  }
+ },
+ {
+  "slug": "golden-dhyata",
+  "en": "Golden Dhyata",
+  "n": {
+   "en": "Golden Dhyata",
+   "zh-CN": "黄金恰塔号",
+   "ja": "黄金のチャタ号",
+   "zh-TW": "黃金恰塔號"
+  }
+ },
+ {
+  "slug": "greener-gleaner",
+  "en": "greener gleaner",
+  "n": {
+   "en": "greener gleaner",
+   "zh-CN": "小草贤人",
+   "ja": "グリーングリーナー",
+   "zh-TW": "小草賢人"
+  }
+ },
+ {
+  "slug": "wind-up-grebuloff",
+  "en": "wind-up Grebuloff",
+  "n": {
+   "en": "wind-up Grebuloff",
+   "zh-CN": "格雷布洛弗玩偶",
+   "ja": "マメット・グレビュオフ",
+   "zh-TW": "格雷布洛弗玩偶"
+  }
+ },
+ {
+  "slug": "nosferatu",
+  "en": "nosferatu",
+  "n": {
+   "en": "nosferatu",
+   "zh-CN": "诺斯费拉图",
+   "ja": "ノスフェラトゥ",
+   "zh-TW": "諾斯費拉圖"
+  }
+ },
+ {
+  "slug": "wind-up-herois",
+  "en": "wind-up herois",
+  "n": {
+   "en": "wind-up herois",
+   "zh-CN": "小小守护者",
+   "ja": "マメット・ヘロイス",
+   "zh-TW": "小小守護者"
+  }
+ },
+ {
+  "slug": "wind-up-daivadipa",
+  "en": "wind-up Daivadipa",
+  "n": {
+   "en": "wind-up Daivadipa",
+   "zh-CN": "明灯天王之形",
+   "ja": "マメット・ダイヴァディーパ",
+   "zh-TW": "明燈天王之形"
+  }
+ },
+ {
+  "slug": "royal-lunatender",
+  "en": "royal lunatender",
+  "n": {
+   "en": "royal lunatender",
+   "zh-CN": "王家仙人刺",
+   "ja": "ルナテンダー・ロイヤル",
+   "zh-TW": "王家仙人刺"
+  }
+ },
+ {
+  "slug": "wind-up-arkasodara",
+  "en": "wind-up Arkasodara",
+  "n": {
+   "en": "wind-up Arkasodara",
+   "zh-CN": "悌阳象族人偶",
+   "ja": "マメット・アルカソーダラ",
+   "zh-TW": "悌陽象族人偶"
+  }
+ },
+ {
+  "slug": "wind-up-kangaroo",
+  "en": "wind-up kangaroo",
+  "n": {
+   "en": "wind-up kangaroo",
+   "zh-CN": "袋鼠玩偶",
+   "ja": "マメット・カンガルー",
+   "zh-TW": "袋鼠玩偶"
+  }
+ },
+ {
+  "slug": "protonaught",
+  "en": "protonaught",
+  "n": {
+   "en": "protonaught",
+   "zh-CN": "原型恐慌装甲",
+   "ja": "プロト・ドレッドノート",
+   "zh-TW": "原型恐慌裝甲"
+  }
+ },
+ {
+  "slug": "teacup-kapikulu",
+  "en": "teacup Kapikulu",
+  "n": {
+   "en": "teacup Kapikulu",
+   "zh-CN": "门小奴",
+   "ja": "カププクル",
+   "zh-TW": "門小奴"
+  }
+ },
+ {
+  "slug": "chewy",
+  "en": "Chewy",
+  "n": {
+   "en": "Chewy",
+   "zh-CN": "吉娃汪",
+   "ja": "チワワン",
+   "zh-TW": "吉娃汪"
+  }
+ },
+ {
+  "slug": "clockwork-novus-d",
+  "en": "clockwork Novus D",
+  "n": {
+   "en": "clockwork Novus D",
+   "zh-CN": "发条小汽车",
+   "ja": "クロックワーク・ノウスD",
+   "zh-TW": "發條小汽車"
+  }
+ },
+ {
+  "slug": "hatching-bunny",
+  "en": "hatching bunny",
+  "n": {
+   "en": "hatching bunny",
+   "zh-CN": "开心彩蛋幸福兔",
+   "ja": "ハッピーエッグバニー",
+   "zh-TW": "開心彩蛋幸福兔"
+  }
+ },
+ {
+  "slug": "wind-up-azeyma",
+  "en": "wind-up Azeyma",
+  "n": {
+   "en": "wind-up Azeyma",
+   "zh-CN": "迷你阿泽玛",
+   "ja": "マメット・アーゼマ",
+   "zh-TW": "迷你阿澤瑪"
+  }
+ },
+ {
+  "slug": "wind-up-ragnarok",
+  "en": "wind-up Ragnarok",
+  "n": {
+   "en": "wind-up Ragnarok",
+   "zh-CN": "诸神黄昏号模型",
+   "ja": "マメット・ラグナロク",
+   "zh-TW": "諸神黃昏號模型"
+  }
+ },
+ {
+  "slug": "blue-footed-booby",
+  "en": "blue-footed booby",
+  "n": {
+   "en": "blue-footed booby",
+   "zh-CN": "蓝足鲣鸟",
+   "ja": "青足のカツォ",
+   "zh-TW": "藍足鰹鳥"
+  }
+ },
+ {
+  "slug": "wind-up-pupu",
+  "en": "wind-up PuPu",
+  "n": {
+   "en": "wind-up PuPu",
+   "zh-CN": "可幽可幽玩偶",
+   "ja": "マメット・コヨコヨ",
+   "zh-TW": "可幽可幽玩偶"
+  }
+ },
+ {
+  "slug": "clockwork-solus",
+  "en": "clockwork Solus",
+  "n": {
+   "en": "clockwork Solus",
+   "zh-CN": "发条索鲁斯",
+   "ja": "クロックワーク・ソル",
+   "zh-TW": "發條索魯斯"
+  }
+ },
+ {
+  "slug": "felicitous-fuzzball",
+  "en": "Felicitous Fuzzball",
+  "n": {
+   "en": "Felicitous Fuzzball",
+   "zh-CN": "猫耳小小员",
+   "ja": "こねこみみさん",
+   "zh-TW": "貓耳小小員"
+  }
+ },
+ {
+  "slug": "lumini",
+  "en": "lumini",
+  "n": {
+   "en": "lumini",
+   "zh-CN": "迷你遗光",
+   "ja": "ミニルオン",
+   "zh-TW": "迷你遺光"
+  }
+ },
+ {
+  "slug": "clockwork-crimson-chaser",
+  "en": "clockwork crimson chaser",
+  "n": {
+   "en": "clockwork crimson chaser",
+   "zh-CN": "发条深红驱逐者",
+   "ja": "クロックワーク・レッドチェイサー",
+   "zh-TW": "發條深紅驅逐者"
+  }
+ },
+ {
+  "slug": "clockwork-cerulean-chaser",
+  "en": "clockwork cerulean chaser",
+  "n": {
+   "en": "clockwork cerulean chaser",
+   "zh-CN": "发条蔚蓝驱逐者",
+   "ja": "クロックワーク・ブルーチェイサー",
+   "zh-TW": "發條蔚藍驅逐者"
+  }
+ },
+ {
+  "slug": "wind-up-scarmiglione",
+  "en": "wind-up Scarmiglione",
+  "n": {
+   "en": "wind-up Scarmiglione",
+   "zh-CN": "迷你斯卡米留尼",
+   "ja": "マメット・スカルミリョーネ",
+   "zh-TW": "迷你斯卡米留尼"
+  }
+ },
+ {
+  "slug": "ryunosuke",
+  "en": "Ryunosuke",
+  "n": {
+   "en": "Ryunosuke",
+   "zh-CN": "辰龙巧儿陆行鸟",
+   "ja": "辰チョコチョコボ",
+   "zh-TW": "辰龍巧兒陸行鳥"
+  }
+ },
+ {
+  "slug": "pterosquirrel",
+  "en": "pterosquirrel",
+  "n": {
+   "en": "pterosquirrel",
+   "zh-CN": "鼯鼠",
+   "ja": "モモンガ",
+   "zh-TW": "鼯鼠"
+  }
+ },
+ {
+  "slug": "sponge-silkie",
+  "en": "sponge silkie",
+  "n": {
+   "en": "sponge silkie",
+   "zh-CN": "擦擦羽衣精",
+   "ja": "スポンジシルキー",
+   "zh-TW": "擦擦羽衣精"
+  }
+ },
+ {
+  "slug": "sewer-skink",
+  "en": "sewer skink",
+  "n": {
+   "en": "sewer skink",
+   "zh-CN": "水道蜥蜴",
+   "ja": "水道トカゲ",
+   "zh-TW": "水道蜥蜴"
+  }
+ },
+ {
+  "slug": "wind-up-philos",
+  "en": "wind-up philos",
+  "n": {
+   "en": "wind-up philos",
+   "zh-CN": "迷你好友",
+   "ja": "マメット・フィロス",
+   "zh-TW": "迷你好友"
+  }
+ },
+ {
+  "slug": "wind-up-erichthonios",
+  "en": "wind-up Erichthonios",
+  "n": {
+   "en": "wind-up Erichthonios",
+   "zh-CN": "迷你埃里克特翁尼亚斯",
+   "ja": "マメット・エリクトニオス",
+   "zh-TW": "迷你埃里克特翁尼亞斯"
+  }
+ },
+ {
+  "slug": "corgi",
+  "en": "corgi",
+  "n": {
+   "en": "corgi",
+   "zh-CN": "柯基犬",
+   "ja": "コーギー",
+   "zh-TW": "柯基犬"
+  }
+ },
+ {
+  "slug": "sky-blue-back",
+  "en": "sky blue back",
+  "n": {
+   "en": "sky blue back",
+   "zh-CN": "天蓝背魔鸟",
+   "ja": "スカイブルーバック",
+   "zh-TW": "天藍背魔鳥"
+  }
+ },
+ {
+  "slug": "suzusaurus",
+  "en": "suzusaurus",
+  "n": {
+   "en": "suzusaurus",
+   "zh-CN": "铃小龙",
+   "ja": "スズサウルス",
+   "zh-TW": "鈴小龍"
+  }
+ },
+ {
+  "slug": "mama-automaton",
+  "en": "Mama automaton",
+  "n": {
+   "en": "Mama automaton",
+   "zh-CN": "自走人偶妈妈",
+   "ja": "オートマトン・ママ",
+   "zh-TW": "自走人偶媽媽"
+  }
+ },
+ {
+  "slug": "wind-up-cagnazzo",
+  "en": "wind-up Cagnazzo",
+  "n": {
+   "en": "wind-up Cagnazzo",
+   "zh-CN": "迷你凯纳槽",
+   "ja": "マメット・カイナッツォ",
+   "zh-TW": "迷你凱納槽"
+  }
+ },
+ {
+  "slug": "findingway",
+  "en": "Findingway",
+  "n": {
+   "en": "Findingway",
+   "zh-CN": "探明威",
+   "ja": "ファインディングウェイ",
+   "zh-TW": "探明威"
+  }
+ },
+ {
+  "slug": "private-pachypodium",
+  "en": "private pachypodium",
+  "n": {
+   "en": "private pachypodium",
+   "zh-CN": "私用棒槌树",
+   "ja": "プライベート・パキポディウム",
+   "zh-TW": "私用棒槌樹"
+  }
+ },
+ {
+  "slug": "wind-up-halone",
+  "en": "wind-up Halone",
+  "n": {
+   "en": "wind-up Halone",
+   "zh-CN": "迷你哈罗妮",
+   "ja": "マメット・ハルオーネ",
+   "zh-TW": "迷你哈羅妮"
+  }
+ },
+ {
+  "slug": "bantam-train",
+  "en": "bantam train",
+  "n": {
+   "en": "bantam train",
+   "zh-CN": "小火车",
+   "ja": "豆列車",
+   "zh-TW": "小火車"
+  }
+ },
+ {
+  "slug": "wind-up-godbert",
+  "en": "wind-up Godbert",
+  "n": {
+   "en": "wind-up Godbert",
+   "zh-CN": "迷你戈德伯特",
+   "ja": "マメット・ゴッドベルト",
+   "zh-TW": "迷你戈德伯特"
+  }
+ },
+ {
+  "slug": "wind-up-aidoneus",
+  "en": "wind-up Aidoneus",
+  "n": {
+   "en": "wind-up Aidoneus",
+   "zh-CN": "迷你艾多纽斯",
+   "ja": "マメット・アイドネウス",
+   "zh-TW": "迷你艾多紐斯"
+  }
+ },
+ {
+  "slug": "puffin",
+  "en": "puffin",
+  "n": {
+   "en": "puffin",
+   "zh-CN": "海鹦",
+   "ja": "パフィン",
+   "zh-TW": "海鸚"
+  }
+ },
+ {
+  "slug": "mossasaurus",
+  "en": "mossasaurus",
+  "n": {
+   "en": "mossasaurus",
+   "zh-CN": "沧小龙",
+   "ja": "モサモサウルス",
+   "zh-TW": "滄小龍"
+  }
+ },
+ {
+  "slug": "okuri-chochin",
+  "en": "okuri chochin",
+  "n": {
+   "en": "okuri chochin",
+   "zh-CN": "送行提灯",
+   "ja": "オクリチョウチン",
+   "zh-TW": "送行提燈"
+  }
+ },
+ {
+  "slug": "posher-otter",
+  "en": "posher otter",
+  "n": {
+   "en": "posher otter",
+   "zh-CN": "蒸汽飞空獭獭",
+   "ja": "スチームウソウソ",
+   "zh-TW": "蒸汽飛空獺獺"
+  }
+ },
+ {
+  "slug": "rubellite-weapon",
+  "en": "Rubellite Weapon",
+  "n": {
+   "en": "Rubellite Weapon",
+   "zh-CN": "红电气石神兵",
+   "ja": "ルベライトウェポン",
+   "zh-TW": "紅電氣石神兵"
+  }
+ },
+ {
+  "slug": "chimpanzee",
+  "en": "chimpanzee",
+  "n": {
+   "en": "chimpanzee",
+   "zh-CN": "黑小猩",
+   "ja": "チンパンジー",
+   "zh-TW": "黑小猩"
+  }
+ },
+ {
+  "slug": "exciting-dynamite",
+  "en": "exciting dynamite",
+  "n": {
+   "en": "exciting dynamite",
+   "zh-CN": "惊奇炸药仔",
+   "ja": "エキサイティング・ダイナマイト",
+   "zh-TW": "驚奇炸藥仔"
+  }
+ },
+ {
+  "slug": "mikra-lyssa",
+  "en": "mikra Lyssa",
+  "n": {
+   "en": "mikra Lyssa",
+   "zh-CN": "小吕萨",
+   "ja": "ミクラ・リッサ",
+   "zh-TW": "小呂薩"
+  }
+ },
+ {
+  "slug": "shiromaru",
+  "en": "Shiromaru",
+  "n": {
+   "en": "Shiromaru",
+   "zh-CN": "忍犬白丸",
+   "ja": "忍犬シロマル",
+   "zh-TW": "忍犬白丸"
+  }
+ },
+ {
+  "slug": "wind-up-athena",
+  "en": "wind-up Athena",
+  "n": {
+   "en": "wind-up Athena",
+   "zh-CN": "迷你雅典娜",
+   "ja": "マメット・アテナ",
+   "zh-TW": "迷你雅典娜"
+  }
+ },
+ {
+  "slug": "wind-up-barbariccia",
+  "en": "wind-up Barbariccia",
+  "n": {
+   "en": "wind-up Barbariccia",
+   "zh-CN": "迷你巴尔巴莉希娅",
+   "ja": "マメット・バルバリシア",
+   "zh-TW": "迷你巴爾巴莉希婭"
+  }
+ },
+ {
+  "slug": "goggle-eyed-dogu",
+  "en": "goggle-eyed dogu",
+  "n": {
+   "en": "goggle-eyed dogu",
+   "zh-CN": "遮光器土偶",
+   "ja": "遮光器土偶",
+   "zh-TW": "遮光器土偶"
+  }
+ },
+ {
+  "slug": "kuromaru",
+  "en": "Kuromaru",
+  "n": {
+   "en": "Kuromaru",
+   "zh-CN": "忍犬黑丸",
+   "ja": "忍犬クロマル",
+   "zh-TW": "忍犬黑丸"
+  }
+ },
+ {
+  "slug": "uolosapa",
+  "en": "uolosapa",
+  "n": {
+   "en": "uolosapa",
+   "zh-CN": "乌洛萨帕",
+   "ja": "オーロサパ",
+   "zh-TW": "烏洛薩帕"
+  }
+ },
+ {
+  "slug": "the-great-white-tsuchinoko",
+  "en": "the Great White Tsuchinoko",
+  "n": {
+   "en": "the Great White Tsuchinoko",
+   "zh-CN": "东方的白色土龙？",
+   "ja": "東方の白ツチノコ？",
+   "zh-TW": "東方的白色土龍？"
+  }
+ },
+ {
+  "slug": "tourmaline-weapon",
+  "en": "Tourmaline Weapon",
+  "n": {
+   "en": "Tourmaline Weapon",
+   "zh-CN": "绿电气石神兵",
+   "ja": "トルマリンウェポン",
+   "zh-TW": "綠電氣石神兵"
+  }
+ },
+ {
+  "slug": "wind-up-oschon",
+  "en": "wind-up Oschon",
+  "n": {
+   "en": "wind-up Oschon",
+   "zh-CN": "迷你奥修昂",
+   "ja": "マメット・オシュオン",
+   "zh-TW": "迷你奧修昂"
+  }
+ },
+ {
+  "slug": "kydonia-strolls",
+  "en": "Kydonia Strolls",
+  "n": {
+   "en": "Kydonia Strolls",
+   "zh-CN": "西德尼亚丘灵",
+   "ja": "シドニア・ストロールズ",
+   "zh-TW": "西德尼亞丘靈"
+  }
+ },
+ {
+  "slug": "vicarious-vacationer",
+  "en": "vicarious vacationer",
+  "n": {
+   "en": "vicarious vacationer",
+   "zh-CN": "休假小员",
+   "ja": "おやすみくん",
+   "zh-TW": "休假小員"
+  }
+ },
+ {
+  "slug": "wind-up-golbez",
+  "en": "wind-up Golbez",
+  "n": {
+   "en": "wind-up Golbez",
+   "zh-CN": "迷你高贝扎",
+   "ja": "マメット・ゴルベーザ",
+   "zh-TW": "迷你高貝扎"
+  }
+ },
+ {
+  "slug": "torgal-pup",
+  "en": "Torgal pup",
+  "n": {
+   "en": "Torgal pup",
+   "zh-CN": "小托加尔",
+   "ja": "トルガル・パピー",
+   "zh-TW": "小託加爾"
+  }
+ },
+ {
+  "slug": "pink-bean",
+  "en": "pink Bean",
+  "n": {
+   "en": "pink Bean",
+   "zh-CN": "粉红糖豆人",
+   "ja": "ジェリービーンズ・ピンク",
+   "zh-TW": "粉紅糖豆人"
+  }
+ },
+ {
+  "slug": "pegwin",
+  "en": "Pegwin",
+  "n": {
+   "en": "Pegwin",
+   "zh-CN": "糖豆企鹅",
+   "ja": "ペグウィン",
+   "zh-TW": "糖豆企鵝"
+  }
+ },
+ {
+  "slug": "hydaelyn-idol",
+  "en": "Hydaelyn idol",
+  "n": {
+   "en": "Hydaelyn idol",
+   "zh-CN": "海德林偶像",
+   "ja": "ハイデリン・アイドル",
+   "zh-TW": "海德林偶像"
+  }
+ },
+ {
+  "slug": "zodiark-idol",
+  "en": "Zodiark idol",
+  "n": {
+   "en": "Zodiark idol",
+   "zh-CN": "佐迪亚克偶像",
+   "ja": "ゾディアーク・アイドル",
+   "zh-TW": "佐迪亞克偶像"
+  }
+ },
+ {
+  "slug": "wind-up-fourchenault",
+  "en": "wind-up Fourchenault",
+  "n": {
+   "en": "wind-up Fourchenault",
+   "zh-CN": "迷你富尔什诺",
+   "ja": "マメット・フルシュノ",
+   "zh-TW": "迷你富爾什諾"
+  }
+ },
+ {
+  "slug": "wind-up-zidane",
+  "en": "wind-up Zidane",
+  "n": {
+   "en": "wind-up Zidane",
+   "zh-CN": "迷你吉坦",
+   "ja": "マメット・ジタン",
+   "zh-TW": "迷你吉坦"
+  }
+ },
+ {
+  "slug": "wind-up-garnet",
+  "en": "wind-up Garnet",
+  "n": {
+   "en": "wind-up Garnet",
+   "zh-CN": "迷你嘉妮特",
+   "ja": "マメット・ガーネット",
+   "zh-TW": "迷你嘉妮特"
+  }
+ },
+ {
+  "slug": "repulu",
+  "en": "repulu",
+  "n": {
+   "en": "repulu",
+   "zh-CN": "雷普鲁",
+   "ja": "レプル",
+   "zh-TW": "雷普魯"
+  }
+ },
+ {
+  "slug": "petit-punutiy",
+  "en": "petit punutiy",
+  "n": {
+   "en": "petit punutiy",
+   "zh-CN": "小小海牛",
+   "ja": "プチプヌティー",
+   "zh-TW": "小小海牛"
+  }
+ },
+ {
+  "slug": "air-wheeler-m9",
+  "en": "air-wheeler M9",
+  "n": {
+   "en": "air-wheeler M9",
+   "zh-CN": "飞梭M9",
+   "ja": "エアスピナーM9",
+   "zh-TW": "飛梭M9"
+  }
+ },
+ {
+  "slug": "alpaca-cria",
+  "en": "alpaca cria",
+  "n": {
+   "en": "alpaca cria",
+   "zh-CN": "小羊驼",
+   "ja": "アルパ・カフ",
+   "zh-TW": "小羊駝"
+  }
+ },
+ {
+  "slug": "honeysuckler",
+  "en": "honeysuckler",
+  "n": {
+   "en": "honeysuckler",
+   "zh-CN": "吸蜜怪",
+   "ja": "ハニーサッカー",
+   "zh-TW": "吸蜜怪"
+  }
+ },
+ {
+  "slug": "not-so-bighorn",
+  "en": "not-so-bighorn",
+  "n": {
+   "en": "not-so-bighorn",
+   "zh-CN": "中角羊",
+   "ja": "ミドルホーン",
+   "zh-TW": "中角羊"
+  }
+ },
+ {
+  "slug": "ilyikty-i",
+  "en": "Ilyikty'i",
+  "n": {
+   "en": "Ilyikty'i",
+   "zh-CN": "伊克提",
+   "ja": "イークチ",
+   "zh-TW": "伊克提"
+  }
+ },
+ {
+  "slug": "quetzal",
+  "en": "quetzal",
+  "n": {
+   "en": "quetzal",
+   "zh-CN": "小绿鸟",
+   "ja": "グリーンバード",
+   "zh-TW": "小綠鳥"
+  }
+ },
+ {
+  "slug": "squeak-the-coyote",
+  "en": "Squeak the Coyote",
+  "n": {
+   "en": "Squeak the Coyote",
+   "zh-CN": "小巧郊狼",
+   "ja": "ショーティ・コヨーテ",
+   "zh-TW": "小巧郊狼"
+  }
+ },
+ {
+  "slug": "rororrlo-teh",
+  "en": "Rororrlo Teh",
+  "n": {
+   "en": "Rororrlo Teh",
+   "zh-CN": "洛洛洛特雪精",
+   "ja": "ロローロ・テー",
+   "zh-TW": "洛洛洛特雪精"
+  }
+ },
+ {
+  "slug": "the-cornservant",
+  "en": "the Cornservant",
+  "n": {
+   "en": "the Cornservant",
+   "zh-CN": "玉米大人",
+   "ja": "モロコシ様",
+   "zh-TW": "玉米大人"
+  }
+ },
+ {
+  "slug": "tankardtender",
+  "en": "tankardtender",
+  "n": {
+   "en": "tankardtender",
+   "zh-CN": "酒杯刺",
+   "ja": "マグテンダー",
+   "zh-TW": "酒杯刺"
+  }
+ },
+ {
+  "slug": "bluecoat-cat",
+  "en": "bluecoat cat",
+  "n": {
+   "en": "bluecoat cat",
+   "zh-CN": "蓝猫",
+   "ja": "ブルーキャット",
+   "zh-TW": "藍貓"
+  }
+ },
+ {
+  "slug": "speaking-stone",
+  "en": "speaking stone",
+  "n": {
+   "en": "speaking stone",
+   "zh-CN": "说话的石头",
+   "ja": "トーキング・ヘッド",
+   "zh-TW": "說話的石頭"
+  }
+ },
+ {
+  "slug": "wind-up-mamool-ja",
+  "en": "wind-up Mamool Ja",
+  "n": {
+   "en": "wind-up Mamool Ja",
+   "zh-CN": "辉鳞人玩偶",
+   "ja": "マメット・マムージャ",
+   "zh-TW": "輝鱗人玩偶"
+  }
+ },
+ {
+  "slug": "mischief-maker",
+  "en": "mischief maker",
+  "n": {
+   "en": "mischief maker",
+   "zh-CN": "恶作剧小丑",
+   "ja": "ドリーマー・スキャンプ",
+   "zh-TW": "惡作劇小丑"
+  }
+ },
+ {
+  "slug": "tin-sentry-t1",
+  "en": "tin sentry T1",
+  "n": {
+   "en": "tin sentry T1",
+   "zh-CN": "铁皮哨兵T1",
+   "ja": "ティンセントリーT1",
+   "zh-TW": "鐵皮哨兵T1"
+  }
+ },
+ {
+  "slug": "ambrose-the-unfinished",
+  "en": "Ambrose the Unfinished",
+  "n": {
+   "en": "Ambrose the Unfinished",
+   "zh-CN": "验证体安布罗斯",
+   "ja": "検証体アンブローズ",
+   "zh-TW": "驗證體安布羅斯"
+  }
+ },
+ {
+  "slug": "black-kitten",
+  "en": "Black Kitten",
+  "n": {
+   "en": "Black Kitten",
+   "zh-CN": "黑小猫",
+   "ja": "ブラックキトン",
+   "zh-TW": "黑小貓"
+  }
+ },
+ {
+  "slug": "brushed-up-krile",
+  "en": "brushed-up Krile",
+  "n": {
+   "en": "brushed-up Krile",
+   "zh-CN": "新型迷你可露儿",
+   "ja": "ニュー・クルル",
+   "zh-TW": "新型迷你可露兒"
+  }
+ },
+ {
+  "slug": "wind-up-zero",
+  "en": "wind-up Zero",
+  "n": {
+   "en": "wind-up Zero",
+   "zh-CN": "迷你零",
+   "ja": "マメット・ゼロ",
+   "zh-TW": "迷你零"
+  }
+ },
+ {
+  "slug": "wind-up-erenville",
+  "en": "wind-up Erenville",
+  "n": {
+   "en": "wind-up Erenville",
+   "zh-CN": "迷你埃伦维尔",
+   "ja": "マメット・エレンヴィル",
+   "zh-TW": "迷你埃倫維爾"
+  }
+ },
+ {
+  "slug": "nano-lord",
+  "en": "Nano Lord",
+  "n": {
+   "en": "Nano Lord",
+   "zh-CN": "微暗之王",
+   "ja": "Nano Lord",
+   "zh-TW": "微暗之王"
+  }
+ },
+ {
+  "slug": "uma-no-unicolt",
+  "en": "uma-no-unicolt",
+  "n": {
+   "en": "uma-no-unicolt",
+   "zh-CN": "午马独角幼兽",
+   "ja": "午のユニコルト",
+   "zh-TW": "午馬獨角幼獸"
+  }
+ },
+ {
+  "slug": "adamant-weapon",
+  "en": "Adamant Weapon",
+  "n": {
+   "en": "Adamant Weapon",
+   "zh-CN": "精金石神兵",
+   "ja": "アダマンウェポン",
+   "zh-TW": "精金石神兵"
+  }
+ },
+ {
+  "slug": "toco-toquito",
+  "en": "toco toquito",
+  "n": {
+   "en": "toco toquito",
+   "zh-CN": "小小巨嘴鸟",
+   "ja": "コトコトコ",
+   "zh-TW": "小小巨嘴鳥"
+  }
+ },
+ {
+  "slug": "shshuye",
+  "en": "shshuye",
+  "n": {
+   "en": "shshuye",
+   "zh-CN": "跃阳兔",
+   "ja": "シャシュエ",
+   "zh-TW": "躍陽兔"
+  }
+ },
+ {
+  "slug": "spinettesaurus",
+  "en": "spinettesaurus",
+  "n": {
+   "en": "spinettesaurus",
+   "zh-CN": "脊龙",
+   "ja": "スピピサウルス",
+   "zh-TW": "脊龍"
+  }
+ },
+ {
+  "slug": "wind-up-pelupelu",
+  "en": "wind-up Pelupelu",
+  "n": {
+   "en": "wind-up Pelupelu",
+   "zh-CN": "佩鲁佩鲁族玩偶",
+   "ja": "マメット・ペルペル",
+   "zh-TW": "佩魯佩魯族玩偶"
+  }
+ },
+ {
+  "slug": "tin-soldier-s3",
+  "en": "tin soldier S3",
+  "n": {
+   "en": "tin soldier S3",
+   "zh-CN": "铁皮士兵S3",
+   "ja": "ティンソルジャーS3",
+   "zh-TW": "鐵皮士兵S3"
+  }
+ },
+ {
+  "slug": "the-deathservant",
+  "en": "the Deathservant",
+  "n": {
+   "en": "the Deathservant",
+   "zh-CN": "祭品大人",
+   "ja": "イケニエ様",
+   "zh-TW": "祭品大人"
+  }
+ },
+ {
+  "slug": "wisp-of-darkness",
+  "en": "wisp of Darkness",
+  "n": {
+   "en": "wisp of Darkness",
+   "zh-CN": "薄暗之云",
+   "ja": "淡闇の雲",
+   "zh-TW": "薄暗之雲"
+  }
+ },
+ {
+  "slug": "wind-up-themis",
+  "en": "wind-up Themis",
+  "n": {
+   "en": "wind-up Themis",
+   "zh-CN": "迷你特弥斯",
+   "ja": "マメット・テミス",
+   "zh-TW": "迷你特彌斯"
+  }
+ },
+ {
+  "slug": "the-lawnblazer",
+  "en": "the Lawnblazer",
+  "n": {
+   "en": "the Lawnblazer",
+   "zh-CN": "金曦绿茵号",
+   "ja": "ローンブレイザー号",
+   "zh-TW": "金曦綠茵號"
+  }
+ },
+ {
+  "slug": "psamathe",
+  "en": "Psamathe",
+  "n": {
+   "en": "Psamathe",
+   "zh-CN": "普萨玛忒",
+   "ja": "プサマテ",
+   "zh-TW": "普薩瑪忒"
+  }
+ },
+ {
+  "slug": "naiad",
+  "en": "Naiad",
+  "n": {
+   "en": "Naiad",
+   "zh-CN": "那伊阿德",
+   "ja": "ナイアド",
+   "zh-TW": "那伊阿德"
+  }
+ },
+ {
+  "slug": "deimos",
+  "en": "Deimos",
+  "n": {
+   "en": "Deimos",
+   "zh-CN": "得摩斯",
+   "ja": "ダイモス",
+   "zh-TW": "得摩斯"
+  }
+ },
+ {
+  "slug": "boon-baboon",
+  "en": "boon baboon",
+  "n": {
+   "en": "boon baboon",
+   "zh-CN": "狒狒",
+   "ja": "マントヒヒ",
+   "zh-TW": "狒狒"
+  }
+ },
+ {
+  "slug": "clockwork-oppressor",
+  "en": "clockwork oppressor",
+  "n": {
+   "en": "clockwork oppressor",
+   "zh-CN": "发条压迫者",
+   "ja": "クロックワーク・オプレッサー",
+   "zh-TW": "發條壓迫者"
+  }
+ },
+ {
+  "slug": "ja-tiika-leafkin",
+  "en": "Ja Tiika leafkin",
+  "n": {
+   "en": "Ja Tiika leafkin",
+   "zh-CN": "加提卡小叶灵",
+   "ja": "ジャティーカ・リフキン",
+   "zh-TW": "加提卡小葉靈"
+  }
+ },
+ {
+  "slug": "wind-up-gulool-ja-ja",
+  "en": "wind-up Gulool Ja Ja",
+  "n": {
+   "en": "wind-up Gulool Ja Ja",
+   "zh-CN": "迷你古鲁加加",
+   "ja": "マメット・グルージャジャ",
+   "zh-TW": "迷你古魯加加"
+  }
+ },
+ {
+  "slug": "micro-rover",
+  "en": "micro rover",
+  "n": {
+   "en": "micro rover",
+   "zh-CN": "迷你工程小车",
+   "ja": "ミニミニローダー",
+   "zh-TW": "迷你工程小車"
+  }
+ },
+ {
+  "slug": "tipping-tortoise",
+  "en": "tipping tortoise",
+  "n": {
+   "en": "tipping tortoise",
+   "zh-CN": "零钱龟",
+   "ja": "チップトートス",
+   "zh-TW": "零錢龜"
+  }
+ },
+ {
+  "slug": "royal-hound",
+  "en": "royal hound",
+  "n": {
+   "en": "royal hound",
+   "zh-CN": "王家猎犬",
+   "ja": "ロイヤルハウンド",
+   "zh-TW": "王家獵犬"
+  }
+ },
+ {
+  "slug": "skallic-uolosapa",
+  "en": "Skallic uolosapa",
+  "n": {
+   "en": "Skallic uolosapa",
+   "zh-CN": "斯卡拉乌洛萨帕",
+   "ja": "スカラ・オーロサパ",
+   "zh-TW": "斯卡拉烏洛薩帕"
+  }
+ },
+ {
+  "slug": "seikret-fledgling",
+  "en": "Seikret fledgling",
+  "n": {
+   "en": "Seikret fledgling",
+   "zh-CN": "鹭鹰龙宝宝",
+   "ja": "ベビーセクレト",
+   "zh-TW": "鷺鷹龍寶寶"
+  }
+ },
+ {
+  "slug": "vigorwasp",
+  "en": "Vigorwasp",
+  "n": {
+   "en": "Vigorwasp",
+   "zh-CN": "回复蜜虫",
+   "ja": "回復ミツムシ",
+   "zh-TW": "回覆蜜蟲"
+  }
+ },
+ {
+  "slug": "model-suit",
+  "en": "model suit",
+  "n": {
+   "en": "model suit",
+   "zh-CN": "无力机兵",
+   "ja": "パワーレスローダー",
+   "zh-TW": "無力機兵"
+  }
+ },
+ {
+  "slug": "wind-up-yok-huy",
+  "en": "wind-up Yok Huy",
+  "n": {
+   "en": "wind-up Yok Huy",
+   "zh-CN": "尤卡巨人玩偶",
+   "ja": "マメット・ヨカフイ",
+   "zh-TW": "尤卡巨人玩偶"
+  }
+ },
+ {
+  "slug": "raven-red-gobtank",
+  "en": "raven-red gobtank",
+  "n": {
+   "en": "raven-red gobtank",
+   "zh-CN": "发条红色哥布林坦克",
+   "ja": "クロックワーク・レッドゴブリタンク",
+   "zh-TW": "發條紅色哥布林坦克"
+  }
+ },
+ {
+  "slug": "falcon-blue-gobtank",
+  "en": "falcon-blue gobtank",
+  "n": {
+   "en": "falcon-blue gobtank",
+   "zh-CN": "发条蓝色哥布林坦克",
+   "ja": "クロックワーク・ブルーゴブリタンク",
+   "zh-TW": "發條藍色哥布林坦克"
+  }
+ },
+ {
+  "slug": "wind-up-eald-narche",
+  "en": "wind-up Eald'narche",
+  "n": {
+   "en": "wind-up Eald'narche",
+   "zh-CN": "迷你埃尔德纳修",
+   "ja": "マメット・エルドナーシュ",
+   "zh-TW": "迷你埃爾德納修"
+  }
+ },
+ {
+  "slug": "rroneek-calf",
+  "en": "rroneek calf",
+  "n": {
+   "en": "rroneek calf",
+   "zh-CN": "犎牛宝宝",
+   "ja": "ベイビーロネーク",
+   "zh-TW": "犎牛寶寶"
+  }
+ },
+ {
+  "slug": "micro-crow",
+  "en": "micro crow",
+  "n": {
+   "en": "micro crow",
+   "zh-CN": "乌小鸦",
+   "ja": "タイニークロウ",
+   "zh-TW": "烏小鴉"
+  }
+ },
+ {
+  "slug": "wind-up-feo-ul",
+  "en": "wind-up Feo Ul",
+  "n": {
+   "en": "wind-up Feo Ul",
+   "zh-CN": "迷你菲奥·乌儿",
+   "ja": "マメット・フェオ＝ウル",
+   "zh-TW": "迷你菲奧·烏兒"
+  }
+ },
+ {
+  "slug": "sunray-ray",
+  "en": "sunray ray",
+  "n": {
+   "en": "sunray ray",
+   "zh-CN": "鳐鳐",
+   "ja": "エイエイ",
+   "zh-TW": "鰩鰩"
+  }
+ },
+ {
+  "slug": "mini-yan",
+  "en": "mini yan",
+  "n": {
+   "en": "mini yan",
+   "zh-CN": "小小羊",
+   "ja": "タイニーヤーン",
+   "zh-TW": "小小羊"
+  }
+ },
+ {
+  "slug": "gimme-kitten",
+  "en": "gimme kitten",
+  "n": {
+   "en": "gimme kitten",
+   "zh-CN": "索取小猫",
+   "ja": "いただきキトン",
+   "zh-TW": "索取小貓"
+  }
+ },
+ {
+  "slug": "sin-beaver",
+  "en": "sin beaver",
+  "n": {
+   "en": "sin beaver",
+   "zh-CN": "罪河狸",
+   "ja": "シンビーバー",
+   "zh-TW": "罪河狸"
+  }
+ },
+ {
+  "slug": "little-mermaid",
+  "en": "little mermaid",
+  "n": {
+   "en": "little mermaid",
+   "zh-CN": "人鱼公主",
+   "ja": "人魚姫",
+   "zh-TW": "人魚公主"
+  }
+ },
+ {
+  "slug": "magic-lamp",
+  "en": "magic lamp",
+  "n": {
+   "en": "magic lamp",
+   "zh-CN": "魔法神灯",
+   "ja": "魔法のランプ",
+   "zh-TW": "魔法神燈"
+  }
+ },
+ {
+  "slug": "droningway",
+  "en": "Droningway",
+  "n": {
+   "en": "Droningway",
+   "zh-CN": "嗡鸣威",
+   "ja": "ドローニングウェイ",
+   "zh-TW": "嗡鳴威"
+  }
+ },
+ {
+  "slug": "g-warrior-mgsd",
+  "en": "G-Warrior MGSD",
+  "n": {
+   "en": "G-Warrior MGSD",
+   "zh-CN": "究极战士G型MGSD模型",
+   "ja": "MGSD・Gウォリアー",
+   "zh-TW": "究極戰士G型MGSD模型"
+  }
+ },
+ {
+  "slug": "la-noscean-shorthair",
+  "en": "La Noscean shorthair",
+  "n": {
+   "en": "La Noscean shorthair",
+   "zh-CN": "拉诺西亚短毛猫",
+   "ja": "ラノシアンショートヘア",
+   "zh-TW": "拉諾西亞短毛貓"
+  }
+ },
+ {
+  "slug": "gallant-shepherd",
+  "en": "gallant shepherd",
+  "n": {
+   "en": "gallant shepherd",
+   "zh-CN": "勇敢牧羊犬",
+   "ja": "ブレイブ・シェパード",
+   "zh-TW": "勇敢牧羊犬"
+  }
+ },
+ {
+  "slug": "wind-up-yuffie",
+  "en": "wind-up Yuffie",
+  "n": {
+   "en": "wind-up Yuffie",
+   "zh-CN": "迷你尤菲",
+   "ja": "マメット・ユフィ",
+   "zh-TW": "迷你尤菲"
+  }
+ },
+ {
+  "slug": "wind-up-red-xiii",
+  "en": "wind-up Red XIII",
+  "n": {
+   "en": "wind-up Red XIII",
+   "zh-CN": "迷你赤红XIII",
+   "ja": "マメット・レッドXIII",
+   "zh-TW": "迷你赤紅XIII"
+  }
+ },
+ {
+  "slug": "grooving-green",
+  "en": "Grooving Green",
+  "n": {
+   "en": "Grooving Green",
+   "zh-CN": "摇摆绿光",
+   "ja": "グルーヴィングリーン",
+   "zh-TW": "搖擺綠光"
+  }
+ },
+ {
+  "slug": "mistic-condor",
+  "en": "Mistic condor",
+  "n": {
+   "en": "Mistic condor",
+   "zh-CN": "迷雾秃鹰",
+   "ja": "ミスティックコンドル",
+   "zh-TW": "迷霧禿鷹"
+  }
+ },
+ {
+  "slug": "soothing-sea-beast",
+  "en": "soothing sea-beast",
+  "n": {
+   "en": "soothing sea-beast",
+   "zh-CN": "软软的海兽",
+   "ja": "柔らかそうな海獣",
+   "zh-TW": "軟軟的海獸"
+  }
+ },
+ {
+  "slug": "senor-otter",
+  "en": "Senor Otter",
+  "n": {
+   "en": "Senor Otter",
+   "zh-CN": "獭獭先生",
+   "ja": "セニョールウソウソ",
+   "zh-TW": "獺獺先生"
+  }
+ },
+ {
+  "slug": "little-blue-viking",
+  "en": "little blue viking",
+  "n": {
+   "en": "little blue viking",
+   "zh-CN": "蓝色自走维京人偶",
+   "ja": "オートマトン・ブルーバイキング",
+   "zh-TW": "藍色自走維京人偶"
+  }
+ },
+ {
+  "slug": "little-red-viking",
+  "en": "little red viking",
+  "n": {
+   "en": "little red viking",
+   "zh-CN": "红色自走维京人偶",
+   "ja": "オートマトン・レッドバイキング",
+   "zh-TW": "紅色自走維京人偶"
+  }
+ },
+ {
+  "slug": "junior-jinbei",
+  "en": "junior jinbei",
+  "n": {
+   "en": "junior jinbei",
+   "zh-CN": "小甚平",
+   "ja": "ジンベェ",
+   "zh-TW": "小甚平"
+  }
+ },
+ {
+  "slug": "lite-loader",
+  "en": "lite-loader",
+  "n": {
+   "en": "lite-loader",
+   "zh-CN": "轮式工程小车",
+   "ja": "ホイットローダー",
+   "zh-TW": "輪式工程小車"
+  }
+ },
+ {
+  "slug": "caprino",
+  "en": "caprino",
+  "n": {
+   "en": "caprino",
+   "zh-CN": "山羊羔",
+   "ja": "カプリーヌ",
+   "zh-TW": "山羊羔"
+  }
+ },
+ {
+  "slug": "wind-up-prishe",
+  "en": "wind-up Prishe",
+  "n": {
+   "en": "wind-up Prishe",
+   "zh-CN": "迷你普利修",
+   "ja": "マメット・プリッシュ",
+   "zh-TW": "迷你普利修"
+  }
+ },
+ {
+  "slug": "budvi",
+  "en": "budvi",
+  "n": {
+   "en": "budvi",
+   "zh-CN": "幼芽维",
+   "ja": "ナギュリィ・ジャーム",
+   "zh-TW": "幼芽維"
+  }
+ },
+ {
+  "slug": "musical-paca",
+  "en": "musical paca",
+  "n": {
+   "en": "musical paca",
+   "zh-CN": "乐团小羊驼",
+   "ja": "楽団のアルパ・カフ",
+   "zh-TW": "樂團小羊駝"
+  }
+ },
+ {
+  "slug": "sweetkit",
+  "en": "sweetkit",
+  "n": {
+   "en": "sweetkit",
+   "zh-CN": "猫小甜",
+   "ja": "スウィートキャット",
+   "zh-TW": "貓小甜"
+  }
+ }
+]

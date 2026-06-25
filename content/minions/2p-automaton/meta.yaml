@@ -1,0 +1,6 @@
+id: 2p-automaton
+category: minions
+type: minion
+minion: "2P automaton"
+tags: [minion, companion]
+status: stable

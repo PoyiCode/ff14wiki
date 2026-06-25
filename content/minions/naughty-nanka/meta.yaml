@@ -1,0 +1,6 @@
+id: naughty-nanka
+category: minions
+type: minion
+minion: "naughty nanka"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: wind-up-haurchefant
+category: minions
+type: minion
+minion: "wind-up Haurchefant"
+tags: [minion, companion]
+status: stable

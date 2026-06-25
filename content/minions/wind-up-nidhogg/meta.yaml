@@ -1,0 +1,6 @@
+id: wind-up-nidhogg
+category: minions
+type: minion
+minion: "wind-up Nidhogg"
+tags: [minion, companion]
+status: stable

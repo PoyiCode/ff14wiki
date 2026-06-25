@@ -1,0 +1,6 @@
+id: wind-up-hobgoblin
+category: minions
+type: minion
+minion: "wind-up hobgoblin"
+tags: [minion, companion]
+status: stable

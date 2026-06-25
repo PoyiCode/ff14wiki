@@ -1,0 +1,6 @@
+id: faepup
+category: minions
+type: minion
+minion: "faepup"
+tags: [minion, companion]
+status: stable

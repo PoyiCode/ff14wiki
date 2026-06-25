@@ -1,0 +1,6 @@
+id: micro-crow
+category: minions
+type: minion
+minion: "micro crow"
+tags: [minion, companion]
+status: stable

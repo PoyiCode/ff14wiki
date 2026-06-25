@@ -1,0 +1,6 @@
+id: 9s-automaton
+category: minions
+type: minion
+minion: "9S automaton"
+tags: [minion, companion]
+status: stable

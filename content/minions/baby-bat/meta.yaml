@@ -1,0 +1,6 @@
+id: baby-bat
+category: minions
+type: minion
+minion: "baby bat"
+tags: [minion, companion]
+status: stable

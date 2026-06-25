@@ -1,0 +1,6 @@
+id: set-of-primogs
+category: minions
+type: minion
+minion: "set of Primogs"
+tags: [minion, companion]
+status: stable

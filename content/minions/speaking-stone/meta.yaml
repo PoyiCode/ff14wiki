@@ -1,0 +1,6 @@
+id: speaking-stone
+category: minions
+type: minion
+minion: "speaking stone"
+tags: [minion, companion]
+status: stable

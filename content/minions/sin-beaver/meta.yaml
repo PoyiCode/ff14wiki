@@ -1,0 +1,6 @@
+id: sin-beaver
+category: minions
+type: minion
+minion: "sin beaver"
+tags: [minion, companion]
+status: stable

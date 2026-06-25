@@ -1,0 +1,6 @@
+id: brina
+category: minions
+type: minion
+minion: "Brina"
+tags: [minion, companion]
+status: stable

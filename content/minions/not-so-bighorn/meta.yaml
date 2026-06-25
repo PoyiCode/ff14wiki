@@ -1,0 +1,6 @@
+id: not-so-bighorn
+category: minions
+type: minion
+minion: "not-so-bighorn"
+tags: [minion, companion]
+status: stable

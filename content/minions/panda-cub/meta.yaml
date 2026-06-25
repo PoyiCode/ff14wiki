@@ -1,0 +1,6 @@
+id: panda-cub
+category: minions
+type: minion
+minion: "panda cub"
+tags: [minion, companion]
+status: stable

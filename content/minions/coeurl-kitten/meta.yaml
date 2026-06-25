@@ -1,0 +1,6 @@
+id: coeurl-kitten
+category: minions
+type: minion
+minion: "coeurl kitten"
+tags: [minion, companion]
+status: stable

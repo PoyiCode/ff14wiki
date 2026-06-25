@@ -1,0 +1,6 @@
+id: mini-yan
+category: minions
+type: minion
+minion: "mini yan"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: behemoth-heir
+category: minions
+type: minion
+minion: "behemoth heir"
+tags: [minion, companion]
+status: stable

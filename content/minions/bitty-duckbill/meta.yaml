@@ -1,0 +1,6 @@
+id: bitty-duckbill
+category: minions
+type: minion
+minion: "bitty duckbill"
+tags: [minion, companion]
+status: stable

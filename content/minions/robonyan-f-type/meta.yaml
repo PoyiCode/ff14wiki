@@ -1,0 +1,6 @@
+id: robonyan-f-type
+category: minions
+type: minion
+minion: "Robonyan F-type"
+tags: [minion, companion]
+status: stable

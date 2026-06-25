@@ -1,0 +1,6 @@
+id: black-chocobo-chick
+category: minions
+type: minion
+minion: "black chocobo chick"
+tags: [minion, companion]
+status: stable

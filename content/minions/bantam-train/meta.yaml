@@ -1,0 +1,6 @@
+id: bantam-train
+category: minions
+type: minion
+minion: "bantam train"
+tags: [minion, companion]
+status: stable

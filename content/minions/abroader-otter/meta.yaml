@@ -1,0 +1,6 @@
+id: abroader-otter
+category: minions
+type: minion
+minion: "abroader otter"
+tags: [minion, companion]
+status: stable

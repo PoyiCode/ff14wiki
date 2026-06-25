@@ -1,0 +1,6 @@
+id: flame-hatchling
+category: minions
+type: minion
+minion: "flame hatchling"
+tags: [minion, companion]
+status: stable

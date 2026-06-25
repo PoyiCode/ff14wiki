@@ -1,0 +1,6 @@
+id: mandragora-queen
+category: minions
+type: minion
+minion: "Mandragora Queen"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: paissa-threadpuller
+category: minions
+type: minion
+minion: "paissa threadpuller"
+tags: [minion, companion]
+status: stable

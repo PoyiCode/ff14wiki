@@ -1,0 +1,6 @@
+id: hecteye
+category: minions
+type: minion
+minion: "hecteye"
+tags: [minion, companion]
+status: stable

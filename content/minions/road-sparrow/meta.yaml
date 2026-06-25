@@ -1,0 +1,6 @@
+id: road-sparrow
+category: minions
+type: minion
+minion: "road sparrow"
+tags: [minion, companion]
+status: stable

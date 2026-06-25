@@ -1,0 +1,6 @@
+id: unicolt
+category: minions
+type: minion
+minion: "unicolt"
+tags: [minion, companion]
+status: stable

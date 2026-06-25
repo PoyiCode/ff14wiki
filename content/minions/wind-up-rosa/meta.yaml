@@ -1,0 +1,6 @@
+id: wind-up-rosa
+category: minions
+type: minion
+minion: "wind-up Rosa"
+tags: [minion, companion]
+status: stable

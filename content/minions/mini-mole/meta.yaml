@@ -1,0 +1,6 @@
+id: mini-mole
+category: minions
+type: minion
+minion: "mini mole"
+tags: [minion, companion]
+status: stable

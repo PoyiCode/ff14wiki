@@ -1,0 +1,6 @@
+id: torgal-pup
+category: minions
+type: minion
+minion: "Torgal pup"
+tags: [minion, companion]
+status: stable

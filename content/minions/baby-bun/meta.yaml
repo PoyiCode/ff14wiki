@@ -1,0 +1,6 @@
+id: baby-bun
+category: minions
+type: minion
+minion: "baby bun"
+tags: [minion, companion]
+status: stable

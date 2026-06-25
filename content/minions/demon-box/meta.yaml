@@ -1,0 +1,6 @@
+id: demon-box
+category: minions
+type: minion
+minion: "demon box"
+tags: [minion, companion]
+status: stable

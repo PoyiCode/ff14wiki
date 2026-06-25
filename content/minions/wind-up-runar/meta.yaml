@@ -1,0 +1,6 @@
+id: wind-up-runar
+category: minions
+type: minion
+minion: "wind-up Runar"
+tags: [minion, companion]
+status: stable

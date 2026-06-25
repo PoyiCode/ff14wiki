@@ -1,0 +1,6 @@
+id: 2b-automaton
+category: minions
+type: minion
+minion: "2B automaton"
+tags: [minion, companion]
+status: stable

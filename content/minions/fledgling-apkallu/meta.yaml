@@ -1,0 +1,6 @@
+id: fledgling-apkallu
+category: minions
+type: minion
+minion: "fledgling apkallu"
+tags: [minion, companion]
+status: stable

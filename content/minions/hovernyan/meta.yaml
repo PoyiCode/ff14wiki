@@ -1,0 +1,6 @@
+id: hovernyan
+category: minions
+type: minion
+minion: "Hovernyan"
+tags: [minion, companion]
+status: stable

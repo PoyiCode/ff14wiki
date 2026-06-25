@@ -1,0 +1,6 @@
+id: clionid-larva
+category: minions
+type: minion
+minion: "clionid larva"
+tags: [minion, companion]
+status: stable

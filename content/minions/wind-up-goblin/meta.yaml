@@ -1,0 +1,6 @@
+id: wind-up-goblin
+category: minions
+type: minion
+minion: "wind-up goblin"
+tags: [minion, companion]
+status: stable

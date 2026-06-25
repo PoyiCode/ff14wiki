@@ -1,0 +1,6 @@
+id: repulu
+category: minions
+type: minion
+minion: "repulu"
+tags: [minion, companion]
+status: stable

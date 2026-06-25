@@ -1,0 +1,6 @@
+id: soothing-sea-beast
+category: minions
+type: minion
+minion: "soothing sea-beast"
+tags: [minion, companion]
+status: stable

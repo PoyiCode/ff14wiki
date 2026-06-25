@@ -1,0 +1,6 @@
+id: model-suit
+category: minions
+type: minion
+minion: "model suit"
+tags: [minion, companion]
+status: stable

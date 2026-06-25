@@ -1,0 +1,6 @@
+id: miniature-minecart
+category: minions
+type: minion
+minion: "miniature minecart"
+tags: [minion, companion]
+status: stable

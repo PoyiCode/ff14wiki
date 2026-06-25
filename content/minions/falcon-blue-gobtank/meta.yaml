@@ -1,0 +1,6 @@
+id: falcon-blue-gobtank
+category: minions
+type: minion
+minion: "falcon-blue gobtank"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: magic-lamp
+category: minions
+type: minion
+minion: "magic lamp"
+tags: [minion, companion]
+status: stable

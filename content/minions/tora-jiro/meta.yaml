@@ -1,0 +1,6 @@
+id: tora-jiro
+category: minions
+type: minion
+minion: "Tora-jiro"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: tiny-echevore
+category: minions
+type: minion
+minion: "tiny echevore"
+tags: [minion, companion]
+status: stable

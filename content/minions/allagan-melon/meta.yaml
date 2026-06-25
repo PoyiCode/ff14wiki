@@ -1,0 +1,6 @@
+id: allagan-melon
+category: minions
+type: minion
+minion: "Allagan melon"
+tags: [minion, companion]
+status: stable

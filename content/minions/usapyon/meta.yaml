@@ -1,0 +1,6 @@
+id: usapyon
+category: minions
+type: minion
+minion: "USApyon"
+tags: [minion, companion]
+status: stable

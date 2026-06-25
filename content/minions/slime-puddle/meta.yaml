@@ -1,0 +1,6 @@
+id: slime-puddle
+category: minions
+type: minion
+minion: "slime puddle"
+tags: [minion, companion]
+status: stable

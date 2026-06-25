@@ -1,0 +1,6 @@
+id: tomato-king
+category: minions
+type: minion
+minion: "Tomato King"
+tags: [minion, companion]
+status: stable

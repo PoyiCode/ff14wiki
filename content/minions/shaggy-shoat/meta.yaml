@@ -1,0 +1,6 @@
+id: shaggy-shoat
+category: minions
+type: minion
+minion: "shaggy shoat"
+tags: [minion, companion]
+status: stable

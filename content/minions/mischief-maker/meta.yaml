@@ -1,0 +1,6 @@
+id: mischief-maker
+category: minions
+type: minion
+minion: "mischief maker"
+tags: [minion, companion]
+status: stable

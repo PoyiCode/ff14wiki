@@ -1,0 +1,6 @@
+id: lite-loader
+category: minions
+type: minion
+minion: "lite-loader"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: wind-up-philos
+category: minions
+type: minion
+minion: "wind-up philos"
+tags: [minion, companion]
+status: stable

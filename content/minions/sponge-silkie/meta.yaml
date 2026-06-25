@@ -1,0 +1,6 @@
+id: sponge-silkie
+category: minions
+type: minion
+minion: "sponge silkie"
+tags: [minion, companion]
+status: stable

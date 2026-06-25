@@ -1,0 +1,6 @@
+id: gold-rush-minecart
+category: minions
+type: minion
+minion: "gold rush minecart"
+tags: [minion, companion]
+status: stable

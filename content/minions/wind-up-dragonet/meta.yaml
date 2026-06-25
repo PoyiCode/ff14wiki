@@ -1,0 +1,6 @@
+id: wind-up-dragonet
+category: minions
+type: minion
+minion: "wind-up dragonet"
+tags: [minion, companion]
+status: stable

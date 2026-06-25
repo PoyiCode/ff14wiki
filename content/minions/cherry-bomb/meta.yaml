@@ -1,0 +1,6 @@
+id: cherry-bomb
+category: minions
+type: minion
+minion: "cherry bomb"
+tags: [minion, companion]
+status: stable

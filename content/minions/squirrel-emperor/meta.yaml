@@ -1,0 +1,6 @@
+id: squirrel-emperor
+category: minions
+type: minion
+minion: "squirrel emperor"
+tags: [minion, companion]
+status: stable

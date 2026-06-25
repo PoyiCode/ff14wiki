@@ -1,0 +1,6 @@
+id: clockwork-twintania
+category: minions
+type: minion
+minion: "clockwork Twintania"
+tags: [minion, companion]
+status: stable

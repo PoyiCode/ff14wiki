@@ -1,0 +1,6 @@
+id: iron-dwarf
+category: minions
+type: minion
+minion: "iron dwarf"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: blue-footed-booby
+category: minions
+type: minion
+minion: "blue-footed booby"
+tags: [minion, companion]
+status: stable

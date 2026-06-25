@@ -1,0 +1,6 @@
+id: mikra-lyssa
+category: minions
+type: minion
+minion: "mikra Lyssa"
+tags: [minion, companion]
+status: stable

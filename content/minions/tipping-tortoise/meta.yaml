@@ -1,0 +1,6 @@
+id: tipping-tortoise
+category: minions
+type: minion
+minion: "tipping tortoise"
+tags: [minion, companion]
+status: stable

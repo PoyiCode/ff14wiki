@@ -1,0 +1,6 @@
+id: bluebird
+category: minions
+type: minion
+minion: "bluebird"
+tags: [minion, companion]
+status: stable

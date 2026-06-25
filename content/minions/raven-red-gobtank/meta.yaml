@@ -1,0 +1,6 @@
+id: raven-red-gobtank
+category: minions
+type: minion
+minion: "raven-red gobtank"
+tags: [minion, companion]
+status: stable

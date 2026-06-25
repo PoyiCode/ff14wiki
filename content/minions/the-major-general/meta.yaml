@@ -1,0 +1,6 @@
+id: the-major-general
+category: minions
+type: minion
+minion: "the Major-General"
+tags: [minion, companion]
+status: stable

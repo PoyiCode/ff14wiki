@@ -1,0 +1,6 @@
+id: wind-up-moon
+category: minions
+type: minion
+minion: "wind-up moon"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: bluecoat-cat
+category: minions
+type: minion
+minion: "bluecoat cat"
+tags: [minion, companion]
+status: stable

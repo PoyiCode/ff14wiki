@@ -1,0 +1,6 @@
+id: gigantpole
+category: minions
+type: minion
+minion: "gigantpole"
+tags: [minion, companion]
+status: stable

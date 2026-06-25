@@ -1,0 +1,6 @@
+id: little-yang
+category: minions
+type: minion
+minion: "Little Yang"
+tags: [minion, companion]
+status: stable

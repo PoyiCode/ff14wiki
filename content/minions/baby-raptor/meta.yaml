@@ -1,0 +1,6 @@
+id: baby-raptor
+category: minions
+type: minion
+minion: "baby raptor"
+tags: [minion, companion]
+status: stable

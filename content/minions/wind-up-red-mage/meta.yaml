@@ -1,0 +1,6 @@
+id: wind-up-red-mage
+category: minions
+type: minion
+minion: "wind-up red mage"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: little-mermaid
+category: minions
+type: minion
+minion: "little mermaid"
+tags: [minion, companion]
+status: stable

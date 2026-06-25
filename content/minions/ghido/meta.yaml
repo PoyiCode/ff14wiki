@@ -1,0 +1,6 @@
+id: ghido
+category: minions
+type: minion
+minion: "Ghido"
+tags: [minion, companion]
+status: stable

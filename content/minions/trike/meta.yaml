@@ -1,0 +1,6 @@
+id: trike
+category: minions
+type: minion
+minion: "Trike"
+tags: [minion, companion]
+status: stable

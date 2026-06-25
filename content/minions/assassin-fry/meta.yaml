@@ -1,0 +1,6 @@
+id: assassin-fry
+category: minions
+type: minion
+minion: "assassin fry"
+tags: [minion, companion]
+status: stable

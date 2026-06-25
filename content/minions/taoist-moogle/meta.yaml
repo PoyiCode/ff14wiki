@@ -1,0 +1,6 @@
+id: taoist-moogle
+category: minions
+type: minion
+minion: "Taoist moogle"
+tags: [minion, companion]
+status: stable

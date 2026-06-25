@@ -1,0 +1,6 @@
+id: seikret-fledgling
+category: minions
+type: minion
+minion: "Seikret fledgling"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: baby-brachiosaur
+category: minions
+type: minion
+minion: "baby brachiosaur"
+tags: [minion, companion]
+status: stable

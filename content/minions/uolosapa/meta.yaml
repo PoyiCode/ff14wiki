@@ -1,0 +1,6 @@
+id: uolosapa
+category: minions
+type: minion
+minion: "uolosapa"
+tags: [minion, companion]
+status: stable

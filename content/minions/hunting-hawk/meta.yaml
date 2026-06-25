@@ -1,0 +1,6 @@
+id: hunting-hawk
+category: minions
+type: minion
+minion: "hunting hawk"
+tags: [minion, companion]
+status: stable

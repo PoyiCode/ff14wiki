@@ -1,0 +1,6 @@
+id: crabe-de-la-crabe
+category: minions
+type: minion
+minion: "crabe de la crabe"
+tags: [minion, companion]
+status: stable

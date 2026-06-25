@@ -1,0 +1,6 @@
+id: pegwin
+category: minions
+type: minion
+minion: "Pegwin"
+tags: [minion, companion]
+status: stable

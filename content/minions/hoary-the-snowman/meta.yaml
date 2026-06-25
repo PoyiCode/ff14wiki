@@ -1,0 +1,6 @@
+id: hoary-the-snowman
+category: minions
+type: minion
+minion: "Hoary the Snowman"
+tags: [minion, companion]
+status: stable

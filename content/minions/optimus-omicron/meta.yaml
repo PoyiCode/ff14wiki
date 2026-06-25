@@ -1,0 +1,6 @@
+id: optimus-omicron
+category: minions
+type: minion
+minion: "optimus Omicron"
+tags: [minion, companion]
+status: stable

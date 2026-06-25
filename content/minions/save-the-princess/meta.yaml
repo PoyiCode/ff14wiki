@@ -1,0 +1,6 @@
+id: save-the-princess
+category: minions
+type: minion
+minion: "Save the Princess"
+tags: [minion, companion]
+status: stable

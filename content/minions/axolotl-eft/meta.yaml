@@ -1,0 +1,6 @@
+id: axolotl-eft
+category: minions
+type: minion
+minion: "axolotl eft"
+tags: [minion, companion]
+status: stable

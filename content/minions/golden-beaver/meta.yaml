@@ -1,0 +1,6 @@
+id: golden-beaver
+category: minions
+type: minion
+minion: "golden beaver"
+tags: [minion, companion]
+status: stable

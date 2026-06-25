@@ -1,0 +1,6 @@
+id: gigi
+category: minions
+type: minion
+minion: "Gigi"
+tags: [minion, companion]
+status: stable

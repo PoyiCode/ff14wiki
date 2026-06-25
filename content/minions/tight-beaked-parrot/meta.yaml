@@ -1,0 +1,6 @@
+id: tight-beaked-parrot
+category: minions
+type: minion
+minion: "tight-beaked parrot"
+tags: [minion, companion]
+status: stable

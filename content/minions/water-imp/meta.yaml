@@ -1,0 +1,6 @@
+id: water-imp
+category: minions
+type: minion
+minion: "water imp"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: gallant-shepherd
+category: minions
+type: minion
+minion: "gallant shepherd"
+tags: [minion, companion]
+status: stable

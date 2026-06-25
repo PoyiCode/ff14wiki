@@ -1,0 +1,6 @@
+id: continental-eye
+category: minions
+type: minion
+minion: "Continental eye"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: adventure-basket
+category: minions
+type: minion
+minion: "adventure basket"
+tags: [minion, companion]
+status: stable

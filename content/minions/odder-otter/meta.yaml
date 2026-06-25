@@ -1,0 +1,6 @@
+id: odder-otter
+category: minions
+type: minion
+minion: "odder otter"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: cactuar-cutting
+category: minions
+type: minion
+minion: "cactuar cutting"
+tags: [minion, companion]
+status: stable

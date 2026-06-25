@@ -1,0 +1,6 @@
+id: salt-pepper-seal
+category: minions
+type: minion
+minion: "salt & pepper seal"
+tags: [minion, companion]
+status: stable

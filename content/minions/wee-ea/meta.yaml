@@ -1,0 +1,6 @@
+id: wee-ea
+category: minions
+type: minion
+minion: "wee Ea"
+tags: [minion, companion]
+status: stable

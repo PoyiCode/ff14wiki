@@ -1,0 +1,6 @@
+id: nana-bear
+category: minions
+type: minion
+minion: "Nana bear"
+tags: [minion, companion]
+status: stable

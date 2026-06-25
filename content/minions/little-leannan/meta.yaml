@@ -1,0 +1,6 @@
+id: little-leannan
+category: minions
+type: minion
+minion: "little leannan"
+tags: [minion, companion]
+status: stable

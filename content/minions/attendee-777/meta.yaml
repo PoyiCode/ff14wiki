@@ -1,0 +1,6 @@
+id: attendee-777
+category: minions
+type: minion
+minion: "attendee #777"
+tags: [minion, companion]
+status: stable

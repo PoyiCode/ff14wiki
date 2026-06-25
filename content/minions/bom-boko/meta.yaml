@@ -1,0 +1,6 @@
+id: bom-boko
+category: minions
+type: minion
+minion: "Bom Boko"
+tags: [minion, companion]
+status: stable

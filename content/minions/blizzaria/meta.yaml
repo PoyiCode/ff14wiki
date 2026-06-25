@@ -1,0 +1,6 @@
+id: blizzaria
+category: minions
+type: minion
+minion: "Blizzaria"
+tags: [minion, companion]
+status: stable

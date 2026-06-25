@@ -1,0 +1,6 @@
+id: castaway-chocobo-chick
+category: minions
+type: minion
+minion: "castaway chocobo chick"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: dolphin-calf
+category: minions
+type: minion
+minion: "dolphin calf"
+tags: [minion, companion]
+status: stable

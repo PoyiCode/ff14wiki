@@ -1,0 +1,6 @@
+id: tinker-s-bell
+category: minions
+type: minion
+minion: "tinker's bell"
+tags: [minion, companion]
+status: stable

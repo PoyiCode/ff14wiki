@@ -1,0 +1,6 @@
+id: ephemeral-necromancer
+category: minions
+type: minion
+minion: "ephemeral necromancer"
+tags: [minion, companion]
+status: stable

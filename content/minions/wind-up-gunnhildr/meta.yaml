@@ -1,0 +1,6 @@
+id: wind-up-gunnhildr
+category: minions
+type: minion
+minion: "wind-up Gunnhildr"
+tags: [minion, companion]
+status: stable

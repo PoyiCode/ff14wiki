@@ -1,0 +1,6 @@
+id: silver-dasher
+category: minions
+type: minion
+minion: "silver dasher"
+tags: [minion, companion]
+status: stable

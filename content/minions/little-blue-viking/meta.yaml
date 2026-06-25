@@ -1,0 +1,6 @@
+id: little-blue-viking
+category: minions
+type: minion
+minion: "little blue viking"
+tags: [minion, companion]
+status: stable

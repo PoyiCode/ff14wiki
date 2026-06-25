@@ -1,0 +1,6 @@
+id: spoony-bard
+category: minions
+type: minion
+minion: "spoony bard"
+tags: [minion, companion]
+status: stable

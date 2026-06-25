@@ -1,0 +1,6 @@
+id: toco-toquito
+category: minions
+type: minion
+minion: "toco toquito"
+tags: [minion, companion]
+status: stable

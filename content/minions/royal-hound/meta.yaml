@@ -1,0 +1,6 @@
+id: royal-hound
+category: minions
+type: minion
+minion: "royal hound"
+tags: [minion, companion]
+status: stable

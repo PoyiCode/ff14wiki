@@ -1,0 +1,6 @@
+id: wind-up-leviathan
+category: minions
+type: minion
+minion: "wind-up Leviathan"
+tags: [minion, companion]
+status: stable

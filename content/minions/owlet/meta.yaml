@@ -1,0 +1,6 @@
+id: owlet
+category: minions
+type: minion
+minion: "owlet"
+tags: [minion, companion]
+status: stable

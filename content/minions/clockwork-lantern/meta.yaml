@@ -1,0 +1,6 @@
+id: clockwork-lantern
+category: minions
+type: minion
+minion: "clockwork lantern"
+tags: [minion, companion]
+status: stable

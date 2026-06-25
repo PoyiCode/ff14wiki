@@ -1,0 +1,6 @@
+id: mama-automaton
+category: minions
+type: minion
+minion: "Mama automaton"
+tags: [minion, companion]
+status: stable

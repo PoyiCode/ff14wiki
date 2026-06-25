@@ -1,0 +1,6 @@
+id: wind-up-gundu-warrior
+category: minions
+type: minion
+minion: "wind-up Gundu warrior"
+tags: [minion, companion]
+status: stable

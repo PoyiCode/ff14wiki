@@ -1,0 +1,6 @@
+id: posher-otter
+category: minions
+type: minion
+minion: "posher otter"
+tags: [minion, companion]
+status: stable

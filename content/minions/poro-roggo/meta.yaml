@@ -1,0 +1,6 @@
+id: poro-roggo
+category: minions
+type: minion
+minion: "Poro Roggo"
+tags: [minion, companion]
+status: stable

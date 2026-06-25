@@ -1,0 +1,6 @@
+id: wind-up-lyse
+category: minions
+type: minion
+minion: "wind-up Lyse"
+tags: [minion, companion]
+status: stable

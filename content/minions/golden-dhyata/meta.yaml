@@ -1,0 +1,6 @@
+id: golden-dhyata
+category: minions
+type: minion
+minion: "Golden Dhyata"
+tags: [minion, companion]
+status: stable

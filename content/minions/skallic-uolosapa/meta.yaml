@@ -1,0 +1,6 @@
+id: skallic-uolosapa
+category: minions
+type: minion
+minion: "Skallic uolosapa"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: clockwork-solus
+category: minions
+type: minion
+minion: "clockwork Solus"
+tags: [minion, companion]
+status: stable

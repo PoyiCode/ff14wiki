@@ -1,0 +1,6 @@
+id: laladile
+category: minions
+type: minion
+minion: "Laladile"
+tags: [minion, companion]
+status: stable

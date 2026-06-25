@@ -1,0 +1,6 @@
+id: starbird
+category: minions
+type: minion
+minion: "starbird"
+tags: [minion, companion]
+status: stable

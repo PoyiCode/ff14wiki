@@ -1,0 +1,6 @@
+id: weatherproof-gaelicat
+category: minions
+type: minion
+minion: "weatherproof gaelicat"
+tags: [minion, companion]
+status: stable

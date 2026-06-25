@@ -1,0 +1,6 @@
+id: tiny-tapir
+category: minions
+type: minion
+minion: "tiny tapir"
+tags: [minion, companion]
+status: stable

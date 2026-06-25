@@ -1,0 +1,6 @@
+id: wind-up-ifrit
+category: minions
+type: minion
+minion: "wind-up Ifrit"
+tags: [minion, companion]
+status: stable

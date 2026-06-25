@@ -1,0 +1,6 @@
+id: wind-up-cursor
+category: minions
+type: minion
+minion: "wind-up cursor"
+tags: [minion, companion]
+status: stable

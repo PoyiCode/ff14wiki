@@ -1,0 +1,6 @@
+id: fat-cat
+category: minions
+type: minion
+minion: "fat cat"
+tags: [minion, companion]
+status: stable

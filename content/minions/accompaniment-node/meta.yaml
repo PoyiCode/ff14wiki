@@ -1,0 +1,6 @@
+id: accompaniment-node
+category: minions
+type: minion
+minion: "accompaniment node"
+tags: [minion, companion]
+status: stable

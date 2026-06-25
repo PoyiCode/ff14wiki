@@ -1,0 +1,6 @@
+id: wind-up-garnet
+category: minions
+type: minion
+minion: "wind-up Garnet"
+tags: [minion, companion]
+status: stable

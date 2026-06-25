@@ -1,0 +1,6 @@
+id: treasure-box
+category: minions
+type: minion
+minion: "treasure box"
+tags: [minion, companion]
+status: stable

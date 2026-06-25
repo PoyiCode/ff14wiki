@@ -1,0 +1,6 @@
+id: sweetkit
+category: minions
+type: minion
+minion: "sweetkit"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: pumpkin-butler
+category: minions
+type: minion
+minion: "Pumpkin Butler"
+tags: [minion, companion]
+status: stable

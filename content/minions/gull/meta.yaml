@@ -1,0 +1,6 @@
+id: gull
+category: minions
+type: minion
+minion: "gull"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: wind-up-sahagin
+category: minions
+type: minion
+minion: "wind-up Sahagin"
+tags: [minion, companion]
+status: stable

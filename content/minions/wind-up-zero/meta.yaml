@@ -1,0 +1,6 @@
+id: wind-up-zero
+category: minions
+type: minion
+minion: "wind-up Zero"
+tags: [minion, companion]
+status: stable

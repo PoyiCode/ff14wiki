@@ -1,0 +1,6 @@
+id: chocobo-chick-courier
+category: minions
+type: minion
+minion: "chocobo chick courier"
+tags: [minion, companion]
+status: stable

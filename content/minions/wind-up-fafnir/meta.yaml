@@ -1,0 +1,6 @@
+id: wind-up-fafnir
+category: minions
+type: minion
+minion: "wind-up Fafnir"
+tags: [minion, companion]
+status: stable

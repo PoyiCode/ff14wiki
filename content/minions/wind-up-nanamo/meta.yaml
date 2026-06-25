@@ -1,0 +1,6 @@
+id: wind-up-nanamo
+category: minions
+type: minion
+minion: "wind-up Nanamo"
+tags: [minion, companion]
+status: stable

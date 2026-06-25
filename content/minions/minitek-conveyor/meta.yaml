@@ -1,0 +1,6 @@
+id: minitek-conveyor
+category: minions
+type: minion
+minion: "minitek conveyor"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: cerberpup
+category: minions
+type: minion
+minion: "Cerberpup"
+tags: [minion, companion]
+status: stable

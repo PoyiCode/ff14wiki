@@ -1,0 +1,6 @@
+id: armadillo-bowler
+category: minions
+type: minion
+minion: "armadillo bowler"
+tags: [minion, companion]
+status: stable

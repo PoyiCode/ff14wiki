@@ -1,0 +1,6 @@
+id: caduceus
+category: minions
+type: minion
+minion: "Caduceus"
+tags: [minion, companion]
+status: stable

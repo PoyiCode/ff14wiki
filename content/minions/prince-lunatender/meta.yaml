@@ -1,0 +1,6 @@
+id: prince-lunatender
+category: minions
+type: minion
+minion: "Prince Lunatender"
+tags: [minion, companion]
+status: stable

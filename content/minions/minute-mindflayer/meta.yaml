@@ -1,0 +1,6 @@
+id: minute-mindflayer
+category: minions
+type: minion
+minion: "minute mindflayer"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: lesser-panda
+category: minions
+type: minion
+minion: "lesser panda"
+tags: [minion, companion]
+status: stable

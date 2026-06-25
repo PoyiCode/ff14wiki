@@ -1,0 +1,6 @@
+id: griffin-hatchling
+category: minions
+type: minion
+minion: "griffin hatchling"
+tags: [minion, companion]
+status: stable

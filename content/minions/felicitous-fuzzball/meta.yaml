@@ -1,0 +1,6 @@
+id: felicitous-fuzzball
+category: minions
+type: minion
+minion: "Felicitous Fuzzball"
+tags: [minion, companion]
+status: stable

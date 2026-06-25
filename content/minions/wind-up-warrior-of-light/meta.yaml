@@ -1,0 +1,6 @@
+id: wind-up-warrior-of-light
+category: minions
+type: minion
+minion: "wind-up Warrior of Light"
+tags: [minion, companion]
+status: stable

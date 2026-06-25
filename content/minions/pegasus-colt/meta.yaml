@@ -1,0 +1,6 @@
+id: pegasus-colt
+category: minions
+type: minion
+minion: "pegasus colt"
+tags: [minion, companion]
+status: stable

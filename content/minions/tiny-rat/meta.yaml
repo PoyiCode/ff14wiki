@@ -1,0 +1,6 @@
+id: tiny-rat
+category: minions
+type: minion
+minion: "tiny rat"
+tags: [minion, companion]
+status: stable

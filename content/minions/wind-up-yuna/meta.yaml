@@ -1,0 +1,6 @@
+id: wind-up-yuna
+category: minions
+type: minion
+minion: "wind-up Yuna"
+tags: [minion, companion]
+status: stable

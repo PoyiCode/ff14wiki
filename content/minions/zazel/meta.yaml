@@ -1,0 +1,6 @@
+id: zazel
+category: minions
+type: minion
+minion: "Zazel"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: wind-up-kefka
+category: minions
+type: minion
+minion: "wind-up Kefka"
+tags: [minion, companion]
+status: stable

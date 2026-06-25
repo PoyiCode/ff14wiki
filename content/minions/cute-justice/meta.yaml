@@ -1,0 +1,6 @@
+id: cute-justice
+category: minions
+type: minion
+minion: "Cute Justice"
+tags: [minion, companion]
+status: stable

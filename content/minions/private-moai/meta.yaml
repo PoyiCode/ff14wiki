@@ -1,0 +1,6 @@
+id: private-moai
+category: minions
+type: minion
+minion: "private moai"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: wind-up-krile
+category: minions
+type: minion
+minion: "wind-up Krile"
+tags: [minion, companion]
+status: stable

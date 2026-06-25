@@ -1,0 +1,6 @@
+id: gravel-golem
+category: minions
+type: minion
+minion: "gravel golem"
+tags: [minion, companion]
+status: stable

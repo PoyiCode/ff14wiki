@@ -1,0 +1,6 @@
+id: tiny-troll
+category: minions
+type: minion
+minion: "tiny troll"
+tags: [minion, companion]
+status: stable

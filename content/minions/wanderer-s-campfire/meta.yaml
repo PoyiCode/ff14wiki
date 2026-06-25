@@ -1,0 +1,6 @@
+id: wanderer-s-campfire
+category: minions
+type: minion
+minion: "wanderer's campfire"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: namingway
+category: minions
+type: minion
+minion: "Namingway"
+tags: [minion, companion]
+status: stable

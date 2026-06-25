@@ -1,0 +1,6 @@
+id: baby-gremlin
+category: minions
+type: minion
+minion: "baby gremlin"
+tags: [minion, companion]
+status: stable

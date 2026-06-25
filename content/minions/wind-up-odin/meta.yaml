@@ -1,0 +1,6 @@
+id: wind-up-odin
+category: minions
+type: minion
+minion: "wind-up Odin"
+tags: [minion, companion]
+status: stable

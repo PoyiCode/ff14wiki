@@ -1,0 +1,6 @@
+id: doman-magpie
+category: minions
+type: minion
+minion: "Doman magpie"
+tags: [minion, companion]
+status: stable

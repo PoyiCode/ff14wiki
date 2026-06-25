@@ -1,0 +1,6 @@
+id: wind-up-gaia
+category: minions
+type: minion
+minion: "wind-up Gaia"
+tags: [minion, companion]
+status: stable

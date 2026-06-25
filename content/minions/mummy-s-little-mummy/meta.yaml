@@ -1,0 +1,6 @@
+id: mummy-s-little-mummy
+category: minions
+type: minion
+minion: "mummy's little mummy"
+tags: [minion, companion]
+status: stable

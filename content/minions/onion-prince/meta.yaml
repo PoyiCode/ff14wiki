@@ -1,0 +1,6 @@
+id: onion-prince
+category: minions
+type: minion
+minion: "Onion Prince"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: wind-up-echidna
+category: minions
+type: minion
+minion: "wind-up Echidna"
+tags: [minion, companion]
+status: stable

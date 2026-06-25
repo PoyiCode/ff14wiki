@@ -1,0 +1,6 @@
+id: wind-up-edda
+category: minions
+type: minion
+minion: "wind-up Edda"
+tags: [minion, companion]
+status: stable

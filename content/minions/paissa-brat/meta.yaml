@@ -1,0 +1,6 @@
+id: paissa-brat
+category: minions
+type: minion
+minion: "paissa brat"
+tags: [minion, companion]
+status: stable

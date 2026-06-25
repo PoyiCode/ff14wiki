@@ -1,0 +1,6 @@
+id: vicarious-vacationer
+category: minions
+type: minion
+minion: "vicarious vacationer"
+tags: [minion, companion]
+status: stable

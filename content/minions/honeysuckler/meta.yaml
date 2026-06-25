@@ -1,0 +1,6 @@
+id: honeysuckler
+category: minions
+type: minion
+minion: "honeysuckler"
+tags: [minion, companion]
+status: stable

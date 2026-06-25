@@ -1,0 +1,6 @@
+id: pudgy-puk
+category: minions
+type: minion
+minion: "pudgy puk"
+tags: [minion, companion]
+status: stable

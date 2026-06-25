@@ -1,0 +1,6 @@
+id: goobbue-sproutling
+category: minions
+type: minion
+minion: "goobbue sproutling"
+tags: [minion, companion]
+status: stable

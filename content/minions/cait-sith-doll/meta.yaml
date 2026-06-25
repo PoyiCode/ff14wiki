@@ -1,0 +1,6 @@
+id: cait-sith-doll
+category: minions
+type: minion
+minion: "Cait Sith doll"
+tags: [minion, companion]
+status: stable

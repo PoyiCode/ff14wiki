@@ -1,0 +1,6 @@
+id: puff-of-darkness
+category: minions
+type: minion
+minion: "puff of Darkness"
+tags: [minion, companion]
+status: stable

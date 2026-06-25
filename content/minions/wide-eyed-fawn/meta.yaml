@@ -1,0 +1,6 @@
+id: wide-eyed-fawn
+category: minions
+type: minion
+minion: "wide-eyed fawn"
+tags: [minion, companion]
+status: stable

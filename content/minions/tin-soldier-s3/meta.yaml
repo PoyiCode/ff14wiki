@@ -1,0 +1,6 @@
+id: tin-soldier-s3
+category: minions
+type: minion
+minion: "tin soldier S3"
+tags: [minion, companion]
+status: stable

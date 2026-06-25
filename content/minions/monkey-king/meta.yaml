@@ -1,0 +1,6 @@
+id: monkey-king
+category: minions
+type: minion
+minion: "monkey king"
+tags: [minion, companion]
+status: stable

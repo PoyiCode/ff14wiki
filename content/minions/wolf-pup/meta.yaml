@@ -1,0 +1,6 @@
+id: wolf-pup
+category: minions
+type: minion
+minion: "wolf pup"
+tags: [minion, companion]
+status: stable

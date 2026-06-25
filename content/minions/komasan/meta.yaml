@@ -1,0 +1,6 @@
+id: komasan
+category: minions
+type: minion
+minion: "Komasan"
+tags: [minion, companion]
+status: stable

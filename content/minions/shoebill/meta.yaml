@@ -1,0 +1,6 @@
+id: shoebill
+category: minions
+type: minion
+minion: "shoebill"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: alpaca-cria
+category: minions
+type: minion
+minion: "alpaca cria"
+tags: [minion, companion]
+status: stable

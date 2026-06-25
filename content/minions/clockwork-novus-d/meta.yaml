@@ -1,0 +1,6 @@
+id: clockwork-novus-d
+category: minions
+type: minion
+minion: "clockwork Novus D"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: chimpanzee
+category: minions
+type: minion
+minion: "chimpanzee"
+tags: [minion, companion]
+status: stable

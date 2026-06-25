@@ -1,0 +1,6 @@
+id: toy-alexander
+category: minions
+type: minion
+minion: "toy Alexander"
+tags: [minion, companion]
+status: stable

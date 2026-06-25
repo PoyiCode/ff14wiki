@@ -1,0 +1,6 @@
+id: tourmaline-weapon
+category: minions
+type: minion
+minion: "Tourmaline Weapon"
+tags: [minion, companion]
+status: stable

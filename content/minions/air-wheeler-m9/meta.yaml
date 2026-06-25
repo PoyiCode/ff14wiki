@@ -1,0 +1,6 @@
+id: air-wheeler-m9
+category: minions
+type: minion
+minion: "air-wheeler M9"
+tags: [minion, companion]
+status: stable

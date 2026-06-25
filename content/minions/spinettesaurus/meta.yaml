@@ -1,0 +1,6 @@
+id: spinettesaurus
+category: minions
+type: minion
+minion: "spinettesaurus"
+tags: [minion, companion]
+status: stable

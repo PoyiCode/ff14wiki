@@ -1,0 +1,6 @@
+id: pterosquirrel
+category: minions
+type: minion
+minion: "pterosquirrel"
+tags: [minion, companion]
+status: stable

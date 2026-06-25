@@ -1,0 +1,6 @@
+id: mistic-condor
+category: minions
+type: minion
+minion: "Mistic condor"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: chigoe-larva
+category: minions
+type: minion
+minion: "chigoe larva"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: tin-sentry-t1
+category: minions
+type: minion
+minion: "tin sentry T1"
+tags: [minion, companion]
+status: stable

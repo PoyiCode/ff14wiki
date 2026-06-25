@@ -1,0 +1,6 @@
+id: ancient-one
+category: minions
+type: minion
+minion: "ancient one"
+tags: [minion, companion]
+status: stable

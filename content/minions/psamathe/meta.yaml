@@ -1,0 +1,6 @@
+id: psamathe
+category: minions
+type: minion
+minion: "Psamathe"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: squeak-the-coyote
+category: minions
+type: minion
+minion: "Squeak the Coyote"
+tags: [minion, companion]
+status: stable

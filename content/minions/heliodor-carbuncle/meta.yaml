@@ -1,0 +1,6 @@
+id: heliodor-carbuncle
+category: minions
+type: minion
+minion: "Heliodor Carbuncle"
+tags: [minion, companion]
+status: stable

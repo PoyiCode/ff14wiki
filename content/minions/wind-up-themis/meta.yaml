@@ -1,0 +1,6 @@
+id: wind-up-themis
+category: minions
+type: minion
+minion: "wind-up Themis"
+tags: [minion, companion]
+status: stable

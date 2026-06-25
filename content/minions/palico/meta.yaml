@@ -1,0 +1,6 @@
+id: palico
+category: minions
+type: minion
+minion: "Palico"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: mudpie
+category: minions
+type: minion
+minion: "mudpie"
+tags: [minion, companion]
+status: stable

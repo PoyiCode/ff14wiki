@@ -1,0 +1,6 @@
+id: byakko-cub
+category: minions
+type: minion
+minion: "Byakko cub"
+tags: [minion, companion]
+status: stable

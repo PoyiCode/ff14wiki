@@ -1,0 +1,6 @@
+id: tankardtender
+category: minions
+type: minion
+minion: "tankardtender"
+tags: [minion, companion]
+status: stable

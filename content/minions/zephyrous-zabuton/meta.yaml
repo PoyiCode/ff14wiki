@@ -1,0 +1,6 @@
+id: zephyrous-zabuton
+category: minions
+type: minion
+minion: "zephyrous zabuton"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: kuromaru
+category: minions
+type: minion
+minion: "Kuromaru"
+tags: [minion, companion]
+status: stable

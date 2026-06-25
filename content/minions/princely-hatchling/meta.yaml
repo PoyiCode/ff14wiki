@@ -1,0 +1,6 @@
+id: princely-hatchling
+category: minions
+type: minion
+minion: "princely hatchling"
+tags: [minion, companion]
+status: stable

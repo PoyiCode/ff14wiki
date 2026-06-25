@@ -1,0 +1,6 @@
+id: micro-gigantender
+category: minions
+type: minion
+minion: "micro gigantender"
+tags: [minion, companion]
+status: stable

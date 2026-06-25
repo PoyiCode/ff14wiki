@@ -1,0 +1,6 @@
+id: wind-up-redback
+category: minions
+type: minion
+minion: "wind-up Redback"
+tags: [minion, companion]
+status: stable

@@ -1,0 +1,6 @@
+id: anima
+category: minions
+type: minion
+minion: "anima"
+tags: [minion, companion]
+status: stable

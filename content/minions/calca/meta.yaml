@@ -1,0 +1,6 @@
+id: calca
+category: minions
+type: minion
+minion: "Calca"
+tags: [minion, companion]
+status: stable

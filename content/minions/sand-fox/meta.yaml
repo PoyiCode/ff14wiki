@@ -1,0 +1,6 @@
+id: sand-fox
+category: minions
+type: minion
+minion: "sand fox"
+tags: [minion, companion]
+status: stable

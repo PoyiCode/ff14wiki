@@ -1,0 +1,6 @@
+id: fenrir-pup
+category: minions
+type: minion
+minion: "Fenrir pup"
+tags: [minion, companion]
+status: stable

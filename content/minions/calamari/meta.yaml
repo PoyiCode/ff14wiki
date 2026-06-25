@@ -1,0 +1,6 @@
+id: calamari
+category: minions
+type: minion
+minion: "calamari"
+tags: [minion, companion]
+status: stable

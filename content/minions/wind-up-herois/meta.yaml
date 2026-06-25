@@ -1,0 +1,6 @@
+id: wind-up-herois
+category: minions
+type: minion
+minion: "wind-up herois"
+tags: [minion, companion]
+status: stable
