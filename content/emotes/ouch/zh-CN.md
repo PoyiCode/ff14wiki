@@ -4,3 +4,5 @@ summary: "「Ouch」动作 emote（/ouch）。"
 ---
 
 指令 `/ouch`（別名 `/ow`）。FFXIV 的「Ouch」动作。
+
+使用此动作时，聊天栏会显示：「你做出了痛苦的表情。」

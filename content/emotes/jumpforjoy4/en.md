@@ -4,3 +4,5 @@ summary: "The Jump for Joy 4 emote (/jumpforjoy4)."
 ---
 
 The command is `/jumpforjoy4` (alias `/jj4`). The Jump for Joy 4 emote in FFXIV.
+
+When a resident uses this emote, it reads in chat as: *You jump cheerfully for joy!*

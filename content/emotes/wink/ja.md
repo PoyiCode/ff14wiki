@@ -4,3 +4,5 @@ summary: "「Wink (Right)」エモート（/wink）。"
 ---
 
 コマンドは `/wink`（別名 `/rightwink`）。FFXIVの「Wink (Right)」エモート。
+
+このエモートを使うと、チャットには「あなたはウィンクした。」と表示される。

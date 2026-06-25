@@ -4,3 +4,5 @@ summary: "「Fist Pump」エモート（/fistpump）。"
 ---
 
 コマンドは `/fistpump`。FFXIVの「Fist Pump」エモート。
+
+このエモートを使うと、チャットには「あなたはガッツポーズをした。」と表示される。

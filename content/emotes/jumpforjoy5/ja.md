@@ -4,3 +4,5 @@ summary: "「Jump for Joy 5」エモート（/jumpforjoy5）。"
 ---
 
 コマンドは `/jumpforjoy5`（別名 `/jj5`）。FFXIVの「Jump for Joy 5」エモート。
+
+このエモートを使うと、チャットには「あなたはサボテンダー風にハッピージャンプをした。」と表示される。

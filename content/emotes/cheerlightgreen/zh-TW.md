@@ -4,3 +4,5 @@ summary: "「Cheer Light: Green」動作 emote（/cheerlightgreen）。"
 ---
 
 指令 `/cheerlightgreen`（別名 `/cheerlg`）。FFXIV 的「Cheer Light: Green」動作。
+
+使用此動作時，聊天欄會顯示：「你開始聲援。」

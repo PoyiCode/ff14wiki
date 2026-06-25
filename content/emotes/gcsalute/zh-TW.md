@@ -4,3 +4,5 @@ summary: "「Storm Salute / Serpent Salute / Flame Salute」動作 emote（/gcsa
 ---
 
 指令 `/gcsalute`。FFXIV 的「Storm Salute / Serpent Salute / Flame Salute」動作。
+
+使用此動作時，聊天欄會顯示：「你行恆輝隊軍禮。」

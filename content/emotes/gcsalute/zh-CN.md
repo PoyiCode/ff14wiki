@@ -4,3 +4,5 @@ summary: "「Storm Salute / Serpent Salute / Flame Salute」动作 emote（/gcsa
 ---
 
 指令 `/gcsalute`。FFXIV 的「Storm Salute / Serpent Salute / Flame Salute」动作。
+
+使用此动作时，聊天栏会显示：「你行恒辉队军礼。」

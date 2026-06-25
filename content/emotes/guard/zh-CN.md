@@ -4,3 +4,5 @@ summary: "「Guard」动作 emote（/guard）。"
 ---
 
 指令 `/guard`。FFXIV 的「Guard」动作。
+
+使用此动作时，聊天栏会显示：「你巡视四周。」

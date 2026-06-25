@@ -4,3 +4,5 @@ summary: "「Yellow Ranger Pose B」エモート（/rangerpose3l）。"
 ---
 
 コマンドは `/rangerpose3l`（別名 `/yellowrangerposeb`）。FFXIVの「Yellow Ranger Pose B」エモート。
+
+このエモートを使うと、チャットには「あなたは戦士の演武：参ノ裏を決めた。」と表示される。

@@ -4,3 +4,5 @@ summary: "「Amazed」動作 emote（/amazed）。"
 ---
 
 指令 `/amazed`（別名 `/awe`）。FFXIV 的「Amazed」動作。
+
+使用此動作時，聊天欄會顯示：「你做出了意外的表情。」

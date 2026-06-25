@@ -4,3 +4,5 @@ summary: "「Flower Shower」动作 emote（/flowershower）。"
 ---
 
 指令 `/flowershower`（別名 `/petals`）。FFXIV 的「Flower Shower」动作。
+
+使用此动作时，聊天栏会显示：「你沐浴在花雨中。」

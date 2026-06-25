@@ -4,3 +4,5 @@ summary: "「Cheer On: Bright」动作 emote（/cheeronbright）。"
 ---
 
 指令 `/cheeronbright`（別名 `/cheerow`）。FFXIV 的「Cheer On: Bright」动作。
+
+使用此动作时，聊天栏会显示：「你开始声援。」

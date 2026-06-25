@@ -4,3 +4,5 @@ summary: "「Pucker Up」エモート（/puckerup）。"
 ---
 
 コマンドは `/puckerup`。FFXIVの「Pucker Up」エモート。
+
+このエモートを使うと、チャットには「あなたは口をすぼめた。」と表示される。

@@ -4,3 +4,5 @@ summary: "「Eat Taco」动作 emote（/eattaco）。"
 ---
 
 指令 `/eattaco`（別名 `/taco`）。FFXIV 的「Eat Taco」动作。
+
+使用此动作时，聊天栏会显示：「你若无其事地掏出张夹饼啃了两口。」

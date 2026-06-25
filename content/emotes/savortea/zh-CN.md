@@ -4,3 +4,5 @@ summary: "「Savor Tea」动作 emote（/savortea）。"
 ---
 
 指令 `/savortea`。FFXIV 的「Savor Tea」动作。
+
+使用此动作时，聊天栏会显示：「你端正坐下享用起了绿茶。」

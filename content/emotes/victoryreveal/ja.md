@@ -4,3 +4,5 @@ summary: "「Victory Reveal」エモート（/victoryreveal）。"
 ---
 
 コマンドは `/victoryreveal`（別名 `/vreveal`）。FFXIVの「Victory Reveal」エモート。
+
+このエモートを使うと、チャットには「あなたはビーンズ・ビクトリーを誇った。」と表示される。

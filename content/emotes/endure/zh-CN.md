@@ -4,3 +4,5 @@ summary: "「Endure」动作 emote（/endure）。"
 ---
 
 指令 `/endure`。FFXIV 的「Endure」动作。
+
+使用此动作时，聊天栏会显示：「你做出了忍耐的表情。」

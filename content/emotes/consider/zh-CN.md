@@ -4,3 +4,5 @@ summary: "「Consider」动作 emote（/consider）。"
 ---
 
 指令 `/consider`（別名 `/hmm`）。FFXIV 的「Consider」动作。
+
+使用此动作时，聊天栏会显示：「你心怀疑问。」

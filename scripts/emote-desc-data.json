@@ -1,0 +1,1694 @@
+{
+ "surprised": {
+  "en": "You look surprised!",
+  "ja": "あなたはおどろいた。",
+  "zh-CN": "你有些惊讶。",
+  "zh-TW": "你有些驚訝。"
+ },
+ "angry": {
+  "en": "You are frustrated.",
+  "ja": "あなたは不満を表した。",
+  "zh-CN": "你有些不满。",
+  "zh-TW": "你有些不滿。"
+ },
+ "furious": {
+  "en": "You look very angry.",
+  "ja": "あなたは怒った。",
+  "zh-CN": "你很愤怒。",
+  "zh-TW": "你很憤怒。"
+ },
+ "blush": {
+  "en": "You blush with embarrassment.",
+  "ja": "あなたは照れた。",
+  "zh-CN": "你很不好意思。",
+  "zh-TW": "你很不好意思。"
+ },
+ "bow": {
+  "en": "You bow.",
+  "ja": "あなたはお辞儀した。",
+  "zh-CN": "你恭敬地行礼。",
+  "zh-TW": "你恭敬地行禮。"
+ },
+ "cheer": {
+  "en": "You let out a cheer.",
+  "ja": "あなたは応援した。",
+  "zh-CN": "你大声加油。",
+  "zh-TW": "你大聲加油。"
+ },
+ "clap": {
+  "en": "You clap.",
+  "ja": "あなたは拍手した。",
+  "zh-CN": "你拍手鼓掌。",
+  "zh-TW": "你拍手鼓掌。"
+ },
+ "beckon": {
+  "en": "You beckon to no one in particular.",
+  "ja": "あなたは手まねきした。",
+  "zh-CN": "你原地招手。",
+  "zh-TW": "你原地招手。"
+ },
+ "comfort": {
+  "en": "You make a consoling gesture.",
+  "ja": "あなたはなぐさめた。",
+  "zh-CN": "你表示安慰。",
+  "zh-TW": "你表示安慰。"
+ },
+ "cry": {
+  "en": "Your eyes brim over with tears.",
+  "ja": "あなたは泣いた。",
+  "zh-CN": "你痛哭流涕。",
+  "zh-TW": "你痛哭流涕。"
+ },
+ "dance": {
+  "en": "You dance happily.",
+  "ja": "あなたは踊った。",
+  "zh-CN": "你原地起舞。",
+  "zh-TW": "你原地起舞。"
+ },
+ "doubt": {
+  "en": "You look doubtful.",
+  "ja": "あなたは問い詰めた。",
+  "zh-CN": "你表示非常不满。",
+  "zh-TW": "你表示非常不滿。"
+ },
+ "doze": {
+  "en": "You doze off quietly.",
+  "ja": "あなたは居眠りした。",
+  "zh-CN": "你打了个盹。",
+  "zh-TW": "你打了個盹。"
+ },
+ "fume": {
+  "en": "You curse the Twelve.",
+  "ja": "あなたは悔しがった。",
+  "zh-CN": "你十分懊悔。",
+  "zh-TW": "你十分懊悔。"
+ },
+ "goodbye": {
+  "en": "You bid farewell.",
+  "ja": "あなたは別れの挨拶をした。",
+  "zh-CN": "你表示道别。",
+  "zh-TW": "你表示道別。"
+ },
+ "wave": {
+  "en": "You wave.",
+  "ja": "あなたは手を振った。",
+  "zh-CN": "你原地挥手。",
+  "zh-TW": "你原地揮手。"
+ },
+ "huh": {
+  "en": "You look stumped.",
+  "ja": "あなたは呆れた。",
+  "zh-CN": "你觉得很莫名其妙。",
+  "zh-TW": "你覺得很莫名其妙。"
+ },
+ "joy": {
+  "en": "You motion joyfully.",
+  "ja": "あなたは喜んだ。",
+  "zh-CN": "你很高兴。",
+  "zh-TW": "你很高興。"
+ },
+ "kneel": {
+  "en": "You kneel respectfully.",
+  "ja": "あなたはひざまずいた。",
+  "zh-CN": "你跪下了。",
+  "zh-TW": "你跪下了。"
+ },
+ "chuckle": {
+  "en": "You laugh.",
+  "ja": "あなたは笑った。",
+  "zh-CN": "你在偷笑。",
+  "zh-TW": "你在偷笑。"
+ },
+ "laugh": {
+  "en": "You burst out laughing.",
+  "ja": "あなたは大笑いした。",
+  "zh-CN": "你在捧腹大笑。",
+  "zh-TW": "你在捧腹大笑。"
+ },
+ "lookout": {
+  "en": "You look around.",
+  "ja": "あなたは辺りを見わたした。",
+  "zh-CN": "你在观望附近的情况。",
+  "zh-TW": "你在觀望附近的情況。"
+ },
+ "me": {
+  "en": "You motion to yourself.",
+  "ja": "あなたはアピールしてみせた。",
+  "zh-CN": "你在展示自己的存在。",
+  "zh-TW": "你在展示自己的存在。"
+ },
+ "no": {
+  "en": "You disagree.",
+  "ja": "あなたは首を横に振った。",
+  "zh-CN": "你原地摇头。",
+  "zh-TW": "你原地搖頭。"
+ },
+ "deny": {
+  "en": "You disagree vehemently.",
+  "ja": "あなたは否定した。",
+  "zh-CN": "你表示否定。",
+  "zh-TW": "你表示否定。"
+ },
+ "panic": {
+  "en": "You panic!",
+  "ja": "あなたは慌てた。",
+  "zh-CN": "你非常慌张。",
+  "zh-TW": "你非常慌張。"
+ },
+ "point": {
+  "en": "You point.",
+  "ja": "あなたは指さした。",
+  "zh-CN": "你伸手指向前方。",
+  "zh-TW": "你伸手指向前方。"
+ },
+ "poke": {
+  "en": "You make a poking gesture.",
+  "ja": "あなたはつついた。",
+  "zh-CN": "你伸手戳向前方。",
+  "zh-TW": "你伸手戳向前方。"
+ },
+ "congratulate": {
+  "en": "You offer congratulations.",
+  "ja": "あなたは称賛した。",
+  "zh-CN": "你表示称赞。",
+  "zh-TW": "你表示稱讚。"
+ },
+ "psych": {
+  "en": "You psych yourself up!",
+  "ja": "あなたは活を入れた。",
+  "zh-CN": "你激励自己。",
+  "zh-TW": "你激勵自己。"
+ },
+ "salute": {
+  "en": "You salute.",
+  "ja": "あなたは敬礼した。",
+  "zh-CN": "你郑重地敬礼。",
+  "zh-TW": "你鄭重地敬禮。"
+ },
+ "shocked": {
+  "en": "You look shocked.",
+  "ja": "あなたは動転した。",
+  "zh-CN": "你非常震惊。",
+  "zh-TW": "你非常震驚。"
+ },
+ "shrug": {
+  "en": "You shrug.",
+  "ja": "あなたは肩をすくめた。",
+  "zh-CN": "你耸了耸肩。",
+  "zh-TW": "你聳了聳肩。"
+ },
+ "rally": {
+  "en": "You engage in general japery.",
+  "ja": "あなたは励ました。",
+  "zh-CN": "你挥拳表示鼓励。",
+  "zh-TW": "你揮拳表示鼓勵。"
+ },
+ "soothe": {
+  "en": "You try to calm things down.",
+  "ja": "あなたはなだめた。",
+  "zh-CN": "你尝试安抚。",
+  "zh-TW": "你嘗試安撫。"
+ },
+ "stagger": {
+  "en": "You stagger.",
+  "ja": "あなたはよろめいた。",
+  "zh-CN": "你有些迷糊。",
+  "zh-TW": "你有些迷糊。"
+ },
+ "stretch": {
+  "en": "You stretch.",
+  "ja": "あなたは伸びをした。",
+  "zh-CN": "你伸了个懒腰。",
+  "zh-TW": "你伸了個懶腰。"
+ },
+ "sulk": {
+  "en": "You wallow in self-pity.",
+  "ja": "あなたはすねた。",
+  "zh-CN": "你在生闷气。",
+  "zh-TW": "你在生悶氣。"
+ },
+ "think": {
+  "en": "You seem lost in thought.",
+  "ja": "あなたは考えた。",
+  "zh-CN": "你在思考问题。",
+  "zh-TW": "你在思考問題。"
+ },
+ "upset": {
+  "en": "You look disgusted.",
+  "ja": "あなたはがっかりした。",
+  "zh-CN": "你非常失望。",
+  "zh-TW": "你非常失望。"
+ },
+ "welcome": {
+  "en": "You motion in welcome.",
+  "ja": "あなたは歓迎した。",
+  "zh-CN": "你表示欢迎。",
+  "zh-TW": "你表示歡迎。"
+ },
+ "yes": {
+  "en": "You nod.",
+  "ja": "あなたはうなずいた。",
+  "zh-CN": "你原地点头。",
+  "zh-TW": "你原地點頭。"
+ },
+ "thumbsup": {
+  "en": "You agree wholeheartedly.",
+  "ja": "あなたは肯定した。",
+  "zh-CN": "你表示肯定。",
+  "zh-TW": "你表示肯定。"
+ },
+ "examineself": {
+  "en": "You admire yourself.",
+  "ja": "あなたは自身の姿を確認した。",
+  "zh-CN": "你查看自己的样子。",
+  "zh-TW": "你查看自己的樣子。"
+ },
+ "pose": {
+  "en": "You strike a pose.",
+  "ja": "あなたはポーズをとった。",
+  "zh-CN": "你在原地摆出了诱人的姿势。",
+  "zh-TW": "你在原地擺出了誘人的姿勢。"
+ },
+ "blowkiss": {
+  "en": "You blow a kiss.",
+  "ja": "あなたは投げキッスをした。",
+  "zh-CN": "你送出了飞吻。",
+  "zh-TW": "你送出了飛吻。"
+ },
+ "grovel": {
+  "en": "You grovel shamelessly.",
+  "ja": "あなたは土下座した。",
+  "zh-CN": "你下跪认错。",
+  "zh-TW": "你下跪認錯。"
+ },
+ "happy": {
+  "en": "You are uncontainably jubilant!",
+  "ja": "あなたはすごく喜んだ。",
+  "zh-CN": "你表示自己非常高兴。",
+  "zh-TW": "你表示自己非常高興。"
+ },
+ "disappointed": {
+  "en": "You are utterly disappointed.",
+  "ja": "あなたはすごくがっかりした。",
+  "zh-CN": "你表示自己非常沮丧。",
+  "zh-TW": "你表示自己非常沮喪。"
+ },
+ "gcsalute": {
+  "en": "You give a Flame salute.",
+  "ja": "あなたは不滅隊式敬礼をした。",
+  "zh-CN": "你行恒辉队军礼。",
+  "zh-TW": "你行恆輝隊軍禮。"
+ },
+ "pray": {
+  "en": "You pray solemnly.",
+  "ja": "あなたは祈った。",
+  "zh-CN": "你向众神祈祷。",
+  "zh-TW": "你向衆神祈禱。"
+ },
+ "imperialsalute": {
+  "en": "You give an imperial salute.",
+  "ja": "あなたは帝国式敬礼をした。",
+  "zh-CN": "你行帝国式军礼。",
+  "zh-TW": "你行帝國式軍禮。"
+ },
+ "megaflare": {
+  "en": "You cast Megaflare. Nothing happens.",
+  "ja": "あなたはメガフレアの如き光を放った。",
+  "zh-CN": "你放出了核爆般的光芒。",
+  "zh-TW": "你放出了核爆般的光芒。"
+ },
+ "crimsonlotus": {
+  "en": "You perform the Crimson Lotus.",
+  "ja": "あなたは演舞した。",
+  "zh-CN": "你开始练武。",
+  "zh-TW": "你開始練武。"
+ },
+ "charmed": {
+  "en": "You are charmed.",
+  "ja": "あなたは魅惑の抱擁で魅了された。",
+  "zh-CN": "你中了魅惑拥抱。",
+  "zh-TW": "你中了魅惑擁抱。"
+ },
+ "cheeronblue": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "cheerwaveyellow": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "cheerjumpred": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "straightface": {
+  "en": "You make a straight face.",
+  "ja": "あなたは素の表情になった。",
+  "zh-CN": "你面无表情。",
+  "zh-TW": "你面無表情。"
+ },
+ "smile": {
+  "en": "You smile.",
+  "ja": "あなたは微笑を浮かべた。",
+  "zh-CN": "你露出了微笑。",
+  "zh-TW": "你露出了微笑。"
+ },
+ "grin": {
+  "en": "You beam with delight.",
+  "ja": "あなたは笑顔になった。",
+  "zh-CN": "你露出了笑颜。",
+  "zh-TW": "你露出了笑顏。"
+ },
+ "smirk": {
+  "en": "You deliver a confident smirk.",
+  "ja": "あなたは自信あふれる表情になった。",
+  "zh-CN": "你做出了充满自信的表情。",
+  "zh-TW": "你做出了充滿自信的表情。"
+ },
+ "taunt": {
+  "en": "You put on a taunting grin.",
+  "ja": "あなたは不敵な表情になった。",
+  "zh-CN": "你做出了无所畏惧的表情。",
+  "zh-TW": "你做出了無所畏懼的表情。"
+ },
+ "shuteyes": {
+  "en": "You close your eyes.",
+  "ja": "あなたは目を閉ざした。",
+  "zh-CN": "你闭上了眼睛。",
+  "zh-TW": "你閉上了眼睛。"
+ },
+ "sad": {
+  "en": "Your eyes begin to well up.",
+  "ja": "あなたは泣き顔になった。",
+  "zh-CN": "你做出了悲伤的表情。",
+  "zh-TW": "你做出了悲傷的表情。"
+ },
+ "scared": {
+  "en": "You stare in fear.",
+  "ja": "あなたは恐怖を感じた表情になった。",
+  "zh-CN": "你做出了充满恐惧的表情。",
+  "zh-TW": "你做出了充滿恐懼的表情。"
+ },
+ "amazed": {
+  "en": "Your eyes grow wide with awe.",
+  "ja": "あなたは呆然とした表情になった。",
+  "zh-CN": "你做出了意外的表情。",
+  "zh-TW": "你做出了意外的表情。"
+ },
+ "ouch": {
+  "en": "You clench your teeth in pain.",
+  "ja": "あなたは痛そうな表情になった。",
+  "zh-CN": "你做出了痛苦的表情。",
+  "zh-TW": "你做出了痛苦的表情。"
+ },
+ "annoyed": {
+  "en": "You furrow your brow.",
+  "ja": "あなたは不機嫌そうな表情になった。",
+  "zh-CN": "你做出了反感的表情。",
+  "zh-TW": "你做出了反感的表情。"
+ },
+ "alert": {
+  "en": "You sense something amiss.",
+  "ja": "あなたは何かに気づいた表情になった。",
+  "zh-CN": "你做出了吃惊的表情。",
+  "zh-TW": "你做出了喫驚的表情。"
+ },
+ "worried": {
+  "en": "You are overcome with worry.",
+  "ja": "あなたは心配そうな表情になった。",
+  "zh-CN": "你做出了担心的表情。",
+  "zh-TW": "你做出了擔心的表情。"
+ },
+ "biggrin": {
+  "en": "You grin madly.",
+  "ja": "あなたは破顔した。",
+  "zh-CN": "你咧嘴笑了。",
+  "zh-TW": "你咧嘴笑了。"
+ },
+ "reflect": {
+  "en": "You take a moment of silence.",
+  "ja": "あなたは熟考した。",
+  "zh-CN": "你陷入了沉思。",
+  "zh-TW": "你陷入了沉思。"
+ },
+ "furrow": {
+  "en": "You furrow your brow.",
+  "ja": "あなたは眉をひそめた。",
+  "zh-CN": "你皱起了眉。",
+  "zh-TW": "你皺起了眉。"
+ },
+ "scoff": {
+  "en": "You scoff.",
+  "ja": "あなたは苦笑いした。",
+  "zh-CN": "你露出了苦笑。",
+  "zh-TW": "你露出了苦笑。"
+ },
+ "throw": {
+  "en": "You hurl something.",
+  "ja": "あなたは何かを投げた。",
+  "zh-CN": "你投出了什么东西。",
+  "zh-TW": "你投出了什麼東西。"
+ },
+ "stepdance": {
+  "en": "You perform a merry step dance.",
+  "ja": "あなたはステップダンスを踊った。",
+  "zh-CN": "你跳起了踢踏舞。",
+  "zh-TW": "你跳起了踢踏舞。"
+ },
+ "harvestdance": {
+  "en": "You perform a spirited harvest dance.",
+  "ja": "あなたは豊穣の舞を踊った。",
+  "zh-CN": "你跳起了丰饶之舞。",
+  "zh-TW": "你跳起了豐饒之舞。"
+ },
+ "balldance": {
+  "en": "You perform a stately ball dance.",
+  "ja": "あなたは宮廷の舞を踊った。",
+  "zh-CN": "你跳起了宫廷之舞。",
+  "zh-TW": "你跳起了宮廷之舞。"
+ },
+ "mandervilledance": {
+  "en": "You perform the Manderville.",
+  "ja": "あなたは紳士の舞を踊った。",
+  "zh-CN": "你跳起了绅士之舞。",
+  "zh-TW": "你跳起了紳士之舞。"
+ },
+ "stroke": {
+  "en": "You pat the air.",
+  "ja": "あなたはなでた。",
+  "zh-CN": "你做出了抚摸的动作。",
+  "zh-TW": "你做出了撫摸的動作。"
+ },
+ "handover": {
+  "en": "You extend your hand in a giving motion.",
+  "ja": "あなたは何かをわたした。",
+  "zh-CN": "你交出了什么东西。",
+  "zh-TW": "你交出了什麼東西。"
+ },
+ "bombdance": {
+  "en": "You perform an elegant bomb dance.",
+  "ja": "あなたはボム踊りを踊った。",
+  "zh-CN": "你跳起了火盆舞。",
+  "zh-TW": "你跳起了火盆舞。"
+ },
+ "hurray": {
+  "en": "You give a hearty “huzzah.”",
+  "ja": "あなたは勝ちどきをあげた！",
+  "zh-CN": "你做出了胜利的欢呼！",
+  "zh-TW": "你做出了勝利的歡呼！"
+ },
+ "slap": {
+  "en": "You slap the air.",
+  "ja": "あなたは平手打ちした。",
+  "zh-CN": "你甩了一巴掌。",
+  "zh-TW": "你甩了一巴掌。"
+ },
+ "hug": {
+  "en": "You hug the air.",
+  "ja": "あなたはハグした。",
+  "zh-CN": "你做出了拥抱的动作。",
+  "zh-TW": "你做出了擁抱的動作。"
+ },
+ "embrace": {
+  "en": "You embrace nothingness.",
+  "ja": "あなたは抱きしめた。",
+  "zh-CN": "你做出了深情拥抱的动作。",
+  "zh-TW": "你做出了深情擁抱的動作。"
+ },
+ "hildibrand": {
+  "en": "You strike a most gentlemanly pose.",
+  "ja": "あなたは事件屋の決めポーズをとった。",
+  "zh-CN": "你做出了最具有绅士风度的动作。",
+  "zh-TW": "你做出了最具有紳士風度的動作。"
+ },
+ "fistbump": {
+  "en": "You thrust your fist out before you.",
+  "ja": "あなたは拳を突き出した。",
+  "zh-CN": "你出了一拳。",
+  "zh-TW": "你出了一拳。"
+ },
+ "thavdance": {
+  "en": "You perform an exotic Near Eastern dance.",
+  "ja": "あなたはサベネアンダンスを踊った。",
+  "zh-CN": "你跳起了萨维奈舞。",
+  "zh-TW": "你跳起了薩維奈舞。"
+ },
+ "golddance": {
+  "en": "You perform the Gold dance.",
+  "ja": "あなたはゴールデンダンスを踊った。",
+  "zh-CN": "你跳起了黄金之舞。",
+  "zh-TW": "你跳起了黃金之舞。"
+ },
+ "sundance": {
+  "en": "You perform the sundrop dance.",
+  "ja": "あなたは太陽の舞を踊った。",
+  "zh-CN": "你跳起了太阳之舞。",
+  "zh-TW": "你跳起了太陽之舞。"
+ },
+ "battlestance": {
+  "en": "You ready for battle.",
+  "ja": "あなたは戦いに備えた。",
+  "zh-CN": "你做出了战斗的准备动作。",
+  "zh-TW": "你做出了戰鬥的準備動作。"
+ },
+ "victorypose": {
+  "en": "You celebrate victory.",
+  "ja": "あなたは勝利を喜んだ。",
+  "zh-CN": "你传达着胜利的喜悦。",
+  "zh-TW": "你傳達着勝利的喜悅。"
+ },
+ "backflip": {
+  "en": "You do a backflip.",
+  "ja": "あなたは宙返りした。",
+  "zh-CN": "你做了一个后空翻。",
+  "zh-TW": "你做了一個後空翻。"
+ },
+ "easterngreeting": {
+  "en": "You perform an Eastern greeting.",
+  "ja": "あなたは抱拳礼をした。",
+  "zh-CN": "你行了一个抱拳礼。",
+  "zh-TW": "你行了一個抱拳禮。"
+ },
+ "eureka": {
+  "en": "You experience a brief moment of enlightenment.",
+  "ja": "あなたは閃いた。",
+  "zh-CN": "你脑海里突然灵光一现。",
+  "zh-TW": "你腦海裏突然靈光一現。"
+ },
+ "mogdance": {
+  "en": "You perform the moogle dance.",
+  "ja": "あなたはモグモグダンスを踊った。",
+  "zh-CN": "你跳起了莫古莫古舞。",
+  "zh-TW": "你跳起了莫古莫古舞。"
+ },
+ "haurchefant": {
+  "en": "You express your fervent approval.",
+  "ja": "あなたは「イイ！」と示した。",
+  "zh-CN": "你表示太棒了。",
+  "zh-TW": "你表示太棒了。"
+ },
+ "easternstretch": {
+  "en": "You stretch your muscles.",
+  "ja": "あなたはウォームアップした。",
+  "zh-CN": "你做起了热身动作。",
+  "zh-TW": "你做起了熱身動作。"
+ },
+ "easterndance": {
+  "en": "You perform a Far Eastern dance.",
+  "ja": "あなたは東方の伝統舞踊を踊った。",
+  "zh-CN": "你跳起了东方传统舞蹈。",
+  "zh-TW": "你跳起了東方傳統舞蹈。"
+ },
+ "rangerpose1r": {
+  "en": "You do the Red Ranger pose.",
+  "ja": "あなたは戦士の演武：壱を決めた。",
+  "zh-CN": "你摆出了战队演武正红一式的造型。",
+  "zh-TW": "你擺出了戰隊演武正紅一式的造型。"
+ },
+ "rangerpose2r": {
+  "en": "You do the Black Ranger pose.",
+  "ja": "あなたは戦士の演武：弐を決めた。",
+  "zh-CN": "你摆出了战队演武正黑二式的造型。",
+  "zh-TW": "你擺出了戰隊演武正黑二式的造型。"
+ },
+ "rangerpose3r": {
+  "en": "You do the Yellow Ranger pose.",
+  "ja": "あなたは戦士の演武：参を決めた。",
+  "zh-CN": "你摆出了战队演武正黄三式的造型。",
+  "zh-TW": "你擺出了戰隊演武正黃三式的造型。"
+ },
+ "wink": {
+  "en": "You wink.",
+  "ja": "あなたはウィンクした。",
+  "zh-CN": "你抛出飞眼。",
+  "zh-TW": "你拋出飛眼。"
+ },
+ "rangerpose1l": {
+  "en": "You do the Red Ranger pose.",
+  "ja": "あなたは戦士の演武：壱ノ裏を決めた。",
+  "zh-CN": "你摆出了战队演武逆红一式的造型。",
+  "zh-TW": "你擺出了戰隊演武逆紅一式的造型。"
+ },
+ "rangerpose2l": {
+  "en": "You do the Black Ranger pose.",
+  "ja": "あなたは戦士の演武：弐ノ裏を決めた。",
+  "zh-CN": "你摆出了战队演武逆黑二式的造型。",
+  "zh-TW": "你擺出了戰隊演武逆黑二式的造型。"
+ },
+ "rangerpose3l": {
+  "en": "You do the Yellow Ranger pose.",
+  "ja": "あなたは戦士の演武：参ノ裏を決めた。",
+  "zh-CN": "你摆出了战队演武逆黄三式的造型。",
+  "zh-TW": "你擺出了戰隊演武逆黃三式的造型。"
+ },
+ "facepalm": {
+  "en": "You bury your face in disbelief.",
+  "ja": "あなたは顔を覆った。",
+  "zh-CN": "你捂住了脸。",
+  "zh-TW": "你捂住了臉。"
+ },
+ "zantetsuken": {
+  "en": "You cleave the air.",
+  "ja": "あなたは空間を斬り裂いた。",
+  "zh-CN": "你斩裂了空间。",
+  "zh-TW": "你斬裂了空間。"
+ },
+ "flex": {
+  "en": "You flex your muscles.",
+  "ja": "あなたは肉体美を誇った。",
+  "zh-CN": "你炫耀自己肉体的美感。",
+  "zh-TW": "你炫耀自己肉體的美感。"
+ },
+ "respect": {
+  "en": "You offer a moment of silence.",
+  "ja": "あなたは黙祷を捧げた。",
+  "zh-CN": "你献上了默哀。",
+  "zh-TW": "你獻上了默哀。"
+ },
+ "sneer": {
+  "en": "You sneer.",
+  "ja": "あなたはあくどそうな表情をした。",
+  "zh-CN": "你做出了阴险的表情。",
+  "zh-TW": "你做出了陰險的表情。"
+ },
+ "prettyplease": {
+  "en": "You ask pretty please.",
+  "ja": "あなたはおねだりした。",
+  "zh-CN": "你撒起了娇。",
+  "zh-TW": "你撒起了嬌。"
+ },
+ "playdead": {
+  "en": "You play dead.",
+  "ja": "あなたは死んだふりをした。",
+  "zh-CN": "你开始装死。",
+  "zh-TW": "你開始裝死。"
+ },
+ "iceheart": {
+  "en": "You sparkle like diamond dust.",
+  "ja": "あなたは氷とともに舞った。",
+  "zh-CN": "你与冰共舞。",
+  "zh-TW": "你與冰共舞。"
+ },
+ "moonlift": {
+  "en": "You perform the moonlift dance.",
+  "ja": "あなたは太陽と月の舞を踊った。",
+  "zh-CN": "你跳起了日月之舞。",
+  "zh-TW": "你跳起了日月之舞。"
+ },
+ "dote": {
+  "en": "You cannot contain your feelings of affection.",
+  "ja": "あなたは愛を表現した。",
+  "zh-CN": "你表达了爱意。",
+  "zh-TW": "你表達了愛意。"
+ },
+ "spectacles": {
+  "en": "You straighten your spectacles.",
+  "ja": "あなたは眼鏡の位置を正した。",
+  "zh-CN": "你调整了一下眼镜的位置。",
+  "zh-TW": "你調整了一下眼鏡的位置。"
+ },
+ "songbird": {
+  "en": "You strut like a Songbird.",
+  "ja": "あなたは歌姫を真似た。",
+  "zh-CN": "你跳起了小黄莺之舞。",
+  "zh-TW": "你跳起了小黃鶯之舞。"
+ },
+ "puckerup": {
+  "en": "You pucker up.",
+  "ja": "あなたは口をすぼめた。",
+  "zh-CN": "你嘟起了嘴。",
+  "zh-TW": "你嘟起了嘴。"
+ },
+ "powerup": {
+  "en": "You channel your inner strength.",
+  "ja": "あなたは力を高めた。",
+  "zh-CN": "你开始蓄力。",
+  "zh-TW": "你開始蓄力。"
+ },
+ "easternbow": {
+  "en": "You perform an Eastern bow.",
+  "ja": "あなたは東方風のお辞儀をした。",
+  "zh-CN": "你恭敬地行了东方礼。",
+  "zh-TW": "你恭敬地行了東方禮。"
+ },
+ "squats": {
+  "en": "You begin a set of squats.",
+  "ja": "あなたはスクワットした。",
+  "zh-CN": "你做起了深蹲。",
+  "zh-TW": "你做起了深蹲。"
+ },
+ "pushups": {
+  "en": "You begin a set of push-ups.",
+  "ja": "あなたは腕立て伏せをした。",
+  "zh-CN": "你做起了俯卧撑。",
+  "zh-TW": "你做起了俯臥撐。"
+ },
+ "situps": {
+  "en": "You begin a set of sit-ups.",
+  "ja": "あなたは腹筋運動をした。",
+  "zh-CN": "你做起了仰卧起坐。",
+  "zh-TW": "你做起了仰臥起坐。"
+ },
+ "breathcontrol": {
+  "en": "You control your breathing.",
+  "ja": "あなたは深呼吸した。",
+  "zh-CN": "你做起了深呼吸。",
+  "zh-TW": "你做起了深呼吸。"
+ },
+ "converse": {
+  "en": "You begin speaking to no one in particular.",
+  "ja": "あなたは話した。",
+  "zh-CN": "你说起了话。",
+  "zh-TW": "你說起了話。"
+ },
+ "concentrate": {
+  "en": "You try hard to concentrate.",
+  "ja": "あなたは真剣な表情になった。",
+  "zh-CN": "你做出了认真的表情。",
+  "zh-TW": "你做出了認真的表情。"
+ },
+ "disturbed": {
+  "en": "You are utterly confounded.",
+  "ja": "あなたは困惑した表情になった。",
+  "zh-CN": "你做出了困惑的表情。",
+  "zh-TW": "你做出了困惑的表情。"
+ },
+ "simper": {
+  "en": "You smile weakly.",
+  "ja": "あなたは柔和に微笑んだ。",
+  "zh-CN": "你露出了柔和的微笑。",
+  "zh-TW": "你露出了柔和的微笑。"
+ },
+ "beam": {
+  "en": "You are positively beaming.",
+  "ja": "あなたは満ち足りた表情をした。",
+  "zh-CN": "你做出了满足的表情。",
+  "zh-TW": "你做出了滿足的表情。"
+ },
+ "attention": {
+  "en": "You stand at attention.",
+  "ja": "あなたは気をつけの姿勢をした。",
+  "zh-CN": "你做出了立正的姿势。",
+  "zh-TW": "你做出了立正的姿勢。"
+ },
+ "atease": {
+  "en": "You relax your pose.",
+  "ja": "あなたは休めの姿勢をした。",
+  "zh-CN": "你做出了稍息的姿势。",
+  "zh-TW": "你做出了稍息的姿勢。"
+ },
+ "box": {
+  "en": "You begin shadowboxing.",
+  "ja": "あなたは格闘訓練をした。",
+  "zh-CN": "你练起了拳。",
+  "zh-TW": "你練起了拳。"
+ },
+ "ritualprayer": {
+  "en": "You perform a ritual prayer.",
+  "ja": "あなたはおまじないをした。",
+  "zh-CN": "你开始祝祷。",
+  "zh-TW": "你開始祝禱。"
+ },
+ "tremble": {
+  "en": "You tremble in fright.",
+  "ja": "あなたは怯えた。",
+  "zh-CN": "你害怕地抱住了头。",
+  "zh-TW": "你害怕地抱住了頭。"
+ },
+ "winded": {
+  "en": "You drop to your knee winded.",
+  "ja": "あなたは膝を突いた。",
+  "zh-CN": "你单膝跪地。",
+  "zh-TW": "你單膝跪地。"
+ },
+ "aback": {
+  "en": "You are taken aback.",
+  "ja": "あなたは仰天した。",
+  "zh-CN": "你大吃了一惊。",
+  "zh-TW": "你大喫了一驚。"
+ },
+ "greet": {
+  "en": "You raise your hand in greeting.",
+  "ja": "あなたは挨拶した。",
+  "zh-CN": "你打了个招呼。",
+  "zh-TW": "你打了個招呼。"
+ },
+ "boxstep": {
+  "en": "You do the box step.",
+  "ja": "あなたはボックスステップを踏んだ。",
+  "zh-CN": "你踩着方形步翩翩起舞。",
+  "zh-TW": "你踩着方形步翩翩起舞。"
+ },
+ "sidestep": {
+  "en": "You do the side step.",
+  "ja": "あなたはサイドステップを踏んだ。",
+  "zh-CN": "你跳起了侧步。",
+  "zh-TW": "你跳起了側步。"
+ },
+ "ultima": {
+  "en": "You ready Ultima. Nothing happens.",
+  "ja": "あなたはアルテマの如き光を放った。",
+  "zh-CN": "你展开双翼，发动究极！",
+  "zh-TW": "你展開雙翼，發動究極！"
+ },
+ "yoldance": {
+  "en": "You perform the yol dance.",
+  "ja": "あなたはヨルダンスを踊った。",
+  "zh-CN": "你跳起了胡鹰之舞。",
+  "zh-TW": "你跳起了胡鷹之舞。"
+ },
+ "splash": {
+  "en": "You playfully splash in the water.",
+  "ja": "あなたは水をかけた。",
+  "zh-CN": "你撩起了水花。",
+  "zh-TW": "你撩起了水花。"
+ },
+ "sweat": {
+  "en": "You wipe your brow.",
+  "ja": "あなたは暑がった。",
+  "zh-CN": "你觉得好热。",
+  "zh-TW": "你覺得好熱。"
+ },
+ "shiver": {
+  "en": "You begin to shiver.",
+  "ja": "あなたは寒がった。",
+  "zh-CN": "你感觉好冷。",
+  "zh-TW": "你感覺好冷。"
+ },
+ "elucidate": {
+  "en": "You begin explaining.",
+  "ja": "あなたは説明した。",
+  "zh-CN": "你进行了说明。",
+  "zh-TW": "你進行了說明。"
+ },
+ "ponder": {
+  "en": "You are deep in thought.",
+  "ja": "あなたは空想するような表情をした。",
+  "zh-CN": "你做出仿佛正在思索的表情。",
+  "zh-TW": "你做出彷彿正在思索的表情。"
+ },
+ "leftwink": {
+  "en": "You wink.",
+  "ja": "あなたはウィンクした。",
+  "zh-CN": "你抛出飞眼。",
+  "zh-TW": "你拋出飛眼。"
+ },
+ "getfantasy": {
+  "en": "You do the “get fantasy.”",
+  "ja": "あなたはゲットファンタジーを踊った。",
+  "zh-CN": "你跳起了幻想舞步。",
+  "zh-TW": "你跳起了幻想舞步。"
+ },
+ "popotostep": {
+  "en": "You do the popoto step.",
+  "ja": "あなたはポポトステップを踏んだ。",
+  "zh-CN": "你跳起了波波托步。",
+  "zh-TW": "你跳起了波波託步。"
+ },
+ "hum": {
+  "en": "You hum playfully.",
+  "ja": "あなたは鼻歌を歌った。",
+  "zh-CN": "你开始哼唱一首歌。",
+  "zh-TW": "你開始哼唱一首歌。"
+ },
+ "confirm": {
+  "en": "You confirm something of great import.",
+  "ja": "あなたは確認した。",
+  "zh-CN": "你开始进行确认。",
+  "zh-TW": "你開始進行確認。"
+ },
+ "scheme": {
+  "en": "You weave an intricate web of deceit.",
+  "ja": "あなたは企みを話した。",
+  "zh-CN": "你讲起了自己的计划。",
+  "zh-TW": "你講起了自己的計劃。"
+ },
+ "endure": {
+  "en": "You silently endure.",
+  "ja": "あなたは忍耐するような表情をした。",
+  "zh-CN": "你做出了忍耐的表情。",
+  "zh-TW": "你做出了忍耐的表情。"
+ },
+ "tomestone": {
+  "en": "You swipe excitedly at your tomestone. Nothing happens.",
+  "ja": "あなたはトームストーンを愛でた。",
+  "zh-CN": "你开始欣赏神典石。",
+  "zh-TW": "你開始欣賞神典石。"
+ },
+ "heeltoe": {
+  "en": "You do the heel toe.",
+  "ja": "あなたはヒールトーを踏んだ。",
+  "zh-CN": "你跳起了趾踵步。",
+  "zh-TW": "你跳起了趾踵步。"
+ },
+ "goobbuedo": {
+  "en": "You dance the “goobbue do.”",
+  "ja": "あなたはグゥーブー・ドゥを踊った。",
+  "zh-CN": "你跳起了古菩步。",
+  "zh-TW": "你跳起了古菩步。"
+ },
+ "gratuity": {
+  "en": "You scatter coins about the area.",
+  "ja": "あなたは心づけをばらまいた。",
+  "zh-CN": "你撒了一把钱以示心意。",
+  "zh-TW": "你撒了一把錢以示心意。"
+ },
+ "fistpump": {
+  "en": "You pump your fist emphatically.",
+  "ja": "あなたはガッツポーズをした。",
+  "zh-CN": "你振作起了精神。",
+  "zh-TW": "你振作起了精神。"
+ },
+ "reprimand": {
+  "en": "You are visibly upset.",
+  "ja": "あなたは注意をした。",
+  "zh-CN": "你提醒起了周围的人。",
+  "zh-TW": "你提醒起了周圍的人。"
+ },
+ "sabotender": {
+  "en": "You pose like Senor Sabotender.",
+  "ja": "あなたはサボテンダーポーズを決めた。",
+  "zh-CN": "你优雅地模仿起了仙人刺。",
+  "zh-TW": "你優雅地模仿起了仙人刺。"
+ },
+ "mandervillemambo": {
+  "en": "You perform the Manderville Mambo.",
+  "ja": "あなたは事件屋のマンボを踊った。",
+  "zh-CN": "你跳起了绅士舞步。",
+  "zh-TW": "你跳起了紳士舞步。"
+ },
+ "laliho": {
+  "en": "You give an enthusiastic “Lali-ho!”",
+  "ja": "あなたはラリホーをした。",
+  "zh-CN": "你啦哩吼了一下。",
+  "zh-TW": "你啦哩吼了一下。"
+ },
+ "simulationm": {
+  "en": "You synthesize a shimmering sword.",
+  "ja": "あなたはオメガMの構えをした。",
+  "zh-CN": "你做出了欧米茄M的架势。",
+  "zh-TW": "你做出了歐米茄M的架勢。"
+ },
+ "simulationf": {
+  "en": "You synthesize a shimmering spear.",
+  "ja": "あなたはオメガFの構えをした。",
+  "zh-CN": "你做出了欧米茄F的架势。",
+  "zh-TW": "你做出了歐米茄F的架勢。"
+ },
+ "toast": {
+  "en": "You give a toast.",
+  "ja": "あなたは乾杯した。",
+  "zh-CN": "你高举杯子一饮而尽。",
+  "zh-TW": "你高舉杯子一飲而盡。"
+ },
+ "headache": {
+  "en": "You reel in agony from a splitting headache.",
+  "ja": "あなたは頭痛に苦しんだ。",
+  "zh-CN": "你因头痛而面露苦相。",
+  "zh-TW": "你因頭痛而面露苦相。"
+ },
+ "snap": {
+  "en": "You snap your fingers.",
+  "ja": "あなたは指を鳴らした。",
+  "zh-CN": "你华丽地打了个响指。",
+  "zh-TW": "你華麗地打了個響指。"
+ },
+ "breakfast": {
+  "en": "You snack on a piece of bread.",
+  "ja": "あなたはパンを食べた。",
+  "zh-CN": "你优雅地吃起了面包。",
+  "zh-TW": "你優雅地喫起了麪包。"
+ },
+ "read": {
+  "en": "You read a book.",
+  "ja": "あなたは本を読んだ。",
+  "zh-CN": "你悠闲地看起了书。",
+  "zh-TW": "你悠閒地看起了書。"
+ },
+ "insist": {
+  "en": "You speak emphatically to any who will listen.",
+  "ja": "あなたは主張した。",
+  "zh-CN": "你发表了自己的主张。",
+  "zh-TW": "你發表了自己的主張。"
+ },
+ "consider": {
+  "en": "A question springs to your mind.",
+  "ja": "あなたは疑問を抱いた。",
+  "zh-CN": "你心怀疑问。",
+  "zh-TW": "你心懷疑問。"
+ },
+ "wasshoi": {
+  "en": "You let out a joyous “wasshoi.”",
+  "ja": "あなたはわっしょいした。",
+  "zh-CN": "你嘿哟嘿哟鼓起劲来。",
+  "zh-TW": "你嘿喲嘿喲鼓起勁來。"
+ },
+ "flowershower": {
+  "en": "You toss flower petals into the air.",
+  "ja": "あなたはフラワーシャワーを浴びせた。",
+  "zh-CN": "你沐浴在花雨中。",
+  "zh-TW": "你沐浴在花雨中。"
+ },
+ "flamedance": {
+  "en": "You perform the flame dance.",
+  "ja": "あなたはフレイムダンスを踊った。",
+  "zh-CN": "你跳起了火焰之舞。",
+  "zh-TW": "你跳起了火焰之舞。"
+ },
+ "highfive": {
+  "en": "You go up high.",
+  "ja": "あなたはハイタッチの素振りをした。",
+  "zh-CN": "你做出了击掌的动作。",
+  "zh-TW": "你做出了擊掌的動作。"
+ },
+ "guard": {
+  "en": "You keep a watchful eye over your surroundings.",
+  "ja": "あなたは警備した。",
+  "zh-CN": "你巡视四周。",
+  "zh-TW": "你巡視四周。"
+ },
+ "malevolence": {
+  "en": "You entreat dark forces for aid in your schemes.",
+  "ja": "あなたは呪った。",
+  "zh-CN": "你满脸恶意地诅咒着。",
+  "zh-TW": "你滿臉惡意地詛咒着。"
+ },
+ "beesknees": {
+  "en": "You perform the bee's knees dance.",
+  "ja": "あなたはビーステップを踊った。",
+  "zh-CN": "你跳起了蜜蜂之舞。",
+  "zh-TW": "你跳起了蜜蜂之舞。"
+ },
+ "lalihop": {
+  "en": "You perform the lali hop.",
+  "ja": "あなたはラリホップを踊った。",
+  "zh-CN": "你跳起了啦哩吼舞。",
+  "zh-TW": "你跳起了啦哩吼舞。"
+ },
+ "eatriceball": {
+  "en": "You snack on a rice ball.",
+  "ja": "あなたはおにぎりを食べた。",
+  "zh-CN": "你大口地吃起了饭团。",
+  "zh-TW": "你大口地喫起了飯糰。"
+ },
+ "eatapple": {
+  "en": "You snack on an apple.",
+  "ja": "あなたはリンゴを食べた。",
+  "zh-CN": "你悠闲地吃起了苹果。",
+  "zh-TW": "你悠閒地喫起了蘋果。"
+ },
+ "wringhands": {
+  "en": "You wring your hands.",
+  "ja": "あなたはもみ手をした。",
+  "zh-CN": "你搓起了手。",
+  "zh-TW": "你搓起了手。"
+ },
+ "sweep": {
+  "en": "You sweep up.",
+  "ja": "あなたは足元をホウキで掃いた。",
+  "zh-CN": "你开始扫地。",
+  "zh-TW": "你開始掃地。"
+ },
+ "paintblack": {
+  "en": "You paint a swath of black at your feet.",
+  "ja": "あなたは足元を黒く塗った。",
+  "zh-CN": "你将自己的脚下涂成了一片漆黑。",
+  "zh-TW": "你將自己的腳下塗成了一片漆黑。"
+ },
+ "paintred": {
+  "en": "You paint a swath of red at your feet.",
+  "ja": "あなたは足元を赤く塗った。",
+  "zh-CN": "你将自己的脚下涂成了一片粉红。",
+  "zh-TW": "你將自己的腳下塗成了一片粉紅。"
+ },
+ "paintyellow": {
+  "en": "You paint a swath of yellow at your feet.",
+  "ja": "あなたは足元を黄色く塗った。",
+  "zh-CN": "你将自己的脚下涂成了一片奶黄。",
+  "zh-TW": "你將自己的腳下塗成了一片奶黃。"
+ },
+ "paintblue": {
+  "en": "You paint a swath of blue at your feet.",
+  "ja": "あなたは足元を青く塗った。",
+  "zh-CN": "你将自己的脚下涂成了一片碧蓝。",
+  "zh-TW": "你將自己的腳下塗成了一片碧藍。"
+ },
+ "fakesmile": {
+  "en": "You force a smile.",
+  "ja": "あなたは作り笑いをした。",
+  "zh-CN": "你露出了虚伪的笑容。",
+  "zh-TW": "你露出了虛僞的笑容。"
+ },
+ "pantomime": {
+  "en": "You perform a pantomime.",
+  "ja": "あなたはパントマイムを演じた。",
+  "zh-CN": "你表演起了默剧。",
+  "zh-TW": "你表演起了默劇。"
+ },
+ "vexed": {
+  "en": "You are visibly infuriated.",
+  "ja": "あなたは困惑した。",
+  "zh-CN": "你感到困惑。",
+  "zh-TW": "你感到困惑。"
+ },
+ "shush": {
+  "en": "You request silence.",
+  "ja": "あなたは静寂を促した。",
+  "zh-CN": "你提醒周围保持安静。",
+  "zh-TW": "你提醒周圍保持安靜。"
+ },
+ "eatpizza": {
+  "en": "You snack on a slice of pizza.",
+  "ja": "あなたはピザを食べた。",
+  "zh-CN": "你愉快地吃起了披萨。",
+  "zh-TW": "你愉快地喫起了披薩。"
+ },
+ "clutchhead": {
+  "en": "You clutch your head.",
+  "ja": "あなたは頭を抱えた。",
+  "zh-CN": "你伤透了脑筋。",
+  "zh-TW": "你傷透了腦筋。"
+ },
+ "eatchocolate": {
+  "en": "You snack on Valentione's chocolate.",
+  "ja": "あなたはヴァレンティオンチョコを食べた。",
+  "zh-CN": "你开始品尝恋人巧克力，仿佛有种恋爱的味道。",
+  "zh-TW": "你開始品嚐戀人巧克力，彷彿有種戀愛的味道。"
+ },
+ "eategg": {
+  "en": "You snack on a boiled egg.",
+  "ja": "あなたはゆで卵を食べた。",
+  "zh-CN": "你愉快地吃起了水煮蛋。",
+  "zh-TW": "你愉快地喫起了水煮蛋。"
+ },
+ "content": {
+  "en": "You smile in warm satisfaction.",
+  "ja": "あなたは幸福そうな表情になった。",
+  "zh-CN": "你面带幸福的微笑。",
+  "zh-TW": "你面帶幸福的微笑。"
+ },
+ "sheathe": {
+  "en": "You sheathe your weapon.",
+  "ja": "あなたは武器を収めた。",
+  "zh-CN": "你收回了武器。",
+  "zh-TW": "你收回了武器。"
+ },
+ "draw": {
+  "en": "You draw your weapon.",
+  "ja": "あなたは武器を構えた。",
+  "zh-CN": "你亮出了武器。",
+  "zh-TW": "你亮出了武器。"
+ },
+ "tea": {
+  "en": "You sip tea serenely.",
+  "ja": "あなたは紅茶を飲んだ。",
+  "zh-CN": "你优雅地喝起了红茶。",
+  "zh-TW": "你優雅地喝起了紅茶。"
+ },
+ "determined": {
+  "en": "You make a show of your resolve.",
+  "ja": "あなたは意気込んだ。",
+  "zh-CN": "你干劲十足。",
+  "zh-TW": "你幹勁十足。"
+ },
+ "showright": {
+  "en": "You appeal to your audience with a flourish.",
+  "ja": "あなたは見せつけた。",
+  "zh-CN": "你向大家展现身边事物的魅力。",
+  "zh-TW": "你向大家展現身邊事物的魅力。"
+ },
+ "showleft": {
+  "en": "You appeal to your audience with a flourish.",
+  "ja": "あなたは見せつけた。",
+  "zh-CN": "你向大家展现身边事物的魅力。",
+  "zh-TW": "你向大家展現身邊事物的魅力。"
+ },
+ "deride": {
+  "en": "You bare your teeth derisively.",
+  "ja": "あなたは反骨精神を示した。",
+  "zh-CN": "你做了一个鬼脸。",
+  "zh-TW": "你做了一個鬼臉。"
+ },
+ "wow": {
+  "en": "Your eyes sparkle in amazement.",
+  "ja": "あなたは目を輝かせた。",
+  "zh-CN": "你两眼放光，眼中充满了兴奋与期待。",
+  "zh-TW": "你兩眼放光，眼中充滿了興奮與期待。"
+ },
+ "eatpumpkincookie": {
+  "en": "You snack on a pumpkin cookie.",
+  "ja": "あなたはパンプキンクッキーを食べた。",
+  "zh-CN": "你有滋有味地吃起了南瓜曲奇。",
+  "zh-TW": "你有滋有味地喫起了南瓜曲奇。"
+ },
+ "spirit": {
+  "en": "You show your team spirit.",
+  "ja": "あなたは観戦した。",
+  "zh-CN": "你开始手舞足蹈地观战。",
+  "zh-TW": "你開始手舞足蹈地觀戰。"
+ },
+ "magictrick": {
+  "en": "You perform a fabulous magic trick.",
+  "ja": "あなたは手品をした。",
+  "zh-CN": "你表演了魔术。",
+  "zh-TW": "你表演了魔術。"
+ },
+ "littleladiesdance": {
+  "en": "You perform an elegant dance.",
+  "ja": "あなたは姫の舞踊を踊った。",
+  "zh-CN": "你跳了公主之舞。",
+  "zh-TW": "你跳了公主之舞。"
+ },
+ "linkpearl": {
+  "en": "You communicate via linkpearl.",
+  "ja": "あなたはリンクパール通信を行った。",
+  "zh-CN": "你展示了通讯珠的用法。",
+  "zh-TW": "你展示了通訊珠的用法。"
+ },
+ "earwiggle": {
+  "en": "You wiggle suddenly enormous ears.",
+  "ja": "あなたはおみみをピコピコした。",
+  "zh-CN": "你摇了摇兔兔耳。",
+  "zh-TW": "你搖了搖兔兔耳。"
+ },
+ "frighten": {
+  "en": "You unleash your rancor.",
+  "ja": "あなたは驚かした。",
+  "zh-CN": "你做出了吓唬人的表情。",
+  "zh-TW": "你做出了嚇唬人的表情。"
+ },
+ "adventoflight": {
+  "en": "You leap majestically into the air before making a suitably heroic landing.",
+  "ja": "あなたは光の戦士として勇ましく降臨した。",
+  "zh-CN": "你像光之战士一样英勇降临。",
+  "zh-TW": "你像光之戰士一樣英勇降臨。"
+ },
+ "jumpforjoy1": {
+  "en": "You jump happily for joy!",
+  "ja": "あなたはかわいらしくハッピージャンプをした。",
+  "zh-CN": "你开心地跳了起来，动作格外可爱。",
+  "zh-TW": "你開心地跳了起來，動作格外可愛。"
+ },
+ "jumpforjoy2": {
+  "en": "You jump merrily for joy!",
+  "ja": "あなたは嬉しそうにハッピージャンプをした。",
+  "zh-CN": "你开心地跳了起来，动作格外欢乐。",
+  "zh-TW": "你開心地跳了起來，動作格外歡樂。"
+ },
+ "jumpforjoy3": {
+  "en": "You jump enthusiastically for joy!",
+  "ja": "あなたは力強くハッピージャンプをした。",
+  "zh-CN": "你开心地跳了起来，跳得格外的高。",
+  "zh-TW": "你開心地跳了起來，跳得格外的高。"
+ },
+ "jumpforjoy4": {
+  "en": "You jump cheerfully for joy!",
+  "ja": "あなたはのびのびとハッピージャンプをした。",
+  "zh-CN": "你开心地跳了起来，动作格外舒展。",
+  "zh-TW": "你開心地跳了起來，動作格外舒展。"
+ },
+ "jumpforjoy5": {
+  "en": "You jump for joy like a sabotender!",
+  "ja": "あなたはサボテンダー風にハッピージャンプをした。",
+  "zh-CN": "你开心地跳了起来，动作好像仙人刺。",
+  "zh-TW": "你開心地跳了起來，動作好像仙人刺。"
+ },
+ "handtoheart": {
+  "en": "You gently place a hand on your heart.",
+  "ja": "あなたは胸に手をあてた。",
+  "zh-CN": "你以手抚胸。",
+  "zh-TW": "你以手撫胸。"
+ },
+ "cheeronbright": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "cheerwaveviolet": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "cheerjumpgreen": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "allsaintscharm": {
+  "en": "You wave your wand with a swish and flick!",
+  "ja": "あなたは守護天節のおまじないをかけた。",
+  "zh-CN": "你施展了守护天节的魔咒。",
+  "zh-TW": "你施展了守護天節的魔咒。"
+ },
+ "lophop": {
+  "en": "You perform the Lop Hop.",
+  "ja": "あなたはレポリットダンスを踊った。",
+  "zh-CN": "你跳起了兔兔舞。",
+  "zh-TW": "你跳起了兔兔舞。"
+ },
+ "reference": {
+  "en": "You consult literature.",
+  "ja": "あなたは文献と見比べた。",
+  "zh-CN": "你比对了文献。",
+  "zh-TW": "你比對了文獻。"
+ },
+ "eatchicken": {
+  "en": "You snack on a piece of fried chicken.",
+  "ja": "あなたはフライドチキンを食べた。",
+  "zh-CN": "你愉快地吃起了炸鸡。",
+  "zh-TW": "你愉快地喫起了炸雞。"
+ },
+ "sundering": {
+  "en": "You perform Exodus. The world survives unscathed.",
+  "ja": "あなたはエクソダスを放った。",
+  "zh-CN": "你跃向高空，发动众生离绝。",
+  "zh-TW": "你躍向高空，發動衆生離絕。"
+ },
+ "slump": {
+  "en": "You hang your head in defeat.",
+  "ja": "あなたはうなだれた。",
+  "zh-CN": "你垂头丧气，提不起一点精神。",
+  "zh-TW": "你垂頭喪氣，提不起一點精神。"
+ },
+ "loveheart": {
+  "en": "You make the shape of a heart with your hands.",
+  "ja": "あなたはハートポーズをした。",
+  "zh-CN": "你通过比心传达爱意。",
+  "zh-TW": "你通過比心傳達愛意。"
+ },
+ "humbletriumph": {
+  "en": "You strike a triumphant—but not *too* triumphant—pose.",
+  "ja": "あなたは自慢げなポーズをした。",
+  "zh-CN": "你得意洋洋地摆出了骄傲的姿势。",
+  "zh-TW": "你得意洋洋地擺出了驕傲的姿勢。"
+ },
+ "victoryreveal": {
+  "en": "You await news of your victory.",
+  "ja": "あなたはビーンズ・ビクトリーを誇った。",
+  "zh-CN": "你庆祝了胜利。",
+  "zh-TW": "你慶祝了勝利。"
+ },
+ "fryegg": {
+  "en": "You fry an egg.",
+  "ja": "あなたは目玉焼きを作った。",
+  "zh-CN": "你烹饪了一份简单美味的煎蛋。",
+  "zh-TW": "你烹飪了一份簡單美味的煎蛋。"
+ },
+ "uchiwasshoi": {
+  "en": "You stir the air with a giant fan.",
+  "ja": "あなたは大うちわで扇いだ。",
+  "zh-CN": "你用大团扇扇风。",
+  "zh-TW": "你用大團扇扇風。"
+ },
+ "attend": {
+  "en": "You await your next orders.",
+  "ja": "あなたは指示を待った。",
+  "zh-CN": "你开始等待指示。",
+  "zh-TW": "你開始等待指示。"
+ },
+ "water": {
+  "en": "You sprinkle water over the ground.",
+  "ja": "あなたは水をまいた。",
+  "zh-CN": "你开始浇水。",
+  "zh-TW": "你開始澆水。"
+ },
+ "shakedrink": {
+  "en": "You shake up a refreshing cocktail.",
+  "ja": "あなたはシェイカーを振った。",
+  "zh-CN": "你开始摇晃摇壶。",
+  "zh-TW": "你開始搖晃搖壺。"
+ },
+ "poseoftheunbound": {
+  "en": "You strike a decidedly liberated pose.",
+  "ja": "あなたは自由のポーズをした。",
+  "zh-CN": "你摆出了象征自由的姿势。",
+  "zh-TW": "你擺出了象徵自由的姿勢。"
+ },
+ "bouquet": {
+  "en": "You offer a bouquet of flowers.",
+  "ja": "あなたは花束を贈った。",
+  "zh-CN": "你送上花束。",
+  "zh-TW": "你送上花束。"
+ },
+ "blowbubbles": {
+  "en": "You blow bubbles into the air.",
+  "ja": "あなたはシャボン玉を吹いた。",
+  "zh-CN": "你吹起了泡泡。",
+  "zh-TW": "你吹起了泡泡。"
+ },
+ "ohokaliy": {
+  "en": "You demonstrate a polite “Ohokaliy!”",
+  "ja": "あなたはオフォカリーをした。",
+  "zh-CN": "你高呼噢霍卡利！",
+  "zh-TW": "你高呼噢霍卡利！"
+ },
+ "visage": {
+  "en": "You capture your visage with your exotablet.",
+  "ja": "あなたはタブレットで自分の姿を記録した。",
+  "zh-CN": "你使用触控板记录了自己的模样。",
+  "zh-TW": "你使用觸控板記錄了自己的模樣。"
+ },
+ "photograph": {
+  "en": "You take a photograph.",
+  "ja": "あなたは撮影した。",
+  "zh-CN": "你拍了张照片。",
+  "zh-TW": "你拍了張照片。"
+ },
+ "overreact": {
+  "en": "You react effusively, yet for little reason.",
+  "ja": "あなたは大げさに驚いた。",
+  "zh-CN": "你开始大惊小怪起来。",
+  "zh-TW": "你開始大驚小怪起來。"
+ },
+ "twirl": {
+  "en": "You perform a dazzling twirl.",
+  "ja": "あなたはくるっと回った。",
+  "zh-CN": "你转了个圈。",
+  "zh-TW": "你轉了個圈。"
+ },
+ "dazed": {
+  "en": "You sway dizzily.",
+  "ja": "あなたはふらついた。",
+  "zh-CN": "你有些晕头转向。",
+  "zh-TW": "你有些暈頭轉向。"
+ },
+ "rage": {
+  "en": "You tremble with rage.",
+  "ja": "あなたは怒りに震えた。",
+  "zh-CN": "你气愤到浑身颤抖。",
+  "zh-TW": "你氣憤到渾身顫抖。"
+ },
+ "tomescroll": {
+  "en": "You caress your tomestone in search of succor.",
+  "ja": "あなたはトームストーンを愛で続けた。",
+  "zh-CN": "你玩起了神典石。",
+  "zh-TW": "你玩起了神典石。"
+ },
+ "study": {
+  "en": "You study intently.",
+  "ja": "あなたは本を熟読した。",
+  "zh-CN": "你认真地看起了书。",
+  "zh-TW": "你認真地看起了書。"
+ },
+ "breakdance": {
+  "en": "You break into a spontaneous dance.",
+  "ja": "あなたはブレイキンを踊った。",
+  "zh-CN": "你跳了霹雳舞。",
+  "zh-TW": "你跳了霹靂舞。"
+ },
+ "gridaniansip": {
+  "en": "You sip at a mug of mulled Gridanian punch.",
+  "ja": "あなたは森都風マグカップでキンダープンシュを飲んだ。",
+  "zh-CN": "你用森都风格马克杯饮用了潘趣软饮。",
+  "zh-TW": "你用森都風格馬克杯飲用了潘趣軟飲。"
+ },
+ "uldahnsip": {
+  "en": "You sip at a mug of mulled Ul'dahn punch.",
+  "ja": "あなたは砂都風マグカップでキンダープンシュを飲んだ。",
+  "zh-CN": "你用沙都风格马克杯饮用了潘趣软饮。",
+  "zh-TW": "你用沙都風格馬克杯飲用了潘趣軟飲。"
+ },
+ "lominsansip": {
+  "en": "You sip at a mug of mulled Lominsan punch.",
+  "ja": "あなたは海都風マグカップでキンダープンシュを飲んだ。",
+  "zh-CN": "你用海都风格马克杯饮用了潘趣软饮。",
+  "zh-TW": "你用海都風格馬克杯飲用了潘趣軟飲。"
+ },
+ "gridaniangulp": {
+  "en": "You savor a serving of mulled Gridanian punch.",
+  "ja": "あなたは森都風マグカップでキンダープンシュを飲み続けた。",
+  "zh-CN": "你用森都风格马克杯饮用起了潘趣软饮。",
+  "zh-TW": "你用森都風格馬克杯飲用起了潘趣軟飲。"
+ },
+ "uldahngulp": {
+  "en": "You savor a serving of mulled Ul'dahn punch.",
+  "ja": "あなたは砂都風マグカップでキンダープンシュを飲み続けた。",
+  "zh-CN": "你用沙都风格马克杯饮用起了潘趣软饮。",
+  "zh-TW": "你用沙都風格馬克杯飲用起了潘趣軟飲。"
+ },
+ "lominsangulp": {
+  "en": "You savor a serving of mulled Lominsan punch.",
+  "ja": "あなたは海都風マグカップでキンダープンシュを飲み続けた。",
+  "zh-CN": "你用海都风格马持续饮用起了潘趣软饮。",
+  "zh-TW": "你用海都風格馬持續飲用起了潘趣軟飲。"
+ },
+ "limberup": {
+  "en": "You wind up your arm in a brisk stretch.",
+  "ja": "あなたは張り切った。",
+  "zh-CN": "你跃跃欲试。",
+  "zh-TW": "你躍躍欲試。"
+ },
+ "drinkgreentea": {
+  "en": "You sip at a soothing cup of green tea.",
+  "ja": "あなたは緑茶を飲んだ。",
+  "zh-CN": "你饮用了绿茶。",
+  "zh-TW": "你飲用了綠茶。"
+ },
+ "savortea": {
+  "en": "You take a seat to savor a cup of green tea.",
+  "ja": "あなたは正座して緑茶を飲み続けた。",
+  "zh-CN": "你端正坐下享用起了绿茶。",
+  "zh-TW": "你端正坐下享用起了綠茶。"
+ },
+ "pen": {
+  "en": "You scrawl down some notes.",
+  "ja": "あなたは羽根ペンで記述した。",
+  "zh-CN": "你用羽毛笔记述了内容。",
+  "zh-TW": "你用羽毛筆記述了內容。"
+ },
+ "blownaway": {
+  "en": "You are knocked off your feet.",
+  "ja": "あなたはふっとんだ。",
+  "zh-CN": "你被击飞了。",
+  "zh-TW": "你被擊飛了。"
+ },
+ "stomp": {
+  "en": "You stomp the ground.",
+  "ja": "あなたは地団駄を踏んだ。",
+  "zh-CN": "你气得直跺脚。",
+  "zh-TW": "你氣得直跺腳。"
+ },
+ "cheerrhythmred": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "cheerlightyellow": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "delighted": {
+  "en": "You press your hands to your cheeks in utter delight.",
+  "ja": "あなたはほっぺたが落ちてしまった。",
+  "zh-CN": "你做出了非常感动的表情。",
+  "zh-TW": "你做出了非常感動的表情。"
+ },
+ "runwaywalk": {
+  "en": "You strut confidently, as though all eyes are on you.",
+  "ja": "あなたはモデルウォークで歩いた。",
+  "zh-CN": "你走起了模特步。",
+  "zh-TW": "你走起了模特步。"
+ },
+ "cheeronorange": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "cheerwavepink": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "cheerjumpindigo": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "carrybook": {
+  "en": "You clutch a book to your chest.",
+  "ja": "あなたは本を抱えた。",
+  "zh-CN": "你抱起了书本。",
+  "zh-TW": "你抱起了書本。"
+ },
+ "divinearm": {
+  "en": "A brilliant light emanates from your gauntlet.",
+  "ja": "あなたは神機のガントレットを輝かせた。",
+  "zh-CN": "你让神机手铠发出了光芒。",
+  "zh-TW": "你讓神機手鎧發出了光芒。"
+ },
+ "divinedisk": {
+  "en": "A brilliant light emanates from your necklace.",
+  "ja": "あなたは神機のチョーカーを輝かせた。",
+  "zh-CN": "你让神机项环发出了光芒。",
+  "zh-TW": "你讓神機項環發出了光芒。"
+ },
+ "divinetiara": {
+  "en": "A brilliant light emanates from your tiara.",
+  "ja": "あなたは神機のティアラを輝かせた。",
+  "zh-CN": "你让神机王冠发出了光芒。",
+  "zh-TW": "你讓神機王冠發出了光芒。"
+ },
+ "cheerrhythmviolet": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "cheerrhythmbright": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "cheerlightblue": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "cheerlightgreen": {
+  "en": "You cheer to the rhythm.",
+  "ja": "あなたは声援を送った。",
+  "zh-CN": "你开始声援。",
+  "zh-TW": "你開始聲援。"
+ },
+ "cackle": {
+  "en": "You burst into a bout of irrepressible cackling.",
+  "ja": "あなたは高笑いをした。",
+  "zh-CN": "你放声大笑。",
+  "zh-TW": "你放聲大笑。"
+ },
+ "conduct": {
+  "en": "You keep time by swishing your baton authoritatively.",
+  "ja": "あなたは指揮棒を振った。",
+  "zh-CN": "你挥舞了指挥棒。",
+  "zh-TW": "你揮舞了指揮棒。"
+ },
+ "eattaco": {
+  "en": "You snack on a taco.",
+  "ja": "あなたはタコスを食べた。",
+  "zh-CN": "你若无其事地掏出张夹饼啃了两口。",
+  "zh-TW": "你若無其事地掏出張夾餅啃了兩口。"
+ },
+ "devourtaco": {
+  "en": "You savor a taco.",
+  "ja": "あなたはタコスを食べ続けた。",
+  "zh-CN": "你若无其事地掏出张夹饼啃了起来。",
+  "zh-TW": "你若無其事地掏出張夾餅啃了起來。"
+ }
+}

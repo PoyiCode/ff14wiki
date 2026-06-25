@@ -4,3 +4,5 @@ summary: "「Zantetsuken」动作 emote（/zantetsuken）。"
 ---
 
 指令 `/zantetsuken`（別名 `/ztk`）。FFXIV 的「Zantetsuken」动作。
+
+使用此动作时，聊天栏会显示：「你斩裂了空间。」

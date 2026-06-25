@@ -4,3 +4,5 @@ summary: "「Paint It Red」动作 emote（/paintred）。"
 ---
 
 指令 `/paintred`。FFXIV 的「Paint It Red」动作。
+
+使用此动作时，聊天栏会显示：「你将自己的脚下涂成了一片粉红。」

@@ -4,3 +4,5 @@ summary: "「Breaking」エモート（/breakdance）。"
 ---
 
 コマンドは `/breakdance`（別名 `/breaking`）。FFXIVの「Breaking」エモート。
+
+このエモートを使うと、チャットには「あなたはブレイキンを踊った。」と表示される。

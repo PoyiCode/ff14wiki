@@ -4,3 +4,5 @@ summary: "「Cheer Wave: Pink」動作 emote（/cheerwavepink）。"
 ---
 
 指令 `/cheerwavepink`（別名 `/cheerwp`）。FFXIV 的「Cheer Wave: Pink」動作。
+
+使用此動作時，聊天欄會顯示：「你開始聲援。」

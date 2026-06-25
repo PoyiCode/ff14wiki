@@ -4,3 +4,5 @@ summary: "「Storm Salute / Serpent Salute / Flame Salute」エモート（/gcsa
 ---
 
 コマンドは `/gcsalute`。FFXIVの「Storm Salute / Serpent Salute / Flame Salute」エモート。
+
+このエモートを使うと、チャットには「あなたは不滅隊式敬礼をした。」と表示される。

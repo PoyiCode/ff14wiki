@@ -4,3 +4,5 @@ summary: "「Devour Taco」エモート（/devourtaco）。"
 ---
 
 コマンドは `/devourtaco`。FFXIVの「Devour Taco」エモート。
+
+このエモートを使うと、チャットには「あなたはタコスを食べ続けた。」と表示される。

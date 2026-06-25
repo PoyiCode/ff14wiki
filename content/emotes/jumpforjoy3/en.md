@@ -4,3 +4,5 @@ summary: "The Jump for Joy 3 emote (/jumpforjoy3)."
 ---
 
 The command is `/jumpforjoy3` (alias `/jj3`). The Jump for Joy 3 emote in FFXIV.
+
+When a resident uses this emote, it reads in chat as: *You jump enthusiastically for joy!*

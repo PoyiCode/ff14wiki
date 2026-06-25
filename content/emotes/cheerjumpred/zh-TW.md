@@ -4,3 +4,5 @@ summary: "「Cheer Jump: Red」動作 emote（/cheerjumpred）。"
 ---
 
 指令 `/cheerjumpred`（別名 `/cheerjump`）。FFXIV 的「Cheer Jump: Red」動作。
+
+使用此動作時，聊天欄會顯示：「你開始聲援。」

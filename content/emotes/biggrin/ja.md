@@ -4,3 +4,5 @@ summary: "「Big Grin」エモート（/biggrin）。"
 ---
 
 コマンドは `/biggrin`。FFXIVの「Big Grin」エモート。
+
+このエモートを使うと、チャットには「あなたは破顔した。」と表示される。

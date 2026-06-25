@@ -4,3 +4,5 @@ summary: "「Sundering」动作 emote（/sundering）。"
 ---
 
 指令 `/sundering`（別名 `/exodus`）。FFXIV 的「Sundering」动作。
+
+使用此动作时，聊天栏会显示：「你跃向高空，发动众生离绝。」

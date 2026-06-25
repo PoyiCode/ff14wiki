@@ -4,3 +4,5 @@ summary: "「Wink (Right)」動作 emote（/wink）。"
 ---
 
 指令 `/wink`（別名 `/rightwink`）。FFXIV 的「Wink (Right)」動作。
+
+使用此動作時，聊天欄會顯示：「你拋出飛眼。」

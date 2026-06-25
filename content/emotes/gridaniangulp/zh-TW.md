@@ -4,3 +4,5 @@ summary: "「Gridanian Gulp」動作 emote（/gridaniangulp）。"
 ---
 
 指令 `/gridaniangulp`。FFXIV 的「Gridanian Gulp」動作。
+
+使用此動作時，聊天欄會顯示：「你用森都風格馬克杯飲用起了潘趣軟飲。」

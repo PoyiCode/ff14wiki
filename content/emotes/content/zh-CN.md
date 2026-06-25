@@ -4,3 +4,5 @@ summary: "「Content」动作 emote（/content）。"
 ---
 
 指令 `/content`。FFXIV 的「Content」动作。
+
+使用此动作时，聊天栏会显示：「你面带幸福的微笑。」
