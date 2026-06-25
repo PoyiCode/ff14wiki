@@ -240,6 +240,16 @@ export const CATEGORIES: CategoryDef[] = [
       en: 'The fish and aquatic life of Eorzea’s waters and their lore, so the bot can chat about fishing and describe a catch.',
     },
   },
+  {
+    key: 'facewear',
+    label: { 'zh-TW': '臉部裝飾', 'zh-CN': '面部配饰', ja: 'フェイスウェア', en: 'Facewear' },
+    description: {
+      'zh-TW': '眼鏡、眼罩等可戴在臉上的裝飾，讓 bot 能描述自己的造型、聊配件搭配。',
+      'zh-CN': '眼镜、眼罩等可戴在脸上的装饰，让 bot 能描述自己的造型、聊配件搭配。',
+      ja: 'メガネやアイマスクなど顔につけるフェイスウェア。botが自分の装いを語り、小物使いを話せるように。',
+      en: 'Facewear like glasses and eyepatches worn on the face, so the bot can describe its look and chat about accessorising.',
+    },
+  },
 ];
 
 export const CATEGORY_KEYS = CATEGORIES.map((c) => c.key);
