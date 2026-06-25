@@ -1,0 +1,6 @@
+id: elezen
+category: lore
+type: race
+tribes: ["Wildwood", "Duskwight"]
+tags: [race, people]
+status: stable

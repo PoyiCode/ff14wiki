@@ -1,0 +1,6 @@
+id: au-ra
+category: lore
+type: race
+tribes: ["Raen", "Xaela"]
+tags: [race, people]
+status: stable

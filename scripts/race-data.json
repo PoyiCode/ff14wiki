@@ -1,0 +1,194 @@
+[
+ {
+  "slug": "hyur",
+  "en": "Hyur",
+  "n": {
+   "en": "Hyur",
+   "zh-CN": "人族",
+   "ja": "ヒューラン",
+   "zh-TW": "人族"
+  },
+  "tribes": [
+   {
+    "en": "Midlander",
+    "zh-CN": "中原之民",
+    "ja": "ミッドランダー ",
+    "zh-TW": "中原之民"
+   },
+   {
+    "en": "Highlander",
+    "zh-CN": "高地之民",
+    "ja": "ハイランダー",
+    "zh-TW": "高地之民"
+   }
+  ]
+ },
+ {
+  "slug": "elezen",
+  "en": "Elezen",
+  "n": {
+   "en": "Elezen",
+   "zh-CN": "精灵族",
+   "ja": "エレゼン",
+   "zh-TW": "精靈族"
+  },
+  "tribes": [
+   {
+    "en": "Wildwood",
+    "zh-CN": "森林之民",
+    "ja": "フォレスター",
+    "zh-TW": "森林之民"
+   },
+   {
+    "en": "Duskwight",
+    "zh-CN": "黑影之民",
+    "ja": "シェーダー",
+    "zh-TW": "黑影之民"
+   }
+  ]
+ },
+ {
+  "slug": "lalafell",
+  "en": "Lalafell",
+  "n": {
+   "en": "Lalafell",
+   "zh-CN": "拉拉菲尔族",
+   "ja": "ララフェル",
+   "zh-TW": "拉拉菲爾族"
+  },
+  "tribes": [
+   {
+    "en": "Plainsfolk",
+    "zh-CN": "平原之民",
+    "ja": "プレーンフォーク",
+    "zh-TW": "平原之民"
+   },
+   {
+    "en": "Dunesfolk",
+    "zh-CN": "沙漠之民",
+    "ja": "デューンフォーク",
+    "zh-TW": "沙漠之民"
+   }
+  ]
+ },
+ {
+  "slug": "miqote",
+  "en": "Miqo'te",
+  "n": {
+   "en": "Miqo'te",
+   "zh-CN": "猫魅族",
+   "ja": "ミコッテ",
+   "zh-TW": "貓魅族"
+  },
+  "tribes": [
+   {
+    "en": "Seeker of the Sun",
+    "zh-CN": "逐日之民",
+    "ja": "サンシーカー",
+    "zh-TW": "逐日之民"
+   },
+   {
+    "en": "Keeper of the Moon",
+    "zh-CN": "护月之民",
+    "ja": "ムーンキーパー",
+    "zh-TW": "護月之民"
+   }
+  ]
+ },
+ {
+  "slug": "roegadyn",
+  "en": "Roegadyn",
+  "n": {
+   "en": "Roegadyn",
+   "zh-CN": "鲁加族",
+   "ja": "ルガディン",
+   "zh-TW": "魯加族"
+  },
+  "tribes": [
+   {
+    "en": "Sea Wolf",
+    "zh-CN": "北洋之民",
+    "ja": "ゼーヴォルフ",
+    "zh-TW": "北洋之民"
+   },
+   {
+    "en": "Hellsguard",
+    "zh-CN": "红焰之民",
+    "ja": "ローエンガルデ",
+    "zh-TW": "紅焰之民"
+   }
+  ]
+ },
+ {
+  "slug": "au-ra",
+  "en": "Au Ra",
+  "n": {
+   "en": "Au Ra",
+   "zh-CN": "敖龙族",
+   "ja": "アウラ",
+   "zh-TW": "敖龍族"
+  },
+  "tribes": [
+   {
+    "en": "Raen",
+    "zh-CN": "晨曦之民",
+    "ja": "アウラ・レン",
+    "zh-TW": "晨曦之民"
+   },
+   {
+    "en": "Xaela",
+    "zh-CN": "暮晖之民",
+    "ja": "アウラ・ゼラ",
+    "zh-TW": "暮暉之民"
+   }
+  ]
+ },
+ {
+  "slug": "hrothgar",
+  "en": "Hrothgar",
+  "n": {
+   "en": "Hrothgar",
+   "zh-CN": "硌狮族",
+   "ja": "ロスガル",
+   "zh-TW": "硌獅族"
+  },
+  "tribes": [
+   {
+    "en": "Helions",
+    "zh-CN": "掠日之民",
+    "ja": "ヘリオン",
+    "zh-TW": "掠日之民"
+   },
+   {
+    "en": "The Lost",
+    "zh-CN": "迷踪之民",
+    "ja": "ロスト",
+    "zh-TW": "迷蹤之民"
+   }
+  ]
+ },
+ {
+  "slug": "viera",
+  "en": "Viera",
+  "n": {
+   "en": "Viera",
+   "zh-CN": "维埃拉族",
+   "ja": "ヴィエラ",
+   "zh-TW": "維埃拉族"
+  },
+  "tribes": [
+   {
+    "en": "Rava",
+    "zh-CN": "密林之民",
+    "ja": "ラヴァ・ヴィエラ",
+    "zh-TW": "密林之民"
+   },
+   {
+    "en": "Veena",
+    "zh-CN": "山林之民",
+    "ja": "ヴィナ・ヴィエラ",
+    "zh-TW": "山林之民"
+   }
+  ]
+ }
+]

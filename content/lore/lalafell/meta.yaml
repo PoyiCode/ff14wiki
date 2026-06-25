@@ -1,0 +1,6 @@
+id: lalafell
+category: lore
+type: race
+tribes: ["Plainsfolk", "Dunesfolk"]
+tags: [race, people]
+status: stable

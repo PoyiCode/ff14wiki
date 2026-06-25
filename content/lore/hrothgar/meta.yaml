@@ -1,0 +1,6 @@
+id: hrothgar
+category: lore
+type: race
+tribes: ["Helions", "The Lost"]
+tags: [race, people]
+status: stable

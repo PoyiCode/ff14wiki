@@ -1,0 +1,6 @@
+id: hyur
+category: lore
+type: race
+tribes: ["Midlander", "Highlander"]
+tags: [race, people]
+status: stable

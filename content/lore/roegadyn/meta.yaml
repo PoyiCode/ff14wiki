@@ -1,0 +1,6 @@
+id: roegadyn
+category: lore
+type: race
+tribes: ["Sea Wolf", "Hellsguard"]
+tags: [race, people]
+status: stable

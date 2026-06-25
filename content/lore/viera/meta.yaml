@@ -1,0 +1,6 @@
+id: viera
+category: lore
+type: race
+tribes: ["Rava", "Veena"]
+tags: [race, people]
+status: stable
