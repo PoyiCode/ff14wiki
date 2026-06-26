@@ -1,6 +1,8 @@
 id: east-shroud
 category: world
 type: zone
+rank: landmark
+parent: world/the-black-shroud
 zone: "East Shroud"
 region: "The Black Shroud"
 related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds, thunder]

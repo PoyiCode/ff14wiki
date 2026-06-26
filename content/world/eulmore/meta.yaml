@@ -1,6 +1,8 @@
 id: eulmore
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/norvrandt
 aetheryte: "Eulmore"
 region: "Norvrandt"
 tags: [aetheryte, travel, teleport]

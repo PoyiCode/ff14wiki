@@ -1,6 +1,8 @@
 id: garlemald
 category: world
 type: zone
+rank: landmark
+parent: world/ilsabard
 zone: "Garlemald"
 region: "Ilsabard"
 related: [ilsabard, snow, clouds, fair-skies, thunder, rain, fog, clear-skies]

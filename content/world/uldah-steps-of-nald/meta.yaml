@@ -1,6 +1,8 @@
 id: uldah-steps-of-nald
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/uldah
 aetheryte: "Ul'dah - Steps of Nald"
 region: "Thanalan"
 tags: [aetheryte, travel, teleport]

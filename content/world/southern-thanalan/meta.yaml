@@ -1,6 +1,8 @@
 id: southern-thanalan
 category: world
 type: zone
+rank: landmark
+parent: world/thanalan
 zone: "Southern Thanalan"
 region: "Thanalan"
 related: [thanalan, clear-skies, heat-waves, fair-skies, clouds, fog]

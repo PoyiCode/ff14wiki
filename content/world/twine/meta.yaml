@@ -1,6 +1,8 @@
 id: twine
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/amh-araeng
 aetheryte: "Twine"
 region: "Norvrandt"
 zone: "Amh Araeng"

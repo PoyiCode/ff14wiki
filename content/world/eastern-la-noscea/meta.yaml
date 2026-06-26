@@ -1,6 +1,8 @@
 id: eastern-la-noscea
 category: world
 type: zone
+rank: landmark
+parent: world/la-noscea
 zone: "Eastern La Noscea"
 region: "La Noscea"
 related: [la-noscea, clear-skies, fair-skies, clouds, fog, rain, showers]

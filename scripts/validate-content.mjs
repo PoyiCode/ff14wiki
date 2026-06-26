@@ -54,6 +54,7 @@ for (const category of CATEGORIES) {
     if (meta.category && meta.category !== category) warn(`${rel}: meta.category (${meta.category}) 與所在分類不一致`);
     if (meta.id) addId(meta.id, category);
     for (const r of meta.related ?? []) referenced.push({ ref: String(r), where: rel, srcCat: category });
+    if (meta.parent) referenced.push({ ref: String(meta.parent), where: `${rel} (parent)`, srcCat: category });
 
     const present = LOCALES.filter((l) => fs.existsSync(path.join(entryDir, `${l}.md`)));
     if (present.length === 0) err(`${rel}: 沒有任何語言檔 (<locale>.md)`);

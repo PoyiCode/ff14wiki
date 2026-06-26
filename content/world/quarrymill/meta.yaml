@@ -1,6 +1,8 @@
 id: quarrymill
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/south-shroud
 aetheryte: "Quarrymill"
 region: "The Black Shroud"
 zone: "South Shroud"

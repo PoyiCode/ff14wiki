@@ -1,6 +1,8 @@
 id: the-peering-stones
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-fringes
 aetheryte: "The Peering Stones"
 region: "Gyr Abania"
 zone: "The Fringes"

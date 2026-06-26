@@ -1,6 +1,8 @@
 id: the-azim-steppe
 category: world
 type: zone
+rank: landmark
+parent: world/othard
 zone: "The Azim Steppe"
 region: "Othard"
 related: [othard, fair-skies, clear-skies, clouds, fog, rain, gales, wind]

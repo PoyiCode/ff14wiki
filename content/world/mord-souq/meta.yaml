@@ -1,6 +1,8 @@
 id: mord-souq
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/amh-araeng
 aetheryte: "Mord Souq"
 region: "Norvrandt"
 zone: "Amh Araeng"

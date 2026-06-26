@@ -1,6 +1,8 @@
 id: kugane
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/hingashi
 aetheryte: "Kugane"
 region: "Hingashi"
 tags: [aetheryte, travel, teleport]

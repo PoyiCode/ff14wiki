@@ -1,6 +1,8 @@
 id: urqopacha
 category: world
 type: zone
+rank: landmark
+parent: world/yok-tural
 zone: "Urqopacha"
 region: "Yok Tural"
 related: [yok-tural, fair-skies, clear-skies, clouds, fog, wind, snow]

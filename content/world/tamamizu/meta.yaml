@@ -1,6 +1,8 @@
 id: tamamizu
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-ruby-sea
 aetheryte: "Tamamizu"
 region: "Othard"
 zone: "The Ruby Sea"

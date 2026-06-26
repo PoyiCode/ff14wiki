@@ -1,6 +1,8 @@
 id: camp-overlook
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/outer-la-noscea
 aetheryte: "Camp Overlook"
 region: "La Noscea"
 zone: "Outer La Noscea"

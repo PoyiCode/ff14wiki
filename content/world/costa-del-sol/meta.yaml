@@ -1,6 +1,8 @@
 id: costa-del-sol
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/eastern-la-noscea
 aetheryte: "Costa del Sol"
 region: "La Noscea"
 zone: "Eastern La Noscea"

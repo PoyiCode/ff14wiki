@@ -34,6 +34,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 > **`related` 參照可用兩種形式**：裸 `id`（須全庫唯一）或限定式 `category/id`（如 `fishing-spots/cedarwood`）。`id` 只保證**分類內**唯一，不同分類可能同名（魚與釣場、地點與觀光點…），裸 id 指向這類同名目標會有歧義。**跨分類連結請一律用 `category/id`**；`npm run validate` 會對「指向跨分類同名 id 的裸 related」發出警告並建議改寫。
 
+> **`world`（世界地理）是多階層**：每個 world 條目的 `meta.yaml` 帶 `rank`（`region` 地區｜`city` 城市｜`aetheryte` 乙太之光｜`landmark` 地標・村落）與 `parent: world/<id>`（指向上層節點，`region` 為樹根）。資料夾維持扁平 `content/world/<slug>/`，階層只靠 `parent` 連結表達，不做資料夾巢狀。網站的 world 分類頁據此渲染成樹狀；agent 可沿 `parent` 上溯或列出某地區轄下的傳送點與地標。`parent` 由 `scripts/enrich-world-hierarchy.mjs` 解析生成（冪等，已有 `rank` 者跳過），在跑完 world 生成器後執行。
+
 ## 常用指令
 
 ```bash

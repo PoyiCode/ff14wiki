@@ -1,6 +1,8 @@
 id: aleport
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/western-la-noscea
 aetheryte: "Aleport"
 region: "La Noscea"
 zone: "Western La Noscea"

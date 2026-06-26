@@ -1,6 +1,8 @@
 id: black-brush-station
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/central-thanalan
 aetheryte: "Black Brush Station"
 region: "Thanalan"
 zone: "Central Thanalan"

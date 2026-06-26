@@ -1,6 +1,8 @@
 id: ala-ghiri
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-peaks
 aetheryte: "Ala Ghiri"
 region: "Gyr Abania"
 zone: "The Peaks"

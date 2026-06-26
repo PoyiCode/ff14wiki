@@ -1,6 +1,8 @@
 id: falcons-nest
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/coerthas-western-highlands
 aetheryte: "Falcon's Nest"
 region: "Coerthas"
 zone: "Coerthas Western Highlands"

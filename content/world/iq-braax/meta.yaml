@@ -1,6 +1,8 @@
 id: iq-braax
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/yak-t-el
 aetheryte: "Iq Br'aax"
 region: "Yok Tural"
 zone: "Yak T'el"

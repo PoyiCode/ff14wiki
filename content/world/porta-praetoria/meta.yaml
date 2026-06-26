@@ -1,6 +1,8 @@
 id: porta-praetoria
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-lochs
 aetheryte: "Porta Praetoria"
 region: "Gyr Abania"
 zone: "The Lochs"

@@ -1,6 +1,8 @@
 id: dhoro-iloh
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-azim-steppe
 aetheryte: "Dhoro Iloh"
 region: "Othard"
 zone: "The Azim Steppe"

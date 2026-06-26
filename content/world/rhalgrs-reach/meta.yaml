@@ -1,6 +1,8 @@
 id: rhalgrs-reach
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/gyr-abania
 aetheryte: "Rhalgr's Reach"
 region: "Gyr Abania"
 tags: [aetheryte, travel, teleport]

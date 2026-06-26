@@ -1,6 +1,8 @@
 id: amh-araeng
 category: world
 type: zone
+rank: landmark
+parent: world/norvrandt
 zone: "Amh Araeng"
 region: "Norvrandt"
 related: [norvrandt, fair-skies, clear-skies, clouds, dust-storms, heat-waves]

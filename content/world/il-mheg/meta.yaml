@@ -1,6 +1,8 @@
 id: il-mheg
 category: world
 type: zone
+rank: landmark
+parent: world/norvrandt
 zone: "Il Mheg"
 region: "Norvrandt"
 related: [norvrandt, fair-skies, clouds, clear-skies, rain, fog, thunderstorms]

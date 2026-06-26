@@ -1,6 +1,8 @@
 id: camp-drybone
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/eastern-thanalan
 aetheryte: "Camp Drybone"
 region: "Thanalan"
 zone: "Eastern Thanalan"

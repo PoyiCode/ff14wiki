@@ -1,6 +1,8 @@
 id: the-archeion
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/labyrinthos
 aetheryte: "The Archeion"
 region: "The Northern Empty"
 zone: "Labyrinthos"

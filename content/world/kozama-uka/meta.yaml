@@ -1,6 +1,8 @@
 id: kozama-uka
 category: world
 type: zone
+rank: landmark
+parent: world/yok-tural
 zone: "Kozama'uka"
 region: "Yok Tural"
 related: [yok-tural, fair-skies, clear-skies, clouds, fog, rain, showers]

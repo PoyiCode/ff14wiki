@@ -1,6 +1,8 @@
 id: the-doman-enclave
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/othard
 aetheryte: "The Doman Enclave"
 region: "Othard"
 tags: [aetheryte, travel, teleport]

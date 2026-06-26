@@ -1,6 +1,8 @@
 id: the-peaks
 category: world
 type: zone
+rank: landmark
+parent: world/gyr-abania
 zone: "The Peaks"
 region: "Gyr Abania"
 related: [gyr-abania, fair-skies, clouds, clear-skies, fog, wind, dust-storms]

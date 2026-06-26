@@ -1,6 +1,8 @@
 id: azys-lla
 category: world
 type: zone
+rank: landmark
+parent: world/abalathias-spine
 zone: "Azys Lla"
 region: "Abalathia's Spine"
 related: [fair-skies, clouds, thunder]

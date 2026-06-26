@@ -1,6 +1,8 @@
 id: eastern-thanalan
 category: world
 type: zone
+rank: landmark
+parent: world/thanalan
 zone: "Eastern Thanalan"
 region: "Thanalan"
 related: [thanalan, clear-skies, fair-skies, showers, clouds, fog, rain]

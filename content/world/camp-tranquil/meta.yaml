@@ -1,6 +1,8 @@
 id: camp-tranquil
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/south-shroud
 aetheryte: "Camp Tranquil"
 region: "The Black Shroud"
 zone: "South Shroud"

@@ -1,6 +1,8 @@
 id: wolves-den-pier
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/la-noscea
 aetheryte: "Wolves' Den Pier"
 region: "La Noscea"
 tags: [aetheryte, travel, teleport]

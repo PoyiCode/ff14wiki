@@ -1,6 +1,8 @@
 id: fallgourd-float
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/north-shroud
 aetheryte: "Fallgourd Float"
 region: "The Black Shroud"
 zone: "North Shroud"

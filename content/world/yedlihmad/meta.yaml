@@ -1,6 +1,8 @@
 id: yedlihmad
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/thavnair
 aetheryte: "Yedlihmad"
 region: "Ilsabard"
 zone: "Thavnair"

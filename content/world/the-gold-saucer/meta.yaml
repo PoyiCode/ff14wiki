@@ -1,6 +1,8 @@
 id: the-gold-saucer
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/thanalan
 aetheryte: "The Gold Saucer"
 region: "Thanalan"
 tags: [aetheryte, travel, teleport]

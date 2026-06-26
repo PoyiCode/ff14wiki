@@ -1,6 +1,8 @@
 id: helix
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/azys-lla
 aetheryte: "Helix"
 region: "Abalathia's Spine"
 zone: "Azys Lla"

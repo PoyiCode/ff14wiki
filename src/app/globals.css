@@ -89,3 +89,13 @@ h2 { font-size: 20px; margin-top: 32px; }
 .body :is(p, ul, ol) { margin: 12px 0; }
 .body code { background: #0b1219; padding: 1px 5px; border-radius: 4px; font-size: 90%; }
 .fallback-note { font-size: 13px; color: #d9a441; margin-bottom: 14px; }
+
+/* world 分類：地區→城市/乙太之光/地標 的階層樹 */
+.world-tree, .world-tree ul { list-style: none; margin: 0; padding: 0; }
+.world-tree ul { margin-left: 18px; border-left: 1px solid var(--border); padding-left: 14px; }
+.world-tree li { margin: 5px 0; }
+.world-tree a { font-size: 15px; }
+.rank-tag {
+  font-size: 11px; color: var(--muted); border: 1px solid var(--border);
+  border-radius: 6px; padding: 1px 7px; margin-left: 8px; vertical-align: middle;
+}

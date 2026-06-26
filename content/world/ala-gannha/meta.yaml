@@ -1,6 +1,8 @@
 id: ala-gannha
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-peaks
 aetheryte: "Ala Gannha"
 region: "Gyr Abania"
 zone: "The Peaks"

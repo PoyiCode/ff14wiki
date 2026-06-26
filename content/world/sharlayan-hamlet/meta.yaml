@@ -1,6 +1,8 @@
 id: sharlayan-hamlet
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/labyrinthos
 aetheryte: "Sharlayan Hamlet"
 region: "The Northern Empty"
 zone: "Labyrinthos"

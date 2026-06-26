@@ -1,6 +1,8 @@
 id: kholusia
 category: world
 type: zone
+rank: landmark
+parent: world/norvrandt
 zone: "Kholusia"
 region: "Norvrandt"
 related: [norvrandt, fair-skies, clouds, clear-skies, gales, rain, fog]

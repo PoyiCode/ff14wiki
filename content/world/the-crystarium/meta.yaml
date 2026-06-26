@@ -1,6 +1,8 @@
 id: the-crystarium
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/norvrandt
 aetheryte: "The Crystarium"
 region: "Norvrandt"
 tags: [aetheryte, travel, teleport]

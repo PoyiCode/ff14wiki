@@ -1,6 +1,8 @@
 id: shirogane
 category: world
 type: housing_district
+rank: landmark
+parent: world/hingashi
 area: "Shirogane"
 region: "Hingashi"
 related: [hingashi, fair-skies, clouds, clear-skies, rain, fog]

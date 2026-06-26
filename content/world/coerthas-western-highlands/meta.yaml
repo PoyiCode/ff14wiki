@@ -1,6 +1,8 @@
 id: coerthas-western-highlands
 category: world
 type: zone
+rank: landmark
+parent: world/coerthas
 zone: "Coerthas Western Highlands"
 region: "Coerthas"
 related: [coerthas, snow, blizzards, clouds, fair-skies, fog, clear-skies]

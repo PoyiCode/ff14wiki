@@ -1,6 +1,8 @@
 id: anyx-trine
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-dravanian-forelands
 aetheryte: "Anyx Trine"
 region: "Dravania"
 zone: "The Dravanian Forelands"

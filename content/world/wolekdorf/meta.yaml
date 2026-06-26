@@ -1,6 +1,8 @@
 id: wolekdorf
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/il-mheg
 aetheryte: "Wolekdorf"
 region: "Norvrandt"
 zone: "Il Mheg"

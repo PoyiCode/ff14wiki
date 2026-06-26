@@ -1,6 +1,8 @@
 id: many-fires
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/kozama-uka
 aetheryte: "Many Fires"
 region: "Yok Tural"
 zone: "Kozama'uka"

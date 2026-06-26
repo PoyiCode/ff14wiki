@@ -1,6 +1,8 @@
 id: south-shroud
 category: world
 type: zone
+rank: landmark
+parent: world/the-black-shroud
 zone: "South Shroud"
 region: "The Black Shroud"
 related: [the-black-shroud, fair-skies, clear-skies, thunder, clouds, fog, thunderstorms]

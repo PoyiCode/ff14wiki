@@ -1,6 +1,8 @@
 id: coerthas-central-highlands
 category: world
 type: zone
+rank: landmark
+parent: world/coerthas
 zone: "Coerthas Central Highlands"
 region: "Coerthas"
 related: [coerthas, snow, blizzards, clouds, fair-skies, fog, clear-skies]

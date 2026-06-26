@@ -1,6 +1,8 @@
 id: namai
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/yanxia
 aetheryte: "Namai"
 region: "Othard"
 zone: "Yanxia"

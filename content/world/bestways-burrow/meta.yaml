@@ -1,6 +1,8 @@
 id: bestways-burrow
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/mare-lamentorum
 aetheryte: "Bestways Burrow"
 region: "The Sea of Stars"
 zone: "Mare Lamentorum"

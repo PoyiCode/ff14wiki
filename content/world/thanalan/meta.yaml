@@ -1,6 +1,7 @@
 id: thanalan
 category: world
 type: region
+rank: region
 capital: uldah
 aetheryte: Ul'dah - Steps of Nald
 tags: [region, desert, canyon, mines]

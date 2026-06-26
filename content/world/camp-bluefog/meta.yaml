@@ -1,6 +1,8 @@
 id: camp-bluefog
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/northern-thanalan
 aetheryte: "Camp Bluefog"
 region: "Thanalan"
 zone: "Northern Thanalan"

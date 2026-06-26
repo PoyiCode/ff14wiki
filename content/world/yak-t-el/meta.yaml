@@ -1,6 +1,8 @@
 id: yak-t-el
 category: world
 type: zone
+rank: landmark
+parent: world/yok-tural
 zone: "Yak T'el"
 region: "Yok Tural"
 related: [yok-tural, fair-skies, clear-skies, clouds, fog, rain]

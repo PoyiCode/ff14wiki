@@ -1,6 +1,8 @@
 id: stilltide
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/kholusia
 aetheryte: "Stilltide"
 region: "Norvrandt"
 zone: "Kholusia"

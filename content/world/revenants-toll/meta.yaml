@@ -1,6 +1,8 @@
 id: revenants-toll
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/mor-dhona
 aetheryte: "Revenant's Toll"
 region: "Mor Dhona"
 tags: [aetheryte, travel, teleport]

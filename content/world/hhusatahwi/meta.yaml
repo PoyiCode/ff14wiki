@@ -1,6 +1,8 @@
 id: hhusatahwi
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/shaaloani
 aetheryte: "Hhusatahwi"
 region: "Xak Tural"
 zone: "Shaaloani"

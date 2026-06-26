@@ -1,6 +1,8 @@
 id: worlars-echo
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/urqopacha
 aetheryte: "Worlar's Echo"
 region: "Yok Tural"
 zone: "Urqopacha"

@@ -1,6 +1,7 @@
 id: the-sea-of-stars
 category: world
 type: region
+rank: region
 related: [mare-lamentorum, ultima-thule]
 tags: [region, geography]
 status: stable

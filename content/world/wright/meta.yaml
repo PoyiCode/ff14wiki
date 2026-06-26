@@ -1,6 +1,8 @@
 id: wright
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/kholusia
 aetheryte: "Wright"
 region: "Norvrandt"
 zone: "Kholusia"

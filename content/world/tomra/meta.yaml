@@ -1,6 +1,8 @@
 id: tomra
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/kholusia
 aetheryte: "Tomra"
 region: "Norvrandt"
 zone: "Kholusia"

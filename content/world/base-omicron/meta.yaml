@@ -1,6 +1,8 @@
 id: base-omicron
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/ultima-thule
 aetheryte: "Base Omicron"
 region: "The Sea of Stars"
 zone: "Ultima Thule"

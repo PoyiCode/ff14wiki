@@ -1,6 +1,8 @@
 id: the-churning-mists
 category: world
 type: zone
+rank: landmark
+parent: world/dravania
 zone: "The Churning Mists"
 region: "Dravania"
 related: [dravania, clear-skies, fair-skies, umbral-static, clouds, gales]

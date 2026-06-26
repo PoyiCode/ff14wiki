@@ -1,6 +1,8 @@
 id: uldah
 category: world
 type: city-state
+rank: city
+parent: world/thanalan
 region: thanalan
 coords: { x: 9.0, y: 9.0 }
 aetheryte: Ul'dah - Steps of Nald

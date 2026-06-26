@@ -1,6 +1,8 @@
 id: the-ala-mhigan-quarter
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-lochs
 aetheryte: "The Ala Mhigan Quarter"
 region: "Gyr Abania"
 zone: "The Lochs"

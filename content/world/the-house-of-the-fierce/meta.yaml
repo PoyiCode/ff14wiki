@@ -1,6 +1,8 @@
 id: the-house-of-the-fierce
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/yanxia
 aetheryte: "The House of the Fierce"
 region: "Othard"
 zone: "Yanxia"

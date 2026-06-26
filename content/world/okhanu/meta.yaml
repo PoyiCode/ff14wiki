@@ -1,6 +1,8 @@
 id: okhanu
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/kozama-uka
 aetheryte: "Ok'hanu"
 region: "Yok Tural"
 zone: "Kozama'uka"

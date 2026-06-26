@@ -1,6 +1,8 @@
 id: mamook
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/yak-t-el
 aetheryte: "Mamook"
 region: "Yok Tural"
 zone: "Yak T'el"

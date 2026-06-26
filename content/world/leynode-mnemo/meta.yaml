@@ -1,6 +1,8 @@
 id: leynode-mnemo
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/living-memory
 aetheryte: "Leynode Mnemo"
 region: "Unlost World"
 zone: "Living Memory"

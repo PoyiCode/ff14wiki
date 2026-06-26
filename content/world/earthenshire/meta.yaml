@@ -1,6 +1,8 @@
 id: earthenshire
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/kozama-uka
 aetheryte: "Earthenshire"
 region: "Yok Tural"
 zone: "Kozama'uka"

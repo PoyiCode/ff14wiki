@@ -1,6 +1,8 @@
 id: sinus-lacrimarum
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/mare-lamentorum
 aetheryte: "Sinus Lacrimarum"
 region: "The Sea of Stars"
 zone: "Mare Lamentorum"

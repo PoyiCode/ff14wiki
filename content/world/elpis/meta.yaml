@@ -1,6 +1,8 @@
 id: elpis
 category: world
 type: zone
+rank: landmark
+parent: world/the-world-unsundered
 zone: "Elpis"
 region: "The World Unsundered"
 related: [the-world-unsundered, fair-skies, clouds, umbral-wind, clear-skies]

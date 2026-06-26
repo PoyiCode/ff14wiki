@@ -1,6 +1,7 @@
 id: xak-tural
 category: world
 type: region
+rank: region
 related: [shaaloani, heritage-found, solution-nine]
 tags: [region, geography]
 status: stable

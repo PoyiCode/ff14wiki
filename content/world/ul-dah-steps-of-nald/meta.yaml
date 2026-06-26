@@ -1,6 +1,8 @@
 id: ul-dah-steps-of-nald
 category: world
 type: city_area
+rank: landmark
+parent: world/thanalan
 area: "Ul'dah - Steps of Nald"
 region: "Thanalan"
 related: [thanalan, clear-skies, clouds, fair-skies, fog, rain]

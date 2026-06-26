@@ -1,6 +1,8 @@
 id: castrum-oriens
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-fringes
 aetheryte: "Castrum Oriens"
 region: "Gyr Abania"
 zone: "The Fringes"

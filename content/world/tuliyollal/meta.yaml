@@ -1,6 +1,8 @@
 id: tuliyollal
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/yok-tural
 aetheryte: "Tuliyollal"
 region: "Yok Tural"
 tags: [aetheryte, travel, teleport]

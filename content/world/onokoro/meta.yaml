@@ -1,6 +1,8 @@
 id: onokoro
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-ruby-sea
 aetheryte: "Onokoro"
 region: "Othard"
 zone: "The Ruby Sea"

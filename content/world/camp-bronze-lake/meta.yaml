@@ -1,6 +1,8 @@
 id: camp-bronze-lake
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/upper-la-noscea
 aetheryte: "Camp Bronze Lake"
 region: "La Noscea"
 zone: "Upper La Noscea"

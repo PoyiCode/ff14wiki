@@ -1,6 +1,8 @@
 id: abode-of-the-ea
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/ultima-thule
 aetheryte: "Abode of the Ea"
 region: "The Sea of Stars"
 zone: "Ultima Thule"

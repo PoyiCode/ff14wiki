@@ -1,6 +1,8 @@
 id: the-sea-of-clouds
 category: world
 type: zone
+rank: landmark
+parent: world/abalathias-spine
 zone: "The Sea of Clouds"
 region: "Abalathia's Spine"
 related: [clear-skies, fair-skies, clouds, fog, wind, umbral-wind]

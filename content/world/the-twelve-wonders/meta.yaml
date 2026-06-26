@@ -1,6 +1,8 @@
 id: the-twelve-wonders
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/elpis
 aetheryte: "The Twelve Wonders"
 region: "The World Unsundered"
 zone: "Elpis"

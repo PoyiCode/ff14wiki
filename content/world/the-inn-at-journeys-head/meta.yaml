@@ -1,6 +1,8 @@
 id: the-inn-at-journeys-head
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/amh-araeng
 aetheryte: "The Inn at Journey's Head"
 region: "Norvrandt"
 zone: "Amh Araeng"

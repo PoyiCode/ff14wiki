@@ -1,6 +1,8 @@
 id: ultima-thule
 category: world
 type: zone
+rank: landmark
+parent: world/the-sea-of-stars
 zone: "Ultima Thule"
 region: "The Sea of Stars"
 related: [the-sea-of-stars, fair-skies, astromagnetic-storms, umbral-wind]

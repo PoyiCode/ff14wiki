@@ -1,6 +1,7 @@
 id: unlost-world
 category: world
 type: region
+rank: region
 related: [world/living-memory]
 tags: [region, geography]
 status: stable

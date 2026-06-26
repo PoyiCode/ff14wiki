@@ -1,6 +1,8 @@
 id: camp-cloudtop
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-sea-of-clouds
 aetheryte: "Camp Cloudtop"
 region: "Abalathia's Spine"
 zone: "The Sea of Clouds"

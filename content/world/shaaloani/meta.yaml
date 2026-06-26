@@ -1,6 +1,8 @@
 id: shaaloani
 category: world
 type: zone
+rank: landmark
+parent: world/xak-tural
 zone: "Shaaloani"
 region: "Xak Tural"
 related: [xak-tural, fair-skies, clouds, dust-storms, gales, clear-skies]

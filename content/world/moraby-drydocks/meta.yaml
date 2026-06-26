@@ -1,6 +1,8 @@
 id: moraby-drydocks
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/lower-la-noscea
 aetheryte: "Moraby Drydocks"
 region: "La Noscea"
 zone: "Lower La Noscea"

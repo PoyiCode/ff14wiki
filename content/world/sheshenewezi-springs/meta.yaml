@@ -1,6 +1,8 @@
 id: sheshenewezi-springs
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/shaaloani
 aetheryte: "Sheshenewezi Springs"
 region: "Xak Tural"
 zone: "Shaaloani"

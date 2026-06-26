@@ -1,6 +1,8 @@
 id: the-hawthorne-hut
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/east-shroud
 aetheryte: "The Hawthorne Hut"
 region: "The Black Shroud"
 zone: "East Shroud"

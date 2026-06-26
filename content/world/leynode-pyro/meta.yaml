@@ -1,6 +1,8 @@
 id: leynode-pyro
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/living-memory
 aetheryte: "Leynode Pyro"
 region: "Unlost World"
 zone: "Living Memory"

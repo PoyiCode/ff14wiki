@@ -1,6 +1,8 @@
 id: fort-jobb
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/lakeland
 aetheryte: "Fort Jobb"
 region: "Norvrandt"
 zone: "Lakeland"

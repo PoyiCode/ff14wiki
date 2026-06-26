@@ -1,6 +1,8 @@
 id: mare-lamentorum
 category: world
 type: zone
+rank: landmark
+parent: world/the-sea-of-stars
 zone: "Mare Lamentorum"
 region: "The Sea of Stars"
 related: [the-sea-of-stars, fair-skies, umbral-wind, moon-dust]

@@ -1,6 +1,8 @@
 id: electrope-strike
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/heritage-found
 aetheryte: "Electrope Strike"
 region: "Xak Tural"
 zone: "Heritage Found"

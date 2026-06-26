@@ -1,6 +1,8 @@
 id: fanow
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-rak-tika-greatwood
 aetheryte: "Fanow"
 region: "Norvrandt"
 zone: "The Rak'tika Greatwood"

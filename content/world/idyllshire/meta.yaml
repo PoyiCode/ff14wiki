@@ -1,6 +1,8 @@
 id: idyllshire
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/dravania
 aetheryte: "Idyllshire"
 region: "Dravania"
 tags: [aetheryte, travel, teleport]

@@ -1,6 +1,8 @@
 id: middle-la-noscea
 category: world
 type: zone
+rank: landmark
+parent: world/la-noscea
 zone: "Middle La Noscea"
 region: "La Noscea"
 related: [la-noscea, clear-skies, clouds, fair-skies, wind, fog, rain]

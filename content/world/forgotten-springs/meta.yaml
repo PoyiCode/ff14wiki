@@ -1,6 +1,8 @@
 id: forgotten-springs
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/southern-thanalan
 aetheryte: "Forgotten Springs"
 region: "Thanalan"
 zone: "Southern Thanalan"

@@ -1,6 +1,8 @@
 id: little-ala-mhigo
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/southern-thanalan
 aetheryte: "Little Ala Mhigo"
 region: "Thanalan"
 zone: "Southern Thanalan"

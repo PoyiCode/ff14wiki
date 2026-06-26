@@ -1,6 +1,8 @@
 id: labyrinthos
 category: world
 type: zone
+rank: landmark
+parent: world/the-northern-empty
 zone: "Labyrinthos"
 region: "The Northern Empty"
 related: [the-northern-empty, fair-skies, clouds, clear-skies, rain]

@@ -1,6 +1,8 @@
 id: reunion
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-azim-steppe
 aetheryte: "Reunion"
 region: "Othard"
 zone: "The Azim Steppe"

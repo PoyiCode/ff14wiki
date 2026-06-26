@@ -1,6 +1,8 @@
 id: the-fringes
 category: world
 type: zone
+rank: landmark
+parent: world/gyr-abania
 zone: "The Fringes"
 region: "Gyr Abania"
 related: [gyr-abania, fair-skies, clouds, clear-skies, fog, thunder]

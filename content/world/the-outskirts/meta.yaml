@@ -1,6 +1,8 @@
 id: the-outskirts
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/heritage-found
 aetheryte: "The Outskirts"
 region: "Xak Tural"
 zone: "Heritage Found"

@@ -1,6 +1,8 @@
 id: the-dravanian-forelands
 category: world
 type: zone
+rank: landmark
+parent: world/dravania
 zone: "The Dravanian Forelands"
 region: "Dravania"
 related: [dravania, clear-skies, fair-skies, clouds, fog, thunder, dust-storms]

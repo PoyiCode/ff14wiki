@@ -1,6 +1,8 @@
 id: limsa-lominsa-upper-decks
 category: world
 type: city_area
+rank: landmark
+parent: world/limsa-lominsa
 area: "Limsa Lominsa Upper Decks"
 region: "La Noscea"
 related: [la-noscea, clear-skies, fair-skies, clouds, fog, rain]

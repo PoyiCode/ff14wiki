@@ -1,6 +1,8 @@
 id: wachunpelo
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/urqopacha
 aetheryte: "Wachunpelo"
 region: "Yok Tural"
 zone: "Urqopacha"

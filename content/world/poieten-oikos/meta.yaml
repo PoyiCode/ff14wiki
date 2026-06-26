@@ -1,6 +1,8 @@
 id: poieten-oikos
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/elpis
 aetheryte: "Poieten Oikos"
 region: "The World Unsundered"
 zone: "Elpis"

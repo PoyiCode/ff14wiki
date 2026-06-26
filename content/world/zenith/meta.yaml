@@ -1,6 +1,8 @@
 id: zenith
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-churning-mists
 aetheryte: "Zenith"
 region: "Dravania"
 zone: "The Churning Mists"

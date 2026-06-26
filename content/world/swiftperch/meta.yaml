@@ -1,6 +1,8 @@
 id: swiftperch
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/western-la-noscea
 aetheryte: "Swiftperch"
 region: "La Noscea"
 zone: "Western La Noscea"

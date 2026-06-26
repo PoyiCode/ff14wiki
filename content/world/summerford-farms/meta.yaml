@@ -1,6 +1,8 @@
 id: summerford-farms
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/middle-la-noscea
 aetheryte: "Summerford Farms"
 region: "La Noscea"
 zone: "Middle La Noscea"

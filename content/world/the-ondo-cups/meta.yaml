@@ -1,6 +1,8 @@
 id: the-ondo-cups
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-tempest
 aetheryte: "The Ondo Cups"
 region: "Norvrandt"
 zone: "The Tempest"

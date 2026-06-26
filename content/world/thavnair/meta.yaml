@@ -1,6 +1,8 @@
 id: thavnair
 category: world
 type: zone
+rank: landmark
+parent: world/ilsabard
 zone: "Thavnair"
 region: "Ilsabard"
 related: [ilsabard, fair-skies, clouds, clear-skies, fog, rain, showers]

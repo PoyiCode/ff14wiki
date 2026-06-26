@@ -1,6 +1,8 @@
 id: the-rak-tika-greatwood
 category: world
 type: zone
+rank: landmark
+parent: world/norvrandt
 zone: "The Rak'tika Greatwood"
 region: "Norvrandt"
 related: [norvrandt, fair-skies, clear-skies, clouds, fog, rain, umbral-wind]

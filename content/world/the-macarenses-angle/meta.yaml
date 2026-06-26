@@ -1,6 +1,8 @@
 id: the-macarenses-angle
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/the-tempest
 aetheryte: "The Macarenses Angle"
 region: "Norvrandt"
 zone: "The Tempest"

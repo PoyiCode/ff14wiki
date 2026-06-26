@@ -1,6 +1,8 @@
 id: palakas-stand
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/thavnair
 aetheryte: "Palaka's Stand"
 region: "Ilsabard"
 zone: "Thavnair"

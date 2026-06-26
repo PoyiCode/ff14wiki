@@ -1,6 +1,8 @@
 id: reah-tahra
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/ultima-thule
 aetheryte: "Reah Tahra"
 region: "The Sea of Stars"
 zone: "Ultima Thule"

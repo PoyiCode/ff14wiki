@@ -1,6 +1,8 @@
 id: leynode-aero
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/living-memory
 aetheryte: "Leynode Aero"
 region: "Unlost World"
 zone: "Living Memory"

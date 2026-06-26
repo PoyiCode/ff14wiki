@@ -1,6 +1,8 @@
 id: horizon
 category: world
 type: aetheryte
+rank: aetheryte
+parent: world/western-thanalan
 aetheryte: "Horizon"
 region: "Thanalan"
 zone: "Western Thanalan"

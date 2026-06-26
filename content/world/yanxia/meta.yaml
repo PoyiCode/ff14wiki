@@ -1,6 +1,8 @@
 id: yanxia
 category: world
 type: zone
+rank: landmark
+parent: world/othard
 zone: "Yanxia"
 region: "Othard"
 related: [othard, fair-skies, clear-skies, clouds, rain, fog, showers]

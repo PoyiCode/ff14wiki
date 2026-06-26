@@ -1,6 +1,8 @@
 id: living-memory
 category: world
 type: zone
+rank: landmark
+parent: world/unlost-world
 zone: "Living Memory"
 region: "Unlost World"
 related: [unlost-world, fair-skies, clouds, rain, fog]
