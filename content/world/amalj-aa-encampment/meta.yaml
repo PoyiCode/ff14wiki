@@ -1,0 +1,11 @@
+id: amalj-aa-encampment
+category: world
+type: landmark
+rank: landmark
+parent: world/eastern-thanalan
+landmark: "Amalj'aa Encampment "
+zone: "Eastern Thanalan"
+region: "Thanalan"
+related: [world/eastern-thanalan]
+tags: [landmark, world, travel]
+status: stable

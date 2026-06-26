@@ -2,6 +2,6 @@ id: cupfish
 category: fish
 type: fish
 fish: "Cupfish"
-related: [blind-iron-mines]
+related: [fishing-spots/blind-iron-mines]
 tags: [fish, fishing, nature]
 status: stable

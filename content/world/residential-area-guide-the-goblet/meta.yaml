@@ -1,0 +1,11 @@
+id: residential-area-guide-the-goblet
+category: world
+type: landmark
+rank: landmark
+parent: world/the-goblet
+landmark: "Residential Area Guide"
+zone: "The Goblet"
+region: "Thanalan"
+related: [world/the-goblet]
+tags: [landmark, world, travel]
+status: stable

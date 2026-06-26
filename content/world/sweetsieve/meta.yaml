@@ -1,0 +1,11 @@
+id: sweetsieve
+category: world
+type: landmark
+rank: landmark
+parent: world/the-crystarium
+landmark: "Sweetsieve"
+zone: "The Crystarium"
+region: "Norvrandt"
+related: [world/the-crystarium]
+tags: [landmark, world, travel]
+status: stable

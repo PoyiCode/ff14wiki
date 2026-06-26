@@ -1,0 +1,11 @@
+id: the-hard-place
+category: world
+type: landmark
+rank: landmark
+parent: world/idyllshire
+landmark: "The Hard Place"
+zone: "Idyllshire"
+region: "Dravania"
+related: [world/idyllshire]
+tags: [landmark, world, travel]
+status: stable

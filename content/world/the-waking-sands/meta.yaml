@@ -1,0 +1,11 @@
+id: the-waking-sands
+category: world
+type: landmark
+rank: landmark
+parent: world/western-thanalan
+landmark: "The Waking Sands"
+zone: "Western Thanalan"
+region: "Thanalan"
+related: [world/western-thanalan]
+tags: [landmark, world, travel]
+status: stable

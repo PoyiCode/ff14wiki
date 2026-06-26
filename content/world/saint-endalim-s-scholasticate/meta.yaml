@@ -1,0 +1,11 @@
+id: saint-endalim-s-scholasticate
+category: world
+type: landmark
+rank: landmark
+parent: world/the-pillars
+landmark: "Saint Endalim's Scholasticate"
+zone: "The Pillars"
+region: "Coerthas"
+related: [world/the-pillars]
+tags: [landmark, world, travel]
+status: stable

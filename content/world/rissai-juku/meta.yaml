@@ -1,0 +1,11 @@
+id: rissai-juku
+category: world
+type: landmark
+rank: landmark
+parent: world/the-doman-enclave
+landmark: "Rissai-juku"
+zone: "The Doman Enclave"
+region: "Othard"
+related: [world/the-doman-enclave]
+tags: [landmark, world, travel]
+status: stable

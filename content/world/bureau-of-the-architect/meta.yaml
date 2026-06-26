@@ -1,0 +1,11 @@
+id: bureau-of-the-architect
+category: world
+type: landmark
+rank: landmark
+parent: world/the-tempest
+landmark: "Bureau of the Architect"
+zone: "The Tempest"
+region: "Norvrandt"
+related: [world/the-tempest]
+tags: [landmark, world, travel]
+status: stable

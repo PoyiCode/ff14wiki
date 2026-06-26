@@ -1,0 +1,11 @@
+id: the-fury-s-mercy
+category: world
+type: landmark
+rank: landmark
+parent: world/foundation
+landmark: "The Fury's Mercy"
+zone: "Foundation"
+region: "Coerthas"
+related: [world/foundation]
+tags: [landmark, world, travel]
+status: stable

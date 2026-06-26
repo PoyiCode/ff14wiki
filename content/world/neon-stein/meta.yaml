@@ -1,0 +1,11 @@
+id: neon-stein
+category: world
+type: landmark
+rank: landmark
+parent: world/solution-nine
+landmark: "Neon Stein"
+zone: "Solution Nine"
+region: "Xak Tural"
+related: [world/solution-nine]
+tags: [landmark, world, travel]
+status: stable

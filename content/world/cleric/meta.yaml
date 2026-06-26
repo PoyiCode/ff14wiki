@@ -1,0 +1,11 @@
+id: cleric
+category: world
+type: landmark
+rank: landmark
+parent: world/the-rak-tika-greatwood
+landmark: "Cleric"
+zone: "The Rak'tika Greatwood"
+region: "Norvrandt"
+related: [world/the-rak-tika-greatwood]
+tags: [landmark, world, travel]
+status: stable

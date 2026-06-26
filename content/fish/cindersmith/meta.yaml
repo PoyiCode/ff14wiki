@@ -2,6 +2,6 @@ id: cindersmith
 category: fish
 type: fish
 fish: "Cindersmith"
-related: [mourn, west-mourn, anyx-old]
+related: [mourn, west-mourn, fishing-spots/anyx-old]
 tags: [fish, fishing, nature]
 status: stable

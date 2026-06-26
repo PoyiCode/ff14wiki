@@ -1,0 +1,11 @@
+id: the-arc-of-the-venerable
+category: world
+type: landmark
+rank: landmark
+parent: world/the-pillars
+landmark: "The Arc of the Venerable"
+zone: "The Pillars"
+region: "Coerthas"
+related: [world/the-pillars]
+tags: [landmark, world, travel]
+status: stable

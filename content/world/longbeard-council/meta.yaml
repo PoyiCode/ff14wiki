@@ -1,0 +1,11 @@
+id: longbeard-council
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "Longbeard Council"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

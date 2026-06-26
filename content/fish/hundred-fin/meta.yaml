@@ -2,6 +2,6 @@ id: hundred-fin
 category: fish
 type: fish
 fish: "Hundred Fin"
-related: [weston-waters]
+related: [fishing-spots/weston-waters]
 tags: [fish, fishing, nature]
 status: stable

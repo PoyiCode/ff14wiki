@@ -2,6 +2,6 @@ id: pixie-fish
 category: fish
 type: fish
 fish: "Pixie Fish"
-related: [handmirror-lake, father-collard-s-failings]
+related: [fishing-spots/handmirror-lake, father-collard-s-failings]
 tags: [fish, fishing, nature]
 status: stable

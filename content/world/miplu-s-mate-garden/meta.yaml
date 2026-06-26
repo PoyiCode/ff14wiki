@@ -1,0 +1,11 @@
+id: miplu-s-mate-garden
+category: world
+type: landmark
+rank: landmark
+parent: world/urqopacha
+landmark: "Miplu's Mate Garden"
+zone: "Urqopacha"
+region: "Yok Tural"
+related: [world/urqopacha]
+tags: [landmark, world, travel]
+status: stable

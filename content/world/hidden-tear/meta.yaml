@@ -1,0 +1,11 @@
+id: hidden-tear
+category: world
+type: landmark
+rank: landmark
+parent: world/the-peaks
+landmark: "Hidden Tear"
+zone: "The Peaks"
+region: "Gyr Abania"
+related: [world/the-peaks]
+tags: [landmark, world, travel]
+status: stable

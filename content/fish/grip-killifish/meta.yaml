@@ -2,6 +2,6 @@ id: grip-killifish
 category: fish
 type: fish
 fish: "Grip Killifish"
-related: [empty-heart, the-juggernaut, ceruleum-field, parata-s-peace, moondrip]
+related: [fishing-spots/empty-heart, the-juggernaut, ceruleum-field, fishing-spots/parata-s-peace, fishing-spots/moondrip]
 tags: [fish, fishing, nature]
 status: stable

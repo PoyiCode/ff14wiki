@@ -2,6 +2,6 @@ id: meditator
 category: fish
 type: fish
 fish: "Meditator"
-related: [the-ephor, the-bull-s-bath]
+related: [fishing-spots/the-ephor, the-bull-s-bath]
 tags: [fish, fishing, nature]
 status: stable

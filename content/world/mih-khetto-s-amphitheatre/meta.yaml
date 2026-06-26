@@ -1,0 +1,11 @@
+id: mih-khetto-s-amphitheatre
+category: world
+type: landmark
+rank: landmark
+parent: world/old-gridania
+landmark: "Mih Khetto's Amphitheatre"
+zone: "Old Gridania"
+region: "The Black Shroud"
+related: [world/old-gridania]
+tags: [landmark, world, travel]
+status: stable

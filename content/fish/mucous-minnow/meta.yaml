@@ -2,6 +2,6 @@ id: mucous-minnow
 category: fish
 type: fish
 fish: "Mucous Minnow"
-related: [hyperstellar-downconverter]
+related: [fishing-spots/hyperstellar-downconverter]
 tags: [fish, fishing, nature]
 status: stable

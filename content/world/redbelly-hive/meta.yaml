@@ -1,0 +1,11 @@
+id: redbelly-hive
+category: world
+type: landmark
+rank: landmark
+parent: world/south-shroud
+landmark: "Redbelly Hive"
+zone: "South Shroud"
+region: "The Black Shroud"
+related: [world/south-shroud]
+tags: [landmark, world, travel]
+status: stable

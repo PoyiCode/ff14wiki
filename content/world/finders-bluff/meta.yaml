@@ -1,0 +1,11 @@
+id: finders-bluff
+category: world
+type: landmark
+rank: landmark
+parent: world/north-shroud
+landmark: "Finders' Bluff"
+zone: "North Shroud"
+region: "The Black Shroud"
+related: [world/north-shroud]
+tags: [landmark, world, travel]
+status: stable

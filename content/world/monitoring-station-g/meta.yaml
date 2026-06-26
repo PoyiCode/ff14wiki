@@ -1,0 +1,11 @@
+id: monitoring-station-g
+category: world
+type: landmark
+rank: landmark
+parent: world/garlemald
+landmark: "Monitoring Station G"
+zone: "Garlemald"
+region: "Ilsabard"
+related: [world/garlemald]
+tags: [landmark, world, travel]
+status: stable

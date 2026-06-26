@@ -1,0 +1,11 @@
+id: highbridge
+category: world
+type: landmark
+rank: landmark
+parent: world/eastern-thanalan
+landmark: "Highbridge"
+zone: "Eastern Thanalan"
+region: "Thanalan"
+related: [world/eastern-thanalan]
+tags: [landmark, world, travel]
+status: stable

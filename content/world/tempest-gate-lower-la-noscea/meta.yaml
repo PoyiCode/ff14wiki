@@ -1,0 +1,11 @@
+id: tempest-gate-lower-la-noscea
+category: world
+type: landmark
+rank: landmark
+parent: world/lower-la-noscea
+landmark: "Tempest Gate"
+zone: "Lower La Noscea"
+region: "La Noscea"
+related: [world/lower-la-noscea]
+tags: [landmark, world, travel]
+status: stable

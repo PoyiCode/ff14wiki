@@ -1,0 +1,11 @@
+id: the-white-aisle
+category: world
+type: landmark
+rank: landmark
+parent: world/the-lochs
+landmark: "The White Aisle"
+zone: "The Lochs"
+region: "Gyr Abania"
+related: [world/the-lochs]
+tags: [landmark, world, travel]
+status: stable

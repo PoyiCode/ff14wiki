@@ -2,6 +2,6 @@ id: dragonhead
 category: fish
 type: fish
 fish: "Dragonhead"
-related: [the-iron-feast]
+related: [fishing-spots/the-iron-feast]
 tags: [fish, fishing, nature]
 status: stable

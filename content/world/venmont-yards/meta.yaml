@@ -1,0 +1,11 @@
+id: venmont-yards
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "Venmont Yards"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

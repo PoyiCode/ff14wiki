@@ -2,6 +2,6 @@ id: sludgeskipper
 category: fish
 type: fish
 fish: "Sludgeskipper"
-related: [north-silvertear, the-tangle, the-juggernaut, ceruleum-field, parata-s-peace]
+related: [north-silvertear, fishing-spots/the-tangle, the-juggernaut, ceruleum-field, fishing-spots/parata-s-peace]
 tags: [fish, fishing, nature]
 status: stable

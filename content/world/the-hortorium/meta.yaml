@@ -1,0 +1,11 @@
+id: the-hortorium
+category: world
+type: landmark
+rank: landmark
+parent: world/the-crystarium
+landmark: "The Hortorium"
+zone: "The Crystarium"
+region: "Norvrandt"
+related: [world/the-crystarium]
+tags: [landmark, world, travel]
+status: stable

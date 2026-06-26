@@ -1,0 +1,11 @@
+id: chakra-falls
+category: world
+type: landmark
+rank: landmark
+parent: world/rhalgr-s-reach
+landmark: "Chakra Falls"
+zone: "Rhalgr's Reach"
+region: "Gyr Abania"
+related: [world/rhalgr-s-reach]
+tags: [landmark, world, travel]
+status: stable

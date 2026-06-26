@@ -1,0 +1,11 @@
+id: ok-gundu-nakki
+category: world
+type: landmark
+rank: landmark
+parent: world/the-sea-of-clouds
+landmark: "Ok' Gundu Nakki"
+zone: "The Sea of Clouds"
+region: "Abalathia's Spine"
+related: [world/the-sea-of-clouds]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: esperance-wheels
+category: world
+type: landmark
+rank: landmark
+parent: world/living-memory
+landmark: "Esperance Wheels"
+zone: "Living Memory"
+region: "Unlost World"
+related: [world/living-memory]
+tags: [landmark, world, travel]
+status: stable

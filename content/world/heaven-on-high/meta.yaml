@@ -1,0 +1,11 @@
+id: heaven-on-high
+category: world
+type: landmark
+rank: landmark
+parent: world/the-ruby-sea
+landmark: "Heaven-on-High"
+zone: "The Ruby Sea"
+region: "Othard"
+related: [world/the-ruby-sea]
+tags: [landmark, world, travel]
+status: stable

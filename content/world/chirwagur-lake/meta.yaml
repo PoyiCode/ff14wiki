@@ -1,0 +1,11 @@
+id: chirwagur-lake
+category: world
+type: landmark
+rank: landmark
+parent: world/urqopacha
+landmark: "Chirwagur Lake"
+zone: "Urqopacha"
+region: "Yok Tural"
+related: [world/urqopacha]
+tags: [landmark, world, travel]
+status: stable

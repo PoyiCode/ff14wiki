@@ -1,0 +1,11 @@
+id: the-watcher-s-palace
+category: world
+type: landmark
+rank: landmark
+parent: world/mare-lamentorum
+landmark: "The Watcher's Palace"
+zone: "Mare Lamentorum"
+region: "The Sea of Stars"
+related: [world/mare-lamentorum]
+tags: [landmark, world, travel]
+status: stable

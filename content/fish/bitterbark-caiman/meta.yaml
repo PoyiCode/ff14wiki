@@ -2,6 +2,6 @@ id: bitterbark-caiman
 category: fish
 type: fish
 fish: "Bitterbark Caiman"
-related: [bitterbark-cenote]
+related: [fishing-spots/bitterbark-cenote]
 tags: [fish, fishing, nature]
 status: stable

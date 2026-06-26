@@ -1,0 +1,11 @@
+id: poor-maid-s-mill
+category: world
+type: landmark
+rank: landmark
+parent: world/upper-la-noscea
+landmark: "Poor Maid's Mill"
+zone: "Upper La Noscea"
+region: "La Noscea"
+related: [world/upper-la-noscea]
+tags: [landmark, world, travel]
+status: stable

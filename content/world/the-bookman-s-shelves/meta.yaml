@@ -1,0 +1,11 @@
+id: the-bookman-s-shelves
+category: world
+type: landmark
+rank: landmark
+parent: world/il-mheg
+landmark: "The Bookman's Shelves"
+zone: "Il Mheg"
+region: "Norvrandt"
+related: [world/il-mheg]
+tags: [landmark, world, travel]
+status: stable

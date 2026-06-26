@@ -1,0 +1,11 @@
+id: xbalyav-ty-e
+category: world
+type: landmark
+rank: landmark
+parent: world/tuliyollal
+landmark: "Xbalyav Ty'e"
+zone: "Tuliyollal"
+region: "Yok Tural"
+related: [world/tuliyollal]
+tags: [landmark, world, travel]
+status: stable

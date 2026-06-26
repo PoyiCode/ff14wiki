@@ -1,0 +1,11 @@
+id: the-mun-tuy-cellars
+category: world
+type: landmark
+rank: landmark
+parent: world/south-shroud
+landmark: "The Mun–Tuy Cellars"
+zone: "South Shroud"
+region: "The Black Shroud"
+related: [world/south-shroud]
+tags: [landmark, world, travel]
+status: stable

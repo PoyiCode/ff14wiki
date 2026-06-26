@@ -1,0 +1,6 @@
+---
+title: "アドネール占星台"
+summary: "「クルザス中央高地」の名所。"
+---
+
+**アドネール占星台**は「クルザス中央高地」（クルザス）にある名所・ランドマーク。住民がこの界隈で過ごしたり待ち合わせたりするときに口にする場所。ゲーム内英語名：First Dicasterial Observatorium of Aetherial and Astrological Phenomena。

@@ -1,0 +1,11 @@
+id: stickqix-s-bangpots
+category: world
+type: landmark
+rank: landmark
+parent: world/idyllshire
+landmark: "Stickqix's Bangpots"
+zone: "Idyllshire"
+region: "Dravania"
+related: [world/idyllshire]
+tags: [landmark, world, travel]
+status: stable

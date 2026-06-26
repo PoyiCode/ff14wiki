@@ -2,6 +2,6 @@ id: clawbow
 category: fish
 type: fish
 fish: "Clawbow"
-related: [lake-tusi-mek-ta, the-red-chalice, the-lozatl, south-mjrl-s-regret, woven-oath, mjrl-s-tears]
+related: [lake-tusi-mek-ta, fishing-spots/the-red-chalice, the-lozatl, south-mjrl-s-regret, fishing-spots/woven-oath, mjrl-s-tears]
 tags: [fish, fishing, nature]
 status: stable

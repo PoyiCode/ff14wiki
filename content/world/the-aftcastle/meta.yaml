@@ -1,0 +1,11 @@
+id: the-aftcastle
+category: world
+type: landmark
+rank: landmark
+parent: world/limsa-lominsa-upper-decks
+landmark: "The Aftcastle"
+zone: "Limsa Lominsa Upper Decks"
+region: "La Noscea"
+related: [world/limsa-lominsa-upper-decks]
+tags: [landmark, world, travel]
+status: stable

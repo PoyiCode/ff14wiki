@@ -2,6 +2,6 @@ id: bubble-angler
 category: fish
 type: fish
 fish: "Bubble Angler"
-related: [the-flounders-floor]
+related: [fishing-spots/the-flounders-floor]
 tags: [fish, fishing, nature]
 status: stable

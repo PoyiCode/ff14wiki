@@ -1,0 +1,11 @@
+id: the-silver-bazaar
+category: world
+type: landmark
+rank: landmark
+parent: world/western-thanalan
+landmark: "The Silver Bazaar"
+zone: "Western Thanalan"
+region: "Thanalan"
+related: [world/western-thanalan]
+tags: [landmark, world, travel]
+status: stable

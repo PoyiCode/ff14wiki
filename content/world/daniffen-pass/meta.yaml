@@ -1,0 +1,11 @@
+id: daniffen-pass
+category: world
+type: landmark
+rank: landmark
+parent: world/coerthas-central-highlands
+landmark: "Daniffen Pass"
+zone: "Coerthas Central Highlands"
+region: "Coerthas"
+related: [world/coerthas-central-highlands]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: povlu-s-peddlery
+category: world
+type: landmark
+rank: landmark
+parent: world/urqopacha
+landmark: "Povlu's Peddlery"
+zone: "Urqopacha"
+region: "Yok Tural"
+related: [world/urqopacha]
+tags: [landmark, world, travel]
+status: stable

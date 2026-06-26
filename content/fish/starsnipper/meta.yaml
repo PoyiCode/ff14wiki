@@ -2,6 +2,6 @@ id: starsnipper
 category: fish
 type: fish
 fish: "Starsnipper"
-related: [sunken-stars]
+related: [fishing-spots/sunken-stars]
 tags: [fish, fishing, nature]
 status: stable

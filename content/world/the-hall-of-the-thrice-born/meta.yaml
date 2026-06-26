@@ -1,0 +1,11 @@
+id: the-hall-of-the-thrice-born
+category: world
+type: landmark
+rank: landmark
+parent: world/lakeland
+landmark: "The Hall of the Thrice Born"
+zone: "Lakeland"
+region: "Norvrandt"
+related: [world/lakeland]
+tags: [landmark, world, travel]
+status: stable

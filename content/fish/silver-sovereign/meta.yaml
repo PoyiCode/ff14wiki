@@ -2,6 +2,6 @@ id: silver-sovereign
 category: fish
 type: fish
 fish: "Silver Sovereign"
-related: [oschon-s-torch]
+related: [fishing-spots/oschon-s-torch]
 tags: [fish, fishing, nature]
 status: stable

@@ -1,0 +1,11 @@
+id: unmemoried-portal
+category: world
+type: landmark
+rank: landmark
+parent: world/ultima-thule
+landmark: "Unmemoried Portal"
+zone: "Ultima Thule"
+region: "The Sea of Stars"
+related: [world/ultima-thule]
+tags: [landmark, world, travel]
+status: stable

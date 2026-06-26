@@ -1,0 +1,11 @@
+id: the-drowning-brand
+category: world
+type: landmark
+rank: landmark
+parent: world/mare-lamentorum
+landmark: "The Drowning Brand"
+zone: "Mare Lamentorum"
+region: "The Sea of Stars"
+related: [world/mare-lamentorum]
+tags: [landmark, world, travel]
+status: stable

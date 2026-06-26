@@ -1,0 +1,11 @@
+id: the-family-ranch
+category: world
+type: landmark
+rank: landmark
+parent: world/urqopacha
+landmark: "The Family Ranch"
+zone: "Urqopacha"
+region: "Yok Tural"
+related: [world/urqopacha]
+tags: [landmark, world, travel]
+status: stable

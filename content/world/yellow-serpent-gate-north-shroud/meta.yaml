@@ -1,0 +1,11 @@
+id: yellow-serpent-gate-north-shroud
+category: world
+type: landmark
+rank: landmark
+parent: world/north-shroud
+landmark: "Yellow Serpent Gate"
+zone: "North Shroud"
+region: "The Black Shroud"
+related: [world/north-shroud]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: mistloom
+category: world
+type: landmark
+rank: landmark
+parent: world/labyrinthos
+landmark: "Mistloom"
+zone: "Labyrinthos"
+region: "The Northern Empty"
+related: [world/labyrinthos]
+tags: [landmark, world, travel]
+status: stable

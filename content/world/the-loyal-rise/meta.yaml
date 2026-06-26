@@ -1,0 +1,11 @@
+id: the-loyal-rise
+category: world
+type: landmark
+rank: landmark
+parent: world/radz-at-han
+landmark: "The Loyal Rise"
+zone: "Radz-at-Han"
+region: "Ilsabard"
+related: [world/radz-at-han]
+tags: [landmark, world, travel]
+status: stable

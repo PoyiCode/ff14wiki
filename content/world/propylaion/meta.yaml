@@ -1,0 +1,11 @@
+id: propylaion
+category: world
+type: landmark
+rank: landmark
+parent: world/elpis
+landmark: "Propylaion"
+zone: "Elpis"
+region: "The World Unsundered"
+related: [world/elpis]
+tags: [landmark, world, travel]
+status: stable

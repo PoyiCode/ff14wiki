@@ -1,0 +1,11 @@
+id: east-balshahn-bazaar
+category: world
+type: landmark
+rank: landmark
+parent: world/radz-at-han
+landmark: "East Balshahn Bazaar"
+zone: "Radz-at-Han"
+region: "Ilsabard"
+related: [world/radz-at-han]
+tags: [landmark, world, travel]
+status: stable

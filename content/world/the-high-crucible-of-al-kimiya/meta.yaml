@@ -1,0 +1,11 @@
+id: the-high-crucible-of-al-kimiya
+category: world
+type: landmark
+rank: landmark
+parent: world/radz-at-han
+landmark: "The High Crucible of Al-Kimiya"
+zone: "Radz-at-Han"
+region: "Ilsabard"
+related: [world/radz-at-han]
+tags: [landmark, world, travel]
+status: stable

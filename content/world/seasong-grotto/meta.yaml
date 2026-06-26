@@ -1,0 +1,11 @@
+id: seasong-grotto
+category: world
+type: landmark
+rank: landmark
+parent: world/middle-la-noscea
+landmark: "Seasong Grotto"
+zone: "Middle La Noscea"
+region: "La Noscea"
+related: [world/middle-la-noscea]
+tags: [landmark, world, travel]
+status: stable

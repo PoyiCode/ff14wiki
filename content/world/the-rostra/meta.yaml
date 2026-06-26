@@ -1,0 +1,11 @@
+id: the-rostra
+category: world
+type: landmark
+rank: landmark
+parent: world/old-sharlayan
+landmark: "The Rostra"
+zone: "Old Sharlayan"
+region: "The Northern Empty"
+related: [world/old-sharlayan]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: anyx-old
+category: world
+type: landmark
+rank: landmark
+parent: world/the-dravanian-forelands
+landmark: "Anyx Old"
+zone: "The Dravanian Forelands"
+region: "Dravania"
+related: [world/the-dravanian-forelands]
+tags: [landmark, world, travel]
+status: stable

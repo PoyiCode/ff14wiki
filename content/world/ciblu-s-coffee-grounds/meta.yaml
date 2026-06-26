@@ -1,0 +1,11 @@
+id: ciblu-s-coffee-grounds
+category: world
+type: landmark
+rank: landmark
+parent: world/urqopacha
+landmark: "Ciblu's Coffee Grounds"
+zone: "Urqopacha"
+region: "Yok Tural"
+related: [world/urqopacha]
+tags: [landmark, world, travel]
+status: stable

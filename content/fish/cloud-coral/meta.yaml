@@ -2,6 +2,6 @@ id: cloud-coral
 category: fish
 type: fish
 fish: "Cloud Coral"
-related: [greytail-falls]
+related: [fishing-spots/greytail-falls]
 tags: [fish, fishing, nature]
 status: stable

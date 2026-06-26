@@ -1,0 +1,11 @@
+id: the-duergar-s-tewel
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "The Duergar's Tewel"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

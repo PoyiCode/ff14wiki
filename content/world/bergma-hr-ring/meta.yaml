@@ -1,0 +1,11 @@
+id: bergma-hr-ring
+category: world
+type: landmark
+rank: landmark
+parent: world/living-memory
+landmark: "Bergmähr-Ring"
+zone: "Living Memory"
+region: "Unlost World"
+related: [world/living-memory]
+tags: [landmark, world, travel]
+status: stable

@@ -2,6 +2,6 @@ id: hellyfish
 category: fish
 type: fish
 fish: "Hellyfish"
-related: [hells-lid, the-isle-of-bekko]
+related: [fishing-spots/hells-lid, fishing-spots/the-isle-of-bekko]
 tags: [fish, fishing, nature]
 status: stable

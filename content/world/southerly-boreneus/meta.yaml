@@ -1,0 +1,11 @@
+id: southerly-boreneus
+category: world
+type: landmark
+rank: landmark
+parent: world/elpis
+landmark: "Southerly Boreneus"
+zone: "Elpis"
+region: "The World Unsundered"
+related: [world/elpis]
+tags: [landmark, world, travel]
+status: stable

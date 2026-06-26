@@ -1,0 +1,11 @@
+id: mason-s-falls
+category: world
+type: landmark
+rank: landmark
+parent: world/the-peaks
+landmark: "Mason's Falls"
+zone: "The Peaks"
+region: "Gyr Abania"
+related: [world/the-peaks]
+tags: [landmark, world, travel]
+status: stable

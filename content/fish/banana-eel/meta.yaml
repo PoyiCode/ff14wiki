@@ -2,6 +2,6 @@ id: banana-eel
 category: fish
 type: fish
 fish: "Banana Eel"
-related: [pavana-s-remorse]
+related: [fishing-spots/pavana-s-remorse]
 tags: [fish, fishing, nature]
 status: stable

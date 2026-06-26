@@ -1,0 +1,11 @@
+id: the-hedgetree-east-shroud
+category: world
+type: landmark
+rank: landmark
+parent: world/east-shroud
+landmark: "The Hedgetree"
+zone: "East Shroud"
+region: "The Black Shroud"
+related: [world/east-shroud]
+tags: [landmark, world, travel]
+status: stable

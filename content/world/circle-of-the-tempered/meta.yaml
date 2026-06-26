@@ -1,0 +1,11 @@
+id: circle-of-the-tempered
+category: world
+type: landmark
+rank: landmark
+parent: world/southern-thanalan
+landmark: "Circle of the Tempered"
+zone: "Southern Thanalan"
+region: "Thanalan"
+related: [world/southern-thanalan]
+tags: [landmark, world, travel]
+status: stable

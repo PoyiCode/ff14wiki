@@ -1,0 +1,11 @@
+id: boughs-of-hwittayoanaan
+category: world
+type: landmark
+rank: landmark
+parent: world/shaaloani
+landmark: "Boughs of Hwittayoanaan"
+zone: "Shaaloani"
+region: "Xak Tural"
+related: [world/shaaloani]
+tags: [landmark, world, travel]
+status: stable

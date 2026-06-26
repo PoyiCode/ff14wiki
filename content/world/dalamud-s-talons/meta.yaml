@@ -1,0 +1,11 @@
+id: dalamud-s-talons
+category: world
+type: landmark
+rank: landmark
+parent: world/northern-thanalan
+landmark: "Dalamud's Talons"
+zone: "Northern Thanalan"
+region: "Thanalan"
+related: [world/northern-thanalan]
+tags: [landmark, world, travel]
+status: stable

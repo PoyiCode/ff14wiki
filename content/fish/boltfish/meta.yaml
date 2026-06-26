@@ -2,6 +2,6 @@ id: boltfish
 category: fish
 type: fish
 fish: "Boltfish"
-related: [the-tangle, ceruleum-field, parata-s-peace]
+related: [fishing-spots/the-tangle, ceruleum-field, fishing-spots/parata-s-peace]
 tags: [fish, fishing, nature]
 status: stable

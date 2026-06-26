@@ -2,6 +2,6 @@ id: darkroot
 category: fish
 type: fish
 fish: "Darkroot"
-related: [the-red-chalice, woven-oath]
+related: [fishing-spots/the-red-chalice, fishing-spots/woven-oath]
 tags: [fish, fishing, nature]
 status: stable

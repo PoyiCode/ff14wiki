@@ -1,0 +1,11 @@
+id: the-anvil
+category: world
+type: landmark
+rank: landmark
+parent: world/coerthas-western-highlands
+landmark: "The Anvil"
+zone: "Coerthas Western Highlands"
+region: "Coerthas"
+related: [world/coerthas-western-highlands]
+tags: [landmark, world, travel]
+status: stable

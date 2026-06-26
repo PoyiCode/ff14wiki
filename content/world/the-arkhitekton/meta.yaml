@@ -1,0 +1,11 @@
+id: the-arkhitekton
+category: world
+type: landmark
+rank: landmark
+parent: world/the-dravanian-hinterlands
+landmark: "The Arkhitekton"
+zone: "The Dravanian Hinterlands"
+region: "Dravania"
+related: [world/the-dravanian-hinterlands]
+tags: [landmark, world, travel]
+status: stable

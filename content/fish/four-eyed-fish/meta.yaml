@@ -2,6 +2,6 @@ id: four-eyed-fish
 category: fish
 type: fish
 fish: "Four-eyed Fish"
-related: [oakwood, fool-falls, northeast-bronze-lake, northwest-bronze-lake]
+related: [oakwood, fishing-spots/fool-falls, northeast-bronze-lake, northwest-bronze-lake]
 tags: [fish, fishing, nature]
 status: stable

@@ -1,0 +1,11 @@
+id: liberty-gate
+category: world
+type: landmark
+rank: landmark
+parent: world/the-fringes
+landmark: "Liberty Gate"
+zone: "The Fringes"
+region: "Gyr Abania"
+related: [world/the-fringes]
+tags: [landmark, world, travel]
+status: stable

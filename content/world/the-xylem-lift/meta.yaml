@@ -1,0 +1,11 @@
+id: the-xylem-lift
+category: world
+type: landmark
+rank: landmark
+parent: world/eulmore
+landmark: "The Xylem Lift"
+zone: "Eulmore"
+region: "Norvrandt"
+related: [world/eulmore]
+tags: [landmark, world, travel]
+status: stable

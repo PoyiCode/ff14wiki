@@ -2,6 +2,6 @@ id: charon-s-lantern
 category: fish
 type: fish
 fish: "Charon's Lantern"
-related: [daniffen-pass]
+related: [fishing-spots/daniffen-pass]
 tags: [fish, fishing, nature]
 status: stable

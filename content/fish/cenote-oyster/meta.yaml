@@ -2,6 +2,6 @@ id: cenote-oyster
 category: fish
 type: fish
 fish: "Cenote Oyster"
-related: [bitterbark-cenote]
+related: [fishing-spots/bitterbark-cenote]
 tags: [fish, fishing, nature]
 status: stable

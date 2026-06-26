@@ -1,0 +1,11 @@
+id: greengrub-mudplots
+category: world
+type: landmark
+rank: landmark
+parent: world/idyllshire
+landmark: "Greengrub Mudplots"
+zone: "Idyllshire"
+region: "Dravania"
+related: [world/idyllshire]
+tags: [landmark, world, travel]
+status: stable

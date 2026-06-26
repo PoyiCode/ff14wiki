@@ -1,0 +1,11 @@
+id: the-astalicia
+category: world
+type: landmark
+rank: landmark
+parent: world/limsa-lominsa-lower-decks
+landmark: "The *Astalicia*"
+zone: "Limsa Lominsa Lower Decks"
+region: "La Noscea"
+related: [world/limsa-lominsa-lower-decks]
+tags: [landmark, world, travel]
+status: stable

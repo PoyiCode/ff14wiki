@@ -2,6 +2,6 @@ id: black-eel
 category: fish
 type: fish
 fish: "Black Eel"
-related: [everschade, hopeseed-pond, verdant-drop, upper-hathoeva-river, lower-hathoeva-river, east-hathoeva-river, yugr-am-river]
+related: [everschade, fishing-spots/hopeseed-pond, verdant-drop, upper-hathoeva-river, lower-hathoeva-river, east-hathoeva-river, yugr-am-river]
 tags: [fish, fishing, nature]
 status: stable

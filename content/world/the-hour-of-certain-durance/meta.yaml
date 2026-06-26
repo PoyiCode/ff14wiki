@@ -1,0 +1,11 @@
+id: the-hour-of-certain-durance
+category: world
+type: landmark
+rank: landmark
+parent: world/lakeland
+landmark: "The Hour of Certain Durance"
+zone: "Lakeland"
+region: "Norvrandt"
+related: [world/lakeland]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: boiled-owl-bridge
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "Boiled Owl Bridge"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

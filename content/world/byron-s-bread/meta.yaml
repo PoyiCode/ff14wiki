@@ -1,0 +1,11 @@
+id: byron-s-bread
+category: world
+type: landmark
+rank: landmark
+parent: world/the-peaks
+landmark: "Byron's Bread"
+zone: "The Peaks"
+region: "Gyr Abania"
+related: [world/the-peaks]
+tags: [landmark, world, travel]
+status: stable

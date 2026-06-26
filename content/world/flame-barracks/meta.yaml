@@ -1,0 +1,11 @@
+id: flame-barracks
+category: world
+type: landmark
+rank: landmark
+parent: world/ul-dah-steps-of-nald
+landmark: "Flame Barracks"
+zone: "Ul'dah - Steps of Nald"
+region: "Thanalan"
+related: [world/ul-dah-steps-of-nald]
+tags: [landmark, world, travel]
+status: stable

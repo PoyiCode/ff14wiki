@@ -2,6 +2,6 @@ id: pel-frog
 category: fish
 type: fish
 fish: "Pel Frog"
-related: [downripple]
+related: [fishing-spots/downripple]
 tags: [fish, fishing, nature]
 status: stable

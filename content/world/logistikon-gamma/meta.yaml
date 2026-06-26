@@ -1,0 +1,11 @@
+id: logistikon-gamma
+category: world
+type: landmark
+rank: landmark
+parent: world/labyrinthos
+landmark: "Logistikon Gamma"
+zone: "Labyrinthos"
+region: "The Northern Empty"
+related: [world/labyrinthos]
+tags: [landmark, world, travel]
+status: stable

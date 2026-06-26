@@ -1,0 +1,11 @@
+id: the-lightfeather-proving-grounds
+category: world
+type: landmark
+rank: landmark
+parent: world/foundation
+landmark: "The Lightfeather Proving Grounds"
+zone: "Foundation"
+region: "Coerthas"
+related: [world/foundation]
+tags: [landmark, world, travel]
+status: stable

@@ -2,6 +2,6 @@ id: chirwagur-loach
 category: fish
 type: fish
 fish: "Chirwagur Loach"
-related: [chirwagur-lake]
+related: [fishing-spots/chirwagur-lake]
 tags: [fish, fishing, nature]
 status: stable

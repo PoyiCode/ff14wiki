@@ -1,0 +1,11 @@
+id: disappearing-falls
+category: world
+type: landmark
+rank: landmark
+parent: world/the-sea-of-clouds
+landmark: "Disappearing Falls"
+zone: "The Sea of Clouds"
+region: "Abalathia's Spine"
+related: [world/the-sea-of-clouds]
+tags: [landmark, world, travel]
+status: stable

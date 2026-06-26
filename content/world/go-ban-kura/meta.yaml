@@ -1,0 +1,11 @@
+id: go-ban-kura
+category: world
+type: landmark
+rank: landmark
+parent: world/kugane
+landmark: "Go-ban Kura"
+zone: "Kugane"
+region: "Hingashi"
+related: [world/kugane]
+tags: [landmark, world, travel]
+status: stable

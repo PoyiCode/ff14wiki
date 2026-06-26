@@ -1,0 +1,11 @@
+id: the-clave
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "The Clave"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

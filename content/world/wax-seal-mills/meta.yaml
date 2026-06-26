@@ -1,0 +1,11 @@
+id: wax-seal-mills
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "Wax Seal Mills"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

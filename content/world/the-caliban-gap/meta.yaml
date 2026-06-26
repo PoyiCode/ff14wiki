@@ -1,0 +1,11 @@
+id: the-caliban-gap
+category: world
+type: landmark
+rank: landmark
+parent: world/the-tempest
+landmark: "The Caliban Gap"
+zone: "The Tempest"
+region: "Norvrandt"
+related: [world/the-tempest]
+tags: [landmark, world, travel]
+status: stable

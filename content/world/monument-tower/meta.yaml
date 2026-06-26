@@ -1,0 +1,11 @@
+id: monument-tower
+category: world
+type: landmark
+rank: landmark
+parent: world/coerthas-central-highlands
+landmark: "Monument Tower"
+zone: "Coerthas Central Highlands"
+region: "Coerthas"
+related: [world/coerthas-central-highlands]
+tags: [landmark, world, travel]
+status: stable

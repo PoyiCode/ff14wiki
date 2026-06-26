@@ -1,0 +1,11 @@
+id: main-counter
+category: world
+type: landmark
+rank: landmark
+parent: world/the-gold-saucer
+landmark: "Main Counter"
+zone: "The Gold Saucer"
+region: "Thanalan"
+related: [world/the-gold-saucer]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: mosaic
+category: world
+type: landmark
+rank: landmark
+parent: world/solution-nine
+landmark: "Mosaic"
+zone: "Solution Nine"
+region: "Xak Tural"
+related: [world/solution-nine]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: qerel-iloh
+category: world
+type: landmark
+rank: landmark
+parent: world/the-azim-steppe
+landmark: "Qerel Iloh"
+zone: "The Azim Steppe"
+region: "Othard"
+related: [world/the-azim-steppe]
+tags: [landmark, world, travel]
+status: stable

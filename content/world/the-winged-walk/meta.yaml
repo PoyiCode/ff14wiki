@@ -1,0 +1,11 @@
+id: the-winged-walk
+category: world
+type: landmark
+rank: landmark
+parent: world/tuliyollal
+landmark: "The Winged Walk"
+zone: "Tuliyollal"
+region: "Yok Tural"
+related: [world/tuliyollal]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: tebqeyiq
+category: world
+type: landmark
+rank: landmark
+parent: world/thavnair
+landmark: "Tebqeyiq"
+zone: "Thavnair"
+region: "Ilsabard"
+related: [world/thavnair]
+tags: [landmark, world, travel]
+status: stable

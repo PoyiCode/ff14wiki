@@ -1,0 +1,11 @@
+id: airship-landing
+category: world
+type: landmark
+rank: landmark
+parent: world/radz-at-han
+landmark: "Airship Landing"
+zone: "Radz-at-Han"
+region: "Ilsabard"
+related: [world/radz-at-han]
+tags: [landmark, world, travel]
+status: stable

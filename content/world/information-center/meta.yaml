@@ -1,0 +1,11 @@
+id: information-center
+category: world
+type: landmark
+rank: landmark
+parent: world/solution-nine
+landmark: "Information Center"
+zone: "Solution Nine"
+region: "Xak Tural"
+related: [world/solution-nine]
+tags: [landmark, world, travel]
+status: stable

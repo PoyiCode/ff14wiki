@@ -1,0 +1,11 @@
+id: the-runaway-train
+category: world
+type: landmark
+rank: landmark
+parent: world/garlemald
+landmark: "The Runaway Train"
+zone: "Garlemald"
+region: "Ilsabard"
+related: [world/garlemald]
+tags: [landmark, world, travel]
+status: stable

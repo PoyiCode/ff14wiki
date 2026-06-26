@@ -1,0 +1,11 @@
+id: shiokaze-hostelry
+category: world
+type: landmark
+rank: landmark
+parent: world/kugane
+landmark: "Shiokaze Hostelry"
+zone: "Kugane"
+region: "Hingashi"
+related: [world/kugane]
+tags: [landmark, world, travel]
+status: stable

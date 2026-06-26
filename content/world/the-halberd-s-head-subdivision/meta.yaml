@@ -1,0 +1,11 @@
+id: the-halberd-s-head-subdivision
+category: world
+type: landmark
+rank: landmark
+parent: world/empyreum
+landmark: "The Halberd's Head Subdivision"
+zone: "Empyreum"
+region: "Coerthas"
+related: [world/empyreum]
+tags: [landmark, world, travel]
+status: stable

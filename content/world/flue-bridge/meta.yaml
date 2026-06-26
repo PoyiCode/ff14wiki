@@ -1,0 +1,11 @@
+id: flue-bridge
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "Flue Bridge"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

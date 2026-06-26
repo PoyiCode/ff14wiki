@@ -1,0 +1,11 @@
+id: blind-iron-mines
+category: world
+type: landmark
+rank: landmark
+parent: world/lower-la-noscea
+landmark: "Blind Iron Mines"
+zone: "Lower La Noscea"
+region: "La Noscea"
+related: [world/lower-la-noscea]
+tags: [landmark, world, travel]
+status: stable

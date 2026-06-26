@@ -1,0 +1,11 @@
+id: the-scabbard
+category: world
+type: landmark
+rank: landmark
+parent: world/the-peaks
+landmark: "The Scabbard"
+zone: "The Peaks"
+region: "Gyr Abania"
+related: [world/the-peaks]
+tags: [landmark, world, travel]
+status: stable

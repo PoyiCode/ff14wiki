@@ -1,0 +1,11 @@
+id: aenadem-ei
+category: world
+type: landmark
+rank: landmark
+parent: world/the-lochs
+landmark: "Aenadem Ei"
+zone: "The Lochs"
+region: "Gyr Abania"
+related: [world/the-lochs]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: the-unholy-heir
+category: world
+type: landmark
+rank: landmark
+parent: world/central-thanalan
+landmark: "The Unholy Heir"
+zone: "Central Thanalan"
+region: "Thanalan"
+related: [world/central-thanalan]
+tags: [landmark, world, travel]
+status: stable

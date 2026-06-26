@@ -2,6 +2,6 @@ id: deephaunt
 category: fish
 type: fish
 fish: "Deephaunt"
-related: [woven-oath]
+related: [fishing-spots/woven-oath]
 tags: [fish, fishing, nature]
 status: stable

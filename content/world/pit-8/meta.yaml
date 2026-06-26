@@ -1,0 +1,11 @@
+id: pit-8
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "Pit 8"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

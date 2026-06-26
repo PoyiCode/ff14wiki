@@ -1,0 +1,11 @@
+id: zorgor-the-boundless
+category: world
+type: landmark
+rank: landmark
+parent: world/tuliyollal
+landmark: "Zorgor the Boundless"
+zone: "Tuliyollal"
+region: "Yok Tural"
+related: [world/tuliyollal]
+tags: [landmark, world, travel]
+status: stable

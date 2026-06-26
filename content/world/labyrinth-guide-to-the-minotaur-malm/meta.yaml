@@ -1,0 +1,11 @@
+id: labyrinth-guide-to-the-minotaur-malm
+category: world
+type: landmark
+rank: landmark
+parent: world/southern-thanalan
+landmark: "Labyrinth Guide (to the Minotaur Malm)"
+zone: "Southern Thanalan"
+region: "Thanalan"
+related: [world/southern-thanalan]
+tags: [landmark, world, travel]
+status: stable

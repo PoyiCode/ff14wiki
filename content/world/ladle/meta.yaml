@@ -1,0 +1,11 @@
+id: ladle
+category: world
+type: landmark
+rank: landmark
+parent: world/amh-araeng
+landmark: "Ladle"
+zone: "Amh Araeng"
+region: "Norvrandt"
+related: [world/amh-araeng]
+tags: [landmark, world, travel]
+status: stable

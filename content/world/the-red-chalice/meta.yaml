@@ -1,0 +1,11 @@
+id: the-red-chalice
+category: world
+type: landmark
+rank: landmark
+parent: world/the-rak-tika-greatwood
+landmark: "The Red Chalice"
+zone: "The Rak'tika Greatwood"
+region: "Norvrandt"
+related: [world/the-rak-tika-greatwood]
+tags: [landmark, world, travel]
+status: stable

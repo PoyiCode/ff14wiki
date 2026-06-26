@@ -1,0 +1,11 @@
+id: the-admiral-s-waterspire-subdivision
+category: world
+type: landmark
+rank: landmark
+parent: world/mist
+landmark: "The Admiral's Waterspire Subdivision"
+zone: "Mist"
+region: "La Noscea"
+related: [world/mist]
+tags: [landmark, world, travel]
+status: stable

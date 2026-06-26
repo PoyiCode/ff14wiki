@@ -1,0 +1,11 @@
+id: noetophoreon
+category: world
+type: landmark
+rank: landmark
+parent: world/elpis
+landmark: "Noetophoreon"
+zone: "Elpis"
+region: "The World Unsundered"
+related: [world/elpis]
+tags: [landmark, world, travel]
+status: stable

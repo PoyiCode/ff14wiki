@@ -1,0 +1,11 @@
+id: the-ragnarok
+category: world
+type: landmark
+rank: landmark
+parent: world/ultima-thule
+landmark: "The *Ragnarok*"
+zone: "Ultima Thule"
+region: "The Sea of Stars"
+related: [world/ultima-thule]
+tags: [landmark, world, travel]
+status: stable

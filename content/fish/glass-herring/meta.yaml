@@ -2,6 +2,6 @@ id: glass-herring
 category: fish
 type: fish
 fish: "Glass Herring"
-related: [the-ruby-price, fishing-spots/isari]
+related: [fishing-spots/the-ruby-price, fishing-spots/isari]
 tags: [fish, fishing, nature]
 status: stable

@@ -1,0 +1,11 @@
+id: xak-tural-skygate
+category: world
+type: landmark
+rank: landmark
+parent: world/tuliyollal
+landmark: "Xak Tural Skygate"
+zone: "Tuliyollal"
+region: "Yok Tural"
+related: [world/tuliyollal]
+tags: [landmark, world, travel]
+status: stable

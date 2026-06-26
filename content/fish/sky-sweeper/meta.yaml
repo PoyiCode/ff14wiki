@@ -2,6 +2,6 @@ id: sky-sweeper
 category: fish
 type: fish
 fish: "Sky Sweeper"
-related: [the-blue-window, the-habisphere]
+related: [the-blue-window, fishing-spots/the-habisphere]
 tags: [fish, fishing, nature]
 status: stable

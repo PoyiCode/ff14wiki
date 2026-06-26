@@ -1,0 +1,11 @@
+id: gyr-kehim
+category: world
+type: landmark
+rank: landmark
+parent: world/the-fringes
+landmark: "Gyr Kehim"
+zone: "The Fringes"
+region: "Gyr Abania"
+related: [world/the-fringes]
+tags: [landmark, world, travel]
+status: stable

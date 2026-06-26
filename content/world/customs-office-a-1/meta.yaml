@@ -1,0 +1,11 @@
+id: customs-office-a-1
+category: world
+type: landmark
+rank: landmark
+parent: world/eulmore
+landmark: "Customs Office A-1"
+zone: "Eulmore"
+region: "Norvrandt"
+related: [world/eulmore]
+tags: [landmark, world, travel]
+status: stable

@@ -2,6 +2,6 @@ id: the-ruby-dragon
 category: fish
 type: fish
 fish: "The Ruby Dragon"
-related: [the-ruby-price]
+related: [fishing-spots/the-ruby-price]
 tags: [fish, fishing, nature]
 status: stable

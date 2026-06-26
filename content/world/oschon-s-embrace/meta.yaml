@@ -1,0 +1,11 @@
+id: oschon-s-embrace
+category: world
+type: landmark
+rank: landmark
+parent: world/lower-la-noscea
+landmark: "Oschon's Embrace"
+zone: "Lower La Noscea"
+region: "La Noscea"
+related: [world/lower-la-noscea]
+tags: [landmark, world, travel]
+status: stable

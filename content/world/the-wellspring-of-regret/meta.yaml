@@ -1,0 +1,11 @@
+id: the-wellspring-of-regret
+category: world
+type: landmark
+rank: landmark
+parent: world/ultima-thule
+landmark: "The Wellspring of Regret"
+zone: "Ultima Thule"
+region: "The Sea of Stars"
+related: [world/ultima-thule]
+tags: [landmark, world, travel]
+status: stable

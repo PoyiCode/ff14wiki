@@ -1,0 +1,11 @@
+id: dotharl-khaa
+category: world
+type: landmark
+rank: landmark
+parent: world/the-azim-steppe
+landmark: "Dotharl Khaa"
+zone: "The Azim Steppe"
+region: "Othard"
+related: [world/the-azim-steppe]
+tags: [landmark, world, travel]
+status: stable

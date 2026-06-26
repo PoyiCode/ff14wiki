@@ -2,6 +2,6 @@ id: shonisaurus
 category: fish
 type: fish
 fish: "Shonisaurus"
-related: [witchdrop]
+related: [fishing-spots/witchdrop]
 tags: [fish, fishing, nature]
 status: stable

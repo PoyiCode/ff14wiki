@@ -1,0 +1,11 @@
+id: white-oil-falls
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "White Oil Falls"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: rowena-s-house-of-splendors
+category: world
+type: landmark
+rank: landmark
+parent: world/mor-dhona
+landmark: "Rowena's House of Splendors"
+zone: "Mor Dhona"
+region: "Mor Dhona"
+related: [world/mor-dhona]
+tags: [landmark, world, travel]
+status: stable

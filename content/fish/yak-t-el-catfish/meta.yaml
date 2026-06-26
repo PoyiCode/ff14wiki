@@ -2,6 +2,6 @@ id: yak-t-el-catfish
 category: fish
 type: fish
 fish: "Yak T'el Catfish"
-related: [ankledeep, cenote-moxutural, cenote-jayunja, sapsweet-cenote, bitterbark-cenote]
+related: [fishing-spots/ankledeep, cenote-moxutural, fishing-spots/cenote-jayunja, fishing-spots/sapsweet-cenote, fishing-spots/bitterbark-cenote]
 tags: [fish, fishing, nature]
 status: stable

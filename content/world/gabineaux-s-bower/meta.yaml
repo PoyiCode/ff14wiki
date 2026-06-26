@@ -1,0 +1,11 @@
+id: gabineaux-s-bower
+category: world
+type: landmark
+rank: landmark
+parent: world/central-shroud
+landmark: "Gabineaux's Bower"
+zone: "Central Shroud"
+region: "The Black Shroud"
+related: [world/central-shroud]
+tags: [landmark, world, travel]
+status: stable

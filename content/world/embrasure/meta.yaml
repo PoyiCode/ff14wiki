@@ -1,0 +1,11 @@
+id: embrasure
+category: world
+type: landmark
+rank: landmark
+parent: world/lakeland
+landmark: "Embrasure"
+zone: "Lakeland"
+region: "Norvrandt"
+related: [world/lakeland]
+tags: [landmark, world, travel]
+status: stable

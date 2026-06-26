@@ -2,6 +2,6 @@ id: shin-snuffler
 category: fish
 type: fish
 fish: "Shin Snuffler"
-related: [ankledeep]
+related: [fishing-spots/ankledeep]
 tags: [fish, fishing, nature]
 status: stable

@@ -1,0 +1,11 @@
+id: eastern-ryurin-bridge
+category: world
+type: landmark
+rank: landmark
+parent: world/yanxia
+landmark: "Eastern Ryurin Bridge"
+zone: "Yanxia"
+region: "Othard"
+related: [world/yanxia]
+tags: [landmark, world, travel]
+status: stable

@@ -2,6 +2,6 @@ id: aether-eye
 category: fish
 type: fish
 fish: "Aether Eye"
-related: [delta-quadrant, the-pappus-tree]
+related: [delta-quadrant, fishing-spots/the-pappus-tree]
 tags: [fish, fishing, nature]
 status: stable

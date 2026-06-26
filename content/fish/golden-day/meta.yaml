@@ -2,6 +2,6 @@ id: golden-day
 category: fish
 type: fish
 fish: "Golden Day"
-related: [proto-alexandria]
+related: [fishing-spots/proto-alexandria]
 tags: [fish, fishing, nature]
 status: stable

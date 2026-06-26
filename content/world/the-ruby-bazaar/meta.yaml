@@ -1,0 +1,11 @@
+id: the-ruby-bazaar
+category: world
+type: landmark
+rank: landmark
+parent: world/kugane
+landmark: "The Ruby Bazaar"
+zone: "Kugane"
+region: "Hingashi"
+related: [world/kugane]
+tags: [landmark, world, travel]
+status: stable

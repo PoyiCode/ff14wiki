@@ -1,0 +1,11 @@
+id: the-arc-of-the-worthy
+category: world
+type: landmark
+rank: landmark
+parent: world/foundation
+landmark: "The Arc of the Worthy"
+zone: "Foundation"
+region: "Coerthas"
+related: [world/foundation]
+tags: [landmark, world, travel]
+status: stable

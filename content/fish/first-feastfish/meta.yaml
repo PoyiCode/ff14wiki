@@ -2,6 +2,6 @@ id: first-feastfish
 category: fish
 type: fish
 fish: "First Feastfish"
-related: [karvarhur-the-first]
+related: [fishing-spots/karvarhur-the-first]
 tags: [fish, fishing, nature]
 status: stable

@@ -1,0 +1,11 @@
+id: sultantree
+category: world
+type: landmark
+rank: landmark
+parent: world/central-thanalan
+landmark: "Sultantree"
+zone: "Central Thanalan"
+region: "Thanalan"
+related: [world/central-thanalan]
+tags: [landmark, world, travel]
+status: stable

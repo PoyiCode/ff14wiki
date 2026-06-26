@@ -1,0 +1,11 @@
+id: yyupye-s-halo
+category: world
+type: landmark
+rank: landmark
+parent: world/heritage-found
+landmark: "Yyupye's Halo"
+zone: "Heritage Found"
+region: "Xak Tural"
+related: [world/heritage-found]
+tags: [landmark, world, travel]
+status: stable

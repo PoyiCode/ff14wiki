@@ -1,0 +1,11 @@
+id: rowena-s-center-for-cultural-promotion
+category: world
+type: landmark
+rank: landmark
+parent: world/idyllshire
+landmark: "Rowena's Center for Cultural Promotion"
+zone: "Idyllshire"
+region: "Dravania"
+related: [world/idyllshire]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: juturna-platform-g
+category: world
+type: landmark
+rank: landmark
+parent: world/garlemald
+landmark: "Juturna Platform G"
+zone: "Garlemald"
+region: "Ilsabard"
+related: [world/garlemald]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: the-ribbons
+category: world
+type: landmark
+rank: landmark
+parent: world/yanxia
+landmark: "The Ribbons"
+zone: "Yanxia"
+region: "Othard"
+related: [world/yanxia]
+tags: [landmark, world, travel]
+status: stable

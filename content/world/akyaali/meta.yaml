@@ -1,0 +1,11 @@
+id: akyaali
+category: world
+type: landmark
+rank: landmark
+parent: world/thavnair
+landmark: "Akyaali"
+zone: "Thavnair"
+region: "Ilsabard"
+related: [world/thavnair]
+tags: [landmark, world, travel]
+status: stable

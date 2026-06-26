@@ -1,0 +1,11 @@
+id: senna-s-pride-subdivision
+category: world
+type: landmark
+rank: landmark
+parent: world/the-lavender-beds
+landmark: "Senna's Pride Subdivision"
+zone: "The Lavender Beds"
+region: "The Black Shroud"
+related: [world/the-lavender-beds]
+tags: [landmark, world, travel]
+status: stable

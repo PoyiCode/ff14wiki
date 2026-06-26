@@ -1,0 +1,11 @@
+id: gate-of-thal-ul-dah-steps-of-thal
+category: world
+type: landmark
+rank: landmark
+parent: world/ul-dah-steps-of-thal
+landmark: "Gate of Thal"
+zone: "Ul'dah - Steps of Thal"
+region: "Thanalan"
+related: [world/ul-dah-steps-of-thal]
+tags: [landmark, world, travel]
+status: stable

@@ -2,6 +2,6 @@ id: lovers-clam
 category: fish
 type: fish
 fish: "Lovers' Clam"
-related: [weston-waters]
+related: [fishing-spots/weston-waters]
 tags: [fish, fishing, nature]
 status: stable

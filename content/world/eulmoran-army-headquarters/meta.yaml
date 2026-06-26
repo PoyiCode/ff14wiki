@@ -1,0 +1,11 @@
+id: eulmoran-army-headquarters
+category: world
+type: landmark
+rank: landmark
+parent: world/eulmore
+landmark: "Eulmoran Army Headquarters"
+zone: "Eulmore"
+region: "Norvrandt"
+related: [world/eulmore]
+tags: [landmark, world, travel]
+status: stable

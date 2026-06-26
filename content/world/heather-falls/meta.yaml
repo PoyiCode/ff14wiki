@@ -1,0 +1,11 @@
+id: heather-falls
+category: world
+type: landmark
+rank: landmark
+parent: world/the-peaks
+landmark: "Heather Falls"
+zone: "The Peaks"
+region: "Gyr Abania"
+related: [world/the-peaks]
+tags: [landmark, world, travel]
+status: stable

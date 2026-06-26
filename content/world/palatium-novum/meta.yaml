@@ -1,0 +1,11 @@
+id: palatium-novum
+category: world
+type: landmark
+rank: landmark
+parent: world/garlemald
+landmark: "Palatium Novum"
+zone: "Garlemald"
+region: "Ilsabard"
+related: [world/garlemald]
+tags: [landmark, world, travel]
+status: stable

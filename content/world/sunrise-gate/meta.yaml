@@ -1,0 +1,11 @@
+id: sunrise-gate
+category: world
+type: landmark
+rank: landmark
+parent: world/western-thanalan
+landmark: "Sunrise Gate"
+zone: "Western Thanalan"
+region: "Thanalan"
+related: [world/western-thanalan]
+tags: [landmark, world, travel]
+status: stable

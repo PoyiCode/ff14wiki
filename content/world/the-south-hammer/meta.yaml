@@ -1,0 +1,11 @@
+id: the-south-hammer
+category: world
+type: landmark
+rank: landmark
+parent: world/western-thanalan
+landmark: "The South Hammer"
+zone: "Western Thanalan"
+region: "Thanalan"
+related: [world/western-thanalan]
+tags: [landmark, world, travel]
+status: stable

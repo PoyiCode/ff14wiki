@@ -2,6 +2,6 @@ id: aithon-s-colt
 category: fish
 type: fish
 fish: "Aithon's Colt"
-related: [west-mourn, anyx-old]
+related: [west-mourn, fishing-spots/anyx-old]
 tags: [fish, fishing, nature]
 status: stable

@@ -1,0 +1,11 @@
+id: house-of-waters-high
+category: world
+type: landmark
+rank: landmark
+parent: world/kozama-uka
+landmark: "House of Waters High"
+zone: "Kozama'uka"
+region: "Yok Tural"
+related: [world/kozama-uka]
+tags: [landmark, world, travel]
+status: stable

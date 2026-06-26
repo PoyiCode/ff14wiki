@@ -1,0 +1,11 @@
+id: thalaos
+category: world
+type: landmark
+rank: landmark
+parent: world/upper-la-noscea
+landmark: "Thalaos"
+zone: "Upper La Noscea"
+region: "La Noscea"
+related: [world/upper-la-noscea]
+tags: [landmark, world, travel]
+status: stable

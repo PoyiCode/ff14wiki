@@ -2,6 +2,6 @@ id: illuminati-mask
 category: fish
 type: fish
 fish: "Illuminati Mask"
-related: [weston-waters]
+related: [fishing-spots/weston-waters]
 tags: [fish, fishing, nature]
 status: stable

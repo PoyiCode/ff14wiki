@@ -1,0 +1,11 @@
+id: hoper-s-hold
+category: world
+type: landmark
+rank: landmark
+parent: world/mare-lamentorum
+landmark: "Hoper's Hold"
+zone: "Mare Lamentorum"
+region: "The Sea of Stars"
+related: [world/mare-lamentorum]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: congregation-of-our-knights-most-heavenly
+category: world
+type: landmark
+rank: landmark
+parent: world/foundation
+landmark: "Congregation of Our Knights Most Heavenly"
+zone: "Foundation"
+region: "Coerthas"
+related: [world/foundation]
+tags: [landmark, world, travel]
+status: stable

@@ -2,6 +2,6 @@ id: glittergill
 category: fish
 type: fish
 fish: "Glittergill"
-related: [sapsweet-cenote]
+related: [fishing-spots/sapsweet-cenote]
 tags: [fish, fishing, nature]
 status: stable

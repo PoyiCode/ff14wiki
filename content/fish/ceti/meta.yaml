@@ -2,6 +2,6 @@ id: ceti
 category: fish
 type: fish
 fish: "Ceti"
-related: [hyperstellar-downconverter]
+related: [fishing-spots/hyperstellar-downconverter]
 tags: [fish, fishing, nature]
 status: stable

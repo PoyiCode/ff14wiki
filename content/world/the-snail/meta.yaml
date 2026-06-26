@@ -1,0 +1,11 @@
+id: the-snail
+category: world
+type: landmark
+rank: landmark
+parent: world/idyllshire
+landmark: "The Snail"
+zone: "Idyllshire"
+region: "Dravania"
+related: [world/idyllshire]
+tags: [landmark, world, travel]
+status: stable

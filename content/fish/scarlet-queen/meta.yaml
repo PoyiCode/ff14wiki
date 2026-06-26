@@ -2,6 +2,6 @@ id: scarlet-queen
 category: fish
 type: fish
 fish: "Scarlet Queen"
-related: [proto-alexandria]
+related: [fishing-spots/proto-alexandria]
 tags: [fish, fishing, nature]
 status: stable

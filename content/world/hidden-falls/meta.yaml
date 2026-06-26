@@ -1,0 +1,11 @@
+id: hidden-falls
+category: world
+type: landmark
+rank: landmark
+parent: world/eastern-la-noscea
+landmark: "Hidden Falls"
+zone: "Eastern La Noscea"
+region: "La Noscea"
+related: [world/eastern-la-noscea]
+tags: [landmark, world, travel]
+status: stable

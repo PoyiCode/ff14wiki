@@ -1,0 +1,11 @@
+id: the-gold-court
+category: world
+type: landmark
+rank: landmark
+parent: world/ul-dah-steps-of-thal
+landmark: "The Gold Court"
+zone: "Ul'dah - Steps of Thal"
+region: "Thanalan"
+related: [world/ul-dah-steps-of-thal]
+tags: [landmark, world, travel]
+status: stable

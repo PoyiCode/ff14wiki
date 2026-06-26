@@ -2,6 +2,6 @@ id: cobrafish
 category: fish
 type: fish
 fish: "Cobrafish"
-related: [fishing-spots/tharl-oom-khash, the-habisphere]
+related: [fishing-spots/tharl-oom-khash, fishing-spots/the-habisphere]
 tags: [fish, fishing, nature]
 status: stable

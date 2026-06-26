@@ -1,0 +1,11 @@
+id: the-supreme-sacred-tribunal-of-halonic-inquisitory-doctrine
+category: world
+type: landmark
+rank: landmark
+parent: world/the-pillars
+landmark: "The Supreme Sacred Tribunal of Halonic Inquisitory Doctrine"
+zone: "The Pillars"
+region: "Coerthas"
+related: [world/the-pillars]
+tags: [landmark, world, travel]
+status: stable

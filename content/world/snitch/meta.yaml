@@ -1,0 +1,11 @@
+id: snitch
+category: world
+type: landmark
+rank: landmark
+parent: world/amh-araeng
+landmark: "Snitch"
+zone: "Amh Araeng"
+region: "Norvrandt"
+related: [world/amh-araeng]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: the-coattails
+category: world
+type: landmark
+rank: landmark
+parent: world/yanxia
+landmark: "The Coattails"
+zone: "Yanxia"
+region: "Othard"
+related: [world/yanxia]
+tags: [landmark, world, travel]
+status: stable

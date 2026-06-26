@@ -1,0 +1,11 @@
+id: karvarhur-the-first
+category: world
+type: landmark
+rank: landmark
+parent: world/urqopacha
+landmark: "Karvarhur the First"
+zone: "Urqopacha"
+region: "Yok Tural"
+related: [world/urqopacha]
+tags: [landmark, world, travel]
+status: stable

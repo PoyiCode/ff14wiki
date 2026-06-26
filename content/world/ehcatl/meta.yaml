@@ -1,0 +1,11 @@
+id: ehcatl
+category: world
+type: landmark
+rank: landmark
+parent: world/north-shroud
+landmark: "Ehcatl"
+zone: "North Shroud"
+region: "The Black Shroud"
+related: [world/north-shroud]
+tags: [landmark, world, travel]
+status: stable

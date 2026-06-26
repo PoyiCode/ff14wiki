@@ -2,6 +2,6 @@ id: vongola-clam
 category: fish
 type: fish
 fish: "Vongola Clam"
-related: [summerford, moraby-bay, oschon-s-torch, candlekeep-quay]
+related: [summerford, moraby-bay, fishing-spots/oschon-s-torch, fishing-spots/candlekeep-quay]
 tags: [fish, fishing, nature]
 status: stable

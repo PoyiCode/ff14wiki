@@ -1,0 +1,11 @@
+id: stone-sky-sea
+category: world
+type: landmark
+rank: landmark
+parent: world/the-dravanian-hinterlands
+landmark: "Stone, Sky, Sea"
+zone: "The Dravanian Hinterlands"
+region: "Dravania"
+related: [world/the-dravanian-hinterlands]
+tags: [landmark, world, travel]
+status: stable

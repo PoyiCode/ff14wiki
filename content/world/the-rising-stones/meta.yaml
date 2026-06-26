@@ -1,0 +1,11 @@
+id: the-rising-stones
+category: world
+type: landmark
+rank: landmark
+parent: world/mor-dhona
+landmark: "The Rising Stones"
+zone: "Mor Dhona"
+region: "Mor Dhona"
+related: [world/mor-dhona]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: the-warring-triad
+category: world
+type: landmark
+rank: landmark
+parent: world/azys-lla
+landmark: "The Warring Triad"
+zone: "Azys Lla"
+region: "Abalathia's Spine"
+related: [world/azys-lla]
+tags: [landmark, world, travel]
+status: stable

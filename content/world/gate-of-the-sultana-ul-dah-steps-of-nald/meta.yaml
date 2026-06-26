@@ -1,0 +1,11 @@
+id: gate-of-the-sultana-ul-dah-steps-of-nald
+category: world
+type: landmark
+rank: landmark
+parent: world/ul-dah-steps-of-nald
+landmark: "Gate of the Sultana"
+zone: "Ul'dah - Steps of Nald"
+region: "Thanalan"
+related: [world/ul-dah-steps-of-nald]
+tags: [landmark, world, travel]
+status: stable

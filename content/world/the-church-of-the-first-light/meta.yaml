@@ -1,0 +1,11 @@
+id: the-church-of-the-first-light
+category: world
+type: landmark
+rank: landmark
+parent: world/lakeland
+landmark: "The Church of the First Light"
+zone: "Lakeland"
+region: "Norvrandt"
+related: [world/lakeland]
+tags: [landmark, world, travel]
+status: stable

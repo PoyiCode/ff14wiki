@@ -2,6 +2,6 @@ id: seahag
 category: fish
 type: fish
 fish: "Seahag"
-related: [reaver-hide]
+related: [fishing-spots/reaver-hide]
 tags: [fish, fishing, nature]
 status: stable

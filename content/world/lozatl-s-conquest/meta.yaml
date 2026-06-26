@@ -1,0 +1,11 @@
+id: lozatl-s-conquest
+category: world
+type: landmark
+rank: landmark
+parent: world/the-rak-tika-greatwood
+landmark: "Lozatl's Conquest"
+zone: "The Rak'tika Greatwood"
+region: "Norvrandt"
+related: [world/the-rak-tika-greatwood]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: nightstalker-s-shadow
+category: world
+type: landmark
+rank: landmark
+parent: world/yak-t-el
+landmark: "Nightstalker's Shadow"
+zone: "Yak T'el"
+region: "Yok Tural"
+related: [world/yak-t-el]
+tags: [landmark, world, travel]
+status: stable

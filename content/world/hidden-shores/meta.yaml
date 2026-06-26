@@ -1,0 +1,11 @@
+id: hidden-shores
+category: world
+type: landmark
+rank: landmark
+parent: world/shirogane
+landmark: "Hidden Shores"
+zone: "Shirogane"
+region: "Hingashi"
+related: [world/shirogane]
+tags: [landmark, world, travel]
+status: stable

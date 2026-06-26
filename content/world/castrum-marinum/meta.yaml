@@ -1,0 +1,11 @@
+id: castrum-marinum
+category: world
+type: landmark
+rank: landmark
+parent: world/western-thanalan
+landmark: "Castrum Marinum"
+zone: "Western Thanalan"
+region: "Thanalan"
+related: [world/western-thanalan]
+tags: [landmark, world, travel]
+status: stable

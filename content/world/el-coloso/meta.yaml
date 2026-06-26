@@ -1,0 +1,11 @@
+id: el-coloso
+category: world
+type: landmark
+rank: landmark
+parent: world/the-gold-saucer
+landmark: "El Coloso"
+zone: "The Gold Saucer"
+region: "Thanalan"
+related: [world/the-gold-saucer]
+tags: [landmark, world, travel]
+status: stable

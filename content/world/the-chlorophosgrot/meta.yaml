@@ -1,0 +1,11 @@
+id: the-chlorophosgrot
+category: world
+type: landmark
+rank: landmark
+parent: world/mare-lamentorum
+landmark: "The Chlorophosgrot"
+zone: "Mare Lamentorum"
+region: "The Sea of Stars"
+related: [world/mare-lamentorum]
+tags: [landmark, world, travel]
+status: stable

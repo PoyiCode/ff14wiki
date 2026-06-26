@@ -2,6 +2,6 @@ id: starglass-gibel
 category: fish
 type: fish
 fish: "Starglass Gibel"
-related: [proto-alexandria]
+related: [fishing-spots/proto-alexandria]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: lava-crab
 category: fish
 type: fish
 fish: "Lava Crab"
-related: [mourn, anyx-old]
+related: [mourn, fishing-spots/anyx-old]
 tags: [fish, fishing, nature]
 status: stable

@@ -2,6 +2,6 @@ id: platinum-fish
 category: fish
 type: fish
 fish: "Platinum Fish"
-related: [alpha-quadrant, aetherochemical-spill, hyperstellar-downconverter, the-flagship]
+related: [alpha-quadrant, aetherochemical-spill, fishing-spots/hyperstellar-downconverter, the-flagship]
 tags: [fish, fishing, nature]
 status: stable

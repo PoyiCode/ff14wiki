@@ -2,6 +2,6 @@ id: dravanian-squeaker
 category: fish
 type: fish
 fish: "Dravanian Squeaker"
-related: [weston-waters]
+related: [fishing-spots/weston-waters]
 tags: [fish, fishing, nature]
 status: stable

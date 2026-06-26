@@ -1,0 +1,11 @@
+id: residential-radius-9-14
+category: world
+type: landmark
+rank: landmark
+parent: world/solution-nine
+landmark: "Residential Radius 9-14"
+zone: "Solution Nine"
+region: "Xak Tural"
+related: [world/solution-nine]
+tags: [landmark, world, travel]
+status: stable

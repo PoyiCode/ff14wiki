@@ -2,6 +2,6 @@ id: rock-lobster
 category: fish
 type: fish
 fish: "Rock Lobster"
-related: [the-silver-bazaar, crescent-cove, reaver-hide, rhotano-sea-privateer-sterncastle]
+related: [fishing-spots/the-silver-bazaar, fishing-spots/crescent-cove, fishing-spots/reaver-hide, rhotano-sea-privateer-sterncastle]
 tags: [fish, fishing, nature]
 status: stable

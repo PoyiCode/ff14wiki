@@ -2,6 +2,6 @@ id: shooting-starscale
 category: fish
 type: fish
 fish: "Shooting Starscale"
-related: [chirwagur-lake]
+related: [fishing-spots/chirwagur-lake]
 tags: [fish, fishing, nature]
 status: stable

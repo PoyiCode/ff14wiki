@@ -1,0 +1,11 @@
+id: sandnest
+category: world
+type: landmark
+rank: landmark
+parent: world/shaaloani
+landmark: "Sandnest"
+zone: "Shaaloani"
+region: "Xak Tural"
+related: [world/shaaloani]
+tags: [landmark, world, travel]
+status: stable

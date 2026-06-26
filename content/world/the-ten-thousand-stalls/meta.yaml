@@ -1,0 +1,11 @@
+id: the-ten-thousand-stalls
+category: world
+type: landmark
+rank: landmark
+parent: world/the-doman-enclave
+landmark: "The Ten Thousand Stalls"
+zone: "The Doman Enclave"
+region: "Othard"
+related: [world/the-doman-enclave]
+tags: [landmark, world, travel]
+status: stable

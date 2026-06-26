@@ -1,0 +1,11 @@
+id: the-golden-bazaar
+category: world
+type: landmark
+rank: landmark
+parent: world/eastern-thanalan
+landmark: "The Golden Bazaar"
+zone: "Eastern Thanalan"
+region: "Thanalan"
+related: [world/eastern-thanalan]
+tags: [landmark, world, travel]
+status: stable

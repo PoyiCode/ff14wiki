@@ -1,0 +1,11 @@
+id: matter-conduit-vii-vi
+category: world
+type: landmark
+rank: landmark
+parent: world/azys-lla
+landmark: "Matter Conduit VII-VI"
+zone: "Azys Lla"
+region: "Abalathia's Spine"
+related: [world/azys-lla]
+tags: [landmark, world, travel]
+status: stable

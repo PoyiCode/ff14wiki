@@ -1,0 +1,11 @@
+id: the-lawns
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "The Lawns"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

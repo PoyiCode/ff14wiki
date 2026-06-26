@@ -1,0 +1,11 @@
+id: customs-hold
+category: world
+type: landmark
+rank: landmark
+parent: world/eulmore
+landmark: "Customs Hold"
+zone: "Eulmore"
+region: "Norvrandt"
+related: [world/eulmore]
+tags: [landmark, world, travel]
+status: stable

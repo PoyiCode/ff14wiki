@@ -1,0 +1,11 @@
+id: lord-of-verminion-counter
+category: world
+type: landmark
+rank: landmark
+parent: world/the-gold-saucer
+landmark: "Lord of Verminion Counter"
+zone: "The Gold Saucer"
+region: "Thanalan"
+related: [world/the-gold-saucer]
+tags: [landmark, world, travel]
+status: stable

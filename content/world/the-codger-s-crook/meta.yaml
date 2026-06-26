@@ -1,0 +1,11 @@
+id: the-codger-s-crook
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "The Codger's Crook"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

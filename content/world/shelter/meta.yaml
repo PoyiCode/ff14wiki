@@ -1,0 +1,11 @@
+id: shelter
+category: world
+type: landmark
+rank: landmark
+parent: world/urqopacha
+landmark: "Shelter"
+zone: "Urqopacha"
+region: "Yok Tural"
+related: [world/urqopacha]
+tags: [landmark, world, travel]
+status: stable

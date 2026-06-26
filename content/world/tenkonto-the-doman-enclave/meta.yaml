@@ -1,0 +1,11 @@
+id: tenkonto-the-doman-enclave
+category: world
+type: landmark
+rank: landmark
+parent: world/the-doman-enclave
+landmark: "Tenkonto"
+zone: "The Doman Enclave"
+region: "Othard"
+related: [world/the-doman-enclave]
+tags: [landmark, world, travel]
+status: stable

@@ -2,6 +2,6 @@ id: hailfinder
 category: fish
 type: fish
 fish: "Hailfinder"
-related: [greytail-falls]
+related: [fishing-spots/greytail-falls]
 tags: [fish, fishing, nature]
 status: stable

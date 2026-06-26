@@ -2,6 +2,6 @@ id: steelshark
 category: fish
 type: fish
 fish: "Steelshark"
-related: [heather-falls]
+related: [fishing-spots/heather-falls]
 tags: [fish, fishing, nature]
 status: stable

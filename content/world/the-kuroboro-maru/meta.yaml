@@ -1,0 +1,11 @@
+id: the-kuroboro-maru
+category: world
+type: landmark
+rank: landmark
+parent: world/kugane
+landmark: "The *Kuroboro Maru*"
+zone: "Kugane"
+region: "Hingashi"
+related: [world/kugane]
+tags: [landmark, world, travel]
+status: stable

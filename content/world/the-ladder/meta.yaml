@@ -1,0 +1,11 @@
+id: the-ladder
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "The Ladder"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

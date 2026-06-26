@@ -1,0 +1,11 @@
+id: rakusui-gardens
+category: world
+type: landmark
+rank: landmark
+parent: world/kugane
+landmark: "Rakusui Gardens"
+zone: "Kugane"
+region: "Hingashi"
+related: [world/kugane]
+tags: [landmark, world, travel]
+status: stable

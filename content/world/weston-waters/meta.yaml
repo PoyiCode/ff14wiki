@@ -1,0 +1,11 @@
+id: weston-waters
+category: world
+type: landmark
+rank: landmark
+parent: world/the-churning-mists
+landmark: "Weston Waters"
+zone: "The Churning Mists"
+region: "Dravania"
+related: [world/the-churning-mists]
+tags: [landmark, world, travel]
+status: stable

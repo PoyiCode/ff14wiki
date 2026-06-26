@@ -1,0 +1,11 @@
+id: vanguard
+category: world
+type: landmark
+rank: landmark
+parent: world/heritage-found
+landmark: "Vanguard"
+zone: "Heritage Found"
+region: "Xak Tural"
+related: [world/heritage-found]
+tags: [landmark, world, travel]
+status: stable

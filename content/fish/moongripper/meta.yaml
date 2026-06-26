@@ -2,6 +2,6 @@ id: moongripper
 category: fish
 type: fish
 fish: "Moongripper"
-related: [sunken-stars]
+related: [fishing-spots/sunken-stars]
 tags: [fish, fishing, nature]
 status: stable

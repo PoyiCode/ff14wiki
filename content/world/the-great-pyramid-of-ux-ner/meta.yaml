@@ -1,0 +1,11 @@
+id: the-great-pyramid-of-ux-ner
+category: world
+type: landmark
+rank: landmark
+parent: world/the-rak-tika-greatwood
+landmark: "The Great Pyramid of Ux'ner "
+zone: "The Rak'tika Greatwood"
+region: "Norvrandt"
+related: [world/the-rak-tika-greatwood]
+tags: [landmark, world, travel]
+status: stable

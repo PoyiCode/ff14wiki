@@ -1,0 +1,11 @@
+id: northerly-zephyrneus
+category: world
+type: landmark
+rank: landmark
+parent: world/elpis
+landmark: "Northerly Zephyrneus"
+zone: "Elpis"
+region: "The World Unsundered"
+related: [world/elpis]
+tags: [landmark, world, travel]
+status: stable

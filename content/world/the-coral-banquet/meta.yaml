@@ -1,0 +1,11 @@
+id: the-coral-banquet
+category: world
+type: landmark
+rank: landmark
+parent: world/the-ruby-sea
+landmark: "The Coral Banquet"
+zone: "The Ruby Sea"
+region: "Othard"
+related: [world/the-ruby-sea]
+tags: [landmark, world, travel]
+status: stable

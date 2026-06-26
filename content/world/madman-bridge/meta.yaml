@@ -1,0 +1,11 @@
+id: madman-bridge
+category: world
+type: landmark
+rank: landmark
+parent: world/lower-la-noscea
+landmark: "Madman Bridge"
+zone: "Lower La Noscea"
+region: "La Noscea"
+related: [world/lower-la-noscea]
+tags: [landmark, world, travel]
+status: stable

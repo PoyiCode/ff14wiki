@@ -1,0 +1,11 @@
+id: barrier-isle
+category: world
+type: landmark
+rank: landmark
+parent: world/the-ruby-sea
+landmark: "Barrier Isle"
+zone: "The Ruby Sea"
+region: "Othard"
+related: [world/the-ruby-sea]
+tags: [landmark, world, travel]
+status: stable

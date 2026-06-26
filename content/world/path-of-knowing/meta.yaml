@@ -1,0 +1,11 @@
+id: path-of-knowing
+category: world
+type: landmark
+rank: landmark
+parent: world/the-dravanian-hinterlands
+landmark: "Path of Knowing"
+zone: "The Dravanian Hinterlands"
+region: "Dravania"
+related: [world/the-dravanian-hinterlands]
+tags: [landmark, world, travel]
+status: stable

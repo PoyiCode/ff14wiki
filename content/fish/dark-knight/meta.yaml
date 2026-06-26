@@ -2,6 +2,6 @@ id: dark-knight
 category: fish
 type: fish
 fish: "Dark Knight"
-related: [the-unholy-heir]
+related: [fishing-spots/the-unholy-heir]
 tags: [fish, fishing, nature]
 status: stable

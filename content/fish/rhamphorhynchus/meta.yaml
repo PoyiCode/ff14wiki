@@ -2,6 +2,6 @@ id: rhamphorhynchus
 category: fish
 type: fish
 fish: "Rhamphorhynchus"
-related: [witchdrop]
+related: [fishing-spots/witchdrop]
 tags: [fish, fishing, nature]
 status: stable

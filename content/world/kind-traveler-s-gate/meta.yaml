@@ -1,0 +1,11 @@
+id: kind-traveler-s-gate
+category: world
+type: landmark
+rank: landmark
+parent: world/empyreum
+landmark: "Kind Traveler's Gate"
+zone: "Empyreum"
+region: "Coerthas"
+related: [world/empyreum]
+tags: [landmark, world, travel]
+status: stable

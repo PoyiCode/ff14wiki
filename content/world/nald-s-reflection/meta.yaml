@@ -1,0 +1,11 @@
+id: nald-s-reflection
+category: world
+type: landmark
+rank: landmark
+parent: world/southern-thanalan
+landmark: "Nald's Reflection"
+zone: "Southern Thanalan"
+region: "Thanalan"
+related: [world/southern-thanalan]
+tags: [landmark, world, travel]
+status: stable

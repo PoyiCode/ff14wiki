@@ -2,6 +2,6 @@ id: stupendemys
 category: fish
 type: fish
 fish: "Stupendemys"
-related: [the-habisphere]
+related: [fishing-spots/the-habisphere]
 tags: [fish, fishing, nature]
 status: stable

@@ -1,0 +1,11 @@
+id: the-gate-of-first-sight
+category: world
+type: landmark
+rank: landmark
+parent: world/radz-at-han
+landmark: "The Gate of First Sight "
+zone: "Radz-at-Han"
+region: "Ilsabard"
+related: [world/radz-at-han]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: issom-har
+category: world
+type: landmark
+rank: landmark
+parent: world/south-shroud
+landmark: "Issom-Har"
+zone: "South Shroud"
+region: "The Black Shroud"
+related: [world/south-shroud]
+tags: [landmark, world, travel]
+status: stable

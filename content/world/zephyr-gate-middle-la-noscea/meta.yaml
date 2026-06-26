@@ -1,0 +1,11 @@
+id: zephyr-gate-middle-la-noscea
+category: world
+type: landmark
+rank: landmark
+parent: world/middle-la-noscea
+landmark: "Zephyr Gate"
+zone: "Middle La Noscea"
+region: "La Noscea"
+related: [world/middle-la-noscea]
+tags: [landmark, world, travel]
+status: stable

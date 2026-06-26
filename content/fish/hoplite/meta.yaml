@@ -2,6 +2,6 @@ id: hoplite
 category: fish
 type: fish
 fish: "Hoplite"
-related: [anyx-old]
+related: [fishing-spots/anyx-old]
 tags: [fish, fishing, nature]
 status: stable

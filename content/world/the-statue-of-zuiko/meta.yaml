@@ -1,0 +1,11 @@
+id: the-statue-of-zuiko
+category: world
+type: landmark
+rank: landmark
+parent: world/kugane
+landmark: "The Statue of Zuiko"
+zone: "Kugane"
+region: "Hingashi"
+related: [world/kugane]
+tags: [landmark, world, travel]
+status: stable

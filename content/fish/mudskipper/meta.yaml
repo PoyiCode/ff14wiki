@@ -2,6 +2,6 @@ id: mudskipper
 category: fish
 type: fish
 fish: "Mudskipper"
-related: [hopeseed-pond, the-footfalls, the-unholy-heir, north-drybone, south-drybone, fishing-spots/haukke-manor]
+related: [fishing-spots/hopeseed-pond, the-footfalls, fishing-spots/the-unholy-heir, north-drybone, south-drybone, fishing-spots/haukke-manor]
 tags: [fish, fishing, nature]
 status: stable

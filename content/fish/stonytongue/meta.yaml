@@ -2,6 +2,6 @@ id: stonytongue
 category: fish
 type: fish
 fish: "Stonytongue"
-related: [the-ephor]
+related: [fishing-spots/the-ephor]
 tags: [fish, fishing, nature]
 status: stable

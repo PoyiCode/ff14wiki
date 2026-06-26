@@ -1,0 +1,11 @@
+id: delicate-designs
+category: world
+type: landmark
+rank: landmark
+parent: world/urqopacha
+landmark: "Delicate Designs"
+zone: "Urqopacha"
+region: "Yok Tural"
+related: [world/urqopacha]
+tags: [landmark, world, travel]
+status: stable

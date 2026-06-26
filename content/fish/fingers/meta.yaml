@@ -2,6 +2,6 @@ id: fingers
 category: fish
 type: fish
 fish: "Fingers"
-related: [crescent-cove]
+related: [fishing-spots/crescent-cove]
 tags: [fish, fishing, nature]
 status: stable

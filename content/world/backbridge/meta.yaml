@@ -1,0 +1,11 @@
+id: backbridge
+category: world
+type: landmark
+rank: landmark
+parent: world/idyllshire
+landmark: "Backbridge"
+zone: "Idyllshire"
+region: "Dravania"
+related: [world/idyllshire]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: hall-of-the-seven-echoes
+category: world
+type: landmark
+rank: landmark
+parent: world/coerthas-central-highlands
+landmark: "Hall of the Seven Echoes"
+zone: "Coerthas Central Highlands"
+region: "Coerthas"
+related: [world/coerthas-central-highlands]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: ixali-logging-grounds
+category: world
+type: landmark
+rank: landmark
+parent: world/north-shroud
+landmark: "Ixali Logging Grounds"
+zone: "North Shroud"
+region: "The Black Shroud"
+related: [world/north-shroud]
+tags: [landmark, world, travel]
+status: stable

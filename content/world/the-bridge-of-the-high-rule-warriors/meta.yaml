@@ -1,0 +1,11 @@
+id: the-bridge-of-the-high-rule-warriors
+category: world
+type: landmark
+rank: landmark
+parent: world/the-azim-steppe
+landmark: "The Bridge of the High Rule Warriors"
+zone: "The Azim Steppe"
+region: "Othard"
+related: [world/the-azim-steppe]
+tags: [landmark, world, travel]
+status: stable

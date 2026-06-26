@@ -1,0 +1,11 @@
+id: kobold-dig
+category: world
+type: landmark
+rank: landmark
+parent: world/outer-la-noscea
+landmark: "Kobold Dig"
+zone: "Outer La Noscea"
+region: "La Noscea"
+related: [world/outer-la-noscea]
+tags: [landmark, world, travel]
+status: stable

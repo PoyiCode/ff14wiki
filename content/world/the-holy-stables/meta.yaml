@@ -1,0 +1,11 @@
+id: the-holy-stables
+category: world
+type: landmark
+rank: landmark
+parent: world/foundation
+landmark: "The Holy Stables"
+zone: "Foundation"
+region: "Coerthas"
+related: [world/foundation]
+tags: [landmark, world, travel]
+status: stable

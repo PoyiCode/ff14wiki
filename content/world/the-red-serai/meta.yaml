@@ -1,0 +1,11 @@
+id: the-red-serai
+category: world
+type: landmark
+rank: landmark
+parent: world/amh-araeng
+landmark: "The Red Serai"
+zone: "Amh Araeng"
+region: "Norvrandt"
+related: [world/amh-araeng]
+tags: [landmark, world, travel]
+status: stable

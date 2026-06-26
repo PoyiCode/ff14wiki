@@ -2,6 +2,6 @@ id: yok-huy-stonecutter
 category: fish
 type: fish
 fish: "Yok Huy Stonecutter"
-related: [sunken-stars]
+related: [fishing-spots/sunken-stars]
 tags: [fish, fishing, nature]
 status: stable

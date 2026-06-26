@@ -1,0 +1,11 @@
+id: the-hundred-and-one-revelations
+category: world
+type: landmark
+rank: landmark
+parent: world/the-azim-steppe
+landmark: "The Hundred-and-one Revelations"
+zone: "The Azim Steppe"
+region: "Othard"
+related: [world/the-azim-steppe]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: lancegate
+category: world
+type: landmark
+rank: landmark
+parent: world/coerthas-western-highlands
+landmark: "Lancegate"
+zone: "Coerthas Western Highlands"
+region: "Coerthas"
+related: [world/coerthas-western-highlands]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: forum-solius
+category: world
+type: landmark
+rank: landmark
+parent: world/garlemald
+landmark: "Forum Solius"
+zone: "Garlemald"
+region: "Ilsabard"
+related: [world/garlemald]
+tags: [landmark, world, travel]
+status: stable

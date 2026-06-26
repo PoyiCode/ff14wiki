@@ -1,0 +1,11 @@
+id: milvaneth-sacrarium
+category: world
+type: landmark
+rank: landmark
+parent: world/ul-dah-steps-of-thal
+landmark: "Milvaneth Sacrarium"
+zone: "Ul'dah - Steps of Thal"
+region: "Thanalan"
+related: [world/ul-dah-steps-of-thal]
+tags: [landmark, world, travel]
+status: stable

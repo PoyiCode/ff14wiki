@@ -2,6 +2,6 @@ id: lemonfish
 category: fish
 type: fish
 fish: "Lemonfish"
-related: [handmirror-lake]
+related: [fishing-spots/handmirror-lake]
 tags: [fish, fishing, nature]
 status: stable

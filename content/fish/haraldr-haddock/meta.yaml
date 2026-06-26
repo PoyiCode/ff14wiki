@@ -2,6 +2,6 @@ id: haraldr-haddock
 category: fish
 type: fish
 fish: "Haraldr Haddock"
-related: [the-silver-bazaar, cape-westwind]
+related: [fishing-spots/the-silver-bazaar, cape-westwind]
 tags: [fish, fishing, nature]
 status: stable

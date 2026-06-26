@@ -1,0 +1,11 @@
+id: sleeping-stones
+category: world
+type: landmark
+rank: landmark
+parent: world/the-peaks
+landmark: "Sleeping Stones"
+zone: "The Peaks"
+region: "Gyr Abania"
+related: [world/the-peaks]
+tags: [landmark, world, travel]
+status: stable

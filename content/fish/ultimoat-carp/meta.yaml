@@ -2,6 +2,6 @@ id: ultimoat-carp
 category: fish
 type: fish
 fish: "Ultimoat Carp"
-related: [proto-alexandria]
+related: [fishing-spots/proto-alexandria]
 tags: [fish, fishing, nature]
 status: stable

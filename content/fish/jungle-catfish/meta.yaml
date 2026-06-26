@@ -2,6 +2,6 @@ id: jungle-catfish
 category: fish
 type: fish
 fish: "Jungle Catfish"
-related: [red-mantis-falls]
+related: [fishing-spots/red-mantis-falls]
 tags: [fish, fishing, nature]
 status: stable

@@ -1,0 +1,11 @@
+id: skyfront
+category: world
+type: landmark
+rank: landmark
+parent: world/eulmore
+landmark: "Skyfront"
+zone: "Eulmore"
+region: "Norvrandt"
+related: [world/eulmore]
+tags: [landmark, world, travel]
+status: stable

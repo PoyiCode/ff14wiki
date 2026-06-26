@@ -1,0 +1,11 @@
+id: nexus-arcade
+category: world
+type: landmark
+rank: landmark
+parent: world/solution-nine
+landmark: "Nexus Arcade"
+zone: "Solution Nine"
+region: "Xak Tural"
+related: [world/solution-nine]
+tags: [landmark, world, travel]
+status: stable

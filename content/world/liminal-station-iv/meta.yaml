@@ -1,0 +1,11 @@
+id: liminal-station-iv
+category: world
+type: landmark
+rank: landmark
+parent: world/garlemald
+landmark: "Liminal Station IV"
+zone: "Garlemald"
+region: "Ilsabard"
+related: [world/garlemald]
+tags: [landmark, world, travel]
+status: stable

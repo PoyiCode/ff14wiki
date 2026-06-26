@@ -1,0 +1,11 @@
+id: the-dragon-s-struggle
+category: world
+type: landmark
+rank: landmark
+parent: world/yanxia
+landmark: "The Dragon's Struggle"
+zone: "Yanxia"
+region: "Othard"
+related: [world/yanxia]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: thavnairian-consulate
+category: world
+type: landmark
+rank: landmark
+parent: world/kugane
+landmark: "Thavnairian Consulate"
+zone: "Kugane"
+region: "Hingashi"
+related: [world/kugane]
+tags: [landmark, world, travel]
+status: stable

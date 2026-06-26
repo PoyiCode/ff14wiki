@@ -1,0 +1,11 @@
+id: forward-gates
+category: world
+type: landmark
+rank: landmark
+parent: world/northern-thanalan
+landmark: "Forward Gates"
+zone: "Northern Thanalan"
+region: "Thanalan"
+related: [world/northern-thanalan]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: the-split-hull
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "The Split Hull"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

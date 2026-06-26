@@ -1,0 +1,11 @@
+id: the-hedgetree-north-shroud
+category: world
+type: landmark
+rank: landmark
+parent: world/north-shroud
+landmark: "The Hedgetree"
+zone: "North Shroud"
+region: "The Black Shroud"
+related: [world/north-shroud]
+tags: [landmark, world, travel]
+status: stable

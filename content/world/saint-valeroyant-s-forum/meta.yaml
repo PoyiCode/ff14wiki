@@ -1,0 +1,11 @@
+id: saint-valeroyant-s-forum
+category: world
+type: landmark
+rank: landmark
+parent: world/foundation
+landmark: "Saint Valeroyant's Forum"
+zone: "Foundation"
+region: "Coerthas"
+related: [world/foundation]
+tags: [landmark, world, travel]
+status: stable

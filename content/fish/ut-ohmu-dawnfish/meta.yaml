@@ -2,6 +2,6 @@ id: ut-ohmu-dawnfish
 category: fish
 type: fish
 fish: "Ut'ohmu Dawnfish"
-related: [xd-aa-talat-tsoly, iq-br-aax-reservoir, yak-awak-tsoly]
+related: [fishing-spots/xd-aa-talat-tsoly, iq-br-aax-reservoir, fishing-spots/yak-awak-tsoly]
 tags: [fish, fishing, nature]
 status: stable

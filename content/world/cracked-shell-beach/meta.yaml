@@ -1,0 +1,11 @@
+id: cracked-shell-beach
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "Cracked Shell Beach"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

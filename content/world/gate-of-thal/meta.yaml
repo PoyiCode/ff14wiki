@@ -1,0 +1,11 @@
+id: gate-of-thal
+category: world
+type: landmark
+rank: landmark
+parent: world/central-thanalan
+landmark: "Gate of Thal"
+zone: "Central Thanalan"
+region: "Thanalan"
+related: [world/central-thanalan]
+tags: [landmark, world, travel]
+status: stable

@@ -2,6 +2,6 @@ id: paikiller
 category: fish
 type: fish
 fish: "Paikiller"
-related: [the-eddies]
+related: [fishing-spots/the-eddies]
 tags: [fish, fishing, nature]
 status: stable

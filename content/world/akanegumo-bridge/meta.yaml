@@ -1,0 +1,11 @@
+id: akanegumo-bridge
+category: world
+type: landmark
+rank: landmark
+parent: world/shirogane
+landmark: "Akanegumo Bridge"
+zone: "Shirogane"
+region: "Hingashi"
+related: [world/shirogane]
+tags: [landmark, world, travel]
+status: stable

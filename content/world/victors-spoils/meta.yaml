@@ -1,0 +1,11 @@
+id: victors-spoils
+category: world
+type: landmark
+rank: landmark
+parent: world/garlemald
+landmark: "Victors' Spoils"
+zone: "Garlemald"
+region: "Ilsabard"
+related: [world/garlemald]
+tags: [landmark, world, travel]
+status: stable

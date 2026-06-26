@@ -1,0 +1,11 @@
+id: hengr-s-crucible
+category: world
+type: landmark
+rank: landmark
+parent: world/the-sea-of-clouds
+landmark: "Hengr's Crucible"
+zone: "The Sea of Clouds"
+region: "Abalathia's Spine"
+related: [world/the-sea-of-clouds]
+tags: [landmark, world, travel]
+status: stable

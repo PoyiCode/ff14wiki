@@ -1,0 +1,11 @@
+id: the-barber
+category: world
+type: landmark
+rank: landmark
+parent: world/rhalgr-s-reach
+landmark: "The Barber"
+zone: "Rhalgr's Reach"
+region: "Gyr Abania"
+related: [world/rhalgr-s-reach]
+tags: [landmark, world, travel]
+status: stable

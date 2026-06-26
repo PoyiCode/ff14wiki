@@ -2,6 +2,6 @@ id: white-clam
 category: fish
 type: fish
 fish: "White Clam"
-related: [mercantile-docks]
+related: [fishing-spots/mercantile-docks]
 tags: [fish, fishing, nature]
 status: stable

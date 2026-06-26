@@ -1,0 +1,11 @@
+id: joyous-hall
+category: world
+type: landmark
+rank: landmark
+parent: world/eulmore
+landmark: "Joyous Hall"
+zone: "Eulmore"
+region: "Norvrandt"
+related: [world/eulmore]
+tags: [landmark, world, travel]
+status: stable

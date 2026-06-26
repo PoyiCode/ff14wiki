@@ -1,0 +1,11 @@
+id: ul-dah-dispatch-yard
+category: world
+type: landmark
+rank: landmark
+parent: world/central-thanalan
+landmark: "Ul'dah Dispatch Yard"
+zone: "Central Thanalan"
+region: "Thanalan"
+related: [world/central-thanalan]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: airship-launch
+category: world
+type: landmark
+rank: landmark
+parent: world/the-crystarium
+landmark: "Airship Launch"
+zone: "The Crystarium"
+region: "Norvrandt"
+related: [world/the-crystarium]
+tags: [landmark, world, travel]
+status: stable

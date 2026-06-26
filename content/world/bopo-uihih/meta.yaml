@@ -1,0 +1,11 @@
+id: bopo-uihih
+category: world
+type: landmark
+rank: landmark
+parent: world/kozama-uka
+landmark: "Bopo'uihih"
+zone: "Kozama'uka"
+region: "Yok Tural"
+related: [world/kozama-uka]
+tags: [landmark, world, travel]
+status: stable

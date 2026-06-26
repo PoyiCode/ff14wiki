@@ -1,0 +1,11 @@
+id: the-ninth-vare
+category: world
+type: landmark
+rank: landmark
+parent: world/coerthas-western-highlands
+landmark: "The Ninth Vare"
+zone: "Coerthas Western Highlands"
+region: "Coerthas"
+related: [world/coerthas-western-highlands]
+tags: [landmark, world, travel]
+status: stable

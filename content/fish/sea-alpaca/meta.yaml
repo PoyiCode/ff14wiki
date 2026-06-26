@@ -2,6 +2,6 @@ id: sea-alpaca
 category: fish
 type: fish
 fish: "Sea Alpaca"
-related: [sunken-stars]
+related: [fishing-spots/sunken-stars]
 tags: [fish, fishing, nature]
 status: stable

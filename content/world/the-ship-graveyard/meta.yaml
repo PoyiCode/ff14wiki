@@ -1,0 +1,11 @@
+id: the-ship-graveyard
+category: world
+type: landmark
+rank: landmark
+parent: world/western-la-noscea
+landmark: "The Ship Graveyard"
+zone: "Western La Noscea"
+region: "La Noscea"
+related: [world/western-la-noscea]
+tags: [landmark, world, travel]
+status: stable

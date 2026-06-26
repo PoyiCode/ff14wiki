@@ -1,0 +1,11 @@
+id: ragill-s-reckoning
+category: world
+type: landmark
+rank: landmark
+parent: world/the-azim-steppe
+landmark: "Ragill's Reckoning"
+zone: "The Azim Steppe"
+region: "Othard"
+related: [world/the-azim-steppe]
+tags: [landmark, world, travel]
+status: stable

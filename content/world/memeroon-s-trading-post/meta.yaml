@@ -1,0 +1,11 @@
+id: memeroon-s-trading-post
+category: world
+type: landmark
+rank: landmark
+parent: world/upper-la-noscea
+landmark: "Memeroon's Trading Post"
+zone: "Upper La Noscea"
+region: "La Noscea"
+related: [world/upper-la-noscea]
+tags: [landmark, world, travel]
+status: stable

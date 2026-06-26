@@ -1,0 +1,11 @@
+id: imperial-hypersonic-assault-craft-l-xxiii
+category: world
+type: landmark
+rank: landmark
+parent: world/yanxia
+landmark: "Imperial Hypersonic Assault Craft L-XXIII"
+zone: "Yanxia"
+region: "Othard"
+related: [world/yanxia]
+tags: [landmark, world, travel]
+status: stable

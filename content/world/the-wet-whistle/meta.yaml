@@ -1,0 +1,11 @@
+id: the-wet-whistle
+category: world
+type: landmark
+rank: landmark
+parent: world/kholusia
+landmark: "The Wet Whistle"
+zone: "Kholusia"
+region: "Norvrandt"
+related: [world/kholusia]
+tags: [landmark, world, travel]
+status: stable

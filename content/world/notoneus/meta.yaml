@@ -1,0 +1,11 @@
+id: notoneus
+category: world
+type: landmark
+rank: landmark
+parent: world/elpis
+landmark: "Notoneus"
+zone: "Elpis"
+region: "The World Unsundered"
+related: [world/elpis]
+tags: [landmark, world, travel]
+status: stable

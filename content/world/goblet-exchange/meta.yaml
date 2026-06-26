@@ -1,0 +1,11 @@
+id: goblet-exchange
+category: world
+type: landmark
+rank: landmark
+parent: world/the-goblet
+landmark: "Goblet Exchange"
+zone: "The Goblet"
+region: "Thanalan"
+related: [world/the-goblet]
+tags: [landmark, world, travel]
+status: stable

@@ -2,6 +2,6 @@ id: mirror-carp
 category: fish
 type: fish
 fish: "Mirror Carp"
-related: [yak-awak-tsoly]
+related: [fishing-spots/yak-awak-tsoly]
 tags: [fish, fishing, nature]
 status: stable

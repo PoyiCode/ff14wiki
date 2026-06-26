@@ -1,0 +1,11 @@
+id: erralig-s-burial-chamber
+category: world
+type: landmark
+rank: landmark
+parent: world/ul-dah-steps-of-nald
+landmark: "Erralig's Burial Chamber"
+zone: "Ul'dah - Steps of Nald"
+region: "Thanalan"
+related: [world/ul-dah-steps-of-nald]
+tags: [landmark, world, travel]
+status: stable

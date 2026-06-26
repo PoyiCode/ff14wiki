@@ -1,0 +1,11 @@
+id: mistgate-square-subdivision
+category: world
+type: landmark
+rank: landmark
+parent: world/mist
+landmark: "Mistgate Square Subdivision"
+zone: "Mist"
+region: "La Noscea"
+related: [world/mist]
+tags: [landmark, world, travel]
+status: stable

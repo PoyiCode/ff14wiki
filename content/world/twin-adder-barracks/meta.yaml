@@ -1,0 +1,11 @@
+id: twin-adder-barracks
+category: world
+type: landmark
+rank: landmark
+parent: world/new-gridania
+landmark: "Twin Adder Barracks"
+zone: "New Gridania"
+region: "The Black Shroud"
+related: [world/new-gridania]
+tags: [landmark, world, travel]
+status: stable

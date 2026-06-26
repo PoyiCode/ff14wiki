@@ -1,0 +1,11 @@
+id: beaconhill-lighthouse
+category: world
+type: landmark
+rank: landmark
+parent: world/western-thanalan
+landmark: "Beaconhill Lighthouse"
+zone: "Western Thanalan"
+region: "Thanalan"
+related: [world/western-thanalan]
+tags: [landmark, world, travel]
+status: stable

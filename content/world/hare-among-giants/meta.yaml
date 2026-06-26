@@ -1,0 +1,11 @@
+id: hare-among-giants
+category: world
+type: landmark
+rank: landmark
+parent: world/lakeland
+landmark: "Hare Among Giants"
+zone: "Lakeland"
+region: "Norvrandt"
+related: [world/lakeland]
+tags: [landmark, world, travel]
+status: stable

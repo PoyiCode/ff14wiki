@@ -1,0 +1,11 @@
+id: the-wild-fete
+category: world
+type: landmark
+rank: landmark
+parent: world/the-rak-tika-greatwood
+landmark: "The Wild Fete"
+zone: "The Rak'tika Greatwood"
+region: "Norvrandt"
+related: [world/the-rak-tika-greatwood]
+tags: [landmark, world, travel]
+status: stable

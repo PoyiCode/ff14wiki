@@ -1,0 +1,11 @@
+id: dangoulain-s-devotion
+category: world
+type: landmark
+rank: landmark
+parent: world/empyreum
+landmark: "Dangoulain's Devotion"
+zone: "Empyreum"
+region: "Coerthas"
+related: [world/empyreum]
+tags: [landmark, world, travel]
+status: stable

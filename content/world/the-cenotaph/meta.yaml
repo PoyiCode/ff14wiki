@@ -1,0 +1,11 @@
+id: the-cenotaph
+category: world
+type: landmark
+rank: landmark
+parent: world/idyllshire
+landmark: "The Cenotaph"
+zone: "Idyllshire"
+region: "Dravania"
+related: [world/idyllshire]
+tags: [landmark, world, travel]
+status: stable

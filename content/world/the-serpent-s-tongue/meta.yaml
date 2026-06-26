@@ -1,0 +1,11 @@
+id: the-serpent-s-tongue
+category: world
+type: landmark
+rank: landmark
+parent: world/western-la-noscea
+landmark: "The Serpent's Tongue"
+zone: "Western La Noscea"
+region: "La Noscea"
+related: [world/western-la-noscea]
+tags: [landmark, world, travel]
+status: stable

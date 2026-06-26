@@ -2,6 +2,6 @@ id: darkdweller
 category: fish
 type: fish
 fish: "Darkdweller"
-related: [woven-oath]
+related: [fishing-spots/woven-oath]
 tags: [fish, fishing, nature]
 status: stable

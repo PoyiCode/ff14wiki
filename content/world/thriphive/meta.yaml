@@ -1,0 +1,11 @@
+id: thriphive
+category: world
+type: landmark
+rank: landmark
+parent: world/the-dravanian-forelands
+landmark: "Thriphive"
+zone: "The Dravanian Forelands"
+region: "Dravania"
+related: [world/the-dravanian-forelands]
+tags: [landmark, world, travel]
+status: stable

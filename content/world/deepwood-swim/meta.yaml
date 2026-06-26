@@ -1,0 +1,11 @@
+id: deepwood-swim
+category: world
+type: landmark
+rank: landmark
+parent: world/il-mheg
+landmark: "Deepwood Swim"
+zone: "Il Mheg"
+region: "Norvrandt"
+related: [world/il-mheg]
+tags: [landmark, world, travel]
+status: stable

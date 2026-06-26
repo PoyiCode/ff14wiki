@@ -1,0 +1,11 @@
+id: euroneus
+category: world
+type: landmark
+rank: landmark
+parent: world/elpis
+landmark: "Euroneus"
+zone: "Elpis"
+region: "The World Unsundered"
+related: [world/elpis]
+tags: [landmark, world, travel]
+status: stable

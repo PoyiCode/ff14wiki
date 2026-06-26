@@ -2,6 +2,6 @@ id: dinichthys
 category: fish
 type: fish
 fish: "Dinichthys"
-related: [reaver-hide]
+related: [fishing-spots/reaver-hide]
 tags: [fish, fishing, nature]
 status: stable

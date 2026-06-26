@@ -1,0 +1,11 @@
+id: the-isle-of-ken
+category: world
+type: landmark
+rank: landmark
+parent: world/lakeland
+landmark: "The Isle of Ken"
+zone: "Lakeland"
+region: "Norvrandt"
+related: [world/lakeland]
+tags: [landmark, world, travel]
+status: stable

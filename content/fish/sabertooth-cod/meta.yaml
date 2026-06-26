@@ -2,6 +2,6 @@ id: sabertooth-cod
 category: fish
 type: fish
 fish: "Sabertooth Cod"
-related: [candlekeep-quay]
+related: [fishing-spots/candlekeep-quay]
 tags: [fish, fishing, nature]
 status: stable

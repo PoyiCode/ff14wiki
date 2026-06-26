@@ -1,0 +1,11 @@
+id: the-reef-of-sending
+category: world
+type: landmark
+rank: landmark
+parent: world/western-la-noscea
+landmark: "The Reef of Sending"
+zone: "Western La Noscea"
+region: "La Noscea"
+related: [world/western-la-noscea]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: yuzuka-manor
+category: world
+type: landmark
+rank: landmark
+parent: world/yanxia
+landmark: "Yuzuka Manor"
+zone: "Yanxia"
+region: "Othard"
+related: [world/yanxia]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: shoal-rock
+category: world
+type: landmark
+rank: landmark
+parent: world/the-ruby-sea
+landmark: "Shoal Rock"
+zone: "The Ruby Sea"
+region: "Othard"
+related: [world/the-ruby-sea]
+tags: [landmark, world, travel]
+status: stable

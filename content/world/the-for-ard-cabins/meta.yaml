@@ -1,0 +1,11 @@
+id: the-for-ard-cabins
+category: world
+type: landmark
+rank: landmark
+parent: world/tuliyollal
+landmark: "The For'ard Cabins"
+zone: "Tuliyollal"
+region: "Yok Tural"
+related: [world/tuliyollal]
+tags: [landmark, world, travel]
+status: stable

@@ -2,6 +2,6 @@ id: glacier-core
 category: fish
 type: fish
 fish: "Glacier Core"
-related: [greytail-falls]
+related: [fishing-spots/greytail-falls]
 tags: [fish, fishing, nature]
 status: stable

@@ -1,0 +1,11 @@
+id: raubahn-s-salute-subdivision
+category: world
+type: landmark
+rank: landmark
+parent: world/the-goblet
+landmark: "Raubahn's Salute Subdivision"
+zone: "The Goblet"
+region: "Thanalan"
+related: [world/the-goblet]
+tags: [landmark, world, travel]
+status: stable

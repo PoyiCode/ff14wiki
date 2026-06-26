@@ -1,0 +1,11 @@
+id: ussaqeyiq
+category: world
+type: landmark
+rank: landmark
+parent: world/thavnair
+landmark: "Ussaqeyiq"
+zone: "Thavnair"
+region: "Ilsabard"
+related: [world/thavnair]
+tags: [landmark, world, travel]
+status: stable

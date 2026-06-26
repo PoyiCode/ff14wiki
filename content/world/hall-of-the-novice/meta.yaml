@@ -1,0 +1,11 @@
+id: hall-of-the-novice
+category: world
+type: landmark
+rank: landmark
+parent: world/western-la-noscea
+landmark: "Hall of the Novice"
+zone: "Western La Noscea"
+region: "La Noscea"
+related: [world/western-la-noscea]
+tags: [landmark, world, travel]
+status: stable

@@ -1,0 +1,11 @@
+id: senaculum-imperialis
+category: world
+type: landmark
+rank: landmark
+parent: world/garlemald
+landmark: "Senaculum Imperialis"
+zone: "Garlemald"
+region: "Ilsabard"
+related: [world/garlemald]
+tags: [landmark, world, travel]
+status: stable

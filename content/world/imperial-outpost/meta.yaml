@@ -1,0 +1,11 @@
+id: imperial-outpost
+category: world
+type: landmark
+rank: landmark
+parent: world/western-thanalan
+landmark: "Imperial Outpost"
+zone: "Western Thanalan"
+region: "Thanalan"
+related: [world/western-thanalan]
+tags: [landmark, world, travel]
+status: stable

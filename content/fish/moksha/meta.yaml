@@ -2,6 +2,6 @@ id: moksha
 category: fish
 type: fish
 fish: "Moksha"
-related: [the-ephor]
+related: [fishing-spots/the-ephor]
 tags: [fish, fishing, nature]
 status: stable

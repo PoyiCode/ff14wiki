@@ -2,6 +2,6 @@ id: deemster
 category: fish
 type: fish
 fish: "Deemster"
-related: [the-ephor]
+related: [fishing-spots/the-ephor]
 tags: [fish, fishing, nature]
 status: stable

@@ -1,0 +1,11 @@
+id: hearth-of-the-mighty-bendu
+category: world
+type: landmark
+rank: landmark
+parent: world/the-sea-of-clouds
+landmark: "Hearth of the Mighty Bendu"
+zone: "The Sea of Clouds"
+region: "Abalathia's Spine"
+related: [world/the-sea-of-clouds]
+tags: [landmark, world, travel]
+status: stable

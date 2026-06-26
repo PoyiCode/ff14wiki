@@ -1,0 +1,11 @@
+id: the-delousery
+category: world
+type: landmark
+rank: landmark
+parent: world/eulmore
+landmark: "The Delousery"
+zone: "Eulmore"
+region: "Norvrandt"
+related: [world/eulmore]
+tags: [landmark, world, travel]
+status: stable

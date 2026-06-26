@@ -1,0 +1,11 @@
+id: entry-counter
+category: world
+type: landmark
+rank: landmark
+parent: world/wolves-den-pier
+landmark: "Entry Counter"
+zone: "Wolves' Den Pier"
+region: "La Noscea"
+related: [world/wolves-den-pier]
+tags: [landmark, world, travel]
+status: stable

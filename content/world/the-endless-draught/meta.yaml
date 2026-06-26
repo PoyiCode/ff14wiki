@@ -1,0 +1,11 @@
+id: the-endless-draught
+category: world
+type: landmark
+rank: landmark
+parent: world/the-goblet
+landmark: "The Endless Draught"
+zone: "The Goblet"
+region: "Thanalan"
+related: [world/the-goblet]
+tags: [landmark, world, travel]
+status: stable

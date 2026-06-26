@@ -2,6 +2,6 @@ id: azysfish
 category: fish
 type: fish
 fish: "Azysfish"
-related: [hyperstellar-downconverter, the-flagship]
+related: [fishing-spots/hyperstellar-downconverter, the-flagship]
 tags: [fish, fishing, nature]
 status: stable

@@ -1,0 +1,11 @@
+id: fesca-s-watch
+category: world
+type: landmark
+rank: landmark
+parent: world/central-thanalan
+landmark: "Fesca's Watch"
+zone: "Central Thanalan"
+region: "Thanalan"
+related: [world/central-thanalan]
+tags: [landmark, world, travel]
+status: stable
