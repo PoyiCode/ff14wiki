@@ -2,6 +2,6 @@ id: hingashi
 category: world
 type: region
 rank: region
-related: [world/shirogane, kugane]
+related: [world/shirogane, world/kugane]
 tags: [region, geography]
 status: stable

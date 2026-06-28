@@ -6,3 +6,7 @@ summary: "世界的一個區域，含 9 個傳送點。"
 **尤卡圖拉爾** 是這個世界的一個區域。域內傳送點：Dock Poga、Earthenshire、Iq Br'aax、Mamook、Many Fires、Ok'hanu、Tuliyollal、Wachunpelo、Worlar's Echo。
 
 本地方的地區：奧闊帕恰山、克扎瑪烏卡溼地、亞克特爾樹海、圖萊尤拉
+
+本地地標・村落：克扎瑪烏卡溼地、奧闊帕恰山、亞克特爾樹海
+
+本地乙太之光：圖萊尤拉

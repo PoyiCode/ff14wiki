@@ -5,6 +5,6 @@ rank: landmark
 parent: world/thanalan
 area: "Ul'dah - Steps of Thal"
 region: "Thanalan"
-related: [thanalan, clear-skies, clouds, fair-skies, fog, rain]
+related: [thanalan, clear-skies, clouds, fair-skies, fog, rain, world/alchemists-guild, world/gate-of-thal-ul-dah-steps-of-thal, world/gladiators-guild, world/goldsmiths-guild, world/milvaneth-sacrarium, world/miners-guild, world/residential-area-guide, world/sapphire-avenue-exchange, world/scholars-walk, world/the-chamber-of-rule, world/the-coliseum, world/the-gold-court, world/weavers-guild, world/wellhead-lift-ul-dah-steps-of-thal]
 tags: [city-area, world, travel]
 status: stable

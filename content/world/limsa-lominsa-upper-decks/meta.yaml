@@ -5,6 +5,6 @@ rank: landmark
 parent: world/limsa-lominsa
 area: "Limsa Lominsa Upper Decks"
 region: "La Noscea"
-related: [la-noscea, clear-skies, fair-skies, clouds, fog, rain]
+related: [la-noscea, clear-skies, fair-skies, clouds, fog, rain, world/anchor-yard, world/crow-s-lift, world/culinarians-guild, world/maelstrom-barracks, world/marauders-guild, world/tempest-gate, world/the-aftcastle, world/the-missing-member]
 tags: [city-area, world, travel]
 status: stable

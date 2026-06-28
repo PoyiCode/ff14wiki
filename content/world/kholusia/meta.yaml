@@ -5,6 +5,6 @@ rank: landmark
 parent: world/norvrandt
 zone: "Kholusia"
 region: "Norvrandt"
-related: [norvrandt, fair-skies, clouds, clear-skies, gales, rain, fog]
+related: [norvrandt, fair-skies, clouds, clear-skies, gales, rain, fog, world/amity, world/barrow-isle, world/boiled-owl-bridge, world/bottom-rung, world/cracked-shell-beach, world/dwarven-hollows, world/flue-bridge, world/gatetown, world/governor-s-row, world/greely-bridge, world/greely-sties, world/komra, world/longbeard-council, world/open-arms, world/pit-8, world/seagazer, world/southern-crossing, world/stilltide, world/stonegazer, world/the-chisel, world/the-clave, world/the-codger-s-crook, world/the-duergar-s-tewel, world/the-ladder, world/the-lawns, world/the-leaky-keel, world/the-path-to-glory-kholusia, world/the-split-hull, world/the-wet-whistle, world/tomra, world/top-rung, world/venmont-yards, world/wax-seal-mills, world/whisperwind-cove, world/white-oil-falls, world/wright]
 tags: [zone, region, travel]
 status: stable

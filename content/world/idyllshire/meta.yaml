@@ -6,5 +6,5 @@ parent: world/dravania
 aetheryte: "Idyllshire"
 region: "Dravania"
 tags: [aetheryte, travel, teleport]
-related: [dravania, clear-skies, fair-skies, clouds, fog, rain, showers]
+related: [dravania, clear-skies, fair-skies, clouds, fog, rain, showers, world/backbridge, world/freewalks-roundspot, world/frontbridge, world/greengrub-mudplots, world/rowena-s-center-for-cultural-promotion, world/stickqix-s-bangpots, world/the-cenotaph, world/the-hard-place, world/the-snail, world/west-idyllshire]
 status: stable

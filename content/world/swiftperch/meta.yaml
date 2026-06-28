@@ -7,5 +7,5 @@ aetheryte: "Swiftperch"
 region: "La Noscea"
 zone: "Western La Noscea"
 tags: [aetheryte, travel, teleport]
-related: [la-noscea]
+related: [la-noscea, world/skysteel-manufactory, world/the-brume]
 status: stable

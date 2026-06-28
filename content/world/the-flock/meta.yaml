@@ -6,6 +6,6 @@ parent: world/western-la-noscea
 landmark: "The Flock"
 zone: "Western La Noscea"
 region: "La Noscea"
-related: [world/western-la-noscea]
+related: [world/western-la-noscea, world/athenaeum-astrologicum, world/the-tribunal]
 tags: [landmark, world, travel]
 status: stable

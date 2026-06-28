@@ -5,6 +5,6 @@ rank: landmark
 parent: world/the-black-shroud
 area: "Old Gridania"
 region: "The Black Shroud"
-related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds]
+related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds, world/apkallu-falls, world/black-boar-gate, world/botanists-guild, world/conjurers-guild, world/ebony-stalls, world/fen-yll-fineries, world/greatloam-growery, world/lancers-guild, world/leatherworkers-guild-shaded-bower, world/mih-khetto-s-amphitheatre, world/nophica-s-altar, world/rosewood-stalls, world/shaded-bower, world/the-gates-of-judgement-coerthas-central-highlands, world/yellow-serpent-gate]
 tags: [city-area, world, travel]
 status: stable

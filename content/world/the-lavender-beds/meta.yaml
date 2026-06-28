@@ -5,6 +5,6 @@ rank: landmark
 parent: world/the-black-shroud
 area: "The Lavender Beds"
 region: "The Black Shroud"
-related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds]
+related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds, world/amethyst-shallows, world/amethyst-shallows-subdivision, world/autumn-s-sentinels, world/autumn-s-sentinels-subdivision, world/dappled-stalls, world/dappled-stalls-subdivision, world/senna-s-pride, world/senna-s-pride-subdivision, world/wildflower-stalls, world/wildflower-stalls-subdivision, world/yainu-par, world/yainu-par-subdivision]
 tags: [housing-district, world, travel]
 status: stable

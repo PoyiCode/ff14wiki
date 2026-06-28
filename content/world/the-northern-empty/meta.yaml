@@ -2,6 +2,6 @@ id: the-northern-empty
 category: world
 type: region
 rank: region
-related: [labyrinthos, old-sharlayan]
+related: [world/labyrinthos, world/old-sharlayan]
 tags: [region, geography]
 status: stable

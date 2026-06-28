@@ -6,5 +6,5 @@ parent: world/the-black-shroud
 aetheryte: "New Gridania"
 region: "The Black Shroud"
 tags: [aetheryte, travel, teleport]
-related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds]
+related: [the-black-shroud, clear-skies, rain, fair-skies, fog, clouds, world/acorn-orchard, world/archers-guild, world/blue-badger-gate, world/figaga-s-gift, world/red-otter-gate, world/the-knot, world/twin-adder-barracks, world/white-wolf-gate, world/white-wolf-gate-guard]
 status: stable

@@ -5,6 +5,6 @@ rank: landmark
 parent: world/la-noscea
 zone: "Lower La Noscea"
 region: "La Noscea"
-related: [la-noscea, clear-skies, clouds, fair-skies, wind, fog, rain]
+related: [la-noscea, clear-skies, clouds, fair-skies, wind, fog, rain, world/blind-iron-mines, world/candlekeep-quay, world/empty-heart, world/house-of-sticks, world/madman-bridge, world/moraby-drydocks, world/oschon-s-embrace, world/oschon-s-torch, world/red-rooster-stead, world/tempest-gate-lower-la-noscea, world/the-eyes, world/the-grey-fleet, world/the-salt-strand]
 tags: [zone, region, travel]
 status: stable

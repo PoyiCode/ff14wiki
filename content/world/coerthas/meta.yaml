@@ -2,6 +2,6 @@ id: coerthas
 category: world
 type: region
 rank: region
-related: [coerthas-central-highlands, coerthas-western-highlands, empyreum, foundation, the-pillars]
+related: [world/coerthas-central-highlands, world/coerthas-western-highlands, world/empyreum, world/foundation, world/the-pillars]
 tags: [region, geography]
 status: stable

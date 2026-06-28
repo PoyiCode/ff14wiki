@@ -5,6 +5,6 @@ rank: landmark
 parent: world/xak-tural
 zone: "Shaaloani"
 region: "Xak Tural"
-related: [xak-tural, fair-skies, clouds, dust-storms, gales, clear-skies]
+related: [xak-tural, fair-skies, clouds, dust-storms, gales, clear-skies, world/boughs-of-hwittayoanaan, world/hhusatahwi, world/lake-toari, world/luwateninyawawsa, world/maw-of-sansheya, world/mehwahhetsoan, world/mount-loazensasaya, world/otsekarri-shore, world/pyaayehe-pya, world/sandnest, world/shaaloani-station, world/sheshenewezi-springs, world/tonatenyawi, world/tuliyollal-trailhead, world/xak-tural-skygate-shaaloani, world/yowekwa-canyon, world/yoweya-hwitto-cemetery]
 tags: [zone, region, travel]
 status: stable

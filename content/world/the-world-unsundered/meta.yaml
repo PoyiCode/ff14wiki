@@ -2,6 +2,6 @@ id: the-world-unsundered
 category: world
 type: region
 rank: region
-related: [elpis]
+related: [world/elpis]
 tags: [region, geography]
 status: stable

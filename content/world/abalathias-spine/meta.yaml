@@ -2,5 +2,6 @@ id: abalathias-spine
 category: world
 type: region
 rank: region
+related: [world/azys-lla, world/musica-universalis-markets, world/the-sea-of-clouds]
 tags: [region, geography]
 status: stable

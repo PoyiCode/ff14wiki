@@ -5,6 +5,6 @@ rank: landmark
 parent: world/yok-tural
 zone: "Urqopacha"
 region: "Yok Tural"
-related: [yok-tural, fair-skies, clear-skies, clouds, fog, wind, snow]
+related: [yok-tural, fair-skies, clear-skies, clouds, fog, wind, snow, world/agave-jaws, world/arch-of-the-dawn-urqopacha, world/chirwagur-lake, world/chirwagur-saltern, world/ciblu-s-coffee-grounds, world/delicate-designs, world/icuvlo-s-inn, world/indelible-passage, world/karryorzar-the-gracious, world/karvarhur-the-first, world/mezcal-distillery, world/miplu-s-mate-garden, world/naryor-gorna, world/oruncanca, world/panaqpelu-retreat, world/povlu-s-peddlery, world/proof, world/sentinel, world/shades-of-grief, world/shelter, world/sunken-stars, world/the-family-ranch, world/wachunpelo, world/worlars-echo, world/worqor-lar-dor, world/worqor-zormor]
 tags: [zone, region, travel]
 status: stable

@@ -6,6 +6,6 @@ parent: world/the-peaks
 landmark: "The Arms of Meed"
 zone: "The Peaks"
 region: "Gyr Abania"
-related: [world/the-peaks]
+related: [world/the-peaks, world/phantom-village]
 tags: [landmark, world, travel]
 status: stable

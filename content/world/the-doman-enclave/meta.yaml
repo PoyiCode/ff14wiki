@@ -6,5 +6,5 @@ parent: world/othard
 aetheryte: "The Doman Enclave"
 region: "Othard"
 tags: [aetheryte, travel, teleport]
-related: [othard, fair-skies, clear-skies, clouds, rain, fog, showers]
+related: [othard, fair-skies, clear-skies, clouds, rain, fog, showers, world/kienkan, world/rissai-juku, world/shazenkai, world/tenkonto-the-doman-enclave, world/the-enclave-barracks, world/the-enclave-demesne, world/the-one-garden, world/the-ten-thousand-stalls, world/the-watchtower, world/the-yard]
 status: stable

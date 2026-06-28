@@ -5,6 +5,6 @@ rank: landmark
 parent: world/norvrandt
 zone: "The Rak'tika Greatwood"
 region: "Norvrandt"
-related: [norvrandt, fair-skies, clear-skies, clouds, fog, rain, umbral-wind]
+related: [norvrandt, fair-skies, clear-skies, clouds, fog, rain, umbral-wind, world/bowrest, world/cleric, world/fanow, world/fort-gohn, world/fruit-of-the-protector, world/hopl-s-stopple, world/lozatl-s-conquest, world/mjrl-s-regret, world/ox-charl-mul, world/ox-gatorl-mul, world/sleepaway-common, world/slitherbough, world/the-confessional-of-toupasa-the-elder, world/the-covered-halls-of-dwatl, world/the-darker, world/the-deliberating-doll, world/the-great-pyramid-of-ux-ner, world/the-husk, world/the-isle-of-bows, world/the-isle-of-consorts, world/the-isle-of-sisters, world/the-morning-stars, world/the-red-chalice, world/the-trip, world/the-wild-fete, world/the-womb, world/woven-oath, world/yx-anpa-mul, world/yx-lokwa-mul]
 tags: [zone, region, travel]
 status: stable

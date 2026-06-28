@@ -2,6 +2,6 @@ id: dravania
 category: world
 type: region
 rank: region
-related: [the-dravanian-forelands, the-dravanian-hinterlands, the-churning-mists, idyllshire]
+related: [world/the-dravanian-forelands, world/the-dravanian-hinterlands, world/the-churning-mists, world/idyllshire, world/southeast-derelicts]
 tags: [region, geography]
 status: stable

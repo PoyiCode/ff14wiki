@@ -6,6 +6,6 @@ parent: world/lower-la-noscea
 landmark: "The Eyes"
 zone: "Lower La Noscea"
 region: "La Noscea"
-related: [world/lower-la-noscea]
+related: [world/lower-la-noscea, world/entrance-card-squares, world/event-square, world/round-square, world/wonder-square-east, world/wonder-square-west]
 tags: [landmark, world, travel]
 status: stable

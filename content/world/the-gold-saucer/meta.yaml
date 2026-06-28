@@ -6,5 +6,5 @@ parent: world/thanalan
 aetheryte: "The Gold Saucer"
 region: "Thanalan"
 tags: [aetheryte, travel, teleport]
-related: [thanalan, fair-skies]
+related: [thanalan, fair-skies, world/cactpot-board, world/chocobo-lift, world/el-coloso, world/lord-of-verminion-counter, world/main-counter, world/main-stage, world/mt-corel, world/race-counter, world/the-manderville-lounge, world/the-manderville-tables]
 status: stable

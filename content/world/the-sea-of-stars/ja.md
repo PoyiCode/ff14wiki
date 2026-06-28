@@ -6,3 +6,5 @@ summary: "世界の地域のひとつ。エーテライト5カ所。"
 **星外宙域**は世界の地域のひとつ。域内のエーテライト：Abode of the Ea、Base Omicron、Bestways Burrow、Reah Tahra、Sinus Lacrimarum。
 
 この地方のエリア：嘆きの海、ウルティマ・トゥーレ
+
+この地のランドマーク：嘆きの海、ウルティマ・トゥーレ

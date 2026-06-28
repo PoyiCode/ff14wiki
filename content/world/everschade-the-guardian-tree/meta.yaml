@@ -3,7 +3,7 @@ category: world
 type: landmark
 rank: landmark
 parent: world/central-shroud
-landmark: "Everschade\n(The Guardian Tree)"
+landmark: "Everschade (The Guardian Tree)"
 zone: "Central Shroud"
 region: "The Black Shroud"
 related: [world/central-shroud]

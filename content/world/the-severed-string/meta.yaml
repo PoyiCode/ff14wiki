@@ -6,6 +6,6 @@ parent: world/eastern-la-noscea
 landmark: "The Severed String"
 zone: "Eastern La Noscea"
 region: "La Noscea"
-related: [world/eastern-la-noscea]
+related: [world/eastern-la-noscea, world/epilogue-gate-eastern-hinterlands, world/prologue-gate-western-hinterlands]
 tags: [landmark, world, travel]
 status: stable

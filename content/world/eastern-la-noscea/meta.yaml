@@ -5,6 +5,6 @@ rank: landmark
 parent: world/la-noscea
 zone: "Eastern La Noscea"
 region: "La Noscea"
-related: [la-noscea, clear-skies, fair-skies, clouds, fog, rain, showers]
+related: [la-noscea, clear-skies, fair-skies, clouds, fog, rain, showers, world/castrum-occidens, world/costa-del-sol, world/gullperch-tower, world/hidden-falls, world/isle-of-endless-summer, world/red-mantis-falls, world/the-garlok-s-lair, world/the-severed-string, world/wineport]
 tags: [zone, region, travel]
 status: stable

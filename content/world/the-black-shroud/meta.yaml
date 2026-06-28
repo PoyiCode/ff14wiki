@@ -5,5 +5,5 @@ rank: region
 capital: gridania
 aetheryte: New Gridania
 tags: [region, forest, woods, elementals]
-related: [gridania, eorzea, central-shroud, east-shroud, south-shroud, north-shroud, world/the-lavender-beds, new-gridania, old-gridania]
+related: [world/gridania, eorzea, world/central-shroud, world/east-shroud, world/south-shroud, world/north-shroud, world/the-lavender-beds, world/new-gridania, world/old-gridania]
 status: stable

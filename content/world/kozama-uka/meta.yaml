@@ -5,6 +5,6 @@ rank: landmark
 parent: world/yok-tural
 zone: "Kozama'uka"
 region: "Yok Tural"
-related: [yok-tural, fair-skies, clear-skies, clouds, fog, rain, showers]
+related: [yok-tural, fair-skies, clear-skies, clouds, fog, rain, showers, world/arch-of-the-dawn-kozama-uka, world/bopo-uihih, world/breath-between, world/bridge-puyhu, world/cave-kikitola, world/cracked-cistern, world/deceiver-s-mantel, world/dock-poga, world/dock-tumu, world/earthenshire, world/fields-of-gold, world/flight-of-we-wingless, world/house-of-waters-high, world/house-of-winds-high, world/ihuykatumu, world/ihuykatumu-kozama-uka, world/kozanuakiy, world/ku-uxage, world/many-fires, world/marsh-ligaka, world/ok-bek-be, world/okhanu, world/shoals-of-no-return, world/stride-of-the-sun, world/the-imperious, world/the-workpot, world/xo-onu, world/xodune, world/xopik]
 tags: [zone, region, travel]
 status: stable

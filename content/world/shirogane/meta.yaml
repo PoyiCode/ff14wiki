@@ -5,6 +5,6 @@ rank: landmark
 parent: world/hingashi
 area: "Shirogane"
 region: "Hingashi"
-related: [hingashi, fair-skies, clouds, clear-skies, rain, fog]
+related: [hingashi, fair-skies, clouds, clear-skies, rain, fog, world/akanegumo-bridge, world/akanegumo-bridge-subdivision, world/akanezaka-markets, world/akanezaka-markets-subdivision, world/hidden-shores, world/hidden-shores-subdivision, world/kobun-gardens, world/kobun-gardens-subdivision, world/shirakumo-hot-springs, world/shirakumo-hot-springs-subdivision]
 tags: [housing-district, world, travel]
 status: stable

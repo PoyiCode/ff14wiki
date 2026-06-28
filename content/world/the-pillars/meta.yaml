@@ -5,6 +5,6 @@ rank: landmark
 parent: world/coerthas
 area: "The Pillars"
 region: "Coerthas"
-related: [coerthas, snow, clouds, fair-skies, fog, clear-skies]
+related: [coerthas, snow, clouds, fair-skies, fog, clear-skies, world/durendaire-manor, world/dzemael-manor, world/fortemps-manor, world/haillenarte-manor, world/saint-endalim-s-scholasticate, world/saint-reymanaud-s-cathedral, world/the-arc-of-the-venerable, world/the-architects, world/the-hoplon, world/the-jeweled-crozier, world/the-last-vigil, world/the-supreme-sacred-tribunal-of-halonic-inquisitory-doctrine, world/the-vault]
 tags: [city-area, world, travel]
 status: stable

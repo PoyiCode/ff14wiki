@@ -6,5 +6,5 @@ parent: world/xak-tural
 aetheryte: "Solution Nine"
 region: "Xak Tural"
 tags: [aetheryte, travel, teleport]
-related: [xak-tural, fair-skies]
+related: [xak-tural, fair-skies, world/information-center, world/leynode-nine, world/mosaic, world/neon-stein, world/nexus-arcade, world/praxis-park, world/residential-radius-9-11, world/residential-radius-9-14, world/residential-sector, world/resolution, world/the-arcadion, world/true-vue]
 status: stable

@@ -6,5 +6,5 @@ parent: world/la-noscea
 aetheryte: "Wolves' Den Pier"
 region: "La Noscea"
 tags: [aetheryte, travel, teleport]
-related: [la-noscea, clear-skies, fair-skies, clouds, fog, thunderstorms]
+related: [la-noscea, clear-skies, fair-skies, clouds, fog, thunderstorms, world/entry-counter]
 status: stable

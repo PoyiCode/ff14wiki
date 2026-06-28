@@ -2,6 +2,6 @@ id: gyr-abania
 category: world
 type: region
 rank: region
-related: [the-fringes, the-peaks, the-lochs, world/rhalgr-s-reach]
+related: [world/the-fringes, world/the-peaks, world/the-lochs, world/rhalgr-s-reach, world/rhalgrs-reach]
 tags: [region, geography]
 status: stable

@@ -5,6 +5,6 @@ rank: landmark
 parent: world/thanalan
 zone: "Northern Thanalan"
 region: "Thanalan"
-related: [thanalan, fog, clouds, fair-skies, clear-skies]
+related: [thanalan, fog, clouds, fair-skies, clear-skies, world/abandoned-amajina-mythril-mine, world/camp-bluefog, world/ceruleum-processing-plant, world/dalamud-s-talons, world/east-watchtower, world/forward-gates, world/west-watchtower]
 tags: [zone, region, travel]
 status: stable

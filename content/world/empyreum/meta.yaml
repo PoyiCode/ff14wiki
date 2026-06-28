@@ -5,6 +5,6 @@ rank: landmark
 parent: world/coerthas
 area: "Empyreum"
 region: "Coerthas"
-related: [coerthas, clear-skies, fair-skies, clouds, fog, snow]
+related: [coerthas, clear-skies, fair-skies, clouds, fog, snow, world/dangoulain-s-devotion, world/dangoulain-s-devotion-subdivision, world/great-wyrm-s-gate, world/great-wyrm-s-gate-subdivision, world/kind-traveler-s-gate, world/kind-traveler-s-gate-subdivision, world/risensong-rookery, world/risensong-rookery-subdivision, world/snowsteep-springs, world/snowsteep-springs-subdivision, world/the-halberd-s-head, world/the-halberd-s-head-subdivision]
 tags: [housing-district, world, travel]
 status: stable

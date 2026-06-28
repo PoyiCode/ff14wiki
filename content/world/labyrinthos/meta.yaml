@@ -5,6 +5,6 @@ rank: landmark
 parent: world/the-northern-empty
 zone: "Labyrinthos"
 region: "The Northern Empty"
-related: [the-northern-empty, fair-skies, clouds, clear-skies, rain]
+related: [the-northern-empty, fair-skies, clouds, clear-skies, rain, world/aporia, world/hatching-canal, world/kokkol-s-forge, world/logistikon-alpha, world/logistikon-beta, world/logistikon-gamma, world/lower-acrinthos, world/meryall-agronomics, world/mistloom, world/mitato, world/passemerrant-pasturponics, world/phoibos, world/pneuma, world/psyche, world/sharlayan-hamlet, world/thaumazein, world/the-aesthete-s-tholos, world/the-archeion, world/the-hall-of-artifice-labyrinthos, world/the-path-of-artifice, world/the-phreatic-conduit, world/the-thirty-third-facet, world/troglophile-s-deep, world/upper-acrinthos]
 tags: [zone, region, travel]
 status: stable

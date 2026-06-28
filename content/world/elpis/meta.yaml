@@ -5,6 +5,6 @@ rank: landmark
 parent: world/the-world-unsundered
 zone: "Elpis"
 region: "The World Unsundered"
-related: [the-world-unsundered, fair-skies, clouds, umbral-wind, clear-skies]
+related: [the-world-unsundered, fair-skies, clouds, umbral-wind, clear-skies, world/anagnorisis, world/easterly-boreneus, world/euroneus, world/first-bloom, world/ktisis-hyperboreia, world/lethe, world/metabaseos-thalassai, world/noetophoreon, world/northerly-zephyrneus, world/notoneus, world/peripeteia-krystalline, world/poieten-oikos, world/propylaion, world/southerly-boreneus, world/southerly-zephyrneus, world/the-chthonic-horns, world/the-hungering-gardens, world/the-mourning-dew, world/the-twelve-wonders]
 tags: [zone, region, travel]
 status: stable

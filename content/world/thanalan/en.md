@@ -9,3 +9,7 @@ Thanalan is the vast desert encircling Ul'dah, strewn with red rock canyons, cra
 The days are scorching and the nights turn cold. Along the way are miners' camps, taverns and ruins. For a resident, it is a place to watch the sunset set whole canyons aglow and trade road tales with passing caravans.
 
 Zones in this region: Western Thanalan, Central Thanalan, Eastern Thanalan, Southern Thanalan, Northern Thanalan, The Goblet, Ul'dah - Steps of Nald, Ul'dah - Steps of Thal
+
+Landmarks here: Central Thanalan, Eastern Thanalan, Northern Thanalan, Southern Thanalan, The Goblet, Ul'dah - Steps of Nald, Ul'dah - Steps of Thal, Western Thanalan
+
+Aetherytes here: The Gold Saucer

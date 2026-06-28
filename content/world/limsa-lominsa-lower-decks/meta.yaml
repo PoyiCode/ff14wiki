@@ -6,5 +6,5 @@ parent: world/limsa-lominsa
 aetheryte: "Limsa Lominsa Lower Decks"
 region: "La Noscea"
 tags: [aetheryte, travel, teleport]
-related: [la-noscea, clear-skies, fair-skies, clouds, fog, rain]
+related: [la-noscea, clear-skies, fair-skies, clouds, fog, rain, world/arcanists-guild, world/bulwark-hall, world/crow-s-lift-limsa-lominsa-lower-decks, world/east-hawkers-alley, world/fishermen-s-guild, world/hawkers-alley, world/hawkers-round, world/the-astalicia, world/the-octant, world/west-hawkers-alley, world/zephyr-gate]
 status: stable

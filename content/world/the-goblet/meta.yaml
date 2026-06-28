@@ -5,6 +5,6 @@ rank: landmark
 parent: world/thanalan
 area: "The Goblet"
 region: "Thanalan"
-related: [thanalan, clear-skies, clouds, fair-skies, fog, rain]
+related: [thanalan, clear-skies, clouds, fair-skies, fog, rain, world/goblet-exchange, world/goblet-exchange-subdivision, world/raubahn-s-salute, world/raubahn-s-salute-subdivision, world/residential-area-guide-the-goblet, world/the-brimming-heart, world/the-brimming-heart-subdivision, world/the-endless-draught, world/the-endless-draught-subdivision]
 tags: [housing-district, world, travel]
 status: stable

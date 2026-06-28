@@ -11,3 +11,7 @@ It is where sea-folk and reformed pirates gather, with the Maelstrom keeping ord
 For a resident, it is the perfect place to listen to sailors brag about their adventures and strike up conversation with travellers.
 
 Common weather here: Fair Skies（100%）
+
+Landmarks here: Limsa Lominsa Upper Decks
+
+Aetherytes here: Limsa Lominsa Lower Decks

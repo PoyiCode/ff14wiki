@@ -5,6 +5,6 @@ rank: landmark
 parent: world/thanalan
 area: "Ul'dah - Steps of Nald"
 region: "Thanalan"
-related: [thanalan, clear-skies, clouds, fair-skies, fog, rain]
+related: [thanalan, clear-skies, clouds, fair-skies, fog, rain, world/adventurers-guild, world/erralig-s-burial-chamber, world/flame-barracks, world/gate-of-nald-ul-dah-steps-of-nald, world/gate-of-the-sultana-ul-dah-steps-of-nald, world/thaumaturges-guild, world/ul-dah-aetheryte-plaza, world/wellhead-lift]
 tags: [city-area, world, travel]
 status: stable

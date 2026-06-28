@@ -5,6 +5,6 @@ rank: landmark
 parent: world/gyr-abania
 area: "Rhalgr's Reach"
 region: "Gyr Abania"
-related: [gyr-abania, fair-skies, clouds, clear-skies, fog, thunder]
+related: [gyr-abania, fair-skies, clouds, clear-skies, fog, thunder, world/bloodstorm, world/chakra-falls, world/northeastern-rhalgr-s-reach, world/recompense, world/the-barber, world/the-destroyer, world/western-rhalgr-s-reach]
 tags: [city-area, world, travel]
 status: stable

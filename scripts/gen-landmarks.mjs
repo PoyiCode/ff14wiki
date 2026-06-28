@@ -14,8 +14,18 @@ const Q = (s) => JSON.stringify(s);
 const exists = (slug) => fs.existsSync(path.join(WORLD, slug));
 const md = (title, summary, body) => `---\ntitle: ${Q(title)}\nsummary: ${Q(summary)}\n---\n\n${body}\n`;
 
+// 部分官方 PlaceName 名稱內含換行（地圖上分兩行顯示，簡中以 \r\n[第二行] 表示）。
+// 清掉換行：第二行的 [..] 轉為（..），其餘換行併為空格，避免汙染名稱與標題。
+const clean = (s) => String(s ?? '')
+  .replace(/\s*[\r\n]+\s*\[(.+?)\]\s*$/, '（$1）')
+  .replace(/\s*[\r\n]+\s*/g, ' ')
+  .trim();
+
 let created = 0, skipped = 0;
-for (const m of data) {
+for (const raw of data) {
+  const m = { ...raw, en: clean(raw.en), ja: clean(raw.ja), cn: clean(raw.cn), tw: clean(raw.tw),
+    zone: Object.fromEntries(Object.entries(raw.zone).map(([k, v]) => [k, clean(v)])),
+    region: Object.fromEntries(Object.entries(raw.region).map(([k, v]) => [k, clean(v)])) };
   if (!m.slug || exists(m.slug)) { skipped++; continue; }
   const dir = path.join(WORLD, m.slug);
   fs.mkdirSync(dir, { recursive: true });

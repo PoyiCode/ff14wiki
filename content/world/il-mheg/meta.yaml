@@ -5,6 +5,6 @@ rank: landmark
 parent: world/norvrandt
 zone: "Il Mheg"
 region: "Norvrandt"
-related: [norvrandt, fair-skies, clouds, clear-skies, rain, fog, thunderstorms]
+related: [norvrandt, fair-skies, clouds, clear-skies, rain, fog, thunderstorms, world/anden-s-airs, world/deepwood-swim, world/father-collard-s-chambers, world/handmirror-lake, world/lydha-lran, world/lyhe-ghiah, world/old-earra-bridge, world/phisor-lran, world/pla-enni, world/saint-fathric-s-temple, world/sextuplet-shallow, world/the-bookman-s-shelves, world/the-church-at-dammroen-field, world/the-house-of-the-first-light, world/the-silent-cliffs, world/thysm-lran, world/wolekdorf]
 tags: [zone, region, travel]
 status: stable

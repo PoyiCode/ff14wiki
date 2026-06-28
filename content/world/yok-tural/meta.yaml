@@ -2,6 +2,6 @@ id: yok-tural
 category: world
 type: region
 rank: region
-related: [urqopacha, kozama-uka, yak-t-el, tuliyollal]
+related: [world/urqopacha, world/kozama-uka, world/yak-t-el, world/tuliyollal]
 tags: [region, geography]
 status: stable

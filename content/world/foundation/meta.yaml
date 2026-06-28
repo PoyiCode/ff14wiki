@@ -6,5 +6,5 @@ parent: world/coerthas
 aetheryte: "Foundation"
 region: "Coerthas"
 tags: [aetheryte, travel, teleport]
-related: [coerthas, snow, clouds, fair-skies, fog, clear-skies]
+related: [coerthas, snow, clouds, fair-skies, fog, clear-skies, world/congregation-of-our-knights-most-heavenly, world/saint-reinette-s-forum, world/saint-valeroyant-s-forum, world/the-arc-of-the-humble, world/the-arc-of-the-worthy, world/the-forgotten-knight, world/the-fury-s-mercy, world/the-holy-stables, world/the-lightfeather-proving-grounds]
 status: stable

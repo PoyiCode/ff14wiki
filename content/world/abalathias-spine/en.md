@@ -4,3 +4,5 @@ summary: "A region of the world, with 3 aetheryte(s)."
 ---
 
 **Abalathia's Spine** is one of the world's regions. Aetherytes here: Camp Cloudtop, Helix, Ok' Zundu.
+
+Landmarks here: Azys Lla, The Sea of Clouds

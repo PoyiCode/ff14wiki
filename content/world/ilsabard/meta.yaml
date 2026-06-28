@@ -2,6 +2,6 @@ id: ilsabard
 category: world
 type: region
 rank: region
-related: [thavnair, garlemald, radz-at-han]
+related: [world/thavnair, world/garlemald, world/radz-at-han]
 tags: [region, geography]
 status: stable

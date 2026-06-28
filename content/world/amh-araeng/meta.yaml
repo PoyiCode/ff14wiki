@@ -5,6 +5,6 @@ rank: landmark
 parent: world/norvrandt
 zone: "Amh Araeng"
 region: "Norvrandt"
-related: [norvrandt, fair-skies, clear-skies, clouds, dust-storms, heat-waves]
+related: [norvrandt, fair-skies, clear-skies, clouds, dust-storms, heat-waves, world/garik, world/kelk, world/ladle, world/lift-station, world/mord-souq, world/mount-biran-mines, world/nuvy-s-leavings, world/our-ladies-feet, world/our-ladies-hands, world/pitch, world/samiel-s-backbone, world/snitch, world/the-derrick, world/the-dragging-tail, world/the-inn-at-journeys-head, world/the-pristine-palace-of-amh-malik, world/the-rack, world/the-red-serai, world/twine, world/twitch]
 tags: [zone, region, travel]
 status: stable

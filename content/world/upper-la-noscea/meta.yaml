@@ -5,6 +5,6 @@ rank: landmark
 parent: world/la-noscea
 zone: "Upper La Noscea"
 region: "La Noscea"
-related: [la-noscea, clear-skies, fair-skies, clouds, fog, thunder, thunderstorms]
+related: [la-noscea, clear-skies, fair-skies, clouds, fog, thunder, thunderstorms, world/camp-bronze-lake, world/fool-falls, world/jijiroon-s-trading-post, world/memeroon-s-trading-post, world/poor-maid-s-mill, world/thalaos]
 tags: [zone, region, travel]
 status: stable

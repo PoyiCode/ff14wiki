@@ -14,8 +14,16 @@ const Q = (s) => JSON.stringify(s);
 const exists = (slug) => fs.existsSync(path.join(WORLD, slug));
 const md = (title, summary, body) => `---\ntitle: ${Q(title)}\nsummary: ${Q(summary)}\n---\n\n${body}\n`;
 
+// 同 gen-landmarks：清掉官方名稱中可能的換行（簡中 \r\n[第二行] → （第二行））。
+const clean = (s) => String(s ?? '')
+  .replace(/\s*[\r\n]+\s*\[(.+?)\]\s*$/, '（$1）')
+  .replace(/\s*[\r\n]+\s*/g, ' ')
+  .trim();
+
 let created = 0, skipped = 0;
-for (const m of data) {
+for (const raw of data) {
+  const m = { ...raw, en: clean(raw.en), ja: clean(raw.ja), cn: clean(raw.cn), tw: clean(raw.tw),
+    area: Object.fromEntries(Object.entries(raw.area).map(([k, v]) => [k, clean(v)])) };
   if (!m.slug || exists(m.slug)) { skipped++; continue; }
   const dir = path.join(WORLD, m.slug);
   fs.mkdirSync(dir, { recursive: true });

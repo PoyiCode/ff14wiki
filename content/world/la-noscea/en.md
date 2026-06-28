@@ -9,3 +9,7 @@ La Noscea is the coastal region surrounding Limsa Lominsa, a patchwork of rocky 
 The weather is changeable and the sea wind strong. Along the way one finds fishing villages, lighthouses and fishermen drying their nets — a fine place for an unhurried walk and a sea view.
 
 Zones in this region: Middle La Noscea, Lower La Noscea, Eastern La Noscea, Western La Noscea, Upper La Noscea, Outer La Noscea, Wolves' Den Pier, Mist, Limsa Lominsa Upper Decks, Limsa Lominsa Lower Decks
+
+Landmarks here: Eastern La Noscea, Lower La Noscea, Middle La Noscea, Mist, Outer La Noscea, Upper La Noscea, Western La Noscea
+
+Aetherytes here: Wolves' Den Pier
