@@ -2,5 +2,6 @@ id: aldgoat-milk
 category: ingredients
 type: ingredient
 ingredient: "Aldgoat Milk"
+related: [food/dodo-omelette, food/frumenty, food/honey-muffin, food/mint-lassi, food/pearl-chocolate]
 tags: [ingredient, food, cooking]
 status: stable

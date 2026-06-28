@@ -2,5 +2,6 @@ id: daikon-radish
 category: ingredients
 type: ingredient
 ingredient: "Daikon Radish"
+related: [food/boiled-amberjack-head, food/ginger-salad, food/miso-dengaku, food/oden, food/pork-stew, food/steppe-salad]
 tags: [ingredient, food, cooking]
 status: stable

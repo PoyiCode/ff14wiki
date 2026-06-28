@@ -2,5 +2,6 @@ id: sauteed-coeurl
 category: food
 type: dish
 dish: "Sauteed Coeurl"
+related: [ingredients/coeurl-meat, ingredients/cooking-sherry, ingredients/garlean-garlic, ingredients/smooth-butter]
 tags: [food, cuisine]
 status: stable

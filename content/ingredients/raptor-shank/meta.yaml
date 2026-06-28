@@ -2,5 +2,6 @@ id: raptor-shank
 category: ingredients
 type: ingredient
 ingredient: "Raptor Shank"
+related: [food/raptor-stew, food/smoked-raptor, food/tandoori-raptor]
 tags: [ingredient, food, cooking]
 status: stable

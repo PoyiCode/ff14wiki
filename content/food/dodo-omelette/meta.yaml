@@ -2,5 +2,6 @@ id: dodo-omelette
 category: food
 type: dish
 dish: "Dodo Omelette"
+related: [ingredients/aldgoat-milk, ingredients/dodo-egg, ingredients/highland-parsley, ingredients/smooth-butter, ingredients/table-salt, ingredients/tomato-sauce]
 tags: [food, cuisine]
 status: stable

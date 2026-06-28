@@ -2,5 +2,6 @@ id: lavender-oil
 category: ingredients
 type: ingredient
 ingredient: "Lavender Oil"
+related: [food/forest-miq-abob, food/ratatouille]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: peppermint
 category: ingredients
 type: ingredient
 ingredient: "Peppermint"
+related: [food/amra-lassi, food/chicken-fettuccine, food/glory-be-soup, food/happiness-juice, food/honey-croissant, food/peach-juice, food/pixieberry-tea, food/pizza, food/rare-roast-beef, food/sausage-and-sauerkraut, food/skyr, food/thavnairian-chai, food/wine-dark-soup, food/woolback-steak, food/zefir]
 tags: [ingredient, food, cooking]
 status: stable

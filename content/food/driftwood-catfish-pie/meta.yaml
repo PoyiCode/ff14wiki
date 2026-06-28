@@ -2,5 +2,6 @@ id: driftwood-catfish-pie
 category: food
 type: dish
 dish: "Driftwood Catfish Pie"
+related: [ingredients/creamtop-mushroom, ingredients/mountain-salt, ingredients/upland-wheat-flour, ingredients/yyasulani-garlic]
 tags: [food, cuisine]
 status: stable

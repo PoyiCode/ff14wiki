@@ -2,5 +2,6 @@ id: karniyarik
 category: food
 type: dish
 dish: "Karniyarik"
+related: [ingredients/blood-tomato, ingredients/doman-eggplant, ingredients/elder-nutmeg-seeds, ingredients/hamsa-tenderloin, ingredients/perilla-oil, ingredients/thavnairian-paprika]
 tags: [food, cuisine]
 status: stable

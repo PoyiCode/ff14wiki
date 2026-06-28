@@ -2,5 +2,6 @@ id: thavnairian-paprika
 category: ingredients
 type: ingredient
 ingredient: "Thavnairian Paprika"
+related: [food/all-i-pebre, food/amra-salad, food/baba-ghanoush, food/ceviche, food/coconut-cod-chowder, food/island-miq-abob, food/jhinga-biryani, food/karniyarik, food/loaghtan-rump-steak, food/marinated-broccoflower, food/piennolo-tomato-salad, food/scallop-salad, food/spicy-shakshouka, food/sykon-salad, food/tacos-de-carne-asada]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: vermicelli
 category: ingredients
 type: ingredient
 ingredient: "Vermicelli"
+related: [food/boscaiola, food/chicken-fettuccine, food/chicken-pasta, food/creamy-salmon-pasta, food/pasta-ortolano, food/peperoncino, food/spaghetti-al-nero, food/spaghetti-carbonara, food/spaghetti-pescatore, food/the-noodles-of-elpis, food/urchin-pasta]
 tags: [ingredient, food, cooking]
 status: stable

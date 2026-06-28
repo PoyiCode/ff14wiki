@@ -2,5 +2,6 @@ id: heavensegg-soup
 category: food
 type: dish
 dish: "Heavensegg Soup"
+related: [ingredients/bouillon-cube, ingredients/cyclops-onion, ingredients/heavensegg, ingredients/laurel, ingredients/ogre-pumpkin, ingredients/smoked-bacon]
 tags: [food, cuisine]
 status: stable

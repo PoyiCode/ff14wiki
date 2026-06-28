@@ -2,5 +2,6 @@ id: heavenly-eggnog
 category: food
 type: dish
 dish: "Heavenly Eggnog"
+related: [ingredients/birch-syrup, ingredients/cinnamon, ingredients/heavensegg, ingredients/nutmeg, ingredients/sweet-cream, ingredients/sweet-cream-milk]
 tags: [food, cuisine]
 status: stable

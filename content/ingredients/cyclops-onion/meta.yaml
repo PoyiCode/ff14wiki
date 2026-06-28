@@ -2,5 +2,6 @@ id: cyclops-onion
 category: ingredients
 type: ingredient
 ingredient: "Cyclops Onion"
+related: [food/angler-stew, food/baked-onion-soup, food/blood-bouillabaisse, food/blood-tomato-salad, food/boscaiola, food/carrot-nibbles, food/cockatrice-meatballs, food/crab-cakes, food/crab-croquette, food/dhalmel-fricassee, food/dhalmel-gratin, food/ema-datshi, food/farmer-s-breakfast, food/heavensegg-soup, food/imam-bayildi]
 tags: [ingredient, food, cooking]
 status: stable

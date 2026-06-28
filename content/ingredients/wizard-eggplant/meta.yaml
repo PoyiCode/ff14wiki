@@ -2,5 +2,6 @@ id: wizard-eggplant
 category: ingredients
 type: ingredient
 ingredient: "Wizard Eggplant"
+related: [food/boiled-bream, food/pasta-ortolano, food/ratatouille]
 tags: [ingredient, food, cooking]
 status: stable

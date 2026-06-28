@@ -2,5 +2,6 @@ id: coffee-biscuit
 category: food
 type: dish
 dish: "Coffee Biscuit"
+related: [ingredients/coffee-beans, ingredients/garden-beet-sugar, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

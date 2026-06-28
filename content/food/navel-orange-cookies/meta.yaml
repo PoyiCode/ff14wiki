@@ -2,5 +2,6 @@ id: navel-orange-cookies
 category: food
 type: dish
 dish: "Navel Orange Cookies"
+related: [ingredients/fermented-butter, ingredients/mesquite-beans, ingredients/navel-orange, ingredients/royal-maple-syrup, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

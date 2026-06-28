@@ -2,5 +2,6 @@ id: allagan-snail
 category: ingredients
 type: ingredient
 ingredient: "Allagan Snail"
+related: [food/lava-toad-legs, food/tree-toad-legs]
 tags: [ingredient, food, cooking]
 status: stable

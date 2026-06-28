@@ -2,5 +2,6 @@ id: skyr
 category: food
 type: dish
 dish: "Skyr"
+related: [ingredients/ovibos-milk, ingredients/palm-sugar, ingredients/peppermint]
 tags: [food, cuisine]
 status: stable

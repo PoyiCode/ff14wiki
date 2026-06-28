@@ -2,5 +2,6 @@ id: lobster-bisque
 category: food
 type: dish
 dish: "Lobster Bisque"
+related: [ingredients/carrot-of-happiness, ingredients/cooking-mezcal, ingredients/fermented-butter, ingredients/ut-ohmu-tomato]
 tags: [food, cuisine]
 status: stable

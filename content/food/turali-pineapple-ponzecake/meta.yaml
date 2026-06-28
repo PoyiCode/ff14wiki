@@ -2,5 +2,6 @@ id: turali-pineapple-ponzecake
 category: food
 type: dish
 dish: "Turali Pineapple Ponzecake"
+related: [ingredients/garlean-cheese, ingredients/lemonette, ingredients/ovibos-milk, ingredients/turali-pineapple, ingredients/whipped-cream]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: ema-datshi
 category: food
 type: dish
 dish: "Ema Datshi"
+related: [ingredients/cream-cheese, ingredients/crimson-pepper, ingredients/cyclops-onion, ingredients/dragon-pepper]
 tags: [food, cuisine]
 status: stable

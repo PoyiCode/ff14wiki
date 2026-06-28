@@ -2,5 +2,6 @@ id: sun-cabbage
 category: ingredients
 type: ingredient
 ingredient: "Sun Cabbage"
+related: [food/nomad-meat-pie, food/stewed-river-bream, food/warrior-s-stew]
 tags: [ingredient, food, cooking]
 status: stable

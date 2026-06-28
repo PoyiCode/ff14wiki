@@ -2,5 +2,6 @@ id: peach-tart
 category: food
 type: dish
 dish: "Peach Tart"
+related: [ingredients/dark-rye-flour, ingredients/egg-of-elpis, ingredients/ovibos-milk, ingredients/potent-spice, ingredients/white-peach]
 tags: [food, cuisine]
 status: stable

@@ -6,3 +6,5 @@ summary: "A dish of Eorzea."
 **Prune Ponzecake** is a dish residents cook and eat — served at taverns and home tables across Eorzea. In-game name: Prune Ponzecake.
 
 A fragrant ponzecake studded with silky soft prunes.
+
+Ingredients used: Egg of Elpis, Fermented Butter, Royal Maple Syrup, Turali Plum, Upland Wheat Flour

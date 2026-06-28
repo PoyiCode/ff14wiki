@@ -2,5 +2,6 @@ id: melon-juice
 category: food
 type: dish
 dish: "Melon Juice"
+related: [ingredients/elder-nutmeg-seeds, ingredients/garden-beet-sugar, ingredients/palm-sugar, ingredients/thundermelon]
 tags: [food, cuisine]
 status: stable

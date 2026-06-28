@@ -2,5 +2,6 @@ id: sweet-maple-mate
 category: food
 type: dish
 dish: "Sweet Maple Mate"
+related: [ingredients/coconut-milk, ingredients/lemonette, ingredients/royal-maple-syrup, ingredients/splendid-mate-leaves]
 tags: [food, cuisine]
 status: stable

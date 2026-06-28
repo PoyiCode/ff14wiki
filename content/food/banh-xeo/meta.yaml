@@ -2,5 +2,6 @@ id: banh-xeo
 category: food
 type: dish
 dish: "Banh Xeo"
+related: [ingredients/cumin-seeds, ingredients/fennel, ingredients/green-leek, ingredients/koshu-pork, ingredients/koshu-sticky-rice]
 tags: [food, cuisine]
 status: stable

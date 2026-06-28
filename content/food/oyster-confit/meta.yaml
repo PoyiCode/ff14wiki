@@ -2,5 +2,6 @@ id: oyster-confit
 category: food
 type: dish
 dish: "Oyster Confit"
+related: [ingredients/highland-parsley, ingredients/laurel, ingredients/mature-olive-oil]
 tags: [food, cuisine]
 status: stable

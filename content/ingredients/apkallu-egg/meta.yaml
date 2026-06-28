@@ -2,5 +2,6 @@ id: apkallu-egg
 category: ingredients
 type: ingredient
 ingredient: "Apkallu Egg"
+related: [food/apkallu-omelette, food/deviled-eggs, food/finger-sandwich, food/la-noscean-toast, food/pineapple-ponzecake, food/popoto-pancakes, food/salt-cod-puffs, food/spinach-quiche, food/trapper-s-quiche]
 tags: [ingredient, food, cooking]
 status: stable

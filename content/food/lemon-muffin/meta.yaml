@@ -2,5 +2,6 @@ id: lemon-muffin
 category: food
 type: dish
 dish: "Lemon Muffin"
+related: [ingredients/cardamom, ingredients/fermented-butter, ingredients/lemonette, ingredients/lorikeet-egg, ingredients/upland-wheat-flour, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

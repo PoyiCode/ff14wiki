@@ -2,5 +2,6 @@ id: koshu-pork
 category: ingredients
 type: ingredient
 ingredient: "Koshu Pork"
+related: [food/banh-xeo, food/pork-kakuni, food/pork-stew, food/shakshouka]
 tags: [ingredient, food, cooking]
 status: stable

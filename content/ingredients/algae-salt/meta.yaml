@@ -2,5 +2,6 @@ id: algae-salt
 category: ingredients
 type: ingredient
 ingredient: "Algae Salt"
+related: [food/baba-ghanoush, food/charred-charr, food/dzo-steak, food/fish-stew, food/nomad-meat-pie, food/shorlog, food/steppe-salad, food/warrior-s-stew]
 tags: [ingredient, food, cooking]
 status: stable

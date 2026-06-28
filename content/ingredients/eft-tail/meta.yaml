@@ -2,5 +2,6 @@ id: eft-tail
 category: ingredients
 type: ingredient
 ingredient: "Eft Tail"
+related: [food/dzemael-gratin, food/eft-steak, food/trapper-s-quiche]
 tags: [ingredient, food, cooking]
 status: stable

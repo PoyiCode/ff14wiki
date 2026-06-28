@@ -2,5 +2,6 @@ id: beet-soup
 category: food
 type: dish
 dish: "Beet Soup"
+related: [ingredients/abalathian-rock-salt, ingredients/loaghtan-chump, ingredients/magma-beet, ingredients/mist-dill, ingredients/pearl-sprouts, ingredients/sour-cream]
 tags: [food, cuisine]
 status: stable

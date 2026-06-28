@@ -2,5 +2,6 @@ id: chamomile-tea
 category: food
 type: dish
 dish: "Chamomile Tea"
+related: [ingredients/honey, ingredients/mineral-water]
 tags: [food, cuisine]
 status: stable

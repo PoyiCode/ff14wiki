@@ -2,5 +2,6 @@ id: finger-sandwich
 category: food
 type: dish
 dish: "Finger Sandwich"
+related: [ingredients/apkallu-egg, ingredients/la-noscean-lettuce, ingredients/smooth-butter]
 tags: [food, cuisine]
 status: stable

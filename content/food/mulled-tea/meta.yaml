@@ -2,5 +2,6 @@ id: mulled-tea
 category: food
 type: dish
 dish: "Mulled Tea"
+related: [ingredients/cinnamon, ingredients/cloves, ingredients/mineral-water, ingredients/pearl-ginger, ingredients/thanalan-tea-leaves]
 tags: [food, cuisine]
 status: stable

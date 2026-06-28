@@ -2,5 +2,6 @@ id: bouillabaisse
 category: food
 type: dish
 dish: "Bouillabaisse"
+related: [ingredients/desert-saffron, ingredients/dzemael-tomato, ingredients/olive-oil]
 tags: [food, cuisine]
 status: stable

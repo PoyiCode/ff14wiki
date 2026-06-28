@@ -2,5 +2,6 @@ id: branchbearer-fruit
 category: ingredients
 type: ingredient
 ingredient: "Branchbearer Fruit"
+related: [food/fruit-and-aloe-jelly, food/tart-turali-tart, food/wild-banana-blend]
 tags: [ingredient, food, cooking]
 status: stable

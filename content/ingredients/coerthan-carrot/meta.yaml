@@ -2,5 +2,6 @@ id: coerthan-carrot
 category: ingredients
 type: ingredient
 ingredient: "Coerthan Carrot"
+related: [food/antelope-stew, food/mutton-stew, food/orobon-stew, food/rabbit-pie, food/shepherd-s-pie, food/stone-soup, food/stuffed-cabbage]
 tags: [ingredient, food, cooking]
 status: stable

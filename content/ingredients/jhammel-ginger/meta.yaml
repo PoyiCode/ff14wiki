@@ -2,5 +2,6 @@ id: jhammel-ginger
 category: ingredients
 type: ingredient
 ingredient: "Jhammel Ginger"
+related: [food/boiled-amberjack-head, food/chili-crab, food/crimson-cider, food/doman-tea, food/ginger-salad, food/pork-kakuni, food/steamed-grouper]
 tags: [ingredient, food, cooking]
 status: stable

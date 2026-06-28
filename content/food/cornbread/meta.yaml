@@ -2,5 +2,6 @@ id: cornbread
 category: food
 type: dish
 dish: "Cornbread"
+related: [ingredients/buffalo-milk, ingredients/chicken-egg, ingredients/cornmeal, ingredients/mineral-water, ingredients/olive-oil, ingredients/sunset-wheat-flour]
 tags: [food, cuisine]
 status: stable

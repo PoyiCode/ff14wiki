@@ -2,5 +2,6 @@ id: maple-teriyaki
 category: food
 type: dish
 dish: "Maple Teriyaki"
+related: [ingredients/bird-of-elpis-breast, ingredients/dark-rye-flour, ingredients/fermented-butter, ingredients/mountain-salt, ingredients/royal-maple-syrup]
 tags: [food, cuisine]
 status: stable

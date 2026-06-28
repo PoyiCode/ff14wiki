@@ -2,5 +2,6 @@ id: vintage-cooking-sherry
 category: ingredients
 type: ingredient
 ingredient: "Vintage Cooking Sherry"
+related: [food/tailor-made-eel-pie]
 tags: [ingredient, food, cooking]
 status: stable

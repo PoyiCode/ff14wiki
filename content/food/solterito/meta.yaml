@@ -2,5 +2,6 @@ id: solterito
 category: food
 type: dish
 dish: "Solterito"
+related: [ingredients/cooking-mezcal, ingredients/eblan-lentils, ingredients/frantoio-oil, ingredients/queso-fresco, ingredients/ut-ohmu-tomato]
 tags: [food, cuisine]
 status: stable

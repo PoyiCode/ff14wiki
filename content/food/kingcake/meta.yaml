@@ -2,5 +2,6 @@ id: kingcake
 category: food
 type: dish
 dish: "Kingcake"
+related: [ingredients/birch-syrup, ingredients/highland-flour, ingredients/okeanis-egg, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: calamari-ripieni
 category: food
 type: dish
 dish: "Calamari Ripieni"
+related: [ingredients/alien-onion, ingredients/blood-tomato, ingredients/garlean-cheese, ingredients/perilla-oil]
 tags: [food, cuisine]
 status: stable

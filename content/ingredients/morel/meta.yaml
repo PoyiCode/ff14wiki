@@ -2,5 +2,6 @@ id: morel
 category: ingredients
 type: ingredient
 ingredient: "Morel"
+related: [food/boscaiola, food/morel-salad, food/urchin-loaf]
 tags: [ingredient, food, cooking]
 status: stable

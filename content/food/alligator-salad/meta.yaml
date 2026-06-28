@@ -2,5 +2,6 @@ id: alligator-salad
 category: food
 type: dish
 dish: "Alligator Salad"
+related: [ingredients/alligator-pear, ingredients/blue-cheese, ingredients/dark-vinegar, ingredients/olive-oil, ingredients/paprika, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

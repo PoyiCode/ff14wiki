@@ -2,5 +2,6 @@ id: rolanberry-lassi
 category: food
 type: dish
 dish: "Rolanberry Lassi"
+related: [ingredients/night-milk, ingredients/rolanberry]
 tags: [food, cuisine]
 status: stable

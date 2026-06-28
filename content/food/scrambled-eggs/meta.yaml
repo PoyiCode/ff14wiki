@@ -2,5 +2,6 @@ id: scrambled-eggs
 category: food
 type: dish
 dish: "Scrambled Eggs"
+related: [ingredients/cottage-cheese, ingredients/puk-egg, ingredients/table-salt, ingredients/white-truffle]
 tags: [food, cuisine]
 status: stable

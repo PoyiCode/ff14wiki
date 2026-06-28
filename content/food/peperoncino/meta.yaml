@@ -2,5 +2,6 @@ id: peperoncino
 category: food
 type: dish
 dish: "Peperoncino"
+related: [ingredients/dragon-pepper, ingredients/highland-parsley, ingredients/mature-olive-oil, ingredients/solstice-garlic, ingredients/vermicelli]
 tags: [food, cuisine]
 status: stable

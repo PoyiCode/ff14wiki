@@ -2,5 +2,6 @@ id: dravanian-paprika
 category: ingredients
 type: ingredient
 ingredient: "Dravanian Paprika"
+related: [food/loaghtan-steak, food/pasta-ortolano, food/seafood-stew, food/shakshouka]
 tags: [ingredient, food, cooking]
 status: stable

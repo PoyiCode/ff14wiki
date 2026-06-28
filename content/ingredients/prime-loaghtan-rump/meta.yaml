@@ -2,5 +2,6 @@ id: prime-loaghtan-rump
 category: ingredients
 type: ingredient
 ingredient: "Prime Loaghtan Rump"
+related: [food/gyros, food/loaghtan-rump-steak]
 tags: [ingredient, food, cooking]
 status: stable

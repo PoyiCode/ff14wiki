@@ -2,5 +2,6 @@ id: tandoori-raptor
 category: food
 type: dish
 dish: "Tandoori Raptor"
+related: [ingredients/frantoio-oil, ingredients/northern-sea-salt, ingredients/ovibos-milk, ingredients/pure-cumin, ingredients/raptor-shank]
 tags: [food, cuisine]
 status: stable

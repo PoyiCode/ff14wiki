@@ -2,5 +2,6 @@ id: twilight-apple
 category: ingredients
 type: ingredient
 ingredient: "Twilight Apple"
+related: [food/twilight-popoto-salad, food/zefir]
 tags: [ingredient, food, cooking]
 status: stable

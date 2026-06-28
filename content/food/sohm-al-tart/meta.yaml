@@ -2,5 +2,6 @@ id: sohm-al-tart
 category: food
 type: dish
 dish: "Sohm Al Tart"
+related: [ingredients/dark-chestnut, ingredients/highland-flour, ingredients/maple-sugar, ingredients/sweet-cream]
 tags: [food, cuisine]
 status: stable

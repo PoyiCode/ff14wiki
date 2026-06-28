@@ -2,5 +2,6 @@ id: doman-eggplant
 category: ingredients
 type: ingredient
 ingredient: "Doman Eggplant"
+related: [food/imam-bayildi, food/jhammel-moussaka, food/karniyarik, food/miso-dengaku, food/stewed-river-bream, food/yakow-moussaka]
 tags: [ingredient, food, cooking]
 status: stable

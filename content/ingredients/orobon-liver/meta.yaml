@@ -2,5 +2,6 @@ id: orobon-liver
 category: ingredients
 type: ingredient
 ingredient: "Orobon Liver"
+related: [food/orobon-stew]
 tags: [ingredient, food, cooking]
 status: stable

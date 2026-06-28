@@ -2,5 +2,6 @@ id: golden-honey
 category: ingredients
 type: ingredient
 ingredient: "Golden Honey"
+related: [food/blood-tomato-juice, food/giant-popoto-pancakes, food/golden-pineapple-juice, food/honey-croissant, food/honeyed-dragonfruit, food/lemonade, food/nut-bake, food/pixie-apple-pie]
 tags: [ingredient, food, cooking]
 status: stable

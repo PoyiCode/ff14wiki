@@ -2,5 +2,6 @@ id: night-vinegar
 category: ingredients
 type: ingredient
 ingredient: "Night Vinegar"
+related: [food/blood-tomato-salad, food/carrot-nibbles, food/loaghtan-rump-steak, food/lomo-saltado, food/marinated-broccoflower, food/mist-spinach-saute, food/piennolo-tomato-salad, food/roast-ovim, food/roast-rroneek, food/rock-fisted-popoto-salad, food/rroneek-steak, food/sausage-and-sauerkraut, food/sunset-carrot-nibbles]
 tags: [ingredient, food, cooking]
 status: stable

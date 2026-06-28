@@ -2,5 +2,6 @@ id: nachos
 category: food
 type: dish
 dish: "Nachos"
+related: [ingredients/alien-onion, ingredients/flint-corn, ingredients/garlean-cheese, ingredients/ut-ohmu-chili-sauce, ingredients/ut-ohmu-tomato]
 tags: [food, cuisine]
 status: stable

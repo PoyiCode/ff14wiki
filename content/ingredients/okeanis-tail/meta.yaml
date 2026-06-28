@@ -2,5 +2,6 @@ id: okeanis-tail
 category: ingredients
 type: ingredient
 ingredient: "Okeanis Tail"
+related: [food/deep-fried-okeanis, food/stuffed-chysahl]
 tags: [ingredient, food, cooking]
 status: stable

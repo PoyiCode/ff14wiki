@@ -2,5 +2,6 @@ id: bouillon-cube
 category: ingredients
 type: ingredient
 ingredient: "Bouillon Cube"
+related: [food/clam-chowder, food/dhalmel-fricassee, food/emerald-soup, food/heavensegg-soup, food/kasha]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: herring-pie
 category: food
 type: dish
 dish: "Herring Pie"
+related: [ingredients/creamtop-mushroom, ingredients/mist-spinach, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

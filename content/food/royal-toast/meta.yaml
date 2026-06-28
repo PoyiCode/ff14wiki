@@ -2,5 +2,6 @@ id: royal-toast
 category: food
 type: dish
 dish: "Royal Toast"
+related: [ingredients/egg-of-elpis, ingredients/fermented-butter, ingredients/ovibos-milk, ingredients/royal-maple-syrup, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: baklava
 category: food
 type: dish
 dish: "Baklava"
+related: [ingredients/almonds, ingredients/buffalo-milk, ingredients/gagana-egg, ingredients/gridanian-walnut, ingredients/gyr-abanian-flour, ingredients/honey]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: dried-plums
 category: food
 type: dish
 dish: "Dried Plums"
+related: [ingredients/pixie-plums]
 tags: [food, cuisine]
 status: stable

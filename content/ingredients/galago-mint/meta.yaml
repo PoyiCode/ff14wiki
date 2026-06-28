@@ -2,5 +2,6 @@ id: galago-mint
 category: ingredients
 type: ingredient
 ingredient: "Galago Mint"
+related: [food/boiled-alpaca-steak, food/lentils-and-chestnuts, food/mint-lassi, food/mors]
 tags: [ingredient, food, cooking]
 status: stable

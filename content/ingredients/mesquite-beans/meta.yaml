@@ -2,5 +2,6 @@ id: mesquite-beans
 category: ingredients
 type: ingredient
 ingredient: "Mesquite Beans"
+related: [food/fruit-and-aloe-jelly, food/mesquite-juice, food/mesquite-soup, food/navel-orange-cookies]
 tags: [ingredient, food, cooking]
 status: stable

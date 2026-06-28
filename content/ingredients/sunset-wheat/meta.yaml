@@ -2,5 +2,6 @@ id: sunset-wheat
 category: ingredients
 type: ingredient
 ingredient: "Sunset Wheat"
+related: [food/bacon-bread, food/frumenty]
 tags: [ingredient, food, cooking]
 status: stable

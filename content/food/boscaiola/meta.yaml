@@ -2,5 +2,6 @@ id: boscaiola
 category: food
 type: dish
 dish: "Boscaiola"
+related: [ingredients/cyclops-onion, ingredients/mature-olive-oil, ingredients/morel, ingredients/porcini, ingredients/tomato-sauce, ingredients/vermicelli]
 tags: [food, cuisine]
 status: stable

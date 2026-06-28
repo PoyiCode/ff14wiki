@@ -2,5 +2,6 @@ id: persimmon-leaf-sushi
 category: food
 type: dish
 dish: "Persimmon Leaf Sushi"
+related: [ingredients/koshu-sticky-rice, ingredients/rice-vinegar]
 tags: [food, cuisine]
 status: stable

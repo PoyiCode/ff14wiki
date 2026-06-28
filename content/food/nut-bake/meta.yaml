@@ -2,5 +2,6 @@ id: nut-bake
 category: food
 type: dish
 dish: "Nut Bake"
+related: [ingredients/almonds, ingredients/golden-honey, ingredients/gridanian-walnut, ingredients/lorikeet-egg, ingredients/upland-wheat-flour, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

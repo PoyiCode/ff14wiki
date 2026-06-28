@@ -2,5 +2,6 @@ id: gridanian-walnut
 category: ingredients
 type: ingredient
 ingredient: "Gridanian Walnut"
+related: [food/baklava, food/nut-bake, food/walnut-bread]
 tags: [ingredient, food, cooking]
 status: stable

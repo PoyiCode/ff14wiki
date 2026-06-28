@@ -2,5 +2,6 @@ id: jhinga-curry
 category: food
 type: dish
 dish: "Jhinga Curry"
+related: [ingredients/blood-tomato, ingredients/coconut-milk, ingredients/elder-nutmeg-seeds, ingredients/perilla-oil]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: dodo-tenderloin
 category: ingredients
 type: ingredient
 ingredient: "Dodo Tenderloin"
+related: [food/grilled-dodo, food/meat-miq-abob, food/pea-soup]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: lemon-curd-sachertorte
 category: food
 type: dish
 dish: "Lemon Curd Sachertorte"
+related: [ingredients/fermented-butter, ingredients/kriollo-kukuru-bean, ingredients/lemonette, ingredients/royal-kukuru-bean, ingredients/sour-cream, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

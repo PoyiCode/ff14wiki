@@ -2,5 +2,6 @@ id: beet
 category: ingredients
 type: ingredient
 ingredient: "Beet"
+related: [food/borscht, food/wine-dark-soup]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: caviar-canapes
 category: food
 type: dish
 dish: "Caviar Canapes"
+related: [ingredients/alien-onion, ingredients/blood-tomato, ingredients/garlean-cheese, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

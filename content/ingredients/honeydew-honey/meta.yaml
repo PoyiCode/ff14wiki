@@ -2,5 +2,6 @@ id: honeydew-honey
 category: ingredients
 type: ingredient
 ingredient: "Honeydew Honey"
+related: [food/konpeito, food/tofu-pancakes]
 tags: [ingredient, food, cooking]
 status: stable

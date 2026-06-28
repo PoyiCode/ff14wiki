@@ -2,5 +2,6 @@ id: thyme
 category: ingredients
 type: ingredient
 ingredient: "Thyme"
+related: [food/loaghtan-steak, food/salt-cod-puffs, food/shakshouka]
 tags: [ingredient, food, cooking]
 status: stable

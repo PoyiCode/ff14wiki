@@ -2,5 +2,6 @@ id: silkie-pudding
 category: food
 type: dish
 dish: "Silkie Pudding"
+related: [ingredients/garden-beet-sugar, ingredients/lemonette, ingredients/nutmeg, ingredients/silkie-egg, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

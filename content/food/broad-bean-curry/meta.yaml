@@ -2,5 +2,6 @@ id: broad-bean-curry
 category: food
 type: dish
 dish: "Broad Bean Curry"
+related: [ingredients/bomba-rice, ingredients/broad-beans, ingredients/cardamom, ingredients/fermented-butter, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

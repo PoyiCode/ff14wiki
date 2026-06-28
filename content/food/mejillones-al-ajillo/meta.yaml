@@ -2,5 +2,6 @@ id: mejillones-al-ajillo
 category: food
 type: dish
 dish: "Mejillones al Ajillo"
+related: [ingredients/curly-parsley, ingredients/frantoio-oil, ingredients/garlean-garlic]
 tags: [food, cuisine]
 status: stable

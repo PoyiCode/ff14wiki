@@ -2,5 +2,6 @@ id: sagolii-sage
 category: ingredients
 type: ingredient
 ingredient: "Sagolii Sage"
+related: [food/button-mushroom-saute, food/jerked-beef, food/sauteed-porcini]
 tags: [ingredient, food, cooking]
 status: stable

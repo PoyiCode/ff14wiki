@@ -2,5 +2,6 @@ id: honey
 category: ingredients
 type: ingredient
 ingredient: "Honey"
+related: [food/baklava, food/chamomile-tea, food/frumenty, food/honey-muffin, food/knight-s-bread, food/loquat-juice, food/roast-canard, food/sesame-cookie]
 tags: [ingredient, food, cooking]
 status: stable

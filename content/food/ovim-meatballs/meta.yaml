@@ -2,5 +2,6 @@ id: ovim-meatballs
 category: food
 type: dish
 dish: "Ovim Meatballs"
+related: [ingredients/frantoio-oil, ingredients/lingonberry, ingredients/ovim-meat, ingredients/russet-popoto, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

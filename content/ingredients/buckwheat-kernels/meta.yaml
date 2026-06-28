@@ -2,5 +2,6 @@ id: buckwheat-kernels
 category: ingredients
 type: ingredient
 ingredient: "Buckwheat Kernels"
+related: [food/buckwheat-tea, food/kasha, food/popoto-soba]
 tags: [ingredient, food, cooking]
 status: stable

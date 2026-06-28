@@ -2,5 +2,6 @@ id: persimmon
 category: ingredients
 type: ingredient
 ingredient: "Persimmon"
+related: [food/doman-tea, food/jellied-compote, food/persimmon-pudding]
 tags: [ingredient, food, cooking]
 status: stable

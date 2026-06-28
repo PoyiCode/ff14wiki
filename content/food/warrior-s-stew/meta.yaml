@@ -2,5 +2,6 @@ id: warrior-s-stew
 category: food
 type: dish
 dish: "Warrior's Stew"
+related: [ingredients/algae-salt, ingredients/dzo-chuck, ingredients/fennel, ingredients/gyr-abanian-carrot, ingredients/mountain-popoto, ingredients/sun-cabbage]
 tags: [food, cuisine]
 status: stable

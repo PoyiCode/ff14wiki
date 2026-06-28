@@ -2,5 +2,6 @@ id: ginger-cookie
 category: food
 type: dish
 dish: "Ginger Cookie"
+related: [ingredients/chicken-egg, ingredients/maple-sugar, ingredients/pearl-ginger, ingredients/smooth-butter, ingredients/sunset-wheat-flour]
 tags: [food, cuisine]
 status: stable

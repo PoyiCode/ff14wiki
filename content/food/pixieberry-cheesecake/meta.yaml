@@ -2,5 +2,6 @@ id: pixieberry-cheesecake
 category: food
 type: dish
 dish: "Pixieberry Cheesecake"
+related: [ingredients/garden-beet-sugar, ingredients/gelatin, ingredients/lemonette, ingredients/pixieberry, ingredients/sour-cream, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

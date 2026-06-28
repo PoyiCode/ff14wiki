@@ -2,5 +2,6 @@ id: antelope-steak
 category: food
 type: dish
 dish: "Antelope Steak"
+related: [ingredients/antelope-shank, ingredients/garlean-garlic, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

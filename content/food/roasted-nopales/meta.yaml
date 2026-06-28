@@ -2,5 +2,6 @@ id: roasted-nopales
 category: food
 type: dish
 dish: "Roasted Nopales"
+related: [ingredients/blue-cheese, ingredients/nopales, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

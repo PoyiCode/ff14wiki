@@ -2,5 +2,6 @@ id: miso-soup-with-tofu
 category: food
 type: dish
 dish: "Miso Soup with Tofu"
+related: [ingredients/firm-tofu, ingredients/fish-stock, ingredients/green-leek, ingredients/oriental-miso-paste]
 tags: [food, cuisine]
 status: stable

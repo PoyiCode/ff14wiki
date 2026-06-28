@@ -2,5 +2,6 @@ id: dodo-egg
 category: ingredients
 type: ingredient
 ingredient: "Dodo Egg"
+related: [food/cheese-souffle, food/dodo-omelette, food/mustard-eggs]
 tags: [ingredient, food, cooking]
 status: stable

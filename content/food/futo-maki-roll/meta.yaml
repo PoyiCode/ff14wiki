@@ -2,5 +2,6 @@ id: futo-maki-roll
 category: food
 type: dish
 dish: "Futo-maki Roll"
+related: [ingredients/doman-rice, ingredients/gagana-egg, ingredients/rice-vinegar, ingredients/shiitake-mushroom]
 tags: [food, cuisine]
 status: stable

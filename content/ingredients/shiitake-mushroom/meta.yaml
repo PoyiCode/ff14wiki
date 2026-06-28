@@ -2,5 +2,6 @@ id: shiitake-mushroom
 category: ingredients
 type: ingredient
 ingredient: "Shiitake Mushroom"
+related: [food/chawan-mushi, food/chirashi-zushi, food/egg-foo-young, food/futo-maki-roll, food/gameni]
 tags: [ingredient, food, cooking]
 status: stable

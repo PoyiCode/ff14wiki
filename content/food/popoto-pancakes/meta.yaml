@@ -2,5 +2,6 @@ id: popoto-pancakes
 category: food
 type: dish
 dish: "Popoto Pancakes"
+related: [ingredients/apkallu-egg, ingredients/dalamud-popoto, ingredients/mirror-apple, ingredients/nutmeg, ingredients/sunset-wheat-flour, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

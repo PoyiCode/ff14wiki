@@ -2,5 +2,6 @@ id: hollandaise-sauce
 category: ingredients
 type: ingredient
 ingredient: "Hollandaise Sauce"
+related: [food/royal-eggs, food/stuffed-chysahl]
 tags: [ingredient, food, cooking]
 status: stable

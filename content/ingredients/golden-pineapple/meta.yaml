@@ -2,5 +2,6 @@ id: golden-pineapple
 category: ingredients
 type: ingredient
 ingredient: "Golden Pineapple"
+related: [food/golden-pineapple-juice, food/pineapple-salad]
 tags: [ingredient, food, cooking]
 status: stable

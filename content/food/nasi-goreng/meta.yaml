@@ -2,5 +2,6 @@ id: nasi-goreng
 category: food
 type: dish
 dish: "Nasi Goreng"
+related: [ingredients/bomba-rice, ingredients/egg-of-elpis, ingredients/perilla-oil, ingredients/ut-ohmu-chili-sauce, ingredients/white-pepper]
 tags: [food, cuisine]
 status: stable

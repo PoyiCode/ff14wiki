@@ -2,5 +2,6 @@ id: cieldalaes-spinach
 category: ingredients
 type: ingredient
 ingredient: "Cieldalaes Spinach"
+related: [food/baked-sole, food/parsnip-salad, food/salmon-muffin, food/spinach-saute]
 tags: [ingredient, food, cooking]
 status: stable

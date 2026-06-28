@@ -2,5 +2,6 @@ id: pickled-herring
 category: food
 type: dish
 dish: "Pickled Herring"
+related: [ingredients/curly-parsley, ingredients/cyclops-onion, ingredients/frantoio-oil, ingredients/lemonette, ingredients/paprika]
 tags: [food, cuisine]
 status: stable

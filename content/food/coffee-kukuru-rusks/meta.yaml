@@ -2,5 +2,6 @@ id: coffee-kukuru-rusks
 category: food
 type: dish
 dish: "Coffee Kukuru Rusks"
+related: [ingredients/dark-rye, ingredients/mountain-salt, ingredients/ovibos-milk, ingredients/sweet-kukuru-bean, ingredients/wild-coffee-beans]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: boiled-bream
 category: food
 type: dish
 dish: "Boiled Bream"
+related: [ingredients/garlean-garlic, ingredients/midland-cabbage, ingredients/olive-oil, ingredients/wild-onion, ingredients/wizard-eggplant]
 tags: [food, cuisine]
 status: stable

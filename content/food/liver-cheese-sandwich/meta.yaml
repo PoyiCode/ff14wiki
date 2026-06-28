@@ -2,5 +2,6 @@ id: liver-cheese-sandwich
 category: food
 type: dish
 dish: "Liver-cheese Sandwich"
+related: [ingredients/cockatrice-thigh, ingredients/cream-cheese]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: scallop-curry
 category: food
 type: dish
 dish: "Scallop Curry"
+related: [ingredients/bomba-rice, ingredients/coconut-milk, ingredients/elder-nutmeg-seeds, ingredients/potent-spice]
 tags: [food, cuisine]
 status: stable

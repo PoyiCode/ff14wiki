@@ -2,5 +2,6 @@ id: crab-croquette
 category: food
 type: dish
 dish: "Crab Croquette"
+related: [ingredients/cottonseed-oil, ingredients/cyclops-onion, ingredients/firm-tofu, ingredients/gyr-abanian-flour, ingredients/mountain-popoto]
 tags: [food, cuisine]
 status: stable

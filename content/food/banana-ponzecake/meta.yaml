@@ -2,5 +2,6 @@ id: banana-ponzecake
 category: food
 type: dish
 dish: "Banana Ponzecake"
+related: [ingredients/egg-of-elpis, ingredients/royal-maple-syrup, ingredients/turali-aloe, ingredients/upland-wheat-flour, ingredients/wild-ja-tiika-bananas]
 tags: [food, cuisine]
 status: stable

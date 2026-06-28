@@ -2,5 +2,6 @@ id: chili-crab
 category: food
 type: dish
 dish: "Chili Crab"
+related: [ingredients/blood-tomato, ingredients/frantoio-oil, ingredients/jhammel-ginger]
 tags: [food, cuisine]
 status: stable

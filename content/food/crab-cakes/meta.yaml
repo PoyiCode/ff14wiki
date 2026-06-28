@@ -2,5 +2,6 @@ id: crab-cakes
 category: food
 type: dish
 dish: "Crab Cakes"
+related: [ingredients/cyclops-onion, ingredients/lorikeet-egg, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

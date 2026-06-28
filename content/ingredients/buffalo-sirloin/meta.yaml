@@ -2,5 +2,6 @@ id: buffalo-sirloin
 category: ingredients
 type: ingredient
 ingredient: "Buffalo Sirloin"
+related: [food/beef-stew, food/jerked-beef]
 tags: [ingredient, food, cooking]
 status: stable

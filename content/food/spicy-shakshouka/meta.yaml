@@ -2,5 +2,6 @@ id: spicy-shakshouka
 category: food
 type: dish
 dish: "Spicy Shakshouka"
+related: [ingredients/blood-tomato, ingredients/egg-of-elpis, ingredients/elder-nutmeg-seeds, ingredients/perilla-oil, ingredients/thavnairian-paprika, ingredients/yakow-chuck]
 tags: [food, cuisine]
 status: stable

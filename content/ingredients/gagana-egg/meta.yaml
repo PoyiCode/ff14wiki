@@ -2,5 +2,6 @@ id: gagana-egg
 category: ingredients
 type: ingredient
 ingredient: "Gagana Egg"
+related: [food/baklava, food/chawan-mushi, food/chirashi-zushi, food/egg-foo-young, food/futo-maki-roll, food/kasha, food/oden, food/papanasi, food/persimmon-pudding, food/popoto-soba, food/shakshouka, food/tako-yaki, food/tempura-platter, food/tofu-pancakes]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: mashed-popotoes
 category: food
 type: dish
 dish: "Mashed Popotoes"
+related: [ingredients/cottage-cheese, ingredients/garlean-garlic, ingredients/popoto, ingredients/smooth-butter, ingredients/sweet-cream]
 tags: [food, cuisine]
 status: stable

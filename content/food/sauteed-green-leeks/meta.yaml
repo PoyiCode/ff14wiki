@@ -2,5 +2,6 @@ id: sauteed-green-leeks
 category: food
 type: dish
 dish: "Sauteed Green Leeks"
+related: [ingredients/cottonseed-oil, ingredients/crimson-pepper, ingredients/green-leek, ingredients/solstice-garlic]
 tags: [food, cuisine]
 status: stable

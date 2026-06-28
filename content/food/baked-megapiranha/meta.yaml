@@ -2,5 +2,6 @@ id: baked-megapiranha
 category: food
 type: dish
 dish: "Baked Megapiranha"
+related: [ingredients/creamtop-mushroom, ingredients/fermented-butter]
 tags: [food, cuisine]
 status: stable

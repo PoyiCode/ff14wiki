@@ -2,5 +2,6 @@ id: young-cieldalaes-spinach
 category: ingredients
 type: ingredient
 ingredient: "Young Cieldalaes Spinach"
+related: [food/morel-salad, food/sermon-worthy-meuniere, food/spinach-quiche]
 tags: [ingredient, food, cooking]
 status: stable

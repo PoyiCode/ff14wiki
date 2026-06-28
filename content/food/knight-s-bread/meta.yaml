@@ -2,5 +2,6 @@ id: knight-s-bread
 category: food
 type: dish
 dish: "Knight's Bread"
+related: [ingredients/chicken-egg, ingredients/honey, ingredients/midland-basil, ingredients/mineral-water, ingredients/rye-flour]
 tags: [food, cuisine]
 status: stable

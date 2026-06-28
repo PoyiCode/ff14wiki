@@ -2,5 +2,6 @@ id: mint-lassi
 category: food
 type: dish
 dish: "Mint Lassi"
+related: [ingredients/aldgoat-milk, ingredients/galago-mint]
 tags: [food, cuisine]
 status: stable

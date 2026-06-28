@@ -2,5 +2,6 @@ id: salt-leek
 category: ingredients
 type: ingredient
 ingredient: "Salt Leek"
+related: [food/cawl-cennin, food/dagger-soup, food/stuffed-cabbage]
 tags: [ingredient, food, cooking]
 status: stable

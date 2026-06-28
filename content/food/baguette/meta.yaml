@@ -2,5 +2,6 @@ id: baguette
 category: food
 type: dish
 dish: "Baguette"
+related: [ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

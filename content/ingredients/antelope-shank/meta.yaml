@@ -2,5 +2,6 @@ id: antelope-shank
 category: ingredients
 type: ingredient
 ingredient: "Antelope Shank"
+related: [food/antelope-steak, food/antelope-stew, food/shepherd-s-pie]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: subtle-cinnamon-sticks
 category: ingredients
 type: ingredient
 ingredient: "Subtle Cinnamon Sticks"
+related: [food/sykon-cookie, food/thavnairian-chai]
 tags: [ingredient, food, cooking]
 status: stable

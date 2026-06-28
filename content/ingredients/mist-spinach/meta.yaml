@@ -2,5 +2,6 @@ id: mist-spinach
 category: ingredients
 type: ingredient
 ingredient: "Mist Spinach"
+related: [food/archon-loaf, food/broccoli-and-spinach-saute, food/creamy-salmon-pasta, food/herring-pie, food/mist-spinach-quiche, food/mist-spinach-saute, food/robe-lettuce-salad, food/stuffed-highland-cabbage]
 tags: [ingredient, food, cooking]
 status: stable

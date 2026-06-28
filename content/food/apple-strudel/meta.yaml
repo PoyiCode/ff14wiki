@@ -2,5 +2,6 @@ id: apple-strudel
 category: food
 type: dish
 dish: "Apple Strudel"
+related: [ingredients/birch-syrup, ingredients/cinnamon, ingredients/fermented-butter, ingredients/golden-apple, ingredients/highland-flour, ingredients/vanilla-beans]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: reunion-cheese
 category: ingredients
 type: ingredient
 ingredient: "Reunion Cheese"
+related: [food/papanasi, food/salmon-muffin]
 tags: [ingredient, food, cooking]
 status: stable

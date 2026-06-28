@@ -2,5 +2,6 @@ id: heavens-lemon
 category: ingredients
 type: ingredient
 ingredient: "Heavens Lemon"
+related: [food/blood-tomato-juice, food/loquat-juice, food/paella, food/sermon-worthy-meuniere]
 tags: [ingredient, food, cooking]
 status: stable

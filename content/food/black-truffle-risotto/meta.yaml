@@ -2,5 +2,6 @@ id: black-truffle-risotto
 category: food
 type: dish
 dish: "Black Truffle Risotto"
+related: [ingredients/black-truffle, ingredients/cottage-cheese, ingredients/sticky-rice, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

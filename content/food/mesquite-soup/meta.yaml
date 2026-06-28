@@ -2,5 +2,6 @@ id: mesquite-soup
 category: food
 type: dish
 dish: "Mesquite Soup"
+related: [ingredients/frantoio-oil, ingredients/giant-popoto, ingredients/mesquite-beans, ingredients/turali-corn-oil, ingredients/white-pepper]
 tags: [food, cuisine]
 status: stable

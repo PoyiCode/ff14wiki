@@ -2,5 +2,6 @@ id: sesame-seeds
 category: ingredients
 type: ingredient
 ingredient: "Sesame Seeds"
+related: [food/kaiser-roll, food/morel-salad, food/sesame-cookie]
 tags: [ingredient, food, cooking]
 status: stable

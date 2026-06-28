@@ -2,5 +2,6 @@ id: highland-oregano
 category: ingredients
 type: ingredient
 ingredient: "Highland Oregano"
+related: [food/jerked-jhammel]
 tags: [ingredient, food, cooking]
 status: stable

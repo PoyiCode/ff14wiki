@@ -2,5 +2,6 @@ id: koshu-sticky-rice
 category: ingredients
 type: ingredient
 ingredient: "Koshu Sticky Rice"
+related: [food/banh-xeo, food/chirashi-zushi, food/persimmon-leaf-sushi]
 tags: [ingredient, food, cooking]
 status: stable

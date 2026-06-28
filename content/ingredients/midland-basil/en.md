@@ -6,3 +6,5 @@ summary: "A cooking ingredient."
 **Midland Basil** is a foodstuff residents cook with and buy at market — a raw ingredient that goes into Eorzean dishes. In-game name: Midland Basil.
 
 A fragrant herb used to flavor various meat and poultry dishes.
+
+Used in dishes: Garlean Pizza, Knight's Bread, Lava Toad Legs, Tomato Pie, Trapper's Quiche, Tuna Miq'abob

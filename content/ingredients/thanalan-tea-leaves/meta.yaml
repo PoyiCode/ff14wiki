@@ -2,5 +2,6 @@ id: thanalan-tea-leaves
 category: ingredients
 type: ingredient
 ingredient: "Thanalan Tea Leaves"
+related: [food/buckwheat-tea, food/mulled-tea]
 tags: [ingredient, food, cooking]
 status: stable

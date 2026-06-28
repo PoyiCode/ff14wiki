@@ -2,5 +2,6 @@ id: ama-nori
 category: ingredients
 type: ingredient
 ingredient: "Ama Nori"
+related: [food/popoto-soba]
 tags: [ingredient, food, cooking]
 status: stable

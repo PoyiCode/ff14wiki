@@ -2,5 +2,6 @@ id: stuffed-cabbage
 category: food
 type: dish
 dish: "Stuffed Cabbage"
+related: [ingredients/clove-oil, ingredients/coerthan-carrot, ingredients/gelatin, ingredients/midland-cabbage, ingredients/salt-leek]
 tags: [food, cuisine]
 status: stable

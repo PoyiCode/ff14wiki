@@ -2,5 +2,6 @@ id: honeyed-dragonfruit
 category: food
 type: dish
 dish: "Honeyed Dragonfruit"
+related: [ingredients/dragonfruit, ingredients/golden-honey, ingredients/lemonette, ingredients/palm-sugar]
 tags: [food, cuisine]
 status: stable

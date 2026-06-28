@@ -2,5 +2,6 @@ id: king-crab-cake
 category: food
 type: dish
 dish: "King Crab Cake"
+related: [ingredients/cyclops-onion, ingredients/lorikeet-egg, ingredients/perilla-oil, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

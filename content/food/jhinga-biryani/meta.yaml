@@ -2,5 +2,6 @@ id: jhinga-biryani
 category: food
 type: dish
 dish: "Jhinga Biryani"
+related: [ingredients/bomba-rice, ingredients/northern-sea-salt, ingredients/perilla-oil, ingredients/thavnairian-paprika]
 tags: [food, cuisine]
 status: stable

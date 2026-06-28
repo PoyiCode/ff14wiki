@@ -2,5 +2,6 @@ id: amber-cloves
 category: ingredients
 type: ingredient
 ingredient: "Amber Cloves"
+related: [food/golden-pineapple-juice, food/masala-chai, food/mushroom-skewer]
 tags: [ingredient, food, cooking]
 status: stable

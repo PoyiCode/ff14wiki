@@ -2,5 +2,6 @@ id: alpaca-fillet
 category: ingredients
 type: ingredient
 ingredient: "Alpaca Fillet"
+related: [food/alpaca-stew, food/boiled-alpaca-steak, food/creamy-alpaca-pasta, food/stuffed-peppers, food/tacos-al-pastor]
 tags: [ingredient, food, cooking]
 status: stable

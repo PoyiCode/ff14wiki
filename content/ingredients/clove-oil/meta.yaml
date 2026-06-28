@@ -2,5 +2,6 @@ id: clove-oil
 category: ingredients
 type: ingredient
 ingredient: "Clove Oil"
+related: [food/salt-cod-puffs, food/stuffed-cabbage]
 tags: [ingredient, food, cooking]
 status: stable

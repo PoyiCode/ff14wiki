@@ -2,5 +2,6 @@ id: cheese-risotto
 category: food
 type: dish
 dish: "Cheese Risotto"
+related: [ingredients/alpine-parsnip, ingredients/cottage-cheese, ingredients/sticky-rice, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

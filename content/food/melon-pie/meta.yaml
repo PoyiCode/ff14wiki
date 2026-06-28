@@ -2,5 +2,6 @@ id: melon-pie
 category: food
 type: dish
 dish: "Melon Pie"
+related: [ingredients/dark-rye-flour, ingredients/egg-of-elpis, ingredients/fermented-butter, ingredients/lemonette, ingredients/thundermelon]
 tags: [food, cuisine]
 status: stable

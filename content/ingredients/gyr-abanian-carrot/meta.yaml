@@ -2,5 +2,6 @@ id: gyr-abanian-carrot
 category: ingredients
 type: ingredient
 ingredient: "Gyr Abanian Carrot"
+related: [food/exquisite-beef-stew, food/gameni, food/imam-bayildi, food/laghman, food/pork-stew, food/rare-roast-beef, food/steppe-salad, food/warrior-s-stew]
 tags: [ingredient, food, cooking]
 status: stable

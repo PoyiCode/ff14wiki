@@ -2,5 +2,6 @@ id: jack-o-lantern
 category: food
 type: dish
 dish: "Jack-o'-lantern"
+related: [ingredients/maple-syrup, ingredients/mineral-water, ingredients/ogre-pumpkin]
 tags: [food, cuisine]
 status: stable

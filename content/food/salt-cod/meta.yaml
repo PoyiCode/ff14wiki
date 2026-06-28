@@ -2,5 +2,6 @@ id: salt-cod
 category: food
 type: dish
 dish: "Salt Cod"
+related: [ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

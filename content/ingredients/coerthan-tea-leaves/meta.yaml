@@ -2,5 +2,6 @@ id: coerthan-tea-leaves
 category: ingredients
 type: ingredient
 ingredient: "Coerthan Tea Leaves"
+related: [food/ishgardian-tea, food/masala-chai, food/pixieberry-tea]
 tags: [ingredient, food, cooking]
 status: stable

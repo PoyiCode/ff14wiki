@@ -2,5 +2,6 @@ id: ceviche
 category: food
 type: dish
 dish: "Ceviche"
+related: [ingredients/lemonette, ingredients/northern-sea-salt, ingredients/thavnairian-paprika, ingredients/turali-corn-oil]
 tags: [food, cuisine]
 status: stable

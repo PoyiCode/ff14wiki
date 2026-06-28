@@ -2,5 +2,6 @@ id: gastornis-egg
 category: ingredients
 type: ingredient
 ingredient: "Gastornis Egg"
+related: [food/sesame-cookie]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: mutton-stew
 category: food
 type: dish
 dish: "Mutton Stew"
+related: [ingredients/coerthan-carrot, ingredients/mineral-water, ingredients/mutton-loin, ingredients/sunset-wheat-flour, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

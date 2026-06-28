@@ -2,5 +2,6 @@ id: gateau-au-chocolat
 category: food
 type: dish
 dish: "Gateau au Chocolat"
+related: [ingredients/egg-of-elpis, ingredients/fermented-butter, ingredients/palm-sugar, ingredients/sweet-kukuru-bean, ingredients/upland-wheat-flour, ingredients/whipped-cream]
 tags: [food, cuisine]
 status: stable

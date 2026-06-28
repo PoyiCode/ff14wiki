@@ -2,5 +2,6 @@ id: gyr-abanian-flour
 category: ingredients
 type: ingredient
 ingredient: "Gyr Abanian Flour"
+related: [food/baklava, food/crab-croquette, food/jhammel-moussaka, food/laghman, food/nomad-meat-pie, food/papanasi, food/persimmon-pudding, food/sermon-worthy-meuniere, food/sweet-and-sour-frogs-legs, food/tako-yaki, food/tempura-platter]
 tags: [ingredient, food, cooking]
 status: stable

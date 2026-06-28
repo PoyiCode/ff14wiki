@@ -2,5 +2,6 @@ id: stuffed-cabbage-rolls
 category: food
 type: dish
 dish: "Stuffed Cabbage Rolls"
+related: [ingredients/chicken-stock, ingredients/loaghtan-chump, ingredients/pearl-sprouts, ingredients/tomato-sauce]
 tags: [food, cuisine]
 status: stable

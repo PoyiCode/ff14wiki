@@ -2,5 +2,6 @@ id: persimmon-pudding
 category: food
 type: dish
 dish: "Persimmon Pudding"
+related: [ingredients/beet-sugar, ingredients/gagana-egg, ingredients/gyr-abanian-flour, ingredients/nutmeg, ingredients/persimmon, ingredients/steppe-milk]
 tags: [food, cuisine]
 status: stable

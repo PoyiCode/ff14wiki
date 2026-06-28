@@ -2,5 +2,6 @@ id: tofu-pancakes
 category: food
 type: dish
 dish: "Tofu Pancakes"
+related: [ingredients/firm-tofu, ingredients/gagana-egg, ingredients/honeydew-honey, ingredients/steppe-milk]
 tags: [food, cuisine]
 status: stable

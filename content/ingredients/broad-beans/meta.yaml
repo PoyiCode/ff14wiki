@@ -2,5 +2,6 @@ id: broad-beans
 category: ingredients
 type: ingredient
 ingredient: "Broad Beans"
+related: [food/broad-bean-curry, food/broad-bean-salad, food/broad-bean-soup, food/zurek]
 tags: [ingredient, food, cooking]
 status: stable

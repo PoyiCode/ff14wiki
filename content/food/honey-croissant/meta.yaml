@@ -2,5 +2,6 @@ id: honey-croissant
 category: food
 type: dish
 dish: "Honey Croissant"
+related: [ingredients/golden-honey, ingredients/peppermint, ingredients/strong-flour, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

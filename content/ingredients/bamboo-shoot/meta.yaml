@@ -2,5 +2,6 @@ id: bamboo-shoot
 category: ingredients
 type: ingredient
 ingredient: "Bamboo Shoot"
+related: [food/egg-foo-young, food/gameni]
 tags: [ingredient, food, cooking]
 status: stable

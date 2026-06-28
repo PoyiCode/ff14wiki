@@ -2,5 +2,6 @@ id: kaiser-roll
 category: food
 type: dish
 dish: "Kaiser Roll"
+related: [ingredients/highland-flour, ingredients/sesame-seeds, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

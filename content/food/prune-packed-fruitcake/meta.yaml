@@ -2,5 +2,6 @@ id: prune-packed-fruitcake
 category: food
 type: dish
 dish: "Prune-packed Fruitcake"
+related: [ingredients/cooking-mezcal, ingredients/dark-rye-flour, ingredients/egg-of-elpis, ingredients/ovibos-milk, ingredients/turali-plum]
 tags: [food, cuisine]
 status: stable

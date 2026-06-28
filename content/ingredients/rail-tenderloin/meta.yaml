@@ -2,5 +2,6 @@ id: rail-tenderloin
 category: ingredients
 type: ingredient
 ingredient: "Rail Tenderloin"
+related: [food/broad-bean-soup, food/grilled-rail]
 tags: [ingredient, food, cooking]
 status: stable

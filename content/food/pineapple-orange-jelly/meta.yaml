@@ -2,5 +2,6 @@ id: pineapple-orange-jelly
 category: food
 type: dish
 dish: "Pineapple Orange Jelly"
+related: [ingredients/gelatin, ingredients/navel-orange, ingredients/royal-maple-syrup, ingredients/turali-pineapple]
 tags: [food, cuisine]
 status: stable

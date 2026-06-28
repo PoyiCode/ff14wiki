@@ -2,5 +2,6 @@ id: pixieberry
 category: ingredients
 type: ingredient
 ingredient: "Pixieberry"
+related: [food/pixieberry-cheesecake, food/pixieberry-tea]
 tags: [ingredient, food, cooking]
 status: stable

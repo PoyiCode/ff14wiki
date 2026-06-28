@@ -2,5 +2,6 @@ id: pan-fried-mahi-mahi
 category: food
 type: dish
 dish: "Pan-fried Mahi-mahi"
+related: [ingredients/olive-oil, ingredients/sunset-wheat-flour, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

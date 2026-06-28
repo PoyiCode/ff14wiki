@@ -2,5 +2,6 @@ id: loaghtan-cordon-bleu
 category: food
 type: dish
 dish: "Loaghtan Cordon Bleu"
+related: [ingredients/abalathian-rock-salt, ingredients/highland-flour, ingredients/loaghtan-fillet, ingredients/mature-olive-oil, ingredients/smoked-bacon, ingredients/stone-cheese]
 tags: [food, cuisine]
 status: stable

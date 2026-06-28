@@ -6,3 +6,5 @@ summary: "A cooking ingredient."
 **Rroneek Chuck** is a foodstuff residents cook with and buy at market — a raw ingredient that goes into Eorzean dishes. In-game name: Rroneek Chuck.
 
 The tough, sinewy shoulder meat of a rroneek.
+
+Used in dishes: Churrasco, Lomo Saltado, Roast Rroneek, Rroneek Steak, Tacos de Carne Asada

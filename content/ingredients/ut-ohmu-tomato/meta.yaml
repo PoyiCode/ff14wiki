@@ -2,5 +2,6 @@ id: ut-ohmu-tomato
 category: ingredients
 type: ingredient
 ingredient: "Ut'ohmu Tomato"
+related: [food/acqua-pazza, food/lobster-bisque, food/mollete, food/nachos, food/solterito]
 tags: [ingredient, food, cooking]
 status: stable

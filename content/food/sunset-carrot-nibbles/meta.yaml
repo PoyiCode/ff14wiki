@@ -2,5 +2,6 @@ id: sunset-carrot-nibbles
 category: food
 type: dish
 dish: "Sunset Carrot Nibbles"
+related: [ingredients/alien-onion, ingredients/cucumber, ingredients/night-vinegar, ingredients/perilla-oil, ingredients/sunset-carrot]
 tags: [food, cuisine]
 status: stable

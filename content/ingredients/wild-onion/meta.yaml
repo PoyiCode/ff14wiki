@@ -2,5 +2,6 @@ id: wild-onion
 category: ingredients
 type: ingredient
 ingredient: "Wild Onion"
+related: [food/antelope-stew, food/beef-stew, food/black-truffle-risotto, food/boiled-bream, food/cawl-cennin, food/cheese-risotto, food/fish-soup, food/landtrap-salad, food/lava-toad-legs, food/marmot-steak, food/mole-loaf, food/mutton-stew, food/pea-soup, food/rabbit-pie, food/shepherd-s-pie]
 tags: [ingredient, food, cooking]
 status: stable

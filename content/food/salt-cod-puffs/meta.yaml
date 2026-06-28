@@ -2,5 +2,6 @@ id: salt-cod-puffs
 category: food
 type: dish
 dish: "Salt Cod Puffs"
+related: [ingredients/apkallu-egg, ingredients/clove-oil, ingredients/nutmeg, ingredients/sunset-wheat-flour, ingredients/thyme]
 tags: [food, cuisine]
 status: stable

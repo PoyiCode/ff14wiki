@@ -2,5 +2,6 @@ id: russet-popoto
 category: ingredients
 type: ingredient
 ingredient: "Russet Popoto"
+related: [food/exquisite-beef-stew, food/farmer-s-breakfast, food/ovim-meatballs, food/peppered-popotoes, food/popoto-salad, food/popotoes-au-gratin, food/roast-ovim, food/twilight-popoto-salad, food/ukha, food/wine-dark-soup]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: cockatrice-meatballs
 category: food
 type: dish
 dish: "Cockatrice Meatballs"
+related: [ingredients/abalathian-rock-salt, ingredients/cockatrice-thigh, ingredients/cyclops-onion, ingredients/tomato-sauce]
 tags: [food, cuisine]
 status: stable

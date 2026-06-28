@@ -2,5 +2,6 @@ id: white-peach
 category: ingredients
 type: ingredient
 ingredient: "White Peach"
+related: [food/peach-juice, food/peach-tart]
 tags: [ingredient, food, cooking]
 status: stable

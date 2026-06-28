@@ -2,5 +2,6 @@ id: sweet-kukuru-bean
 category: ingredients
 type: ingredient
 ingredient: "Sweet Kukuru Bean"
+related: [food/coffee-kukuru-rusks, food/creamy-hot-chocolate, food/gateau-au-chocolat, food/sweetmuffin]
 tags: [ingredient, food, cooking]
 status: stable

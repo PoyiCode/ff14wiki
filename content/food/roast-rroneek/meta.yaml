@@ -2,5 +2,6 @@ id: roast-rroneek
 category: food
 type: dish
 dish: "Roast Rroneek"
+related: [ingredients/night-vinegar, ingredients/rroneek-chuck, ingredients/turali-corn-oil, ingredients/white-pepper, ingredients/yyasulani-garlic]
 tags: [food, cuisine]
 status: stable

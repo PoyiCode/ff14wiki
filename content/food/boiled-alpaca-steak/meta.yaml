@@ -2,5 +2,6 @@ id: boiled-alpaca-steak
 category: food
 type: dish
 dish: "Boiled Alpaca Steak"
+related: [ingredients/alpaca-fillet, ingredients/cooking-mezcal, ingredients/galago-mint, ingredients/lemonette, ingredients/northern-sea-salt]
 tags: [food, cuisine]
 status: stable

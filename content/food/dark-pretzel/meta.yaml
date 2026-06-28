@@ -2,5 +2,6 @@ id: dark-pretzel
 category: food
 type: dish
 dish: "Dark Pretzel"
+related: [ingredients/chicken-egg, ingredients/maple-sugar, ingredients/mineral-water, ingredients/smooth-butter, ingredients/sunset-wheat-flour, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

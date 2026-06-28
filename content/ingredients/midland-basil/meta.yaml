@@ -2,5 +2,6 @@ id: midland-basil
 category: ingredients
 type: ingredient
 ingredient: "Midland Basil"
+related: [food/garlean-pizza, food/knight-s-bread, food/lava-toad-legs, food/tomato-pie, food/trapper-s-quiche, food/tuna-miq-abob]
 tags: [ingredient, food, cooking]
 status: stable

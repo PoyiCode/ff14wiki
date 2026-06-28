@@ -2,5 +2,6 @@ id: kukuru-powder
 category: ingredients
 type: ingredient
 ingredient: "Kukuru Powder"
+related: [food/bubble-chocolate]
 tags: [ingredient, food, cooking]
 status: stable

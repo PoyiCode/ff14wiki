@@ -2,5 +2,6 @@ id: dhalmel-fricassee
 category: food
 type: dish
 dish: "Dhalmel Fricassee"
+related: [ingredients/bouillon-cube, ingredients/cyclops-onion, ingredients/dhalmel-meat, ingredients/laurel, ingredients/sour-cream]
 tags: [food, cuisine]
 status: stable

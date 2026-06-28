@@ -2,5 +2,6 @@ id: oriental-soy-sauce
 category: ingredients
 type: ingredient
 ingredient: "Oriental Soy Sauce"
+related: [food/boiled-amberjack-head, food/gameni, food/grilled-turban, food/nomad-meat-pie, food/onigara-yaki, food/popoto-soba, food/pork-kakuni, food/steamed-grouper]
 tags: [ingredient, food, cooking]
 status: stable

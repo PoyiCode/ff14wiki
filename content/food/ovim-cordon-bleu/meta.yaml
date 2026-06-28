@@ -2,5 +2,6 @@ id: ovim-cordon-bleu
 category: food
 type: dish
 dish: "Ovim Cordon Bleu"
+related: [ingredients/cream-cheese, ingredients/frantoio-oil, ingredients/lemonette, ingredients/ovim-meat, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

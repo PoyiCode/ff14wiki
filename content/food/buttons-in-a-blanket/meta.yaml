@@ -2,5 +2,6 @@ id: buttons-in-a-blanket
 category: food
 type: dish
 dish: "Buttons in a Blanket"
+related: [ingredients/button-mushroom, ingredients/desert-saffron, ingredients/midland-cabbage, ingredients/ruby-tomato, ingredients/table-salt, ingredients/tomato-sauce]
 tags: [food, cuisine]
 status: stable

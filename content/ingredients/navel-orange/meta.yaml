@@ -2,5 +2,6 @@ id: navel-orange
 category: ingredients
 type: ingredient
 ingredient: "Navel Orange"
+related: [food/navel-orange-cookies, food/pineapple-orange-jelly]
 tags: [ingredient, food, cooking]
 status: stable

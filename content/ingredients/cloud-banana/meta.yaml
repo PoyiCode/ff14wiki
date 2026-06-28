@@ -2,5 +2,6 @@ id: cloud-banana
 category: ingredients
 type: ingredient
 ingredient: "Cloud Banana"
+related: [food/dragonfruit-blend, food/frozen-spirits]
 tags: [ingredient, food, cooking]
 status: stable

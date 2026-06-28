@@ -2,5 +2,6 @@ id: thundermelon
 category: ingredients
 type: ingredient
 ingredient: "Thundermelon"
+related: [food/melon-juice, food/melon-pie]
 tags: [ingredient, food, cooking]
 status: stable

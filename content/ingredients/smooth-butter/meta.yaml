@@ -2,5 +2,6 @@ id: smooth-butter
 category: ingredients
 type: ingredient
 ingredient: "Smooth Butter"
+related: [food/apkallu-omelette, food/apple-tart, food/blood-currant-tart, food/braised-pipira, food/cawl-cennin, food/chanterelle-saute, food/chicken-and-mushrooms, food/chilled-popoto-soup, food/crumpet, food/dark-pretzel, food/dodo-omelette, food/eel-pie, food/finger-sandwich, food/fish-soup, food/fried-egg]
 tags: [ingredient, food, cooking]
 status: stable

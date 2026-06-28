@@ -2,5 +2,6 @@ id: king-salmon-meuniere
 category: food
 type: dish
 dish: "King Salmon Meuniere"
+related: [ingredients/fermented-butter, ingredients/lemonette, ingredients/night-pepper, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

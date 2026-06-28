@@ -2,5 +2,6 @@ id: deep-fried-okeanis
 category: food
 type: dish
 dish: "Deep-fried Okeanis"
+related: [ingredients/abalathian-rock-salt, ingredients/dalamud-popoto, ingredients/highland-flour, ingredients/okeanis-tail, ingredients/olive-oil]
 tags: [food, cuisine]
 status: stable

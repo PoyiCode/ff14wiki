@@ -2,5 +2,6 @@ id: stuffed-artichoke
 category: food
 type: dish
 dish: "Stuffed Artichoke"
+related: [ingredients/black-pepper, ingredients/blue-cheese, ingredients/maiden-artichoke, ingredients/megalocrab-leg, ingredients/sweet-cream]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: stuffed-peppers
 category: food
 type: dish
 dish: "Stuffed Peppers"
+related: [ingredients/alien-onion, ingredients/alpaca-fillet, ingredients/bell-pepper, ingredients/turali-corn-oil, ingredients/ut-ohmu-chili-sauce]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: oysters-on-the-half-shell
 category: food
 type: dish
 dish: "Oysters on the Half Shell"
+related: [ingredients/lemonette]
 tags: [food, cuisine]
 status: stable

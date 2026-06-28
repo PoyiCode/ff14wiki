@@ -2,5 +2,6 @@ id: smoked-chicken
 category: food
 type: dish
 dish: "Smoked Chicken"
+related: [ingredients/chicken-thigh, ingredients/creamtop-mushroom, ingredients/frantoio-oil, ingredients/lemonette, ingredients/night-pepper]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: gelatin
 category: ingredients
 type: ingredient
 ingredient: "Gelatin"
+related: [food/blood-currant-tart, food/fig-bavarois, food/fruit-and-aloe-jelly, food/jellied-compote, food/jellied-harcot, food/pineapple-orange-jelly, food/pixieberry-cheesecake, food/rolanberry-cheesecake, food/snurbleberry-tart, food/stuffed-cabbage, food/sykon-bavarois, food/zefir]
 tags: [ingredient, food, cooking]
 status: stable

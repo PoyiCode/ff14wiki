@@ -2,5 +2,6 @@ id: chicken-egg
 category: ingredients
 type: ingredient
 ingredient: "Chicken Egg"
+related: [food/apple-tart, food/boiled-egg, food/cornbread, food/dark-pretzel, food/ginger-cookie, food/honey-muffin, food/knight-s-bread, food/mole-loaf]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: acqua-pazza
 category: food
 type: dish
 dish: "Acqua Pazza"
+related: [ingredients/cooking-mezcal, ingredients/frantoio-oil, ingredients/ut-ohmu-tomato]
 tags: [food, cuisine]
 status: stable

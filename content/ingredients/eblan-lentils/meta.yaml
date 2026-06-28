@@ -2,5 +2,6 @@ id: eblan-lentils
 category: ingredients
 type: ingredient
 ingredient: "Eblan Lentils"
+related: [food/glory-be-soup, food/lentil-curry, food/peach-juice, food/solterito]
 tags: [ingredient, food, cooking]
 status: stable

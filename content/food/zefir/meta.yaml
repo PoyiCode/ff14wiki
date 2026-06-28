@@ -2,5 +2,6 @@ id: zefir
 category: food
 type: dish
 dish: "Zefir"
+related: [ingredients/garden-beet-sugar, ingredients/gelatin, ingredients/harcot, ingredients/lorikeet-egg, ingredients/peppermint, ingredients/twilight-apple]
 tags: [food, cuisine]
 status: stable

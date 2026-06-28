@@ -2,5 +2,6 @@ id: pineapple-salad
 category: food
 type: dish
 dish: "Pineapple Salad"
+related: [ingredients/blood-tomato, ingredients/frantoio-oil, ingredients/golden-pineapple, ingredients/la-noscean-lettuce, ingredients/lemonette, ingredients/purple-carrot]
 tags: [food, cuisine]
 status: stable

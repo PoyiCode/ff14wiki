@@ -2,5 +2,6 @@ id: prune-ponzecake
 category: food
 type: dish
 dish: "Prune Ponzecake"
+related: [ingredients/egg-of-elpis, ingredients/fermented-butter, ingredients/royal-maple-syrup, ingredients/turali-plum, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

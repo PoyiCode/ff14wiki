@@ -2,5 +2,6 @@ id: chicken-fettuccine
 category: food
 type: dish
 dish: "Chicken Fettuccine"
+related: [ingredients/chicken-thigh, ingredients/curly-parsley, ingredients/frantoio-oil, ingredients/peppermint, ingredients/sweet-cream, ingredients/vermicelli]
 tags: [food, cuisine]
 status: stable

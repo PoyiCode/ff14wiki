@@ -2,5 +2,6 @@ id: bacon-broth
 category: food
 type: dish
 dish: "Bacon Broth"
+related: [ingredients/black-pepper, ingredients/garlean-garlic, ingredients/la-noscean-leek, ingredients/smoked-bacon]
 tags: [food, cuisine]
 status: stable

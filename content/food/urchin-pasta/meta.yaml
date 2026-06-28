@@ -2,5 +2,6 @@ id: urchin-pasta
 category: food
 type: dish
 dish: "Urchin Pasta"
+related: [ingredients/alien-onion, ingredients/coconut-milk, ingredients/garlean-garlic, ingredients/vermicelli]
 tags: [food, cuisine]
 status: stable

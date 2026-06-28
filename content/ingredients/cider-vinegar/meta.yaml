@@ -2,5 +2,6 @@ id: cider-vinegar
 category: ingredients
 type: ingredient
 ingredient: "Cider Vinegar"
+related: [food/eft-steak]
 tags: [ingredient, food, cooking]
 status: stable

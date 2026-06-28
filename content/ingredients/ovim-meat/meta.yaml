@@ -2,5 +2,6 @@ id: ovim-meat
 category: ingredients
 type: ingredient
 ingredient: "Ovim Meat"
+related: [food/farmer-s-breakfast, food/ovim-cordon-bleu, food/ovim-meatballs, food/roast-ovim, food/sausage-and-sauerkraut, food/sausage-links, food/stuffed-highland-cabbage]
 tags: [ingredient, food, cooking]
 status: stable

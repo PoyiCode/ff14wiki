@@ -2,5 +2,6 @@ id: haddock-dip
 category: food
 type: dish
 dish: "Haddock Dip"
+related: [ingredients/black-pepper, ingredients/dalamud-popoto, ingredients/garlean-garlic, ingredients/honey-lemon, ingredients/olive-oil]
 tags: [food, cuisine]
 status: stable

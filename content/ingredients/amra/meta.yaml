@@ -2,5 +2,6 @@ id: amra
 category: ingredients
 type: ingredient
 ingredient: "Amra"
+related: [food/amra-lassi, food/amra-salad]
 tags: [ingredient, food, cooking]
 status: stable

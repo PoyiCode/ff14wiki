@@ -2,5 +2,6 @@ id: dzo-tenderloin
 category: ingredients
 type: ingredient
 ingredient: "Dzo Tenderloin"
+related: [food/exquisite-beef-stew, food/rare-roast-beef]
 tags: [ingredient, food, cooking]
 status: stable

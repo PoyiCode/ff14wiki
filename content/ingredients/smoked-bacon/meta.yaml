@@ -2,5 +2,6 @@ id: smoked-bacon
 category: ingredients
 type: ingredient
 ingredient: "Smoked Bacon"
+related: [food/bacon-bread, food/bacon-broth, food/heavensegg-soup, food/loaghtan-cordon-bleu, food/spaghetti-carbonara]
 tags: [ingredient, food, cooking]
 status: stable

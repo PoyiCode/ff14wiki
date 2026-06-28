@@ -2,5 +2,6 @@ id: oriental-miso-paste
 category: ingredients
 type: ingredient
 ingredient: "Oriental Miso Paste"
+related: [food/miso-dengaku, food/miso-soup-with-tofu, food/onigara-yaki, food/pork-stew]
 tags: [ingredient, food, cooking]
 status: stable

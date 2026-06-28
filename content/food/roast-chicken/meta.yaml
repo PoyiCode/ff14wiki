@@ -2,5 +2,6 @@ id: roast-chicken
 category: food
 type: dish
 dish: "Roast Chicken"
+related: [ingredients/frantoio-oil, ingredients/lemonette, ingredients/mountain-salt, ingredients/rumpless-chicken, ingredients/yyasulani-garlic]
 tags: [food, cuisine]
 status: stable

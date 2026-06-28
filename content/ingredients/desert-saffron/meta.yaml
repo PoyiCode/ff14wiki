@@ -2,5 +2,6 @@ id: desert-saffron
 category: ingredients
 type: ingredient
 ingredient: "Desert Saffron"
+related: [food/blood-bouillabaisse, food/bouillabaisse, food/buttons-in-a-blanket, food/pastry-fish]
 tags: [ingredient, food, cooking]
 status: stable

@@ -6,3 +6,5 @@ summary: "A cooking ingredient."
 **Ut'ohmu Chili Sauce** is a foodstuff residents cook with and buy at market — a raw ingredient that goes into Eorzean dishes. In-game name: Ut'ohmu Chili Sauce.
 
 A sweet and spicy condiment crafted from the paste of Ut'ohmu tomatoes.
+
+Used in dishes: Goldentail Pie, Ground Woolback Steak, Mollete, Nachos, Nasi Goreng, Omelette Rice, Shrimp Cocktail, Stuffed Peppers, Tacos Al Pastor

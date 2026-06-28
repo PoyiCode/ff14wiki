@@ -2,5 +2,6 @@ id: farmer-s-breakfast
 category: food
 type: dish
 dish: "Farmer's Breakfast"
+related: [ingredients/curly-parsley, ingredients/cyclops-onion, ingredients/frantoio-oil, ingredients/ovim-meat, ingredients/russet-popoto, ingredients/silkie-egg]
 tags: [food, cuisine]
 status: stable

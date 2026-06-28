@@ -2,5 +2,6 @@ id: piennolo-tomato
 category: ingredients
 type: ingredient
 ingredient: "Piennolo Tomato"
+related: [food/garlean-pizza, food/piennolo-tomato-salad]
 tags: [ingredient, food, cooking]
 status: stable

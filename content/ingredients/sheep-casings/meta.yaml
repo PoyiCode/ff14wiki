@@ -2,5 +2,6 @@ id: sheep-casings
 category: ingredients
 type: ingredient
 ingredient: "Sheep Casings"
+related: [food/sausage-and-sauerkraut, food/sausage-links]
 tags: [ingredient, food, cooking]
 status: stable

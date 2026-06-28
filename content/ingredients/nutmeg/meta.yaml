@@ -2,5 +2,6 @@ id: nutmeg
 category: ingredients
 type: ingredient
 ingredient: "Nutmeg"
+related: [food/dzemael-gratin, food/fish-soup, food/heavenly-eggnog, food/jerked-beef, food/persimmon-pudding, food/popoto-pancakes, food/salt-cod-puffs, food/silkie-pudding, food/spinach-quiche, food/trapper-s-quiche]
 tags: [ingredient, food, cooking]
 status: stable

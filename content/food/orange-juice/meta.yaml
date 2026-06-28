@@ -2,5 +2,6 @@ id: orange-juice
 category: food
 type: dish
 dish: "Orange Juice"
+related: [ingredients/la-noscean-orange]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: masala-chai
 category: food
 type: dish
 dish: "Masala Chai"
+related: [ingredients/amber-cloves, ingredients/cinnamon, ingredients/coerthan-tea-leaves, ingredients/steppe-milk]
 tags: [food, cuisine]
 status: stable

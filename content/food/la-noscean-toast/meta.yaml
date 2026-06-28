@@ -2,5 +2,6 @@ id: la-noscean-toast
 category: food
 type: dish
 dish: "La Noscean Toast"
+related: [ingredients/apkallu-egg, ingredients/buffalo-milk, ingredients/maple-syrup, ingredients/olive-oil, ingredients/smooth-butter]
 tags: [food, cuisine]
 status: stable

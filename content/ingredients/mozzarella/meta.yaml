@@ -2,5 +2,6 @@ id: mozzarella
 category: ingredients
 type: ingredient
 ingredient: "Mozzarella"
+related: [food/mist-spinach-quiche, food/pizza]
 tags: [ingredient, food, cooking]
 status: stable

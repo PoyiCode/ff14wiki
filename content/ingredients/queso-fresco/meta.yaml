@@ -2,5 +2,6 @@ id: queso-fresco
 category: ingredients
 type: ingredient
 ingredient: "Queso Fresco"
+related: [food/mollete, food/solterito]
 tags: [ingredient, food, cooking]
 status: stable

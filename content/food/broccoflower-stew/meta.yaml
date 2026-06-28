@@ -2,5 +2,6 @@ id: broccoflower-stew
 category: food
 type: dish
 dish: "Broccoflower Stew"
+related: [ingredients/bird-of-elpis-breast, ingredients/broccoflower, ingredients/carrot-of-happiness, ingredients/northern-sea-salt, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

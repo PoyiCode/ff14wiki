@@ -2,5 +2,6 @@ id: frumenty
 category: food
 type: dish
 dish: "Frumenty"
+related: [ingredients/aldgoat-milk, ingredients/cinnamon, ingredients/honey, ingredients/sunset-wheat]
 tags: [food, cuisine]
 status: stable

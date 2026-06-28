@@ -2,5 +2,6 @@ id: cream-cheese
 category: ingredients
 type: ingredient
 ingredient: "Cream Cheese"
+related: [food/baked-onion-soup, food/cheese-souffle, food/ema-datshi, food/liver-cheese-sandwich, food/ovim-cordon-bleu, food/popotoes-au-gratin, food/spinach-quiche, food/stuffed-chysahl, food/trapper-s-quiche]
 tags: [ingredient, food, cooking]
 status: stable

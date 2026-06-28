@@ -2,5 +2,6 @@ id: rroneek-steak
 category: food
 type: dish
 dish: "Rroneek Steak"
+related: [ingredients/dragon-pepper, ingredients/mountain-salt, ingredients/night-vinegar, ingredients/rroneek-chuck, ingredients/turali-corn-oil, ingredients/yyasulani-garlic]
 tags: [food, cuisine]
 status: stable

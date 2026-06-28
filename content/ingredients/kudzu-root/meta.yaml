@@ -2,5 +2,6 @@ id: kudzu-root
 category: ingredients
 type: ingredient
 ingredient: "Kudzu Root"
+related: [food/crimson-cider, food/egg-foo-young, food/stewed-river-bream, food/sweet-and-sour-frogs-legs]
 tags: [ingredient, food, cooking]
 status: stable

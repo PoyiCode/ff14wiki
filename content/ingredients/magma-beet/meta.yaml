@@ -2,5 +2,6 @@ id: magma-beet
 category: ingredients
 type: ingredient
 ingredient: "Magma Beet"
+related: [food/beet-soup]
 tags: [ingredient, food, cooking]
 status: stable

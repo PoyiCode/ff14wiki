@@ -2,5 +2,6 @@ id: hot-chocolate
 category: food
 type: dish
 dish: "Hot Chocolate"
+related: [ingredients/birch-syrup, ingredients/heavenly-kukuru-powder, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

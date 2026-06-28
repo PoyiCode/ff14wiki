@@ -2,5 +2,6 @@ id: hamsa-curry
 category: food
 type: dish
 dish: "Hamsa Curry"
+related: [ingredients/carrot-of-happiness, ingredients/coconut-milk, ingredients/elder-nutmeg-seeds, ingredients/fermented-butter, ingredients/hamsa-tenderloin, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

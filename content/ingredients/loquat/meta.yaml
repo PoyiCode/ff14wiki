@@ -2,5 +2,6 @@ id: loquat
 category: ingredients
 type: ingredient
 ingredient: "Loquat"
+related: [food/crimson-cider, food/jellied-compote, food/loquat-juice]
 tags: [ingredient, food, cooking]
 status: stable

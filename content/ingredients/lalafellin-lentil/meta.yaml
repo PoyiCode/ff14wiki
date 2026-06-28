@@ -2,5 +2,6 @@ id: lalafellin-lentil
 category: ingredients
 type: ingredient
 ingredient: "Lalafellin Lentil"
+related: [food/lentils-and-chestnuts]
 tags: [ingredient, food, cooking]
 status: stable

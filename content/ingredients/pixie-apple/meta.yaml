@@ -2,5 +2,6 @@ id: pixie-apple
 category: ingredients
 type: ingredient
 ingredient: "Pixie Apple"
+related: [food/pixie-apple-pie, food/purple-carrot-juice]
 tags: [ingredient, food, cooking]
 status: stable

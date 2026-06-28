@@ -2,5 +2,6 @@ id: paprika
 category: ingredients
 type: ingredient
 ingredient: "Paprika"
+related: [food/alligator-salad, food/arros-negre, food/deviled-eggs, food/meat-miq-abob, food/paella, food/pickled-herring, food/shorlog]
 tags: [ingredient, food, cooking]
 status: stable

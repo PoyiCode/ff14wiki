@@ -2,5 +2,6 @@ id: orobon-stew
 category: food
 type: dish
 dish: "Orobon Stew"
+related: [ingredients/black-pepper, ingredients/chicken-stock, ingredients/coerthan-carrot, ingredients/orobon-liver, ingredients/sunset-wheat-flour, ingredients/sweet-cream]
 tags: [food, cuisine]
 status: stable

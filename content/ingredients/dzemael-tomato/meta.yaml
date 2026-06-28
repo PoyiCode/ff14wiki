@@ -2,5 +2,6 @@ id: dzemael-tomato
 category: ingredients
 type: ingredient
 ingredient: "Dzemael Tomato"
+related: [food/bouillabaisse, food/imam-bayildi, food/landtrap-salad, food/seafood-stew, food/shakshouka, food/tomato-pie]
 tags: [ingredient, food, cooking]
 status: stable

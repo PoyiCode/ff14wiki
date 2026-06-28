@@ -2,5 +2,6 @@ id: omelette-rice
 category: food
 type: dish
 dish: "Omelette Rice"
+related: [ingredients/bomba-rice, ingredients/egg-of-elpis, ingredients/fermented-butter, ingredients/ovibos-milk, ingredients/ut-ohmu-chili-sauce]
 tags: [food, cuisine]
 status: stable

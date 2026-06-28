@@ -2,5 +2,6 @@ id: jade-peas
 category: ingredients
 type: ingredient
 ingredient: "Jade Peas"
+related: [food/pea-soup]
 tags: [ingredient, food, cooking]
 status: stable

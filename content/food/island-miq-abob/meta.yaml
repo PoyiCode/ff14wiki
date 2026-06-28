@@ -2,5 +2,6 @@ id: island-miq-abob
 category: food
 type: dish
 dish: "Island Miq'abob"
+related: [ingredients/creamtop-mushroom, ingredients/hamsa-tenderloin, ingredients/perilla-oil, ingredients/thavnairian-paprika]
 tags: [food, cuisine]
 status: stable

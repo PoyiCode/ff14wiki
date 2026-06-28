@@ -2,5 +2,6 @@ id: rock-fisted-popoto-stew
 category: food
 type: dish
 dish: "Rock-fisted Popoto Stew"
+related: [ingredients/mountain-salt, ingredients/ogre-pumpkin, ingredients/rock-fist-popoto, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

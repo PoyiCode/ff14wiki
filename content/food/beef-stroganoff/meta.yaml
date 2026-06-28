@@ -2,5 +2,6 @@ id: beef-stroganoff
 category: food
 type: dish
 dish: "Beef Stroganoff"
+related: [ingredients/butterbeef, ingredients/giant-popoto, ingredients/iceberg-lettuce, ingredients/ovibos-milk, ingredients/perilla-oil, ingredients/potent-spice]
 tags: [food, cuisine]
 status: stable

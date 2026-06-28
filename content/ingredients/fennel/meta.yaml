@@ -2,5 +2,6 @@ id: fennel
 category: ingredients
 type: ingredient
 ingredient: "Fennel"
+related: [food/banh-xeo, food/pork-kakuni, food/rare-roast-beef, food/robe-lettuce-salad, food/warrior-s-stew]
 tags: [ingredient, food, cooking]
 status: stable

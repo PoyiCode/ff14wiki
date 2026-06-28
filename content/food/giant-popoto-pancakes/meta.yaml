@@ -2,5 +2,6 @@ id: giant-popoto-pancakes
 category: food
 type: dish
 dish: "Giant Popoto Pancakes"
+related: [ingredients/egg-of-elpis, ingredients/elder-nutmeg-seeds, ingredients/giant-popoto, ingredients/golden-honey, ingredients/northern-sea-salt, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

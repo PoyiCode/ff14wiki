@@ -2,5 +2,6 @@ id: spaghetti-al-nero
 category: food
 type: dish
 dish: "Spaghetti al Nero"
+related: [ingredients/blood-tomato, ingredients/frantoio-oil, ingredients/squid-ink, ingredients/vermicelli]
 tags: [food, cuisine]
 status: stable

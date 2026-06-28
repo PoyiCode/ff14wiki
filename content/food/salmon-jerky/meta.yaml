@@ -2,5 +2,6 @@ id: salmon-jerky
 category: food
 type: dish
 dish: "Salmon Jerky"
+related: [ingredients/cooking-mezcal, ingredients/mountain-salt]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: giant-haddock-dip
 category: food
 type: dish
 dish: "Giant Haddock Dip"
+related: [ingredients/giant-popoto, ingredients/lemonette, ingredients/night-pepper, ingredients/perilla-oil, ingredients/solstice-garlic]
 tags: [food, cuisine]
 status: stable

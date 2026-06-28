@@ -2,5 +2,6 @@ id: flint-corn
 category: ingredients
 type: ingredient
 ingredient: "Flint Corn"
+related: [food/caramel-popcorn, food/nachos]
 tags: [ingredient, food, cooking]
 status: stable

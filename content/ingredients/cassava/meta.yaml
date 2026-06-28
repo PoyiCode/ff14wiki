@@ -2,5 +2,6 @@ id: cassava
 category: ingredients
 type: ingredient
 ingredient: "Cassava"
+related: [food/bubble-tea, food/paes-de-queijo]
 tags: [ingredient, food, cooking]
 status: stable

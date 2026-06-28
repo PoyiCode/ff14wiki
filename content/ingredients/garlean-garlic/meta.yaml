@@ -2,5 +2,6 @@ id: garlean-garlic
 category: ingredients
 type: ingredient
 ingredient: "Garlean Garlic"
+related: [food/aldgoat-steak, food/antelope-steak, food/baba-ghanoush, food/bacon-broth, food/boiled-bream, food/button-mushroom-saute, food/dzemael-gratin, food/eft-steak, food/grilled-dodo, food/grilled-warmwater-trout, food/haddock-dip, food/marmot-steak, food/mashed-popotoes, food/mejillones-al-ajillo, food/pumpkin-ratatouille]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: tart-turali-tart
 category: food
 type: dish
 dish: "Tart Turali Tart"
+related: [ingredients/branchbearer-fruit, ingredients/dark-rye-flour, ingredients/egg-of-elpis, ingredients/nopalitender-tuna, ingredients/turali-aloe, ingredients/turali-pineapple]
 tags: [food, cuisine]
 status: stable

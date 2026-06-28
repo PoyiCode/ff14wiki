@@ -2,5 +2,6 @@ id: pineapple-ponzecake
 category: food
 type: dish
 dish: "Pineapple Ponzecake"
+related: [ingredients/apkallu-egg, ingredients/maple-syrup, ingredients/night-milk, ingredients/prickly-pineapple, ingredients/sunset-wheat-flour]
 tags: [food, cuisine]
 status: stable

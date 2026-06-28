@@ -2,5 +2,6 @@ id: angler-stew
 category: food
 type: dish
 dish: "Angler Stew"
+related: [ingredients/chives, ingredients/cyclops-onion, ingredients/highland-flour, ingredients/solstice-garlic, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

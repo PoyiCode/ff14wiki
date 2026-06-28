@@ -2,5 +2,6 @@ id: sachertorte
 category: food
 type: dish
 dish: "Sachertorte"
+related: [ingredients/apricot, ingredients/royal-kukuru-bean, ingredients/smooth-butter, ingredients/sunset-wheat-flour, ingredients/sweet-cream]
 tags: [food, cuisine]
 status: stable

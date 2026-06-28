@@ -2,5 +2,6 @@ id: rare-roast-beef
 category: food
 type: dish
 dish: "Rare Roast Beef"
+related: [ingredients/dzo-tenderloin, ingredients/fennel, ingredients/frantoio-oil, ingredients/gyr-abanian-carrot, ingredients/night-pepper, ingredients/peppermint]
 tags: [food, cuisine]
 status: stable

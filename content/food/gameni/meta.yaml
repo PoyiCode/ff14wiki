@@ -2,5 +2,6 @@ id: gameni
 category: food
 type: dish
 dish: "Gameni"
+related: [ingredients/bamboo-shoot, ingredients/gyr-abanian-carrot, ingredients/hornbill-tenderloin, ingredients/lotus-root, ingredients/oriental-soy-sauce, ingredients/shiitake-mushroom]
 tags: [food, cuisine]
 status: stable

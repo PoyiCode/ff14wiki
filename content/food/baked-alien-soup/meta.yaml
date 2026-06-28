@@ -2,5 +2,6 @@ id: baked-alien-soup
 category: food
 type: dish
 dish: "Baked Alien Soup"
+related: [ingredients/alien-onion, ingredients/chicken-stock, ingredients/egg-of-elpis, ingredients/garlean-cheese, ingredients/northern-sea-salt, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

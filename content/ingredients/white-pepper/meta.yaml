@@ -2,5 +2,6 @@ id: white-pepper
 category: ingredients
 type: ingredient
 ingredient: "White Pepper"
+related: [food/goldentail-pie, food/mesquite-soup, food/nasi-goreng, food/roast-rroneek, food/rock-fisted-popoto-salad, food/tacos-de-carne-asada, food/woolback-steak]
 tags: [ingredient, food, cooking]
 status: stable

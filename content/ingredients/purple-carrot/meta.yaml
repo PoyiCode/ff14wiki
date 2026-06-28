@@ -2,5 +2,6 @@ id: purple-carrot
 category: ingredients
 type: ingredient
 ingredient: "Purple Carrot"
+related: [food/archon-loaf, food/broad-bean-salad, food/pineapple-salad, food/purple-carrot-juice, food/twilight-popoto-salad]
 tags: [ingredient, food, cooking]
 status: stable

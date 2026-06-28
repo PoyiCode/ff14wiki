@@ -2,5 +2,6 @@ id: baked-sole
 category: food
 type: dish
 dish: "Baked Sole"
+related: [ingredients/cieldalaes-spinach, ingredients/gil-bun, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: buffalo-beans
 category: ingredients
 type: ingredient
 ingredient: "Buffalo Beans"
+related: [food/broad-bean-soup, food/emerald-soup, food/parsnip-salad]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: sweetmuffin
 category: food
 type: dish
 dish: "Sweetmuffin"
+related: [ingredients/dark-rye-flour, ingredients/egg-of-elpis, ingredients/ovibos-milk, ingredients/royal-maple-syrup, ingredients/sweet-kukuru-bean]
 tags: [food, cuisine]
 status: stable

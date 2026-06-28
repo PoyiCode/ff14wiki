@@ -2,5 +2,6 @@ id: pearl-ginger
 category: ingredients
 type: ingredient
 ingredient: "Pearl Ginger"
+related: [food/ginger-cookie, food/mulled-tea, food/shark-fin-soup, food/spiced-cider]
 tags: [ingredient, food, cooking]
 status: stable

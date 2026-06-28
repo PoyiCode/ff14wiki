@@ -2,5 +2,6 @@ id: hornbill-tenderloin
 category: ingredients
 type: ingredient
 ingredient: "Hornbill Tenderloin"
+related: [food/gameni]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: cawl-cennin
 category: food
 type: dish
 dish: "Cawl Cennin"
+related: [ingredients/chicken-stock, ingredients/mineral-water, ingredients/salt-leek, ingredients/smooth-butter, ingredients/sweet-cream, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

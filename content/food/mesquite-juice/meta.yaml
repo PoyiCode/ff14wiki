@@ -2,5 +2,6 @@ id: mesquite-juice
 category: food
 type: dish
 dish: "Mesquite Juice"
+related: [ingredients/mesquite-beans, ingredients/nopalitender-tuna, ingredients/palm-sugar, ingredients/turali-pineapple, ingredients/wild-ja-tiika-bananas]
 tags: [food, cuisine]
 status: stable

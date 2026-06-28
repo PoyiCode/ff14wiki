@@ -2,5 +2,6 @@ id: grape-juice
 category: food
 type: dish
 dish: "Grape Juice"
+related: [ingredients/noble-grapes]
 tags: [food, cuisine]
 status: stable

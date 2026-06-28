@@ -2,5 +2,6 @@ id: garden-beet-sugar
 category: ingredients
 type: ingredient
 ingredient: "Garden Beet Sugar"
+related: [food/caramels, food/carrot-pudding, food/coffee-biscuit, food/dragonfruit-blend, food/espresso-con-panna, food/jellied-harcot, food/lemon-waffle, food/melon-juice, food/mors, food/pixieberry-cheesecake, food/pixieberry-tea, food/sausage-links, food/silkie-pudding, food/zefir]
 tags: [ingredient, food, cooking]
 status: stable

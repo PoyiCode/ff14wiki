@@ -2,5 +2,6 @@ id: loaghtan-steak
 category: food
 type: dish
 dish: "Loaghtan Steak"
+related: [ingredients/abalathian-rock-salt, ingredients/cooking-sherry, ingredients/dravanian-paprika, ingredients/fermented-butter, ingredients/loaghtan-fillet, ingredients/thyme]
 tags: [food, cuisine]
 status: stable

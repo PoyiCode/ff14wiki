@@ -2,5 +2,6 @@ id: fermented-butter
 category: ingredients
 type: ingredient
 ingredient: "Fermented Butter"
+related: [food/almond-cream-croissant, food/apple-strudel, food/baked-megapiranha, food/baked-pipira-pira, food/broad-bean-curry, food/caramel-popcorn, food/caramels, food/gateau-au-chocolat, food/hamsa-curry, food/king-salmon-meuniere, food/lemon-curd-sachertorte, food/lemon-muffin, food/lemon-waffle, food/loaghtan-steak, food/lobster-bisque]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: la-noscean-orange
 category: ingredients
 type: ingredient
 ingredient: "La Noscean Orange"
+related: [food/orange-juice, food/roast-canard]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: marinated-broccoflower
 category: food
 type: dish
 dish: "Marinated Broccoflower"
+related: [ingredients/alien-onion, ingredients/broccoflower, ingredients/night-vinegar, ingredients/perilla-oil, ingredients/thavnairian-paprika]
 tags: [food, cuisine]
 status: stable

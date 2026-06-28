@@ -2,5 +2,6 @@ id: the-noodles-of-elpis
 category: food
 type: dish
 dish: "The Noodles of Elpis"
+related: [ingredients/egg-of-elpis, ingredients/garlean-cheese, ingredients/night-pepper, ingredients/sweet-cream, ingredients/vermicelli, ingredients/yakow-chuck]
 tags: [food, cuisine]
 status: stable

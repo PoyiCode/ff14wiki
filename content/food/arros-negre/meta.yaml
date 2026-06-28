@@ -2,5 +2,6 @@ id: arros-negre
 category: food
 type: dish
 dish: "Arros Negre"
+related: [ingredients/bomba-rice, ingredients/paprika, ingredients/squid-ink]
 tags: [food, cuisine]
 status: stable

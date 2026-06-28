@@ -2,5 +2,6 @@ id: steppe-milk
 category: ingredients
 type: ingredient
 ingredient: "Steppe Milk"
+related: [food/jhammel-moussaka, food/masala-chai, food/persimmon-pudding, food/popotoes-au-gratin, food/steppe-tea, food/tofu-pancakes]
 tags: [ingredient, food, cooking]
 status: stable

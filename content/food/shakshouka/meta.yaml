@@ -2,5 +2,6 @@ id: shakshouka
 category: food
 type: dish
 dish: "Shakshouka"
+related: [ingredients/dragon-pepper, ingredients/dravanian-paprika, ingredients/dzemael-tomato, ingredients/gagana-egg, ingredients/koshu-pork, ingredients/thyme]
 tags: [food, cuisine]
 status: stable

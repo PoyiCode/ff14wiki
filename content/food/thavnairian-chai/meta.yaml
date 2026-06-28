@@ -2,5 +2,6 @@ id: thavnairian-chai
 category: food
 type: dish
 dish: "Thavnairian Chai"
+related: [ingredients/ovibos-milk, ingredients/palm-sugar, ingredients/peppermint, ingredients/potent-spice, ingredients/sideritis-leaves, ingredients/subtle-cinnamon-sticks]
 tags: [food, cuisine]
 status: stable

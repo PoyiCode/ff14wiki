@@ -2,5 +2,6 @@ id: jellied-compote
 category: food
 type: dish
 dish: "Jellied Compote"
+related: [ingredients/beet-sugar, ingredients/gelatin, ingredients/loquat, ingredients/othardian-plum, ingredients/persimmon]
 tags: [food, cuisine]
 status: stable

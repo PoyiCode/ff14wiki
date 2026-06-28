@@ -2,5 +2,6 @@ id: bomba-rice
 category: ingredients
 type: ingredient
 ingredient: "Bomba Rice"
+related: [food/arros-negre, food/broad-bean-curry, food/jhinga-biryani, food/lentil-curry, food/nasi-goreng, food/omelette-rice, food/paella, food/risotto-al-nero, food/scallop-curry]
 tags: [ingredient, food, cooking]
 status: stable

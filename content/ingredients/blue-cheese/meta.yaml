@@ -2,5 +2,6 @@ id: blue-cheese
 category: ingredients
 type: ingredient
 ingredient: "Blue Cheese"
+related: [food/alligator-salad, food/roasted-nopales, food/stuffed-artichoke]
 tags: [ingredient, food, cooking]
 status: stable

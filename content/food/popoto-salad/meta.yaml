@@ -2,5 +2,6 @@ id: popoto-salad
 category: food
 type: dish
 dish: "Popoto Salad"
+related: [ingredients/frantoio-oil, ingredients/lorikeet-egg, ingredients/night-pepper, ingredients/ramhorn-zucchini, ingredients/robe-lettuce, ingredients/russet-popoto]
 tags: [food, cuisine]
 status: stable

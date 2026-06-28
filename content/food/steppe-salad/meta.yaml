@@ -2,5 +2,6 @@ id: steppe-salad
 category: food
 type: dish
 dish: "Steppe Salad"
+related: [ingredients/algae-salt, ingredients/cottonseed-oil, ingredients/daikon-radish, ingredients/gyr-abanian-carrot, ingredients/lotus-root, ingredients/rice-vinegar]
 tags: [food, cuisine]
 status: stable

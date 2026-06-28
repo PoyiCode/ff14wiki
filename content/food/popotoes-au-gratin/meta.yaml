@@ -2,5 +2,6 @@ id: popotoes-au-gratin
 category: food
 type: dish
 dish: "Popotoes au Gratin"
+related: [ingredients/cream-cheese, ingredients/cyclops-onion, ingredients/night-pepper, ingredients/russet-popoto, ingredients/steppe-milk, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: walnut-bread
 category: food
 type: dish
 dish: "Walnut Bread"
+related: [ingredients/buffalo-milk, ingredients/gridanian-walnut, ingredients/smooth-butter, ingredients/sunset-wheat-flour, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

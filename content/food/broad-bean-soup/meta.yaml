@@ -2,5 +2,6 @@ id: broad-bean-soup
 category: food
 type: dish
 dish: "Broad Bean Soup"
+related: [ingredients/broad-beans, ingredients/buffalo-beans, ingredients/rail-tenderloin]
 tags: [food, cuisine]
 status: stable

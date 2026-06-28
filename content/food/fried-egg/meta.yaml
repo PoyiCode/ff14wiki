@@ -2,5 +2,6 @@ id: fried-egg
 category: food
 type: dish
 dish: "Fried Egg"
+related: [ingredients/mineral-water, ingredients/puk-egg, ingredients/smooth-butter, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

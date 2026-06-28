@@ -2,5 +2,6 @@ id: boiled-crayfish
 category: food
 type: dish
 dish: "Boiled Crayfish"
+related: [ingredients/mineral-water, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

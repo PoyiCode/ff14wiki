@@ -2,5 +2,6 @@ id: upland-wheat-flour
 category: ingredients
 type: ingredient
 ingredient: "Upland Wheat Flour"
+related: [food/alpaca-stew, food/baguette, food/baked-alien-soup, food/banana-ponzecake, food/broad-bean-curry, food/broccoflower-stew, food/caviar-canapes, food/caviar-sandwich, food/clam-cake, food/cloudsail-meuniere, food/coffee-biscuit, food/crab-cakes, food/driftwood-catfish-pie, food/elpis-deipnon, food/exquisite-beef-stew]
 tags: [ingredient, food, cooking]
 status: stable

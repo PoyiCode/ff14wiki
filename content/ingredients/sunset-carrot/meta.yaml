@@ -2,5 +2,6 @@ id: sunset-carrot
 category: ingredients
 type: ingredient
 ingredient: "Sunset Carrot"
+related: [food/carrot-pudding, food/sunset-carrot-nibbles]
 tags: [ingredient, food, cooking]
 status: stable

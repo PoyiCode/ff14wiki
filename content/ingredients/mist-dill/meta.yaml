@@ -2,5 +2,6 @@ id: mist-dill
 category: ingredients
 type: ingredient
 ingredient: "Mist Dill"
+related: [food/beet-soup, food/kasha]
 tags: [ingredient, food, cooking]
 status: stable

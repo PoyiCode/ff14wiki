@@ -2,5 +2,6 @@ id: forest-miq-abob
 category: food
 type: dish
 dish: "Forest Miq'abob"
+related: [ingredients/aloe, ingredients/black-pepper, ingredients/button-mushroom, ingredients/lavender-oil, ingredients/ruby-tomato, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

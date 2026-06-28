@@ -2,5 +2,6 @@ id: kasha
 category: food
 type: dish
 dish: "Kasha"
+related: [ingredients/bouillon-cube, ingredients/buckwheat-kernels, ingredients/cyclops-onion, ingredients/gagana-egg, ingredients/mist-dill]
 tags: [food, cuisine]
 status: stable

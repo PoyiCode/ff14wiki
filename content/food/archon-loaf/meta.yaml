@@ -2,5 +2,6 @@ id: archon-loaf
 category: food
 type: dish
 dish: "Archon Loaf"
+related: [ingredients/dark-rye-flour, ingredients/mist-spinach, ingredients/purple-carrot]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: sun-lemon
 category: ingredients
 type: ingredient
 ingredient: "Sun Lemon"
+related: [food/cheese-souffle, food/deviled-eggs, food/raw-oyster, food/salmon-meuniere, food/smoked-raptor, food/tuna-miq-abob]
 tags: [ingredient, food, cooking]
 status: stable

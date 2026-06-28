@@ -2,5 +2,6 @@ id: brown-cardamom
 category: ingredients
 type: ingredient
 ingredient: "Brown Cardamom"
+related: [food/churrasco, food/moqueca]
 tags: [ingredient, food, cooking]
 status: stable

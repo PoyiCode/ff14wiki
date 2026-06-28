@@ -2,5 +2,6 @@ id: rabbit-pie
 category: food
 type: dish
 dish: "Rabbit Pie"
+related: [ingredients/black-pepper, ingredients/coerthan-carrot, ingredients/marmot-meat, ingredients/pie-dough, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

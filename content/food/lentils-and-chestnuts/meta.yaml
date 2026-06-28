@@ -2,5 +2,6 @@ id: lentils-and-chestnuts
 category: food
 type: dish
 dish: "Lentils and Chestnuts"
+related: [ingredients/black-pepper, ingredients/galago-mint, ingredients/gridanian-chestnut, ingredients/lalafellin-lentil, ingredients/olive-oil, ingredients/sour-red]
 tags: [food, cuisine]
 status: stable

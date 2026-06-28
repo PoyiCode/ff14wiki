@@ -2,5 +2,6 @@ id: blood-tomato-juice
 category: food
 type: dish
 dish: "Blood Tomato Juice"
+related: [ingredients/blood-tomato, ingredients/golden-honey, ingredients/heavens-lemon]
 tags: [food, cuisine]
 status: stable

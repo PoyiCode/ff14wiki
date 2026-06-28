@@ -2,5 +2,6 @@ id: rye-flour
 category: ingredients
 type: ingredient
 ingredient: "Rye Flour"
+related: [food/acorn-cookie, food/flatbread, food/knight-s-bread]
 tags: [ingredient, food, cooking]
 status: stable

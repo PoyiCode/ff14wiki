@@ -2,5 +2,6 @@ id: faerie-apple
 category: ingredients
 type: ingredient
 ingredient: "Faerie Apple"
+related: [food/apple-tart]
 tags: [ingredient, food, cooking]
 status: stable

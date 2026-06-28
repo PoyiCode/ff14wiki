@@ -2,5 +2,6 @@ id: cockatrice-thigh
 category: ingredients
 type: ingredient
 ingredient: "Cockatrice Thigh"
+related: [food/cockatrice-meatballs, food/liver-cheese-sandwich]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: buffalo-milk
 category: ingredients
 type: ingredient
 ingredient: "Buffalo Milk"
+related: [food/baklava, food/bubble-chocolate, food/cornbread, food/crumpet, food/la-noscean-toast, food/rolanberry-shaved-ice, food/walnut-bread]
 tags: [ingredient, food, cooking]
 status: stable

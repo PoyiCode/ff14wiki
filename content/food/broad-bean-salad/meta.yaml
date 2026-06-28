@@ -2,5 +2,6 @@ id: broad-bean-salad
 category: food
 type: dish
 dish: "Broad Bean Salad"
+related: [ingredients/broad-beans, ingredients/curly-parsley, ingredients/frantoio-oil, ingredients/la-noscean-lettuce, ingredients/purple-carrot]
 tags: [food, cuisine]
 status: stable

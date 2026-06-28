@@ -2,5 +2,6 @@ id: chirashi-zushi
 category: food
 type: dish
 dish: "Chirashi-zushi"
+related: [ingredients/gagana-egg, ingredients/koshu-sticky-rice, ingredients/lotus-root, ingredients/rice-vinegar, ingredients/shiitake-mushroom]
 tags: [food, cuisine]
 status: stable

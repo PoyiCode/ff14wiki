@@ -2,5 +2,6 @@ id: dark-chestnut
 category: ingredients
 type: ingredient
 ingredient: "Dark Chestnut"
+related: [food/marron-glace, food/sohm-al-tart, food/steppe-tea]
 tags: [ingredient, food, cooking]
 status: stable

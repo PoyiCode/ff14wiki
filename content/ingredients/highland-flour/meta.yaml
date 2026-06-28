@@ -2,5 +2,6 @@ id: highland-flour
 category: ingredients
 type: ingredient
 ingredient: "Highland Flour"
+related: [food/almond-cream-croissant, food/angler-stew, food/apple-strudel, food/deep-fried-okeanis, food/dhalmel-gratin, food/flaugnarde, food/kaiser-roll, food/kingcake, food/loaghtan-cordon-bleu, food/sesame-cookie, food/sohm-al-tart]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: green-leek
 category: ingredients
 type: ingredient
 ingredient: "Green Leek"
+related: [food/banh-xeo, food/fish-stew, food/miso-soup-with-tofu, food/sauteed-green-leeks, food/steamed-grouper, food/tako-yaki]
 tags: [ingredient, food, cooking]
 status: stable

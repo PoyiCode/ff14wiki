@@ -2,5 +2,6 @@ id: yakow-chuck
 category: ingredients
 type: ingredient
 ingredient: "Yakow Chuck"
+related: [food/borscht, food/spicy-shakshouka, food/the-noodles-of-elpis, food/yakow-moussaka]
 tags: [ingredient, food, cooking]
 status: stable

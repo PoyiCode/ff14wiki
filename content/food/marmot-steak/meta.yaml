@@ -2,5 +2,6 @@ id: marmot-steak
 category: food
 type: dish
 dish: "Marmot Steak"
+related: [ingredients/garlean-garlic, ingredients/marmot-meat, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

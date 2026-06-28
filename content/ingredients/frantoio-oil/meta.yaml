@@ -2,5 +2,6 @@ id: frantoio-oil
 category: ingredients
 type: ingredient
 ingredient: "Frantoio Oil"
+related: [food/acqua-pazza, food/baked-eggplant, food/blood-bouillabaisse, food/broad-bean-salad, food/chicken-fettuccine, food/chili-crab, food/churrasco, food/creamy-alpaca-pasta, food/creamy-salmon-pasta, food/farmer-s-breakfast, food/grilled-rail, food/mejillones-al-ajillo, food/mesquite-soup, food/mushroom-saute, food/ovim-cordon-bleu]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: rolanberry-cheesecake
 category: food
 type: dish
 dish: "Rolanberry Cheesecake"
+related: [ingredients/gelatin, ingredients/honey-lemon, ingredients/rolanberry-cheese, ingredients/sweet-cream]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: tako-yaki
 category: food
 type: dish
 dish: "Tako-yaki"
+related: [ingredients/cottonseed-oil, ingredients/gagana-egg, ingredients/green-leek, ingredients/gyr-abanian-flour, ingredients/secret-recipe-broth]
 tags: [food, cuisine]
 status: stable

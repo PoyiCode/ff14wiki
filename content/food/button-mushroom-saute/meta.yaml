@@ -2,5 +2,6 @@ id: button-mushroom-saute
 category: food
 type: dish
 dish: "Button Mushroom Saute"
+related: [ingredients/button-mushroom, ingredients/garlean-garlic, ingredients/olive-oil, ingredients/sagolii-sage, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

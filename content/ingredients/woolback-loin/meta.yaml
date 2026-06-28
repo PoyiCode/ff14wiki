@@ -2,5 +2,6 @@ id: woolback-loin
 category: ingredients
 type: ingredient
 ingredient: "Woolback Loin"
+related: [food/ground-woolback-steak, food/woolback-steak]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: sykon-salad
 category: food
 type: dish
 dish: "Sykon Salad"
+related: [ingredients/alien-onion, ingredients/blood-tomato, ingredients/cucumber, ingredients/iceberg-lettuce, ingredients/sykon, ingredients/thavnairian-paprika]
 tags: [food, cuisine]
 status: stable

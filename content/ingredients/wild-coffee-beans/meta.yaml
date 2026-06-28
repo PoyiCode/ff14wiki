@@ -2,5 +2,6 @@ id: wild-coffee-beans
 category: ingredients
 type: ingredient
 ingredient: "Wild Coffee Beans"
+related: [food/cinnamon-cream-coffee, food/coffee-kukuru-rusks]
 tags: [ingredient, food, cooking]
 status: stable

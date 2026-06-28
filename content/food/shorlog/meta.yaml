@@ -2,5 +2,6 @@ id: shorlog
 category: food
 type: dish
 dish: "Shorlog"
+related: [ingredients/algae-salt, ingredients/black-pepper, ingredients/cumin-seeds, ingredients/dzo-chuck, ingredients/paprika]
 tags: [food, cuisine]
 status: stable

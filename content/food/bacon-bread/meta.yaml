@@ -2,5 +2,6 @@ id: bacon-bread
 category: food
 type: dish
 dish: "Bacon Bread"
+related: [ingredients/mineral-water, ingredients/night-milk, ingredients/smoked-bacon, ingredients/sunset-wheat]
 tags: [food, cuisine]
 status: stable

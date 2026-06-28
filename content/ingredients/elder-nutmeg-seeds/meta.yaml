@@ -2,5 +2,6 @@ id: elder-nutmeg-seeds
 category: ingredients
 type: ingredient
 ingredient: "Elder Nutmeg Seeds"
+related: [food/giant-popoto-pancakes, food/hamsa-curry, food/jhinga-curry, food/karniyarik, food/lentil-curry, food/melon-juice, food/scallop-curry, food/spicy-shakshouka]
 tags: [ingredient, food, cooking]
 status: stable

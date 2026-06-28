@@ -2,5 +2,6 @@ id: ut-ohmu-chili-sauce
 category: ingredients
 type: ingredient
 ingredient: "Ut'ohmu Chili Sauce"
+related: [food/goldentail-pie, food/ground-woolback-steak, food/mollete, food/nachos, food/nasi-goreng, food/omelette-rice, food/shrimp-cocktail, food/stuffed-peppers, food/tacos-al-pastor]
 tags: [ingredient, food, cooking]
 status: stable

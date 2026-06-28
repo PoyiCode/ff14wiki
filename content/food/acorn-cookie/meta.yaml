@@ -2,5 +2,6 @@ id: acorn-cookie
 category: food
 type: dish
 dish: "Acorn Cookie"
+related: [ingredients/iron-acorn, ingredients/mineral-water, ingredients/rye-flour, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

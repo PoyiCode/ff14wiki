@@ -2,5 +2,6 @@ id: risotto-al-nero
 category: food
 type: dish
 dish: "Risotto al Nero"
+related: [ingredients/blood-tomato, ingredients/bomba-rice, ingredients/curly-parsley, ingredients/frantoio-oil, ingredients/squid-ink]
 tags: [food, cuisine]
 status: stable

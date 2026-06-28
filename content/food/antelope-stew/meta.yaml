@@ -2,5 +2,6 @@ id: antelope-stew
 category: food
 type: dish
 dish: "Antelope Stew"
+related: [ingredients/antelope-shank, ingredients/coerthan-carrot, ingredients/popoto, ingredients/sunset-wheat-flour, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

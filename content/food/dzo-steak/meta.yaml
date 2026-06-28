@@ -2,5 +2,6 @@ id: dzo-steak
 category: food
 type: dish
 dish: "Dzo Steak"
+related: [ingredients/algae-salt, ingredients/cooking-sherry, ingredients/cottonseed-oil, ingredients/dzo-sirloin]
 tags: [food, cuisine]
 status: stable

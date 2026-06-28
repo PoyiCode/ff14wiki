@@ -2,5 +2,6 @@ id: bubble-tea
 category: food
 type: dish
 dish: "Bubble Tea"
+related: [ingredients/cassava, ingredients/ovibos-milk, ingredients/palm-sugar, ingredients/sideritis-leaves, ingredients/whipped-cream]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: porcini
 category: ingredients
 type: ingredient
 ingredient: "Porcini"
+related: [food/baked-pipira-pira, food/boscaiola, food/sauteed-porcini]
 tags: [ingredient, food, cooking]
 status: stable

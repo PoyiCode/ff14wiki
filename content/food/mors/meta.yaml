@@ -2,5 +2,6 @@ id: mors
 category: food
 type: dish
 dish: "Mors"
+related: [ingredients/birch-syrup, ingredients/galago-mint, ingredients/garden-beet-sugar, ingredients/lemonette, ingredients/lingonberry]
 tags: [food, cuisine]
 status: stable

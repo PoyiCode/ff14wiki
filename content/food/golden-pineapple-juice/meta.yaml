@@ -2,5 +2,6 @@ id: golden-pineapple-juice
 category: food
 type: dish
 dish: "Golden Pineapple Juice"
+related: [ingredients/amber-cloves, ingredients/golden-honey, ingredients/golden-pineapple, ingredients/lemonette, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

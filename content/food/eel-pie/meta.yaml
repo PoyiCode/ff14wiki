@@ -2,5 +2,6 @@ id: eel-pie
 category: food
 type: dish
 dish: "Eel Pie"
+related: [ingredients/black-pepper, ingredients/cloves, ingredients/pie-dough, ingredients/popoto, ingredients/smooth-butter]
 tags: [food, cuisine]
 status: stable

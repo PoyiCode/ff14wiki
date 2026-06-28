@@ -2,5 +2,6 @@ id: bubble-chocolate
 category: food
 type: dish
 dish: "Bubble Chocolate"
+related: [ingredients/buffalo-milk, ingredients/kukuru-butter, ingredients/kukuru-powder, ingredients/maple-sugar]
 tags: [food, cuisine]
 status: stable

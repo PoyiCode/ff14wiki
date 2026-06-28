@@ -2,5 +2,6 @@ id: rooibos-leaves
 category: ingredients
 type: ingredient
 ingredient: "Rooibos Leaves"
+related: [food/rooibos-tea]
 tags: [ingredient, food, cooking]
 status: stable

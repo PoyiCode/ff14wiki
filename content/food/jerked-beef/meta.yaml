@@ -2,5 +2,6 @@ id: jerked-beef
 category: food
 type: dish
 dish: "Jerked Beef"
+related: [ingredients/black-pepper, ingredients/buffalo-sirloin, ingredients/nutmeg, ingredients/sagolii-sage, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

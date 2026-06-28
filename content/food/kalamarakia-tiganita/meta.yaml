@@ -2,5 +2,6 @@ id: kalamarakia-tiganita
 category: food
 type: dish
 dish: "Kalamarakia Tiganita"
+related: [ingredients/curly-parsley, ingredients/dark-rye-flour, ingredients/lemonette, ingredients/perilla-oil]
 tags: [food, cuisine]
 status: stable

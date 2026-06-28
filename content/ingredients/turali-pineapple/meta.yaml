@@ -2,5 +2,6 @@ id: turali-pineapple
 category: ingredients
 type: ingredient
 ingredient: "Turali Pineapple"
+related: [food/mesquite-juice, food/pineapple-orange-jelly, food/tacos-al-pastor, food/tart-turali-tart, food/turali-pineapple-ponzecake]
 tags: [ingredient, food, cooking]
 status: stable

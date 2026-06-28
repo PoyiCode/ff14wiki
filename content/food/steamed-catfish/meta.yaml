@@ -2,5 +2,6 @@ id: steamed-catfish
 category: food
 type: dish
 dish: "Steamed Catfish"
+related: [ingredients/maple-sugar, ingredients/popoto, ingredients/sour-red, ingredients/star-anise]
 tags: [food, cuisine]
 status: stable

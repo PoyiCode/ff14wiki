@@ -2,5 +2,6 @@ id: mate-cookie
 category: food
 type: dish
 dish: "Mate Cookie"
+related: [ingredients/cinnamon, ingredients/dark-rye-flour, ingredients/egg-of-elpis, ingredients/splendid-mate-leaves, ingredients/whipped-cream]
 tags: [food, cuisine]
 status: stable

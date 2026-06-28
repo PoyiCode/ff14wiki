@@ -2,5 +2,6 @@ id: blood-orange
 category: ingredients
 type: ingredient
 ingredient: "Blood Orange"
+related: [food/roast-canard]
 tags: [ingredient, food, cooking]
 status: stable

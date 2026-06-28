@@ -2,5 +2,6 @@ id: cooking-sake
 category: ingredients
 type: ingredient
 ingredient: "Cooking Sake"
+related: [food/grilled-turban, food/miso-dengaku, food/oden, food/onigara-yaki, food/pork-kakuni, food/steamed-grouper]
 tags: [ingredient, food, cooking]
 status: stable

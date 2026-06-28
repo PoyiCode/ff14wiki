@@ -2,5 +2,6 @@ id: lentil-curry
 category: food
 type: dish
 dish: "Lentil Curry"
+related: [ingredients/bomba-rice, ingredients/carrot-of-happiness, ingredients/coconut-milk, ingredients/eblan-lentils, ingredients/elder-nutmeg-seeds, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

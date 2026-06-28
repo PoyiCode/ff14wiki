@@ -2,5 +2,6 @@ id: matcha
 category: food
 type: dish
 dish: "Matcha"
+related: [ingredients/tea-brick]
 tags: [food, cuisine]
 status: stable

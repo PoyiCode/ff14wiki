@@ -2,5 +2,6 @@ id: grilled-turban
 category: food
 type: dish
 dish: "Grilled Turban"
+related: [ingredients/cooking-sake, ingredients/oriental-soy-sauce]
 tags: [food, cuisine]
 status: stable

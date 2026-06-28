@@ -2,5 +2,6 @@ id: yakow-moussaka
 category: food
 type: dish
 dish: "Yakow Moussaka"
+related: [ingredients/cucumber, ingredients/doman-eggplant, ingredients/giant-popoto, ingredients/ovibos-milk, ingredients/upland-wheat-flour, ingredients/yakow-chuck]
 tags: [food, cuisine]
 status: stable

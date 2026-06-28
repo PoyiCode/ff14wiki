@@ -2,5 +2,6 @@ id: ruby-tide-kelp
 category: ingredients
 type: ingredient
 ingredient: "Ruby Tide Kelp"
+related: [food/boiled-amberjack-head, food/oden]
 tags: [ingredient, food, cooking]
 status: stable

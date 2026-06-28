@@ -2,5 +2,6 @@ id: steamed-grouper
 category: food
 type: dish
 dish: "Steamed Grouper"
+related: [ingredients/cooking-sake, ingredients/cottonseed-oil, ingredients/green-leek, ingredients/jhammel-ginger, ingredients/oriental-soy-sauce]
 tags: [food, cuisine]
 status: stable

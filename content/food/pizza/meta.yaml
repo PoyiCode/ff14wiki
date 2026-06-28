@@ -2,5 +2,6 @@ id: pizza
 category: food
 type: dish
 dish: "Pizza"
+related: [ingredients/blood-tomato, ingredients/mozzarella, ingredients/peppermint, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

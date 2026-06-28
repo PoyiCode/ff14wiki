@@ -2,5 +2,6 @@ id: caramel-popcorn
 category: food
 type: dish
 dish: "Caramel Popcorn"
+related: [ingredients/fermented-butter, ingredients/flint-corn, ingredients/ovibos-milk, ingredients/palm-sugar, ingredients/turali-corn-oil]
 tags: [food, cuisine]
 status: stable

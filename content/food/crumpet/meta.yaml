@@ -2,5 +2,6 @@ id: crumpet
 category: food
 type: dish
 dish: "Crumpet"
+related: [ingredients/buffalo-milk, ingredients/maple-syrup, ingredients/smooth-butter, ingredients/sunset-wheat-flour, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

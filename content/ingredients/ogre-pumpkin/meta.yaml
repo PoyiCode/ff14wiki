@@ -2,5 +2,6 @@ id: ogre-pumpkin
 category: ingredients
 type: ingredient
 ingredient: "Ogre Pumpkin"
+related: [food/heavensegg-soup, food/jack-o-lantern, food/rock-fisted-popoto-stew]
 tags: [ingredient, food, cooking]
 status: stable

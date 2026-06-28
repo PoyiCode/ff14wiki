@@ -2,5 +2,6 @@ id: ruby-tomato
 category: ingredients
 type: ingredient
 ingredient: "Ruby Tomato"
+related: [food/buttons-in-a-blanket, food/fish-soup, food/forest-miq-abob, food/meat-miq-abob, food/ratatouille]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: mugwort
 category: ingredients
 type: ingredient
 ingredient: "Mugwort"
+related: [food/mugwort-carp]
 tags: [ingredient, food, cooking]
 status: stable

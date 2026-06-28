@@ -2,5 +2,6 @@ id: chanterelle-saute
 category: food
 type: dish
 dish: "Chanterelle Saute"
+related: [ingredients/chanterelle, ingredients/smooth-butter]
 tags: [food, cuisine]
 status: stable

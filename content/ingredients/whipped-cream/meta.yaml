@@ -2,5 +2,6 @@ id: whipped-cream
 category: ingredients
 type: ingredient
 ingredient: "Whipped Cream"
+related: [food/bubble-tea, food/cinnamon-cream-coffee, food/creamy-alpaca-pasta, food/creamy-hot-chocolate, food/gateau-au-chocolat, food/mate-cookie, food/tender-shortcake, food/turali-pineapple-ponzecake]
 tags: [ingredient, food, cooking]
 status: stable

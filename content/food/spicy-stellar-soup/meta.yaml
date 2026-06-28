@@ -2,5 +2,6 @@ id: spicy-stellar-soup
 category: food
 type: dish
 dish: "Spicy Stellar Soup"
+related: [ingredients/alien-onion, ingredients/carrot-of-happiness, ingredients/northern-sea-salt, ingredients/pure-cumin, ingredients/sour-cream]
 tags: [food, cuisine]
 status: stable

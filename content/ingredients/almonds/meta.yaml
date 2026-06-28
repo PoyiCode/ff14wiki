@@ -2,5 +2,6 @@ id: almonds
 category: ingredients
 type: ingredient
 ingredient: "Almonds"
+related: [food/baklava, food/crowned-pie, food/nut-bake, food/pastry-fish]
 tags: [ingredient, food, cooking]
 status: stable

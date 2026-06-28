@@ -2,5 +2,6 @@ id: blood-tomato-salad
 category: food
 type: dish
 dish: "Blood Tomato Salad"
+related: [ingredients/blood-tomato, ingredients/cyclops-onion, ingredients/la-noscean-lettuce, ingredients/night-vinegar, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

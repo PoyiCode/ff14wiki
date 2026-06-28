@@ -2,5 +2,6 @@ id: firm-tofu
 category: ingredients
 type: ingredient
 ingredient: "Firm Tofu"
+related: [food/crab-croquette, food/miso-dengaku, food/miso-soup-with-tofu, food/tofu-pancakes]
 tags: [ingredient, food, cooking]
 status: stable

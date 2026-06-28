@@ -2,5 +2,6 @@ id: mountain-rock-salt
 category: ingredients
 type: ingredient
 ingredient: "Mountain Rock Salt"
+related: [food/churrasco]
 tags: [ingredient, food, cooking]
 status: stable

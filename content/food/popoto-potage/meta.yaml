@@ -2,5 +2,6 @@ id: popoto-potage
 category: food
 type: dish
 dish: "Popoto Potage"
+related: [ingredients/alien-onion, ingredients/frantoio-oil, ingredients/giant-popoto, ingredients/mountain-salt, ingredients/rroneek-milk]
 tags: [food, cuisine]
 status: stable

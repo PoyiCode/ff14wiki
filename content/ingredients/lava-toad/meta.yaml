@@ -2,5 +2,6 @@ id: lava-toad
 category: ingredients
 type: ingredient
 ingredient: "Lava Toad"
+related: [food/lava-toad-legs]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: caviar-sandwich
 category: food
 type: dish
 dish: "Caviar Sandwich"
+related: [ingredients/alligator-pear, ingredients/egg-of-elpis, ingredients/northern-sea-salt, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

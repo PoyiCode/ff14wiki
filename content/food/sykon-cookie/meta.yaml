@@ -2,5 +2,6 @@ id: sykon-cookie
 category: food
 type: dish
 dish: "Sykon Cookie"
+related: [ingredients/dark-rye-flour, ingredients/egg-of-elpis, ingredients/ovibos-milk, ingredients/potent-spice, ingredients/subtle-cinnamon-sticks, ingredients/sykon]
 tags: [food, cuisine]
 status: stable

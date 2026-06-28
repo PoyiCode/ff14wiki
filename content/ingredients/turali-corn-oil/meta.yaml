@@ -2,5 +2,6 @@ id: turali-corn-oil
 category: ingredients
 type: ingredient
 ingredient: "Turali Corn Oil"
+related: [food/broccoli-and-spinach-saute, food/caramel-popcorn, food/ceviche, food/clam-cake, food/cloudsail-meuniere, food/lomo-saltado, food/mesquite-soup, food/moqueca, food/roast-rroneek, food/rock-fisted-popoto-salad, food/rroneek-steak, food/spaghetti-al-olio-e-peperoncino, food/stuffed-peppers]
 tags: [ingredient, food, cooking]
 status: stable

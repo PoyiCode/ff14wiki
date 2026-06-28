@@ -2,5 +2,6 @@ id: harcot
 category: ingredients
 type: ingredient
 ingredient: "Harcot"
+related: [food/jellied-harcot, food/zefir]
 tags: [ingredient, food, cooking]
 status: stable

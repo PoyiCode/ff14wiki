@@ -2,5 +2,6 @@ id: frozen-spirits
 category: food
 type: dish
 dish: "Frozen Spirits"
+related: [ingredients/cloud-banana, ingredients/old-world-fig, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: mature-olive-oil
 category: ingredients
 type: ingredient
 ingredient: "Mature Olive Oil"
+related: [food/boscaiola, food/loaghtan-cordon-bleu, food/oyster-confit, food/peperoncino, food/spaghetti-pescatore]
 tags: [ingredient, food, cooking]
 status: stable

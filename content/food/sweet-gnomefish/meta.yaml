@@ -2,5 +2,6 @@ id: sweet-gnomefish
 category: food
 type: dish
 dish: "Sweet Gnomefish"
+related: [ingredients/birch-syrup]
 tags: [food, cuisine]
 status: stable

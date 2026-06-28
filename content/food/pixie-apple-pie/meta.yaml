@@ -2,5 +2,6 @@ id: pixie-apple-pie
 category: food
 type: dish
 dish: "Pixie Apple Pie"
+related: [ingredients/cinnamon, ingredients/fermented-butter, ingredients/golden-honey, ingredients/pixie-apple, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

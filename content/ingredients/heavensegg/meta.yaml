@@ -2,5 +2,6 @@ id: heavensegg
 category: ingredients
 type: ingredient
 ingredient: "Heavensegg"
+related: [food/flaugnarde, food/heavenly-eggnog, food/heavensegg-soup, food/priestly-omelette, food/spaghetti-carbonara, food/wildwood-scrambled-eggs]
 tags: [ingredient, food, cooking]
 status: stable

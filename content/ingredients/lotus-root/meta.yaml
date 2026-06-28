@@ -2,5 +2,6 @@ id: lotus-root
 category: ingredients
 type: ingredient
 ingredient: "Lotus Root"
+related: [food/chirashi-zushi, food/gameni, food/steppe-salad, food/tempura-platter]
 tags: [ingredient, food, cooking]
 status: stable

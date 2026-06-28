@@ -2,5 +2,6 @@ id: popoto
 category: ingredients
 type: ingredient
 ingredient: "Popoto"
+related: [food/antelope-stew, food/battered-fish, food/chilled-popoto-soup, food/dhalmel-gratin, food/dzemael-gratin, food/eel-pie, food/mashed-popotoes, food/roast-canard, food/shepherd-s-pie, food/steamed-catfish, food/stone-soup]
 tags: [ingredient, food, cooking]
 status: stable

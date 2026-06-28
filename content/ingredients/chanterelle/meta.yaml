@@ -2,5 +2,6 @@ id: chanterelle
 category: ingredients
 type: ingredient
 ingredient: "Chanterelle"
+related: [food/braised-pipira, food/chanterelle-saute, food/raptor-stew]
 tags: [ingredient, food, cooking]
 status: stable

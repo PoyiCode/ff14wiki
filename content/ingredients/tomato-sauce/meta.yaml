@@ -2,5 +2,6 @@ id: tomato-sauce
 category: ingredients
 type: ingredient
 ingredient: "Tomato Sauce"
+related: [food/boscaiola, food/buttons-in-a-blanket, food/cockatrice-meatballs, food/dodo-omelette, food/mole-loaf, food/pasta-ortolano, food/priestly-omelette, food/stuffed-cabbage-rolls]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: blood-bouillabaisse
 category: food
 type: dish
 dish: "Blood Bouillabaisse"
+related: [ingredients/blood-tomato, ingredients/cyclops-onion, ingredients/desert-saffron, ingredients/frantoio-oil]
 tags: [food, cuisine]
 status: stable

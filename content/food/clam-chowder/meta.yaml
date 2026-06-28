@@ -2,5 +2,6 @@ id: clam-chowder
 category: food
 type: dish
 dish: "Clam Chowder"
+related: [ingredients/abalathian-rock-salt, ingredients/bouillon-cube, ingredients/chives]
 tags: [food, cuisine]
 status: stable

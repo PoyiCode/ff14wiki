@@ -2,5 +2,6 @@ id: alpine-parsnip
 category: ingredients
 type: ingredient
 ingredient: "Alpine Parsnip"
+related: [food/cheese-risotto, food/parsnip-salad]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: egg-of-elpis
 category: ingredients
 type: ingredient
 ingredient: "Egg of Elpis"
+related: [food/baked-alien-soup, food/banana-ponzecake, food/carrot-pudding, food/caviar-sandwich, food/clam-cake, food/creamy-alpaca-pasta, food/gateau-au-chocolat, food/giant-popoto-pancakes, food/king-urchin-loaf, food/mate-cookie, food/melon-pie, food/nasi-goreng, food/omelette-rice, food/paes-de-queijo, food/peach-tart]
 tags: [ingredient, food, cooking]
 status: stable

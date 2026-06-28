@@ -2,5 +2,6 @@ id: chicken-breast
 category: ingredients
 type: ingredient
 ingredient: "Chicken Breast"
+related: [food/chicken-and-mushrooms]
 tags: [ingredient, food, cooking]
 status: stable

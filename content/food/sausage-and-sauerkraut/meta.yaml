@@ -2,5 +2,6 @@ id: sausage-and-sauerkraut
 category: food
 type: dish
 dish: "Sausage and Sauerkraut"
+related: [ingredients/black-pepper, ingredients/highland-cabbage, ingredients/night-vinegar, ingredients/ovim-meat, ingredients/peppermint, ingredients/sheep-casings]
 tags: [food, cuisine]
 status: stable

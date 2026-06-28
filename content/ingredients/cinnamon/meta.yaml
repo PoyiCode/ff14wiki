@@ -2,5 +2,6 @@ id: cinnamon
 category: ingredients
 type: ingredient
 ingredient: "Cinnamon"
+related: [food/apple-strudel, food/apple-tart, food/cinnamon-cream-coffee, food/crowned-pie, food/doman-tea, food/espresso-con-panna, food/frumenty, food/heavenly-eggnog, food/masala-chai, food/mate-cookie, food/mulled-tea, food/pixie-apple-pie, food/spiced-cider, food/triple-cream-coffee, food/tsai-tou-vounou]
 tags: [ingredient, food, cooking]
 status: stable

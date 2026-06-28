@@ -2,5 +2,6 @@ id: fish-soup
 category: food
 type: dish
 dish: "Fish Soup"
+related: [ingredients/highland-parsley, ingredients/nutmeg, ingredients/ruby-tomato, ingredients/smooth-butter, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

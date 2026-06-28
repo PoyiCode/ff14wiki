@@ -2,5 +2,6 @@ id: robe-lettuce
 category: ingredients
 type: ingredient
 ingredient: "Robe Lettuce"
+related: [food/popoto-salad, food/robe-lettuce-salad]
 tags: [ingredient, food, cooking]
 status: stable

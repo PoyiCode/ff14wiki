@@ -2,5 +2,6 @@ id: coffee-beans
 category: ingredients
 type: ingredient
 ingredient: "Coffee Beans"
+related: [food/coffee-biscuit, food/espresso-con-panna]
 tags: [ingredient, food, cooking]
 status: stable

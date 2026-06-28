@@ -2,5 +2,6 @@ id: pure-cumin
 category: ingredients
 type: ingredient
 ingredient: "Pure Cumin"
+related: [food/spicy-stellar-soup, food/tandoori-raptor]
 tags: [ingredient, food, cooking]
 status: stable

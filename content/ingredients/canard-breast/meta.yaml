@@ -2,5 +2,6 @@ id: canard-breast
 category: ingredients
 type: ingredient
 ingredient: "Canard Breast"
+related: [food/roast-canard]
 tags: [ingredient, food, cooking]
 status: stable

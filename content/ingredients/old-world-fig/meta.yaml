@@ -2,5 +2,6 @@ id: old-world-fig
 category: ingredients
 type: ingredient
 ingredient: "Old World Fig"
+related: [food/fig-bavarois, food/frozen-spirits]
 tags: [ingredient, food, cooking]
 status: stable

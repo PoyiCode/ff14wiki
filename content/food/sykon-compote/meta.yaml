@@ -2,5 +2,6 @@ id: sykon-compote
 category: food
 type: dish
 dish: "Sykon Compote"
+related: [ingredients/lemonette, ingredients/palm-sugar, ingredients/sour-red, ingredients/sykon]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: palm-sugar
 category: ingredients
 type: ingredient
 ingredient: "Palm Sugar"
+related: [food/amra-lassi, food/bubble-tea, food/caramel-popcorn, food/carrot-pudding, food/cinnamon-cream-coffee, food/creamy-hot-chocolate, food/gateau-au-chocolat, food/honeyed-dragonfruit, food/melon-juice, food/mesquite-juice, food/peach-juice, food/sideritis-cookie, food/skyr, food/sykon-bavarois, food/sykon-compote]
 tags: [ingredient, food, cooking]
 status: stable

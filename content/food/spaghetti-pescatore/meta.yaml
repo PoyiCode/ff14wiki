@@ -2,5 +2,6 @@ id: spaghetti-pescatore
 category: food
 type: dish
 dish: "Spaghetti Pescatore"
+related: [ingredients/mature-olive-oil, ingredients/solstice-garlic, ingredients/vermicelli]
 tags: [food, cuisine]
 status: stable

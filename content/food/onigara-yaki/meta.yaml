@@ -2,5 +2,6 @@ id: onigara-yaki
 category: food
 type: dish
 dish: "Onigara-yaki"
+related: [ingredients/cooking-sake, ingredients/oriental-miso-paste, ingredients/oriental-soy-sauce]
 tags: [food, cuisine]
 status: stable

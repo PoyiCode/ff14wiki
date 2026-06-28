@@ -2,5 +2,6 @@ id: shrimp-cocktail
 category: food
 type: dish
 dish: "Shrimp Cocktail"
+related: [ingredients/cooking-mezcal, ingredients/lemonette, ingredients/ut-ohmu-chili-sauce]
 tags: [food, cuisine]
 status: stable

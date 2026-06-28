@@ -2,5 +2,6 @@ id: grilled-warmwater-trout
 category: food
 type: dish
 dish: "Grilled Warmwater Trout"
+related: [ingredients/garlean-garlic, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

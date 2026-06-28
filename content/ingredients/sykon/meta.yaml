@@ -2,5 +2,6 @@ id: sykon
 category: ingredients
 type: ingredient
 ingredient: "Sykon"
+related: [food/peach-juice, food/sykon-bavarois, food/sykon-compote, food/sykon-cookie, food/sykon-salad]
 tags: [ingredient, food, cooking]
 status: stable

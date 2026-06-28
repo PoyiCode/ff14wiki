@@ -2,5 +2,6 @@ id: dzo-sirloin
 category: ingredients
 type: ingredient
 ingredient: "Dzo Sirloin"
+related: [food/dzo-steak]
 tags: [ingredient, food, cooking]
 status: stable

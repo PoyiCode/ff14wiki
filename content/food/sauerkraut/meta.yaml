@@ -2,5 +2,6 @@ id: sauerkraut
 category: food
 type: dish
 dish: "Sauerkraut"
+related: [ingredients/dragon-pepper, ingredients/laurel, ingredients/midland-cabbage, ingredients/mineral-water, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

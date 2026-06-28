@@ -2,5 +2,6 @@ id: caramels
 category: food
 type: dish
 dish: "Caramels"
+related: [ingredients/fermented-butter, ingredients/garden-beet-sugar, ingredients/sour-cream]
 tags: [food, cuisine]
 status: stable

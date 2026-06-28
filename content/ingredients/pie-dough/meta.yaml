@@ -2,5 +2,6 @@ id: pie-dough
 category: ingredients
 type: ingredient
 ingredient: "Pie Dough"
+related: [food/apple-tart, food/blood-currant-tart, food/crowned-pie, food/eel-pie, food/pastry-fish, food/rabbit-pie, food/snurbleberry-tart, food/spinach-quiche, food/tailor-made-eel-pie, food/tomato-pie, food/trapper-s-quiche]
 tags: [ingredient, food, cooking]
 status: stable

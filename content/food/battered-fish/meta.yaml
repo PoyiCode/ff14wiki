@@ -2,5 +2,6 @@ id: battered-fish
 category: food
 type: dish
 dish: "Battered Fish"
+related: [ingredients/olive-oil, ingredients/popoto, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

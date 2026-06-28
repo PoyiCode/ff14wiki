@@ -2,5 +2,6 @@ id: curly-parsley
 category: ingredients
 type: ingredient
 ingredient: "Curly Parsley"
+related: [food/broad-bean-salad, food/chicken-fettuccine, food/farmer-s-breakfast, food/kalamarakia-tiganita, food/mejillones-al-ajillo, food/peppered-popotoes, food/pickled-herring, food/risotto-al-nero]
 tags: [ingredient, food, cooking]
 status: stable

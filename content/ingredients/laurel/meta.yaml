@@ -2,5 +2,6 @@ id: laurel
 category: ingredients
 type: ingredient
 ingredient: "Laurel"
+related: [food/dhalmel-fricassee, food/eft-steak, food/heavensegg-soup, food/laghman, food/oyster-confit, food/ratatouille, food/sauerkraut]
 tags: [ingredient, food, cooking]
 status: stable

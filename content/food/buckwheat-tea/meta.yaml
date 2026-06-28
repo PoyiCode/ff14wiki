@@ -2,5 +2,6 @@ id: buckwheat-tea
 category: food
 type: dish
 dish: "Buckwheat Tea"
+related: [ingredients/buckwheat-kernels, ingredients/thanalan-tea-leaves]
 tags: [food, cuisine]
 status: stable

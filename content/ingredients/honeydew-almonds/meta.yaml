@@ -2,5 +2,6 @@ id: honeydew-almonds
 category: ingredients
 type: ingredient
 ingredient: "Honeydew Almonds"
+related: [food/almond-cream-croissant]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: broccoli-and-spinach-saute
 category: food
 type: dish
 dish: "Broccoli and Spinach Saute"
+related: [ingredients/bell-pepper, ingredients/broccoli, ingredients/creamtop-mushroom, ingredients/mist-spinach, ingredients/mountain-salt, ingredients/turali-corn-oil]
 tags: [food, cuisine]
 status: stable

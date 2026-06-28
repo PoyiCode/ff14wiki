@@ -2,5 +2,6 @@ id: grilled-rail
 category: food
 type: dish
 dish: "Grilled Rail"
+related: [ingredients/abalathian-rock-salt, ingredients/frantoio-oil, ingredients/rail-tenderloin, ingredients/solstice-garlic]
 tags: [food, cuisine]
 status: stable

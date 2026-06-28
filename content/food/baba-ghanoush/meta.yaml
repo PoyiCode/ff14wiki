@@ -2,5 +2,6 @@ id: baba-ghanoush
 category: food
 type: dish
 dish: "Baba Ghanoush"
+related: [ingredients/algae-salt, ingredients/dark-eggplant, ingredients/garlean-garlic, ingredients/perilla-oil, ingredients/thavnairian-paprika]
 tags: [food, cuisine]
 status: stable

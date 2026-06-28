@@ -2,5 +2,6 @@ id: coeurl-meat
 category: ingredients
 type: ingredient
 ingredient: "Coeurl Meat"
+related: [food/sauteed-coeurl]
 tags: [ingredient, food, cooking]
 status: stable

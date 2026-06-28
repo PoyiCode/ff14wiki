@@ -2,5 +2,6 @@ id: night-pepper
 category: ingredients
 type: ingredient
 ingredient: "Night Pepper"
+related: [food/creamy-salmon-pasta, food/exquisite-beef-stew, food/giant-haddock-dip, food/glory-be-soup, food/king-salmon-meuniere, food/loaghtan-rump-steak, food/mist-spinach-saute, food/peppered-popotoes, food/popoto-salad, food/popotoes-au-gratin, food/rare-roast-beef, food/roast-ovim, food/sausage-links, food/smoked-chicken, food/the-noodles-of-elpis]
 tags: [ingredient, food, cooking]
 status: stable

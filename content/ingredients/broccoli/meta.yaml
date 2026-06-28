@@ -2,5 +2,6 @@ id: broccoli
 category: ingredients
 type: ingredient
 ingredient: "Broccoli"
+related: [food/broccoli-and-spinach-saute, food/creamy-alpaca-pasta, food/vegetable-soup]
 tags: [ingredient, food, cooking]
 status: stable

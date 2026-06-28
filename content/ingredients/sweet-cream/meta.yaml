@@ -2,5 +2,6 @@ id: sweet-cream
 category: ingredients
 type: ingredient
 ingredient: "Sweet Cream"
+related: [food/apkallu-omelette, food/cawl-cennin, food/chicken-fettuccine, food/chilled-popoto-soup, food/creamy-salmon-pasta, food/dzemael-gratin, food/flaugnarde, food/heavenly-eggnog, food/mashed-popotoes, food/orobon-stew, food/rolanberry-cheesecake, food/sachertorte, food/sohm-al-tart, food/spaghetti-carbonara, food/stuffed-artichoke]
 tags: [ingredient, food, cooking]
 status: stable

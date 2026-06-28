@@ -2,5 +2,6 @@ id: marron-glace
 category: food
 type: dish
 dish: "Marron Glace"
+related: [ingredients/birch-syrup, ingredients/cooking-sherry, ingredients/dark-chestnut]
 tags: [food, cuisine]
 status: stable

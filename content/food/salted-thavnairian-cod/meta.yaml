@@ -2,5 +2,6 @@ id: salted-thavnairian-cod
 category: food
 type: dish
 dish: "Salted Thavnairian Cod"
+related: [ingredients/lemonette, ingredients/northern-sea-salt]
 tags: [food, cuisine]
 status: stable

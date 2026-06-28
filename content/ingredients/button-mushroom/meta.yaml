@@ -2,5 +2,6 @@ id: button-mushroom
 category: ingredients
 type: ingredient
 ingredient: "Button Mushroom"
+related: [food/button-mushroom-saute, food/buttons-in-a-blanket, food/forest-miq-abob, food/spinach-saute]
 tags: [ingredient, food, cooking]
 status: stable

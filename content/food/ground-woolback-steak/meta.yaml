@@ -2,5 +2,6 @@ id: ground-woolback-steak
 category: food
 type: dish
 dish: "Ground Woolback Steak"
+related: [ingredients/alien-onion, ingredients/perilla-oil, ingredients/ut-ohmu-chili-sauce, ingredients/woolback-loin, ingredients/yyasulani-garlic]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: oden
 category: food
 type: dish
 dish: "Oden"
+related: [ingredients/cooking-sake, ingredients/daikon-radish, ingredients/gagana-egg, ingredients/mountain-popoto, ingredients/ruby-tide-kelp, ingredients/secret-recipe-broth]
 tags: [food, cuisine]
 status: stable

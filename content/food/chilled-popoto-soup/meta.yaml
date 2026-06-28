@@ -2,5 +2,6 @@ id: chilled-popoto-soup
 category: food
 type: dish
 dish: "Chilled Popoto Soup"
+related: [ingredients/highland-parsley, ingredients/la-noscean-leek, ingredients/popoto, ingredients/smooth-butter, ingredients/sweet-cream, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

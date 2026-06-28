@@ -2,5 +2,6 @@ id: chicken-stock
 category: ingredients
 type: ingredient
 ingredient: "Chicken Stock"
+related: [food/baked-alien-soup, food/baked-onion-soup, food/cawl-cennin, food/orobon-stew, food/stuffed-cabbage-rolls]
 tags: [ingredient, food, cooking]
 status: stable

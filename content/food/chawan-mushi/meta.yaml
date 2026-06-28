@@ -2,5 +2,6 @@ id: chawan-mushi
 category: food
 type: dish
 dish: "Chawan-mushi"
+related: [ingredients/gagana-egg, ingredients/secret-recipe-broth, ingredients/shiitake-mushroom]
 tags: [food, cuisine]
 status: stable

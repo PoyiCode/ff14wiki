@@ -2,5 +2,6 @@ id: iron-acorn
 category: ingredients
 type: ingredient
 ingredient: "Iron Acorn"
+related: [food/acorn-cookie]
 tags: [ingredient, food, cooking]
 status: stable

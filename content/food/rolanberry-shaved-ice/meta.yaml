@@ -2,5 +2,6 @@ id: rolanberry-shaved-ice
 category: food
 type: dish
 dish: "Rolanberry Shaved Ice"
+related: [ingredients/buffalo-milk, ingredients/maple-syrup, ingredients/mineral-water, ingredients/rolanberry]
 tags: [food, cuisine]
 status: stable

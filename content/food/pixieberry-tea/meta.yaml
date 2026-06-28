@@ -2,5 +2,6 @@ id: pixieberry-tea
 category: food
 type: dish
 dish: "Pixieberry Tea"
+related: [ingredients/coerthan-tea-leaves, ingredients/garden-beet-sugar, ingredients/peppermint, ingredients/pixieberry]
 tags: [food, cuisine]
 status: stable

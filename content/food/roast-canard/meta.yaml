@@ -2,5 +2,6 @@ id: roast-canard
 category: food
 type: dish
 dish: "Roast Canard"
+related: [ingredients/blood-orange, ingredients/canard-breast, ingredients/honey, ingredients/la-noscean-orange, ingredients/popoto, ingredients/smooth-butter]
 tags: [food, cuisine]
 status: stable

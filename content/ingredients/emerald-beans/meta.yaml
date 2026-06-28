@@ -2,5 +2,6 @@ id: emerald-beans
 category: ingredients
 type: ingredient
 ingredient: "Emerald Beans"
+related: [food/emerald-soup, food/morel-salad]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: apple-juice
 category: food
 type: dish
 dish: "Apple Juice"
+related: [ingredients/mirror-apple]
 tags: [food, cuisine]
 status: stable

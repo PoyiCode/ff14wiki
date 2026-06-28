@@ -2,5 +2,6 @@ id: mushroom-saute
 category: food
 type: dish
 dish: "Mushroom Saute"
+related: [ingredients/abalathian-rock-salt, ingredients/creamtop-mushroom, ingredients/fermented-butter, ingredients/frantoio-oil]
 tags: [food, cuisine]
 status: stable

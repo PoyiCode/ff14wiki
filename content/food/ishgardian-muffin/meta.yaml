@@ -2,5 +2,6 @@ id: ishgardian-muffin
 category: food
 type: dish
 dish: "Ishgardian Muffin"
+related: [ingredients/cornmeal, ingredients/sunset-wheat-flour, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

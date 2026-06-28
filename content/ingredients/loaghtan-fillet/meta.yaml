@@ -2,5 +2,6 @@ id: loaghtan-fillet
 category: ingredients
 type: ingredient
 ingredient: "Loaghtan Fillet"
+related: [food/loaghtan-cordon-bleu, food/loaghtan-steak]
 tags: [ingredient, food, cooking]
 status: stable

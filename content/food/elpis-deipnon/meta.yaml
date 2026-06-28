@@ -2,5 +2,6 @@ id: elpis-deipnon
 category: food
 type: dish
 dish: "Elpis Deipnon"
+related: [ingredients/alien-onion, ingredients/bird-of-elpis-breast, ingredients/blood-tomato, ingredients/dark-rye-flour, ingredients/northern-sea-salt, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

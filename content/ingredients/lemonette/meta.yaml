@@ -2,5 +2,6 @@ id: lemonette
 category: ingredients
 type: ingredient
 ingredient: "Lemonette"
+related: [food/boiled-alpaca-steak, food/boiled-lobster, food/ceviche, food/cloudsail-meuniere, food/giant-haddock-dip, food/golden-pineapple-juice, food/grilled-urqotrout, food/honeyed-dragonfruit, food/jellied-harcot, food/kalamarakia-tiganita, food/king-salmon-meuniere, food/lemon-curd-sachertorte, food/lemon-muffin, food/lemon-waffle, food/lemonade]
 tags: [ingredient, food, cooking]
 status: stable

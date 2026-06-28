@@ -2,5 +2,6 @@ id: mushroom-skewer
 category: food
 type: dish
 dish: "Mushroom Skewer"
+related: [ingredients/abalathian-rock-salt, ingredients/amber-cloves, ingredients/blood-tomato, ingredients/creamtop-mushroom, ingredients/ramhorn-zucchini]
 tags: [food, cuisine]
 status: stable

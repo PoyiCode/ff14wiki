@@ -2,5 +2,6 @@ id: steppe-tea
 category: food
 type: dish
 dish: "Steppe Tea"
+related: [ingredients/dark-chestnut, ingredients/steppe-milk, ingredients/tea-brick]
 tags: [food, cuisine]
 status: stable

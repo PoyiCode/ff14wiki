@@ -2,5 +2,6 @@ id: apple-tart
 category: food
 type: dish
 dish: "Apple Tart"
+related: [ingredients/chicken-egg, ingredients/cinnamon, ingredients/faerie-apple, ingredients/maple-sugar, ingredients/pie-dough, ingredients/smooth-butter]
 tags: [food, cuisine]
 status: stable

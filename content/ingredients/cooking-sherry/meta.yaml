@@ -2,5 +2,6 @@ id: cooking-sherry
 category: ingredients
 type: ingredient
 ingredient: "Cooking Sherry"
+related: [food/dzo-steak, food/loaghtan-steak, food/marron-glace, food/sauteed-coeurl]
 tags: [ingredient, food, cooking]
 status: stable

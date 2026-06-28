@@ -2,5 +2,6 @@ id: northern-sea-salt
 category: ingredients
 type: ingredient
 ingredient: "Northern Sea Salt"
+related: [food/baked-alien-soup, food/boiled-alpaca-steak, food/boiled-lobster, food/borscht, food/broccoflower-stew, food/caviar-sandwich, food/ceviche, food/elpis-deipnon, food/giant-popoto-pancakes, food/gyros, food/jhinga-biryani, food/pumpkin-potage, food/salted-thavnairian-cod, food/spicy-stellar-soup, food/tandoori-raptor]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: tailor-made-eel-pie
 category: food
 type: dish
 dish: "Tailor-made Eel Pie"
+related: [ingredients/black-pepper, ingredients/cloves, ingredients/pie-dough, ingredients/smooth-butter, ingredients/vintage-cooking-sherry]
 tags: [food, cuisine]
 status: stable

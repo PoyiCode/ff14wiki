@@ -2,5 +2,6 @@ id: squid-ink
 category: ingredients
 type: ingredient
 ingredient: "Squid Ink"
+related: [food/arros-negre, food/risotto-al-nero, food/spaghetti-al-nero]
 tags: [ingredient, food, cooking]
 status: stable

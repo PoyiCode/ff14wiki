@@ -2,5 +2,6 @@ id: spinach-quiche
 category: food
 type: dish
 dish: "Spinach Quiche"
+related: [ingredients/apkallu-egg, ingredients/cream-cheese, ingredients/nutmeg, ingredients/pie-dough, ingredients/table-salt, ingredients/young-cieldalaes-spinach]
 tags: [food, cuisine]
 status: stable

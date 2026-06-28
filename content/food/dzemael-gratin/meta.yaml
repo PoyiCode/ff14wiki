@@ -2,5 +2,6 @@ id: dzemael-gratin
 category: food
 type: dish
 dish: "Dzemael Gratin"
+related: [ingredients/black-pepper, ingredients/eft-tail, ingredients/garlean-garlic, ingredients/nutmeg, ingredients/popoto, ingredients/sweet-cream]
 tags: [food, cuisine]
 status: stable

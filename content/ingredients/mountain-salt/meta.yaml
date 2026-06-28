@@ -2,5 +2,6 @@ id: mountain-salt
 category: ingredients
 type: ingredient
 ingredient: "Mountain Salt"
+related: [food/all-i-pebre, food/boiled-lobster, food/broccoli-and-spinach-saute, food/coffee-kukuru-rusks, food/driftwood-catfish-pie, food/grilled-urqotrout, food/maple-teriyaki, food/mezcal-marinated-swampmonk, food/paes-de-queijo, food/popoto-potage, food/quahog-chowder, food/roast-chicken, food/rock-fisted-popoto-stew, food/rroneek-au-gratin, food/rroneek-steak]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: mirror-apple
 category: ingredients
 type: ingredient
 ingredient: "Mirror Apple"
+related: [food/apple-juice, food/crowned-pie, food/pastry-fish, food/popoto-pancakes]
 tags: [ingredient, food, cooking]
 status: stable

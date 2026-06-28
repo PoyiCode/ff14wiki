@@ -2,5 +2,6 @@ id: cottage-cheese
 category: ingredients
 type: ingredient
 ingredient: "Cottage Cheese"
+related: [food/black-truffle-risotto, food/cheese-risotto, food/mashed-popotoes, food/scrambled-eggs]
 tags: [ingredient, food, cooking]
 status: stable

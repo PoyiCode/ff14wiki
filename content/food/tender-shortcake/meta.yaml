@@ -2,5 +2,6 @@ id: tender-shortcake
 category: food
 type: dish
 dish: "Tender Shortcake"
+related: [ingredients/egg-of-elpis, ingredients/nopalitender-tuna, ingredients/palm-sugar, ingredients/upland-wheat-flour, ingredients/whipped-cream]
 tags: [food, cuisine]
 status: stable

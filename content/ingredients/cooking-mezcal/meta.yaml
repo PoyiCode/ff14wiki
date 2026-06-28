@@ -2,5 +2,6 @@ id: cooking-mezcal
 category: ingredients
 type: ingredient
 ingredient: "Cooking Mezcal"
+related: [food/acqua-pazza, food/alpaca-stew, food/boiled-alpaca-steak, food/chicken-pasta, food/churrasco, food/lobster-bisque, food/mezcal-marinated-swampmonk, food/prune-packed-fruitcake, food/salmon-jerky, food/shrimp-cocktail, food/solterito, food/woolback-steak]
 tags: [ingredient, food, cooking]
 status: stable

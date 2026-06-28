@@ -2,5 +2,6 @@ id: sermon-worthy-meuniere
 category: food
 type: dish
 dish: "Sermon-worthy Meuniere"
+related: [ingredients/crimson-pepper, ingredients/fermented-butter, ingredients/gyr-abanian-flour, ingredients/heavens-lemon, ingredients/young-cieldalaes-spinach]
 tags: [food, cuisine]
 status: stable

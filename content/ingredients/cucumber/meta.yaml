@@ -2,5 +2,6 @@ id: cucumber
 category: ingredients
 type: ingredient
 ingredient: "Cucumber"
+related: [food/carrot-nibbles, food/philosopher-s-sandwich, food/pumpkin-ratatouille, food/sunset-carrot-nibbles, food/sykon-salad, food/yakow-moussaka]
 tags: [ingredient, food, cooking]
 status: stable

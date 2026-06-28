@@ -2,5 +2,6 @@ id: table-salt
 category: ingredients
 type: ingredient
 ingredient: "Table Salt"
+related: [food/acorn-cookie, food/aldgoat-steak, food/alligator-salad, food/antelope-steak, food/apkallu-omelette, food/baked-sole, food/battered-fish, food/blood-tomato-salad, food/boiled-crayfish, food/braised-pipira, food/button-mushroom-saute, food/buttons-in-a-blanket, food/chicken-and-mushrooms, food/chilled-popoto-soup, food/crumpet]
 tags: [ingredient, food, cooking]
 status: stable

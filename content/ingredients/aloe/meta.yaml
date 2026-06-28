@@ -2,5 +2,6 @@ id: aloe
 category: ingredients
 type: ingredient
 ingredient: "Aloe"
+related: [food/forest-miq-abob]
 tags: [ingredient, food, cooking]
 status: stable

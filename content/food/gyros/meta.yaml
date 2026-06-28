@@ -2,5 +2,6 @@ id: gyros
 category: food
 type: dish
 dish: "Gyros"
+related: [ingredients/iceberg-lettuce, ingredients/northern-sea-salt, ingredients/ovibos-milk, ingredients/prime-loaghtan-rump, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

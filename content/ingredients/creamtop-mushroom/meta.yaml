@@ -2,5 +2,6 @@ id: creamtop-mushroom
 category: ingredients
 type: ingredient
 ingredient: "Creamtop Mushroom"
+related: [food/baked-megapiranha, food/broccoli-and-spinach-saute, food/driftwood-catfish-pie, food/herring-pie, food/island-miq-abob, food/king-urchin-loaf, food/mushroom-saute, food/mushroom-skewer, food/smoked-chicken]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: purple-carrot-juice
 category: food
 type: dish
 dish: "Purple Carrot Juice"
+related: [ingredients/pixie-apple, ingredients/purple-carrot]
 tags: [food, cuisine]
 status: stable

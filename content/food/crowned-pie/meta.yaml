@@ -2,5 +2,6 @@ id: crowned-pie
 category: food
 type: dish
 dish: "Crowned Pie"
+related: [ingredients/almonds, ingredients/cinnamon, ingredients/maple-sugar, ingredients/mirror-apple, ingredients/pie-dough]
 tags: [food, cuisine]
 status: stable

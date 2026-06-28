@@ -2,5 +2,6 @@ id: zurek
 category: food
 type: dish
 dish: "Zurek"
+related: [ingredients/broad-beans, ingredients/dark-rye-flour, ingredients/iceberg-lettuce]
 tags: [food, cuisine]
 status: stable

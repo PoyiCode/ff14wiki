@@ -2,5 +2,6 @@ id: mezcal-marinated-swampmonk
 category: food
 type: dish
 dish: "Mezcal-marinated Swampmonk"
+related: [ingredients/cooking-mezcal, ingredients/mountain-salt, ingredients/perilla-oil, ingredients/swampmonk-thigh]
 tags: [food, cuisine]
 status: stable

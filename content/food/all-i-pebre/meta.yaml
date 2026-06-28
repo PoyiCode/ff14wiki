@@ -2,5 +2,6 @@ id: all-i-pebre
 category: food
 type: dish
 dish: "All i Pebre"
+related: [ingredients/giant-popoto, ingredients/mountain-salt, ingredients/perilla-oil, ingredients/thavnairian-paprika]
 tags: [food, cuisine]
 status: stable

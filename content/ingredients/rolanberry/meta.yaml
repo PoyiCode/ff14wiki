@@ -2,5 +2,6 @@ id: rolanberry
 category: ingredients
 type: ingredient
 ingredient: "Rolanberry"
+related: [food/papanasi, food/rolanberry-lassi, food/rolanberry-shaved-ice]
 tags: [ingredient, food, cooking]
 status: stable

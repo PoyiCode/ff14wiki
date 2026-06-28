@@ -2,5 +2,6 @@ id: shepherd-s-pie
 category: food
 type: dish
 dish: "Shepherd's Pie"
+related: [ingredients/antelope-shank, ingredients/black-pepper, ingredients/coerthan-carrot, ingredients/popoto, ingredients/smooth-butter, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

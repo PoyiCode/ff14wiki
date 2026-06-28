@@ -2,5 +2,6 @@ id: royal-maple-syrup
 category: ingredients
 type: ingredient
 ingredient: "Royal Maple Syrup"
+related: [food/banana-ponzecake, food/fruit-and-aloe-jelly, food/maple-teriyaki, food/navel-orange-cookies, food/pineapple-orange-jelly, food/prune-ponzecake, food/royal-toast, food/sweet-maple-mate, food/sweetmuffin]
 tags: [ingredient, food, cooking]
 status: stable

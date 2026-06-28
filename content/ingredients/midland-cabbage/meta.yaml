@@ -2,5 +2,6 @@ id: midland-cabbage
 category: ingredients
 type: ingredient
 ingredient: "Midland Cabbage"
+related: [food/boiled-bream, food/buttons-in-a-blanket, food/sauerkraut, food/stuffed-cabbage]
 tags: [ingredient, food, cooking]
 status: stable

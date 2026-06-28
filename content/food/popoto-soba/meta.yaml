@@ -2,5 +2,6 @@ id: popoto-soba
 category: food
 type: dish
 dish: "Popoto Soba"
+related: [ingredients/ama-nori, ingredients/buckwheat-kernels, ingredients/fish-stock, ingredients/gagana-egg, ingredients/mountain-popoto, ingredients/oriental-soy-sauce]
 tags: [food, cuisine]
 status: stable

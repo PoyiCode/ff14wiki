@@ -2,5 +2,6 @@ id: ginger-salad
 category: food
 type: dish
 dish: "Ginger Salad"
+related: [ingredients/crimson-pepper, ingredients/daikon-radish, ingredients/jhammel-ginger, ingredients/la-noscean-lettuce, ingredients/olive-oil]
 tags: [food, cuisine]
 status: stable

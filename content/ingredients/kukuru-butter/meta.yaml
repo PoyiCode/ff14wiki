@@ -2,5 +2,6 @@ id: kukuru-butter
 category: ingredients
 type: ingredient
 ingredient: "Kukuru Butter"
+related: [food/bubble-chocolate, food/pearl-chocolate]
 tags: [ingredient, food, cooking]
 status: stable

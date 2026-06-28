@@ -2,5 +2,6 @@ id: cinnamon-cream-coffee
 category: food
 type: dish
 dish: "Cinnamon Cream Coffee"
+related: [ingredients/cinnamon, ingredients/palm-sugar, ingredients/whipped-cream, ingredients/wild-coffee-beans]
 tags: [food, cuisine]
 status: stable

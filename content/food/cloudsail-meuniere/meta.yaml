@@ -2,5 +2,6 @@ id: cloudsail-meuniere
 category: food
 type: dish
 dish: "Cloudsail Meuniere"
+related: [ingredients/lemonette, ingredients/ovibos-milk, ingredients/turali-corn-oil, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

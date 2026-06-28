@@ -2,5 +2,6 @@ id: baked-onion-soup
 category: food
 type: dish
 dish: "Baked Onion Soup"
+related: [ingredients/chicken-stock, ingredients/cream-cheese, ingredients/cyclops-onion]
 tags: [food, cuisine]
 status: stable

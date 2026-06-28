@@ -2,5 +2,6 @@ id: dragonfruit
 category: ingredients
 type: ingredient
 ingredient: "Dragonfruit"
+related: [food/dragonfruit-blend, food/honeyed-dragonfruit]
 tags: [ingredient, food, cooking]
 status: stable

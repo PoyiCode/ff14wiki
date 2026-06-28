@@ -2,5 +2,6 @@ id: salmon-muffin
 category: food
 type: dish
 dish: "Salmon Muffin"
+related: [ingredients/alligator-pear, ingredients/cieldalaes-spinach, ingredients/reunion-cheese]
 tags: [food, cuisine]
 status: stable

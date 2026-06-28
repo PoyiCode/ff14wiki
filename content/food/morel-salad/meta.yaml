@@ -2,5 +2,6 @@ id: morel-salad
 category: food
 type: dish
 dish: "Morel Salad"
+related: [ingredients/emerald-beans, ingredients/la-noscean-lettuce, ingredients/morel, ingredients/olive-oil, ingredients/sesame-seeds, ingredients/young-cieldalaes-spinach]
 tags: [food, cuisine]
 status: stable

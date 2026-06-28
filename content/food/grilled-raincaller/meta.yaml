@@ -2,5 +2,6 @@ id: grilled-raincaller
 category: food
 type: dish
 dish: "Grilled Raincaller"
+related: [ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

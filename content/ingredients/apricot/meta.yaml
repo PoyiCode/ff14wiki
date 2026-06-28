@@ -2,5 +2,6 @@ id: apricot
 category: ingredients
 type: ingredient
 ingredient: "Apricot"
+related: [food/sachertorte]
 tags: [ingredient, food, cooking]
 status: stable

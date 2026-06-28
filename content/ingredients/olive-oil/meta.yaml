@@ -2,5 +2,6 @@ id: olive-oil
 category: ingredients
 type: ingredient
 ingredient: "Olive Oil"
+related: [food/alligator-salad, food/battered-fish, food/boiled-bream, food/bouillabaisse, food/button-mushroom-saute, food/cornbread, food/deep-fried-okeanis, food/ginger-salad, food/haddock-dip, food/la-noscean-toast, food/landtrap-salad, food/lentils-and-chestnuts, food/morel-salad, food/pan-fried-mahi-mahi, food/parsnip-salad]
 tags: [ingredient, food, cooking]
 status: stable

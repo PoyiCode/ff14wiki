@@ -2,5 +2,6 @@ id: mustard-eggs
 category: food
 type: dish
 dish: "Mustard Eggs"
+related: [ingredients/ala-mhigan-mustard, ingredients/dodo-egg, ingredients/mineral-water, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

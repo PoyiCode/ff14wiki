@@ -2,5 +2,6 @@ id: tree-toad
 category: ingredients
 type: ingredient
 ingredient: "Tree Toad"
+related: [food/tree-toad-legs]
 tags: [ingredient, food, cooking]
 status: stable

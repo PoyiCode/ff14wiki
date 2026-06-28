@@ -2,5 +2,6 @@ id: peppered-popotoes
 category: food
 type: dish
 dish: "Peppered Popotoes"
+related: [ingredients/abalathian-rock-salt, ingredients/curly-parsley, ingredients/night-pepper, ingredients/russet-popoto]
 tags: [food, cuisine]
 status: stable

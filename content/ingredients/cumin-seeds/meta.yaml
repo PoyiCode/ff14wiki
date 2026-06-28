@@ -2,5 +2,6 @@ id: cumin-seeds
 category: ingredients
 type: ingredient
 ingredient: "Cumin Seeds"
+related: [food/banh-xeo, food/crimson-cider, food/jerked-jhammel, food/shorlog]
 tags: [ingredient, food, cooking]
 status: stable

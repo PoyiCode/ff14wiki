@@ -2,5 +2,6 @@ id: creamy-salmon-pasta
 category: food
 type: dish
 dish: "Creamy Salmon Pasta"
+related: [ingredients/frantoio-oil, ingredients/mist-spinach, ingredients/night-pepper, ingredients/sweet-cream, ingredients/vermicelli]
 tags: [food, cuisine]
 status: stable

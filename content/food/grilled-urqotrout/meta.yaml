@@ -2,5 +2,6 @@ id: grilled-urqotrout
 category: food
 type: dish
 dish: "Grilled Urqotrout"
+related: [ingredients/lemonette, ingredients/mountain-salt]
 tags: [food, cuisine]
 status: stable

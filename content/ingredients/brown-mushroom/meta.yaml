@@ -2,5 +2,6 @@ id: brown-mushroom
 category: ingredients
 type: ingredient
 ingredient: "Brown Mushroom"
+related: [food/priestly-omelette, food/wildwood-scrambled-eggs]
 tags: [ingredient, food, cooking]
 status: stable

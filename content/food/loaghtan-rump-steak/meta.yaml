@@ -2,5 +2,6 @@ id: loaghtan-rump-steak
 category: food
 type: dish
 dish: "Loaghtan Rump Steak"
+related: [ingredients/night-pepper, ingredients/night-vinegar, ingredients/perilla-oil, ingredients/prime-loaghtan-rump, ingredients/thavnairian-paprika]
 tags: [food, cuisine]
 status: stable

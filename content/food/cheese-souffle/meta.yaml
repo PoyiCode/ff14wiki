@@ -2,5 +2,6 @@ id: cheese-souffle
 category: food
 type: dish
 dish: "Cheese Souffle"
+related: [ingredients/cream-cheese, ingredients/dodo-egg, ingredients/maple-syrup, ingredients/night-milk, ingredients/sun-lemon]
 tags: [food, cuisine]
 status: stable

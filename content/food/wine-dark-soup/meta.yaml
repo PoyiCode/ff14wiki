@@ -2,5 +2,6 @@ id: wine-dark-soup
 category: food
 type: dish
 dish: "Wine-dark Soup"
+related: [ingredients/beet, ingredients/garlean-cheese, ingredients/ovibos-milk, ingredients/peppermint, ingredients/russet-popoto]
 tags: [food, cuisine]
 status: stable

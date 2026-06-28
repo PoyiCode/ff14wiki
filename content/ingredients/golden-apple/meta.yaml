@@ -2,5 +2,6 @@ id: golden-apple
 category: ingredients
 type: ingredient
 ingredient: "Golden Apple"
+related: [food/apple-strudel, food/flaugnarde, food/spiced-cider]
 tags: [ingredient, food, cooking]
 status: stable

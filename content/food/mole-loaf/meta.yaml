@@ -2,5 +2,6 @@ id: mole-loaf
 category: food
 type: dish
 dish: "Mole Loaf"
+related: [ingredients/black-pepper, ingredients/chicken-egg, ingredients/mole-meat, ingredients/tomato-sauce, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

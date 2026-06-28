@@ -2,5 +2,6 @@ id: honey-muffin
 category: food
 type: dish
 dish: "Honey Muffin"
+related: [ingredients/aldgoat-milk, ingredients/chicken-egg, ingredients/honey, ingredients/mineral-water, ingredients/smooth-butter, ingredients/sunset-wheat-flour]
 tags: [food, cuisine]
 status: stable

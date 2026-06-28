@@ -2,5 +2,6 @@ id: exquisite-beef-stew
 category: food
 type: dish
 dish: "Exquisite Beef Stew"
+related: [ingredients/dzo-tenderloin, ingredients/gyr-abanian-carrot, ingredients/night-pepper, ingredients/russet-popoto, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

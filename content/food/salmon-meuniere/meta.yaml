@@ -2,5 +2,6 @@ id: salmon-meuniere
 category: food
 type: dish
 dish: "Salmon Meuniere"
+related: [ingredients/highland-parsley, ingredients/smooth-butter, ingredients/sun-lemon, ingredients/sunset-wheat-flour]
 tags: [food, cuisine]
 status: stable

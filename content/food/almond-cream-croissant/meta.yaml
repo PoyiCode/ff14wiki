@@ -2,5 +2,6 @@ id: almond-cream-croissant
 category: food
 type: dish
 dish: "Almond Cream Croissant"
+related: [ingredients/birch-syrup, ingredients/fermented-butter, ingredients/highland-flour, ingredients/honeydew-almonds]
 tags: [food, cuisine]
 status: stable

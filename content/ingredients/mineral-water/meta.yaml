@@ -2,5 +2,6 @@ id: mineral-water
 category: ingredients
 type: ingredient
 ingredient: "Mineral Water"
+related: [food/acorn-cookie, food/apkallu-omelette, food/bacon-bread, food/beef-stew, food/boiled-crayfish, food/boiled-egg, food/cawl-cennin, food/chamomile-tea, food/cornbread, food/dagger-soup, food/dark-pretzel, food/flatbread, food/fried-egg, food/honey-muffin, food/jack-o-lantern]
 tags: [ingredient, food, cooking]
 status: stable

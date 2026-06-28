@@ -2,5 +2,6 @@ id: churrasco
 category: food
 type: dish
 dish: "Churrasco"
+related: [ingredients/brown-cardamom, ingredients/cooking-mezcal, ingredients/frantoio-oil, ingredients/mountain-rock-salt, ingredients/rroneek-chuck]
 tags: [food, cuisine]
 status: stable

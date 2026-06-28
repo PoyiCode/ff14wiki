@@ -2,5 +2,6 @@ id: coconut-cod-chowder
 category: food
 type: dish
 dish: "Coconut Cod Chowder"
+related: [ingredients/blood-tomato, ingredients/carrot-of-happiness, ingredients/coconut-milk, ingredients/thavnairian-paprika]
 tags: [food, cuisine]
 status: stable

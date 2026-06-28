@@ -2,5 +2,6 @@ id: twilight-popoto-salad
 category: food
 type: dish
 dish: "Twilight Popoto Salad"
+related: [ingredients/frantoio-oil, ingredients/lorikeet-egg, ingredients/purple-carrot, ingredients/ramhorn-zucchini, ingredients/russet-popoto, ingredients/twilight-apple]
 tags: [food, cuisine]
 status: stable

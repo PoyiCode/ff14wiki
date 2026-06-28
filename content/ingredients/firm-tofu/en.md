@@ -6,3 +6,5 @@ summary: "A cooking ingredient."
 **Firm Tofu** is a foodstuff residents cook with and buy at market — a raw ingredient that goes into Eorzean dishes. In-game name: Firm Tofu.
 
 A traditional source of protein in the Far East, tofu is made from curdled soy bean extract.
+
+Used in dishes: Crab Croquette, Miso Dengaku, Miso Soup with Tofu, Tofu Pancakes

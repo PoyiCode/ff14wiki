@@ -2,5 +2,6 @@ id: coconut-milk
 category: ingredients
 type: ingredient
 ingredient: "Coconut Milk"
+related: [food/coconut-cod-chowder, food/dragonfruit-blend, food/hamsa-curry, food/jhinga-curry, food/king-urchin-loaf, food/lentil-curry, food/moqueca, food/scallop-curry, food/sweet-maple-mate, food/urchin-pasta]
 tags: [ingredient, food, cooking]
 status: stable

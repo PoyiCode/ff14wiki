@@ -2,5 +2,6 @@ id: carrot-nibbles
 category: food
 type: dish
 dish: "Carrot Nibbles"
+related: [ingredients/carrot-of-happiness, ingredients/cucumber, ingredients/cyclops-onion, ingredients/night-vinegar]
 tags: [food, cuisine]
 status: stable

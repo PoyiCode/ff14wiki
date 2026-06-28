@@ -2,5 +2,6 @@ id: ovibos-milk
 category: ingredients
 type: ingredient
 ingredient: "Ovibos Milk"
+related: [food/amra-lassi, food/archon-burger, food/beef-stroganoff, food/bubble-tea, food/caramel-popcorn, food/carrot-pudding, food/cloudsail-meuniere, food/coffee-kukuru-rusks, food/creamy-hot-chocolate, food/dragonfruit-blend, food/fruit-and-aloe-jelly, food/gyros, food/omelette-rice, food/paes-de-queijo, food/peach-tart]
 tags: [ingredient, food, cooking]
 status: stable

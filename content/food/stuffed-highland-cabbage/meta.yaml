@@ -2,5 +2,6 @@ id: stuffed-highland-cabbage
 category: food
 type: dish
 dish: "Stuffed Highland Cabbage"
+related: [ingredients/black-pepper, ingredients/blood-tomato, ingredients/frantoio-oil, ingredients/highland-cabbage, ingredients/mist-spinach, ingredients/ovim-meat]
 tags: [food, cuisine]
 status: stable

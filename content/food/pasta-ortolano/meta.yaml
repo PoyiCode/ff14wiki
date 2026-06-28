@@ -2,5 +2,6 @@ id: pasta-ortolano
 category: food
 type: dish
 dish: "Pasta Ortolano"
+related: [ingredients/dravanian-paprika, ingredients/ramhorn-zucchini, ingredients/solstice-garlic, ingredients/tomato-sauce, ingredients/vermicelli, ingredients/wizard-eggplant]
 tags: [food, cuisine]
 status: stable

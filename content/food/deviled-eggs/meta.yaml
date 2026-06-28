@@ -2,5 +2,6 @@ id: deviled-eggs
 category: food
 type: dish
 dish: "Deviled Eggs"
+related: [ingredients/ala-mhigan-mustard, ingredients/apkallu-egg, ingredients/highland-parsley, ingredients/paprika, ingredients/sun-lemon]
 tags: [food, cuisine]
 status: stable

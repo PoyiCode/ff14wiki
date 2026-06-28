@@ -2,5 +2,6 @@ id: charred-charr
 category: food
 type: dish
 dish: "Charred Charr"
+related: [ingredients/algae-salt]
 tags: [food, cuisine]
 status: stable

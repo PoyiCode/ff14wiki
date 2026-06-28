@@ -2,5 +2,6 @@ id: laghman
 category: food
 type: dish
 dish: "Laghman"
+related: [ingredients/dzo-chuck, ingredients/gyr-abanian-carrot, ingredients/gyr-abanian-flour, ingredients/laurel, ingredients/secret-recipe-broth]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: eft-steak
 category: food
 type: dish
 dish: "Eft Steak"
+related: [ingredients/black-pepper, ingredients/cider-vinegar, ingredients/eft-tail, ingredients/garlean-garlic, ingredients/laurel, ingredients/sour-red]
 tags: [food, cuisine]
 status: stable

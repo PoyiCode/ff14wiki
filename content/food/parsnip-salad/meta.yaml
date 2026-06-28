@@ -2,5 +2,6 @@ id: parsnip-salad
 category: food
 type: dish
 dish: "Parsnip Salad"
+related: [ingredients/alpine-parsnip, ingredients/buffalo-beans, ingredients/cieldalaes-spinach, ingredients/la-noscean-lettuce, ingredients/mineral-water, ingredients/olive-oil]
 tags: [food, cuisine]
 status: stable

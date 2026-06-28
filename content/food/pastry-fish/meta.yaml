@@ -2,5 +2,6 @@ id: pastry-fish
 category: food
 type: dish
 dish: "Pastry Fish"
+related: [ingredients/almonds, ingredients/desert-saffron, ingredients/mirror-apple, ingredients/pie-dough, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: ishgardian-tea
 category: food
 type: dish
 dish: "Ishgardian Tea"
+related: [ingredients/coerthan-tea-leaves, ingredients/maple-sugar, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

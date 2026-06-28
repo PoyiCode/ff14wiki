@@ -2,5 +2,6 @@ id: jerked-jhammel
 category: food
 type: dish
 dish: "Jerked Jhammel"
+related: [ingredients/black-pepper, ingredients/cumin-seeds, ingredients/dragon-pepper, ingredients/highland-oregano, ingredients/jhammel-haunch]
 tags: [food, cuisine]
 status: stable

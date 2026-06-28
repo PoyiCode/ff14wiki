@@ -2,5 +2,6 @@ id: grilled-platinum-bream
 category: food
 type: dish
 dish: "Grilled Platinum Bream"
+related: [ingredients/abalathian-rock-salt]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: sour-red
 category: ingredients
 type: ingredient
 ingredient: "Sour Red"
+related: [food/beef-stew, food/eft-steak, food/lentils-and-chestnuts, food/steamed-catfish, food/sykon-compote]
 tags: [ingredient, food, cooking]
 status: stable

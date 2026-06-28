@@ -2,5 +2,6 @@ id: rroneek-milk
 category: ingredients
 type: ingredient
 ingredient: "Rroneek Milk"
+related: [food/popoto-potage, food/rroneek-au-gratin]
 tags: [ingredient, food, cooking]
 status: stable

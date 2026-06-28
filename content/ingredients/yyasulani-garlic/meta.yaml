@@ -2,5 +2,6 @@ id: yyasulani-garlic
 category: ingredients
 type: ingredient
 ingredient: "Yyasulani Garlic"
+related: [food/chicken-pasta, food/driftwood-catfish-pie, food/ground-woolback-steak, food/moqueca, food/roast-chicken, food/roast-rroneek, food/rroneek-au-gratin, food/rroneek-steak, food/tacos-de-carne-asada, food/vegetable-soup]
 tags: [ingredient, food, cooking]
 status: stable

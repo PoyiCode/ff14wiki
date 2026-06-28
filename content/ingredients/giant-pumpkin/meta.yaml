@@ -2,5 +2,6 @@ id: giant-pumpkin
 category: ingredients
 type: ingredient
 ingredient: "Giant Pumpkin"
+related: [food/pumpkin-potage, food/pumpkin-ratatouille]
 tags: [ingredient, food, cooking]
 status: stable

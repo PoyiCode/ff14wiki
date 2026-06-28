@@ -2,5 +2,6 @@ id: potent-spice
 category: ingredients
 type: ingredient
 ingredient: "Potent Spice"
+related: [food/archon-burger, food/beef-stroganoff, food/peach-juice, food/peach-tart, food/pumpkin-potage, food/pumpkin-ratatouille, food/scallop-curry, food/scallop-salad, food/sykon-cookie, food/thavnairian-chai]
 tags: [ingredient, food, cooking]
 status: stable

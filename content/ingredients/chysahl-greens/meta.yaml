@@ -2,5 +2,6 @@ id: chysahl-greens
 category: ingredients
 type: ingredient
 ingredient: "Chysahl Greens"
+related: [food/stuffed-chysahl]
 tags: [ingredient, food, cooking]
 status: stable

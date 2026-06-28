@@ -2,5 +2,6 @@ id: doman-tea
 category: food
 type: dish
 dish: "Doman Tea"
+related: [ingredients/beet-sugar, ingredients/cinnamon, ingredients/jhammel-ginger, ingredients/persimmon]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: tea-brick
 category: ingredients
 type: ingredient
 ingredient: "Tea Brick"
+related: [food/matcha, food/steppe-tea]
 tags: [ingredient, food, cooking]
 status: stable

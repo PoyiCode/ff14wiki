@@ -2,5 +2,6 @@ id: flaugnarde
 category: food
 type: dish
 dish: "Flaugnarde"
+related: [ingredients/birch-syrup, ingredients/golden-apple, ingredients/heavensegg, ingredients/highland-flour, ingredients/sweet-cream, ingredients/sweet-cream-milk]
 tags: [food, cuisine]
 status: stable

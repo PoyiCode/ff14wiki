@@ -2,5 +2,6 @@ id: peach-juice
 category: food
 type: dish
 dish: "Peach Juice"
+related: [ingredients/eblan-lentils, ingredients/palm-sugar, ingredients/peppermint, ingredients/potent-spice, ingredients/sykon, ingredients/white-peach]
 tags: [food, cuisine]
 status: stable

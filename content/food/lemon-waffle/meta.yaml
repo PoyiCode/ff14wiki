@@ -2,5 +2,6 @@ id: lemon-waffle
 category: food
 type: dish
 dish: "Lemon Waffle"
+related: [ingredients/cottonseed-oil, ingredients/fermented-butter, ingredients/garden-beet-sugar, ingredients/lemonette, ingredients/lorikeet-egg, ingredients/strong-flour]
 tags: [food, cuisine]
 status: stable

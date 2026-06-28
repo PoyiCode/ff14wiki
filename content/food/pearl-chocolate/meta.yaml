@@ -2,5 +2,6 @@ id: pearl-chocolate
 category: food
 type: dish
 dish: "Pearl Chocolate"
+related: [ingredients/aldgoat-milk, ingredients/kukuru-butter, ingredients/maple-sugar]
 tags: [food, cuisine]
 status: stable

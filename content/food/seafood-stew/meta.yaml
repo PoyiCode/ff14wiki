@@ -2,5 +2,6 @@ id: seafood-stew
 category: food
 type: dish
 dish: "Seafood Stew"
+related: [ingredients/dravanian-paprika, ingredients/dzemael-tomato]
 tags: [food, cuisine]
 status: stable

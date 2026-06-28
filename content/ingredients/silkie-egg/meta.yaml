@@ -2,5 +2,6 @@ id: silkie-egg
 category: ingredients
 type: ingredient
 ingredient: "Silkie Egg"
+related: [food/farmer-s-breakfast, food/silkie-pudding]
 tags: [ingredient, food, cooking]
 status: stable

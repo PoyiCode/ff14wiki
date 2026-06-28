@@ -2,5 +2,6 @@ id: tacos-al-pastor
 category: food
 type: dish
 dish: "Tacos Al Pastor"
+related: [ingredients/alien-onion, ingredients/alpaca-fillet, ingredients/dark-rye-flour, ingredients/lemonette, ingredients/turali-pineapple, ingredients/ut-ohmu-chili-sauce]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: lingonberry
 category: ingredients
 type: ingredient
 ingredient: "Lingonberry"
+related: [food/mors, food/ovim-meatballs]
 tags: [ingredient, food, cooking]
 status: stable

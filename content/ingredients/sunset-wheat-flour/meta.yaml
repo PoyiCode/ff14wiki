@@ -2,5 +2,6 @@ id: sunset-wheat-flour
 category: ingredients
 type: ingredient
 ingredient: "Sunset Wheat Flour"
+related: [food/antelope-stew, food/beef-stew, food/cornbread, food/crumpet, food/dark-pretzel, food/ginger-cookie, food/honey-muffin, food/ishgardian-muffin, food/lava-toad-legs, food/mutton-stew, food/orobon-stew, food/pan-fried-mahi-mahi, food/pineapple-ponzecake, food/popoto-pancakes, food/raptor-stew]
 tags: [ingredient, food, cooking]
 status: stable

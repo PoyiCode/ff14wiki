@@ -2,5 +2,6 @@ id: garlean-cheese
 category: ingredients
 type: ingredient
 ingredient: "Garlean Cheese"
+related: [food/baked-alien-soup, food/baked-eggplant, food/borscht, food/calamari-ripieni, food/caviar-canapes, food/chicken-pasta, food/garlean-pizza, food/mollete, food/nachos, food/paes-de-queijo, food/the-noodles-of-elpis, food/turali-pineapple-ponzecake, food/wine-dark-soup]
 tags: [ingredient, food, cooking]
 status: stable

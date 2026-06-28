@@ -2,5 +2,6 @@ id: boiled-egg
 category: food
 type: dish
 dish: "Boiled Egg"
+related: [ingredients/chicken-egg, ingredients/mineral-water]
 tags: [food, cuisine]
 status: stable

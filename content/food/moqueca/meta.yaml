@@ -2,5 +2,6 @@ id: moqueca
 category: food
 type: dish
 dish: "Moqueca"
+related: [ingredients/brown-cardamom, ingredients/coconut-milk, ingredients/swampmonk-thigh, ingredients/turali-corn-oil, ingredients/yyasulani-garlic]
 tags: [food, cuisine]
 status: stable

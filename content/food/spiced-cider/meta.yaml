@@ -2,5 +2,6 @@ id: spiced-cider
 category: food
 type: dish
 dish: "Spiced Cider"
+related: [ingredients/cinnamon, ingredients/cloves, ingredients/golden-apple, ingredients/pearl-ginger, ingredients/vanilla-beans]
 tags: [food, cuisine]
 status: stable

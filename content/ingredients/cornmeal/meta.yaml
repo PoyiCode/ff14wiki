@@ -2,5 +2,6 @@ id: cornmeal
 category: ingredients
 type: ingredient
 ingredient: "Cornmeal"
+related: [food/cornbread, food/ishgardian-muffin]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: chicken-and-mushrooms
 category: food
 type: dish
 dish: "Chicken and Mushrooms"
+related: [ingredients/chicken-breast, ingredients/gil-bun, ingredients/smooth-butter, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

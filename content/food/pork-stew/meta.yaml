@@ -2,5 +2,6 @@ id: pork-stew
 category: food
 type: dish
 dish: "Pork Stew"
+related: [ingredients/daikon-radish, ingredients/fish-stock, ingredients/gyr-abanian-carrot, ingredients/koshu-pork, ingredients/oriental-miso-paste]
 tags: [food, cuisine]
 status: stable

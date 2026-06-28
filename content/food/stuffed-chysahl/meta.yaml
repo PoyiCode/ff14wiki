@@ -2,5 +2,6 @@ id: stuffed-chysahl
 category: food
 type: dish
 dish: "Stuffed Chysahl"
+related: [ingredients/abalathian-rock-salt, ingredients/chives, ingredients/chysahl-greens, ingredients/cream-cheese, ingredients/hollandaise-sauce, ingredients/okeanis-tail]
 tags: [food, cuisine]
 status: stable

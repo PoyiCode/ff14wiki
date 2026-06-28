@@ -2,5 +2,6 @@ id: gil-bun
 category: ingredients
 type: ingredient
 ingredient: "Gil Bun"
+related: [food/baked-sole, food/chicken-and-mushrooms, food/raptor-stew]
 tags: [ingredient, food, cooking]
 status: stable

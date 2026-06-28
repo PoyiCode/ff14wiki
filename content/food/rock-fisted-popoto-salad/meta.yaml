@@ -2,5 +2,6 @@ id: rock-fisted-popoto-salad
 category: food
 type: dish
 dish: "Rock-fisted Popoto Salad"
+related: [ingredients/carrot-of-happiness, ingredients/night-vinegar, ingredients/rock-fist-popoto, ingredients/turali-corn-oil, ingredients/white-pepper]
 tags: [food, cuisine]
 status: stable

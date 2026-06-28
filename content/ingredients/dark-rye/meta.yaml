@@ -2,5 +2,6 @@ id: dark-rye
 category: ingredients
 type: ingredient
 ingredient: "Dark Rye"
+related: [food/coffee-kukuru-rusks]
 tags: [ingredient, food, cooking]
 status: stable

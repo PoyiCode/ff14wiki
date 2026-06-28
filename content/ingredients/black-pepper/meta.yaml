@@ -2,5 +2,6 @@ id: black-pepper
 category: ingredients
 type: ingredient
 ingredient: "Black Pepper"
+related: [food/bacon-broth, food/beef-stew, food/dzemael-gratin, food/eel-pie, food/eft-steak, food/forest-miq-abob, food/haddock-dip, food/jerked-beef, food/jerked-jhammel, food/lentils-and-chestnuts, food/mole-loaf, food/orobon-stew, food/rabbit-pie, food/sausage-and-sauerkraut, food/shepherd-s-pie]
 tags: [ingredient, food, cooking]
 status: stable

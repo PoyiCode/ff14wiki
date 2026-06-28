@@ -2,5 +2,6 @@ id: trapper-s-quiche
 category: food
 type: dish
 dish: "Trapper's Quiche"
+related: [ingredients/apkallu-egg, ingredients/cream-cheese, ingredients/eft-tail, ingredients/midland-basil, ingredients/nutmeg, ingredients/pie-dough]
 tags: [food, cuisine]
 status: stable

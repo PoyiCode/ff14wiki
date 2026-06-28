@@ -2,5 +2,6 @@ id: secret-recipe-broth
 category: ingredients
 type: ingredient
 ingredient: "Secret Recipe Broth"
+related: [food/chawan-mushi, food/laghman, food/oden, food/tako-yaki]
 tags: [ingredient, food, cooking]
 status: stable

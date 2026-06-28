@@ -2,5 +2,6 @@ id: pumpkin-ratatouille
 category: food
 type: dish
 dish: "Pumpkin Ratatouille"
+related: [ingredients/blood-tomato, ingredients/cucumber, ingredients/garlean-garlic, ingredients/giant-pumpkin, ingredients/perilla-oil, ingredients/potent-spice]
 tags: [food, cuisine]
 status: stable

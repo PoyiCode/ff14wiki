@@ -2,5 +2,6 @@ id: priestly-omelette
 category: food
 type: dish
 dish: "Priestly Omelette"
+related: [ingredients/brown-mushroom, ingredients/heavensegg, ingredients/highland-parsley, ingredients/stone-cheese, ingredients/tomato-sauce, ingredients/white-truffle]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: dalamud-popoto
 category: ingredients
 type: ingredient
 ingredient: "Dalamud Popoto"
+related: [food/deep-fried-okeanis, food/haddock-dip, food/popoto-pancakes]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: grilled-dodo
 category: food
 type: dish
 dish: "Grilled Dodo"
+related: [ingredients/dodo-tenderloin, ingredients/garlean-garlic, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

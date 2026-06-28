@@ -2,5 +2,6 @@ id: landtrap-salad
 category: food
 type: dish
 dish: "Landtrap Salad"
+related: [ingredients/dzemael-tomato, ingredients/la-noscean-lettuce, ingredients/olive-oil, ingredients/table-salt, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

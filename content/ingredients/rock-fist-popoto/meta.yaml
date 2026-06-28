@@ -2,5 +2,6 @@ id: rock-fist-popoto
 category: ingredients
 type: ingredient
 ingredient: "Rock-fist Popoto"
+related: [food/rock-fisted-popoto-salad, food/rock-fisted-popoto-stew]
 tags: [ingredient, food, cooking]
 status: stable

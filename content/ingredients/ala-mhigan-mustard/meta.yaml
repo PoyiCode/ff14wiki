@@ -2,5 +2,6 @@ id: ala-mhigan-mustard
 category: ingredients
 type: ingredient
 ingredient: "Ala Mhigan Mustard"
+related: [food/deviled-eggs, food/mustard-eggs]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: carrot-pudding
 category: food
 type: dish
 dish: "Carrot Pudding"
+related: [ingredients/egg-of-elpis, ingredients/garden-beet-sugar, ingredients/ovibos-milk, ingredients/palm-sugar, ingredients/sunset-carrot]
 tags: [food, cuisine]
 status: stable

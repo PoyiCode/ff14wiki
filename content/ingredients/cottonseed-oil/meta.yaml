@@ -2,5 +2,6 @@ id: cottonseed-oil
 category: ingredients
 type: ingredient
 ingredient: "Cottonseed Oil"
+related: [food/crab-croquette, food/dzo-steak, food/lemon-waffle, food/papanasi, food/sauteed-green-leeks, food/steamed-grouper, food/steppe-salad, food/stewed-river-bream, food/sweet-and-sour-frogs-legs, food/tako-yaki, food/tempura-platter]
 tags: [ingredient, food, cooking]
 status: stable

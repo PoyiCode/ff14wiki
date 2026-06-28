@@ -2,5 +2,6 @@ id: alpaca-stew
 category: food
 type: dish
 dish: "Alpaca Stew"
+related: [ingredients/aji-amarillo, ingredients/alpaca-fillet, ingredients/cooking-mezcal, ingredients/giant-popoto, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

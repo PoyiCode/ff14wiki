@@ -2,5 +2,6 @@ id: egg-foo-young
 category: food
 type: dish
 dish: "Egg Foo Young"
+related: [ingredients/bamboo-shoot, ingredients/fish-stock, ingredients/gagana-egg, ingredients/kudzu-root, ingredients/shiitake-mushroom]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: jhammel-moussaka
 category: food
 type: dish
 dish: "Jhammel Moussaka"
+related: [ingredients/doman-eggplant, ingredients/gyr-abanian-flour, ingredients/jhammel-haunch, ingredients/mountain-popoto, ingredients/ramhorn-zucchini, ingredients/steppe-milk]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: bird-of-elpis-breast
 category: ingredients
 type: ingredient
 ingredient: "Bird of Elpis Breast"
+related: [food/broccoflower-stew, food/elpis-deipnon, food/maple-teriyaki]
 tags: [ingredient, food, cooking]
 status: stable

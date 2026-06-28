@@ -2,5 +2,6 @@ id: clam-cake
 category: food
 type: dish
 dish: "Clam Cake"
+related: [ingredients/alien-onion, ingredients/egg-of-elpis, ingredients/turali-corn-oil, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

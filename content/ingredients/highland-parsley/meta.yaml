@@ -2,5 +2,6 @@ id: highland-parsley
 category: ingredients
 type: ingredient
 ingredient: "Highland Parsley"
+related: [food/chilled-popoto-soup, food/deviled-eggs, food/dodo-omelette, food/fish-soup, food/imam-bayildi, food/oyster-confit, food/peperoncino, food/priestly-omelette, food/salmon-meuniere]
 tags: [ingredient, food, cooking]
 status: stable

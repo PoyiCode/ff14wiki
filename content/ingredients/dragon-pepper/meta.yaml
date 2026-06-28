@@ -2,5 +2,6 @@ id: dragon-pepper
 category: ingredients
 type: ingredient
 ingredient: "Dragon Pepper"
+related: [food/ema-datshi, food/jerked-jhammel, food/lava-toad-legs, food/peperoncino, food/rroneek-steak, food/sauerkraut, food/shakshouka, food/spaghetti-al-olio-e-peperoncino]
 tags: [ingredient, food, cooking]
 status: stable

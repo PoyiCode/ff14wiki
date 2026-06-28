@@ -2,5 +2,6 @@ id: jhammel-haunch
 category: ingredients
 type: ingredient
 ingredient: "Jhammel Haunch"
+related: [food/jerked-jhammel, food/jhammel-moussaka]
 tags: [ingredient, food, cooking]
 status: stable

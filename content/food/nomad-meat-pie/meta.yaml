@@ -2,5 +2,6 @@ id: nomad-meat-pie
 category: food
 type: dish
 dish: "Nomad Meat Pie"
+related: [ingredients/algae-salt, ingredients/cyclops-onion, ingredients/dzo-chuck, ingredients/gyr-abanian-flour, ingredients/oriental-soy-sauce, ingredients/sun-cabbage]
 tags: [food, cuisine]
 status: stable

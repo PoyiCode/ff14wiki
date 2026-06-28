@@ -2,5 +2,6 @@ id: mole-meat
 category: ingredients
 type: ingredient
 ingredient: "Mole Meat"
+related: [food/mole-loaf]
 tags: [ingredient, food, cooking]
 status: stable

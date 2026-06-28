@@ -2,5 +2,6 @@ id: lava-toad-legs
 category: food
 type: dish
 dish: "Lava Toad Legs"
+related: [ingredients/allagan-snail, ingredients/dragon-pepper, ingredients/lava-toad, ingredients/midland-basil, ingredients/sunset-wheat-flour, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

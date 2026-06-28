@@ -2,5 +2,6 @@ id: royal-kukuru-bean
 category: ingredients
 type: ingredient
 ingredient: "Royal Kukuru Bean"
+related: [food/lemon-curd-sachertorte, food/sachertorte]
 tags: [ingredient, food, cooking]
 status: stable

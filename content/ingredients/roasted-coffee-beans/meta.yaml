@@ -2,5 +2,6 @@ id: roasted-coffee-beans
 category: ingredients
 type: ingredient
 ingredient: "Roasted Coffee Beans"
+related: [food/triple-cream-coffee]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: tree-toad-legs
 category: food
 type: dish
 dish: "Tree Toad Legs"
+related: [ingredients/allagan-snail, ingredients/garlean-garlic, ingredients/smooth-butter, ingredients/sunset-wheat-flour, ingredients/tree-toad]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: glory-be-soup
 category: food
 type: dish
 dish: "Glory Be Soup"
+related: [ingredients/eblan-lentils, ingredients/gridanian-chestnut, ingredients/night-pepper, ingredients/peppermint, ingredients/perilla-oil]
 tags: [food, cuisine]
 status: stable

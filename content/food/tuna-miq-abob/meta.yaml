@@ -2,5 +2,6 @@ id: tuna-miq-abob
 category: food
 type: dish
 dish: "Tuna Miq'abob"
+related: [ingredients/midland-basil, ingredients/olive-oil, ingredients/sun-lemon, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

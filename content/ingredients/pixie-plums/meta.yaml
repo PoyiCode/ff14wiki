@@ -2,5 +2,6 @@ id: pixie-plums
 category: ingredients
 type: ingredient
 ingredient: "Pixie Plums"
+related: [food/dried-plums]
 tags: [ingredient, food, cooking]
 status: stable

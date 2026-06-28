@@ -2,5 +2,6 @@ id: grilled-trout
 category: food
 type: dish
 dish: "Grilled Trout"
+related: [ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

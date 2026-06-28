@@ -2,5 +2,6 @@ id: ukha
 category: food
 type: dish
 dish: "Ukha"
+related: [ingredients/northern-sea-salt, ingredients/russet-popoto, ingredients/solstice-garlic]
 tags: [food, cuisine]
 status: stable

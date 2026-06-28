@@ -6,3 +6,5 @@ summary: "A dish of Eorzea."
 **Quahog Chowder** is a dish residents cook and eat — served at taverns and home tables across Eorzea. In-game name: Quahog Chowder.
 
 An indulgently creamy soup brimming with succulent clams.
+
+Ingredients used: Giant Popoto, Mountain Salt, Ovibos Milk, Upland Wheat Flour

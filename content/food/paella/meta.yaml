@@ -2,5 +2,6 @@ id: paella
 category: food
 type: dish
 dish: "Paella"
+related: [ingredients/bomba-rice, ingredients/frantoio-oil, ingredients/heavens-lemon, ingredients/paprika]
 tags: [food, cuisine]
 status: stable

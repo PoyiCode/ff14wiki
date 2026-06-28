@@ -2,5 +2,6 @@ id: pineapple-juice
 category: food
 type: dish
 dish: "Pineapple Juice"
+related: [ingredients/prickly-pineapple]
 tags: [food, cuisine]
 status: stable

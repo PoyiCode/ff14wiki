@@ -2,5 +2,6 @@ id: sweet-and-sour-frogs-legs
 category: food
 type: dish
 dish: "Sweet and Sour Frogs' Legs"
+related: [ingredients/beet-sugar, ingredients/cottonseed-oil, ingredients/gyr-abanian-flour, ingredients/kudzu-root, ingredients/rice-vinegar]
 tags: [food, cuisine]
 status: stable

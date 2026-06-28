@@ -2,5 +2,6 @@ id: creamy-alpaca-pasta
 category: food
 type: dish
 dish: "Creamy Alpaca Pasta"
+related: [ingredients/alpaca-fillet, ingredients/broccoli, ingredients/dark-rye-flour, ingredients/egg-of-elpis, ingredients/frantoio-oil, ingredients/whipped-cream]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: meat-miq-abob
 category: food
 type: dish
 dish: "Meat Miq'abob"
+related: [ingredients/dodo-tenderloin, ingredients/paprika, ingredients/ruby-tomato, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

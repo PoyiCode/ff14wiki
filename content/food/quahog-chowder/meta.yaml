@@ -2,5 +2,6 @@ id: quahog-chowder
 category: food
 type: dish
 dish: "Quahog Chowder"
+related: [ingredients/giant-popoto, ingredients/mountain-salt, ingredients/ovibos-milk, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

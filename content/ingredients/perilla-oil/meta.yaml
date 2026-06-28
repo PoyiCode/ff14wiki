@@ -2,5 +2,6 @@ id: perilla-oil
 category: ingredients
 type: ingredient
 ingredient: "Perilla Oil"
+related: [food/all-i-pebre, food/baba-ghanoush, food/beef-stroganoff, food/calamari-ripieni, food/giant-haddock-dip, food/glory-be-soup, food/ground-woolback-steak, food/island-miq-abob, food/jhinga-biryani, food/jhinga-curry, food/kalamarakia-tiganita, food/karniyarik, food/king-crab-cake, food/loaghtan-rump-steak, food/marinated-broccoflower]
 tags: [ingredient, food, cooking]
 status: stable

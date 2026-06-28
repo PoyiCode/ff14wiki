@@ -2,5 +2,6 @@ id: hamsa-tenderloin
 category: ingredients
 type: ingredient
 ingredient: "Hamsa Tenderloin"
+related: [food/hamsa-curry, food/island-miq-abob, food/karniyarik]
 tags: [ingredient, food, cooking]
 status: stable

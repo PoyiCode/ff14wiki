@@ -2,5 +2,6 @@ id: megalocrab-leg
 category: ingredients
 type: ingredient
 ingredient: "Megalocrab Leg"
+related: [food/stuffed-artichoke]
 tags: [ingredient, food, cooking]
 status: stable

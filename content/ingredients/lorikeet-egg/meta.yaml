@@ -2,5 +2,6 @@ id: lorikeet-egg
 category: ingredients
 type: ingredient
 ingredient: "Lorikeet Egg"
+related: [food/crab-cakes, food/king-crab-cake, food/lemon-muffin, food/lemon-waffle, food/mist-spinach-quiche, food/nut-bake, food/popoto-salad, food/robe-lettuce-salad, food/twilight-popoto-salad, food/zefir]
 tags: [ingredient, food, cooking]
 status: stable

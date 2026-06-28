@@ -2,5 +2,6 @@ id: mist-spinach-quiche
 category: food
 type: dish
 dish: "Mist Spinach Quiche"
+related: [ingredients/lorikeet-egg, ingredients/mist-spinach, ingredients/mozzarella, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

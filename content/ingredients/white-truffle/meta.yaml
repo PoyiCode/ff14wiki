@@ -2,5 +2,6 @@ id: white-truffle
 category: ingredients
 type: ingredient
 ingredient: "White Truffle"
+related: [food/priestly-omelette, food/scrambled-eggs]
 tags: [ingredient, food, cooking]
 status: stable

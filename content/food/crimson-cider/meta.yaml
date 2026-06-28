@@ -2,5 +2,6 @@ id: crimson-cider
 category: food
 type: dish
 dish: "Crimson Cider"
+related: [ingredients/crimson-pepper, ingredients/cumin-seeds, ingredients/jhammel-ginger, ingredients/kudzu-root, ingredients/loquat]
 tags: [food, cuisine]
 status: stable

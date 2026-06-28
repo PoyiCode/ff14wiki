@@ -2,5 +2,6 @@ id: splendid-mate-leaves
 category: ingredients
 type: ingredient
 ingredient: "Splendid Mate Leaves"
+related: [food/mate-cookie, food/sweet-maple-mate]
 tags: [ingredient, food, cooking]
 status: stable

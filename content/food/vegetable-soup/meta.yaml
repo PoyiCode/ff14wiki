@@ -2,5 +2,6 @@ id: vegetable-soup
 category: food
 type: dish
 dish: "Vegetable Soup"
+related: [ingredients/alien-onion, ingredients/broccoli, ingredients/carrot-of-happiness, ingredients/giant-popoto, ingredients/mountain-salt, ingredients/yyasulani-garlic]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: alien-onion
 category: ingredients
 type: ingredient
 ingredient: "Alien Onion"
+related: [food/archon-burger, food/baked-alien-soup, food/calamari-ripieni, food/caviar-canapes, food/clam-cake, food/elpis-deipnon, food/garlean-pizza, food/ground-woolback-steak, food/marinated-broccoflower, food/nachos, food/philosopher-s-sandwich, food/popoto-potage, food/pumpkin-potage, food/rroneek-au-gratin, food/scallop-salad]
 tags: [ingredient, food, cooking]
 status: stable

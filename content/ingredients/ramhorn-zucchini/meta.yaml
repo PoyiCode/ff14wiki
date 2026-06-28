@@ -2,5 +2,6 @@ id: ramhorn-zucchini
 category: ingredients
 type: ingredient
 ingredient: "Ramhorn Zucchini"
+related: [food/dhalmel-gratin, food/jhammel-moussaka, food/mushroom-skewer, food/pasta-ortolano, food/popoto-salad, food/ratatouille, food/twilight-popoto-salad]
 tags: [ingredient, food, cooking]
 status: stable

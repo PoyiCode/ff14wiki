@@ -2,5 +2,6 @@ id: loquat-juice
 category: food
 type: dish
 dish: "Loquat Juice"
+related: [ingredients/heavens-lemon, ingredients/honey, ingredients/loquat]
 tags: [food, cuisine]
 status: stable

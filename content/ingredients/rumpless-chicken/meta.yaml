@@ -2,5 +2,6 @@ id: rumpless-chicken
 category: ingredients
 type: ingredient
 ingredient: "Rumpless Chicken"
+related: [food/chicken-pasta, food/roast-chicken]
 tags: [ingredient, food, cooking]
 status: stable

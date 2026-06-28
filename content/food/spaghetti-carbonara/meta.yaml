@@ -2,5 +2,6 @@ id: spaghetti-carbonara
 category: food
 type: dish
 dish: "Spaghetti Carbonara"
+related: [ingredients/black-pepper, ingredients/heavensegg, ingredients/smoked-bacon, ingredients/stone-cheese, ingredients/sweet-cream, ingredients/vermicelli]
 tags: [food, cuisine]
 status: stable

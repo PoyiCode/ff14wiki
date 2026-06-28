@@ -2,5 +2,6 @@ id: maiden-artichoke
 category: ingredients
 type: ingredient
 ingredient: "Maiden Artichoke"
+related: [food/stuffed-artichoke]
 tags: [ingredient, food, cooking]
 status: stable

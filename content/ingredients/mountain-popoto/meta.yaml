@@ -2,5 +2,6 @@ id: mountain-popoto
 category: ingredients
 type: ingredient
 ingredient: "Mountain Popoto"
+related: [food/crab-croquette, food/fish-stew, food/jhammel-moussaka, food/oden, food/popoto-soba, food/warrior-s-stew]
 tags: [ingredient, food, cooking]
 status: stable

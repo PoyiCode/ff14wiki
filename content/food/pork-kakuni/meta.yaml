@@ -2,5 +2,6 @@ id: pork-kakuni
 category: food
 type: dish
 dish: "Pork Kakuni"
+related: [ingredients/cooking-sake, ingredients/fennel, ingredients/jhammel-ginger, ingredients/koshu-pork, ingredients/oriental-soy-sauce]
 tags: [food, cuisine]
 status: stable

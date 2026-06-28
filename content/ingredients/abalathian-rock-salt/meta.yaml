@@ -2,5 +2,6 @@ id: abalathian-rock-salt
 category: ingredients
 type: ingredient
 ingredient: "Abalathian Rock Salt"
+related: [food/baked-pipira-pira, food/beet-soup, food/clam-chowder, food/cockatrice-meatballs, food/deep-fried-okeanis, food/emerald-soup, food/grilled-platinum-bream, food/grilled-rail, food/loaghtan-cordon-bleu, food/loaghtan-steak, food/mushroom-saute, food/mushroom-skewer, food/peppered-popotoes, food/steamed-staff, food/stuffed-chysahl]
 tags: [ingredient, food, cooking]
 status: stable

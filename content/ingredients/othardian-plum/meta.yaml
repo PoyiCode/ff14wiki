@@ -2,5 +2,6 @@ id: othardian-plum
 category: ingredients
 type: ingredient
 ingredient: "Othardian Plum"
+related: [food/jellied-compote]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: turali-aloe
 category: ingredients
 type: ingredient
 ingredient: "Turali Aloe"
+related: [food/banana-ponzecake, food/fruit-and-aloe-jelly, food/tart-turali-tart]
 tags: [ingredient, food, cooking]
 status: stable

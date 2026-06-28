@@ -2,5 +2,6 @@ id: wild-banana-blend
 category: food
 type: dish
 dish: "Wild Banana Blend"
+related: [ingredients/branchbearer-fruit, ingredients/ovibos-milk, ingredients/palm-sugar, ingredients/wild-ja-tiika-bananas]
 tags: [food, cuisine]
 status: stable

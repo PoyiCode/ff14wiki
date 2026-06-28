@@ -2,5 +2,6 @@ id: mugwort-carp
 category: food
 type: dish
 dish: "Mugwort Carp"
+related: [ingredients/mugwort, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

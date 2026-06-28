@@ -2,5 +2,6 @@ id: tsai-tou-vounou
 category: food
 type: dish
 dish: "Tsai tou Vounou"
+related: [ingredients/cinnamon, ingredients/lemonette, ingredients/palm-sugar, ingredients/sideritis-leaves]
 tags: [food, cuisine]
 status: stable

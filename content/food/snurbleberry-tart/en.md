@@ -6,3 +6,5 @@ summary: "A dish of Eorzea."
 **Snurbleberry Tart** is a dish residents cook and eat — served at taverns and home tables across Eorzea. In-game name: Snurbleberry Tart.
 
 A colorful tart made with blood red snurbleberries.
+
+Ingredients used: Birch Syrup, Fermented Butter, Gelatin, Pie Dough, Snurbleberry

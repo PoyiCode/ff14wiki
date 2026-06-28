@@ -2,5 +2,6 @@ id: stone-soup
 category: food
 type: dish
 dish: "Stone Soup"
+related: [ingredients/coerthan-carrot, ingredients/mineral-water, ingredients/popoto, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

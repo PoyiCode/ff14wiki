@@ -2,5 +2,6 @@ id: sykon-bavarois
 category: food
 type: dish
 dish: "Sykon Bavarois"
+related: [ingredients/gelatin, ingredients/lemonette, ingredients/ovibos-milk, ingredients/palm-sugar, ingredients/sykon]
 tags: [food, cuisine]
 status: stable

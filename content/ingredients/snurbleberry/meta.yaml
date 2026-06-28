@@ -2,5 +2,6 @@ id: snurbleberry
 category: ingredients
 type: ingredient
 ingredient: "Snurbleberry"
+related: [food/snurbleberry-tart]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: boiled-amberjack-head
 category: food
 type: dish
 dish: "Boiled Amberjack Head"
+related: [ingredients/beet-sugar, ingredients/daikon-radish, ingredients/jhammel-ginger, ingredients/oriental-soy-sauce, ingredients/ruby-tide-kelp]
 tags: [food, cuisine]
 status: stable

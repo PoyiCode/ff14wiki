@@ -2,5 +2,6 @@ id: dhalmel-meat
 category: ingredients
 type: ingredient
 ingredient: "Dhalmel Meat"
+related: [food/dhalmel-fricassee, food/dhalmel-gratin]
 tags: [ingredient, food, cooking]
 status: stable

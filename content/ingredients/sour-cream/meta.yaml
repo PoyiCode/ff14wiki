@@ -2,5 +2,6 @@ id: sour-cream
 category: ingredients
 type: ingredient
 ingredient: "Sour Cream"
+related: [food/beet-soup, food/caramels, food/dhalmel-fricassee, food/dhalmel-gratin, food/espresso-con-panna, food/king-urchin-loaf, food/lemon-curd-sachertorte, food/papanasi, food/pixieberry-cheesecake, food/spicy-stellar-soup, food/urchin-loaf]
 tags: [ingredient, food, cooking]
 status: stable

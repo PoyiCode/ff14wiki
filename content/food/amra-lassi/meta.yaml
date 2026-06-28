@@ -2,5 +2,6 @@ id: amra-lassi
 category: food
 type: dish
 dish: "Amra Lassi"
+related: [ingredients/amra, ingredients/ovibos-milk, ingredients/palm-sugar, ingredients/peppermint]
 tags: [food, cuisine]
 status: stable

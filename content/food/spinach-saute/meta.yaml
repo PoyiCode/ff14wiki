@@ -2,5 +2,6 @@ id: spinach-saute
 category: food
 type: dish
 dish: "Spinach Saute"
+related: [ingredients/button-mushroom, ingredients/cieldalaes-spinach, ingredients/mineral-water, ingredients/smooth-butter, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

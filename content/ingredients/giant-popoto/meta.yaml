@@ -2,5 +2,6 @@ id: giant-popoto
 category: ingredients
 type: ingredient
 ingredient: "Giant Popoto"
+related: [food/all-i-pebre, food/alpaca-stew, food/baked-eggplant, food/beef-stroganoff, food/giant-haddock-dip, food/giant-popoto-pancakes, food/goldentail-pie, food/lomo-saltado, food/mesquite-soup, food/popoto-potage, food/quahog-chowder, food/vegetable-soup, food/yakow-moussaka]
 tags: [ingredient, food, cooking]
 status: stable

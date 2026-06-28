@@ -2,5 +2,6 @@ id: bell-pepper
 category: ingredients
 type: ingredient
 ingredient: "Bell Pepper"
+related: [food/broccoli-and-spinach-saute, food/mollete, food/stuffed-peppers]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: happiness-juice
 category: food
 type: dish
 dish: "Happiness Juice"
+related: [ingredients/carrot-of-happiness, ingredients/iceberg-lettuce, ingredients/peppermint]
 tags: [food, cuisine]
 status: stable

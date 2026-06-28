@@ -2,5 +2,6 @@ id: okeanis-egg
 category: ingredients
 type: ingredient
 ingredient: "Okeanis Egg"
+related: [food/creme-brulee, food/kingcake, food/royal-eggs, food/urchin-loaf]
 tags: [ingredient, food, cooking]
 status: stable

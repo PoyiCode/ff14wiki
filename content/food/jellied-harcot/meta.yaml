@@ -2,5 +2,6 @@ id: jellied-harcot
 category: food
 type: dish
 dish: "Jellied Harcot"
+related: [ingredients/garden-beet-sugar, ingredients/gelatin, ingredients/harcot, ingredients/lemonette]
 tags: [food, cuisine]
 status: stable

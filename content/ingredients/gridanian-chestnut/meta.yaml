@@ -2,5 +2,6 @@ id: gridanian-chestnut
 category: ingredients
 type: ingredient
 ingredient: "Gridanian Chestnut"
+related: [food/glory-be-soup, food/lentils-and-chestnuts]
 tags: [ingredient, food, cooking]
 status: stable

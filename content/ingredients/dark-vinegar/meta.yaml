@@ -2,5 +2,6 @@ id: dark-vinegar
 category: ingredients
 type: ingredient
 ingredient: "Dark Vinegar"
+related: [food/alligator-salad]
 tags: [ingredient, food, cooking]
 status: stable

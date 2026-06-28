@@ -2,5 +2,6 @@ id: prickly-pineapple
 category: ingredients
 type: ingredient
 ingredient: "Prickly Pineapple"
+related: [food/pineapple-juice, food/pineapple-ponzecake]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: robe-lettuce-salad
 category: food
 type: dish
 dish: "Robe Lettuce Salad"
+related: [ingredients/blood-tomato, ingredients/fennel, ingredients/frantoio-oil, ingredients/lorikeet-egg, ingredients/mist-spinach, ingredients/robe-lettuce]
 tags: [food, cuisine]
 status: stable

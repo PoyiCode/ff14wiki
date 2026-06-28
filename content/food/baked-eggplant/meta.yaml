@@ -2,5 +2,6 @@ id: baked-eggplant
 category: food
 type: dish
 dish: "Baked Eggplant"
+related: [ingredients/blood-tomato, ingredients/dark-eggplant, ingredients/frantoio-oil, ingredients/garlean-cheese, ingredients/giant-popoto]
 tags: [food, cuisine]
 status: stable

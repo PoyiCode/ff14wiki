@@ -2,5 +2,6 @@ id: shark-fin-soup
 category: food
 type: dish
 dish: "Shark Fin Soup"
+related: [ingredients/la-noscean-leek, ingredients/pearl-ginger, ingredients/star-anise]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: baked-pipira-pira
 category: food
 type: dish
 dish: "Baked Pipira Pira"
+related: [ingredients/abalathian-rock-salt, ingredients/fermented-butter, ingredients/porcini]
 tags: [food, cuisine]
 status: stable

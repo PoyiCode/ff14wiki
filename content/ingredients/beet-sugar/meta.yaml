@@ -2,5 +2,6 @@ id: beet-sugar
 category: ingredients
 type: ingredient
 ingredient: "Beet Sugar"
+related: [food/boiled-amberjack-head, food/doman-tea, food/jellied-compote, food/konpeito, food/miso-dengaku, food/persimmon-pudding, food/sweet-and-sour-frogs-legs]
 tags: [ingredient, food, cooking]
 status: stable

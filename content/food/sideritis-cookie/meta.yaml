@@ -2,5 +2,6 @@ id: sideritis-cookie
 category: food
 type: dish
 dish: "Sideritis Cookie"
+related: [ingredients/dark-rye-flour, ingredients/egg-of-elpis, ingredients/fermented-butter, ingredients/palm-sugar, ingredients/sideritis-leaves]
 tags: [food, cuisine]
 status: stable

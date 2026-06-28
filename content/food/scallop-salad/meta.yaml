@@ -2,5 +2,6 @@ id: scallop-salad
 category: food
 type: dish
 dish: "Scallop Salad"
+related: [ingredients/alien-onion, ingredients/iceberg-lettuce, ingredients/perilla-oil, ingredients/potent-spice, ingredients/thavnairian-paprika]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: apkallu-omelette
 category: food
 type: dish
 dish: "Apkallu Omelette"
+related: [ingredients/apkallu-egg, ingredients/black-truffle, ingredients/mineral-water, ingredients/smooth-butter, ingredients/sweet-cream, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

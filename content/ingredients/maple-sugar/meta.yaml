@@ -2,5 +2,6 @@ id: maple-sugar
 category: ingredients
 type: ingredient
 ingredient: "Maple Sugar"
+related: [food/apple-tart, food/blood-currant-tart, food/bubble-chocolate, food/crowned-pie, food/dark-pretzel, food/fig-bavarois, food/ginger-cookie, food/ishgardian-tea, food/pearl-chocolate, food/sohm-al-tart, food/steamed-catfish, food/triple-cream-coffee]
 tags: [ingredient, food, cooking]
 status: stable

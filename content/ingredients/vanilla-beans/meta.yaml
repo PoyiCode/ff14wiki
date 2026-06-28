@@ -2,5 +2,6 @@ id: vanilla-beans
 category: ingredients
 type: ingredient
 ingredient: "Vanilla Beans"
+related: [food/apple-strudel, food/creme-brulee, food/spiced-cider]
 tags: [ingredient, food, cooking]
 status: stable

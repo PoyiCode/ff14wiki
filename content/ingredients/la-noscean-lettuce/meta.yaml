@@ -2,5 +2,6 @@ id: la-noscean-lettuce
 category: ingredients
 type: ingredient
 ingredient: "La Noscean Lettuce"
+related: [food/blood-tomato-salad, food/broad-bean-salad, food/finger-sandwich, food/ginger-salad, food/landtrap-salad, food/morel-salad, food/parsnip-salad, food/pineapple-salad]
 tags: [ingredient, food, cooking]
 status: stable

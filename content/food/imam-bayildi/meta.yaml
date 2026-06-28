@@ -2,5 +2,6 @@ id: imam-bayildi
 category: food
 type: dish
 dish: "Imam Bayildi"
+related: [ingredients/crimson-pepper, ingredients/cyclops-onion, ingredients/doman-eggplant, ingredients/dzemael-tomato, ingredients/gyr-abanian-carrot, ingredients/highland-parsley]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: night-milk
 category: ingredients
 type: ingredient
 ingredient: "Night Milk"
+related: [food/bacon-bread, food/cheese-souffle, food/pineapple-ponzecake, food/rolanberry-lassi]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: dragonfruit-blend
 category: food
 type: dish
 dish: "Dragonfruit Blend"
+related: [ingredients/cloud-banana, ingredients/coconut-milk, ingredients/dragonfruit, ingredients/garden-beet-sugar, ingredients/ovibos-milk]
 tags: [food, cuisine]
 status: stable

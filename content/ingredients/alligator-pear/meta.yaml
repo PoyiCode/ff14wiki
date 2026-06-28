@@ -2,5 +2,6 @@ id: alligator-pear
 category: ingredients
 type: ingredient
 ingredient: "Alligator Pear"
+related: [food/alligator-salad, food/caviar-sandwich, food/salmon-muffin]
 tags: [ingredient, food, cooking]
 status: stable

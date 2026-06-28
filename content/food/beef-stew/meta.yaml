@@ -2,5 +2,6 @@ id: beef-stew
 category: food
 type: dish
 dish: "Beef Stew"
+related: [ingredients/black-pepper, ingredients/buffalo-sirloin, ingredients/mineral-water, ingredients/sour-red, ingredients/sunset-wheat-flour, ingredients/wild-onion]
 tags: [food, cuisine]
 status: stable

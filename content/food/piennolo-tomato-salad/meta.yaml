@@ -2,5 +2,6 @@ id: piennolo-tomato-salad
 category: food
 type: dish
 dish: "Piennolo Tomato Salad"
+related: [ingredients/iceberg-lettuce, ingredients/night-vinegar, ingredients/perilla-oil, ingredients/piennolo-tomato, ingredients/thavnairian-paprika]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: dark-rye-flour
 category: ingredients
 type: ingredient
 ingredient: "Dark Rye Flour"
+related: [food/archon-burger, food/archon-loaf, food/creamy-alpaca-pasta, food/elpis-deipnon, food/kalamarakia-tiganita, food/maple-teriyaki, food/mate-cookie, food/melon-pie, food/peach-tart, food/philosopher-s-sandwich, food/prune-packed-fruitcake, food/sideritis-cookie, food/sweetmuffin, food/sykon-cookie, food/tacos-al-pastor]
 tags: [ingredient, food, cooking]
 status: stable

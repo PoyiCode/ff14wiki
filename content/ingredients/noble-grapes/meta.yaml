@@ -2,5 +2,6 @@ id: noble-grapes
 category: ingredients
 type: ingredient
 ingredient: "Noble Grapes"
+related: [food/grape-juice]
 tags: [ingredient, food, cooking]
 status: stable

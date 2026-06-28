@@ -2,5 +2,6 @@ id: raisins
 category: food
 type: dish
 dish: "Raisins"
+related: [ingredients/lowland-grapes]
 tags: [food, cuisine]
 status: stable

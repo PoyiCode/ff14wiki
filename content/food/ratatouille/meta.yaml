@@ -2,5 +2,6 @@ id: ratatouille
 category: food
 type: dish
 dish: "Ratatouille"
+related: [ingredients/garlean-garlic, ingredients/laurel, ingredients/lavender-oil, ingredients/ramhorn-zucchini, ingredients/ruby-tomato, ingredients/wizard-eggplant]
 tags: [food, cuisine]
 status: stable

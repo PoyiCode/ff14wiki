@@ -2,5 +2,6 @@ id: royal-eggs
 category: food
 type: dish
 dish: "Royal Eggs"
+related: [ingredients/hollandaise-sauce, ingredients/okeanis-egg]
 tags: [food, cuisine]
 status: stable

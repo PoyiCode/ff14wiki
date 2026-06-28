@@ -2,5 +2,6 @@ id: solstice-garlic
 category: ingredients
 type: ingredient
 ingredient: "Solstice Garlic"
+related: [food/angler-stew, food/giant-haddock-dip, food/grilled-rail, food/pasta-ortolano, food/peperoncino, food/sauteed-green-leeks, food/spaghetti-pescatore, food/ukha]
 tags: [ingredient, food, cooking]
 status: stable

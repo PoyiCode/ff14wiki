@@ -2,5 +2,6 @@ id: puk-egg
 category: ingredients
 type: ingredient
 ingredient: "Puk Egg"
+related: [food/fried-egg, food/scrambled-eggs]
 tags: [ingredient, food, cooking]
 status: stable

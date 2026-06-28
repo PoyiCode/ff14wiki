@@ -2,5 +2,6 @@ id: swampmonk-thigh
 category: ingredients
 type: ingredient
 ingredient: "Swampmonk Thigh"
+related: [food/mezcal-marinated-swampmonk, food/moqueca]
 tags: [ingredient, food, cooking]
 status: stable

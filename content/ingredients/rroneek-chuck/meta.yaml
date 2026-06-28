@@ -2,5 +2,6 @@ id: rroneek-chuck
 category: ingredients
 type: ingredient
 ingredient: "Rroneek Chuck"
+related: [food/churrasco, food/lomo-saltado, food/roast-rroneek, food/rroneek-steak, food/tacos-de-carne-asada]
 tags: [ingredient, food, cooking]
 status: stable

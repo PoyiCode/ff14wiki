@@ -2,5 +2,6 @@ id: pumpkin-potage
 category: food
 type: dish
 dish: "Pumpkin Potage"
+related: [ingredients/alien-onion, ingredients/giant-pumpkin, ingredients/northern-sea-salt, ingredients/ovibos-milk, ingredients/potent-spice]
 tags: [food, cuisine]
 status: stable

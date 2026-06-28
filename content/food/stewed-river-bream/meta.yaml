@@ -2,5 +2,6 @@ id: stewed-river-bream
 category: food
 type: dish
 dish: "Stewed River Bream"
+related: [ingredients/cottonseed-oil, ingredients/doman-eggplant, ingredients/kudzu-root, ingredients/sun-cabbage]
 tags: [food, cuisine]
 status: stable

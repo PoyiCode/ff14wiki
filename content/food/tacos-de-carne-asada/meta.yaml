@@ -2,5 +2,6 @@ id: tacos-de-carne-asada
 category: food
 type: dish
 dish: "Tacos de Carne Asada"
+related: [ingredients/alien-onion, ingredients/dark-rye-flour, ingredients/rroneek-chuck, ingredients/thavnairian-paprika, ingredients/white-pepper, ingredients/yyasulani-garlic]
 tags: [food, cuisine]
 status: stable

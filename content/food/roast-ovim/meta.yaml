@@ -2,5 +2,6 @@ id: roast-ovim
 category: food
 type: dish
 dish: "Roast Ovim"
+related: [ingredients/night-pepper, ingredients/night-vinegar, ingredients/ovim-meat, ingredients/russet-popoto, ingredients/smooth-butter]
 tags: [food, cuisine]
 status: stable

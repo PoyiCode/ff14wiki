@@ -2,5 +2,6 @@ id: lowland-grapes
 category: ingredients
 type: ingredient
 ingredient: "Lowland Grapes"
+related: [food/raisins]
 tags: [ingredient, food, cooking]
 status: stable

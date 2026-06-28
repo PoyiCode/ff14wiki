@@ -2,5 +2,6 @@ id: archon-burger
 category: food
 type: dish
 dish: "Archon Burger"
+related: [ingredients/alien-onion, ingredients/butterbeef, ingredients/dark-rye-flour, ingredients/iceberg-lettuce, ingredients/ovibos-milk, ingredients/potent-spice]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: goldentail-pie
 category: food
 type: dish
 dish: "Goldentail Pie"
+related: [ingredients/giant-popoto, ingredients/upland-wheat-flour, ingredients/ut-ohmu-chili-sauce, ingredients/white-pepper]
 tags: [food, cuisine]
 status: stable

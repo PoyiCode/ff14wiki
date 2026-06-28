@@ -2,5 +2,6 @@ id: sesame-cookie
 category: food
 type: dish
 dish: "Sesame Cookie"
+related: [ingredients/gastornis-egg, ingredients/highland-flour, ingredients/honey, ingredients/sesame-seeds]
 tags: [food, cuisine]
 status: stable

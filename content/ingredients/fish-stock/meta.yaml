@@ -2,5 +2,6 @@ id: fish-stock
 category: ingredients
 type: ingredient
 ingredient: "Fish Stock"
+related: [food/egg-foo-young, food/miso-soup-with-tofu, food/popoto-soba, food/pork-stew]
 tags: [ingredient, food, cooking]
 status: stable

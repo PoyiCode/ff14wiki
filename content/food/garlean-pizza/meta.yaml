@@ -2,5 +2,6 @@ id: garlean-pizza
 category: food
 type: dish
 dish: "Garlean Pizza"
+related: [ingredients/alien-onion, ingredients/garlean-cheese, ingredients/midland-basil, ingredients/piennolo-tomato, ingredients/upland-wheat-flour]
 tags: [food, cuisine]
 status: stable

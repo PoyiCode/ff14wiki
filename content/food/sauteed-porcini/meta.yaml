@@ -2,5 +2,6 @@ id: sauteed-porcini
 category: food
 type: dish
 dish: "Sauteed Porcini"
+related: [ingredients/fermented-butter, ingredients/garlean-garlic, ingredients/porcini, ingredients/sagolii-sage]
 tags: [food, cuisine]
 status: stable

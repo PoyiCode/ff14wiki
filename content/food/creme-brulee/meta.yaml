@@ -2,5 +2,6 @@ id: creme-brulee
 category: food
 type: dish
 dish: "Creme Brulee"
+related: [ingredients/birch-syrup, ingredients/okeanis-egg, ingredients/vanilla-beans, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

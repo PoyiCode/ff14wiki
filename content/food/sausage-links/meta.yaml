@@ -2,5 +2,6 @@ id: sausage-links
 category: food
 type: dish
 dish: "Sausage Links"
+related: [ingredients/garden-beet-sugar, ingredients/night-pepper, ingredients/ovim-meat, ingredients/sheep-casings, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

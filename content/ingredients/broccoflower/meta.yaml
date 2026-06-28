@@ -2,5 +2,6 @@ id: broccoflower
 category: ingredients
 type: ingredient
 ingredient: "Broccoflower"
+related: [food/broccoflower-stew, food/marinated-broccoflower]
 tags: [ingredient, food, cooking]
 status: stable

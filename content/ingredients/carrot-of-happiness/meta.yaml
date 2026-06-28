@@ -2,5 +2,6 @@ id: carrot-of-happiness
 category: ingredients
 type: ingredient
 ingredient: "Carrot of Happiness"
+related: [food/broccoflower-stew, food/carrot-nibbles, food/coconut-cod-chowder, food/hamsa-curry, food/happiness-juice, food/lentil-curry, food/lobster-bisque, food/rock-fisted-popoto-salad, food/spicy-stellar-soup, food/vegetable-soup]
 tags: [ingredient, food, cooking]
 status: stable

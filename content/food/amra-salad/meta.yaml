@@ -2,5 +2,6 @@ id: amra-salad
 category: food
 type: dish
 dish: "Amra Salad"
+related: [ingredients/amra, ingredients/blood-tomato, ingredients/iceberg-lettuce, ingredients/thavnairian-paprika]
 tags: [food, cuisine]
 status: stable

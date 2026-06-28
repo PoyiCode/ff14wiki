@@ -2,5 +2,6 @@ id: lomo-saltado
 category: food
 type: dish
 dish: "Lomo Saltado"
+related: [ingredients/aji-amarillo, ingredients/giant-popoto, ingredients/night-vinegar, ingredients/rroneek-chuck, ingredients/turali-corn-oil]
 tags: [food, cuisine]
 status: stable

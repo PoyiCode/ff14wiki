@@ -2,5 +2,6 @@ id: maple-syrup
 category: ingredients
 type: ingredient
 ingredient: "Maple Syrup"
+related: [food/cheese-souffle, food/crumpet, food/jack-o-lantern, food/la-noscean-toast, food/pineapple-ponzecake, food/rolanberry-shaved-ice]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: tempura-platter
 category: food
 type: dish
 dish: "Tempura Platter"
+related: [ingredients/cottonseed-oil, ingredients/gagana-egg, ingredients/gyr-abanian-flour, ingredients/lotus-root]
 tags: [food, cuisine]
 status: stable

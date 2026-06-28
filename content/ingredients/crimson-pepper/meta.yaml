@@ -2,5 +2,6 @@ id: crimson-pepper
 category: ingredients
 type: ingredient
 ingredient: "Crimson Pepper"
+related: [food/crimson-cider, food/ema-datshi, food/ginger-salad, food/imam-bayildi, food/sauteed-green-leeks, food/sermon-worthy-meuniere]
 tags: [ingredient, food, cooking]
 status: stable

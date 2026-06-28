@@ -2,5 +2,6 @@ id: paes-de-queijo
 category: food
 type: dish
 dish: "Paes de Queijo"
+related: [ingredients/cassava, ingredients/egg-of-elpis, ingredients/garlean-cheese, ingredients/mountain-salt, ingredients/ovibos-milk]
 tags: [food, cuisine]
 status: stable

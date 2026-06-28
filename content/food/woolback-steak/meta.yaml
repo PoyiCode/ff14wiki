@@ -2,5 +2,6 @@ id: woolback-steak
 category: food
 type: dish
 dish: "Woolback Steak"
+related: [ingredients/cooking-mezcal, ingredients/peppermint, ingredients/perilla-oil, ingredients/white-pepper, ingredients/woolback-loin]
 tags: [food, cuisine]
 status: stable

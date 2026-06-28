@@ -2,5 +2,6 @@ id: wildwood-scrambled-eggs
 category: food
 type: dish
 dish: "Wildwood Scrambled Eggs"
+related: [ingredients/abalathian-rock-salt, ingredients/brown-mushroom, ingredients/cyclops-onion, ingredients/heavensegg, ingredients/sweet-cream, ingredients/sweet-cream-milk]
 tags: [food, cuisine]
 status: stable

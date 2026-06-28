@@ -2,5 +2,6 @@ id: mist-spinach-saute
 category: food
 type: dish
 dish: "Mist Spinach Saute"
+related: [ingredients/fermented-butter, ingredients/mist-spinach, ingredients/night-pepper, ingredients/night-vinegar]
 tags: [food, cuisine]
 status: stable

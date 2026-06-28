@@ -2,5 +2,6 @@ id: yak-milk
 category: ingredients
 type: ingredient
 ingredient: "Yak Milk"
+related: [food/angler-stew, food/creme-brulee, food/fig-bavarois, food/frozen-spirits, food/golden-pineapple-juice, food/honey-croissant, food/hot-chocolate, food/ishgardian-muffin, food/ishgardian-tea, food/kaiser-roll, food/kingcake, food/kukuru-rusk, food/lemon-muffin, food/nut-bake, food/ovim-meatballs]
 tags: [ingredient, food, cooking]
 status: stable

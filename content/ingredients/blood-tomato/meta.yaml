@@ -2,5 +2,6 @@ id: blood-tomato
 category: ingredients
 type: ingredient
 ingredient: "Blood Tomato"
+related: [food/amra-salad, food/baked-eggplant, food/blood-bouillabaisse, food/blood-tomato-juice, food/blood-tomato-salad, food/calamari-ripieni, food/caviar-canapes, food/chili-crab, food/coconut-cod-chowder, food/elpis-deipnon, food/jhinga-curry, food/karniyarik, food/mushroom-skewer, food/pineapple-salad, food/pizza]
 tags: [ingredient, food, cooking]
 status: stable

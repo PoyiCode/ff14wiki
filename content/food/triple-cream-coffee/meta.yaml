@@ -2,5 +2,6 @@ id: triple-cream-coffee
 category: food
 type: dish
 dish: "Triple Cream Coffee"
+related: [ingredients/cinnamon, ingredients/maple-sugar, ingredients/mineral-water, ingredients/roasted-coffee-beans, ingredients/sweet-cream]
 tags: [food, cuisine]
 status: stable

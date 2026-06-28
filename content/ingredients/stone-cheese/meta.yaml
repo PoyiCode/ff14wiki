@@ -2,5 +2,6 @@ id: stone-cheese
 category: ingredients
 type: ingredient
 ingredient: "Stone Cheese"
+related: [food/loaghtan-cordon-bleu, food/priestly-omelette, food/spaghetti-carbonara]
 tags: [ingredient, food, cooking]
 status: stable

@@ -2,5 +2,6 @@ id: raw-oyster
 category: food
 type: dish
 dish: "Raw Oyster"
+related: [ingredients/sun-lemon]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: chicken-pasta
 category: food
 type: dish
 dish: "Chicken Pasta"
+related: [ingredients/cooking-mezcal, ingredients/garlean-cheese, ingredients/rumpless-chicken, ingredients/vermicelli, ingredients/yyasulani-garlic]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: mutton-loin
 category: ingredients
 type: ingredient
 ingredient: "Mutton Loin"
+related: [food/mutton-stew]
 tags: [ingredient, food, cooking]
 status: stable

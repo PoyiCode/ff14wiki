@@ -2,5 +2,6 @@ id: star-anise
 category: ingredients
 type: ingredient
 ingredient: "Star Anise"
+related: [food/shark-fin-soup, food/steamed-catfish, food/steamed-staff]
 tags: [ingredient, food, cooking]
 status: stable

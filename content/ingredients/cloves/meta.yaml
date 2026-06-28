@@ -2,5 +2,6 @@ id: cloves
 category: ingredients
 type: ingredient
 ingredient: "Cloves"
+related: [food/eel-pie, food/mulled-tea, food/spiced-cider, food/tailor-made-eel-pie]
 tags: [ingredient, food, cooking]
 status: stable

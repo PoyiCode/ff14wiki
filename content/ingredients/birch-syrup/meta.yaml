@@ -2,5 +2,6 @@ id: birch-syrup
 category: ingredients
 type: ingredient
 ingredient: "Birch Syrup"
+related: [food/almond-cream-croissant, food/apple-strudel, food/creme-brulee, food/flaugnarde, food/heavenly-eggnog, food/hot-chocolate, food/kingcake, food/marron-glace, food/mors, food/snurbleberry-tart, food/sweet-gnomefish]
 tags: [ingredient, food, cooking]
 status: stable

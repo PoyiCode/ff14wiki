@@ -2,5 +2,6 @@ id: flatbread
 category: food
 type: dish
 dish: "Flatbread"
+related: [ingredients/mineral-water, ingredients/rye-flour, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

@@ -2,5 +2,6 @@ id: honey-lemon
 category: ingredients
 type: ingredient
 ingredient: "Honey Lemon"
+related: [food/haddock-dip, food/rolanberry-cheesecake]
 tags: [ingredient, food, cooking]
 status: stable

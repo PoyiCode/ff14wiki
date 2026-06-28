@@ -2,5 +2,6 @@ id: smoked-raptor
 category: food
 type: dish
 dish: "Smoked Raptor"
+related: [ingredients/black-pepper, ingredients/olive-oil, ingredients/raptor-shank, ingredients/sun-lemon, ingredients/table-salt]
 tags: [food, cuisine]
 status: stable

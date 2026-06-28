@@ -2,5 +2,6 @@ id: rroneek-au-gratin
 category: food
 type: dish
 dish: "Rroneek au Gratin"
+related: [ingredients/alien-onion, ingredients/mountain-salt, ingredients/rroneek-milk, ingredients/upland-wheat-flour, ingredients/yyasulani-garlic]
 tags: [food, cuisine]
 status: stable

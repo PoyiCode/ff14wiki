@@ -2,5 +2,6 @@ id: dhalmel-gratin
 category: food
 type: dish
 dish: "Dhalmel Gratin"
+related: [ingredients/cyclops-onion, ingredients/dhalmel-meat, ingredients/highland-flour, ingredients/popoto, ingredients/ramhorn-zucchini, ingredients/sour-cream]
 tags: [food, cuisine]
 status: stable

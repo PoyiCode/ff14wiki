@@ -2,5 +2,6 @@ id: kukuru-rusk
 category: food
 type: dish
 dish: "Kukuru Rusk"
+related: [ingredients/kriollo-kukuru-bean, ingredients/upland-wheat-flour, ingredients/yak-milk]
 tags: [food, cuisine]
 status: stable

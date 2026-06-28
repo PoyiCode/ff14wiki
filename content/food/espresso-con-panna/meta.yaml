@@ -2,5 +2,6 @@ id: espresso-con-panna
 category: food
 type: dish
 dish: "Espresso con Panna"
+related: [ingredients/cinnamon, ingredients/coffee-beans, ingredients/garden-beet-sugar, ingredients/sour-cream]
 tags: [food, cuisine]
 status: stable
