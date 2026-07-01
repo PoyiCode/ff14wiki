@@ -5,6 +5,6 @@ rank: aetheryte
 parent: world/limsa-lominsa-lower-decks
 aethernet: "Fishermen's Guild"
 area: "Limsa Lominsa Lower Decks"
-related: [world/limsa-lominsa-lower-decks]
+related: [world/limsa-lominsa-lower-decks, professions/fisher]
 tags: [aethernet, aetheryte, travel, teleport]
 status: stable

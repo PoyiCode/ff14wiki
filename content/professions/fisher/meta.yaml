@@ -3,5 +3,6 @@ category: professions
 type: profession
 profession: "Fisher"
 discipline: land
+related: [world/fishermen-s-guild]
 tags: [profession, trade, gatherer]
 status: stable

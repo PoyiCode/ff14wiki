@@ -5,6 +5,6 @@ rank: aetheryte
 parent: world/ul-dah-steps-of-thal
 aethernet: "Alchemists' Guild"
 area: "Ul'dah - Steps of Thal"
-related: [world/ul-dah-steps-of-thal]
+related: [world/ul-dah-steps-of-thal, professions/alchemist]
 tags: [aethernet, aetheryte, travel, teleport]
 status: stable

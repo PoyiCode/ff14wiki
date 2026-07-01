@@ -3,5 +3,6 @@ category: professions
 type: profession
 profession: "Alchemist"
 discipline: hand
+related: [world/alchemists-guild]
 tags: [profession, trade, crafter]
 status: stable

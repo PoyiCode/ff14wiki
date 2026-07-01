@@ -3,5 +3,6 @@ category: professions
 type: profession
 profession: "Leatherworker"
 discipline: hand
+related: [world/leatherworkers-guild-shaded-bower]
 tags: [profession, trade, crafter]
 status: stable

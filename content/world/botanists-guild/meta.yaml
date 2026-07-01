@@ -5,6 +5,6 @@ rank: aetheryte
 parent: world/old-gridania
 aethernet: "Botanists' Guild"
 area: "Old Gridania"
-related: [world/old-gridania]
+related: [world/old-gridania, professions/botanist]
 tags: [aethernet, aetheryte, travel, teleport]
 status: stable

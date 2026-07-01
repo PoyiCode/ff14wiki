@@ -3,5 +3,6 @@ category: professions
 type: profession
 profession: "Botanist"
 discipline: land
+related: [world/botanists-guild]
 tags: [profession, trade, gatherer]
 status: stable

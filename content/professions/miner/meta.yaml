@@ -3,5 +3,6 @@ category: professions
 type: profession
 profession: "Miner"
 discipline: land
+related: [world/miners-guild]
 tags: [profession, trade, gatherer]
 status: stable

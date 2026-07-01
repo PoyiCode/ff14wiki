@@ -3,5 +3,6 @@ category: professions
 type: profession
 profession: "Goldsmith"
 discipline: hand
+related: [world/goldsmiths-guild]
 tags: [profession, trade, crafter]
 status: stable

@@ -3,5 +3,6 @@ category: professions
 type: profession
 profession: "Culinarian"
 discipline: hand
+related: [world/culinarians-guild]
 tags: [profession, trade, crafter]
 status: stable

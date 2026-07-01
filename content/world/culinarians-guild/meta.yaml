@@ -5,6 +5,6 @@ rank: aetheryte
 parent: world/limsa-lominsa-upper-decks
 aethernet: "Culinarians' Guild"
 area: "Limsa Lominsa Upper Decks"
-related: [world/limsa-lominsa-upper-decks]
+related: [world/limsa-lominsa-upper-decks, professions/culinarian]
 tags: [aethernet, aetheryte, travel, teleport]
 status: stable

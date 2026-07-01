@@ -3,5 +3,6 @@ category: professions
 type: profession
 profession: "Weaver"
 discipline: hand
+related: [world/weavers-guild]
 tags: [profession, trade, crafter]
 status: stable

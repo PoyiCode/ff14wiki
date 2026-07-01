@@ -5,6 +5,6 @@ rank: aetheryte
 parent: world/old-gridania
 aethernet: "Leatherworkers' Guild & Shaded Bower"
 area: "Old Gridania"
-related: [world/old-gridania]
+related: [world/old-gridania, professions/leatherworker]
 tags: [aethernet, aetheryte, travel, teleport]
 status: stable
